@@ -17,18 +17,13 @@
   
   <style>
     /* ==========================================================================
-       Font Faces (TW Punctuation, Iansui 芫荽體 & POJ Diacritics Fallback)
+       Font Faces (Iansui 芫荽體 & POJ Diacritics Fallback)
        ========================================================================== */
-    /* Force Traditional Taiwanese Full-Width Punctuation (Centered, True Full-Em) */
-    @font-face {
-      font-family: 'TW-Punctuation';
-      src: local('Noto Serif TC'), local('Microsoft JhengHei'), local('PingFang TC'), local('BiauKai');
-      unicode-range: U+3000-303F, U+FF00-FFEF, U+2018-201F;
-    }
-
     @font-face {
       font-family: 'Iansui';
-      src: url('https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/Iansui-Regular.ttf') format('truetype');
+      src: url('assets/fonts/Iansui-Regular.ttf') format('truetype'),
+           url('https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/fonts/ttf/Iansui-Regular.ttf') format('truetype'),
+           url('https://raw.githubusercontent.com/ButTaiwan/iansui/main/fonts/ttf/Iansui-Regular.ttf') format('truetype');
       font-weight: normal;
       font-style: normal;
       font-display: swap;
@@ -44,7 +39,7 @@
        CSS Variables & Themes (Light / Dark)
        ========================================================================== */
     :root {
-      --font-zh: 'TW-Punctuation', 'POJ-Fallback', 'Iansui', 'Noto Serif TC', 'Klee One', 'HanaMin', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
+      --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       
       --theme-color: #2c7a7b;
