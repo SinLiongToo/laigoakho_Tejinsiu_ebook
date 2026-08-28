@@ -231,24 +231,50 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     /* ==========================================================================
-       Sidebar & Collapsible Navigation Styling
+       Sidebar & Collapsible Navigation Styling (Wider & No Text Cut-Off)
        ========================================================================== */
+    :root {
+      --sidebar-width: 360px;
+    }
+
     .sidebar {
+      width: 360px !important;
       background-color: var(--bg-sidebar) !important;
-      border-right: 1px solid var(--border-color) !important;
+      border-right: 1.5px solid var(--border-color) !important;
       color: var(--text-primary) !important;
       font-size: 15px;
       font-family: var(--font-zh) !important;
       transition: all 0.3s ease;
+      padding: 0 0 40px 0;
+    }
+
+    .content {
+      left: 360px !important;
+      position: absolute !important;
+      right: 0 !important;
+      top: 0 !important;
+      bottom: 0 !important;
+      transition: left 0.3s ease;
+    }
+
+    body.close .content {
+      left: 0 !important;
+    }
+
+    body.close .sidebar {
+      transform: translateX(-360px) !important;
     }
 
     .sidebar ul li a {
       color: var(--text-secondary) !important;
-      padding: 6px 10px;
+      padding: 7px 12px;
       border-radius: 6px;
       display: block;
       font-family: var(--font-zh) !important;
       font-size: 14.5px;
+      line-height: 1.55;
+      white-space: normal !important;
+      word-break: break-word !important;
     }
 
     .sidebar ul li.active > a,
@@ -268,9 +294,58 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       cursor: pointer;
       font-weight: 700;
       color: var(--text-primary) !important;
-      padding: 8px 6px;
+      padding: 10px 10px 8px 10px;
       display: block;
       user-select: none;
+      white-space: normal !important;
+      word-break: break-word !important;
+      line-height: 1.5;
+    }
+
+    /* ==========================================================================
+       Custom Wide & High-Visibility Scrollbars (加粗好拉滑桿)
+       ========================================================================== */
+    .sidebar::-webkit-scrollbar,
+    body::-webkit-scrollbar,
+    .content::-webkit-scrollbar,
+    .markdown-section table::-webkit-scrollbar,
+    .sidebar .results-panel::-webkit-scrollbar {
+      width: 11px !important;
+      height: 11px !important;
+    }
+
+    .sidebar::-webkit-scrollbar-track,
+    body::-webkit-scrollbar-track,
+    .content::-webkit-scrollbar-track {
+      background: var(--bg-secondary) !important;
+      border-radius: 6px;
+    }
+
+    .sidebar::-webkit-scrollbar-thumb,
+    body::-webkit-scrollbar-thumb,
+    .content::-webkit-scrollbar-thumb {
+      background: #94a3b8 !important;
+      border-radius: 6px;
+      border: 2.5px solid var(--bg-secondary) !important;
+    }
+
+    .sidebar::-webkit-scrollbar-thumb:hover,
+    body::-webkit-scrollbar-thumb:hover,
+    .content::-webkit-scrollbar-thumb:hover {
+      background: var(--theme-color) !important;
+    }
+
+    [data-theme="dark"] .sidebar::-webkit-scrollbar-thumb,
+    [data-theme="dark"] body::-webkit-scrollbar-thumb,
+    [data-theme="dark"] .content::-webkit-scrollbar-thumb {
+      background: #64748b !important;
+      border-color: #111827 !important;
+    }
+
+    [data-theme="dark"] .sidebar::-webkit-scrollbar-thumb:hover,
+    [data-theme="dark"] body::-webkit-scrollbar-thumb:hover,
+    [data-theme="dark"] .content::-webkit-scrollbar-thumb:hover {
+      background: #2dd4bf !important;
     }
 
     /* One-Click Collapse / Expand Toolbar */
