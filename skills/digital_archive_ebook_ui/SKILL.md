@@ -122,20 +122,49 @@ function initTheme() {
 解決長篇名文字被截斷、支援目錄層級收合與一鍵展開：
 
 ```css
-/* 寬側邊欄 (360px) 與自動換行，防止音標/長標題被邊框截斷 */
-.sidebar {
-  width: 360px !important;
-  font-family: var(--font-zh) !important;
+/* 1. 桌機版目錄寬度 (360px) 與內容定位 (>= 769px) */
+@media screen and (min-width: 769px) {
+  .sidebar {
+    width: 360px !important;
+    font-family: var(--font-zh) !important;
+  }
+  .content {
+    left: 360px !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    transition: left 0.3s ease;
+  }
+  body.close .content { left: 0 !important; }
+  body.close .sidebar { transform: translateX(-360px) !important; }
 }
-.sidebar ul li a {
-  white-space: normal !important;
-  word-break: break-word !important;
-  line-height: 1.55;
+
+/* 2. 手機與平板響應式 RWD 側邊抽屜 (< 768px) */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 300px !important;
+    max-width: 82vw !important;
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    z-index: 999 !important;
+    transform: translateX(-100%) !important;
+    transition: transform 0.3s ease !important;
+    box-shadow: 4px 0 25px rgba(0, 0, 0, 0.3) !important;
+  }
+  body.close .sidebar { transform: translateX(0) !important; }
+  
+  .content {
+    left: 0 !important;
+    position: relative !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
 }
-.content {
-  left: 360px !important;
-}
-/* 11px 加粗高對比滑桿 (Scrollbar) */
+
+/* 3. 11px 加粗高對比滑桿 (Scrollbar) */
 .sidebar::-webkit-scrollbar, body::-webkit-scrollbar {
   width: 11px !important;
 }
