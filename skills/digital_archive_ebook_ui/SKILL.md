@@ -79,7 +79,7 @@ function initTheme() {
 ```
 
 ```css
-/* 深色模式變數與全元素強制覆寫 */
+/* 1. 全域深色模式變數與文字純白覆寫 */
 [data-theme="dark"] {
   --bg-primary: #0b0f19;
   --bg-secondary: #131b2e;
@@ -91,19 +91,60 @@ function initTheme() {
   --blockquote-border: #2dd4bf;
 }
 
+[data-theme="dark"] .markdown-section h1,
+[data-theme="dark"] .markdown-section h2,
+[data-theme="dark"] .markdown-section h3,
+[data-theme="dark"] .markdown-section h4 {
+  color: #ffffff !important;
+}
+
 [data-theme="dark"] .markdown-section p,
 [data-theme="dark"] .markdown-section li,
-[data-theme="dark"] .markdown-section span {
+[data-theme="dark"] .markdown-section span,
+[data-theme="dark"] .markdown-section div {
   color: #f8fafc !important;
 }
 
+[data-theme="dark"] .markdown-section strong {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+}
+
+/* 2. 深色模式超連結高亮 (天藍 #38bdf8 / 亮青 #67e8f9，杜絕暗藍撞色) */
+[data-theme="dark"] .markdown-section a {
+  color: #38bdf8 !important;
+}
+[data-theme="dark"] .markdown-section a:hover {
+  color: #67e8f9 !important;
+  text-decoration: underline;
+}
+
+/* 3. 引言框 (Blockquotes) 與全漢對照 */
 [data-theme="dark"] .markdown-section blockquote {
   background-color: #111b2b !important;
   border-left: 4.5px solid #2dd4bf !important;
   color: #ffffff !important;
 }
 
-/* 表格超清晰交錯斑馬紋 (Zebra Striping) */
+/* 4. 封面頁 (Coverpage) 沉浸式暗底漸層與高對比按鈕 */
+[data-theme="dark"] section.cover {
+  background: linear-gradient(135deg, #0b0f19 0%, #111827 50%, #0f172a 100%) !important;
+}
+[data-theme="dark"] section.cover .cover-main {
+  color: #ffffff !important;
+}
+[data-theme="dark"] section.cover .cover-main blockquote {
+  background: rgba(19, 27, 46, 0.7) !important;
+  color: #e2e8f0 !important;
+  border-left: 4px solid #2dd4bf !important;
+}
+[data-theme="dark"] section.cover .cover-main a.button {
+  background-color: #2dd4bf !important;
+  color: #0b0f19 !important;
+  font-weight: 700 !important;
+}
+
+/* 5. 表格超清晰交錯斑馬紋 (Zebra Striping) */
 [data-theme="dark"] .markdown-section table tr:nth-child(odd) {
   background-color: #0e1726 !important;
 }
