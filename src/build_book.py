@@ -43,8 +43,15 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
   
   <style>
     /* ==========================================================================
-       Font Faces (Iansui 芫荽體 & POJ Diacritics Fallback)
+       Font Faces (TW Punctuation, Iansui 芫荽體 & POJ Diacritics Fallback)
        ========================================================================== */
+    /* Force Traditional Taiwanese Full-Width Punctuation (Centered, True Full-Em) */
+    @font-face {
+      font-family: 'TW-Punctuation';
+      src: local('Noto Serif TC'), local('Microsoft JhengHei'), local('PingFang TC'), local('BiauKai');
+      unicode-range: U+3000-303F, U+FF00-FFEF, U+2018-201F;
+    }
+
     @font-face {
       font-family: 'Iansui';
       src: url('https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/Iansui-Regular.ttf') format('truetype');
@@ -63,7 +70,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
        CSS Variables & Themes (Light / Dark)
        ========================================================================== */
     :root {
-      --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-zh: 'TW-Punctuation', 'POJ-Fallback', 'Iansui', 'Noto Serif TC', 'Klee One', 'HanaMin', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
       --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       
       --theme-color: #2c7a7b;
@@ -174,34 +181,80 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     /* ==========================================================================
-       Responsive Tables
+       Responsive & High-Contrast Tables (Light & Dark Mode)
        ========================================================================== */
     .markdown-section table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-      display: block;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      border: 1px solid var(--border-color);
+      width: 100% !important;
+      border-collapse: collapse !important;
+      margin: 20px 0 !important;
+      display: table !important;
+      border: 1.5px solid var(--border-color) !important;
+      background-color: var(--bg-primary) !important;
       border-radius: 8px;
     }
 
     .markdown-section table th {
-      background-color: var(--table-th-bg) !important;
-      color: var(--text-primary) !important;
-      font-weight: 600;
-      padding: 12px 14px;
-      border: 1px solid var(--border-color);
+      background-color: #edf2f7 !important;
+      color: #0f172a !important;
+      font-weight: 700 !important;
+      padding: 11px 14px !important;
+      border: 1px solid #cbd5e1 !important;
       white-space: nowrap;
       font-family: var(--font-zh) !important;
+      text-align: left !important;
+    }
+
+    .markdown-section table tr {
+      background-color: #ffffff !important;
+      border-top: 1px solid #e2e8f0 !important;
+    }
+
+    .markdown-section table tr:nth-child(2n) {
+      background-color: #f8fafc !important;
     }
 
     .markdown-section table td {
-      padding: 10px 14px;
-      border: 1px solid var(--border-color);
-      color: var(--text-primary) !important;
+      padding: 10px 14px !important;
+      border: 1px solid #e2e8f0 !important;
+      color: #1e293b !important;
       font-family: var(--font-zh) !important;
+    }
+
+    /* Dark Mode Table - Super Crisp Alternating Rows (交錯行極致對比) */
+    [data-theme="dark"] .markdown-section table {
+      background-color: #0b0f19 !important;
+      border: 1.5px solid #374151 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table th {
+      background-color: #1e293b !important;
+      color: #ffffff !important;
+      font-weight: 700 !important;
+      border: 1px solid #475569 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table tr,
+    [data-theme="dark"] .markdown-section table tr:nth-child(odd) {
+      background-color: #0e1726 !important;
+      border-top: 1px solid #374151 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table tr:nth-child(2n),
+    [data-theme="dark"] .markdown-section table tr:nth-child(even) {
+      background-color: #1e293b !important; /* Clearly distinct bright-dark blue-gray row */
+    }
+
+    [data-theme="dark"] .markdown-section table tr:hover {
+      background-color: #334155 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table td {
+      color: #ffffff !important; /* Pure crisp bright white text */
+      border: 1px solid #374151 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table td strong {
+      color: #ffffff !important;
     }
 
     /* ==========================================================================
