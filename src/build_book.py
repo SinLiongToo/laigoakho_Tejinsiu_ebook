@@ -33,14 +33,38 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
   <meta name="description" content="1917 內外科看護學 (Lāi Gōa Kho Khàn-hō͘-ha̍k) 全書台語白話字 AI OCR、全漢字逐段對照與原書解剖插圖電子書">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
   
+  <!-- Web Fonts (Iansui 芫荽體, HanaMin, Klee One, Noto Serif TC, Roboto) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hanamin@0.0.5/HanaMin.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Noto+Serif+TC:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  
   <!-- Docsify Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
     /* ==========================================================================
+       Font Faces (Iansui 芫荽體 & POJ Diacritics Fallback)
+       ========================================================================== */
+    @font-face {
+      font-family: 'Iansui';
+      src: url('https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/Iansui-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: 'POJ-Fallback';
+      src: local('-apple-system'), local('Roboto'), local('Segoe UI'), local('Arial'), local('Helvetica Neue');
+      unicode-range: U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F;
+    }
+
+    /* ==========================================================================
        CSS Variables & Themes (Light / Dark)
        ========================================================================== */
     :root {
+      --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      
       --theme-color: #2c7a7b;
       --theme-accent: #319795;
       
@@ -78,13 +102,13 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     /* ==========================================================================
-       Base Typography & Smooth Transitions
+       Base Typography & Layout
        ========================================================================== */
     body {
       background-color: var(--bg-primary) !important;
       color: var(--text-primary) !important;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
-      font-size: 16.5px;
+      font-family: var(--font-zh) !important;
+      font-size: 17px;
       line-height: 1.85;
       transition: background-color 0.3s ease, color 0.3s ease;
       -webkit-font-smoothing: antialiased;
@@ -94,6 +118,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       max-width: 900px;
       padding: 30px 24px 80px 24px !important;
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section h1, 
@@ -101,6 +126,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     .markdown-section h3, 
     .markdown-section h4 {
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
       font-weight: 700;
     }
 
@@ -130,8 +156,9 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       margin: 16px 0 24px 0;
       border-radius: 0 8px 8px 0;
       box-shadow: var(--card-shadow);
-      font-size: 16px;
+      font-size: 16.5px;
       line-height: 1.8;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section blockquote p {
@@ -160,12 +187,14 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       padding: 12px 14px;
       border: 1px solid var(--border-color);
       white-space: nowrap;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section table td {
       padding: 10px 14px;
       border: 1px solid var(--border-color);
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
     }
 
     /* ==========================================================================
@@ -201,7 +230,8 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       background-color: var(--bg-sidebar) !important;
       border-right: 1px solid var(--border-color) !important;
       color: var(--text-primary) !important;
-      font-size: 14.5px;
+      font-size: 15px;
+      font-family: var(--font-zh) !important;
       transition: all 0.3s ease;
     }
 
@@ -210,6 +240,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       padding: 6px 12px;
       border-radius: 6px;
       display: block;
+      font-family: var(--font-zh) !important;
     }
 
     .sidebar ul li.active > a,
@@ -231,6 +262,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       border-radius: 6px;
       padding: 8px 12px;
       width: 100%;
+      font-family: var(--font-zh) !important;
     }
 
     /* ==========================================================================
@@ -268,13 +300,13 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     @media screen and (max-width: 768px) {
       .markdown-section {
         padding: 20px 16px 60px 16px !important;
-        font-size: 15.5px;
+        font-size: 16px;
       }
       
       .markdown-section blockquote {
         padding: 12px 14px;
         margin: 14px 0;
-        font-size: 15px;
+        font-size: 15.5px;
       }
 
       #theme-toggle-btn {
@@ -423,7 +455,7 @@ def build_chapters():
     book_structure = load_book_structure()
     sections = book_structure["sections"]
     
-    print("🔨 開始聚合章節 Markdown 文件至 docs/ (含插圖自動嵌入)...")
+    print("🔨 開始聚合章節 Markdown 文件至 docs/ (含插圖自動嵌入與字體更新)...")
     
     sidebar_items = defaultdict(list)
     total_words = 0
@@ -519,6 +551,7 @@ def build_chapters():
 
 - 台灣長老教會早期現代醫學經典
 - 705 頁全書完整收錄：英文題辭序言、白話字正文 40 章、原書解剖插圖、三語語彙表與索引
+- 採用 Iansui 芫荽體與台文最佳化字型排版
 - 採用 Gemini 3.7 Flash 深度多模態視覺佈局辨識與精密校注
 
 [開始閱讀 (Get Started)](README.md)
@@ -543,7 +576,8 @@ def build_chapters():
 2. **正文 40 章逐段對照**：全書 705 頁高精度白話字（POJ）與台語全漢字逐段並列。
 3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
-5. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、全文搜尋與目錄導覽。
+5. **台語典藏最佳化字型**：採用 **Iansui 芫荽體**、**HanaMin**、**Klee One** 與 **Noto Serif TC**，完美呈現白話字調號與漢字。
+6. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、全文搜尋與目錄導覽。
 
 ---
 

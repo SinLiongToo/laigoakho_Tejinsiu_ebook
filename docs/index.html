@@ -7,14 +7,38 @@
   <meta name="description" content="1917 內外科看護學 (Lāi Gōa Kho Khàn-hō͘-ha̍k) 全書台語白話字 AI OCR、全漢字逐段對照與原書解剖插圖電子書">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
   
+  <!-- Web Fonts (Iansui 芫荽體, HanaMin, Klee One, Noto Serif TC, Roboto) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hanamin@0.0.5/HanaMin.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Noto+Serif+TC:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  
   <!-- Docsify Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
   <style>
     /* ==========================================================================
+       Font Faces (Iansui 芫荽體 & POJ Diacritics Fallback)
+       ========================================================================== */
+    @font-face {
+      font-family: 'Iansui';
+      src: url('https://cdn.jsdelivr.net/gh/ButTaiwan/iansui@main/Iansui-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+
+    @font-face {
+      font-family: 'POJ-Fallback';
+      src: local('-apple-system'), local('Roboto'), local('Segoe UI'), local('Arial'), local('Helvetica Neue');
+      unicode-range: U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F;
+    }
+
+    /* ==========================================================================
        CSS Variables & Themes (Light / Dark)
        ========================================================================== */
     :root {
+      --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      
       --theme-color: #2c7a7b;
       --theme-accent: #319795;
       
@@ -52,13 +76,13 @@
     }
 
     /* ==========================================================================
-       Base Typography & Smooth Transitions
+       Base Typography & Layout
        ========================================================================== */
     body {
       background-color: var(--bg-primary) !important;
       color: var(--text-primary) !important;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
-      font-size: 16.5px;
+      font-family: var(--font-zh) !important;
+      font-size: 17px;
       line-height: 1.85;
       transition: background-color 0.3s ease, color 0.3s ease;
       -webkit-font-smoothing: antialiased;
@@ -68,6 +92,7 @@
       max-width: 900px;
       padding: 30px 24px 80px 24px !important;
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section h1, 
@@ -75,6 +100,7 @@
     .markdown-section h3, 
     .markdown-section h4 {
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
       font-weight: 700;
     }
 
@@ -104,8 +130,9 @@
       margin: 16px 0 24px 0;
       border-radius: 0 8px 8px 0;
       box-shadow: var(--card-shadow);
-      font-size: 16px;
+      font-size: 16.5px;
       line-height: 1.8;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section blockquote p {
@@ -134,12 +161,14 @@
       padding: 12px 14px;
       border: 1px solid var(--border-color);
       white-space: nowrap;
+      font-family: var(--font-zh) !important;
     }
 
     .markdown-section table td {
       padding: 10px 14px;
       border: 1px solid var(--border-color);
       color: var(--text-primary) !important;
+      font-family: var(--font-zh) !important;
     }
 
     /* ==========================================================================
@@ -175,7 +204,8 @@
       background-color: var(--bg-sidebar) !important;
       border-right: 1px solid var(--border-color) !important;
       color: var(--text-primary) !important;
-      font-size: 14.5px;
+      font-size: 15px;
+      font-family: var(--font-zh) !important;
       transition: all 0.3s ease;
     }
 
@@ -184,6 +214,7 @@
       padding: 6px 12px;
       border-radius: 6px;
       display: block;
+      font-family: var(--font-zh) !important;
     }
 
     .sidebar ul li.active > a,
@@ -205,6 +236,7 @@
       border-radius: 6px;
       padding: 8px 12px;
       width: 100%;
+      font-family: var(--font-zh) !important;
     }
 
     /* ==========================================================================
@@ -242,13 +274,13 @@
     @media screen and (max-width: 768px) {
       .markdown-section {
         padding: 20px 16px 60px 16px !important;
-        font-size: 15.5px;
+        font-size: 16px;
       }
       
       .markdown-section blockquote {
         padding: 12px 14px;
         margin: 14px 0;
-        font-size: 15px;
+        font-size: 15.5px;
       }
 
       #theme-toggle-btn {
