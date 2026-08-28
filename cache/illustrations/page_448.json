@@ -1,0 +1,26 @@
+{
+  "page_number": 448,
+  "processed_at": "2026-08-28T07:47:42.144913",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        186,
+        196,
+        492,
+        759
+      ],
+      "caption": "Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders)."
+    },
+    {
+      "box_2d": [
+        524,
+        660,
+        853,
+        819
+      ],
+      "caption": "(J.O)\nTē 302 tô:—Iâm-chúi-chù-jip-khì."
+    }
+  ]
+}

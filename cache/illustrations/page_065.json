@@ -1,0 +1,26 @@
+{
+  "page_number": 65,
+  "processed_at": "2026-08-28T06:49:46.204260",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        190,
+        138,
+        498,
+        415
+      ],
+      "caption": "Tē 43 tô.—Ūi-ėk-chôaⁿ: Chit ê tô sī beh chí-bêng ūi-ėk-chôaⁿ kap mñg-sòe-huih-kńg ū chhin-ji̍t ê kan-sia̍p. V, chēng-me̍h-kńg; A, tōng-me̍h-kńg ; 1, Ūi ê lāi-bīn ; 2 ūi-ėk-chôaⁿ-kńg ; 3 ūi-ėk-chôaⁿ ê sòe-pau teh hun-pì sng-sèng ê ūi-ėk. (From Lewis' “Anatomy and Physiology for Nurses.”)"
+    },
+    {
+      "box_2d": [
+        464,
+        614,
+        769,
+        790
+      ],
+      "caption": "Tē 44 tô.—Chit ê tô sī chhin-chhiūⁿ tē 42, chòng-sī tī chia ū ūi-līm-pa-kńg (L) ; 2, ūi-ėk-chôaⁿ-kńg."
+    }
+  ]
+}

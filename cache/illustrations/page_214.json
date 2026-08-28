@@ -1,0 +1,26 @@
+{
+  "page_number": 214,
+  "processed_at": "2026-08-28T07:13:39.540092",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        289,
+        244,
+        522,
+        836
+      ],
+      "caption": "Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's \"Practical Points in Nursing,\" by permission of W. B. Saunders Co., publishers.)"
+    },
+    {
+      "box_2d": [
+        593,
+        248,
+        757,
+        823
+      ],
+      "caption": "Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney)."
+    }
+  ]
+}

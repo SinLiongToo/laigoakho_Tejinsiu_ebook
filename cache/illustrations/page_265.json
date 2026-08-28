@@ -1,0 +1,35 @@
+{
+  "page_number": 265,
+  "processed_at": "2026-08-28T07:20:59.156607",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        131,
+        280,
+        373,
+        770
+      ],
+      "caption": "164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām."
+    },
+    {
+      "box_2d": [
+        383,
+        279,
+        625,
+        776
+      ],
+      "caption": "165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih."
+    },
+    {
+      "box_2d": [
+        633,
+        280,
+        875,
+        804
+      ],
+      "caption": "166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon)."
+    }
+  ]
+}

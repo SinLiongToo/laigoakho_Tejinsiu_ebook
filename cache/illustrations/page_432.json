@@ -1,0 +1,26 @@
+{
+  "page_number": 432,
+  "processed_at": "2026-08-28T07:45:24.082608",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        215,
+        469,
+        400,
+        802
+      ],
+      "caption": "Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless)."
+    },
+    {
+      "box_2d": [
+        471,
+        99,
+        803,
+        273
+      ],
+      "caption": "Tē 282a tô.—Doyen-sī ūi-khîⁿ."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "page_number": 376,
+  "processed_at": "2026-08-28T07:37:18.173157",
+  "model": "gemini-3.7-flash",
+  "figure_count": 4,
+  "figures": [
+    {
+      "box_2d": [
+        230,
+        240,
+        410,
+        723
+      ],
+      "caption": "Tē 229 tô· (Heath)."
+    },
+    {
+      "box_2d": [
+        462,
+        193,
+        691,
+        437
+      ],
+      "caption": "230\nTē 230 tô·.—Ū-kak ê hù-bók."
+    },
+    {
+      "box_2d": [
+        467,
+        517,
+        679,
+        756
+      ],
+      "caption": "231\nTē 231 tô·.—Chiàⁿ-chhiú kah lāi-kak hù-bók (Sanders)."
+    },
+    {
+      "box_2d": [
+        760,
+        261,
+        835,
+        705
+      ],
+      "caption": "Tē 232 tô·.—Carr-sī ê hù-bók (Heath)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 59,
+  "processed_at": "2026-08-28T06:48:45.382736",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        137,
+        444,
+        361,
+        786
+      ],
+      "caption": "Tē 36 tô:—Leng-khí tò-pêng ê chhùi-khí : A, tē it mñg-khí ; B, tē jī mñg-khí ; CH, káu-khí; CHH, tē it sió-khū-khí; E, tē jī sió-khū-khí. Chiah ê sò·-jī ê hō-thâu sī chí sím-mih géh hoat-chhut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)"
+    },
+    {
+      "box_2d": [
+        478,
+        145,
+        767,
+        765
+      ],
+      "caption": "Tē 37 tô:—Chiàⁿ-pêng kú-sèng-khí ê khí-lia̍t, tùi gōa-bīn khòaⁿ-ê : 1, tē saⁿ tōa-khū-khí (tì-khí) ; 2, 3, tē jī kap tē it tōa-khū-khí ; 4, 5, tē jī kap tē it sió-khū-khí ; 6, káu-khí ; 7, 8, tē jī kap tē it mñg-khí (Cunningham)."
+    }
+  ]
+}

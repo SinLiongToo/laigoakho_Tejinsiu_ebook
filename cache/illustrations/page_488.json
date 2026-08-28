@@ -1,0 +1,35 @@
+{
+  "page_number": 488,
+  "processed_at": "2026-08-28T07:53:48.063710",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        207,
+        122,
+        505,
+        476
+      ],
+      "caption": "Tē 381 tô. (Heath)."
+    },
+    {
+      "box_2d": [
+        631,
+        139,
+        731,
+        406
+      ],
+      "caption": "Tē 382 tô."
+    },
+    {
+      "box_2d": [
+        633,
+        533,
+        732,
+        795
+      ],
+      "caption": "Tē 383 tô."
+    }
+  ]
+}

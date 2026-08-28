@@ -1,0 +1,26 @@
+{
+  "page_number": 44,
+  "processed_at": "2026-08-28T06:46:20.279771",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        248,
+        189,
+        421,
+        656
+      ],
+      "caption": "Tē 21 tô:—Kha kut tùi lāi-bīn pêng kā i khòan : 1, kēng-kut ê lāi-khòa ; 2, kun-kut ; 3, hû-kut ; 4, chek-kut ; 5, chí-kut ; 6, kiô ê āu-bīn kha ; 7, kiô ê thâu-chêng kha."
+    },
+    {
+      "box_2d": [
+        558,
+        474,
+        756,
+        856
+      ],
+      "caption": "Tē 22 tô:—Píⁿ-pîⁿ-kha (Rose and Carless)."
+    }
+  ]
+}

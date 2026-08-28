@@ -1,0 +1,26 @@
+{
+  "page_number": 375,
+  "processed_at": "2026-08-28T07:37:08.224533",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        265,
+        227,
+        518,
+        696
+      ],
+      "caption": "Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)"
+    },
+    {
+      "box_2d": [
+        684,
+        571,
+        745,
+        898
+      ],
+      "caption": "Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney)."
+    }
+  ]
+}

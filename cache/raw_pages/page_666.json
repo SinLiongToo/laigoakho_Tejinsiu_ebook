@@ -1,0 +1,13 @@
+{
+  "page_number": 666,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T05:58:39.968843",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 10.47,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Cheng-bō-piān-pì-só-put-choân | 僧帽瓣閉鎖不全 | Mitral regurgitation. | |\n| Cheng-chìn-kî | 增進期 | Period of invasion. | |\n| Cheng-hoat | 蒸發 | Evaporation. | |\n| Cheng-hoat-che | 蒸發劑 | Evaporating lotion | |\n| Cheng-khì-e̍k | 蒸氣浴 | Vapour bath. | |\n| Cheng-khū-koan-chat | 舂臼關節 | Ball-and-socket joint. | |\n| Cheng-liû-chúi | 蒸餾水 | Distilled water. | |\n| Chéng-ióng | 腫瘍 | Tumour. | |\n| Chéng-tiùⁿ | 腫脹 | Swollen. | |\n| Chêng-chhiòng-jīm-tài | 前縱靱帶 | Anterior longitudinal ligament. | |\n| Chêng-āu-chhiòng-lia̍t | 前後縱裂 | Spinal cord, longitudinal fissure of. | |\n| Chêng-pông-thiok-lâng-chèng | 前房蓄膿症 | Hypopyon. | |\n| Chêng-phok-kut | 前膊骨 | Forearm | |\n| Chêng-siōng-kek | 前上棘 | Anterior superior spine. | |\n| Chêng-tîaⁿ | 前庭 | Vestibulum oris. | |\n| Chēng-me̍h-chhiat-khui-su̍t | 靜脈切開術 | Venesection. | |\n| Chēng-me̍h-iām | 靜脈炎 | Phlebitis. | |\n| Chēng-me̍h-lāi-chù-ji̍p-hoat | 靜脈內注入法 | Intravenous infusion. | |\n| Chēng-me̍h-lō-tiong | 靜脈怒張 | Varicose veins. | |\n| Chēng-me̍h-piān | 靜脈瓣 | Valves in veins. | |\n| Chi-tiám | 支點 | Fulcrum. | |\n| Chi-hóng-sim-chōng | 脂肪心臟 | Fatty heart. | |\n| Chí-huih-io̍h | 止血藥 | Styptics. | |\n| Chí-huih-khì | 止血器 | Tourniquet. | |\n| Chí-pan pīⁿ | 紫班病 | Purpura. | |\n| Chì-hû-su-jia̍t | 窒扶斯熱 | Typhus Fever. | |\n| Chiàⁿ-kui-me̍h | 正規脈 | Regular pulse. | |\n| Chiàⁿ-sī-gán | 正視眼 | Normal-vision eye. | |\n| Chia̍h-khún-sè-pau | 食菌細胞 | Phagocytes. | |\n| Chia̍h-mi̍h-pân | 食物瓶 | Feeder. | |\n| Chia̍h-tō | 食道 | Œsophagus. | |\n| Chia̍h-tō-hia̍p-chek | 食道狹窄 | Stricture of œsophagus. | |\n| Chia̍h-tō-iām | 食道炎 | Inflammation of œsophagus. | |\n| Chiam-bōng | 譫妄 | Delirium. | |",
+  "error": null
+}

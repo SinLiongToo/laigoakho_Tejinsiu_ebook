@@ -1,0 +1,26 @@
+{
+  "page_number": 349,
+  "processed_at": "2026-08-28T07:33:14.405345",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        404,
+        250,
+        510,
+        510
+      ],
+      "caption": "192 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)"
+    },
+    {
+      "box_2d": [
+        398,
+        592,
+        510,
+        832
+      ],
+      "caption": "193 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)"
+    }
+  ]
+}

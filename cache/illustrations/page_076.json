@@ -1,0 +1,26 @@
+{
+  "page_number": 76,
+  "processed_at": "2026-08-28T06:51:25.824958",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        206,
+        93,
+        441,
+        327
+      ],
+      "caption": "Tē 49 tô:—1, huih-chiuⁿ; 2, peh-huih-kiû; 3, chhiah-huih-kiû. Tioh khòaⁿ tē 60 bīn."
+    },
+    {
+      "box_2d": [
+        544,
+        501,
+        807,
+        893
+      ],
+      "caption": "Tē 50 tô:—Huih, hián-bî-kiàⁿ 350 pē khok-tōa: a, chhiah-huih-kiû, tùi pīⁿ-á khòaⁿ; b, chhiah-huih-kiû, pīⁿ-pīⁿ kā khòaⁿ; c, peh-huih-kiû; e, huih-sió-pán (Blackie and Son)."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_number": 396,
+  "processed_at": "2026-08-28T07:40:16.552204",
+  "model": "gemini-3.7-flash",
+  "figure_count": 5,
+  "figures": [
+    {
+      "box_2d": [
+        217,
+        188,
+        290,
+        584
+      ],
+      "caption": "Tē 250 tô:—Hông-chhái-ngoeh-á."
+    },
+    {
+      "box_2d": [
+        223,
+        676,
+        483,
+        825
+      ],
+      "caption": "Tē 251 tô:—Hông-chhái-chián-to."
+    },
+    {
+      "box_2d": [
+        287,
+        129,
+        477,
+        651
+      ],
+      "caption": "Tē 252 tô:—Khui-kiám-khì."
+    },
+    {
+      "box_2d": [
+        510,
+        366,
+        574,
+        801
+      ],
+      "caption": "Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á."
+    },
+    {
+      "box_2d": [
+        550,
+        114,
+        846,
+        295
+      ],
+      "caption": "Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to."
+    }
+  ]
+}

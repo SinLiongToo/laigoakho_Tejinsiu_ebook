@@ -1,0 +1,13 @@
+{
+  "page_number": 664,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T05:58:28.488363",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 11.16,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Ài-áu, | 欲嘔 | Nausea. | |\n| Amœba sèng chhiah-lī, | Amœba 性赤痢 | Amœbic Dysentery. | |\n| An-bú-io̍h, | 安撫藥 | Sedatives. | |\n| An-chēng-liāu-hoat, | 安靜療法 | Rest. | |\n| An-jiân-pín-chiam, | 安然針 | Safety-pin. | |\n| Àn-mô͘, | 按摩 | Massage. | |\n| Âng ê chhì-giām-chóa ê hoán-èng, | 反應 | Red litmus paper reaction. | |\n| Ap-le̍k, | 壓力 | Pressure. | |\n| Áu-thò͘, | 嘔吐 | Vomiting. | |\n| Âu-thâu, | 喉頭 | Larynx. | |\n| Âu-thâu-chhiat-khui-sùt, | 喉頭截開術 | Laryngotomy. | |\n| Âu-thâu-iām, | 喉頭炎 | Laryngitis. | |\n| Âu-thâu-keng-loân, | 喉頭痙攣 | Spasmodic laryngitis. | |\n| Âu-thâu-pì-that, | 喉頭閉塞 | Laryngeal obstruction. | |\n| Āu-thâu-kut, | 後頭骨 | Occipital bone. | |\n| Bâ-chùi-io̍h, | 麻醉藥 | Anæsthetic drug. | |\n| Bâ-pì, | 痲痺 | Paralysis. | |\n| Bah-chéng, | 肉腫 | Sarcoma. | |\n| Bah-chiap, | 肉汁 | Beef-juice. | |\n| Bah-gê-cho͘-chit, | 肉芽組織 | Granulation tissue. | |\n| Bān-sèng chhiah-lī, | 慢性赤痢 | Chronic dysentery. | |\n| Bān-sèng hā-lī, | 慢性下痢 | Chronic diarrhœa. | |\n| Bān-sèng khì-kńg-chi-iām (ka-tap-jî), | 慢性氣管枝炎 (加答兒) | Chronic bronchitis (catarrh). | |\n| Bān-sèng pông-kong-iām (ka-tap-jî), | 慢性膀胱炎 (加答兒) | Chronic cystitis (catarrh). | |\n| Bān-sèng sīn-chōng-iām, | 慢性腎臟炎 | Chronic nephritis. | |\n| Bān-sèng ūi-iām (ka-tap-jî), | 慢性胃炎 (加答兒) | Chronic gastritis. | |",
+  "error": null
+}

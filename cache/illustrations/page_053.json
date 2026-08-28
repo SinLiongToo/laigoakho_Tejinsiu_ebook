@@ -1,0 +1,26 @@
+{
+  "page_number": 53,
+  "processed_at": "2026-08-28T06:47:43.553221",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        201,
+        187,
+        412,
+        734
+      ],
+      "caption": "Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)"
+    },
+    {
+      "box_2d": [
+        535,
+        541,
+        897,
+        800
+      ],
+      "caption": "Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)"
+    }
+  ]
+}

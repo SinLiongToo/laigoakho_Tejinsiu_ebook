@@ -1,0 +1,26 @@
+{
+  "page_number": 279,
+  "processed_at": "2026-08-28T07:23:09.681844",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        358,
+        238,
+        391,
+        813
+      ],
+      "caption": "Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)"
+    },
+    {
+      "box_2d": [
+        427,
+        260,
+        520,
+        815
+      ],
+      "caption": "Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C."
+    }
+  ]
+}

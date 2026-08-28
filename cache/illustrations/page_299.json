@@ -1,0 +1,26 @@
+{
+  "page_number": 299,
+  "processed_at": "2026-08-28T07:26:01.409224",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        136,
+        246,
+        715,
+        511
+      ],
+      "caption": "A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió."
+    },
+    {
+      "box_2d": [
+        136,
+        573,
+        714,
+        833
+      ],
+      "caption": "B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió."
+    }
+  ]
+}

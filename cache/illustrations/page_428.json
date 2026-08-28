@@ -1,0 +1,44 @@
+{
+  "page_number": 428,
+  "processed_at": "2026-08-28T07:44:48.783380",
+  "model": "gemini-3.7-flash",
+  "figure_count": 4,
+  "figures": [
+    {
+      "box_2d": [
+        159,
+        227,
+        470,
+        412
+      ],
+      "caption": "Tē 275 tô.—Hoán-chián-to."
+    },
+    {
+      "box_2d": [
+        142,
+        549,
+        453,
+        741
+      ],
+      "caption": "Tē 276 tô:—Chiam-chián-to."
+    },
+    {
+      "box_2d": [
+        550,
+        143,
+        698,
+        800
+      ],
+      "caption": "Tē 277 tô:—Tit-chián-to."
+    },
+    {
+      "box_2d": [
+        792,
+        264,
+        840,
+        672
+      ],
+      "caption": "Tē 278 tô:—Gōa-kho-ngoeh-á."
+    }
+  ]
+}

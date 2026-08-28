@@ -1,0 +1,17 @@
+{
+  "page_number": 392,
+  "processed_at": "2026-08-28T07:39:33.462811",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        345,
+        602,
+        447,
+        800
+      ],
+      "caption": "Tē 244 tô.-Trachoma\n(Nettleship)."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "page_number": 680,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:01:20.963771",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 9.29,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Khak-huih, | 咯血 | Hæmoptysis. | |\n| Khan-ín-hoat, | 牽引法 | Extension. | |\n| Khang-tn̂g, | 空腸 | Jejunum. | |\n| Khang-tōng, | 腔洞 | Cavity. | |\n| Khe-liû-jia̍t, | 稽留熱 | Continued fever. | |\n| Kheng-khoài-kî, | 輕快期 | Convalescence. | |\n| Khí-chô-kut-mo̍h, | 齒槽骨膜 | Alveolar periosteum. | |\n| Khí-chōng-tu̍t-khí, | 齒狀突起 | Odontoid process. | |\n| Khí-khang, | 齒腔 | Pulp-cavity. | |\n| Khí-sí, | 起始 | Origin (of muscle). | |\n| Khì-kńg-chi-chhoán-sek, | 氣管枝喘息 | Bronchial asthma. | |\n| Khì-kńg-chi-hì-iām, | 氣管枝肺炎 | Broncho-pneumonia. | |\n| Khì-kńg-chi-iām, | 氣管枝炎 | Bronchitis. | |\n| Khì-kńg-chi-khok-tiong, | 氣管枝擴張 | Bronchiectasis. | |\n| Khì-kńg-chhiat-khui-su̍t, | 氣管切開術 | Tracheotomy. | |\n| Khî ê cho͘-chit, | 瘢痕組織 | Scar tissue. | |\n| Khip-ín-khì, | 吸引器 | Aspirator. | |\n| Khip-ji̍p, | 吸入 | Inspiration. | |\n| Khip-ji̍p-hoat, | 吸入法 | Inhalation. | |\n| Khip-kak, | 吸角 | Cupping-glass. | |\n| Khip-kak-tī-liâu-hoat, | 吸角治療法 | Cupping. | |\n| Khip-koáiⁿ, | 吸桿 | Piston of syringe. | |\n| Khip-siu, | 吸收 | Absorb, absorption. | |\n| Khip-siu-khì hē-thóng, | 吸收器系統 | Absorptive system. | |\n| Khiu-chín, | 丘疹 | Papule, | |\n| Kho-ha̍k, | 科學 | Science. | |\n| Khó-tōng-koan-chat, | 可動關節 | Movable joint. | |\n| Kho͘-eh, | 噦逆 | Hiccough. | |\n| Khoân-chōng, | 環狀 | Like a ring. | |\n| Khoân-chōng-nńg-kut, | 環狀軟骨 | Cricoid cartilage. | |\n| Khok-tiong, | 擴張 | Dilatation. | |\n| Khong-khì pump, | 空氣ポンプ | Air pump. | |\n| Khòng-to̍k-huih-chheng, | 抗毒血清 | Antitoxic serum. | |\n| Khòng-to̍k-sò͘, | 抗毒素 | Antitoxin. | |\n| Khu-hong-io̍h, | 驅風藥 | Carminative drug. | |",
+  "error": null
+}

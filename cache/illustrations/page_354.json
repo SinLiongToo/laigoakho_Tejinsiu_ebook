@@ -1,0 +1,17 @@
+{
+  "page_number": 354,
+  "processed_at": "2026-08-28T07:33:59.953602",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        313,
+        128,
+        642,
+        812
+      ],
+      "caption": "Tē 200—203 tô. (From Preston, “The Triangular Bandage,” by permission of John Bale, Sons and Danielsson, Ltd., publishers.)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_number": 355,
+  "processed_at": "2026-08-28T07:34:09.414527",
+  "model": "gemini-3.7-flash",
+  "figure_count": 5,
+  "figures": [
+    {
+      "box_2d": [
+        136,
+        353,
+        367,
+        770
+      ],
+      "caption": "Tē 204 tô.—Chhih kó͘-tōng-me̍h."
+    },
+    {
+      "box_2d": [
+        411,
+        222,
+        561,
+        513
+      ],
+      "caption": "205\nTē 205 tô.—Chhih chhek-kok-tōng-me̍h ê hoat."
+    },
+    {
+      "box_2d": [
+        393,
+        593,
+        570,
+        878
+      ],
+      "caption": "206\nTē 206 tô.—Chhih siōng-phok-tōng-me̍h."
+    },
+    {
+      "box_2d": [
+        638,
+        297,
+        804,
+        511
+      ],
+      "caption": "207\nTē 207 tô.—Chhih chóng-kēng-tōng-me̍h."
+    },
+    {
+      "box_2d": [
+        632,
+        600,
+        802,
+        792
+      ],
+      "caption": "208\nTē 208 tô.—Chhih gān-bīn-tōng-me̍h. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd., publishers)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 32,
+  "processed_at": "2026-08-28T06:44:26.128861",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        301,
+        270,
+        381,
+        446
+      ],
+      "caption": "Tē 11 tô.—2. Tē it kēng-chui-kut téng-bīn pêng : a, chêng-keng ; e, aū-koan-chat-o, chit-ê sī kap tē 2 kēng-chui-kut ê khí-chōng-tút-khí lâi chòe koan-chat ; f, hoâin-tút-khí-khang ; g, siōng-koan-chat-o ; k, chí-bēng hoâin-jīm-tài, liân ê só͘-chāi ; l, chui-khang (Blackie and Son)."
+    },
+    {
+      "box_2d": [
+        585,
+        647,
+        700,
+        812
+      ],
+      "caption": "Tē 12 tô.—3. Tē jī kēng-chui-kut thâu-chêng bīn : c, b, e, khí-chōng-tút-khí ê thâu, tiong kap bé ; d, chêng-koan-chat-o, sī kap tē it kēng-chui-kut aū-koan-chat-o lâi chòe koan-chat ; g, siōng hā koan-chat-o (Blackie and Son)."
+    }
+  ]
+}

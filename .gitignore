@@ -1,0 +1,15 @@
+# Large source PDF files (exceeds GitHub 100MB single-file limit)
+*.pdf
+
+# Temporary working files
+cache/temp_images/
+temp_*.png
+cache/test_*.png
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/

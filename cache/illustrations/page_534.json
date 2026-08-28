@@ -1,0 +1,26 @@
+{
+  "page_number": 534,
+  "processed_at": "2026-08-28T08:00:54.323402",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        400,
+        123,
+        698,
+        495
+      ],
+      "caption": "Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless)."
+    },
+    {
+      "box_2d": [
+        413,
+        546,
+        650,
+        788
+      ],
+      "caption": "Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless)."
+    }
+  ]
+}

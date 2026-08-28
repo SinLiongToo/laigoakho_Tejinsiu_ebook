@@ -1,0 +1,26 @@
+{
+  "page_number": 439,
+  "processed_at": "2026-08-28T07:46:21.837295",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        136,
+        207,
+        816,
+        277
+      ],
+      "caption": "Tē 287 tô.\nChhiat-tñg-\nto."
+    },
+    {
+      "box_2d": [
+        370,
+        686,
+        841,
+        874
+      ],
+      "caption": "Tē 288 tô.—Chhiat-\ntñg-kù."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 380,
+  "processed_at": "2026-08-28T07:37:53.952070",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        191,
+        191,
+        487,
+        746
+      ],
+      "caption": "Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder)."
+    },
+    {
+      "box_2d": [
+        527,
+        114,
+        764,
+        442
+      ],
+      "caption": "Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders)."
+    }
+  ]
+}

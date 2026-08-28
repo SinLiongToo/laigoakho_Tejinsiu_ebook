@@ -1,0 +1,26 @@
+{
+  "page_number": 221,
+  "processed_at": "2026-08-28T07:14:40.473380",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        211,
+        250,
+        372,
+        686
+      ],
+      "caption": "141\nTē 141 tô.—Cheng-khì-e̍k. Tio̍h ū koh pī-pān chi̍t ê kún-chúi-koàn."
+    },
+    {
+      "box_2d": [
+        405,
+        187,
+        617,
+        745
+      ],
+      "caption": "142\nTē 142 tô.—Cheng-khì-e̍k pīⁿ-lâng lóng ū-pī hó-sè (Stoney)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 518,
+  "processed_at": "2026-08-28T07:58:35.643990",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        226,
+        107,
+        724,
+        274
+      ],
+      "caption": "Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to."
+    },
+    {
+      "box_2d": [
+        404,
+        314,
+        520,
+        779
+      ],
+      "caption": "Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa)."
+    }
+  ]
+}

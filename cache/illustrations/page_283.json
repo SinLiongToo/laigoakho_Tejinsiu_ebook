@@ -1,0 +1,26 @@
+{
+  "page_number": 283,
+  "processed_at": "2026-08-28T07:23:45.211777",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        455,
+        184,
+        590,
+        368
+      ],
+      "caption": "Tē 179 tô.―Hûi-chè ê thâm-koàn."
+    },
+    {
+      "box_2d": [
+        412,
+        400,
+        615,
+        866
+      ],
+      "caption": "Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney)."
+    }
+  ]
+}

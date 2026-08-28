@@ -1,0 +1,26 @@
+{
+  "page_number": 233,
+  "processed_at": "2026-08-28T07:16:23.617205",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        238,
+        288,
+        496,
+        818
+      ],
+      "caption": "Tē 150 tô:—Ū-pī un-sip-pò· ê hoat : teh piàⁿ kún-chúi (Sanders)."
+    },
+    {
+      "box_2d": [
+        520,
+        289,
+        780,
+        816
+      ],
+      "caption": "Tē 151 tô:—Ū-pī un-sip-pò· ê hoat : teh chūn un-sip-pò· (Sanders)."
+    }
+  ]
+}

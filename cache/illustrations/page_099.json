@@ -1,0 +1,26 @@
+{
+  "page_number": 99,
+  "processed_at": "2026-08-28T06:55:27.903936",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        131,
+        140,
+        517,
+        386
+      ],
+      "caption": "Tē 69 tô.—Siōng-chí ê lîm-pa-kńg kap chôan: g, chhiú ê lîm-pa-kńg ; a, b, tiú-koan-chat lāi-bīn pêng ê lîm-pa-chôan ; c, c, c, koh-ē-khang-nih ê lîm-pa-chôan ; d, heng-khám-pîn ê lîm-pa-chôan óa leng-pông; e, f, só-kut téng-bīn ê lîm-pa-chôan. (From “The Household Physician,” Blackie & Son, Ltd., publishers.)"
+    },
+    {
+      "box_2d": [
+        308,
+        574,
+        723,
+        825
+      ],
+      "caption": "Tē 70 tô.—Hā-chí kap kái-pîn ê lîm-pa-kńg kap chôan: d, e, f, kái-pîn téng-bīn ê lîm-pa-chôan ; a, b, c, tōa-thúi-chêng-bīn ê lîm-pa-chôan, ū-ê chhián, ū ê chhim. (From as Fig. 69.)"
+    }
+  ]
+}

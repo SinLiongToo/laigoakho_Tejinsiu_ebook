@@ -1,0 +1,26 @@
+{
+  "page_number": 387,
+  "processed_at": "2026-08-28T07:38:52.032629",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        238,
+        214,
+        544,
+        335
+      ],
+      "caption": "Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath)."
+    },
+    {
+      "box_2d": [
+        386,
+        585,
+        742,
+        900
+      ],
+      "caption": "Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”)."
+    }
+  ]
+}

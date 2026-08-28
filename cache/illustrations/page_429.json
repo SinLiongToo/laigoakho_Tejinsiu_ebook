@@ -1,0 +1,26 @@
+{
+  "page_number": 429,
+  "processed_at": "2026-08-28T07:44:57.481936",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        260,
+        585,
+        430,
+        886
+      ],
+      "caption": "Tē 279 tô.--Kiông-oan-hông-háp-chiam."
+    },
+    {
+      "box_2d": [
+        518,
+        178,
+        802,
+        399
+      ],
+      "caption": "Tē 280 tô:--Bīn-kun-khìⁿ."
+    }
+  ]
+}

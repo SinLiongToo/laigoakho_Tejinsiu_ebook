@@ -1,0 +1,13 @@
+{
+  "page_number": 673,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:00:00.842419",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 10.67,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Hi̍p-chek | 狹窄 | Stricture. | |\n| Hi̍p-kut | 肋骨 | Rib. | |\n| Hi̍p-kut-chhiat-tû-sút | 肋骨切除術 | Excision of rib. | |\n| Hi̍p-sim chèng | 狹心症 | Angina pectoris. | |\n| Hiat-iú pīⁿ | 血友病 | Hæmophilia. | |\n| Hiu-bûn | 幽門 | Pylorus. | |\n| Hiu-bûn-pō͘ | 幽門部 | Pyloric antrum. | |\n| Hiù-kak | 嗅覺 | Sense of smell. | |\n| Hiù-khì | 嗅器 | Olfactory organ. | |\n| Hiù-sîn-keng | 嗅神經 | Olfactory nerve. | |\n| Ho͘-chhut | 呼出 | Expiration. | |\n| Ho͘-khip | 呼吸 | Inspiration. | |\n| Ho͘-khip-at-chí | 呼吸遏止 | Apnœa. | |\n| Ho͘-khip-khì hē-thóng | 呼吸器系統 | Respiratory system. | |\n| Ho͘-khip-khùn-lân | 呼吸困難 | Dyspnœa. | |\n| Hó-lia̍t-la | 虎列拉 | Cholera. | |\n| Hô-tia̍p-koan-chat | 蝶番關節 | Hinge-joint. | |\n| Hō͘-thian-bián-e̍k | 後天免疫 | Acquired immunity. | |\n| Hō͘-thian-sèng | 後天性 | Acquired. | |\n| Hoa-liú pīⁿ | 花柳病 | Venereal disease. | |\n| Hòa-lâng-sèng | 化膿性 | Suppurative. | |\n| Hoāi-chu | 壞疽 | Gangrene. | |\n| Hoâiⁿ-hêng-kiat-tn̂g | 橫行結腸 | Transverse colon. | |\n| Hoâiⁿ-hiân (piān-to̍k) | 橫痃 (便毒) | Bubo. | |\n| Hoâiⁿ-keh-mo̍h | 橫隔膜 | Diaphragm. | |\n| Hoán-èng | 反應 | Reflexes. | |\n| Hoán-siā | 反射 | Reflexes. | |\n| Hoán-siā-chok-iōng | 反射作用 | Reflex action. | |\n| Hoán-siā-sèng thàng-thiàⁿ | 反射性疼痛 | Referred pain. | |\n| Hoán-tùi-chhì-kek | 反對刺戟 | Counter-irritant. | |\n| Hoân-la̍p-sèng thoat-tiông | 還納性脫腸 | Reducible hernia. | |\n| Hoat-âng | 發赤 | Redness. | |\n| Hoat-chín | 發疹 | Eruption. | |\n| Hoat-hān | 發汗 | Perspiration. | |\n| Hoat-hān-io̍h | 發汗藥 | Diaphoretics. | |",
+  "error": null
+}

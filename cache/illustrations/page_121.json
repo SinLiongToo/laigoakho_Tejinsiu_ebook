@@ -1,0 +1,26 @@
+{
+  "page_number": 121,
+  "processed_at": "2026-08-28T06:59:09.081036",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        474,
+        457,
+        745,
+        564
+      ],
+      "caption": "Tē 86 tô:-Jiō-pí-tāng-kè."
+    },
+    {
+      "box_2d": [
+        405,
+        616,
+        740,
+        816
+      ],
+      "caption": "Tē 87 tô:-San ki chhì-giām-kńg."
+    }
+  ]
+}

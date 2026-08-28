@@ -1,0 +1,26 @@
+{
+  "page_number": 117,
+  "processed_at": "2026-08-28T06:58:29.351430",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        228,
+        172,
+        428,
+        424
+      ],
+      "caption": "Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son)."
+    },
+    {
+      "box_2d": [
+        188,
+        477,
+        453,
+        765
+      ],
+      "caption": "Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son)."
+    }
+  ]
+}

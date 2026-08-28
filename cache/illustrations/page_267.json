@@ -1,0 +1,26 @@
+{
+  "page_number": 267,
+  "processed_at": "2026-08-28T07:21:16.796506",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        466,
+        426,
+        567,
+        807
+      ],
+      "caption": "Tē 168 tô:.-Tiám-gán-khì."
+    },
+    {
+      "box_2d": [
+        586,
+        127,
+        818,
+        244
+      ],
+      "caption": "Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi."
+    }
+  ]
+}

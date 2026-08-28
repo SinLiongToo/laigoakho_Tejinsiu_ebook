@@ -1,0 +1,26 @@
+{
+  "page_number": 323,
+  "processed_at": "2026-08-28T07:29:33.766428",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        233,
+        546,
+        562,
+        888
+      ],
+      "caption": "187\nTē 187 tô.—Chhit ian-thâu chòe pôe-iúⁿ-hoat. (Morrow, from Sanders' \"Modern Methods in Nursing,\" by permission of W. B. Saunders Co., publishers.)"
+    },
+    {
+      "box_2d": [
+        657,
+        197,
+        804,
+        638
+      ],
+      "caption": "Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow)."
+    }
+  ]
+}

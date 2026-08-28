@@ -1,0 +1,35 @@
+{
+  "page_number": 351,
+  "processed_at": "2026-08-28T07:33:33.037323",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        250,
+        195,
+        365,
+        520
+      ],
+      "caption": "Tē 196 tô.—Chhih siōng-phok-tōng-me̍h. (From Warwick and Tunstall's “First Aid”.)"
+    },
+    {
+      "box_2d": [
+        494,
+        227,
+        714,
+        507
+      ],
+      "caption": "Tē 197 tô.—Ēng tōa-thâu-bú chhih só-kut-ē-tōng-me̍h."
+    },
+    {
+      "box_2d": [
+        501,
+        566,
+        714,
+        812
+      ],
+      "caption": "Tē 198 tô.—Ēng pò· pau só-sî chhih só-kut-ē-tōng-me̍h. (From “First Aid.”)"
+    }
+  ]
+}

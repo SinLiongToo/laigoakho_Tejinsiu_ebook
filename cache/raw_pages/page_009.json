@@ -1,0 +1,13 @@
+{
+  "page_number": 9,
+  "section_id": "front_matter",
+  "section_type": "english_front_matter",
+  "volume": "00_Front_Matter",
+  "target_file": "00_front_matter/01_english_preface.md",
+  "chapter_title": "英文書名、題辭與序言 (Title, Dedication & English Preface)",
+  "processed_at": "2026-08-28T01:14:19.756950",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 12.66,
+  "text": "本頁為 1917 年戴仁壽醫師（Dr. George Gushue-Taylor）於台南出版之經典醫學著作《內外科看護學》（*Lāi Gōa Kho Khàn-hō͘-ha̍k*）之書名扉頁（全頁以台灣白話字 Pe̍h-ōe-jī 羅馬字排版印刷）。\n\n以下為高精度數位化轉錄與多語對照：\n\n---\n\n**[English Original / Pe̍h-ōe-jī]**\n# LĀI GŌA KHO KHÀN-HŌ͘-HA̍K\n\n> **[台文對照]** (台語漢字 + 白話字)\n> 內外科看護學（Lāi-gōa-kho Khàn-hō͘-ha̍k）\n> \n> **[華語對照]**\n> 內外科護理學\n\n---\n\n**[English Original / Pe̍h-ōe-jī]**\nTù-chiá  \nTÈ JÎN-SIŪ\n\n> **[台文對照]** (台語漢字 + 白話字)\n> 著者：戴仁壽（Tù-chiá: Tè Jîn-siū）\n> \n> **[華語對照]**\n> 作者：戴仁壽（Dr. George Gushue-Taylor）\n\n---\n\n**[English Original / Pe̍h-ōe-jī]**\n503 TÔ͘—17 Ū SEK-Ê\n\n> **[台文對照]** (台語漢字 + 白話字)\n> 503 圖——17 有色的（503 tô͘—17 ū sek-ê）\n> \n> **[華語對照]**\n> 全書附 503 幅插圖，其中 17 幅為彩色圖版\n\n---\n\n**[English Original / Pe̍h-ōe-jī]**\nTÂI-OÂN, TÂI-LÂM  \nKI-TOK TIÚⁿ-LÓ KÀU PĪⁿ-ĪN  \nTāi-chèng 6 nî\n\n> **[台文對照]** (台語漢字 + 白話字)\n> 臺灣，臺南（Tâi-oân, Tâi-lâm）  \n> 基督長老教病院（Ki-tok Tiúⁿ-ló-kàu Pīⁿ-īⁿ）  \n> 大正 6 年（Tāi-chèng 6 nî）\n> \n> **[華語對照]**\n> 台灣台南  \n> 基督教長老教會醫院（台南新樓醫院）  \n> 大正六年（1917年）",
+  "error": null
+}

@@ -1,0 +1,13 @@
+{
+  "page_number": 687,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:02:49.840911",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 9.88,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Si-bâ-chùi-chiá, | 施麻醉者 | Anæsthetist. | |\n| Si-kiû-chōng-huih-kńg, | 絲毬狀血管 | Glomerulus in kidney. | |\n| Sí-bông-sò͘, | 死亡數 | Mortality. | |\n| Sí-chiàn-kî, | 死戰期 | Death agony. | |\n| Sì-thâu-kó͘-kun-kiān, | 四頭股筋腱 | Quadriceps extensor tendon. | |\n| Sī-kak, | 視覺 | Sense of sight. | |\n| Sī-khì, | 視器 | Organ of sight. | |\n| Sī-sîn-keng, | 視神經 | Optic nerve. | |\n| Sī-sîn-keng-leng-thâu, | 視神經乳頭 | Optic disc. | |\n| Sià-pak (khòaⁿ Hā-lī), | 瀉腹 | Diarrhœa. | |\n| Siaⁿ-mn̂g, | 聲門 | Glottis. | |\n| Siaⁿ-mn̂g-keng-loân, | 聲門痙攣 | Spasm of glottis. | |\n| Siàm-chhut-bu̍t, | 滲出物 | Exudate. | |\n| Sian-thian-bián-e̍k, | 先天免疫 | Natural immuity. | 英文原文印為 immuity |\n| Sian-thian-sèng, | 先天性 | Congenital. | |\n| Sian-thian-sèng sim-chōng-pīⁿ, | 先天性心臟病 | Congenital heart disease. | |\n| Siau-hò͘ⁿ-jia̍t, | 消耗熱 | Hectic fever. | |\n| Siau-hòa hē-thóng, | 消化系統 | Digestive system. | |\n| Siau-hòa-put-liông, | 消化不良 | Dyspepsia. | |\n| Siau-iām-che, | 消炎劑 | Cooling lotion. | |\n| Siau-iām-liâu-hoat, | 消炎療法 | Treatment of inflammation by cooling lotion. | |\n| Siau-sng, | 硝酸 | Acid nitric. | |\n| Siau-tók-io̍h, | 消毒藥 | Antiseptic drug. | |\n| Siáu-jî-kip-sèng chek-chhê-chiân-kak-iām, | 小兒急性脊髓前角炎 | Acute anterior polio-myelitis in children. | |\n| Siáu-piān-sit-kìm, | 小便失禁 | Incontinence of urine. | |\n| Sim-chōng, | 心臟 | Heart. | |\n| Sim-chōng-hoán-siā-thêng-chí, | 心臟反射停止 | Reflex stopping of heart. | |\n| Sim-chōng-pûi-tōa, | 心臟肥大 | Cardiac hypertrophy. | |\n| Sim-kùi-khòng-sēng, | 心悸亢盛 | Palpitation of heart. | |\n| Sim-kun, | 心筋 | Heart muscle. | |\n| Sim-kun-iām, | 心筋炎 | Myocarditis . | |\n| Sim-la̍t-sit-pāi, | 心力失敗 | Heart failure. | |\n| Sim-lông, | 心囊 | Pericardium. | |\n| Sim-lông-iām, | 心囊炎 | Pericarditis. | |",
+  "error": null
+}

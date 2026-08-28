@@ -1,0 +1,13 @@
+{
+  "page_number": 678,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:00:56.198046",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 10.22,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Kiān-chhiam-î | 腱纖維 | Tendon-fibrils. | |\n| Kiat-hu̍t chèng | 結核症 | Tuberculosis. | |\n| Kiat-hu̍t-kiat-chat | 結核結節 | Tubercular nodule. | |\n| Kiat-ka-phê | 結痂皮 | Scabbing. | |\n| Kiat-mo̍h | 結膜 | Conjunctiva. | |\n| Kiat-mo̍h-iām | 結膜炎 | Conjunctivitis. | |\n| Kiat-tè-chit | 結締織 | Connective tissue. | |\n| Kiat-tè-sin-siⁿ-sòe-pau | 結締新生細胞 | Fibroblasts. | |\n| Kiat-tn̂g | 結腸 | Colon. | |\n| Kio̍k-pō͘-bâ-chùi | 局部麻醉 | Local anæsthetic. | |\n| Kiông-chòng-che | 强壯劑 | Tonic drug. | |\n| Kiông-chòng-io̍h | 强壯藥 | Tonic drug. | |\n| Kiông-chòng-jia̍t-pīⁿ | 强壯熱病 | Sthenic fever. | |\n| Kiông-sim-che | 强心劑 | Heart stimulant drug. | |\n| Kiông-sim-io̍h | 强心藥 | Heart stimulant drug. | |\n| Kip-piàn-sū | 急變事 | Emergency. | |\n| Kip-sèng | 急性 | Acute. | |\n| Kip-sèng phīⁿ-ka-tap-jî | 急性鼻加答兒 | Acute coryza. | |\n| Kip-sèng sīn-chōng-iām | 急性腎臟炎 | Acute nephritis. | |\n| Kó͘-mo̍h | 鼓膜 | Membrana tympani, drum of ear. | |\n| Kó͘-tōng-me̍h | 股動脈 | Femoral artery. | |\n| Kò͘-chō | 構造 | Structure. | |\n| Koaⁿ-chōng | 肝臟 | Liver. | |\n| Koaⁿ-chēng-me̍h | 肝靜脈 | Hepatic vein. | |\n| Koaⁿ-chōng-lâng-iông | 肝臟膿瘍 | Hepatic abscess. | |\n| Koaⁿ-oan-khiok | 肝灣曲 | Hepatic flexure of colon. | |\n| Koaⁿ-tōng-me̍h | 肝動脈 | Hepatic artery. | |\n| Koâiⁿ-ap-me̍h | 高壓脈 | High tension pulse. | |\n| Koan-chat | 關節 | Joint. | |\n| Koan-chat-iām | 關節炎 | Arthritis. | |\n| Koan-chat-kút-e̍k | 關節滑液 | Synovial fluid. | |\n| Koan-chat-khò | 關節踝 | Condyles of femur. | |\n| Koan-chat-lī-tn̄g-su̍t | 關節離斷術 | Amputation at joint. | |\n| Koan-chat-o | 關節窩 | Socket of joint | |\n| Koan-chat-thoat-khū | 關節脫臼 | Dislocation of joint. | |",
+  "error": null
+}

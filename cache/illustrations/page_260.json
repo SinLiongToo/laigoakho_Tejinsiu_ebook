@@ -1,0 +1,17 @@
+{
+  "page_number": 260,
+  "processed_at": "2026-08-28T07:20:13.454664",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        444,
+        588,
+        737,
+        866
+      ],
+      "caption": "Tē 161 tô (Stoney)."
+    }
+  ]
+}

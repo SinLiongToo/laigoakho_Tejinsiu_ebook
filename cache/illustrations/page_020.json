@@ -1,0 +1,17 @@
+{
+  "page_number": 20,
+  "processed_at": "2026-08-28T06:42:26.261417",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        254,
+        230,
+        605,
+        836
+      ],
+      "caption": "Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son)."
+    }
+  ]
+}

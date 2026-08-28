@@ -1,0 +1,35 @@
+{
+  "page_number": 452,
+  "processed_at": "2026-08-28T07:48:15.742326",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        357,
+        107,
+        727,
+        310
+      ],
+      "caption": "Pheng-tòa bé Tē 304 tô."
+    },
+    {
+      "box_2d": [
+        486,
+        321,
+        599,
+        804
+      ],
+      "caption": "Tē 305 tô."
+    },
+    {
+      "box_2d": [
+        604,
+        319,
+        717,
+        804
+      ],
+      "caption": "Tē 306 tô."
+    }
+  ]
+}

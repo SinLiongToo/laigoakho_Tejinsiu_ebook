@@ -1,0 +1,26 @@
+{
+  "page_number": 368,
+  "processed_at": "2026-08-28T07:36:00.634407",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        186,
+        138,
+        614,
+        328
+      ],
+      "caption": "Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa)."
+    },
+    {
+      "box_2d": [
+        513,
+        680,
+        729,
+        809
+      ],
+      "caption": "Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa)."
+    }
+  ]
+}

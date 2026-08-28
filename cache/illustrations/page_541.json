@@ -1,0 +1,26 @@
+{
+  "page_number": 541,
+  "processed_at": "2026-08-28T08:02:02.935244",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        235,
+        180,
+        350,
+        496
+      ],
+      "caption": "Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods)."
+    },
+    {
+      "box_2d": [
+        553,
+        281,
+        693,
+        766
+      ],
+      "caption": "Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum."
+    }
+  ]
+}

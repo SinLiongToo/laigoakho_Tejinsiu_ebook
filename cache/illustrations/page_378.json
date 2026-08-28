@@ -1,0 +1,35 @@
+{
+  "page_number": 378,
+  "processed_at": "2026-08-28T07:37:36.257143",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        267,
+        221,
+        381,
+        729
+      ],
+      "caption": "233\nTē 233 tô͘.—Kha khan-ín-hoat (Sanders)."
+    },
+    {
+      "box_2d": [
+        457,
+        131,
+        600,
+        514
+      ],
+      "caption": "234\nTē 234 tô͘.—Kha khan-ín-hoat (Sanders)."
+    },
+    {
+      "box_2d": [
+        433,
+        599,
+        687,
+        827
+      ],
+      "caption": "235\nTē 235 tô͘.—Kút-chhia, chòe khan-ín-hoat ê lō͘-ēng (Heath)."
+    }
+  ]
+}

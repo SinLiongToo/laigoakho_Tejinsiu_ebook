@@ -1,0 +1,26 @@
+{
+  "page_number": 458,
+  "processed_at": "2026-08-28T07:49:09.705254",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        207,
+        115,
+        321,
+        805
+      ],
+      "caption": "Tē 314, 315 tô:—Hong-kat."
+    },
+    {
+      "box_2d": [
+        433,
+        447,
+        818,
+        818
+      ],
+      "caption": "Tē 316 tô."
+    }
+  ]
+}

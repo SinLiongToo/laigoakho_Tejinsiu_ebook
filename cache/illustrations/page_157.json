@@ -1,0 +1,26 @@
+{
+  "page_number": 157,
+  "processed_at": "2026-08-28T07:04:56.756313",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        242,
+        131,
+        341,
+        460
+      ],
+      "caption": "Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge)."
+    },
+    {
+      "box_2d": [
+        559,
+        226,
+        715,
+        719
+      ],
+      "caption": "Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)"
+    }
+  ]
+}

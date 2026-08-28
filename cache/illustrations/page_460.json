@@ -1,0 +1,26 @@
+{
+  "page_number": 460,
+  "processed_at": "2026-08-28T07:49:26.730763",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        125,
+        207,
+        509,
+        694
+      ],
+      "caption": "Tē 318 tô."
+    },
+    {
+      "box_2d": [
+        549,
+        221,
+        874,
+        676
+      ],
+      "caption": "Tē 319 tô."
+    }
+  ]
+}

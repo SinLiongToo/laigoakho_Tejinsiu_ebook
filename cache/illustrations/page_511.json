@@ -1,0 +1,26 @@
+{
+  "page_number": 511,
+  "processed_at": "2026-08-28T07:57:34.134794",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        223,
+        632,
+        350,
+        864
+      ],
+      "caption": "Tē 437 tô."
+    },
+    {
+      "box_2d": [
+        566,
+        203,
+        717,
+        590
+      ],
+      "caption": "Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ."
+    }
+  ]
+}

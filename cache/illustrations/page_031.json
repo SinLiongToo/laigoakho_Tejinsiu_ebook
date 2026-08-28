@@ -1,0 +1,26 @@
+{
+  "page_number": 31,
+  "processed_at": "2026-08-28T06:44:15.514610",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        191,
+        137,
+        357,
+        758
+      ],
+      "caption": "Tē 9 tô.—Kēng-chui-kut chhiat-tūg-bīn, tùi tò-pêng kàu chiàⁿ-pêng, khiā-ti̍t chhiat-lo̍h-khì kā i khòaⁿ: 1, hoâiⁿ-tút-khí; 2, chui-kut-thé; 3, koan-chat-tút-khí tiong-ng ê koan-chat; 4, chui-kan-nńg-kut; 5, lông-chōng-jīm-tài; 6, chui-kut-thé tiong-kan ê koan-chat (Cunningham)."
+    },
+    {
+      "box_2d": [
+        568,
+        548,
+        723,
+        732
+      ],
+      "caption": "Tē 10 tô.—1. Heng-chui-kut: a, chui-kut-thé; b, c, chui-kut-keng; d, chhì-chōng-tút-khí; e, hoâiⁿ-tút-khí; f, hoâiⁿ-tút-khí-o, chiū-sī hia̍p-kut-o; g, koan-chat-o; h, chui-khang (Blackie and Son)."
+    }
+  ]
+}

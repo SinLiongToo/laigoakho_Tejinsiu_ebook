@@ -1,0 +1,26 @@
+{
+  "page_number": 557,
+  "processed_at": "2026-08-28T08:04:21.899761",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        219,
+        201,
+        349,
+        548
+      ],
+      "caption": "Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)"
+    },
+    {
+      "box_2d": [
+        449,
+        650,
+        722,
+        877
+      ],
+      "caption": "Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless)."
+    }
+  ]
+}

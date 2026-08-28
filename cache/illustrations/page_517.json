@@ -1,0 +1,26 @@
+{
+  "page_number": 517,
+  "processed_at": "2026-08-28T07:58:26.913591",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        353,
+        230,
+        392,
+        798
+      ],
+      "caption": "Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to."
+    },
+    {
+      "box_2d": [
+        456,
+        281,
+        630,
+        765
+      ],
+      "caption": "Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á."
+    }
+  ]
+}

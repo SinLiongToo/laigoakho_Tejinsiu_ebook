@@ -1,0 +1,17 @@
+{
+  "page_number": 30,
+  "processed_at": "2026-08-28T06:44:05.547788",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        127,
+        196,
+        938,
+        413
+      ],
+      "caption": "Tē 8 tô.—Chek-thiāu tùi āu-bīn khòaⁿ tit-tit : 1, kēng-chui-kut; 2, heng-chui-kut; 3, io-chui-kut; 4, chiàn-kut; 5, bí-lû-kut. (From Cunning-ham's \"Anatomy,\" Henry Frowde Hodder & Stoughton, publishers.)"
+    }
+  ]
+}

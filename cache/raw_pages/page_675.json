@@ -1,0 +1,13 @@
+{
+  "page_number": 675,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:00:21.830966",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 10.17,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Huih-kńg hē-thóng, | 血管系統 | Circulatory system. | |\n| Huih-kńg-kiat-chat-sùt, | 血管結紮術 | Ligature of blood-vessel. | |\n| Huih-kiû, | 血球 | Blood-corpuscle. | |\n| Huih-sek-sò͘, | 血色素 | Hæmoglobin. | |\n| Huih-sió-pán, | 血小板 | Blood-platelets. | |\n| Huih-sûn-khoân, | 血循環 | Circulation of blood. | |\n| Huih-tè, | 血塊 | Blood-clot. | |\n| Huih-that, | 血塞 | Thrombus. | |\n| Hun-lī, | 分利 | Crisis. | |\n| Hun-pì, | 分泌 | To secrete. | |\n| Hun-pì-mi̍h (gōa-hun-pì), | 分泌物 | Mucous secretion, (external secretion). | |\n| Hun-pì-mi̍h (lāi-hun-pì), | 分泌物 | Secretion, (internal secretion). | |\n| Hun-sūi, | 昏睡 | Coma. | |\n| Hún-chhùi-kut-chih, | 粉碎骨折 | Comminuted fracture. | |\n| Î-tiong-jia̍t, | 弛張熱 | Remittent fever. | |\n| Î-tōng, | 移動 | Change of movement. | |\n| Īⁿ-bu̍t, | 異物 | Foreign body. | |\n| Iâm-chúi-koàn-tn̂g-hoat, | 鹽水灌腸法 | Salt enema. | |\n| Iâm-hun, | 鹽分 | Salt, a general term in speaking of composition of e.g. milk. | |\n| Iām-chèng, | 炎症 | Inflammation. | |\n| Iām-chèng siau-sòaⁿ, | 炎症消散 | Resolution. | |\n| Ian-thâu, | 咽頭 | Pharynx. | |\n| Ian-thâu-iām, | 咽頭炎 | Pharyngitis. | |\n| Iân-chhé, | 延髓 | Medulla oblongata. | |\n| Iân-phìⁿ-hông-ha̍p, | 鉛片縫合 | Lead-button suture. | |\n| Im-bûn, | 陰門 | Vaginal opening. | |\n| Im-keng, | 陰莖 | Penis. | |\n| Im-tō, | 陰道 | Vagina. | |\n| Im-tō-mî-kiû, | 陰道綿球 | Vaginal tampon. | |\n| Ín-chhiah-che, | 引赤劑 | Rubefacient. | |\n| Ín-lâu, | 引流 | Drainage. | |\n| Ín-lâu-kńg, | 引流管 | Drainage tube. | |\n| Io-chui-kut | 腰椎骨 | Lumbar vertebra. | |",
+  "error": null
+}

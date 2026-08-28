@@ -1,0 +1,13 @@
+{
+  "page_number": 4,
+  "section_id": "front_matter",
+  "section_type": "english_front_matter",
+  "volume": "00_Front_Matter",
+  "target_file": "00_front_matter/01_english_preface.md",
+  "chapter_title": "英文書名、題辭與序言 (Title, Dedication & English Preface)",
+  "processed_at": "2026-08-28T01:12:37.460919",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 8.22,
+  "text": "經仔細檢視，本頁影像為一**空白頁（留白頁面）**，除少許掃描紙張之微細塵點外，並無任何印刷或手寫之英文文字、段落、標題或人名地名。\n\n因此本頁無可辨識轉錄與翻譯之內容。若您有其他包含文字的頁面需要轉錄與台文／華語對照翻譯，歡迎隨時上傳提供！",
+  "error": null
+}

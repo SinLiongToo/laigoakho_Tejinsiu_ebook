@@ -1,0 +1,26 @@
+{
+  "page_number": 80,
+  "processed_at": "2026-08-28T06:52:03.436730",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        203,
+        198,
+        388,
+        455
+      ],
+      "caption": "Tē 53 tô.—Chēng-mèh ê chit pōʻ-ūi ū chhiat khui chí-bēng: 1, piān-mó͘h. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd.)"
+    },
+    {
+      "box_2d": [
+        560,
+        479,
+        773,
+        863
+      ],
+      "caption": "Tē 54 tô.—Mng-sòe-huih-kńg 2, lâi saⁿ-liân tōng-mèh 1, kap chēng-mèh 3. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid.”)"
+    }
+  ]
+}

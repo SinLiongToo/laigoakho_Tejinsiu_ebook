@@ -1,0 +1,26 @@
+{
+  "page_number": 229,
+  "processed_at": "2026-08-28T07:15:50.671175",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        198,
+        260,
+        428,
+        664
+      ],
+      "caption": "147\nTē 147 tô.—Leiter-sī ê kńg. (From Woodwark's “ Medical Nursing,” Edward Arnold, publisher.)"
+    },
+    {
+      "box_2d": [
+        460,
+        221,
+        707,
+        729
+      ],
+      "caption": "148\nTē 148 tô.—Leiter-sī ê kńg, ù heng-chêng. (From Sanders' “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)"
+    }
+  ]
+}

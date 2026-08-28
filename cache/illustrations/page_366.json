@@ -1,0 +1,35 @@
+{
+  "page_number": 366,
+  "processed_at": "2026-08-28T07:35:41.601896",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        284,
+        118,
+        602,
+        250
+      ],
+      "caption": "212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)"
+    },
+    {
+      "box_2d": [
+        519,
+        266,
+        603,
+        611
+      ],
+      "caption": "213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders)."
+    },
+    {
+      "box_2d": [
+        348,
+        639,
+        604,
+        809
+      ],
+      "caption": "214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”)."
+    }
+  ]
+}

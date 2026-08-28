@@ -1,0 +1,13 @@
+{
+  "page_number": 693,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:04:01.002171",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 10.89,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Thé-un-pió | 體溫表 | Clinical chart. | |\n| Thèng-kak | 聽覺 | Hearing. | |\n| Thèng-kak-khì | 聽覺器 | Auditory organ. | |\n| Thèng-sîn-keng | 聽神經 | Auditory nerve. | |\n| Thêng-chí | 停止 | Insertion of muscle. | |\n| Thî-sàu-chèng, (khòaⁿ Pah-ji̍t-sàu) | 啼嗽症 | Pertussis, whooping cough. | |\n| Thiaⁿ-chín-khì | 聽診器 | Stethoscope. | |\n| Thiàⁿ-thàng-bâ-pì | 疼痛麻痺 | Analgesia. | |\n| Thian-jiân-chu | 天然痘 | Variola, small-pox. | |\n| Thiok-chek-chok-iōng | 蓄積作用 | Accumulative action. | |\n| Thn̂g-jiō-chèng | 糖尿病 | Diabetes. | |\n| Thò-kńg | 套管 | Cannula. | |\n| Thò-kńg-chiam | 套管針 | Trocar. | |\n| Thò͘-che | 吐劑 | Emetic drug. | |\n| Thò͘-huih | 吐血 | Hæmatemesis. | |\n| Thòaⁿ-sng | 炭酸 | Carbon dioxide. | |\n| Thoân-jiám | 傳染 | Infective. | |\n| Thoân-tō-khì | 傳道器 | Conducting organ, nerve. | |\n| Thoat-khū | 脫臼 | Dislocation. | |\n| Thoat-tiông (Tūi-tiông) | 脫腸 | Hernia. | |\n| Thong-khì-hoat | 通氣法 | Ventilation. | |\n| Ū-hō͘ | 豫後 | Prognosis. | |\n| Ū-kau ê thàm-khì | 有溝探器 | Director. | |\n| Ùi-iông | 潰瘍 | Ulcer. | |\n| Ûi-liû-bu̍t | 遺留物 | Residue. | |\n| Ūi-e̍k | 胃液 | Gastric secretion. | |\n| Ūi-e̍k-chhôaⁿ | 胃液腺 | Gastric glands. | |\n| Ūi-gâm | 胃癌 | Gastric cancer. | |\n| Ūi-iām | 胃炎 | Gastritis. | |\n| Ūi-kńg | 胃管 | Stomach-tube. | |\n| Ūi-khok-tiong | 胃擴張 | Gastric dilatation. | |\n| Ūi-lāi-iông | 胃內容 | Gastric contents. | |\n| Ūi-lú-khui-kháu-su̍t | 胃瘻開口術 | Gastrostomy. | |\n| Ūi-tóe | 胃底 | Fundus of stomach. | |",
+  "error": null
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 443,
+  "processed_at": "2026-08-28T07:46:58.949466",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        398,
+        300,
+        483,
+        788
+      ],
+      "caption": "Tē 296 tô.—Kut-khîⁿ."
+    },
+    {
+      "box_2d": [
+        526,
+        305,
+        592,
+        787
+      ],
+      "caption": "Tē 297 tô.—Kut-chián-to."
+    }
+  ]
+}

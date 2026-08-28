@@ -1,0 +1,26 @@
+{
+  "page_number": 350,
+  "processed_at": "2026-08-28T07:33:23.473247",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        377,
+        121,
+        524,
+        359
+      ],
+      "caption": "194\nTē 194 tô͘.—Foulis-sī ê chí-huih-khì (chhiū-leng kap chhâ chòe-ê). (From Warwick and Tunstall's \"First Aid,\" by permission of John Wright and Sons, Ltd., publishers.)"
+    },
+    {
+      "box_2d": [
+        381,
+        426,
+        521,
+        801
+      ],
+      "caption": "195\nTē 195 tô͘.—Ēng chí-huih-khì tîⁿ siōng-phok-tōng-mėh. (From \"First Aid.\")"
+    }
+  ]
+}

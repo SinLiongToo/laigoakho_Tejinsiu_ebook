@@ -1,0 +1,26 @@
+{
+  "page_number": 24,
+  "processed_at": "2026-08-28T06:43:09.655550",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        189,
+        249,
+        685,
+        378
+      ],
+      "caption": "Tē 3 tô̇.—Ēng kut phah-kat. (Raymond, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders, Co., publishers.)"
+    },
+    {
+      "box_2d": [
+        524,
+        708,
+        760,
+        847
+      ],
+      "caption": "Tē 4 tô̇. — Tnĝ-kut ê chhiòng-tn̄g-bīn : tuì 1, kàu gōa-bīn pîⁿ sī kian-kò͘-chit ; 2, lāi-bīn hái-mî-chit."
+    }
+  ]
+}

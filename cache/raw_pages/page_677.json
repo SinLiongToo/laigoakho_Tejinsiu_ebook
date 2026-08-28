@@ -1,0 +1,13 @@
+{
+  "page_number": 677,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:00:44.970836",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 9.74,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Kái-jia̍t-io̍h | 解熱藥 | Antipyretic drug. | |\n| Kái-phò-ha̍k | 解剖學 | Anatomy. | |\n| Kái-to̍k-io̍h | 解毒藥 | Antidote. | |\n| Kak-mo̍͘h | 角膜 | Cornea. | |\n| Kak-mo̍͘h-pe̍h-pan | 角膜白斑 | Leucoma. | |\n| Kám-chêng | 感情 | Emotion. | |\n| Kám-kak | 感覺 | Sensation. | |\n| Kám-mō͘ | 感冒 | Cold in head, coryza. | |\n| Kán-chōng-khún | 桿狀菌 | Bacillus. | |\n| Kàn-hat-jia̍t | 間歇熱 | Intermittent fever. | |\n| Kàn-hat-me̍h | 間歇脈 | Intermittent pulse. | |\n| Kau-kám-sèng gán-iām | 交感性眼炎 | Sympathetic ophthalmia. | |\n| Kau-kám-sîn-keng | 交感神經 | Sympathetic nerve. | |\n| Kau-liû-chok-iōng | 交流作用 | Osmosis. | |\n| Ké-sí | 假死 | Syncope. | |\n| Kē-ap-me̍h | 低壓脈 | Low tension pulse. | |\n| Keh-lī | 隔離 | Isolation. | |\n| Keh-lī-īⁿ | 隔離院 | Isolation hospital. | |\n| Keh-lī-sek | 隔離室 | Isolation ward. | |\n| Kék-kî | 極期 | Fastigium. | |\n| Keng-loân (kín-keng-hong) | 痙攣 | Convulsion or spasm. | |\n| Kéng-gū | 境遇 | Environment. | |\n| Kéng-chui-sîn-keng | 頸椎神經 | Cervical nerve. | |\n| Kēng-kò͘-chit | 硬固質 | Dense substance. | |\n| Kēng-mo̍͘h | 硬膜 | Dura mater. | |\n| Kēng-mo̍͘h (ba̍k-chiu pe̍h-mo̍͘h) | 硬膜 (眼白膜) | Sclerotic. | |\n| Ki-chhó͘ | 基礎 | Foundation. | |\n| Ki-sòaⁿ | 基線 | Base line. | |\n| Ki-tóe | 基底 | Base (as of lung). | |\n| Kì-ek | 記憶 | Memory. | |\n| Kī-su̍t | 技術 | Technique. | |\n| Kià-seng-thâng-sèng chhùi-lāi iām | 寄生蟲性口內炎 | Parasitic stomatitis. | |\n| Kiám-thè-kî | 減退期 | Defeverescence. | |\n| Kiám-un | 檢溫 | Take body-temperature. | |\n| Kiān | 腱 | Tendon. | |",
+  "error": null
+}

@@ -1,0 +1,17 @@
+{
+  "page_number": 42,
+  "processed_at": "2026-08-28T06:46:03.249995",
+  "model": "gemini-3.7-flash",
+  "figure_count": 1,
+  "figures": [
+    {
+      "box_2d": [
+        172,
+        441,
+        843,
+        877
+      ],
+      "caption": "Tē 20 tô:—Hā-chi-kut : 1, bô-miâ-kut ; 2, tōa-thúi-kut-thâu ; 3, tōa-choán-chú ; 4, sió-choán-chú ; 5, tōa-thúi-kut ; 6, tōa-thúi-kut ê gōa-koan-chat-khò ; 7, tōa-thúi-kut ê lāi-koan-chat-khò ; 8, chhek-kài-kut ; 9, kēng-kut ê lāi-koan-chat-khò ; 10, kēng-kut ê gōa-koan-chat-khò ; 11, kēng-kut-siōng-toan ; 12, kēng-kut ; 13, hūi-kut ; 14, kut-tiong khang-khiah ; 15, kēng-kut-chiat ; 16, lāi-khòa ; 17, gōa-khòa ; 18, hū-kut ; 19, chek-kut ; 20, chí-kut (Toldt)."
+    }
+  ]
+}

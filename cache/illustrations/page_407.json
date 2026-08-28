@@ -1,0 +1,44 @@
+{
+  "page_number": 407,
+  "processed_at": "2026-08-28T07:41:47.205656",
+  "model": "gemini-3.7-flash",
+  "figure_count": 4,
+  "figures": [
+    {
+      "box_2d": [
+        136,
+        347,
+        368,
+        742
+      ],
+      "caption": "Tē 257 tô.—Bâ-chùi-io̍h chong-tì."
+    },
+    {
+      "box_2d": [
+        398,
+        307,
+        529,
+        786
+      ],
+      "caption": "Tē 258 tô.—Chih-khíⁿ."
+    },
+    {
+      "box_2d": [
+        564,
+        259,
+        667,
+        829
+      ],
+      "caption": "Tē 259 tô.—Hái-jiông-khíⁿ."
+    },
+    {
+      "box_2d": [
+        712,
+        330,
+        863,
+        724
+      ],
+      "caption": "Tē 260 tô.—Khui-chhùi-khì."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 440,
+  "processed_at": "2026-08-28T07:46:31.222550",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        428,
+        155,
+        720,
+        646
+      ],
+      "caption": "Tē 289 tô.—Liān-kù."
+    },
+    {
+      "box_2d": [
+        201,
+        707,
+        721,
+        806
+      ],
+      "caption": "Tē 290 tô.— Chhì-kù."
+    }
+  ]
+}

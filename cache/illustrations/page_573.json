@@ -1,0 +1,26 @@
+{
+  "page_number": 573,
+  "processed_at": "2026-08-28T08:06:44.048528",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        427,
+        210,
+        616,
+        508
+      ],
+      "caption": "470\nTē 470 tô:—Hì-hiỏh-iām hoān-chiá hun-lī ê thé-un-pió (Clinical Methods)."
+    },
+    {
+      "box_2d": [
+        417,
+        577,
+        619,
+        807
+      ],
+      "caption": "471\nTē 471 tô:—Khì-kńg-chi-hì-iām hoān-chiá sàn-hoàn ê thé-un-pió (Clinical Methods)."
+    }
+  ]
+}

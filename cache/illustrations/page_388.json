@@ -1,0 +1,26 @@
+{
+  "page_number": 388,
+  "processed_at": "2026-08-28T07:39:00.943118",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        315,
+        146,
+        672,
+        458
+      ],
+      "caption": "Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess)."
+    },
+    {
+      "box_2d": [
+        330,
+        501,
+        673,
+        802
+      ],
+      "caption": "Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)"
+    }
+  ]
+}

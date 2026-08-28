@@ -1,0 +1,26 @@
+{
+  "page_number": 494,
+  "processed_at": "2026-08-28T07:54:43.495391",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        181,
+        417,
+        554,
+        795
+      ],
+      "caption": "Tē 403 tô. (After Heath.)"
+    },
+    {
+      "box_2d": [
+        597,
+        220,
+        873,
+        712
+      ],
+      "caption": "Tē 404 tô."
+    }
+  ]
+}

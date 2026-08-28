@@ -1,0 +1,26 @@
+{
+  "page_number": 393,
+  "processed_at": "2026-08-28T07:39:42.773547",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        217,
+        493,
+        325,
+        900
+      ],
+      "caption": "Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn."
+    },
+    {
+      "box_2d": [
+        546,
+        287,
+        749,
+        792
+      ],
+      "caption": "Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons)."
+    }
+  ]
+}

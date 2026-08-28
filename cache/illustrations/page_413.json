@@ -1,0 +1,26 @@
+{
+  "page_number": 413,
+  "processed_at": "2026-08-28T07:42:37.517838",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        278,
+        240,
+        706,
+        556
+      ],
+      "caption": "Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì."
+    },
+    {
+      "box_2d": [
+        390,
+        598,
+        615,
+        854
+      ],
+      "caption": "Tē 264 tô.—Siau-tók-phín-thú-chô."
+    }
+  ]
+}

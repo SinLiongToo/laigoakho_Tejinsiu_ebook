@@ -1,0 +1,26 @@
+{
+  "page_number": 540,
+  "processed_at": "2026-08-28T08:01:52.675903",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        239,
+        144,
+        678,
+        308
+      ],
+      "caption": "Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods)."
+    },
+    {
+      "box_2d": [
+        366,
+        690,
+        497,
+        806
+      ],
+      "caption": "Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne)."
+    }
+  ]
+}

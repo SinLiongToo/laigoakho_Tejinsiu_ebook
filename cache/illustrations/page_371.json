@@ -1,0 +1,53 @@
+{
+  "page_number": 371,
+  "processed_at": "2026-08-28T07:36:28.556144",
+  "model": "gemini-3.7-flash",
+  "figure_count": 5,
+  "figures": [
+    {
+      "box_2d": [
+        150,
+        187,
+        266,
+        584
+      ],
+      "caption": "221\nTē 221 tô.—Kēng-kut chih. Ēng nñg ki koáiⁿ-á kap saⁿ kā kah (Warwick and Tunstall)."
+    },
+    {
+      "box_2d": [
+        168,
+        678,
+        394,
+        903
+      ],
+      "caption": "223\nTē 223 tô.—Tōa-thúi-kut-kēng chih-khì (Da Costa)."
+    },
+    {
+      "box_2d": [
+        280,
+        126,
+        434,
+        645
+      ],
+      "caption": "222\nTē 222 tô.—Chit ki kha chih. Ēng hit ki hó-ê chòe hù-bo̍k (after A. S. Morrow)."
+    },
+    {
+      "box_2d": [
+        462,
+        117,
+        601,
+        899
+      ],
+      "caption": "224\nTē 224 tô.—Tōa-thúi-kut chih. Ēng tng ê hù-bo̍k kā kah. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)"
+    },
+    {
+      "box_2d": [
+        636,
+        155,
+        761,
+        866
+      ],
+      "caption": "225\nTē 225 tô.—Tōa-thúi-kut chih. Ēng chit m̂g chhèng kā kah (Warwick and Tunstall)."
+    }
+  ]
+}

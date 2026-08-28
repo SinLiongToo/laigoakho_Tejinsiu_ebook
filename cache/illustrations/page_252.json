@@ -1,0 +1,26 @@
+{
+  "page_number": 252,
+  "processed_at": "2026-08-28T07:19:09.296401",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        236,
+        180,
+        772,
+        667
+      ],
+      "caption": "Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ."
+    },
+    {
+      "box_2d": [
+        298,
+        711,
+        701,
+        882
+      ],
+      "caption": "Tē 159 tô.—Glycerinum koàn-tng-khì."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 270,
+  "processed_at": "2026-08-28T07:21:43.776438",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        253,
+        497,
+        521,
+        886
+      ],
+      "caption": "Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)"
+    },
+    {
+      "box_2d": [
+        654,
+        199,
+        844,
+        522
+      ],
+      "caption": "Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle)."
+    }
+  ]
+}

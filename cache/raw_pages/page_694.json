@@ -1,0 +1,13 @@
+{
+  "page_number": 694,
+  "section_id": "glossary",
+  "section_type": "glossary",
+  "volume": "05_Glossary",
+  "target_file": "05_glossary/medical_glossary.md",
+  "chapter_title": "語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)",
+  "processed_at": "2026-08-28T06:04:11.470914",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 9.47,
+  "text": "| 白話字 (POJ) | 漢字 (Han-ji) | 英文 (English) | 說明 / 備註 |\n| :--- | :--- | :--- | :--- |\n| Ūi-tng-bún-háp | 胃腸吻合 | Gastro-enterostomy. | |\n| Ūi-ùi-iông | 胃潰瘍 | Gastric ulcer. | |\n| Un-sip-pò͘ | 溫濕布 | Fomentation. | |\n| Un-tō͘ | 溫度 | Degree of heat; not used when speaking of body-temperature, see ‘Thé-un’. | |\n| Ūn-tōng-sîn-keng | 運動神經 | Motor nerve. | |\n| Ut-huih | 鬱血 | Stasis. | |",
+  "error": null
+}

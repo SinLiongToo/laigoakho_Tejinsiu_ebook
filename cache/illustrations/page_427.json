@@ -1,0 +1,52 @@
+{
+  "page_number": 427,
+  "processed_at": "2026-08-28T07:44:40.175939",
+  "model": "gemini-3.7-flash",
+  "figure_count": 4,
+  "figures": [
+    {
+      "box_2d": [
+        [
+          160,
+          241,
+          206,
+          846
+        ]
+      ],
+      "caption": "Tē 271 tô:.-Gōa-kho-to."
+    },
+    {
+      "box_2d": [
+        [
+          286,
+          234,
+          611,
+          461
+        ]
+      ],
+      "caption": "Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ."
+    },
+    {
+      "box_2d": [
+        [
+          343,
+          595,
+          624,
+          795
+        ]
+      ],
+      "caption": "Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ."
+    },
+    {
+      "box_2d": [
+        [
+          733,
+          273,
+          813,
+          746
+        ]
+      ],
+      "caption": "Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau."
+    }
+  ]
+}

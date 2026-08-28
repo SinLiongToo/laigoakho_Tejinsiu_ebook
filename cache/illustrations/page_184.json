@@ -1,0 +1,35 @@
+{
+  "page_number": 184,
+  "processed_at": "2026-08-28T07:08:57.243066",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        264,
+        551,
+        380,
+        804
+      ],
+      "caption": "Tē 122 tô:—Hûi-chè ê piān-khì."
+    },
+    {
+      "box_2d": [
+        387,
+        530,
+        488,
+        836
+      ],
+      "caption": "Tē 123 tô:—Lâm ê siū-jiō-khì."
+    },
+    {
+      "box_2d": [
+        502,
+        469,
+        627,
+        897
+      ],
+      "caption": "Tē 124 tô:—Lú ê siū-jiō-khì."
+    }
+  ]
+}

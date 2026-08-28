@@ -1,0 +1,26 @@
+{
+  "page_number": 538,
+  "processed_at": "2026-08-28T08:01:30.392982",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        189,
+        106,
+        246,
+        332
+      ],
+      "caption": "Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.\nTrichocephalus dispar; natural size (Clinical Methods)."
+    },
+    {
+      "box_2d": [
+        355,
+        564,
+        799,
+        784
+      ],
+      "caption": "Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)"
+    }
+  ]
+}

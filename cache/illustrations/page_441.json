@@ -1,0 +1,63 @@
+{
+  "page_number": 441,
+  "processed_at": "2026-08-28T07:46:42.384596",
+  "model": "gemini-3.7-flash",
+  "figure_count": 5,
+  "figures": [
+    {
+      "box_2d": [
+        [
+          268,
+          213,
+          638,
+          375
+        ]
+      ],
+      "caption": "Tē 291 tô:—Lāi-sî."
+    },
+    {
+      "box_2d": [
+        [
+          230,
+          436,
+          658,
+          501
+        ]
+      ],
+      "caption": "Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator)."
+    },
+    {
+      "box_2d": [
+        [
+          370,
+          580,
+          645,
+          880
+        ]
+      ],
+      "caption": "Tē 293 tô:—Chhoan-lû-îⁿ-kù."
+    },
+    {
+      "box_2d": [
+        [
+          720,
+          259,
+          758,
+          830
+        ]
+      ],
+      "caption": "Tē 294 tô:—Ko·-chōng-chhàk."
+    },
+    {
+      "box_2d": [
+        [
+          806,
+          260,
+          846,
+          825
+        ]
+      ],
+      "caption": "Tē 295 tô:—Pán-chōng-chhàk."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 358,
+  "processed_at": "2026-08-28T07:34:37.227350",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        187,
+        197,
+        501,
+        713
+      ],
+      "caption": "Tē 210 tô:—ēng ke-si chiong chit liap mî-se that āu-phīⁿ- kháu (Morrow)."
+    },
+    {
+      "box_2d": [
+        537,
+        232,
+        824,
+        655
+      ],
+      "caption": "Tē 211 tô:—Āu-phīⁿ-kháu that liáu (Morrow)."
+    }
+  ]
+}

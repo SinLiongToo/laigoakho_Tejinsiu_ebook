@@ -1,0 +1,35 @@
+{
+  "page_number": 426,
+  "processed_at": "2026-08-28T07:44:31.651736",
+  "model": "gemini-3.7-flash",
+  "figure_count": 3,
+  "figures": [
+    {
+      "box_2d": [
+        370,
+        149,
+        452,
+        401
+      ],
+      "caption": "Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette)."
+    },
+    {
+      "box_2d": [
+        376,
+        539,
+        452,
+        783
+      ],
+      "caption": "Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)"
+    },
+    {
+      "box_2d": [
+        487,
+        345,
+        574,
+        563
+      ],
+      "caption": "Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "page_number": 390,
+  "processed_at": "2026-08-28T07:39:18.291333",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        203,
+        144,
+        664,
+        438
+      ],
+      "caption": "242\nTē 242 tô:—Phelps-sī ê siuⁿ-á."
+    },
+    {
+      "box_2d": [
+        223,
+        498,
+        666,
+        769
+      ],
+      "caption": "243\nTē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath)."
+    }
+  ]
+}

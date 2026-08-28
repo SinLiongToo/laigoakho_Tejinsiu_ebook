@@ -1,0 +1,26 @@
+{
+  "page_number": 236,
+  "processed_at": "2026-08-28T07:16:50.863943",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        168,
+        262,
+        438,
+        820
+      ],
+      "caption": "152\nTē 152 tô:—Ū-pī môa-chí-pâ-pò· ê hoat."
+    },
+    {
+      "box_2d": [
+        500,
+        260,
+        807,
+        824
+      ],
+      "caption": "153\nTē 153 tô:—Teh phi môa-chí-pâ-pò· hō· ī pîⁿ (Sanders)."
+    }
+  ]
+}

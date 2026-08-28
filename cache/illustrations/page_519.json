@@ -1,0 +1,26 @@
+{
+  "page_number": 519,
+  "processed_at": "2026-08-28T07:58:45.186280",
+  "model": "gemini-3.7-flash",
+  "figure_count": 2,
+  "figures": [
+    {
+      "box_2d": [
+        265,
+        203,
+        519,
+        446
+      ],
+      "caption": "Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre)."
+    },
+    {
+      "box_2d": [
+        464,
+        759,
+        717,
+        874
+      ],
+      "caption": "Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless)."
+    }
+  ]
+}

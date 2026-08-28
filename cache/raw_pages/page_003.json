@@ -1,0 +1,13 @@
+{
+  "page_number": 3,
+  "section_id": "front_matter",
+  "section_type": "english_front_matter",
+  "volume": "00_Front_Matter",
+  "target_file": "00_front_matter/01_english_preface.md",
+  "chapter_title": "英文書名、題辭與序言 (Title, Dedication & English Preface)",
+  "processed_at": "2026-08-28T01:12:28.242043",
+  "model": "gemini-3.7-flash",
+  "elapsed_seconds": 9.3,
+  "text": "以下為該頁獻詞（Dedication）之高精度數位化轉錄與多語對照翻譯：\n\n---\n\n**[English Original]**\n> **TO**\n> ### **My Wife**\n> **AND**\n> ### **The Nursing Profession in the Far East**\n> \n> AS A SMALL RECOGNITION OF THEIR SELF-DENYING LABOURS IN THE CARE OF THE SICK, THIS BOOK IS RESPECTFULLY DEDICATED.\n\n> **[台文對照]** (台語漢字 + 白話字)\n> **獻予（Hiàn hō͘）**\n> ### **我的牽手（Góa ê khan-chhiú）**\n> **與（kap）**\n> ### **極東地區的看護界同仁（Kek-tang tē-khu ê khòaⁿ-hō͘-kài tông-jîn）**\n> \n> 為著對𪜶照顧病者捨己辛勞的小小敬意與肯定，謹將此本冊恭敬奉獻。\n> (Uī-tio̍h tuì in chiàu-kò͘ pīⁿ-chiá siá-kí sin-lô ê sió-sió kèng-ì kap khéng-tēng, kín chiong chit pún chheh kiong-kèng hōng-hiàn.)\n> \n> **[華語對照]**\n> **謹獻給**\n> ### **我的妻子**\n> **以及**\n> ### **遠東地區的護理界同仁**\n> \n> 為對她（他）們在照護病患中所付出的克己與奉獻辛勞略表感戴，謹以此書恭敬奉獻。",
+  "error": null
+}
