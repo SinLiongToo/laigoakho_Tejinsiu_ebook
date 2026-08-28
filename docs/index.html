@@ -431,20 +431,58 @@
       outline: none;
     }
 
-    /* Floating Search Results Dropdown Panel */
-    .sidebar .results-panel {
-      position: absolute;
-      left: 8px;
-      right: 8px;
-      top: 100%;
-      z-index: 9999;
+    /* Dedicated Search Results Panel with High-Visibility Scrollbar */
+    .results-panel,
+    .sidebar .results-panel,
+    .sidebar .search .results-panel {
       background-color: var(--bg-primary) !important;
       border: 1.5px solid var(--theme-color) !important;
-      border-radius: 8px;
-      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
-      max-height: 460px;
-      overflow-y: auto;
-      padding: 8px 10px;
+      border-radius: 8px !important;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25) !important;
+      max-height: 420px !important;
+      overflow-y: scroll !important;
+      overflow-x: hidden !important;
+      padding: 8px 10px !important;
+      margin: 8px 0 12px 0 !important;
+      scrollbar-width: thin !important;
+      scrollbar-color: #0284c7 var(--bg-secondary) !important;
+    }
+
+    .results-panel.hide,
+    .sidebar .results-panel:empty {
+      display: none !important;
+    }
+
+    /* Search Results Scrollbar (11px wide, vivid cyan/teal thumb) */
+    .results-panel::-webkit-scrollbar,
+    .sidebar .results-panel::-webkit-scrollbar {
+      width: 11px !important;
+      height: 11px !important;
+      display: block !important;
+    }
+
+    .results-panel::-webkit-scrollbar-track,
+    .sidebar .results-panel::-webkit-scrollbar-track {
+      background: var(--bg-secondary) !important;
+      border-radius: 6px !important;
+    }
+
+    .results-panel::-webkit-scrollbar-thumb,
+    .sidebar .results-panel::-webkit-scrollbar-thumb {
+      background: #0284c7 !important;
+      border-radius: 6px !important;
+      border: 2px solid var(--bg-secondary) !important;
+    }
+
+    .results-panel::-webkit-scrollbar-thumb:hover,
+    .sidebar .results-panel::-webkit-scrollbar-thumb:hover {
+      background: #0369a1 !important;
+    }
+
+    [data-theme="dark"] .results-panel::-webkit-scrollbar-thumb,
+    [data-theme="dark"] .sidebar .results-panel::-webkit-scrollbar-thumb {
+      background: #38bdf8 !important;
+      border-color: #111827 !important;
     }
 
     .sidebar .results-panel .matching-post {
