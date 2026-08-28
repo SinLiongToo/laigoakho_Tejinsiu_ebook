@@ -544,15 +544,21 @@ def build_chapters():
     # Generate _coverpage.md
     coverpage_path = os.path.join(DOCS_DIR, "_coverpage.md")
     with open(coverpage_path, "w", encoding="utf-8") as f:
-        f.write("""# 1917 內外科看護學 <small>1.0</small>
+        f.write("""<div align="center">
+<img src="assets/author_george_gushue_taylor.jpg" alt="戴仁壽醫師 (Dr. George Gushue-Taylor)" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #2c7a7b; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</div>
 
-> Lāi Gōa Kho Khàn-hō͘-ha̍k
-> 全書台語白話字 (Pe̍h-ōe-jī) 現代 AI 視覺辨識與全漢字對照電子書 (含 475 張原書插圖)
+# 1917 內外科看護學 <small>1.0</small>
 
-- 台灣長老教會早期現代醫學經典
-- 705 頁全書完整收錄：英文題辭序言、白話字正文 40 章、原書解剖插圖、三語語彙表與索引
-- 採用 Iansui 芫荽體與台文最佳化字型排版
-- 採用 Gemini 3.7 Flash 深度多模態視覺佈局辨識與精密校注
+> **The Principles and Practice of Nursing** (Lāi Gōa Kho Khàn-hō͘-ha̍k)  
+> **著者**：戴仁壽 醫師 (Dr. George Gushue-Taylor, F.R.C.S., 1883–1954)  
+> **合編**：陳大鑼 先生 (Tân Tāi-lô)  
+> **題辭與序言**：甘為霖 牧師 (Rev. William Campbell)、蘭大衛 醫師 (Dr. David Landsborough)
+
+- 台灣醫學史上第一部現代護理學與臨床醫學教科書
+- 705 頁全書收錄：英文題辭序言、白話字正文 40 章、475 張原書醫學插圖、三語辭彙表與總索引
+- 採用 Iansui 芫荽體與台文專屬字型組排版
+- 採用 Gemini 3.7 Flash 深度視覺佈局辨識與逐段台漢對照
 
 [開始閱讀 (Get Started)](README.md)
 [GitHub 專案庫](https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook)
@@ -564,15 +570,29 @@ def build_chapters():
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(f"""# 1917《內外科看護學》數位典藏電子書
 
-歡迎閱讀 **《內外科看護學》（Lāi Gōa Kho Khàn-hō͘-ha̍k）** 現代化數位電子書。
+<div align="center" style="margin: 20px 0 30px 0;">
+  <img src="assets/author_george_gushue_taylor.jpg" alt="戴仁壽醫師 (Dr. George Gushue-Taylor)" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 3px solid #2c7a7b; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <p style="font-size: 16px; margin-top: 10px; font-weight: 600;">原著者：戴仁壽 醫師 (Dr. George Gushue-Taylor, 1883–1954)</p>
+  <p style="font-size: 14px; color: #718096; margin-top: -6px;">英國皇家外科醫學院院士 (F.R.C.S.)｜台南新樓醫院院長｜台北馬偕紀念醫院院長｜樂山園創辦人</p>
+</div>
 
-本書於 1917 年由彰化基督教醫院創辦人蘭大衛醫師（Dr. David Landsborough）等宣教醫師團隊以台語白話字（Pe̍h-ōe-jī）編撰出版，是台灣醫學史與台語文獻史上極其珍貴的第一部現代臨床護理與醫學教科書。
+歡迎閱讀由 **戴仁壽醫師（Dr. George Gushue-Taylor）** 主編、陳大鑼先生合編之 **《內外科看護學》（The Principles and Practice of Nursing / Lāi Gōa Kho Khàn-hō͘-ha̍k）** 現代化數位電子書。
 
 ---
 
-## 🌟 數位化特色
+## 👨‍⚕️ 著者生平與歷史背景
 
-1. **三語前言完整收錄**：包含蘭大衛醫師等人的英文序言、台文漢字與白話字對照、現代華語翻譯。
+**戴仁壽（George Gushue-Taylor，1883年12月6日－1954年4月23日）** 是一位來自加拿大紐芬蘭的醫療傳教醫師：
+
+- **卓越醫術**：畢業於倫敦醫院醫學院，考取極具威望的英國皇家外科醫師學會院士（F.R.C.S.），曾榮獲婦科與解剖學大獎，被譽為日治時期全台灣學術與臨床醫術最高超的外科名醫之一。
+- **編著本書**：1911 年抵達台灣行醫，有感於台灣缺乏本土護理專業人才與教材，於 1917 年在台南新樓醫院任內，與陳大鑼先生合作以**台語白話字（Pe̍h-ōe-jī）**編寫了這部高達 705 頁的巨著《內外科看護學》，成為台灣第一部現代臨床護理與解剖醫學專書。
+- **奉獻痲瘋防治**：後轉任台北馬偕紀念醫院院長，並於 1934 年在新北八里創立「樂山園（Happy Mount Colony）」，打破當時官方強制隔離制度，給予病患有尊嚴的自治與自養環境。去世後遺骸歸葬於八里樂山療養院紀念園中。
+
+---
+
+## 🌟 本數位典藏電子書特色
+
+1. **原作者尊崇與三語前言**：完整收錄戴仁壽醫師編撰體例、甘為霖牧師題辭、蘭大衛醫師英文序言、白話字頭序與現代華語三語對照。
 2. **正文 40 章逐段對照**：全書 705 頁高精度白話字（POJ）與台語全漢字逐段並列。
 3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
