@@ -296,6 +296,14 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       padding: 0 0 40px 0;
     }
 
+    .sidebar-nav li.open > ul {
+      display: block !important;
+    }
+
+    .sidebar-nav li.collapse > ul {
+      display: none !important;
+    }
+
     .content {
       left: 360px !important;
       position: absolute !important;
@@ -673,16 +681,18 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     // --------------------------------------------------------------------------
     let isAllExpanded = false;
     function toggleAllSidebarChapters() {
-      const folderSpans = document.querySelectorAll('.sidebar-nav .folder, .sidebar-nav li.collapse > span, .sidebar-nav li.open > span');
       isAllExpanded = !isAllExpanded;
       
-      folderSpans.forEach(span => {
-        const parentLi = span.closest('li');
-        if (parentLi) {
-          if (isAllExpanded && parentLi.classList.contains('collapse')) {
-            span.click();
-          } else if (!isAllExpanded && parentLi.classList.contains('open')) {
-            span.click();
+      const listItems = document.querySelectorAll('.sidebar-nav li');
+      listItems.forEach(li => {
+        const childUl = li.querySelector('ul');
+        if (childUl) {
+          if (isAllExpanded) {
+            li.classList.add('open');
+            li.classList.remove('collapse');
+          } else {
+            li.classList.remove('open');
+            li.classList.add('collapse');
           }
         }
       });
