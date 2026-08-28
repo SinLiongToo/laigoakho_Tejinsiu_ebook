@@ -6,8 +6,8 @@
 
 > **The Principles and Practice of Nursing** (Lāi Gōa Kho Khàn-hō͘-ha̍k)  
 > **著者**：戴仁壽 醫師 (Dr. George Gushue-Taylor, F.R.C.S., 1883–1954)  
-> **合編**：陳大鑼 先生 (Tân Tāi-lô)  
-> **題辭與序言**：甘為霖 牧師 (Rev. William Campbell)、蘭大衛 醫師 (Dr. David Landsborough)
+> **協作**：陳大鑼 先生 (Tân Tāi-lô) 等多位台灣醫界與教會前輩  
+> **序言**：戴仁壽 醫師 親撰英文序言 (English Preface) 與 白話字頭序 (Thâu-sū)
 
 - 台灣醫學史上第一部現代護理學與臨床醫學教科書
 - 705 頁全書收錄：英文題辭序言、白話字正文 40 章、475 張原書醫學插圖、三語辭彙表與總索引

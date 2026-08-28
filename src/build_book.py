@@ -1010,8 +1010,8 @@ def build_chapters():
 
 > **The Principles and Practice of Nursing** (Lāi Gōa Kho Khàn-hō͘-ha̍k)  
 > **著者**：戴仁壽 醫師 (Dr. George Gushue-Taylor, F.R.C.S., 1883–1954)  
-> **合編**：陳大鑼 先生 (Tân Tāi-lô)  
-> **題辭與序言**：甘為霖 牧師 (Rev. William Campbell)、蘭大衛 醫師 (Dr. David Landsborough)
+> **協作**：陳大鑼 先生 (Tân Tāi-lô) 等多位台灣醫界與教會前輩  
+> **序言**：戴仁壽 醫師 親撰英文序言 (English Preface) 與 白話字頭序 (Thâu-sū)
 
 - 台灣醫學史上第一部現代護理學與臨床醫學教科書
 - 705 頁全書收錄：英文題辭序言、白話字正文 40 章、475 張原書醫學插圖、三語辭彙表與總索引
@@ -1035,7 +1035,7 @@ def build_chapters():
   <p style="font-size: 14px; color: #718096; margin-top: -6px;">英國皇家外科醫學院院士 (F.R.C.S.)｜台南新樓醫院院長｜台北馬偕紀念醫院院長｜樂山園創辦人</p>
 </div>
 
-歡迎閱讀由 **戴仁壽醫師（Dr. George Gushue-Taylor）** 主編、陳大鑼先生合編之 **《內外科看護學》（The Principles and Practice of Nursing / Lāi Gōa Kho Khàn-hō͘-ha̍k）** 現代化數位電子書。
+歡迎閱讀由 **戴仁壽醫師（Dr. George Gushue-Taylor）** 主編、陳大鑼先生等台灣醫界前輩合編之 **《內外科看護學》（The Principles and Practice of Nursing / Lāi Gōa Kho Khàn-hō͘-ha̍k）** 現代化數位電子書。
 
 ---
 
@@ -1051,7 +1051,7 @@ def build_chapters():
 
 ## 🌟 本數位典藏電子書特色
 
-1. **原作者尊崇與三語前言**：完整收錄戴仁壽醫師編撰體例、甘為霖牧師題辭、蘭大衛醫師英文序言、白話字頭序與現代華語三語對照。
+1. **著者原著與完整三語前言**：完整收錄戴仁壽醫師英文獻詞（Dedication）、英文序言（English Preface）、白話字頭序（Thâu-sū）與現代華語三語對照。
 2. **正文 40 章逐段對照**：全書 705 頁高精度白話字（POJ）與台語全漢字逐段並列。
 3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
