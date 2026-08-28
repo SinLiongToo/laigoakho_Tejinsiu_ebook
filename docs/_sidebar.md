@@ -1,12 +1,12 @@
 * [🏠 首頁 (Home)](README.md)
 * [📖 全書目錄 (Table of Contents)](00_front_matter/03_contents_and_rules.md)
 
-* **00_Front_Matter**
+* 📖 前言與凡例 (Front Matter)
   * [英文書名、題辭與序言 (Title, Dedication & English Preface)](00_front_matter/01_english_preface.md)
   * [頭序 (Thâu-sū)](00_front_matter/02_thau_su.md)
   * [總目錄與凡例借語 (Bo̍k-lio̍k & Chià-gô͘)](00_front_matter/03_contents_and_rules.md)
 
-* **第一篇 解剖學及生理學 (Kái-phò͘-ha̍k kap Seng-lí-ha̍k)**
+* 🩺 第一篇 解剖學及生理學 (Kái-phò͘-ha̍k)
   * [第一章 身軀普通之構造 (Seng-khu Phó͘-thong ê Kò͘-chō)](01_volume_1_anatomy/ch_01_body_structure.md)
   * [第二章 骨系統 (Kut Hē-thóng)](01_volume_1_anatomy/ch_02_skeletal_system.md)
   * [第三章 筋肉系統及關節 (Kun-bah Hē-thóng kap Koan-chat)](01_volume_1_anatomy/ch_03_muscular_and_joints.md)
@@ -18,7 +18,7 @@
   * [第九章 神經系統 (Sîn-keng Hē-thóng)](01_volume_1_anatomy/ch_09_nervous_system.md)
   * [第十章 五官器 (Ngó͘-koan-khì)](01_volume_1_anatomy/ch_10_sensory_organs.md)
 
-* **第二篇 普通看護學 (Phó͘-thong Khàn-hō͘-ha̍k)**
+* 🏥 第二篇 普通看護學 (Phó͘-thong Khàn-hō͘-ha̍k)
   * [第十一章 看護之職總論 (Khàn-hō͘ ê Chit Chóng-lūn)](02_volume_2_nursing/ch_11_nursing_duties_intro.md)
   * [第十二章 病室內雜事 (Pīⁿ-sek-lāi Cha̍p-sū)](02_volume_2_nursing/ch_12_ward_management.md)
   * [第十三章 病床、醫服、通空氣的法度 (Pīⁿ-chhông, I-ho̍k, Thong Khong-khì ê Hoat-tō͘)](02_volume_2_nursing/ch_13_bed_clothing_ventilation.md)
@@ -31,7 +31,7 @@
   * [第二十章 看護查考患者的實情 (Khàn-hō͘ Cha-khóaⁿ Hoān-chia ê Sū-chêng)](02_volume_2_nursing/ch_20_observation_of_symptoms.md)
   * [第二十一章 發藥互病人 (Hoat Ióh hō͘ Pīⁿ-lâng)](02_volume_2_nursing/ch_21_administration_of_medicines.md)
 
-* **第三篇 外科看護學 (Gōa-kho Khàn-hō͘-ha̍k)**
+* 🔪 第三篇 外科看護學 (Gōa-kho Khàn-hō͘-ha̍k)
   * [第二十二章 細菌學、免疫、炎症 (Sè-khún-ha̍k, Bián-e̍k, Iām-chèng)](03_volume_3_surgery/ch_22_bacteriology_inflammation.md)
   * [第二十三章 創傷 (Chhòng-siong)](03_volume_3_surgery/ch_23_wounds.md)
   * [第二十四章 花柳病 (Hoa-liú-pīⁿ)](03_volume_3_surgery/ch_24_venereal_diseases.md)
@@ -43,7 +43,7 @@
   * [第三十章 麻醉藥、手術 (Bâ-chùI-ióh, Chhiú-su̍t)](03_volume_3_surgery/ch_30_anesthesia_and_operations.md)
   * [第三十一章 繃帶學 (Pheng-tòa-ha̍k)](03_volume_3_surgery/ch_31_bandaging.md)
 
-* **第四篇 內科看護學 (Lāi-kho Khàn-hō͘-ha̍k)**
+* 💊 第四篇 內科看護學 (Lāi-kho Khàn-hō͘-ha̍k)
   * [第三十二章 消化器病 (Siau-hòa-khì-pīⁿ)](04_volume_4_medicine/ch_32_digestive_diseases.md)
   * [第三十三章 血之病及心臟病 (Huih ê Pīⁿ kap Sim-chhông-pīⁿ)](04_volume_4_medicine/ch_33_circulatory_diseases.md)
   * [第三十四章 呼吸器病 (Ho͘-khip-khì-pīⁿ)](04_volume_4_medicine/ch_34_respiratory_diseases.md)
@@ -54,11 +54,9 @@
   * [第三十九章 生產及看護產婦 (Seng-sán kap Khàn-hō͘ Sán-hū)](04_volume_4_medicine/ch_39_obstetrics_nursing.md)
   * [第四十章 照顧及幼飼囡仔 (Chiau-kò͘ kap Iū-chhī Gín-ná)](04_volume_4_medicine/ch_40_infant_care.md)
 
-* **05_Glossary**
+* 📚 附錄一：醫學三語辭彙表 (GÚ-LŪI)
   * [語彙 GÚ-LŪI (醫學台英漢三語辭彙對照表)](05_glossary/medical_glossary.md)
 
-* **06_Index**
+* 🔍 附錄二：總索引目錄 (SEK-ÍN)
   * [索引 SEK-ÍN (總索引目錄)](06_index/general_index.md)
 
-* [📚 醫學三語辭彙表 (GÚ-LŪI)](05_glossary/medical_glossary.md)
-* [🔍 總索引 (SEK-ÍN)](06_index/general_index.md)

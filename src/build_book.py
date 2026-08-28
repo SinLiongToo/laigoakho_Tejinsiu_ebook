@@ -2,7 +2,7 @@
 """
 Book & GitHub Pages Site Builder for 1917 Lai-goa-kho Tann-jin-siu.
 Aggregates single-page raw OCR results into clean chapter Markdown files,
-automatically embeds extracted illustrations/diagrams, and generates Docsify navigation.
+automatically embeds extracted illustrations/diagrams, and generates Docsify navigation with collapsible sidebar.
 """
 
 import os
@@ -37,8 +37,9 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hanamin@0.0.5/HanaMin.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Noto+Serif+TC:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   
-  <!-- Docsify Theme -->
+  <!-- Docsify Theme & Collapsible Sidebar Plugin Style -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   
   <style>
     /* ==========================================================================
@@ -224,7 +225,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     /* ==========================================================================
-       Sidebar & Navigation Styling
+       Sidebar & Collapsible Navigation Styling
        ========================================================================== */
     .sidebar {
       background-color: var(--bg-sidebar) !important;
@@ -237,10 +238,11 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
 
     .sidebar ul li a {
       color: var(--text-secondary) !important;
-      padding: 6px 12px;
+      padding: 6px 10px;
       border-radius: 6px;
       display: block;
       font-family: var(--font-zh) !important;
+      font-size: 14.5px;
     }
 
     .sidebar ul li.active > a,
@@ -248,6 +250,15 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       color: var(--theme-color) !important;
       background-color: var(--border-color);
       font-weight: 600;
+    }
+
+    .sidebar .folder {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--text-primary) !important;
+      padding: 8px 6px;
+      display: block;
+      user-select: none;
     }
 
     .sidebar .search {
@@ -263,6 +274,10 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       padding: 8px 12px;
       width: 100%;
       font-family: var(--font-zh) !important;
+    }
+
+    [data-theme="dark"] .sidebar-nav li::before {
+      color: var(--text-muted) !important;
     }
 
     /* ==========================================================================
@@ -374,13 +389,14 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
     });
 
     // --------------------------------------------------------------------------
-    // Docsify Configuration
+    // Docsify Configuration with Collapsible Sidebar
     // --------------------------------------------------------------------------
     window.$docsify = {
       name: '1917 內外科看護學',
       repo: 'https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook',
       loadSidebar: true,
       subMaxLevel: 3,
+      sidebarDisplayLevel: 1, // Collapse top-level volumes by default (expandable on click)
       coverpage: true,
       homepage: 'README.md',
       auto2top: true,
@@ -405,7 +421,6 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
         function(hook, vm) {
           hook.afterEach(function(html, next) {
             // Bulletproof Image Resolver Plugin
-            // Automatically fixes relative illustration paths across all routes
             var basePath = window.location.pathname.replace(/\\/$/, '');
             var tempDiv = document.createElement('div');
             tempDiv.innerHTML = html;
@@ -429,6 +444,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
@@ -455,9 +471,27 @@ def build_chapters():
     book_structure = load_book_structure()
     sections = book_structure["sections"]
     
-    print("🔨 開始聚合章節 Markdown 文件至 docs/ (含插圖自動嵌入與字體更新)...")
+    print("🔨 開始聚合章節 Markdown 文件至 docs/ (含插圖自動嵌入、字體更新與可折疊目錄)...")
     
-    sidebar_items = defaultdict(list)
+    # Pre-defined clean volume grouping
+    vol_display_names = {
+        "00_Front_Matter": "📖 前言與凡例 (Front Matter)",
+        "00_front_matter": "📖 前言與凡例 (Front Matter)",
+        "01_Volume_1_Anatomy_Physiology": "🩺 第一篇 解剖學及生理學 (Kái-phò͘-ha̍k)",
+        "01_volume_1_anatomy": "🩺 第一篇 解剖學及生理學 (Kái-phò͘-ha̍k)",
+        "02_Volume_2_General_Nursing": "🏥 第二篇 普通看護學 (Phó͘-thong Khàn-hō͘-ha̍k)",
+        "02_volume_2_nursing": "🏥 第二篇 普通看護學 (Phó͘-thong Khàn-hō͘-ha̍k)",
+        "03_Volume_3_Surgical_Nursing": "🔪 第三篇 外科看護學 (Gōa-kho Khàn-hō͘-ha̍k)",
+        "03_volume_3_surgery": "🔪 第三篇 外科看護學 (Gōa-kho Khàn-hō͘-ha̍k)",
+        "04_Volume_4_Medical_Nursing": "💊 第四篇 內科看護學 (Lāi-kho Khàn-hō͘-ha̍k)",
+        "04_volume_4_medicine": "💊 第四篇 內科看護學 (Lāi-kho Khàn-hō͘-ha̍k)",
+        "05_Glossary": "📚 附錄一：醫學三語辭彙表 (GÚ-LŪI)",
+        "05_glossary": "📚 附錄一：醫學三語辭彙表 (GÚ-LŪI)",
+        "06_Index": "🔍 附錄二：總索引目錄 (SEK-ÍN)",
+        "06_index": "🔍 附錄二：總索引目錄 (SEK-ÍN)"
+    }
+    
+    sidebar_groups = defaultdict(list)
     total_words = 0
     total_pages_included = 0
     total_illustrations_embedded = 0
@@ -465,7 +499,8 @@ def build_chapters():
     for sec in sections:
         sec_id = sec["id"]
         sec_title = sec["title"]
-        vol_name = sec.get("volume_title", sec.get("volume", "前言與附錄"))
+        vol_key = sec.get("volume", "00_front_matter")
+        vol_label = vol_display_names.get(vol_key, sec.get("volume_title", vol_key))
         target_file = sec["target_file"]
         target_path = os.path.join(DOCS_DIR, target_file)
         
@@ -520,26 +555,23 @@ def build_chapters():
                     total_words += len(p_text)
                     
             print(f"  📄 [{len(chapter_pages):02d} 頁] -> {target_file}")
-            sidebar_items[vol_name].append((sec_title, target_file))
+            sidebar_groups[vol_label].append((sec_title, target_file))
         else:
-            sidebar_items[vol_name].append((sec_title, target_file))
+            sidebar_groups[vol_label].append((sec_title, target_file))
 
-    # Generate _sidebar.md
+    # Generate _sidebar.md with collapsible markdown structure
     sidebar_path = os.path.join(DOCS_DIR, "_sidebar.md")
     with open(sidebar_path, "w", encoding="utf-8") as f:
         f.write("* [🏠 首頁 (Home)](README.md)\n")
         f.write("* [📖 全書目錄 (Table of Contents)](00_front_matter/03_contents_and_rules.md)\n\n")
         
-        for vol, items in sidebar_items.items():
-            f.write(f"* **{vol}**\n")
+        for vol_label, items in sidebar_groups.items():
+            f.write(f"* {vol_label}\n")
             for title, path in items:
                 f.write(f"  * [{title}]({path})\n")
             f.write("\n")
-            
-        f.write("* [📚 醫學三語辭彙表 (GÚ-LŪI)](05_glossary/medical_glossary.md)\n")
-        f.write("* [🔍 總索引 (SEK-ÍN)](06_index/general_index.md)\n")
         
-    print(f"✅ 側邊導航已生成: {sidebar_path}")
+    print(f"✅ 可折疊側邊導航已生成: {sidebar_path}")
 
     # Generate _coverpage.md
     coverpage_path = os.path.join(DOCS_DIR, "_coverpage.md")
@@ -598,7 +630,7 @@ def build_chapters():
 3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
 5. **台語典藏最佳化字型**：採用 **Iansui 芫荽體**、**HanaMin**、**Klee One** 與 **Noto Serif TC**，完美呈現白話字調號與漢字。
-6. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、全文搜尋與目錄導覽。
+6. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、側邊欄各篇折疊展開 (Collapsible Sidebar)、全文搜尋與目錄導覽。
 
 ---
 
@@ -639,7 +671,7 @@ def build_chapters():
 """)
     print(f"✅ 首頁 README.md 已生成: {readme_path}")
 
-    # Generate docs/index.html with full Dark Mode and Bulletproof Image Resolver Plugin
+    # Generate docs/index.html with full Dark Mode, Collapsible Sidebar and Bulletproof Image Resolver Plugin
     index_html_path = os.path.join(DOCS_DIR, "index.html")
     with open(index_html_path, "w", encoding="utf-8") as f:
         f.write(INDEX_HTML_TEMPLATE.strip())
