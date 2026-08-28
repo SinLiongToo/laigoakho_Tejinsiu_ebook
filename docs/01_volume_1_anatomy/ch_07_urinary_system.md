@@ -9,11 +9,12 @@
 #### 📖 原書第 116 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_116_fig_01.png" alt="Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)](assets/illustrations/page_116_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)</em></p>
+
 </div>
 
 ### TĒ 7 CHIUⁿ
@@ -57,15 +58,16 @@ Tē 82 tô͘.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, 
 #### 📖 原書第 117 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_117_fig_01.png" alt="Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_117_fig_02.png" alt="Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son).](assets/illustrations/page_117_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son).</em></p>
+
+![Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).](assets/illustrations/page_117_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).</em></p>
+
 </div>
 
 ### SU-JIŌ-KÚNG, PÔNG-KONG（輸尿管、膀胱）
@@ -124,11 +126,12 @@ Iòh m̄-thang pàng-hē pîⁿ-lâng ê sin-piⁿ, tio̍h siu tī iòh-tû-nih.
 #### 📖 原書第 118 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_118_fig_01.png" alt="Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).](assets/illustrations/page_118_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).</em></p>
+
 </div>
 
 ### PÌ-JIŌ-KHÌ HĒ-THÓNG
@@ -316,15 +319,16 @@ Kiám jiō hoat ê kui-kú : Kiám jiō ê hoat-tō͘ ū nñg saⁿ hāng, iàu-
 #### 📖 原書第 121 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_121_fig_01.png" alt="Tē 86 tô:-Jiō-pí-tāng-kè." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 86 tô:-Jiō-pí-tāng-kè.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_121_fig_02.png" alt="Tē 87 tô:-San ki chhì-giām-kńg." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 87 tô:-San ki chhì-giām-kńg.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 86 tô:-Jiō-pí-tāng-kè.](assets/illustrations/page_121_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 86 tô:-Jiō-pí-tāng-kè.</em></p>
+
+![Tē 87 tô:-San ki chhì-giām-kńg.](assets/illustrations/page_121_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 87 tô:-San ki chhì-giām-kńg.</em></p>
+
 </div>
 
 ### KIÁM JIŌ Ê HOAT (105)

@@ -72,11 +72,12 @@ Koh só͘ ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 
 #### 📖 原書第 147 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_147_fig_01.png" alt="Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey).](assets/illustrations/page_147_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey).</em></p>
+
 </div>
 
 khu ê tiong-kan chi̍h-chiam tē it bín-chia̍t ; chhiú-tó kap tōa-thúi siāng tūn.
@@ -124,11 +125,12 @@ Tio̍h chheng-khì.
 #### 📖 原書第 148 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_148_fig_01.png" alt="Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)](assets/illustrations/page_148_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)</em></p>
+
 </div>
 
 **132**｜**NGÓ͘-KOAN-KHÌ**
@@ -287,11 +289,12 @@ Siōng-tè bô kah lâng tióh gâu, sī kiò lâng tióh chīn-tiong.
 #### 📖 原書第 150 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_150_fig_01.png" alt="Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)](assets/illustrations/page_150_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></p>
+
 </div>
 
 ### 134 NGÓ͘-KOAN-KHÌ
@@ -372,11 +375,12 @@ Ták hō ê siaⁿ lóng sī tùi hit ê chhut siaⁿ ê mi̍h teh chín-tōng; 
 #### 📖 原書第 152 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_152_fig_01.png" alt="Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham).](assets/illustrations/page_152_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham).</em></p>
+
 </div>
 
 136 NGÓ͘-KOAN-KHÌ
@@ -474,11 +478,12 @@ Kah hù-bo̍k liáu, tio̍h sûn chíng-thâu-á ê sek, á-sī ū chéng bô.
 #### 📖 原書第 154 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_154_fig_01.png" alt="Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)](assets/illustrations/page_154_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)</em></p>
+
 </div>
 
 **138｜NGÓ͘-KOAN-KHÌ**
@@ -545,11 +550,12 @@ Tē 106 tô͘.—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From
 #### 📖 原書第 155 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_155_fig_01.png" alt="Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge).](assets/illustrations/page_155_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge).</em></p>
+
 </div>
 
 ### BA̍K-CHIU Ū SÌ KHOÁN (139)
@@ -603,25 +609,23 @@ Chiàⁿ-sī-gán sī ba̍k-chiu chiâu-chng hó, chiū-sī ji̍t-kng ê pîⁿ-
 #### 📖 原書第 156 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_156_fig_01.png" alt="A
-Tē 108 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>A
-Tē 108 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_156_fig_02.png" alt="B
-Tē 109 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>B
-Tē 109 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_156_fig_03.png" alt="CH
-Tē 110 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>CH
-Tē 110 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![A Tē 108 tô.](assets/illustrations/page_156_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>A
+Tē 108 tô.</em></p>
+
+![B Tē 109 tô.](assets/illustrations/page_156_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>B
+Tē 109 tô.</em></p>
+
+![CH Tē 110 tô.](assets/illustrations/page_156_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>CH
+Tē 110 tô.</em></p>
+
 </div>
 
 ## NGÓ͘-KOAN-KHÌ
@@ -686,15 +690,16 @@ Tē 108-110 tô͘:—Pîⁿ-hêng-sòàⁿ chiò-ji̍p tī kūn-sī-gán, sio-ti
 #### 📖 原書第 157 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_157_fig_01.png" alt="Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_157_fig_02.png" alt="Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge).](assets/illustrations/page_157_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge).</em></p>
+
+![Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)](assets/illustrations/page_157_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)</em></p>
+
 </div>
 
 ### BÁK-KIÀⁿ, SIŌNG（141 頁）
@@ -771,11 +776,12 @@ chiah ê mi̍h : kak-mó̍h, chiân-phông-lāi ê chúi-iūⁿ-e̍k, tông-khó
 #### 📖 原書第 158 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_158_fig_01.png" alt="Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy).](assets/illustrations/page_158_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy).</em></p>
+
 </div>
 
 142 **NGÓ͘-KOAN-KHÌ**
@@ -824,11 +830,12 @@ Ba̍k-chiu sī put-chí pó-pòe ê mi̍h, só͘-í pī-pān ta̍k-hāng
 #### 📖 原書第 159 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_159_fig_01.png" alt="Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_159_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+
 </div>
 
 ### GÁN-KIÛ-KIAT-MÓ͘H, GÁN-KIÁM-KIAT-MÓ͘H, LŪI-KHÌ 143

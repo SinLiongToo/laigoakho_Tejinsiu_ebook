@@ -130,11 +130,12 @@ Góa siat-sú ē kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa c
 #### 📖 原書第 337 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_337_fig_01.png" alt="Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)](assets/illustrations/page_337_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></p>
+
 </div>
 
 ### CHHÒNG-SIONG（創傷）

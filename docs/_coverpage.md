@@ -8,4 +8,4 @@
 - 採用 Gemini 3.7 Flash 深度多模態視覺佈局辨識與精密校注
 
 [開始閱讀 (Get Started)](README.md)
-[GitHub 專案庫](https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook)
+[GitHub 專案庫](https://github.com/)

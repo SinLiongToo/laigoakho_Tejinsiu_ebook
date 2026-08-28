@@ -402,11 +402,12 @@ Chit ê pīⁿ ê chèng-chōng chōe koh cha̍p, bē tit thang chiâu kóng-kh�
 #### 📖 原書第 593 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_593_fig_01.png" alt="Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).](assets/illustrations/page_593_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></p>
+
 </div>
 
 568 SÎN-KENG PĪⁿ

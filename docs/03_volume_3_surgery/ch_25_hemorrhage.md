@@ -126,15 +126,16 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hè-teh.
 #### 📖 原書第 349 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_349_fig_01.png" alt="192 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>192 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_349_fig_02.png" alt="193 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>193 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![192 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)](assets/illustrations/page_349_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>192 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)</em></p>
+
+![193 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)](assets/illustrations/page_349_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>193 Tē 192, 193 tô:—Chit tiâu chhiú-kun, lāi-bīn kńg chit liàp chióh, ēng koáiⁿ-á choān hō· i ân lâi chí huih. (From Stoney's “Practical points in Nursing,”.)</em></p>
+
 </div>
 
 ### 330 CHHUT-HUIH
@@ -202,19 +203,18 @@ Chí-huih-khì (止血器, Tourniquet): Théh chi̍t tiâu chhiú-kun, lāi-bīn
 #### 📖 原書第 350 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_350_fig_01.png" alt="194
-Tē 194 tô͘.—Foulis-sī ê chí-huih-khì (chhiū-leng kap chhâ chòe-ê). (From Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>194
-Tē 194 tô͘.—Foulis-sī ê chí-huih-khì (chhiū-leng kap chhâ chòe-ê). (From Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_350_fig_02.png" alt="195
-Tē 195 tô͘.—Ēng chí-huih-khì tîⁿ siōng-phok-tōng-mėh. (From "First Aid.")" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>195
-Tē 195 tô͘.—Ēng chí-huih-khì tîⁿ siōng-phok-tōng-mėh. (From "First Aid.")</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![194 Tē 194 tô͘.—Foulis-sī ê chí-huih-khì (chhiū-leng kap chhâ chòe-ê). (From Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)](assets/illustrations/page_350_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>194
+Tē 194 tô͘.—Foulis-sī ê chí-huih-khì (chhiū-leng kap chhâ chòe-ê). (From Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+
+![195 Tē 195 tô͘.—Ēng chí-huih-khì tîⁿ siōng-phok-tōng-mėh. (From "First Aid.")](assets/illustrations/page_350_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>195
+Tē 195 tô͘.—Ēng chí-huih-khì tîⁿ siōng-phok-tōng-mėh. (From "First Aid.")</em></p>
+
 </div>
 
 ### CHÍ-HUIH-KHÌ, CHĒNG-MÉH CHHUT-HUIH（止血器，靜脈出血）
@@ -265,19 +265,20 @@ Nā-sī chēng-méh chhut-huih tio̍h chiàu kì tī ē-tóe ê hoat. Hō͘ pī�
 #### 📖 原書第 351 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_351_fig_01.png" alt="Tē 196 tô.—Chhih siōng-phok-tōng-me̍h. (From Warwick and Tunstall's “First Aid”.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 196 tô.—Chhih siōng-phok-tōng-me̍h. (From Warwick and Tunstall's “First Aid”.)</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_351_fig_02.png" alt="Tē 197 tô.—Ēng tōa-thâu-bú chhih só-kut-ē-tōng-me̍h." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 197 tô.—Ēng tōa-thâu-bú chhih só-kut-ē-tōng-me̍h.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_351_fig_03.png" alt="Tē 198 tô.—Ēng pò· pau só-sî chhih só-kut-ē-tōng-me̍h. (From “First Aid.”)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 198 tô.—Ēng pò· pau só-sî chhih só-kut-ē-tōng-me̍h. (From “First Aid.”)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 196 tô.—Chhih siōng-phok-tōng-me̍h. (From Warwick and Tunstall's “First Aid”.)](assets/illustrations/page_351_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 196 tô.—Chhih siōng-phok-tōng-me̍h. (From Warwick and Tunstall's “First Aid”.)</em></p>
+
+![Tē 197 tô.—Ēng tōa-thâu-bú chhih só-kut-ē-tōng-me̍h.](assets/illustrations/page_351_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 197 tô.—Ēng tōa-thâu-bú chhih só-kut-ē-tōng-me̍h.</em></p>
+
+![Tē 198 tô.—Ēng pò· pau só-sî chhih só-kut-ē-tōng-me̍h. (From “First Aid.”)](assets/illustrations/page_351_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 198 tô.—Ēng pò· pau só-sî chhih só-kut-ē-tōng-me̍h. (From “First Aid.”)</em></p>
+
 </div>
 
 332  
@@ -338,11 +339,12 @@ Nā koh-ē-khang chhut-huih, tio̍h chhih tī só-kut-ē-tōng-me̍h. Chhih ê s
 #### 📖 原書第 352 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_352_fig_01.png" alt="Tē 199 tô:—Khah iàu-kin ê tông-mėh kap kut ê kan-siáp. Chìⁿ teh chí-bēng chhut-huih ê sî, tiỏh chhih tī sím-mih pō͘-ūi : 1, jiap-su-tōng-mėh ; 2, gān-bīn-tōng-mėh ; 3, gōa-kēng-tōng-mėh ; 4, chóng-kēng-tōng-mėh ; 5, tāi-tōng-mėh ; 6, sim-chōng ; 7, āu-kēng-kut-tōng-mėh ; 8, chêng-kēng-kut-tōng-mėh ; 9, chhek-kok-tōng-mėh ; 10, kó-tōng-mėh ; 11, chíuⁿ-keng ; 12, chhioh-kut-tōng-mėh ; 13, jiâu-kut-tōng-mėh ; 14, siōng-phok-tōng-mėh ; 15, koh-o-tōng-mėh ; 16, só-kut-ē-tōng mėh. (Morrow, from Sanders “Modern Methods in Nursing.”)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 199 tô:—Khah iàu-kin ê tông-mėh kap kut ê kan-siáp. Chìⁿ teh chí-bēng chhut-huih ê sî, tiỏh chhih tī sím-mih pō͘-ūi : 1, jiap-su-tōng-mėh ; 2, gān-bīn-tōng-mėh ; 3, gōa-kēng-tōng-mėh ; 4, chóng-kēng-tōng-mėh ; 5, tāi-tōng-mėh ; 6, sim-chōng ; 7, āu-kēng-kut-tōng-mėh ; 8, chêng-kēng-kut-tōng-mėh ; 9, chhek-kok-tōng-mėh ; 10, kó-tōng-mėh ; 11, chíuⁿ-keng ; 12, chhioh-kut-tōng-mėh ; 13, jiâu-kut-tōng-mėh ; 14, siōng-phok-tōng-mėh ; 15, koh-o-tōng-mėh ; 16, só-kut-ē-tōng mėh. (Morrow, from Sanders “Modern Methods in Nursing.”)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 199 tô:—Khah iàu-kin ê tông-mėh kap kut ê kan-siáp. Chìⁿ teh chí-bēng chhut-huih ê sî, tiỏh chhih tī sím-mih pō͘-ūi : 1, jiap-su-tōng-mėh ; 2, gān-bīn-tōng-mėh ; 3, gōa-kēng-tōng-mėh ; 4, chóng-kēng-tōng-mėh ; 5, tāi-tōng-mėh ; 6, sim-chōng ; 7, āu-kēng-kut-tōng-mėh ; 8, chêng-kēng-kut-tōng-mėh ; 9, chhek-kok-tōng-mėh ; 10, kó-tōng-mėh ; 11, chíuⁿ-keng ; 12, chhioh-kut-tōng-mėh ; 13, jiâu-kut-tōng-mėh ; 14, siōng-phok-tōng-mėh ; 15, koh-o-tōng-mėh ; 16, só-kut-ē-tōng mėh. (Morrow, from Sanders “Modern Methods in Nursing.”)](assets/illustrations/page_352_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 199 tô:—Khah iàu-kin ê tông-mėh kap kut ê kan-siáp. Chìⁿ teh chí-bēng chhut-huih ê sî, tiỏh chhih tī sím-mih pō͘-ūi : 1, jiap-su-tōng-mėh ; 2, gān-bīn-tōng-mėh ; 3, gōa-kēng-tōng-mėh ; 4, chóng-kēng-tōng-mėh ; 5, tāi-tōng-mėh ; 6, sim-chōng ; 7, āu-kēng-kut-tōng-mėh ; 8, chêng-kēng-kut-tōng-mėh ; 9, chhek-kok-tōng-mėh ; 10, kó-tōng-mėh ; 11, chíuⁿ-keng ; 12, chhioh-kut-tōng-mėh ; 13, jiâu-kut-tōng-mėh ; 14, siōng-phok-tōng-mėh ; 15, koh-o-tōng-mėh ; 16, só-kut-ē-tōng mėh. (Morrow, from Sanders “Modern Methods in Nursing.”)</em></p>
+
 </div>
 
 ### [圖標註 / 圖 199]
@@ -390,11 +392,12 @@ Tē 199 tô͘:—Khah iàu-kín ê tōng-me̍h kap kut ê kan-sia̍p. Chìⁿ te
 #### 📖 原書第 354 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_354_fig_01.png" alt="Tē 200—203 tô. (From Preston, “The Triangular Bandage,” by permission of John Bale, Sons and Danielsson, Ltd., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 200—203 tô. (From Preston, “The Triangular Bandage,” by permission of John Bale, Sons and Danielsson, Ltd., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 200—203 tô. (From Preston, “The Triangular Bandage,” by permission of John Bale, Sons and Danielsson, Ltd., publishers.)](assets/illustrations/page_354_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 200—203 tô. (From Preston, “The Triangular Bandage,” by permission of John Bale, Sons and Danielsson, Ltd., publishers.)</em></p>
+
 </div>
 
 ## CHHIÚ-CHÍUⁿ, KÓ͘-TŌNG-ME̍H 333
@@ -449,35 +452,32 @@ Nā kha-bé chhut-huih, ti̍h chiàu tē 205 tô͘, chiong kha kiu óa. Chiong c
 #### 📖 原書第 355 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_355_fig_01.png" alt="Tē 204 tô.—Chhih kó͘-tōng-me̍h." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 204 tô.—Chhih kó͘-tōng-me̍h.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_355_fig_02.png" alt="205
-Tē 205 tô.—Chhih chhek-kok-tōng-me̍h ê hoat." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>205
-Tē 205 tô.—Chhih chhek-kok-tōng-me̍h ê hoat.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_355_fig_03.png" alt="206
-Tē 206 tô.—Chhih siōng-phok-tōng-me̍h." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>206
-Tē 206 tô.—Chhih siōng-phok-tōng-me̍h.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_355_fig_04.png" alt="207
-Tē 207 tô.—Chhih chóng-kēng-tōng-me̍h." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>207
-Tē 207 tô.—Chhih chóng-kēng-tōng-me̍h.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_355_fig_05.png" alt="208
-Tē 208 tô.—Chhih gān-bīn-tōng-me̍h. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd., publishers)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>208
-Tē 208 tô.—Chhih gān-bīn-tōng-me̍h. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd., publishers).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 204 tô.—Chhih kó͘-tōng-me̍h.](assets/illustrations/page_355_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 204 tô.—Chhih kó͘-tōng-me̍h.</em></p>
+
+![205 Tē 205 tô.—Chhih chhek-kok-tōng-me̍h ê hoat.](assets/illustrations/page_355_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>205
+Tē 205 tô.—Chhih chhek-kok-tōng-me̍h ê hoat.</em></p>
+
+![206 Tē 206 tô.—Chhih siōng-phok-tōng-me̍h.](assets/illustrations/page_355_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>206
+Tē 206 tô.—Chhih siōng-phok-tōng-me̍h.</em></p>
+
+![207 Tē 207 tô.—Chhih chóng-kēng-tōng-me̍h.](assets/illustrations/page_355_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>207
+Tē 207 tô.—Chhih chóng-kēng-tōng-me̍h.</em></p>
+
+![208 Tē 208 tô.—Chhih gān-bīn-tōng-me̍h. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd., publishers).](assets/illustrations/page_355_fig_05.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>208
+Tē 208 tô.—Chhih gān-bīn-tōng-me̍h. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd., publishers).</em></p>
+
 </div>
 
 ### CHHUT-HUIH
@@ -603,11 +603,12 @@ Gân-bīn-tōng-me̍h (*Facial artery*): Chhih chit tiâu tōng-me̍h ê só͘-c
 #### 📖 原書第 357 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_357_fig_01.png" alt="Tē 209 tô:—Phīⁿ-khang chhut-huih, ēng mî-se kap chhiū-leng-tō-jiō-kńg, that phīⁿ-khang ê āu-phīⁿ-kháu (Morrow)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 209 tô:—Phīⁿ-khang chhut-huih, ēng mî-se kap chhiū-leng-tō-jiō-kńg, that phīⁿ-khang ê āu-phīⁿ-kháu (Morrow).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 209 tô:—Phīⁿ-khang chhut-huih, ēng mî-se kap chhiū-leng-tō-jiō-kńg, that phīⁿ-khang ê āu-phīⁿ-kháu (Morrow).](assets/illustrations/page_357_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 209 tô:—Phīⁿ-khang chhut-huih, ēng mî-se kap chhiū-leng-tō-jiō-kńg, that phīⁿ-khang ê āu-phīⁿ-kháu (Morrow).</em></p>
+
 </div>
 
 336 CHHUT-HUIH
@@ -657,15 +658,16 @@ Nā sī phùi-huih ê lâng, hit ê huih kô tī nâ-âu, tióh chiong huih-tè 
 #### 📖 原書第 358 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_358_fig_01.png" alt="Tē 210 tô:—ēng ke-si chiong chit liap mî-se that āu-phīⁿ- kháu (Morrow)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 210 tô:—ēng ke-si chiong chit liap mî-se that āu-phīⁿ- kháu (Morrow).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_358_fig_02.png" alt="Tē 211 tô:—Āu-phīⁿ-kháu that liáu (Morrow)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 211 tô:—Āu-phīⁿ-kháu that liáu (Morrow).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 210 tô:—ēng ke-si chiong chit liap mî-se that āu-phīⁿ- kháu (Morrow).](assets/illustrations/page_358_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 210 tô:—ēng ke-si chiong chit liap mî-se that āu-phīⁿ- kháu (Morrow).</em></p>
+
+![Tē 211 tô:—Āu-phīⁿ-kháu that liáu (Morrow).](assets/illustrations/page_358_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 211 tô:—Āu-phīⁿ-kháu that liáu (Morrow).</em></p>
+
 </div>
 
 ### PHĨⁿ-KHANG CHHUT-HUIH (337)

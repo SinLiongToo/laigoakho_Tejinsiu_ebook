@@ -62,13 +62,13 @@ Nā ēng mî-hoe, ēng liáu chiū kā sio-khì; nā ēng bīn-kun, ēng liáu t
 #### 📖 原書第 392 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_392_fig_01.png" alt="Tē 244 tô.-Trachoma
-(Nettleship)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 244 tô.-Trachoma
-(Nettleship).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 244 tô.-Trachoma (Nettleship).](assets/illustrations/page_392_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 244 tô.-Trachoma
+(Nettleship).</em></p>
+
 </div>
 
 ### TRACHOMA, KAK-MO̍H-ÙI-IÔNG｜371
@@ -144,15 +144,16 @@ Siōng-tè bô kah lâng tiòh gâu, sī kiò lâng tiòh chīn-tiong.
 #### 📖 原書第 393 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_393_fig_01.png" alt="Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_393_fig_02.png" alt="Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.](assets/illustrations/page_393_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></p>
+
+![Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).](assets/illustrations/page_393_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></p>
+
 </div>
 
 372  BA̍K-CHIU PĪⁿ
@@ -202,11 +203,12 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 #### 📖 原書第 394 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_394_fig_01.png" alt="Tē 247 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 247 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 247 tô.](assets/illustrations/page_394_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 247 tô.</em></p>
+
 </div>
 
 ### BÁK-CHIU CHHIÚ-SÙT Ê KE-SI
@@ -277,11 +279,12 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 #### 📖 原書第 395 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_395_fig_01.png" alt="Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).](assets/illustrations/page_395_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></p>
+
 </div>
 
 374　　　　　　　　　　**BÁK-CHIU PĪⁿ**
@@ -350,27 +353,28 @@ Péh-lāi-chiàng sī in-ūi chúi-chiⁿ-thé túg lô, lâng chiū chhiⁿ-mî
 #### 📖 原書第 396 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_396_fig_01.png" alt="Tē 250 tô:—Hông-chhái-ngoeh-á." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_396_fig_02.png" alt="Tē 251 tô:—Hông-chhái-chián-to." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_396_fig_03.png" alt="Tē 252 tô:—Khui-kiám-khì." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 252 tô:—Khui-kiám-khì.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_396_fig_04.png" alt="Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_396_fig_05.png" alt="Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 250 tô:—Hông-chhái-ngoeh-á.](assets/illustrations/page_396_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></p>
+
+![Tē 251 tô:—Hông-chhái-chián-to.](assets/illustrations/page_396_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></p>
+
+![Tē 252 tô:—Khui-kiám-khì.](assets/illustrations/page_396_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 252 tô:—Khui-kiám-khì.</em></p>
+
+![Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.](assets/illustrations/page_396_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></p>
+
+![Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.](assets/illustrations/page_396_fig_05.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></p>
+
 </div>
 
 **ŌAⁿ PAU-SIONG-LIĀU** | **375**

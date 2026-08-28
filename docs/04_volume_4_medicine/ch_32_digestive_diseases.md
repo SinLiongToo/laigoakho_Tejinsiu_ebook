@@ -79,11 +79,12 @@ Hā-lī (下痢, Diarrhœa).
 #### 📖 原書第 522 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_522_fig_01.png" alt="Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)](assets/illustrations/page_522_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+
 </div>
 
 ### Tē 454 tô͘
@@ -228,11 +229,12 @@ Chèng-chōng: Nâ-âu bô siaⁿ, àng-àng, hàng-thiàⁿ, hoat sio, ū-sî h
 #### 📖 原書第 525 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_525_fig_01.png" alt="Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)](assets/illustrations/page_525_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+
 </div>
 
 ### [第 455 圖說明]
@@ -376,11 +378,12 @@ Tī-liâu : Tio̍h chiàu hó ê hoat-tō͘ lâi chù-ì chia̍h-mih. Ū-sî tio
 #### 📖 原書第 528 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_528_fig_01.png" alt="Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)](assets/illustrations/page_528_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)</em></p>
+
 </div>
 
 ### Tē 456 tô͘
@@ -514,11 +517,12 @@ Bān-sèng-ê goân-in: Bān-sèng goân-in chiū-sī ūi-iông siu chhùi ê s�
 #### 📖 原書第 531 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_531_fig_01.png" alt="Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)](assets/illustrations/page_531_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+
 </div>
 
 ### Tē 457 tô͘
@@ -614,15 +618,16 @@ Thâng-iūⁿ-sûi-iām : Thâng-iūⁿ-sûi-iām (*appendicitis*) sī tn̂g chi
 #### 📖 原書第 534 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_534_fig_01.png" alt="Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_534_fig_02.png" alt="Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless).](assets/illustrations/page_534_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless).</em></p>
+
+![Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless).](assets/illustrations/page_534_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless).</em></p>
+
 </div>
 
 ### TNG-PÌ-THAT 509
@@ -855,17 +860,17 @@ Tî-liâu : Tó tī bîn-chhng hioh-khùn, an-chēng-liâu-hoat. Tāi-khí-seng 
 #### 📖 原書第 538 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_538_fig_01.png" alt="Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.
-Trichocephalus dispar; natural size (Clinical Methods)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.
-Trichocephalus dispar; natural size (Clinical Methods).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_538_fig_02.png" alt="Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng. Trichocephalus dispar; natural size (Clinical Methods).](assets/illustrations/page_538_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.
+Trichocephalus dispar; natural size (Clinical Methods).</em></p>
+
+![Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)](assets/illustrations/page_538_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)</em></p>
+
 </div>
 
 ## TÂNG KIÀ-SENG-THÂNG (513)
@@ -935,13 +940,13 @@ Tñg kià-seng-thâng (*intestinal parasites*) ū chin chōe khoán, miâ kiò:
 #### 📖 原書第 539 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_539_fig_01.png" alt="Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa.
-Head of Tænia solium x 40." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa.
-Head of Tænia solium x 40.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa. Head of Tænia solium x 40.](assets/illustrations/page_539_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa.
+Head of Tænia solium x 40.</em></p>
+
 </div>
 
 ### 514 SIAU-HÒA-KHÌ PĪⁿ
@@ -980,15 +985,16 @@ Tī-liâu: Tio̍h ēng sat-thâng-io̍h chiong thâng thàu hō͘ pâi-chhut-lâ
 #### 📖 原書第 540 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_540_fig_01.png" alt="Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_540_fig_02.png" alt="Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods).](assets/illustrations/page_540_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods).</em></p>
+
+![Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne).](assets/illustrations/page_540_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne).</em></p>
+
 </div>
 
 ## HÔE-THÂNG, GIÂU-THÂNG（515）
@@ -1066,15 +1072,16 @@ Tī-liâu: I-tī chit hō pīⁿ tio̍h ta̍k ji̍t thàu-chá, khang
 #### 📖 原書第 541 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_541_fig_01.png" alt="Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_541_fig_02.png" alt="Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).](assets/illustrations/page_541_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).</em></p>
+
+![Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.](assets/illustrations/page_541_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.</em></p>
+
 </div>
 
 ## 516 SIAU-HÒA-KHÌ PĪⁿ

@@ -220,11 +220,12 @@ Jîn-ài, hoān-sū jīm-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-
 #### 📖 原書第 242 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_242_fig_01.png" alt="Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.](assets/illustrations/page_242_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></p>
+
 </div>
 
 ### HOÁN-TUÌ-CHHÌ-KEK（反對刺激）
@@ -270,11 +271,12 @@ Tē 154 tô͘.—Paquelin-sī pe̍h-kim sio-chiok-khì. (J.O)
 #### 📖 原書第 243 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_243_fig_01.png" alt="Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_243_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+
 </div>
 
 ### KHIP-KAK-LIÂU-HOAT (p. 227)
@@ -430,11 +432,12 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng hō͘ gô-khî teh suh ê sî-chūn tòng-bōe-
 #### 📖 原書第 246 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_246_fig_01.png" alt="Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)](assets/illustrations/page_246_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></p>
+
 </div>
 
 ### 230 HOÁN-TÙI-CHHÌ-KEK

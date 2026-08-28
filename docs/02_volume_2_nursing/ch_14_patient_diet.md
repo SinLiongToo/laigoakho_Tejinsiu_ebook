@@ -95,11 +95,12 @@ Chhòng si̍t-bu̍t hō͘ pīⁿ-lâng chia̍h ê kui-kú :
 #### 📖 原書第 192 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_192_fig_01.png" alt="Tē 128 tô:—Chiàh-mih-pân." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 128 tô:—Chiàh-mih-pân.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 128 tô:—Chiàh-mih-pân.](assets/illustrations/page_192_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 128 tô:—Chiàh-mih-pân.</em></p>
+
 </div>
 
 ### PĪⁿ Ê SÎ LIM CHIA̍H HOAT
@@ -180,11 +181,12 @@ Tē 128 tô͘:—Chia̍h-mi̍h-pân.
 #### 📖 原書第 193 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_193_fig_01.png" alt="Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)](assets/illustrations/page_193_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></p>
+
 </div>
 
 ## HÕ͘ PĪⁿ-LÂNG CHIA̍H MI̍H ｜ 77

@@ -347,15 +347,16 @@ Min., minim ; fl. dr., fluid drachm ; fl. oz., fluid ounce ; gr., grain ; oz. ou
 #### 📖 原書第 299 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_299_fig_01.png" alt="A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_299_fig_02.png" alt="B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.](assets/illustrations/page_299_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+
+![B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.](assets/illustrations/page_299_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+
 </div>
 
 282  
@@ -957,11 +958,12 @@ Pīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tióh khoán-thāi siāng chi̍t kho
 #### 📖 原書第 307 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_307_fig_01.png" alt="Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.](assets/illustrations/page_307_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></p>
+
 </div>
 
 ### HOAT IÓH HÕ͘ PĪⁿ-LÂNG（發藥予病人）
@@ -1022,11 +1024,12 @@ Koh chi̍t hāng, chit ê chù-siā ióh-oân beh hō͘ i sòaⁿ ê hoat, ū k�
 #### 📖 原書第 308 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_308_fig_01.png" alt="Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).](assets/illustrations/page_308_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></p>
+
 </div>
 
 ### PHÊ-Ē CHÙ-SIĀ-HOAT (291)
@@ -1141,11 +1144,12 @@ Nā ūi bōe-kham-tit chia̍h súi-gûn, i-seng ēng chit ê hoat-tō͘. Koh chi
 #### 📖 原書第 310 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_310_fig_01.png" alt="Tē 183 tô.—Khip-jip-koàn." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 183 tô.—Khip-jip-koàn.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 183 tô.—Khip-jip-koàn.](assets/illustrations/page_310_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 183 tô.—Khip-jip-koàn.</em></p>
+
 </div>
 
 ### KHIP-JIP-HOAT（第 293 頁）
@@ -1216,11 +1220,12 @@ Góan óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 #### 📖 原書第 311 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_311_fig_01.png" alt="Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).](assets/illustrations/page_311_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></p>
+
 </div>
 
 294　　　　　　　　**HOAT IÓH HŌ͘ PĪⁿ-LÂNG**
@@ -1999,11 +2004,12 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 #### 📖 原書第 320 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_320_fig_01.png" alt="Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)](assets/illustrations/page_320_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></p>
+
 </div>
 
 *a*, Bacillus diphtheriæ. Long forms. 24 hours' growth; agar cult; stained watery methyl blue. × 1,000.  

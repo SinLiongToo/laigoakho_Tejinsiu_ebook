@@ -160,11 +160,12 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 #### 📖 原書第 596 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_596_fig_01.png" alt="Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)](assets/illustrations/page_596_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)</em></p>
+
 </div>
 
 ### Tē 473 tô͘
@@ -242,11 +243,12 @@ Sin-thé ióng-kiāⁿ, khah-iāⁿ chōe-chōe chîⁿ.
 #### 📖 原書第 598 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_598_fig_01.png" alt="Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel).](assets/illustrations/page_598_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel).</em></p>
+
 </div>
 
 ### 572 THOÂN-JIÁM PĪⁿ
@@ -308,11 +310,12 @@ khah khoài hó. Ài chiah chiú ê lâng chiū khah oh-tit i-tī. Lâng nā bat
 #### 📖 原書第 599 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_599_fig_01.png" alt="Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)](assets/illustrations/page_599_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)</em></p>
+
 </div>
 
 ### SIÓ-TN̂G-JIA̍T TĒ SÌ CHĀM (573)
@@ -613,11 +616,12 @@ Iā ū kúi-nā hāng pa̍t mi̍h thang chia̍h, chiū-sī ám, tê kap gû-leng
 #### 📖 原書第 604 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_604_fig_01.png" alt="Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register).](assets/illustrations/page_604_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register).</em></p>
+
 </div>
 
 phīⁿ-khang kā i chhī, m̄-thang chhut-chāi pīⁿ-lâng ê ì-sù. Ták pái chia̍h liáu-āu, tióh ēng sóa-kháu ióh-chúi, chhin-chhiūⁿ *glycerinum boracis*, sóe i ê chhùi.
@@ -673,13 +677,13 @@ Chèng-thâu nā khah siong-tiōng ê sî, pīⁿ-lâng ōe tó
 #### 📖 原書第 605 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_605_fig_01.png" alt="Múi 4 tiám-cheng ê thé-un pió
-Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, beh hō͘ lâng khòaⁿ sóe léng-chúi-e̍k ê lī-ek. O͘-sek-ê sī pêng-siông ê thé-un ; âng-sek-ê, sī léng-chúi-e̍k liáu-āu thé-un ê lo̍h kē ; ē-bīn kì méh-sò͘ thang khòaⁿ sóe liáu méh ū kiám-chió, tùi án-nī ōe hō͘ sim ê kang kiám-chió. Chi̍t ê hoān-chiá ū án-nī sóe léng-chúi-e̍k 25 pái, ū-sî chi̍t ji̍t 3 pái ; lō͘-bé choan hó." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Múi 4 tiám-cheng ê thé-un pió
-Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, beh hō͘ lâng khòaⁿ sóe léng-chúi-e̍k ê lī-ek. O͘-sek-ê sī pêng-siông ê thé-un ; âng-sek-ê, sī léng-chúi-e̍k liáu-āu thé-un ê lo̍h kē ; ē-bīn kì méh-sò͘ thang khòaⁿ sóe liáu méh ū kiám-chió, tùi án-nī ōe hō͘ sim ê kang kiám-chió. Chi̍t ê hoān-chiá ū án-nī sóe léng-chúi-e̍k 25 pái, ū-sî chi̍t ji̍t 3 pái ; lō͘-bé choan hó.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Múi 4 tiám-cheng ê thé-un pió Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, beh hō͘ lâng khòaⁿ sóe léng-chúi-e̍k ê lī-ek. O͘-sek-ê sī pêng-siông ê thé-un ; âng-sek-ê, sī léng-chúi-e̍k liáu-āu thé-un ê lo̍h kē ; ē-bīn kì méh-sò͘ thang khòaⁿ sóe liáu méh ū kiám-chió, tùi án-nī ōe hō͘ sim ê kang kiám-chió. Chi̍t ê hoān-chiá ū án-nī sóe léng-chúi-e̍k 25 pái, ū-sî chi̍t ji̍t 3 pái ; lō͘-bé choan hó.](assets/illustrations/page_605_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Múi 4 tiám-cheng ê thé-un pió
+Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, beh hō͘ lâng khòaⁿ sóe léng-chúi-e̍k ê lī-ek. O͘-sek-ê sī pêng-siông ê thé-un ; âng-sek-ê, sī léng-chúi-e̍k liáu-āu thé-un ê lo̍h kē ; ē-bīn kì méh-sò͘ thang khòaⁿ sóe liáu méh ū kiám-chió, tùi án-nī ōe hō͘ sim ê kang kiám-chió. Chi̍t ê hoān-chiá ū án-nī sóe léng-chúi-e̍k 25 pái, ū-sî chi̍t ji̍t 3 pái ; lō͘-bé choan hó.</em></p>
+
 </div>
 
 ### Múi 4 tiám-chong ê thé-un-pió
@@ -1063,11 +1067,12 @@ Mî-sî tio̍h pan ê khàn-hō͘, m̄-thang the tī the-í-nih, kiaⁿ-liáu kh
 #### 📖 原書第 611 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_611_fig_01.png" alt="Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).](assets/illustrations/page_611_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).</em></p>
+
 </div>
 
 ### 584 THOÂN-JIÁM PĪⁿ
@@ -1375,11 +1380,12 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chōe tō͘.
 #### 📖 原書第 615 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_615_fig_01.png" alt="Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)](assets/illustrations/page_615_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)</em></p>
+
 </div>
 
 ### Tó-teh ê sî-kan（倒咧的時間）
@@ -1432,11 +1438,12 @@ Tó ê khoán-sit khòaⁿ tē 479 tô͘.
 #### 📖 原書第 616 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_616_fig_01.png" alt="Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney).](assets/illustrations/page_616_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney).</em></p>
+
 </div>
 
 ### KHÌ-KŃG-CHHIAT-KHUI-SU̍T (p. 589)

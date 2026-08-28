@@ -194,11 +194,12 @@ Lîm-pa-chôaⁿ piàn tōa, sì-ûi ê chho͘-chit kap lîm-pa-
 #### 📖 原書第 384 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_384_fig_01.png" alt="Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless).](assets/illustrations/page_384_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless).</em></p>
+
 </div>
 
 ### KUT-, KAP KOAN-CHAT-KIAT-HU̍T CHÈNG (363)
@@ -320,11 +321,12 @@ Tī-liâu: 1. Khòng kiat-hút chèng ê tī-liâu-hoat.
 #### 📖 原書第 386 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_386_fig_01.png" alt="Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders).](assets/illustrations/page_386_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders).</em></p>
+
 </div>
 
 ### KOAN-CHAT-KIAT-HÚT TĪ-LIÂU（關節結核治療） 365
@@ -369,15 +371,16 @@ Jîn-ài bô kiâⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 #### 📖 原書第 387 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_387_fig_01.png" alt="Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_387_fig_02.png" alt="Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath).](assets/illustrations/page_387_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath).</em></p>
+
+![Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”).](assets/illustrations/page_387_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”).</em></p>
+
 </div>
 
 366　　**GŌA-KHO Ê KIAT-HU̍T CHÈNG**
@@ -430,15 +433,16 @@ Chek-chui-kut ê kiat-hu̍t chèng (Potts Disease): Chit hō pīⁿ ê khoán-si
 #### 📖 原書第 388 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_388_fig_01.png" alt="Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_388_fig_02.png" alt="Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).](assets/illustrations/page_388_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).</em></p>
+
+![Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)](assets/illustrations/page_388_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)</em></p>
+
 </div>
 
 ### CHEK-CHUI-KUT-KIAT-HÚT CHÈNG (367)
@@ -543,19 +547,18 @@ Phelps-sī ê siuⁿ-á, sī beh i-tī gín-ná ū chek-chui-kut-kiat-hu̍t chè
 #### 📖 原書第 390 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_390_fig_01.png" alt="242
-Tē 242 tô:—Phelps-sī ê siuⁿ-á." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>242
-Tē 242 tô:—Phelps-sī ê siuⁿ-á.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_390_fig_02.png" alt="243
-Tē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>243
-Tē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![242 Tē 242 tô:—Phelps-sī ê siuⁿ-á.](assets/illustrations/page_390_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>242
+Tē 242 tô:—Phelps-sī ê siuⁿ-á.</em></p>
+
+![243 Tē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath).](assets/illustrations/page_390_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>243
+Tē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath).</em></p>
+
 </div>
 
 ### PHELPS-SĪ Ê SIUⁿ-Á 369

@@ -9,19 +9,20 @@
 #### 📖 原書第 452 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_452_fig_01.png" alt="Pheng-tòa bé Tē 304 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Pheng-tòa bé Tē 304 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_452_fig_02.png" alt="Tē 305 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 305 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_452_fig_03.png" alt="Tē 306 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 306 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Pheng-tòa bé Tē 304 tô.](assets/illustrations/page_452_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Pheng-tòa bé Tē 304 tô.</em></p>
+
+![Tē 305 tô.](assets/illustrations/page_452_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 305 tô.</em></p>
+
+![Tē 306 tô.](assets/illustrations/page_452_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 306 tô.</em></p>
+
 </div>
 
 ### TĒ 31 CHIUⁿ PHENG-TÒA-HA̍K
@@ -156,15 +157,16 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 #### 📖 原書第 454 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_454_fig_01.png" alt="Tē 307 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 307 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_454_fig_02.png" alt="Tē 308 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 308 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 307 tô.](assets/illustrations/page_454_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 307 tô.</em></p>
+
+![Tē 308 tô.](assets/illustrations/page_454_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 308 tô.</em></p>
+
 </div>
 
 ### PHENG-TÒA Ê KŃG-HOAT（433）
@@ -197,15 +199,16 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 #### 📖 原書第 455 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_455_fig_01.png" alt="Tē 309 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 309 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_455_fig_02.png" alt="Tē 310 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 310 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 309 tô.](assets/illustrations/page_455_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 309 tô.</em></p>
+
+![Tē 310 tô.](assets/illustrations/page_455_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 310 tô.</em></p>
+
 </div>
 
 434
@@ -319,11 +322,12 @@ Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ chhin-chhiūⁿ góa thiàⁿ lín, che
 #### 📖 原書第 457 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_457_fig_01.png" alt="Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).](assets/illustrations/page_457_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></p>
+
 </div>
 
 436 PHENG-TÒA-HA̍K
@@ -389,15 +393,16 @@ Phah hong-kat ê hoat-tō͘, tióh chiàu ē-bīn: Chiong pheng-tòa siang-chhi�
 #### 📖 原書第 458 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_458_fig_01.png" alt="Tē 314, 315 tô:—Hong-kat." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 314, 315 tô:—Hong-kat.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_458_fig_02.png" alt="Tē 316 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 316 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 314, 315 tô:—Hong-kat.](assets/illustrations/page_458_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 314, 315 tô:—Hong-kat.</em></p>
+
+![Tē 316 tô.](assets/illustrations/page_458_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 316 tô.</em></p>
+
 </div>
 
 ### LÊ-HÊNG-, SŪI-HÊNG-, LÊ-HÊNG-HOÁN-TÎⁿ-HOAT（螺形、穗形、螺形反纏法）
@@ -466,11 +471,12 @@ Pèh-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu�
 #### 📖 原書第 459 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_459_fig_01.png" alt="Tē 317 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 317 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 317 tô.](assets/illustrations/page_459_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 317 tô.</em></p>
+
 </div>
 
 ### 438 PHENG-TÒA-HA̍K
@@ -510,15 +516,16 @@ The̍h chit khûn chhit hun khoah, 3 chhioh tng ê pheng-tòa, khí tîⁿ tī j
 #### 📖 原書第 460 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_460_fig_01.png" alt="Tē 318 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 318 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_460_fig_02.png" alt="Tē 319 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 319 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 318 tô.](assets/illustrations/page_460_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 318 tô.</em></p>
+
+![Tē 319 tô.](assets/illustrations/page_460_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 319 tô.</em></p>
+
 </div>
 
 ### LÊ-HÊNG-HOÁN-TÎⁿ-HOAT（頁碼：439）
@@ -554,19 +561,20 @@ Tē 319 tô͘.
 #### 📖 原書第 461 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_461_fig_01.png" alt="Tē 320 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 320 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_461_fig_02.png" alt="Tē 321 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 321 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_461_fig_03.png" alt="Tē 322 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 322 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 320 tô.](assets/illustrations/page_461_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 320 tô.</em></p>
+
+![Tē 321 tô.](assets/illustrations/page_461_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 321 tô.</em></p>
+
+![Tē 322 tô.](assets/illustrations/page_461_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 322 tô.</em></p>
+
 </div>
 
 440 PHENG-TÒA-HA̍K
@@ -599,23 +607,24 @@ chi̍t hūn (tē 323 tô͘). Tîⁿ kàu chíng-thâu-á ê thâu-chat, pheng-t�
 #### 📖 原書第 462 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_462_fig_01.png" alt="Tē 323 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 323 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_462_fig_02.png" alt="Tē 324 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 324 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_462_fig_03.png" alt="Tē 325 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 325 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_462_fig_04.png" alt="Tē 326 tô· (Heath)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 326 tô· (Heath).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 323 tô.](assets/illustrations/page_462_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 323 tô.</em></p>
+
+![Tē 324 tô.](assets/illustrations/page_462_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 324 tô.</em></p>
+
+![Tē 325 tô.](assets/illustrations/page_462_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 325 tô.</em></p>
+
+![Tē 326 tô· (Heath).](assets/illustrations/page_462_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 326 tô· (Heath).</em></p>
+
 </div>
 
 ### TÎⁿ CHÚNG-THÂU-Á Ê HOAT（441 頁）
@@ -651,15 +660,16 @@ Siat-sú beh tîⁿ 2, 3 ki chúng-thâu-á, tiòh seng tîⁿ tī óa bé-chái
 #### 📖 原書第 463 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_463_fig_01.png" alt="Tē 327 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 327 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_463_fig_02.png" alt="Tē 328 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 328 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 327 tô.](assets/illustrations/page_463_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 327 tô.</em></p>
+
+![Tē 328 tô.](assets/illustrations/page_463_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 328 tô.</em></p>
+
 </div>
 
 442 PHENG-TÒA-HA̍K
@@ -690,15 +700,16 @@ Tāi-, siáu-piān liáu, piān-khì tióh liâm-piⁿ phâng chhut pīⁿ-sek-g
 #### 📖 原書第 464 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_464_fig_01.png" alt="Tē 329 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 329 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_464_fig_02.png" alt="Tē 330 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 330 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 329 tô.](assets/illustrations/page_464_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 329 tô.</em></p>
+
+![Tē 330 tô.](assets/illustrations/page_464_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 330 tô.</em></p>
+
 </div>
 
 ### TÎⁿ KHÀM CHÍNG-THÂU-Á-BÉ Ê HOAT（443）
@@ -736,19 +747,20 @@ chhòng chhin-chhiūⁿ tē 324, 325 tô͘ í-keng kóng-khí-ê phah chi̍t-ê 
 #### 📖 原書第 465 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_465_fig_01.png" alt="Tē 331 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 331 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_465_fig_02.png" alt="Tē 332 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 332 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_465_fig_03.png" alt="Tē 333 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 333 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 331 tô.](assets/illustrations/page_465_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 331 tô.</em></p>
+
+![Tē 332 tô.](assets/illustrations/page_465_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 332 tô.</em></p>
+
+![Tē 333 tô.](assets/illustrations/page_465_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 333 tô.</em></p>
+
 </div>
 
 444 PHENG-TÒA-HÁK
@@ -787,15 +799,16 @@ Tē 333 tô͘.
 #### 📖 原書第 466 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_466_fig_01.png" alt="Tē 334 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 334 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_466_fig_02.png" alt="Tē 335 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 335 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 334 tô.](assets/illustrations/page_466_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 334 tô.</em></p>
+
+![Tē 335 tô.](assets/illustrations/page_466_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 335 tô.</em></p>
+
 </div>
 
 ### LÊ-HÊNG-HOÁN-TÎⁿ CHÍNG-THÂU-Á（445）
@@ -844,15 +857,16 @@ lê-hêng ê hoat tîⁿ chi̍t lùn, chíng-kah m̄-thang khàm ba̍t. Tùi chi
 #### 📖 原書第 467 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_467_fig_01.png" alt="Tē 336 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 336 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_467_fig_02.png" alt="Tē 337 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 337 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 336 tô.](assets/illustrations/page_467_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 336 tô.</em></p>
+
+![Tē 337 tô.](assets/illustrations/page_467_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 337 tô.</em></p>
+
 </div>
 
 ### PHENG-TÒA-HA̍K (p. 446)
@@ -946,15 +960,16 @@ bīn, koh ke tîⁿ chi̍t lìn tī jiâu-óaⁿ-koan-chat, hō͘ pheng-tòa ōe
 #### 📖 原書第 469 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_469_fig_01.png" alt="Tē 340 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 340 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_469_fig_02.png" alt="Tē 341 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 341 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 340 tô.](assets/illustrations/page_469_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 340 tô.</em></p>
+
+![Tē 341 tô.](assets/illustrations/page_469_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 341 tô.</em></p>
+
 </div>
 
 448  
@@ -994,15 +1009,16 @@ The̍h chi̍t khûn nn̄g chhùn khoah, chi̍t tn̄g tn̂g ê pheng-
 #### 📖 原書第 470 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_470_fig_01.png" alt="Tē 342 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 342 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_470_fig_02.png" alt="Tē 343 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 343 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 342 tô.](assets/illustrations/page_470_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 342 tô.</em></p>
+
+![Tē 343 tô.](assets/illustrations/page_470_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 343 tô.</em></p>
+
 </div>
 
 ### TÎⁿ CHHIÚ Ê HOAT
@@ -1035,15 +1051,16 @@ thâu-á ê āu-bīn kàu bé-cháiⁿ (tē 342 tô͘ 2). Tio̍h koh tîⁿ chi�
 #### 📖 原書第 471 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_471_fig_01.png" alt="Tē 344 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 344 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_471_fig_02.png" alt="Tē 345 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 345 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 344 tô.](assets/illustrations/page_471_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 344 tô.</em></p>
+
+![Tē 345 tô.](assets/illustrations/page_471_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 345 tô.</em></p>
+
 </div>
 
 450
@@ -1123,15 +1140,16 @@ kàu bé-cháiⁿ ê thâu-chat (tē 346 tô͘ 1) ; tùi chia tîⁿ kè chhiú-
 #### 📖 原書第 473 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_473_fig_01.png" alt="Tē 348 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 348 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_473_fig_02.png" alt="Tē 349 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 349 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 348 tô.](assets/illustrations/page_473_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 348 tô.</em></p>
+
+![Tē 349 tô.](assets/illustrations/page_473_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 349 tô.</em></p>
+
 </div>
 
 452 PHENG-TÒA-HA̍K
@@ -1174,19 +1192,20 @@ siông-sè kóng. Tióh án-ni chiap-sòa lâi tîⁿ kàu beh kàu tiú-koan-ch
 #### 📖 原書第 474 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_474_fig_01.png" alt="Tē 350 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 350 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_474_fig_02.png" alt="Tē 351 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 351 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_474_fig_03.png" alt="Tē 352 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 352 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 350 tô.](assets/illustrations/page_474_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 350 tô.</em></p>
+
+![Tē 351 tô.](assets/illustrations/page_474_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 351 tô.</em></p>
+
+![Tē 352 tô.](assets/illustrations/page_474_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 352 tô.</em></p>
+
 </div>
 
 ### TÎⁿ TIÚ-KOAN-CHAT（453）
@@ -1241,15 +1260,16 @@ Tiú-koan-chat tio̍h kiu-khí-lâi, chiah the̍h chi̍t khûn n̄g chhùn khoah
 #### 📖 原書第 475 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_475_fig_01.png" alt="Tē 353 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 353 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_475_fig_02.png" alt="Tē 354 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 354 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 353 tô.](assets/illustrations/page_475_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 353 tô.</em></p>
+
+![Tē 354 tô.](assets/illustrations/page_475_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 354 tô.</em></p>
+
 </div>
 
 ### 454 PHENG-TÒA-HA̍K
@@ -1288,15 +1308,16 @@ Tē 354 tô͘.
 #### 📖 原書第 476 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_476_fig_01.png" alt="Tē 355 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 355 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_476_fig_02.png" alt="Tē 356 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 356 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 355 tô.](assets/illustrations/page_476_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 355 tô.</em></p>
+
+![Tē 356 tô.](assets/illustrations/page_476_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 356 tô.</em></p>
+
 </div>
 
 TÎⁿ TIÚ-KOAN-CHAT, TÎⁿ SIŌNG-PHOK    455
@@ -1341,19 +1362,20 @@ Pheng-tòa tîⁿ tiū-sūi-hêng tī keng-thâu ê tîⁿ-hoat (*Spica bandage 
 #### 📖 原書第 477 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_477_fig_01.png" alt="Tē 357 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 357 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_477_fig_02.png" alt="Tē 358 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 358 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_477_fig_03.png" alt="Tē 359 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 359 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 357 tô.](assets/illustrations/page_477_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 357 tô.</em></p>
+
+![Tē 358 tô.](assets/illustrations/page_477_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 358 tô.</em></p>
+
+![Tē 359 tô.](assets/illustrations/page_477_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 359 tô.</em></p>
+
 </div>
 
 ### 456 PHENG-TÒA-HA̍K
@@ -1384,23 +1406,24 @@ tîⁿ chi̍t lìn kè chhiú, chi̍t lìn tio̍h pí tī siōng-phok ê tiong-n
 #### 📖 原書第 478 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_478_fig_01.png" alt="Tē 360 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 360 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_478_fig_02.png" alt="Tē 361 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 361 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_478_fig_03.png" alt="Tē 362 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 362 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_478_fig_04.png" alt="Tē 363 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 363 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 360 tô.](assets/illustrations/page_478_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 360 tô.</em></p>
+
+![Tē 361 tô.](assets/illustrations/page_478_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 361 tô.</em></p>
+
+![Tē 362 tô.](assets/illustrations/page_478_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 362 tô.</em></p>
+
+![Tē 363 tô.](assets/illustrations/page_478_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 363 tô.</em></p>
+
 </div>
 
 ### TÎⁿ SŪI-HÊNG TĪ KENG-THÂU (457)
@@ -1447,11 +1470,12 @@ Tē 363 tô͘.
 #### 📖 原書第 479 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_479_fig_01.png" alt="Tē 364 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 364 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 364 tô.](assets/illustrations/page_479_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 364 tô.</em></p>
+
 </div>
 
 ### Tîⁿ sūi-hêng tī keng-thâu
@@ -1484,15 +1508,16 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 #### 📖 原書第 480 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_480_fig_01.png" alt="Tē 365 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 365 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_480_fig_02.png" alt="Tē 366 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 366 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 365 tô.](assets/illustrations/page_480_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 365 tô.</em></p>
+
+![Tē 366 tô.](assets/illustrations/page_480_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 366 tô.</em></p>
+
 </div>
 
 ## TÎⁿ SÓ-KUT（第 459 頁）
@@ -1529,11 +1554,12 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 #### 📖 原書第 481 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_481_fig_01.png" alt="Tē 367 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 367 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 367 tô.](assets/illustrations/page_481_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 367 tô.</em></p>
+
 </div>
 
 ### PHENG-TÒA-HÁK
@@ -1564,23 +1590,24 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 #### 📖 原書第 482 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_482_fig_01.png" alt="Tē 368 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 368 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_482_fig_02.png" alt="Tē 369 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 369 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_482_fig_03.png" alt="Tē 370 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 370 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_482_fig_04.png" alt="Tē 371 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 371 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 368 tô.](assets/illustrations/page_482_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 368 tô.</em></p>
+
+![Tē 369 tô.](assets/illustrations/page_482_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 369 tô.</em></p>
+
+![Tē 370 tô.](assets/illustrations/page_482_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 370 tô.</em></p>
+
+![Tē 371 tô.](assets/illustrations/page_482_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 371 tô.</em></p>
+
 </div>
 
 ## TÎⁿ-SÓ-KUT
@@ -1656,15 +1683,16 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 #### 📖 原書第 483 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_483_fig_01.png" alt="Tē 372 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 372 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_483_fig_02.png" alt="Tē 373 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 373 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 372 tô.](assets/illustrations/page_483_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 372 tô.</em></p>
+
+![Tē 373 tô.](assets/illustrations/page_483_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 373 tô.</em></p>
+
 </div>
 
 462 PHENG-TÒA-HȦK
@@ -1695,15 +1723,16 @@ Chiong chi̍t khûn saⁿ chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, khí tî�
 #### 📖 原書第 484 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_484_fig_01.png" alt="Tē 374 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 374 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_484_fig_02.png" alt="Tē 375 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 375 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 374 tô.](assets/illustrations/page_484_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 374 tô.</em></p>
+
+![Tē 375 tô.](assets/illustrations/page_484_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 375 tô.</em></p>
+
 </div>
 
 ### TÎⁿ CHI̍T LIÀP LENG-PÔNG (463)
@@ -1737,15 +1766,16 @@ Tē 375 tô͘.
 #### 📖 原書第 485 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_485_fig_01.png" alt="Tē 376 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 376 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_485_fig_02.png" alt="Tē 377 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 377 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 376 tô.](assets/illustrations/page_485_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 376 tô.</em></p>
+
+![Tē 377 tô.](assets/illustrations/page_485_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 377 tô.</em></p>
+
 </div>
 
 464  PHENG-TÒA-HA̍K
@@ -1832,11 +1862,12 @@ Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 #### 📖 原書第 487 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_487_fig_01.png" alt="Tē 380 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 380 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 380 tô.](assets/illustrations/page_487_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 380 tô.</em></p>
+
 </div>
 
 pông-ē, chiap-sòa kè ka-chiah-āu kàu tò-pêng leng-pông-ē, chiah tîⁿ chiūⁿ chiàⁿ-pêng keng-thâu-téng. Án-ni chiap-sòa lâi tîⁿ kàu bêng-pe̍k. Ēng an-jiân-pín-chiam pín hō͘ tiâu, chhin-chhiūⁿ téng-bīn í-keng kóng (tē 379 tô͘).
@@ -1874,19 +1905,20 @@ Tē it khoài ê hoat-tō͘ sī hoâiⁿ-hêng tîⁿ tùi āu-khok kè thâu-hi
 #### 📖 原書第 488 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_488_fig_01.png" alt="Tē 381 tô. (Heath)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 381 tô. (Heath).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_488_fig_02.png" alt="Tē 382 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 382 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_488_fig_03.png" alt="Tē 383 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 383 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 381 tô. (Heath).](assets/illustrations/page_488_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 381 tô. (Heath).</em></p>
+
+![Tē 382 tô.](assets/illustrations/page_488_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 382 tô.</em></p>
+
+![Tē 383 tô.](assets/illustrations/page_488_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 383 tô.</em></p>
+
 </div>
 
 ## NÑG KHÛN TÒ-HOÁN TÎⁿ THÂU-KHAK — 467
@@ -1921,31 +1953,32 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 #### 📖 原書第 489 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_01.png" alt="Tē 384 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 384 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_02.png" alt="Tē 385 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 385 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_03.png" alt="Tē 386 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 386 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_04.png" alt="Tē 387 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 387 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_05.png" alt="Tē 388 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 388 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_489_fig_06.png" alt="Tē 389 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 389 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 384 tô.](assets/illustrations/page_489_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 384 tô.</em></p>
+
+![Tē 385 tô.](assets/illustrations/page_489_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 385 tô.</em></p>
+
+![Tē 386 tô.](assets/illustrations/page_489_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 386 tô.</em></p>
+
+![Tē 387 tô.](assets/illustrations/page_489_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 387 tô.</em></p>
+
+![Tē 388 tô.](assets/illustrations/page_489_fig_05.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 388 tô.</em></p>
+
+![Tē 389 tô.](assets/illustrations/page_489_fig_06.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 389 tô.</em></p>
+
 </div>
 
 468  PHENG-TÒA-HA̍K
@@ -1985,19 +2018,20 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 #### 📖 原書第 490 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_490_fig_01.png" alt="Tē 390 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 390 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_490_fig_02.png" alt="Tē 391 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 391 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_490_fig_03.png" alt="Tē 392 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 392 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 390 tô.](assets/illustrations/page_490_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 390 tô.</em></p>
+
+![Tē 391 tô.](assets/illustrations/page_490_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 391 tô.</em></p>
+
+![Tē 392 tô.](assets/illustrations/page_490_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 392 tô.</em></p>
+
 </div>
 
 ### NÑG KHÛN TÒ-HOÁN TÎⁿ THÂU-KHAK（469）
@@ -2034,19 +2068,20 @@ lóng-chóng ê thâu-khak-phê, khòaⁿ (tē 390 chì 395 tô͘). Beh chhòng 
 #### 📖 原書第 491 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_491_fig_01.png" alt="Tē 393 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 393 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_491_fig_02.png" alt="Tē 394 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 394 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_491_fig_03.png" alt="Tē 395 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 395 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 393 tô.](assets/illustrations/page_491_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 393 tô.</em></p>
+
+![Tē 394 tô.](assets/illustrations/page_491_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 394 tô.</em></p>
+
+![Tē 395 tô.](assets/illustrations/page_491_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 395 tô.</em></p>
+
 </div>
 
 470  PHENG-TÒA-HÀK
@@ -2102,31 +2137,32 @@ The̍h chi̍t tiâu tòa 3 chhioh tn̂g, 6 chhùn khoah, ēng ka-to lâi ka khui
 #### 📖 原書第 492 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_01.png" alt="Tē 396 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 396 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_02.png" alt="Tē 397 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 397 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_03.png" alt="Tē 398 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 398 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_04.png" alt="Tē 399 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 399 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_05.png" alt="Tē 400 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 400 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_492_fig_06.png" alt="Tē 401 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 401 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 396 tô.](assets/illustrations/page_492_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 396 tô.</em></p>
+
+![Tē 397 tô.](assets/illustrations/page_492_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 397 tô.</em></p>
+
+![Tē 398 tô.](assets/illustrations/page_492_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 398 tô.</em></p>
+
+![Tē 399 tô.](assets/illustrations/page_492_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 399 tô.</em></p>
+
+![Tē 400 tô.](assets/illustrations/page_492_fig_05.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 400 tô.</em></p>
+
+![Tē 401 tô.](assets/illustrations/page_492_fig_06.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 401 tô.</em></p>
+
 </div>
 
 ## TÎⁿ BÁK-CHIU (471)
@@ -2184,11 +2220,12 @@ Oāⁿ pau-siong-liāu ê tāi-seng, tióh ták hāng ū-pī.
 #### 📖 原書第 493 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_493_fig_01.png" alt="Tē 402 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 402 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 402 tô.](assets/illustrations/page_493_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 402 tô.</em></p>
+
 </div>
 
 472  
@@ -2231,15 +2268,16 @@ The̍h pheng-tòa 15 chhioh tn̂g, 2 chhùn khoah. Tāi-seng chiong pheng-tòa �
 #### 📖 原書第 494 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_494_fig_01.png" alt="Tē 403 tô. (After Heath.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 403 tô. (After Heath.)</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_494_fig_02.png" alt="Tē 404 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 404 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 403 tô. (After Heath.)](assets/illustrations/page_494_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 403 tô. (After Heath.)</em></p>
+
+![Tē 404 tô.](assets/illustrations/page_494_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 404 tô.</em></p>
+
 </div>
 
 ### TÎⁿ HĀ-GÓK (p. 473)
@@ -2275,15 +2313,16 @@ tîⁿ chiūⁿ thâu-khak-téng, tîⁿ lo̍h kàu tò-pêng hī-á-āu, tī ch
 #### 📖 原書第 495 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_495_fig_01.png" alt="Tē 405 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 405 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_495_fig_02.png" alt="Tē 406 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 406 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 405 tô.](assets/illustrations/page_495_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 405 tô.</em></p>
+
+![Tē 406 tô.](assets/illustrations/page_495_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 406 tô.</em></p>
+
 </div>
 
 474 PHENG-TÒA-HA̍K
@@ -2328,15 +2367,16 @@ Théh chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tng ê pheng-tòa, khí 
 #### 📖 原書第 496 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_496_fig_01.png" alt="Tē 407 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 407 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_496_fig_02.png" alt="Tē 408 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 408 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 407 tô.](assets/illustrations/page_496_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 407 tô.</em></p>
+
+![Tē 408 tô.](assets/illustrations/page_496_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 408 tô.</em></p>
+
 </div>
 
 **TÎⁿ KHA**
@@ -2388,15 +2428,16 @@ Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 #### 📖 原書第 497 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_497_fig_01.png" alt="Tē 409 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 409 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_497_fig_02.png" alt="Tē 410 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 410 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 409 tô.](assets/illustrations/page_497_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 409 tô.</em></p>
+
+![Tē 410 tô.](assets/illustrations/page_497_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 410 tô.</em></p>
+
 </div>
 
 476　　　　　　　　　PHENG-TÒA-HÁK
@@ -2443,15 +2484,16 @@ The̍h chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tn̂g ê pheng-tòa, kh
 #### 📖 原書第 498 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_498_fig_01.png" alt="Tē 411 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 411 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_498_fig_02.png" alt="Tē 412 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 412 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 411 tô.](assets/illustrations/page_498_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 411 tô.</em></p>
+
+![Tē 412 tô.](assets/illustrations/page_498_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 412 tô.</em></p>
+
 </div>
 
 ### TÎⁿ KHA-ĀU-TIⁿ (477 頁)
@@ -2490,15 +2532,16 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 #### 📖 原書第 499 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_499_fig_01.png" alt="Tē 413 tô:" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 413 tô:</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_499_fig_02.png" alt="Tē 414 tô:" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 414 tô:</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 413 tô:](assets/illustrations/page_499_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 413 tô:</em></p>
+
+![Tē 414 tô:](assets/illustrations/page_499_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 414 tô:</em></p>
+
 </div>
 
 **478 PHENG-TÒA-HA̍K**
@@ -2545,15 +2588,16 @@ koan-chat ê lāi-bīn pêng tîⁿ kè kha-pôaⁿ, kàu kha ê gōa-bīn pêng
 #### 📖 原書第 500 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_500_fig_01.png" alt="Tē 415 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 415 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_500_fig_02.png" alt="Tē 416 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 416 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 415 tô.](assets/illustrations/page_500_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 415 tô.</em></p>
+
+![Tē 416 tô.](assets/illustrations/page_500_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 416 tô.</em></p>
+
 </div>
 
 ### TÎⁿ CHIOK-KOAN-CHAT, TÎⁿ KHA（479 頁）
@@ -2599,15 +2643,16 @@ Sóe pīⁿ-lâng ê sî, chúi tióh chiàu i-seng só͘ hoan-hù ê un-tō͘, 
 #### 📖 原書第 501 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_501_fig_01.png" alt="Tē 417 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 417 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_501_fig_02.png" alt="Tē 418 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 418 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 417 tô.](assets/illustrations/page_501_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 417 tô.</em></p>
+
+![Tē 418 tô.](assets/illustrations/page_501_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 418 tô.</em></p>
+
 </div>
 
 ### 480 PHENG-TÒA-HA̍K
@@ -2648,15 +2693,16 @@ lī-piān. The̍h chi̍t khûn 2½ chhùn khoah, 18 chhioh tn̂g ê pheng-tòa, 
 #### 📖 原書第 502 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_502_fig_01.png" alt="Tē 419 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 419 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_502_fig_02.png" alt="Tē 420 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 420 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 419 tô.](assets/illustrations/page_502_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 419 tô.</em></p>
+
+![Tē 420 tô.](assets/illustrations/page_502_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 420 tô.</em></p>
+
 </div>
 
 ### TÎⁿ CHHEK-KOAN-CHAT（頁 481）
@@ -2688,13 +2734,12 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hē-teh.
 #### 📖 原書第 503 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_503_fig_01.png" alt="" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_503_fig_02.png" alt="" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![](assets/illustrations/page_503_fig_01.png)
+
+![](assets/illustrations/page_503_fig_02.png)
+
 </div>
 
 ### PHENG-TÒA-HA̍K
@@ -2725,15 +2770,16 @@ Tióh ēng chi̍t khûn 3 chhùn khoah 24 chhioh tn̂g ê pheng-tòa. Chit ê ho
 #### 📖 原書第 504 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_504_fig_01.png" alt="Tē 423 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 423 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_504_fig_02.png" alt="Tē 424 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 424 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 423 tô.](assets/illustrations/page_504_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 423 tô.</em></p>
+
+![Tē 424 tô.](assets/illustrations/page_504_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 424 tô.</em></p>
+
 </div>
 
 ### TÎⁿ PĪ-KHŪ-KOAN-CHAT（483）
@@ -2770,19 +2816,20 @@ Tio̍h the̍h chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, chiàu
 #### 📖 原書第 505 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_505_fig_01.png" alt="Tē 425 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 425 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_505_fig_02.png" alt="Tē 426 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 426 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_505_fig_03.png" alt="Tē 427 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 427 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 425 tô.](assets/illustrations/page_505_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 425 tô.</em></p>
+
+![Tē 426 tô.](assets/illustrations/page_505_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 426 tô.</em></p>
+
+![Tē 427 tô.](assets/illustrations/page_505_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 427 tô.</em></p>
+
 </div>
 
 484  PHENG-TÒA-HÁK
@@ -2827,11 +2874,12 @@ Tē 427 tô͘.
 #### 📖 原書第 506 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_506_fig_01.png" alt="Tē 428 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 428 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 428 tô.](assets/illustrations/page_506_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 428 tô.</em></p>
+
 </div>
 
 ### TÎⁿ SŪI-HÊNG TĪ KÁI-PIⁿ (485)
@@ -2884,15 +2932,16 @@ Tio̍h khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 #### 📖 原書第 507 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_507_fig_01.png" alt="Tē 429 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 429 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_507_fig_02.png" alt="Tē 430 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 430 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 429 tô.](assets/illustrations/page_507_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 429 tô.</em></p>
+
+![Tē 430 tô.](assets/illustrations/page_507_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 430 tô.</em></p>
+
 </div>
 
 **486**
@@ -2932,15 +2981,16 @@ T-jī pheng-tòa ê chok-iōng sī beh tîⁿ tī kong-bûn, hōe-im, kap gōa-i
 #### 📖 原書第 508 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_508_fig_01.png" alt="Tē 431 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 431 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_508_fig_02.png" alt="Tē 432 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 432 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 431 tô.](assets/illustrations/page_508_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 431 tô.</em></p>
+
+![Tē 432 tô.](assets/illustrations/page_508_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 432 tô.</em></p>
+
 </div>
 
 ### TÎⁿ SŪI-HÊNG TĪ LIÓNG PÊNG KÁI-PIⁿ 487
@@ -2977,23 +3027,24 @@ Tîⁿ ê sî chiah ê thán-ti̍t-ê kè gōa-im-pō͘ tōa-thúi-tiong, pák t
 #### 📖 原書第 509 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_509_fig_01.png" alt="Tē 433 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 433 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_509_fig_02.png" alt="Tē 434 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 434 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_509_fig_03.png" alt="Tē 434a tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 434a tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_509_fig_04.png" alt="Tē 435 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 435 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 433 tô.](assets/illustrations/page_509_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 433 tô.</em></p>
+
+![Tē 434 tô.](assets/illustrations/page_509_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 434 tô.</em></p>
+
+![Tē 434a tô.](assets/illustrations/page_509_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 434a tô.</em></p>
+
+![Tē 435 tô.](assets/illustrations/page_509_fig_04.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 435 tô.</em></p>
+
 </div>
 
 488  PHENG-TÒA-HA̍K
@@ -3018,11 +3069,12 @@ The̍h chi̍t tiâu tòa 6 chhùn khoah, 3 chhioh tn̂g, chhu thán-ti̍t tī to
 #### 📖 原書第 510 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_510_fig_01.png" alt="Tē 436 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 436 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 436 tô.](assets/illustrations/page_510_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 436 tô.</em></p>
+
 </div>
 
 ### CHŌE-THÂU-TÒA, TṄG-TOAN TÎⁿ-HOAT (489)
@@ -3072,15 +3124,16 @@ Nā ū sím-mih mi̍h phah-phòa, á-sī phah-m̄-kìⁿ tio̍h liâm-piⁿ thon
 #### 📖 原書第 511 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_511_fig_01.png" alt="Tē 437 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 437 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_511_fig_02.png" alt="Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 437 tô.](assets/illustrations/page_511_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 437 tô.</em></p>
+
+![Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.](assets/illustrations/page_511_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></p>
+
 </div>
 
 ### 490 PHENG-TÒA-HA̍K
@@ -3129,19 +3182,20 @@ Saⁿ-kak hêng ê kò͘-chō tio̍h khòaⁿ tē 438 tô͘. Chiong saⁿ-kak-t�
 #### 📖 原書第 512 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_512_fig_01.png" alt="Tē 439 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 439 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_512_fig_02.png" alt="Tē 440 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 440 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_512_fig_03.png" alt="Tē 441 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 441 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 439 tô.](assets/illustrations/page_512_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 439 tô.</em></p>
+
+![Tē 440 tô.](assets/illustrations/page_512_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 440 tô.</em></p>
+
+![Tē 441 tô.](assets/illustrations/page_512_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 441 tô.</em></p>
+
 </div>
 
 ### SAⁿ-KAK-TÒA PHÈ TIÚ-KOAN-CHAT（491）
@@ -3187,19 +3241,20 @@ hōaⁿ tī bô siong ê keng-thâu-téng (tē 442 tô͘). Chiong ē-tóe hit th
 #### 📖 原書第 513 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_513_fig_01.png" alt="Tē 442 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 442 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_513_fig_02.png" alt="Tē 443 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 443 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_513_fig_03.png" alt="Tē 444 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 444 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 442 tô.](assets/illustrations/page_513_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 442 tô.</em></p>
+
+![Tē 443 tô.](assets/illustrations/page_513_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 443 tô.</em></p>
+
+![Tē 444 tô.](assets/illustrations/page_513_fig_03.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 444 tô.</em></p>
+
 </div>
 
 492 PHENG-TÒA-HA̍K
@@ -3236,15 +3291,16 @@ Tāi-seng chiong saⁿ-kak-tòa ê téng-tiám áu-ji̍p tī ki-sòaⁿ (基線,
 #### 📖 原書第 514 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_514_fig_01.png" alt="Tē 445 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 445 tô.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_514_fig_02.png" alt="Tē 446 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 446 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 445 tô.](assets/illustrations/page_514_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 445 tô.</em></p>
+
+![Tē 446 tô.](assets/illustrations/page_514_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 446 tô.</em></p>
+
 </div>
 
 ### SÙ-CHI Ê HÁP-CHHÙI-KO-PÒ͘-HOAT
@@ -3301,11 +3357,12 @@ Kah hù-bo̍k liáu, ti̍h sūn chńg-thâu-á ê sek, á-sī ū chéng bô.
 #### 📖 原書第 515 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_515_fig_01.png" alt="Tē 447 tô." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 447 tô.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 447 tô.](assets/illustrations/page_515_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 447 tô.</em></p>
+
 </div>
 
 494　　　　PHENG-TÒA-HA̍K
@@ -3448,15 +3505,16 @@ Pheng-tòa the̍h-khí-lâi, chūn hō͘ i lióh-á ta, chiah tìⁿ chiàu lē-
 #### 📖 原書第 517 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_517_fig_01.png" alt="Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_517_fig_02.png" alt="Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.](assets/illustrations/page_517_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></p>
+
+![Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.](assets/illustrations/page_517_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></p>
+
 </div>
 
 **496** | **PHENG-TÒA-HA̍K**
@@ -3501,15 +3559,16 @@ Chiòh-ko-hù-bo̍k làng-khang ê hoat: Só́ tîⁿ ê só͘-chāi, nā ū sio
 #### 📖 原書第 518 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_518_fig_01.png" alt="Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_518_fig_02.png" alt="Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.](assets/illustrations/page_518_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></p>
+
+![Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).](assets/illustrations/page_518_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></p>
+
 </div>
 
 ### CHIO̍H-KO-HÙ-BO̍K (497)
@@ -3566,15 +3625,16 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, tàk lâng kap i ê chhù-piⁿ kóng ch
 #### 📖 原書第 519 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_519_fig_01.png" alt="Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_519_fig_02.png" alt="Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).](assets/illustrations/page_519_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></p>
+
+![Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).](assets/illustrations/page_519_fig_02.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></p>
+
 </div>
 
 498  PHENG-TÒA-HÁK

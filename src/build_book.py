@@ -96,16 +96,15 @@ def build_chapters():
                     
                     # Embed illustrations if present on this page
                     if p_figs:
-                        f.write("\n<div style=\"text-align: center; margin: 18px 0;\">\n")
+                        f.write("\n<div align=\"center\" style=\"margin: 20px 0;\">\n\n")
                         for idx, fig in enumerate(p_figs):
                             fig_fn = fig.get("saved_file") or f"page_{p_num:03d}_fig_{idx+1:02d}.png"
-                            fig_rel = f"{rel_assets_prefix}{fig_fn}"
+                            fig_rel = f"assets/illustrations/{fig_fn}"
                             caption = fig.get("caption", "").strip()
-                            f.write(f"  <figure style=\"display: inline-block; margin: 12px; max-width: 90%; text-align: center;\">\n")
-                            f.write(f"    <img src=\"{fig_rel}\" alt=\"{caption}\" style=\"max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);\" />\n")
+                            clean_caption = caption.replace("\n", " ")
+                            f.write(f"![{clean_caption}]({fig_rel})\n\n")
                             if caption:
-                                f.write(f"    <figcaption style=\"font-size: 14px; color: #4a5568; margin-top: 6px;\"><em>{caption}</em></figcaption>\n")
-                            f.write("  </figure>\n")
+                                f.write(f"<p style=\"font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;\"><em>{caption}</em></p>\n\n")
                             total_illustrations_embedded += 1
                         f.write("</div>\n\n")
                         

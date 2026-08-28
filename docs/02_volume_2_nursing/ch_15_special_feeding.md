@@ -9,11 +9,12 @@
 #### 📖 原書第 200 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_200_fig_01.png" alt="Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)" style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)](assets/illustrations/page_200_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+
 </div>
 
 ### TĒ 15 CHIUⁿ
@@ -347,11 +348,12 @@ Chō-iòh: Ū-sî ēng chi̍t lia̍p iòh-oân, that-jip kong-bûn-lāi, im-tō 
 #### 📖 原書第 205 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_205_fig_01.png" alt="Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).](assets/illustrations/page_205_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></p>
+
 </div>
 
 ### CHŌ-IÓH（坐藥） 【第 189 頁】
@@ -397,11 +399,12 @@ Ióh-kan m̄-thang hē tī ióh-toaⁿ-téng.
 #### 📖 原書第 206 頁
 
 
-<div style="text-align: center; margin: 18px 0;">
-  <figure style="display: inline-block; margin: 12px; max-width: 90%; text-align: center;">
-    <img src="../assets/illustrations/page_206_fig_01.png" alt="Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless)." style="max-width: 100%; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.08);" />
-    <figcaption style="font-size: 14px; color: #4a5568; margin-top: 6px;"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></figcaption>
-  </figure>
+<div align="center" style="margin: 20px 0;">
+
+![Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).](assets/illustrations/page_206_fig_01.png)
+
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></p>
+
 </div>
 
 ## 第 190 頁
