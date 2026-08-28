@@ -138,7 +138,7 @@ bīn; chit ê ké-bīn sī nî-pò͘ khàm thih chòe ê kè. Ké-bīn ti̍h kè
 Kī-sút (技術, *Technique*): Pīⁿ-lâng ti̍h tó-teh. Nā bô, teh hō͘ phīⁿ bâ-chùi-io̍h ê sî, i ê huih ōe tūi-lo̍h kàu pak-tó́, lī-khui náu kap sim, tì-kàu náu-pîn-hiat, lâng sòa ké-sí (假死, *syncope*).
 
 > **【全漢對照】**
-> **技術**（技術, *Technique*）：病人著倒咧。若無，咧互鼻麻醉藥的時，伊的血會墜落到腹肚，離開腦佮心，致到腦貧血，人紲假死（假死, *syncope*）。
+> **技術**（技術，*Technique*）：病人著倒咧。若無，咧互鼻麻醉藥的時，伊的血會墜落到腹肚，離開腦佮心，致到腦貧血，人紲假死（假死，*syncope*）。
 
 ---
 
@@ -152,7 +152,7 @@ Ti̍h seng ēng *vaseline* boah tī i ê bīn, tī-hông ko-lô-hóng thǹg-ti̍
 Ko-lô-hong ti̍h múi pòaⁿ hun-cheng tih 20 chì 30 tih, tī ké-bīn ê lāi-bīn pêng, chiah ûn-ûn-á kūn-óa pīⁿ-lâng ê bīn. Teh hō͘ phīⁿ bâ-chùi-io̍h ê sî, kiò i sǹg 1, 2, 3, 4, chiap-sòa hiah ê sò͘-jī, kàu m̄-chai-lâng. Nā án-ni chòe, i ê ho͘-khip khah ōe ûn-ûn-á. Ti̍h án-ni hō͘ i chiap-sòa kàu ti-kak-thoat-sit (知覺脫失, *anæsthesia*).
 
 > **【全漢對照】**
-> 哥羅仿著每半分鐘滴 20 至 30 滴，佇假面的內面爿，才勻勻仔近倚病人的面。咧互鼻麻醉藥的時，叫伊算 1, 2, 3, 4，接續遐的數字，到呣知人。若按呢做，伊的呼吸較會勻勻仔。著按呢互伊接續到知覺脫失（知覺脫失, *anæsthesia*）。
+> 哥羅仿著每半分鐘滴 20 至 30 滴，佇假面的內面爿，才勻勻仔近倚病人的面。咧互鼻麻醉藥的時，叫伊算 1, 2, 3, 4，接續遐的數字，到呣知人。若按呢做，伊的呼吸較會勻勻仔。著按呢互伊接續到知覺脫失（知覺脫失，*anæsthesia*）。
 
 ---
 
@@ -184,7 +184,7 @@ Ti-kak-thoat-sit ê chèng-chōng, kap khoán-sit ū hun chòe sì chām:
 Tē it chām: Thàng-thiàⁿ-bâ-pì (疼痛麻痺, *analgesia*). Lâng ài tín-tāng khȧuh-khȧuh-ngiȧuh, thó-khùi, sàu. Ba̍k-chiu chhut kim-kong-chhiⁿ, hī-khang khòng-khòng háu. Tī chit chām bô sím-mi̍h chai thiàⁿ, iû-goân iáu-bē m̄-chai-lâng.
 
 > **【全漢對照】**
-> **第一站**：痛疼麻痺（疼痛麻痺, *analgesia*）。人愛震動 khȧuh-khȧuh-ngiȧuh、吐氣、嗽。目珠出金剛星，耳孔腔腔吼。佇這站無甚麼知痛，猶原猶未呣知人。
+> **第一站**：痛疼麻痺（疼痛麻痺，*analgesia*）。人愛震動 khȧuh-khȧuh-ngiȧuh、吐氣、嗽。目珠出金剛星，耳孔腔腔吼。佇這站無甚麼知痛，猶原猶未呣知人。
 
 ---
 
@@ -193,7 +193,7 @@ Tē it chām: Thàng-thiàⁿ-bâ-pì (疼痛麻痺, *analgesia*). Lâng ài tí
 Tē jī chām: Khah-khin ti-kak-thoat-sit. Put-séng-jîn-sū, ài chhut la̍t tín-tāng. Loān-loān liām. Bīn ōe tńg âng-sek. Tông-khóng-sàn-tāi (孔瞳散大, *dilatation*
 
 > **【全漢對照】**
-> **第二站**：較輕知覺脫失。不省人事，愛出力震動。亂亂唸。面會轉紅色。瞳孔散大（孔瞳散大, *dilatation*
+> **第二站**：較輕知覺脫失。不省人事，愛出力震動。亂亂唸。面會轉紅色。瞳孔散大（孔瞳散大，*dilatation*
 
 <!-- Page 401 End -->
 
@@ -254,7 +254,7 @@ Ko-lô-hong sú-iōng ê sî, tông-khóng ê khoán-sit sī put-chí iàu-kín,
 Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thái-thó ū tiàm tī i ah (I Iok-hān 3 : 17)?
 
 > **【全漢對照】**
-> 人若有世間的財產，看見伊的兄弟有欠缺，亦無開伊的慈心，上帝的疼豈妥有踮佇伊啊（I 約翰 3:17）？
+> 人若有世間的財產，看見伊的兄弟有欠缺，亦無開伊的慈心，上帝的疼豈妥有踮佇伊啊（I 約翰 3：17）？
 
 <!-- Page 402 End -->
 
@@ -287,7 +287,7 @@ Tông-khóng-sàn-tāi ê goân-in ū sì khoán:
 > 1. 知覺脫失無齊備。 ｝瞳孔有光線的反應。
 > 2. 嘔吐。
 > 3. 哥羅仿（Chloroform）過量。
-> 4. 呼吸遏止（呼吸遏止, apnoea）致到假死。 ｝瞳孔無光線的反應。
+> 4. 呼吸遏止（呼吸遏止，apnoea）致到假死。 ｝瞳孔無光線的反應。
 
 ---
 
@@ -300,7 +300,7 @@ Tông-khóng-sàn-tāi, iā bô kng-sòaⁿ hoán-èng, sī tē it iàu-kín, i�
 > 瞳孔散大，也無光線反應，是第一要緊，也第一危險的兆頭。這號散大的款式，是親像用 atropina 藥點目珠內，不止開闊，閣袂振動。這款瞳孔的原因有三項：
 > 1. 哥羅仿過量。
 > 2. 呼吸遏止，致到假死。
-> 3. 反應瞳孔散大，(reflex dilatation of pupil)；這個是手術的時，知覺脫失無齊備，來做手術；親像互肛門括約筋（肛門括約筋, sphincter ani）擴大，就瞳孔會散大。這號 1 至 3 的治療法，是麻醉藥著停止；著預備做人工呼吸（人工呼吸），驚了呼吸停止。
+> 3. 反應瞳孔散大，(reflex dilatation of pupil)；這個是手術的時，知覺脫失無齊備，來做手術；親像互肛門括約筋（肛門括約筋，sphincter ani）擴大，就瞳孔會散大。這號 1 至 3 的治療法，是麻醉藥著停止；著預備做人工呼吸（人工呼吸），驚了呼吸停止。
 
 ---
 
@@ -317,7 +317,7 @@ Ho͘-khip-thêng-chí ê goân-in:
 > 呼吸停止的原因：
 > 1. 筋肉痙攣，顎骨佮胸坎的筋肉痙攣。
 > 2. 舌 ka-la̍uh 到後面，阻擋喉頭咽頭口。
-> 3. 聲門（聲門, glottis）痙攣。
+> 3. 聲門（聲門，glottis）痙攣。
 > 4. 物親像血、黏液、涎液、異物，入喉頭內。
 > 5. 哥羅仿過量。
 
@@ -336,7 +336,7 @@ Ti-kak-thoat-sit bô chiâu-pī ê sî, ū kúi-nā khoán ê chèng-chōng kap 
 2. Ài-thò͘ á-sī áu-thò͘.
 
 > **【全漢對照】**
-> **[麻醉藥著較多]**
+> **［麻醉藥著較多］**
 > 知覺脫失無齊備的時，有幾若款的症狀佮狀態，伊的治療是著將較多哥羅芳（ko-lô-hong，氯仿）予伊，就是：
 > 1. 人較驚，抑是囡仔咧吼。
 > 2. 愛吐抑是嘔吐。
@@ -350,7 +350,7 @@ Ti-kak-thoat-sit chiâu-pī ê sî, ū kúi-nā khoán ê chèng-chōng kap chō
 3. Bâ-chùi-io̍h kè-liōng.
 
 > **【全漢對照】**
-> **[麻醉藥著停止]**
+> **［麻醉藥著停止］**
 > 知覺脫失齊備的時，有幾若款的症狀佮狀態，伊的治療，是著將麻醉藥停止，就是：
 > 1. 呼吸遏止，抑是假死。代先呼吸停止，後來脈搏摠無。
 > 2. 振動，抑是出血不止多。
@@ -368,12 +368,12 @@ Lâng phīⁿ ko-lô-hong lâi sí ê goân-in :
 6. Chhiú-su̍t liáu, lâng cheng-sîn liáu-āu, hō͘ ko-lô-hong tiòng-to̍k (*late chloroform poisoning*).
 
 > **【全漢對照】**
-> **[死的原因]**
+> **［死的原因］**
 > 人鼻哥羅芳來死的原因：
 > 1. 第一、抑是第二站的時，將哥羅芳相多、相緊予伊鼻。病人若貧血、抑是懦弱這號，猶較快。
 > 2. 手術的時間若較久的，哥羅芳過量。
 > 3. 病人退，致到假死。
-> 4. 病人知覺脫失較輕的時，做手術，致到心臟反射停止（心臟反射停止, *reflex cessation of heart*）。
+> 4. 病人知覺脫失較輕的時，做手術，致到心臟反射停止（心臟反射停止，*reflex cessation of heart*）。
 > 5. 呼吸停止。
 > 6. 手術了，人精神了後，互哥羅芳中毒（*late chloroform poisoning*）。
 
@@ -383,8 +383,8 @@ Lâng phīⁿ ko-lô-hong lâi sí ê goân-in :
 Ko-lô-hong sú-iōng ê sî, kip-piàn-sū (急變事, *emergency*) ê tī-liâu-hoat :
 
 > **【全漢對照】**
-> **[急變事]**
-> 哥羅芳使用的時，急變事（急變事, *emergency*）的治療法：
+> **［急變事］**
+> 哥羅芳使用的時，急變事（急變事，*emergency*）的治療法：
 
 ---
 
@@ -392,8 +392,8 @@ Ko-lô-hong sú-iōng ê sî, kip-piàn-sū (急變事, *emergency*) ê tī-liâ
 1. Ti-kak-thoat-sit khah-khin ê sî, ké-sí á-sī sim-la̍t sit-pāi (心力失敗, *Cardiac failure*) : Hō͘ thâu-khak pí seng-khu khah kē. Chiàu i-seng só͘ hoan-hù ê io̍h, *strychnine*, phê-ē-chù-siā, 0.3 c.c. ; *ether* phê-ē-chù-siā 1.0 c.c. chì 2.0 c.c. ; *brandy*, ti̍t-tng-koàn-ji̍p 30.0 c.c.
 
 > **【全漢對照】**
-> **[心力失敗]**
-> 1. 知覺脫失較輕的時，假死抑是心力失敗（心力失敗, *Cardiac failure*）：予頭殼比身軀較低。照醫生所吩咐的藥，*strychnine*（番木鼈鹼），皮下注射，0.3 c.c.；*ether*（乙醚）皮下注射 1.0 c.c. 至 2.0 c.c.；*brandy*（白蘭地），直腸灌入 30.0 c.c.。
+> **［心力失敗］**
+> 1. 知覺脫失較輕的時，假死抑是心力失敗（心力失敗，*Cardiac failure*）：予頭殼比身軀較低。照醫生所吩咐的藥，*strychnine*（番木鼈鹼），皮下注射，0.3 c.c.；*ether*（乙醚）皮下注射 1.0 c.c. 至 2.0 c.c.；*brandy*（白蘭地），直腸灌入 30.0 c.c.。
 
 <!-- Page 404 End -->
 
@@ -407,7 +407,7 @@ Ko-lô-hong sú-iōng ê sî, kip-piàn-sū (急變事, *emergency*) ê tī-liâ
 
 ![原書插圖 - 第 405 頁 (圖 1)](assets/illustrations/page_405_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 255 tô.—Hā-gók-gû sak chìn-chêng (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 255 tô.—Hā-gók-gû sak chìn-chêng (Stoney).</em></p>
 
 </div>
 
@@ -480,7 +480,7 @@ Tio̍h ū-pī chhiú-su̍t-sek kap chhiú-su̍t-tâi ê hoat, sī chiàu ē-bīn
 
 ![原書插圖 - 第 406 頁 (圖 1)](assets/illustrations/page_406_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 256 tô:—Chhiú-sùt-tâi.</em></p>
+<p class="figure-caption"><em>Tē 256 tô:—Chhiú-sùt-tâi.</em></p>
 
 </div>
 
@@ -527,19 +527,19 @@ Chhiú-sùt-tâi tiòh ū 6 chhioh tn̂g, 2 chhioh khoah, 3 chhioh koâiⁿ. Ū-
 
 ![原書插圖 - 第 407 頁 (圖 1)](assets/illustrations/page_407_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 257 tô.—Bâ-chùi-io̍h chong-tì.</em></p>
+<p class="figure-caption"><em>Tē 257 tô.—Bâ-chùi-io̍h chong-tì.</em></p>
 
 ![原書插圖 - 第 407 頁 (圖 2)](assets/illustrations/page_407_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 258 tô.—Chih-khíⁿ.</em></p>
+<p class="figure-caption"><em>Tē 258 tô.—Chih-khíⁿ.</em></p>
 
 ![原書插圖 - 第 407 頁 (圖 3)](assets/illustrations/page_407_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 259 tô.—Hái-jiông-khíⁿ.</em></p>
+<p class="figure-caption"><em>Tē 259 tô.—Hái-jiông-khíⁿ.</em></p>
 
 ![原書插圖 - 第 407 頁 (圖 4)](assets/illustrations/page_407_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 260 tô.—Khui-chhùi-khì.</em></p>
+<p class="figure-caption"><em>Tē 260 tô.—Khui-chhùi-khì.</em></p>
 
 </div>
 
@@ -592,7 +592,7 @@ Chhiú-sùt-tâi tiòh ū 6 chhioh tn̂g, 2 chhioh khoah, 3 chhioh koâiⁿ. Ū-
 
 ![原書插圖 - 第 408 頁 (圖 1)](assets/illustrations/page_408_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 261 tô.—Hûi-chè siau-tòk-pôaⁿ, tóe ke-sì ê lō·-ēng.</em></p>
+<p class="figure-caption"><em>Tē 261 tô.—Hûi-chè siau-tòk-pôaⁿ, tóe ke-sì ê lō·-ēng.</em></p>
 
 </div>
 
@@ -679,7 +679,7 @@ Si-bâ-chùi-chiá ê toh-téng tiòh ū-pī:
 9. Chi̍t koàn *lotio acidi borici*, kap tiám-gán-khì, kiaⁿ-liáu bô-tiuⁿ-tî tiám *chloroform* tī ba̍k-chiu-lāi, beh liâm-piⁿ sóe ba̍k-chiu.
 
 > **【全漢對照】**
-> **[施麻醉者 ê 桌]**
+> **［施麻醉者 ê 桌］**
 > 6. 一個收吐器，一條面巾通緻防嘔吐。
 > 7. 若是喙內，抑是嚨喉內 ê 手術，有時著用冰來止血。
 > 8. 一罐細罐底消毒 *vaselinum*（凡士林）。
@@ -696,7 +696,7 @@ Chhiú-sùt-chiá ê toh-téng tio̍h ū chiah ê mi̍h :
 4. Pôaⁿ tóe hông-ha̍p-sòaⁿ.
 
 > **【全漢對照】**
-> **[手術者 ê 桌]**
+> **［手術者 ê 桌］**
 > 手術者 ê 桌頂著有諸個物：
 > 1. 底器具 ê 消毒盤。此號消毒盤有時乾，有時底 *lotio carbolici*（石炭酸洗劑）1—40。這個是照手術者 ê 意見（第 261 圖）。
 > 2. 盆底消毒藥水，*lotio carbolici* 1—100，*lotio hydrarg. perchlor.* 1—2,000，做汏手 ê 路用。寒天 ê 時這個水著拉崙燒（微溫）。
@@ -723,7 +723,7 @@ Iā tio̍h ū-pī chiah ê mi̍h : 1. Siau-to̍k-pau-siong-liāu, mî-se, mî-ho
 8. Nn̄g tè í-thâu ; chi̍t tè beh hō͘ chhiú-sùt-chiá teh chòe tio̍h chē-teh ê chhiú-sùt thang chē ; koh chi̍t tè beh hō͘ si-bâ-chùi-chiá thang chē.
 
 > **【全漢對照】**
-> **[著預備]**
+> **［著預備］**
 > 亦著預備諸個物：1. 消毒包傷料、棉紗、棉花、油紙、繃帶、拭布、消毒衣、消毒面巾夠額多。
 > 2. 消毒藥水：
 > *Lysol*（來蘇兒）... 1—200.
@@ -754,7 +754,7 @@ Iā tio̍h ū-pī chiah ê mi̍h : 1. Siau-to̍k-pau-siong-liāu, mî-se, mî-ho
 
 > **【全漢對照】**  
 > **盤、盆、煠玻璃**  
-> 9. 兩塊盤大塊欲下器具的路用。*(邊註：盤、盆)*  
+> 9. 兩塊盤大塊欲下器具的路用。*（邊註：盤、盆）*  
 > 10. 洗手盆三個，欲貯消毒藥水，予醫生佮助手洗手。盆三個，伊的直徑差不多一尺。  
 > 11. 膿盤 6 個，有的常、有的細，欲下驚人的物（污穢物）。  
 > 12. 水桶三跤。  
@@ -803,7 +803,7 @@ Nā-sī sáh po-lê-koàn, po-lê-poe ê lūi, tāi-seng ti̍h chiong sio-chúi 
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī Jîn-ài (I Ko-lîm-to 13 : 13).  
 
 > **【全漢對照】**  
-> 現今所存的，就是信、向望、仁愛，此三項，其中第一大的，是仁愛（I 哥林多 13 : 13）。
+> 現今所存的，就是信、向望、仁愛，此三項，其中第一大的，是仁愛（I 哥林多 13：13）。
 
 <!-- Page 410 End -->
 
@@ -817,7 +817,7 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 
 ![原書插圖 - 第 411 頁 (圖 1)](assets/illustrations/page_411_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 262 tô:—Kòa lāu-pôan chú-kún-siau-tók-khì.</em></p>
+<p class="figure-caption"><em>Tē 262 tô:—Kòa lāu-pôan chú-kún-siau-tók-khì.</em></p>
 
 </div>
 
@@ -848,7 +848,7 @@ Chúi ... ... ... 1,000.0 c.c.
 
 > **【全漢對照】**
 > 重曹（碳酸氫鈉） ... 7.0 公克  
-> 水 ... ... ... 1,000.0 c.c.
+> 水。.. ... ... 1,000.0 c.c.
 
 ---
 
@@ -952,11 +952,11 @@ Tàk hāng sū ti̍h chīn-tiong.
 
 ![原書插圖 - 第 413 頁 (圖 1)](assets/illustrations/page_413_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì.</em></p>
+<p class="figure-caption"><em>Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì.</em></p>
 
 ![原書插圖 - 第 413 頁 (圖 2)](assets/illustrations/page_413_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 264 tô.—Siau-tók-phín-thú-chô.</em></p>
+<p class="figure-caption"><em>Tē 264 tô.—Siau-tók-phín-thú-chô.</em></p>
 
 </div>
 
@@ -975,7 +975,7 @@ Chiong iûⁿ-tng-sòaⁿ chiâu chìm-tio̍h chit hō iòh ū poeh jit-kú, chi
 Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: Pī-pān chiah ê mi̍h ū kúi-nā ê hoat-tō͘:
 
 > **【全漢對照】**
-> **[包傷料]**
+> **［包傷料］**
 > 棉花、繃帶、棉紗、面巾、衫、拭布、樹乳囊：備辦諸個物有幾若個法度：
 
 ---
@@ -994,7 +994,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 1. Kè-sa̍h: Chit-ê sī hó, m̄-kú bīn-kun, mî-hoe, nā tâm khah m̄-hó; iā koh chi̍t hāng, nā ēng hit hō tâm ê pò͘, lâi khàm siong-chhùi, ōe khah khoài siⁿ bî-seng-bu̍t.
 
 > **【全漢對照】**
-> **[架煠]**
+> **［架煠］**
 > 1. 架煠：這個是好，毋過面巾、棉花，若溽較毋好；也閣一項，若用彼號溽的布，來蓋傷喙，會較快生微生物。
 
 <!-- Page 413 End -->
@@ -1140,7 +1140,7 @@ Pī-pān-chhiú : Chhiú-sùt ê sî, nā i-seng ài kah khàn-hō͘ thè i chhn
 tio̍h chiàu i-seng hit khoán pī-pān. Chńg-kah tio̍h siông-siông ka hō͘ té. Chńg-kah-phāng sī sóe oh-tit chheng-khì ê só͘-chāi. Chhiú-ńg pih hō͘ koâiⁿ. Chêng-phok (前膊, *forearm*) kap chhiú-chiúⁿ, ēng kè-sảh ê bín-á, sio-chúi kap sat-bûn, sóe hō͘ chin chheng-khì. Sóe ê sî siōng kín tio̍h gō͘ hun chì cháp hun-kú. Chiah chìm tī siau-to̍k-io̍h-chúi (*lotio hydrargyri perchloridi* 1—2,000 á-sī 1—4,000), iā koh chìm tī *alcohol* kap *lotio hydrargyri perchloridi*. Sóe chheng-khì liáu-āu, tio̍h sió-sim, m̄-thang koh bong bô chheng-khì ê mi̍h, kiaⁿ-liáu ū bî-seng-bu̍t; iā m̄-bián chhit ta. Teh chhiú-su̍t ê sî, tû-khì i-seng kap chō͘-chhiú ê chhiú, í-ki̍p pīⁿ-lâng ê phê-bah, kap ke-si, sòaⁿ, mî-hoe, pheng-tòa, bīn-kun, siau-to̍k-i, chiah ê mi̍h í-gōa, kî-û ta̍k hāng ê mi̍h lóng bōe bián-tit ū bî-seng-bu̍t. Só́-í nā-sī chhiú ū bong pa̍t mi̍h, tio̍h koh sóe hō͘ chheng-khì, chiah ōe pang-chān chhiú-su̍t ê tài-chì-tit. Sóe chhiú liáu tio̍h chhēng siau-to̍k-i, iā tì siau-to̍k-bō-á.
 
 > **【全漢對照】**
-> 著照醫生彼款備辦。指甲著常常鉸予短。指甲縫是洗惡得清氣的所在。手䘼擘予懸。前膊（前膊, *forearm*）佮手掌，用消毒過的面抿仔，燒水佮撒文（茶箍），洗予真清氣。洗的時上緊著五分至十分久。才浸佇消毒藥水（*lotio hydrargyri perchloridi* 1—2,000 抑是 1—4,000），也閣浸佇 *alcohol*（酒精）佮 *lotio hydrargyri perchloridi*。洗清氣了後，著小心，毋通閣摸無清氣的物，驚了有微生物；也免拭焦。咧手術的時，除去醫生佮助手的手，以及病人的皮肉，佮傢俬、線、棉花、繃帶、面巾、消毒衣，遮的物以外，其餘逐項的物攏𣍐免得有微生物。所以若是手有摸別物，著閣洗予清氣，才會幫贊手術的代誌得。洗手了著著消毒衣，也戴消毒帽仔。
+> 著照醫生彼款備辦。指甲著常常鉸予短。指甲縫是洗惡得清氣的所在。手䘼擘予懸。前膊（前膊，*forearm*）佮手掌，用消毒過的面抿仔，燒水佮撒文（茶箍），洗予真清氣。洗的時上緊著五分至十分久。才浸佇消毒藥水（*lotio hydrargyri perchloridi* 1—2,000 抑是 1—4,000），也閣浸佇 *alcohol*（酒精）佮 *lotio hydrargyri perchloridi*。洗清氣了後，著小心，毋通閣摸無清氣的物，驚了有微生物；也免拭焦。咧手術的時，除去醫生佮助手的手，以及病人的皮肉，佮傢俬、線、棉花、繃帶、面巾、消毒衣，遮的物以外，其餘逐項的物攏𣍐免得有微生物。所以若是手有摸別物，著閣洗予清氣，才會幫贊手術的代誌得。洗手了著著消毒衣，也戴消毒帽仔。
 
 ---
 
@@ -1255,7 +1255,7 @@ Tī beh chhiú-sùt ê ji̍t hit chá-khí, kā pīⁿ-lâng ēng *enema saponis
 
 > **【全漢對照】**  
 > **［結果］**  
-> 的結果（結果, result）。總若是直腸抑是肛門周圍的手術，所愛就是直腸下出糞了後著清潔。許霎著看所下出的水內面有攏清潔抑無，若猶原有糞，著閣一擺灌腸。糞已經下出，閣一擺灌了所下出的水若清潔，算直腸內有清潔。
+> 的結果（結果，result）。總若是直腸抑是肛門周圍的手術，所愛就是直腸下出糞了後著清潔。許霎著看所下出的水內面有攏清潔抑無，若猶原有糞，著閣一擺灌腸。糞已經下出，閣一擺灌了所下出的水若清潔，算直腸內有清潔。
 
 ---
 
@@ -1441,7 +1441,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, ti̍oh khó-khìng i chia̍h.
 
 ![原書插圖 - 第 421 頁 (圖 1)](assets/illustrations/page_421_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 265 tô.—Chhiú-sùt liáu ê bîn-chhng lóng ū-pī (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 265 tô.—Chhiú-sùt liáu ê bîn-chhng lóng ū-pī (Sanders).</em></p>
 
 </div>
 
@@ -1465,7 +1465,7 @@ Pīⁿ-lâng chhiú-sùt chheng-chhó͘, tò-lâi pâng-ni̍h tó-teh, eng-kai t
 
 ---
 
-> **Tē 265 tô͘.—Chhiú-sùt liáu ê bîn-chhn̂g lóng ū-pī (Sanders).**  
+> **Tē 265 tô͘.—Chhiú-sùt liáu ê bîn-chhn̂g lóng ū-pī (Sanders)。**  
 > （第 265 圖。—手術了的眠床攏備辦 (Sanders)。）
 
 ---
@@ -1493,7 +1493,7 @@ Nā chhiú-sùt liáu-āu pīⁿ-lâng lóng m̄-chai-lâng, chiàu i-seng ê b�
 
 ![原書插圖 - 第 422 頁 (圖 1)](assets/illustrations/page_422_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 266 tô.—Chhiú-sùt liáu ê bîn-chhn̂g-kha khè koâiⁿ (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 266 tô.—Chhiú-sùt liáu ê bîn-chhn̂g-kha khè koâiⁿ (Sanders).</em></p>
 
 </div>
 
@@ -1556,7 +1556,7 @@ Pīⁿ-lâng nā áu-thò͘, á-sī ho͘-khip bô hó-sè, khàn-hō͘ ti̍oh ē
 Lí ti̍oh chīn-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû siúⁿ-sù lí (Khé-sī-li̍ok 2 : 10).
 
 > **【全漢對照】**
-> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2:10）。
+> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2：10）。
 
 <!-- Page 422 End -->
 
@@ -1650,7 +1650,7 @@ Nā ēng chi̍t-ê chím-thâu ké hit kha-oat-oan, hō͘ tōa-thúi ōe kiu-kh�
 
 ![原書插圖 - 第 424 頁 (圖 1)](assets/illustrations/page_424_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 267 tô.—Lī-phē-kè (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 267 tô.—Lī-phē-kè (Stoney).</em></p>
 
 </div>
 
@@ -1721,7 +1721,7 @@ Beh ōaⁿ pau-siong-liāu ê lâng, in ê chhiú tióh tāi-seng sóe hō͘ chh
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī jîn-ài (I Ko-lîm-to 13: 13).
 
 > **【全漢對照】**
-> 現今所存的，就是信、盼望、仁愛，此三項，其中第一大个，是仁愛（I 哥林多 13: 13）。
+> 現今所存的，就是信、盼望、仁愛，此三項，其中第一大个，是仁愛（I 哥林多 13：13）。
 
 <!-- Page 424 End -->
 
@@ -1803,15 +1803,15 @@ Chhiú-sút liáu, thâu chi̍t pái ōaⁿ pau-siong-liāu, ti̍h chiàu kì t�
 
 ![原書插圖 - 第 426 頁 (圖 1)](assets/illustrations/page_426_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette).</em></p>
+<p class="figure-caption"><em>Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette).</em></p>
 
 ![原書插圖 - 第 426 頁 (圖 2)](assets/illustrations/page_426_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)</em></p>
+<p class="figure-caption"><em>Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)</em></p>
 
 ![原書插圖 - 第 426 頁 (圖 3)](assets/illustrations/page_426_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant).</em></p>
+<p class="figure-caption"><em>Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant).</em></p>
 
 </div>
 
@@ -1902,19 +1902,19 @@ Tio̍h ū-pī ê ke-si: N̄g ki gōa-kho-to, to-chhùi tio̍h n̄g chhùn tn̂g,
 
 ![原書插圖 - 第 427 頁 (圖 1)](assets/illustrations/page_427_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 271 tô:.-Gōa-kho-to.</em></p>
+<p class="figure-caption"><em>Tē 271 tô:.-Gōa-kho-to.</em></p>
 
 ![原書插圖 - 第 427 頁 (圖 2)](assets/illustrations/page_427_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ.</em></p>
+<p class="figure-caption"><em>Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ.</em></p>
 
 ![原書插圖 - 第 427 頁 (圖 3)](assets/illustrations/page_427_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ.</em></p>
+<p class="figure-caption"><em>Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ.</em></p>
 
 ![原書插圖 - 第 427 頁 (圖 4)](assets/illustrations/page_427_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.</em></p>
+<p class="figure-caption"><em>Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.</em></p>
 
 </div>
 
@@ -1966,19 +1966,19 @@ Tē 274 tô͘:—Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.
 
 ![原書插圖 - 第 428 頁 (圖 1)](assets/illustrations/page_428_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 275 tô.—Hoán-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 275 tô.—Hoán-chián-to.</em></p>
 
 ![原書插圖 - 第 428 頁 (圖 2)](assets/illustrations/page_428_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 276 tô:—Chiam-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 276 tô:—Chiam-chián-to.</em></p>
 
 ![原書插圖 - 第 428 頁 (圖 3)](assets/illustrations/page_428_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 277 tô:—Tit-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 277 tô:—Tit-chián-to.</em></p>
 
 ![原書插圖 - 第 428 頁 (圖 4)](assets/illustrations/page_428_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 278 tô:—Gōa-kho-ngoeh-á.</em></p>
+<p class="figure-caption"><em>Tē 278 tô:—Gōa-kho-ngoeh-á.</em></p>
 
 </div>
 
@@ -2024,11 +2024,11 @@ Tē 278 tô͘.—Gōa-kho-ngoeh-á.
 
 ![原書插圖 - 第 429 頁 (圖 1)](assets/illustrations/page_429_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 279 tô.--Kiông-oan-hông-háp-chiam.</em></p>
+<p class="figure-caption"><em>Tē 279 tô.--Kiông-oan-hông-háp-chiam.</em></p>
 
 ![原書插圖 - 第 429 頁 (圖 2)](assets/illustrations/page_429_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 280 tô:--Bīn-kun-khìⁿ.</em></p>
+<p class="figure-caption"><em>Tē 280 tô:--Bīn-kun-khìⁿ.</em></p>
 
 </div>
 
@@ -2130,7 +2130,7 @@ Nā-sī tñg-kńg-kó͘-tiòng (腸管鼓脹, khì-tiòng, *tympanites*) ê pī�
 Ū-sî nā sī tōng-me̍h-liû (動脈瘤, *aneurysm*) i-seng tio̍h pa̍k hit tiâu tōng-me̍h khah óa tī sim hit pêng (tē 465ª tô). Só͘ tio̍h ū-pī ê ke-si sī chiàu ē-bīn : gōa-kho-to ; gōa-kho-ngoeh-á 2 ki ; 6 ki tōng-me̍h-khîⁿ ; chi̍t ki ū khí ê ngoeh-á ; 3 ki khah sòe ê tun-kau ; khui-siong-tòa-tun-kau ; tōng-me̍h-liû-chiam ; hông-ha̍p-chiam ; hông-ha̍p-sòaⁿ.
 
 > **【全漢對照】**  
-> ### 動脈結紮術（動脈結紮術, *Ligature of artery*）：
+> ### 動脈結紮術（動脈結紮術，*Ligature of artery*）：
 > 
 > **［動脈瘤］**  
 > 有時若是動脈瘤（動脈瘤，*aneurysm*）醫生著縛彼條動脈較倚佇心彼旁（第 465ª 圖）。所著預備的傢俬是照下面：外科刀；外科鋏仔 2 枝；6 枝動脈鉗；一枝有齒的鋏仔；3 枝較細的鈍鉤；開傷帶鈍鉤；動脈瘤針；縫合針；縫合線。
@@ -2147,7 +2147,7 @@ Nā-sī tñg-kńg-kó͘-tiòng (腸管鼓脹, khì-tiòng, *tympanites*) ê pī�
 
 ![原書插圖 - 第 431 頁 (圖 1)](assets/illustrations/page_431_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>281 281a Tē 281 tô:—Chú-kiong-thàm-khì tit-tit-ê. Tē 281a tô:—Chú-kiong-thàm-khì oan-ê.</em></p>
+<p class="figure-caption"><em>281 281a Tē 281 tô:—Chú-kiong-thàm-khì tit-tit-ê. Tē 281a tô:—Chú-kiong-thàm-khì oan-ê.</em></p>
 
 </div>
 
@@ -2167,8 +2167,8 @@ Ke-si: Khui-pak-su̍t-ê, í-kip chiah-ê: nñg-châu-tiah-chhut ê thò-kńg-ch
 > **【全漢對照】**  
 > **卵巢摘出**  
 > **器具**  
-> 卵巢摘出（卵巢摘出, *Ovariotomy*）：  
-> 器具：開腹術的，以及諸個：卵巢摘出的套管針，佮樹奶管；小佮縫合針；有鉤的鉗 2 支；壓搾鉗（壓搾鉗, *pressure forceps*）2 支；平常的套管針。
+> 卵巢摘出（卵巢摘出，*Ovariotomy*）：  
+> 器具：開腹術的，以及諸個：卵巢摘出的套管針，佮樹奶管；小佮縫合針；有鉤的鉗 2 支；壓搾鉗（壓搾鉗，*pressure forceps*）2 支；平常的套管針。
 
 ---
 
@@ -2190,7 +2190,7 @@ Ke-si: Khui-pak-su̍t-ê, kap chiah-ê: chi̍t ki khah tn̂g ū-khí ê ngoeh-á
 > **【全漢對照】**  
 > **子宮摘出**  
 > **器具**  
-> 子宮摘出，（子宮摘出, *Hysterectomy*）：  
+> 子宮摘出，（子宮摘出，*Hysterectomy*）：  
 > 器具：開腹術的，佮諸個：一支較長有齒的夾仔；長的剪刀；小佮縫合針；子宮探器；2 支有角頭的壓搾鉗；*Sims* 氏陰道鏡；6 支長的壓搾鉗。
 
 ---
@@ -2228,7 +2228,7 @@ Ke-si: Khui-pak-su̍t-ê, í-kip
 > **【全漢對照】**  
 > **胃腸吻合**  
 > **器具**  
-> 胃腸吻合（胃腸吻合, *Gastro-enterostomy*；第 282, 282a 圖）。  
+> 胃腸吻合（胃腸吻合，*Gastro-enterostomy*；第 282, 282a 圖）。  
 > 器具：開腹術的，以及
 
 <!-- Page 431 End -->
@@ -2243,11 +2243,11 @@ Ke-si: Khui-pak-su̍t-ê, í-kip
 
 ![原書插圖 - 第 432 頁 (圖 1)](assets/illustrations/page_432_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless).</em></p>
 
 ![原書插圖 - 第 432 頁 (圖 2)](assets/illustrations/page_432_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 282a tô.—Doyen-sī ūi-khîⁿ.</em></p>
+<p class="figure-caption"><em>Tē 282a tô.—Doyen-sī ūi-khîⁿ.</em></p>
 
 </div>
 
@@ -2391,7 +2391,7 @@ Ke-si: Khui-pak-su̍t-ê, í-ki̍p chiah-ê, thoat-tiông-hông-ha̍p-chiam; si�
 
 > **【全漢對照】**  
 > **【脫腸 / 器具】**  
-> 脫腸（脫腸, Hernia）：  
+> 脫腸（脫腸，Hernia）：  
 > 器具：開腹術的，以及遮的，脫腸縫合針；小腳縫合針；若是箝頓性的脫腸，減綵也著預備腸仔的圓針、腸仔鋏佮特別脫腸刀。
 
 ---
@@ -2408,7 +2408,7 @@ Lâng nā ū chit hō pīⁿ khiā ti̍t-ti̍t, á-sī sàu, á-sī chhut-la̍t,
 
 > **【全漢對照】**  
 > **【還納性脫腸】**  
-> 人若有這號病徛直直，抑是嗽，抑是出力，彼個腸會脫出；若倒咧，用手下彼個腫的所在來揤著，腸會閣入腹肚內，蹹平消去，叫做還納性脫腸（還納性脫腸, reducible hernia）。
+> 人若有這號病徛直直，抑是嗽，抑是出力，彼個腸會脫出；若倒咧，用手下彼個腫的所在來揤著，腸會閣入腹肚內，蹹平消去，叫做還納性脫腸（還納性脫腸，reducible hernia）。
 
 ---
 
@@ -2454,7 +2454,7 @@ Lâng nā ū thoat-tiông, chit-ê ōe piàn chòe kúi-nā khoán:
 
 > **【全漢對照】**  
 > **【箝頓性脫腸】**  
-> 4. 脫腸內的物較案，彼個血袂流行，若無趕緊醫治，病人會死；這款叫做箝頓性脫腸（箝頓性脫腸, strangulated hernia）。
+> 4. 脫腸內的物較案，彼個血袂流行，若無趕緊醫治，病人會死；這款叫做箝頓性脫腸（箝頓性脫腸，strangulated hernia）。
 
 ---
 
@@ -2477,7 +2477,7 @@ Mî-sî ti̍oh pan ê khàn-hō͘, m̄-thang the̍h tī the̍-í-nih, kiaⁿ-li�
 
 ![原書插圖 - 第 435 頁 (圖 1)](assets/illustrations/page_435_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 283 tô.—Thoat-tiông-tòa.</em></p>
+<p class="figure-caption"><em>Tē 283 tô.—Thoat-tiông-tòa.</em></p>
 
 </div>
 
@@ -2556,15 +2556,15 @@ Ke-si: Khui-pak-su̍t-ê, í-kip chiah-ê: n̄g ki toaⁿ-kau-khíⁿ; chi̍t ki
 
 ![原書插圖 - 第 436 頁 (圖 1)](assets/illustrations/page_436_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 284 tô:--Kong-sėk-sî.</em></p>
+<p class="figure-caption"><em>Tē 284 tô:--Kong-sėk-sî.</em></p>
 
 ![原書插圖 - 第 436 頁 (圖 2)](assets/illustrations/page_436_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 285 tô:--Toan-kau-khîn.</em></p>
+<p class="figure-caption"><em>Tē 285 tô:--Toan-kau-khîn.</em></p>
 
 ![原書插圖 - 第 436 頁 (圖 3)](assets/illustrations/page_436_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 286 tô:--Siang tun-kau.</em></p>
+<p class="figure-caption"><em>Tē 286 tô:--Siang tun-kau.</em></p>
 
 </div>
 
@@ -2606,7 +2606,7 @@ khì, i-seng beh ēng sòaⁿ thīⁿ hō͘ bát, iā chiong thong-jiō-tō ê c
 Jîn-ài bô hoaⁿ-hí put-gī, sī kap chin-lí saⁿ-kap hoaⁿ-hí (I Ko-lîm-to 13 : 6).
 
 > **【全漢對照】**
-> 仁愛無歡喜不義，是及真理相佮歡喜（I 哥林多 13 : 6）。
+> 仁愛無歡喜不義，是及真理相佮歡喜（I 哥林多 13：6）。
 
 <!-- Page 436 End -->
 
@@ -2745,13 +2745,13 @@ Beh ōaⁿ pau-siong-liāu ê sî, iàu-kín hit ê io̍h-sng tiòh ji̍p kàu s
 
 ![原書插圖 - 第 439 頁 (圖 1)](assets/illustrations/page_439_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 287 tô.
+<p class="figure-caption"><em>Tē 287 tô.
 Chhiat-tñg-
 to.</em></p>
 
 ![原書插圖 - 第 439 頁 (圖 2)](assets/illustrations/page_439_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 288 tô.—Chhiat-
+<p class="figure-caption"><em>Tē 288 tô.—Chhiat-
 tñg-kù.</em></p>
 
 </div>
@@ -2811,11 +2811,11 @@ Tióh ū kong-ek sim.（著有公益心。）
 
 ![原書插圖 - 第 440 頁 (圖 1)](assets/illustrations/page_440_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 289 tô.—Liān-kù.</em></p>
+<p class="figure-caption"><em>Tē 289 tô.—Liān-kù.</em></p>
 
 ![原書插圖 - 第 440 頁 (圖 2)](assets/illustrations/page_440_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 290 tô.— Chhì-kù.</em></p>
+<p class="figure-caption"><em>Tē 290 tô.— Chhì-kù.</em></p>
 
 </div>
 
@@ -2885,23 +2885,23 @@ Chhoan-lû-su̍t（穿顱術, *Trephine*）: Náu-lāi nā ū sìⁿ chéng-iôn
 
 ![原書插圖 - 第 441 頁 (圖 1)](assets/illustrations/page_441_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 291 tô:—Lāi-sî.</em></p>
+<p class="figure-caption"><em>Tē 291 tô:—Lāi-sî.</em></p>
 
 ![原書插圖 - 第 441 頁 (圖 2)](assets/illustrations/page_441_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator).</em></p>
+<p class="figure-caption"><em>Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator).</em></p>
 
 ![原書插圖 - 第 441 頁 (圖 3)](assets/illustrations/page_441_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 293 tô:—Chhoan-lû-îⁿ-kù.</em></p>
+<p class="figure-caption"><em>Tē 293 tô:—Chhoan-lû-îⁿ-kù.</em></p>
 
 ![原書插圖 - 第 441 頁 (圖 4)](assets/illustrations/page_441_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 294 tô:—Ko·-chōng-chhàk.</em></p>
+<p class="figure-caption"><em>Tē 294 tô:—Ko·-chōng-chhàk.</em></p>
 
 ![原書插圖 - 第 441 頁 (圖 5)](assets/illustrations/page_441_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 295 tô:—Pán-chōng-chhàk.</em></p>
+<p class="figure-caption"><em>Tē 295 tô:—Pán-chōng-chhàk.</em></p>
 
 </div>
 
@@ -2947,7 +2947,7 @@ Tē 295 tô͘:—Pán-chōng-chhák.
 **Chih-chhiat-tû** (舌切除, Excision of tongue): Chhùi-chih nā siⁿ chéng-iông, hit-ê tiòh chhiat-tû.
 
 > **【全漢對照】**
-> **舌切除**（舌切除, Excision of tongue）：嘴舌若生腫瘍，彼個著切除。
+> **舌切除**（舌切除，Excision of tongue）：嘴舌若生腫瘍，彼個著切除。
 
 ---
 
@@ -2970,7 +2970,7 @@ Iáu-bē chòe chhiú-su̍t sî iàu-kín chhùi-khí tiòh lóng chheng-khì. I
 **Pīⁿ-thô-chôaⁿ-chhiat-tû** (扁桃腺切除, Excision of tonsils): Pīⁿ-thô-chôaⁿ nā khah tōa, ū-sî tiòh the̍h-khí-lâi. Chòe chit ê chhiú-su̍t tiòh ū-pī peng, kiaⁿ-liáu chhut-huih.
 
 > **【全漢對照】**
-> **扁桃腺切除**（扁桃腺切除, Excision of tonsils）：扁桃腺若較大，有時著提起來。做此個手術著預備冰，驚了出血。
+> **扁桃腺切除**（扁桃腺切除，Excision of tonsils）：扁桃腺若較大，有時著提起來。做此個手術著預備冰，驚了出血。
 
 ---
 
@@ -2993,7 +2993,7 @@ Chit hō chhùi-lāi ê chhiú-su̍t liáu-āu, tiòh hō͘ chia̍h liû-tōng-s
 **Lîm-pa-chôaⁿ-tiah-chhut** (淋巴腺摘出, Excision of glands): Lîm-pa-chôaⁿ nā siⁿ kiat-hu̍t chèng, á-sī siⁿ
 
 > **【全漢對照】**
-> **淋巴腺摘出**（淋巴腺摘出, Excision of glands）：淋巴腺若生結核症，抑是生……
+> **淋巴腺摘出**（淋巴腺摘出，Excision of glands）：淋巴腺若生結核症，抑是生……
 
 <!-- Page 442 End -->
 
@@ -3007,11 +3007,11 @@ Chit hō chhùi-lāi ê chhiú-su̍t liáu-āu, tiòh hō͘ chia̍h liû-tōng-s
 
 ![原書插圖 - 第 443 頁 (圖 1)](assets/illustrations/page_443_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 296 tô.—Kut-khîⁿ.</em></p>
+<p class="figure-caption"><em>Tē 296 tô.—Kut-khîⁿ.</em></p>
 
 ![原書插圖 - 第 443 頁 (圖 2)](assets/illustrations/page_443_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 297 tô.—Kut-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 297 tô.—Kut-chián-to.</em></p>
 
 </div>
 
@@ -3110,7 +3110,7 @@ Chit ê chhiú-sùt liáu, tióh ēng chhiū-leng-kńg hō͘ lâng lâu-chhut-l�
 **Ke-si:** Gōa-kho-to, tōa kap sòe sì ki; 2 ki gōa-kho-ngoeh-á; 24 ki tōng-me̍h-khīⁿ; 2 ki chián-to; tōng-me̍h-liû-chiam; ū kau ê khīⁿ; siau-sit-khì (*blunt dissector*); khui-siong-khì; hông-ha̍p-chiam kap sòaⁿ. Phòng-se chòe ê chhit-pò͘ 6 chhùn sù-hong; siau-to̍k-sio-chúi.
 
 > **【全漢對照】**
-> **乳房切除（乳房切除, Amputation of breast）**
+> **乳房切除（乳房切除，Amputation of breast）**
 > **器具：** 外科刀，大佮細四枝；2 枝外科夾仔；24 枝動脈鉗；2 枝剪刀；動脈瘤針；有鉤的鉗；消釋器（鈍性剝離器，*blunt dissector*）；開傷器；縫合針佮線。紡紗做的拭布 6 寸四方；消毒熱水。
 
 ---
@@ -3127,7 +3127,7 @@ Chit ê chhiú-su̍t sī in-ūi siⁿ chéng-iông ê iân-kò͘. Pīⁿ-lâng m
 Hōe-im-hông-ha̍p-su̍t (會陰縫合術, *Perineorraphy*): Hū-jîn-lâng khioh gín-ná ê sî, hōe-im ū-sî ōe phòa-li̍h, chiū-sī hit ê bah tùi im-bûn kap kong-bûn ê tiong-kan. I-tī ê hoat-tō͘ sī chiong phòa-li̍h ê só͘-chāi kā pâng-óa. Ū-sî khioh liáu, hit ê li̍h-khui ê só͘-chāi, liâm-piⁿ thīⁿ bāt. Iā ū-sî thèng-hāu sán-hū khah hó, chiah kā chhiú-su̍t. Chhiú-su̍t liáu-āu, khàn-hō͘ tióh ta̍k jit nñg saⁿ pái ēng khah-chōe ê siau-to̍k-io̍h-chúi sóe siong-chhùi. Tióh hō͘ i tó chhiò-chhiò, ēng tòa chiong nñg ki kha-thúi pa̍k hō͘ i bōe thián-khui. Chiong chit-ê chím-thâu ké hit ê kha-oat-oan, hō͘ tōa-thúi ōe kiu-khí-lâi. Nā kàu eng-kai cháu-tāng ê jit, tāi-seng chit jit tióh ēng *oleum ricini* hō͘ i chia̍h, koh kè nñg saⁿ tiám-cheng liáu-āu, chiong *enema saponis* kap *oleum olivae* koàn-tng. Chhian-bān m̄-thang hō͘ pīⁿ-lâng chhut la̍t tìⁿ.
 
 > **【全漢對照】**
-> **會陰縫合術（會陰縫合術, Perineorraphy）：** 婦人人抾囡仔的時，會陰有時會破裂，就是彼個肉對陰門佮肛門的中間。醫治的法度是將破裂的所在共捀倚。有時抾了，彼個裂開的所在，連鞭縫密。也有時聽候產婦較好，才共手術。手術了後，看護著逐日兩三擺用較多的消毒藥水洗傷喙。著予伊倒斜斜（仰臥），用帶將兩枝跤腿縛予伊袂展開。將一个枕頭墊彼個跤屈彎，予大腿會 create/縮起來。若到應該走動的日，代先一日著用 *oleum ricini*（蓖麻油）予伊食，閣過兩三點鐘了後，將 *enema saponis*（肥皂灌腸劑）佮 *oleum olivae*（橄欖油）灌腸。千萬毋通予病人出力捘（用力迸）。
+> **會陰縫合術（會陰縫合術，Perineorraphy）：** 婦人人抾囡仔的時，會陰有時會破裂，就是彼個肉對陰門佮肛門的中間。醫治的法度是將破裂的所在共捀倚。有時抾了，彼個裂開的所在，連鞭縫密。也有時聽候產婦較好，才共手術。手術了後，看護著逐日兩三擺用較多的消毒藥水洗傷喙。著予伊倒斜斜（仰臥），用帶將兩枝跤腿縛予伊袂展開。將一个枕頭墊彼個跤屈彎，予大腿會 create/縮起來。若到應該走動的日，代先一日著用 *oleum ricini*（蓖麻油）予伊食，閣過兩三點鐘了後，將 *enema saponis*（肥皂灌腸劑）佮 *oleum olivae*（橄欖油）灌腸。千萬毋通予病人出力捘（用力迸）。
 
 ---
 
@@ -3148,7 +3148,7 @@ Nā ū sím-mih siong-chhùi chhin-chhiūⁿ chhiú-su̍t lâng-iông liáu-āu,
 
 ![原書插圖 - 第 445 頁 (圖 1)](assets/illustrations/page_445_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 298 tô:—Hók-súi-thò-kńg-chiam.</em></p>
+<p class="figure-caption"><em>Tē 298 tô:—Hók-súi-thò-kńg-chiam.</em></p>
 
 </div>
 
@@ -3227,7 +3227,7 @@ Tē 298 tô͘:—Ho̍k-súi-thò-kńg-chiam.
 
 ![原書插圖 - 第 446 頁 (圖 1)](assets/illustrations/page_446_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 299 tô.—Nñg ki chiam lóng piān beh phê-ē-iâm-chúi-chù-jip-hoat (Morrow).</em></p>
+<p class="figure-caption"><em>Tē 299 tô.—Nñg ki chiam lóng piān beh phê-ē-iâm-chúi-chù-jip-hoat (Morrow).</em></p>
 
 </div>
 
@@ -3309,7 +3309,7 @@ Chit-ê chiū-sī ēng sio-siau-to̍k-chúi, á-sī sio-iâm-chúi, chù-jip ph�
 
 ![原書插圖 - 第 447 頁 (圖 1)](assets/illustrations/page_447_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 300 tô.—Iâm-chúi-chù-jip-hoat ê phê-ē pō-ūi : 1, leng-pông-ē ; 2, tē 12 ki hiap-kut kap tng-kut ê tiong-ng ; 3, koh-ē-khang ; 4, tōa-thúi ê lāi-bīn pêng (Morrow).</em></p>
+<p class="figure-caption"><em>Tē 300 tô.—Iâm-chúi-chù-jip-hoat ê phê-ē pō-ūi : 1, leng-pông-ē ; 2, tē 12 ki hiap-kut kap tng-kut ê tiong-ng ; 3, koh-ē-khang ; 4, tōa-thúi ê lāi-bīn pêng (Morrow).</em></p>
 
 </div>
 
@@ -3354,7 +3354,7 @@ Pīⁿ-lâng ê phê-bah, tiòh ēng siau-to̍k-io̍h-chúi, kap hé-chiú sóe 
 **Tē 300 tô͘.**—Iâm-chúi-chù-ji̍p-hoat ê phê-ē pō͘-ūi: 1, leng-pông-ē; 2, tē 12 ki hia̍p-kut kap tn̂g-kut ê tiong-ng; 3, koh-ē-khang; 4, tōa-thúi ê lāi-bīn pêng (Morrow).
 
 > **【全漢對照】**
-> **第 300 圖。**——鹽水注入法的皮下部位：1, 奶房下；2, 第 12 枝脅骨佮腸骨的中間；3, 胳下空；4, 大腿的內面旁（Morrow）。
+> **第 300 圖。**——鹽水注入法的皮下部位：1，奶房下；2，第 12 枝脅骨佮腸骨的中間；3，胳下空；4，大腿的內面旁（Morrow）。
 
 ---
 
@@ -3384,11 +3384,11 @@ Hō͘ iâm-chúi siā-ji̍p ê pō͘-ūi, khah-siông sī tùi heng-khám-piⁿ,
 
 ![原書插圖 - 第 448 頁 (圖 1)](assets/illustrations/page_448_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders).</em></p>
 
 ![原書插圖 - 第 448 頁 (圖 2)](assets/illustrations/page_448_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>(J.O)
+<p class="figure-caption"><em>(J.O)
 Tē 302 tô:—Iâm-chúi-chù-jip-khì.</em></p>
 
 </div>
@@ -3398,7 +3398,7 @@ Tē 302 tô:—Iâm-chúi-chù-jip-khì.</em></p>
 iâm-chúi bōe léng-khì. Chit ê chúi lóng tióh kè niû. Khah-siông tióh chiong 500.0 c.c. chù-ji̍p tī chi̍t só͘-chāi.
 
 > **【全漢對照】**
-> （[旁註：皮下注入法]）
+> （［旁註：皮下注入法］）
 > 鹽水𣍐冷去。這个水攏著經過量。較常著將 500.0 c.c. 注入佇一所在。
 
 ---
@@ -3423,7 +3423,7 @@ Kó͘-chá ê sî chit ê hoat, chiū-sī ēng ióng-kiāⁿ bô pīⁿ ê lâng
 
 > **【全漢對照】**
 > ### 靜脈內注入法（靜脈內注入法，*Intravenous infusion*；第 302, 303 圖）：
-> （[旁註：靜脈內注入法]）
+> （［旁註：靜脈內注入法］）
 > 古早的時這个法，就是用勇健無病的人的血，注射入病人的靜脈管內；現此時是罕得用，因為是危險。總是將鹽水，來灌入佇病人的靜脈管，是現此時平常咧用的法。
 
 ---
@@ -3445,7 +3445,7 @@ Kó͘-chá ê sî chit ê hoat, chiū-sī ēng ióng-kiāⁿ bô pīⁿ ê lâng
 
 ![原書插圖 - 第 449 頁 (圖 1)](assets/illustrations/page_449_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 303 tô.-Chēng-mėh-lāi-chù-jip-hoat. Téng-bīn ū chit kī hó ēng ê chēng-mėh-tun-chiam; ē-bīn, chēng-mėh hông-háp-sòaⁿ pák ê hoat-tō (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 303 tô.-Chēng-mėh-lāi-chù-jip-hoat. Téng-bīn ū chit kī hó ēng ê chēng-mėh-tun-chiam; ē-bīn, chēng-mėh hông-háp-sòaⁿ pák ê hoat-tō (Rose and Carless).</em></p>
 
 </div>
 
@@ -3457,7 +3457,7 @@ BÂ-CHÙI-IÓH, CHHIÚ-SÙT
 Ēng $\left\{ \begin{array}{l} \text{Iâm \dots\dots\dots\dots\dots 9.0 grammes.} \\ \text{Chēng-liû-chúi \dots 1,000.0 c.c.} \end{array} \right\}$. Nā teh ū-pī, tióh pī-pān $110^\circ\text{ F. }(43.3^\circ\text{ C.})$ sio; iā beh chù-jip ê sî-kan, i ê un-tō͘ ōe kàng-lóh kàu $105^\circ\text{ F. }(40.6^\circ\text{ C.})$.
 
 > **【全漢對照】**
-> ### [鹽水的溫度]
+> ### ［鹽水的溫度］
 > 用 $\left\{ \begin{array}{l} \text{鹽 \dots\dots\dots\dots\dots 9.0 公克} \\ \text{蒸餾水 \dots 1,000.0 c.c.} \end{array} \right\}$。若咧預備，著備辦 $110^\circ\text{ F. }(43.3^\circ\text{ C.})$ 燒；也欲注入的時間，伊的溫度會降落到 $105^\circ\text{ F. }(40.6^\circ\text{ C.})$。
 
 ---
@@ -3467,7 +3467,7 @@ BÂ-CHÙI-IÓH, CHHIÚ-SÙT
 Ke-si: Phê-ē-chù-jip-hoat-ê, í-kip chiah-ê: gōa-kho-to; tōng-me̍h-liû-chiam; 2 ki tōng-me̍h-khìⁿ; chián-to; gōa-kho-ngoeh-á; kap ū-khí ê ngoeh-á; chēng-me̍h-tun-chiam; hông-ha̍p-chiam kap sòaⁿ; siau-to̍k-ióh-chúi, siau-to̍k-pôaⁿ, siau-to̍k-pau-siong-liāu; chí-huih-khì; pheng-tòa.
 
 > **【全漢對照】**
-> ### [器具]
+> ### ［器具］
 > 器具：皮下注入法的，以及諸個：外科刀；動脈瘤針；2 枝動脈鉗；剪刀；外科夾仔；及有齒的夾仔；靜脈鈍針；縫合針及線；消毒藥水、消毒盤、消毒包傷料；止血器；繃帶。
 
 ---
@@ -3564,7 +3564,7 @@ Tāi-khài lâi kóng, kā pīⁿ-lâng chù-jip iâm-chúi ê kui-kú, pâi-lia
 6. Ti̍h chhin-chhiūⁿ chhiú-sùt ê sî, hít khoán ê chheng-khì; nā bô, kiaⁿ-liáu hit hō bî-seng-bu̍t cháu-ji̍p-khì, chha̍k chiam ê só͘-chāi, chiū ōe hoat-iām.
 
 > **【全漢對照】**
-> **[注入鹽水的規矩]**
+> **［注入鹽水的規矩］**
 > 2. 注射鹽水的所在，著用棉花罨咧。
 > 3. 鹽水的溫度著檢，也著照頂面所講。
 > 4. 注射鹽水，毋通傷大力。
@@ -3588,7 +3588,7 @@ Chòe chit ê hoat, chiū-sī i-seng ê chek-sêng, khàn-hō͘ m̄-thang ka-kī
 Ti̍h pī-pān chit ki kè-sa̍h ê gōa-kho-to; siau-to̍k-io̍h-chúi; niû-poe; mî-hoe, chúi-nî-pò͘, pheng-tòa; siu siong-chhùi chí huih ê io̍h chhin-chhiūⁿ *collodion* ê io̍h, á-sī *tinctura benzoini co.*, ia̍h ti̍h pī-pān 12.0 c.c. *brandy* lâi tî-hông pīⁿ-lâng m̄-tú-hó sòan hūn-khì.
 
 > **【全漢對照】**
-> **[傢俬]**
+> **［傢俬］**
 > 著備辦一支夾筴的外科刀；消毒藥水；量杯；棉花、水泥布（水坭布）、繃帶；收傷喙止血的藥親像 *collodion* 的藥，抑是 *tinctura benzoini co.*，亦著備辦 12.0 c.c. *brandy* 來提防病人毋拄好紲昏去。
 
 ---

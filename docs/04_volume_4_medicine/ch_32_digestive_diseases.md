@@ -53,23 +53,23 @@ Tāi-piān-pì-kiat (piān-pì), (大便秘結, Constipation).
 Hā-lī (下痢, Diarrhœa).
 
 > **【全漢對照】**
-> 嘴內炎 (口內炎, Stomatitis).  
-> 扁桃腺炎 (扁桃腺炎, Tonsillitis).  
-> 咽頭炎 (咽頭炎, Pharyngitis).  
-> 食道炎 (食道炎, Acute œsophagitis).  
-> 食道狹窄 (食道狹窄, Stricture of the œsophagus).  
-> 消化不良 (消化不良, Dyspepsia).  
-> 胃炎 (胃炎, Gastritis).  
-> 胃潰瘍 (胃潰瘍, Gastric ulcer).  
-> 胃擴張 (胃擴張, Dilatation of the stomach).  
-> 胃癌 (胃癌, Cancer of the stomach).  
-> 腸炎 (腸炎, Enteritis).  
-> 蟲樣垂炎 (蟲樣垂炎, Appendicitis).  
-> 赤痢 (赤痢, Dysentery).  
-> 腸閉塞 (腸閉塞, Intestinal obstruction).  
-> 腸重疊 (腸重疊, Intussusception).  
-> 大便秘結 (便秘), (大便秘結, Constipation).  
-> 下痢 (下痢, Diarrhœa).
+> 嘴內炎 （口內炎，Stomatitis）。
+> 扁桃腺炎 （扁桃腺炎，Tonsillitis）。
+> 咽頭炎 （咽頭炎，Pharyngitis）。
+> 食道炎 （食道炎，Acute œsophagitis）。
+> 食道狹窄 （食道狹窄，Stricture of the œsophagus）。
+> 消化不良 （消化不良，Dyspepsia）。
+> 胃炎 （胃炎，Gastritis）。
+> 胃潰瘍 （胃潰瘍，Gastric ulcer）。
+> 胃擴張 （胃擴張，Dilatation of the stomach）。
+> 胃癌 （胃癌，Cancer of the stomach）。
+> 腸炎 （腸炎，Enteritis）。
+> 蟲樣垂炎 （蟲樣垂炎，Appendicitis）。
+> 赤痢 （赤痢，Dysentery）。
+> 腸閉塞 （腸閉塞，Intestinal obstruction）。
+> 腸重疊 （腸重疊，Intussusception）。
+> 大便秘結 （便秘）, （大便秘結，Constipation）。
+> 下痢 （下痢，Diarrhœa）。
 
 <!-- Page 521 End -->
 
@@ -83,7 +83,7 @@ Hā-lī (下痢, Diarrhœa).
 
 ![原書插圖 - 第 522 頁 (圖 1)](assets/illustrations/page_522_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 454 tô.—Seng-khu-lāi ê chōng-khì, tùi thâu-chêng khòaⁿ ê tô·: I—X, hiap-kut; lék-sek-ê sī hì; lék-sek-ê chit tiám chit-tiám, sī heng-mô·h; tiong-ng ê o·-sek sī koaⁿ-chōng kap thâu-lông; heng-khám tiong-ng ê âng-sek sī sim; sim ê ē-bīn pak-tó· ê téng-bīn âng-sek-ê sī ūi; ē-bīn sī tn̂g. (From Hutchison and Rainy’s “Clinical Methods,” Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -109,10 +109,10 @@ N̂g-thán (黃疸, *Jaundice*).
 Táⁿ-chio̍h chèng (膽石症, *Gall stones*).
 
 > **【全漢對照】**  
-> 腸寄生蟲病 (腸寄生蟲病, *Helminthiasis*).  
-> 腹膜炎 (腹膜炎, *Peritonitis*).  
-> 黃疸 (黃疸, *Jaundice*).  
-> 膽石症 (膽石症, *Gall stones*).
+> 腸寄生蟲病 （腸寄生蟲病，*Helminthiasis*）。
+> 腹膜炎 （腹膜炎，*Peritonitis*）。
+> 黃疸 （黃疸，*Jaundice*）。
+> 膽石症 （膽石症，*Gall stones*）。
 
 ---
 
@@ -122,7 +122,7 @@ Chhùi-lāi-iām : Chhùi-lāi ōe tú-tio̍h kúi-nā khoán ê iām, ōe jiám
 
 > **【全漢對照】**  
 > **【口內炎】**  
-> 口內炎：口內會抵著幾若款的炎，會染著嘴唇、齒岸、喙䫌的粘膜及舌。這號口內的病，叫做口內炎。第一傷重的，就是喙䫌內的粘膜及肉，佇這位有病成死肉；這號死肉叫做壞疽（壞疽, *gangrene*）；亦這號病叫做水癌（水癌, *noma*）。較常是歹養飼的囡仔抵著這號病。若無趕緊用手術，彼個壞疽會到外皮，驚了會害著性命。
+> 口內炎：口內會抵著幾若款的炎，會染著嘴唇、齒岸、喙䫌的粘膜及舌。這號口內的病，叫做口內炎。第一傷重的，就是喙䫌內的粘膜及肉，佇這位有病成死肉；這號死肉叫做壞疽（壞疽，*gangrene*）；亦這號病叫做水癌（水癌，*noma*）。較常是歹養飼的囡仔抵著這號病。若無趕緊用手術，彼個壞疽會到外皮，驚了會害著性命。
 
 ---
 
@@ -152,7 +152,7 @@ Hóng-to̍k-sèng chhùi-lāi-iām (汞毒性口內炎, *Mercurial stomatitis*):
 
 > **【全漢對照】**  
 > **【汞毒性口內炎】**  
-> 汞毒性口內炎（汞毒性口內炎, *Mercurial stomatitis*）：病人若咧食水銀彼類的藥，著時常斟酌看伊的齒岸
+> 汞毒性口內炎（汞毒性口內炎，*Mercurial stomatitis*）：病人若咧食水銀彼類的藥，著時常斟酌看伊的齒岸
 
 ---
 
@@ -160,7 +160,7 @@ Hóng-to̍k-sèng chhùi-lāi-iām (汞毒性口內炎, *Mercurial stomatitis*):
 Koh tī pa̍t-ê pèng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4: 12).
 
 > **【全漢對照】**  
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4: 12）。
+> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 523 End -->
 
@@ -192,7 +192,7 @@ Gín-ná hoat chhùi-khí: Gín-ná hoat chhùi-khí ê sî, ū-sî ū chhùi-kh
 Phîⁿ-thô-chôaⁿ-iām: Phîⁿ-thô-chôaⁿ ū-sî ū kín-kip iām, ū-sî chi̍t pêng, ū-sî lióng pêng. Ū-sî tī chia ōe siⁿ lâng-iông. Siàu-liân lâng ê phîⁿ-thô-chôaⁿ nā khah tōa, khah khoài jiám-tio̍h chit hō pīⁿ. Koh chi̍t hāng ê goân-in, chiū-sī kòaⁿ-tio̍h, kám-mō͘, á-sī lâng ū lú-mâ-chit-su (*rheumatism*) ê pīⁿ.
 
 > **【全漢對照】**
-> **扁桃腺炎**：扁桃腺有時有緊急炎，有時一旁，有時兩旁。有時佇遮會生膿瘍。少年人的扁桃腺若較大，較快染著此號病。閣一項的原因，就是寒著、感冒，抑是人有 *lú-mâ-chit-su* (*rheumatism*，風濕) 的病。
+> **扁桃腺炎**：扁桃腺有時有緊急炎，有時一旁，有時兩旁。有時佇遮會生膿瘍。少年人的扁桃腺若較大，較快染著此號病。閣一項的原因，就是寒著、感冒，抑是人有 *lú-mâ-chit-su* （*rheumatism*，風濕） 的病。
 
 ---
 
@@ -233,7 +233,7 @@ Chèng-chōng: Nâ-âu bô siaⁿ, àng-àng, hàng-thiàⁿ, hoat sio, ū-sî h
 
 ![原書插圖 - 第 525 頁 (圖 1)](assets/illustrations/page_525_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 455 tô:—Seng-khu-lāi ê chōng-khì, tùi āu-bīn khòan ê tô: I—XII, hiap-kut ; lék-sek-ê sī hì, lék-sek-ê chit-tiám chit-tiám sī heng-mó͘h ; tò-pêng o͘-ê sī pî-chōng ; lióng-pêng âng-sek-ê sī sīn-chōng ; tiong-ng âng-sek-ê chit-tiám chit-tiám, sī chūi-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -310,7 +310,7 @@ Nā-sī kàu án-ni bē chhut siaⁿ, hit ê pīⁿ í-keng liân-lūi-tio̍h â
 Lán só͘ tio̍h kiâⁿ-ê bô phat hāng, lâng kap lâng kóng-ōe tio̍h kóng sêng-si̍t, tī kong-têng phòaⁿ-toàn, tio̍h ēng chìn sêng hō͘ lâng saⁿ-hô (Sat-ka-lī-a 8: 16).
 
 > **【全漢對照】**  
-> 咱所著行的無別項，人及人講話著講誠實，佇公庭判斷，著用盡誠互人相和（撒迦利亞 8: 16）。
+> 咱所著行的無別項，人及人講話著講誠實，佇公庭判斷，著用盡誠互人相和（撒迦利亞 8：16）。
 
 <!-- Page 526 End -->
 
@@ -324,7 +324,7 @@ Lán só͘ tio̍h kiâⁿ-ê bô phat hāng, lâng kap lâng kóng-ōe tio̍h k�
 ...mih iân-kò͘ ūi sit-lo̍h i ê chok-iōng, kiò-chòe siau-hòa-put-liông. Chit ê goân-in ū-sî sī tùi ūi hun-pì ê ūi-e̍k ū koh-iūⁿ, á-sī ūi ê kun-bah sit-lo̍h i ê chok-iōng, á-sī si̍t-bu̍t bô ha̍p-gî, chit khoán kiò-chòe koan-lêng pīⁿ (官能病, functional disease). Nā-sī ūi-nih ū siⁿ chéng-iông, á-sī hoat-iām, ūi-ka-tap-jī hit hō, á-sī siⁿ ūi-iông, iû-goân ū siau-hòa-put-liông ê chèng-chōng. Chit hō pīⁿ kiò-chòe si̍t-chit ê pīⁿ (實質病, organic disease) á-sī ki-chit ê pīⁿ.
 
 > **【全漢對照】**  
-> ……物因故胃失落伊的作用，叫做消化不良。此個原因有時是對胃分泌的胃液有各樣（異樣），抑是胃的筋肉失落伊的作用，抑是食物無合宜，此款叫做官能病（官能病, functional disease）。若是胃裡有生腫瘍，抑是發炎，胃カタール（胃卡他）彼號，抑是生胃瘍，猶原有消化不良的症狀。此號病叫做實質病（實質病, organic disease）抑是器質的病。
+> ……物因故胃失落伊的作用，叫做消化不良。此個原因有時是對胃分泌的胃液有各樣（異樣），抑是胃的筋肉失落伊的作用，抑是食物無合宜，此款叫做官能病（官能病，functional disease）。若是胃裡有生腫瘍，抑是發炎，胃カタール（胃卡他）彼號，抑是生胃瘍，猶原有消化不良的症狀。此號病叫做實質病（實質病，organic disease）抑是器質的病。
 
 ---
 
@@ -382,7 +382,7 @@ Tī-liâu : Tio̍h chiàu hó ê hoat-tō͘ lâi chù-ì chia̍h-mih. Ū-sî tio
 
 ![原書插圖 - 第 528 頁 (圖 1)](assets/illustrations/page_528_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 456 tô:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê tô : lėk-sek-ê sī hì kap heng-mỏ·h ; o͘-sek-ê sī koaⁿ-chōng ; âng-sek-ê sī sīn-chōng. (From Hutchison and Rainy's “Clinical Methods,” Cassel and Co., publishers.)</em></p>
 
 </div>
 
@@ -433,7 +433,7 @@ Tióh chhâ-khòaⁿ i ê chhùi-khí sī ū m̄-tú-hó á m̄-sī, in-ūi chh�
 
 > **【全漢對照】**
 > 胃潰瘍：胃潰瘍ê症狀，食飽了後知痛。心肝頭痛。痛到親像咧插咧擘ê款。食飽閣差不多半點鐘久有痛。胃內ê物若會通吐出嚟，就會得較小安。所吐出嚟ê物有時會含淡薄血，也有時這號血對胃內入去腸內，所以大便會變烏ê色。有時胃壁破去，嚟致到急性腹膜炎。若病到這號款，就著用外科手術開腹嚟醫治，有時出血真危險，會致到關係性命。慢性胃潰瘍，有時欲收喙ê時，彼個破ê所在會搐較緊，抑是若佇幽門部（胃出口）彼個會狹窄（扁隘），食物就較惡通對胃內出去腸內，致到胃擴張。
-> *(邊註：胃潰瘍之危險)*
+> *（邊註：胃潰瘍之危險）*
 
 ---
 
@@ -521,7 +521,7 @@ Bān-sèng-ê goân-in: Bān-sèng goân-in chiū-sī ūi-iông siu chhùi ê s�
 
 ![原書插圖 - 第 531 頁 (圖 1)](assets/illustrations/page_531_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 457 tô.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô: lék-sek-ê sī hì kap heng-mó͘h ; âng-sek-ê sī ūi ; o͘-sek-ê sī pî-chōng ; pî-chōng ê ē-tóe sī hā-hêng-kiat-tng. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -564,7 +564,7 @@ Tī-liâu: Si̍t-bu̍t tio̍h chin sió-sim, khah ha̍p-gî-ê, chiū-sī khoài
 Io̍h-bu̍t-liâu-hoat: Sng ê lūi iâm-sng (HCl), siau-iâm-sng (*acid nitro-hydrochlor.*). A-phiàn ê lūi, beh chí thiàⁿ ê lō͘-ēng. Nā ta̍k ji̍t chiong ūi sóe chheng-khì, pīⁿ-lâng iā khah sóng-khoài, in-ūi chiong hiah ê bōe siau-hòa ê si̍t-bu̍t sóe chhut-lâi. Nā án-ni sóe pīⁿ-lâng chiū bōe ài áu-thò, sui-jiân ū thò, sī khah sió-khóa nā-tiāⁿ; āu-lâi khah ōe siūⁿ ài beh chia̍h. Ū-sî ēng chhiú-su̍t lâi i-tī. Chit hō hoat-tō͘ sī chiong ūi-nih ū pīⁿ ê só͘-chāi koah-chhut-lâi, kiò-chòe ūi-chi̍t-pō͘-chhiat-tû-su̍t (*gastrectomy*). Á-sī tùi ūi-nih bô pīⁿ ê só͘-chāi koah chi̍t khang, lâi chiap tòa khang-tn̂g, án-ni lâng ê si̍t-bu̍t chiū m̄-bián tùi hiu-bûn kè-khì. Chit hō chhiú-su̍t miâ kiò-chòe ūi-tn̂g-bún-ha̍p (胃腸吻合, *gastro-enterostomy*; tē 410 bīn).
 
 > **【全漢對照】**
-> 藥物療法：酸的類鹽酸 (HCl)，硝鹽酸 (*acid nitro-hydrochlor.*)。阿片的類，欲止痛的路用。若逐日將胃洗清氣，病人也較爽快，因為將遐的𣍐消化的食物洗出來。若按呢洗病人就𣍐愛嘔吐，雖然有吐，是較小可若定；後來較會想愛欲食。有時用手術來醫治。這號法度是將胃裡有病的位置割出來，叫做胃一部切除術 (*gastrectomy*)。抑是丵胃裡無病的位置割一孔，來接帶空腸，按呢人的食物就毋免丵幽門過去。這號手術名叫做胃腸吻合（胃腸吻合, *gastro-enterostomy*；第 410 面）。
+> 藥物療法：酸的類鹽酸 (HCl)，硝鹽酸 (*acid nitro-hydrochlor.*)。阿片的類，欲止痛的路用。若逐日將胃洗清氣，病人也較爽快，因為將遐的𣍐消化的食物洗出來。若按呢洗病人就𣍐愛嘔吐，雖然有吐，是較小可若定；後來較會想愛欲食。有時用手術來醫治。這號法度是將胃裡有病的位置割出來，叫做胃一部切除術 (*gastrectomy*)。抑是丵胃裡無病的位置割一孔，來接帶空腸，按呢人的食物就毋免丵幽門過去。這號手術名叫做胃腸吻合（胃腸吻合，*gastro-enterostomy*；第 410 面）。
 
 ---
 
@@ -622,11 +622,11 @@ Thâng-iūⁿ-sûi-iām : Thâng-iūⁿ-sûi-iām (*appendicitis*) sī tn̂g chi
 
 ![原書插圖 - 第 534 頁 (圖 1)](assets/illustrations/page_534_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 458 tô.—Tn̂g-têng-thảh (Rose and Carless).</em></p>
 
 ![原書插圖 - 第 534 頁 (圖 2)](assets/illustrations/page_534_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 458a tô.—Tn̂g-têng-thảh ê tô: I, to-siù-chân (鞘層); II, chhut-chân; III, ji̍p-chân; a-b, saⁿ chân saⁿ-kap kat (Rose and Carless).</em></p>
 
 </div>
 
@@ -864,12 +864,12 @@ Tî-liâu : Tó tī bîn-chhng hioh-khùn, an-chēng-liâu-hoat. Tāi-khí-seng 
 
 ![原書插圖 - 第 538 頁 (圖 1)](assets/illustrations/page_538_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.
+<p class="figure-caption"><em>Tē 459 tô͘.—Pian-thâng: a, bú-ê, b, kang-ê. Tāi goân-hêng.
 Trichocephalus dispar; natural size (Clinical Methods).</em></p>
 
 ![原書插圖 - 第 538 頁 (圖 2)](assets/illustrations/page_538_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)</em></p>
+<p class="figure-caption"><em>Tē 460 tô͘.—Tiâu-thâng; Tænia Solium. (From “The Household Physician.”)</em></p>
 
 </div>
 
@@ -880,7 +880,7 @@ Trichocephalus dispar; natural size (Clinical Methods).</em></p>
 tñg-lāi ū tòk ê mi̍h, eng-kai tióh liâm-piⁿ ēng sià-ióh, hō͘ hit ê kiaⁿ-lâng ū tòk ê mi̍h pâi-chhut--lâi. Nā-sī tōa-lâng, ēng *oleum ricini* 20.0 c.c., *tinct. opii* 1.0 c.c. sī hó ê hoat; hit ê *oleum ricini* ōe hō͘ i sià; *tinct. opii* ōe chí thiàⁿ, iā hō͘ tñg-á tiām-tiām. Nā ū hā-lī ê chèng, tióh chiàu pīⁿ ê goân-in chiah chiong ióh hō͘ i chia̍h; ū-sî, i-seng beh ēng hā-che (sià-ióh), ū-sî siu-liám-che (pì-kiat-ióh). Ū-sî chia̍h *bismuthi subnitras* 1.0, *pulv. Doveri* 0.3, chi̍t ji̍t saⁿ pái; iā *gentiana* kap *tinct. rhei co.* kap *catechu*. Ū-sî ēng *amylum* (hún-chiuⁿ) kap *opium* ê koàn-tñg-che.
 
 > **【全漢對照】**
-> 腸內有毒的物，應該著連鞭用瀉藥，予彼個驚人的有毒的物排出來。若是大人，用 *oleum ricini*（蓖麻子油）20.0 c.c., *tinct. opii*（阿片酊）1.0 c.c. 是好的法；彼個 *oleum ricini* 會予伊瀉；*tinct. opii* 會止疼，也予腸仔恬恬。若有下痢的症，著照病的原本才將藥予伊食；有時，醫生欲用下劑（瀉藥），有時收斂劑（祕結藥）。有時食 *bismuthi subnitras*（次硝酸鉍）1.0, *pulv. Doveri*（杜弗氏散）0.3, 一日三擺；也 *gentiana*（龍膽）及 *tinct. rhei co.*（複方大黃酊）及 *catechu*（兒茶）。有時用 *amylum*（粉漿）及 *opium*（阿片）的灌腸劑。
+> 腸內有毒的物，應該著連鞭用瀉藥，予彼個驚人的有毒的物排出來。若是大人，用 *oleum ricini*（蓖麻子油）20.0 c.c., *tinct. opii*（阿片酊）1.0 c.c. 是好的法；彼個 *oleum ricini* 會予伊瀉；*tinct. opii* 會止疼，也予腸仔恬恬。若有下痢的症，著照病的原本才將藥予伊食；有時，醫生欲用下劑（瀉藥），有時收斂劑（祕結藥）。有時食 *bismuthi subnitras*（次硝酸鉍）1.0, *pulv. Doveri*（杜弗氏散）0.3，一日三擺；也 *gentiana*（龍膽）及 *tinct. rhei co.*（複方大黃酊）及 *catechu*（兒茶）。有時用 *amylum*（粉漿）及 *opium*（阿片）的灌腸劑。
 
 ---
 
@@ -891,8 +891,8 @@ a, bú-ê, b, kang-ê. Tāi goân-hêng.
 
 > **【全漢對照】**  
 > **第 459 圖。—鞭蟲：**  
-> a, 母的，b, 𡚸（公）的。大原形。  
-> *Trichocephalus dispar; natural size (Clinical Methods).*
+> a，母的，b, 𡚸（公）的。大原形。  
+> *Trichocephalus dispar；natural size (Clinical Methods)。*
 
 ---
 
@@ -916,11 +916,11 @@ Tñg kià-seng-thâng (*intestinal parasites*) ū chin chōe khoán, miâ kiò:
 
 > **【全漢對照】**
 > 腸寄生蟲 (*intestinal parasites*) 有真多款，名叫：
-> * a. 條蟲（條蟲, *Taenia solium, Tape worm*）。
-> * b. 蛔蟲（蛔蟲, *Ascaris lumbricoides, Round worm*）。
-> * c. 蟯蟲（蟯蟲, *Oxyuris vermicularis, Thread worm*）。
-> * d. 十二指腸蟲（十二指腸蟲, *Ankylostoma duodenale, Hookworm*）。
-> * c. 鞭蟲（鞭蟲, *Trichocephalus dispar, Whip worm*；第 459 圖）。
+> * a. 條蟲（條蟲，*Taenia solium, Tape worm*）。
+> * b. 蛔蟲（蛔蟲，*Ascaris lumbricoides, Round worm*）。
+> * c. 蟯蟲（蟯蟲，*Oxyuris vermicularis, Thread worm*）。
+> * d. 十二指腸蟲（十二指腸蟲，*Ankylostoma duodenale, Hookworm*）。
+> * c. 鞭蟲（鞭蟲，*Trichocephalus dispar, Whip worm*；第 459 圖）。
 
 ---
 
@@ -944,7 +944,7 @@ Tñg kià-seng-thâng (*intestinal parasites*) ū chin chōe khoán, miâ kiò:
 
 ![原書插圖 - 第 539 頁 (圖 1)](assets/illustrations/page_539_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa.
+<p class="figure-caption"><em>Tē 461 tô:—Tiâu-thâng ê thâu 40-pē khok-tōa.
 Head of Tænia solium x 40.</em></p>
 
 </div>
@@ -989,11 +989,11 @@ Tī-liâu: Tio̍h ēng sat-thâng-io̍h chiong thâng thàu hō͘ pâi-chhut-lâ
 
 ![原書插圖 - 第 540 頁 (圖 1)](assets/illustrations/page_540_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 462 tô.—Hôe-thâng : A, bú-ê; B, kang-ê; C, nñg, khok-tōa 300 pē; b, thâu, khok-tōa. Ascaris lumbricoides: A, female; B, male; C, egg, magnified 300 diameters; b, head, magnified (Clinical Methods).</em></p>
 
 ![原書插圖 - 第 540 頁 (圖 2)](assets/illustrations/page_540_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne).</em></p>
+<p class="figure-caption"><em>Tē 463 tô.—Giâu-thâng: 1, bú-ê; 2, kang-ê. Chiàu goân-hêng ê tōa. Oxyuris vermicularis: 1, female; 2, male. Nat. size. (After Payne).</em></p>
 
 </div>
 
@@ -1076,11 +1076,11 @@ Tī-liâu: I-tī chit hō pīⁿ tio̍h ta̍k ji̍t thàu-chá, khang
 
 ![原書插圖 - 第 541 頁 (圖 1)](assets/illustrations/page_541_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 464 tô:—Thâng ê nñg: a, pian-thâng; b, hôe-thâng ; c, cháp-jī-chí-tñg-thâng. Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).</em></p>
 
 ![原書插圖 - 第 541 頁 (圖 2)](assets/illustrations/page_541_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.</em></p>
+<p class="figure-caption"><em>Tē 465 tô:—Thâng ê nñg : a, pian-thâng ; b, cháp-jī-chí-tñg-thâng ; c, hôe-thâng ; d, tâng (iáu-bē siū cheng) ; e, Ji̍t li̍h-chhùi-kî-hêng (日 裂 口 畸 形). Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.</em></p>
 
 </div>
 
@@ -1110,8 +1110,8 @@ Cha̍p-jī-chí-tng-thâng ê sū ū kì tī tē 38 chiuⁿ.
 *Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).*
 
 > **【全漢對照】**  
-> **第 464 圖：——蟲的卵：a, 鞭蟲；b, 蛔蟲；c, 十二指腸蟲。**  
-> *Ova of—a, Trichocephalus dispar ; b, Ascaris lumbricoides ; c, Ankylostomum duodenale (Clinical Methods).*
+> **第 464 圖：——蟲的卵：a，鞭蟲；b，蛔蟲；c，十二指腸蟲。**  
+> *Ova of—a, Trichocephalus dispar；b, Ascaris lumbricoides；c, Ankylostomum duodenale (Clinical Methods)。*
 
 Beh tāi-khài koh kóng tī-liâu-hoat. Lâng nā ū tng-kià-seng-thâng pīⁿ, tī-liâu sī chhin-chhiūⁿ ē-tóe:
 
@@ -1129,8 +1129,8 @@ Beh tāi-khài koh kóng tī-liâu-hoat. Lâng nā ū tng-kià-seng-thâng pī�
 *Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.*
 
 > **【全漢對照】**  
-> **第 465 圖：——蟲的卵：a, 鞭蟲；b, 十二指腸蟲；c, 蛔蟲；d, 同（猶未受精）；e, 日本裂嘴畸形（日裂口畸形，即日本血吸蟲）。**  
-> *Ova of :—a, Trichocephalus dispar ; b, Ankylostomum duodenale ; c, Ascaris lumbricoides ; d, ditto (unfertilized) : e, Schistosomum Japonicum.*
+> **第 465 圖：——蟲的卵：a，鞭蟲；b，十二指腸蟲；c，蛔蟲；d，同（猶未受精）；e，日本裂嘴畸形（日裂口畸形，即日本血吸蟲）。**  
+> *Ova of：—a, Trichocephalus dispar；b, Ankylostomum duodenale；c, Ascaris lumbricoides；d, ditto (unfertilized)：e, Schistosomum Japonicum.*
 
 2. Chá-khí-sî, iáu-bē chia̍h mi̍h, tio̍h chiong thāu-thâng-io̍h hō͘ chia̍h.
 3. Kè chi̍t nñg tiám-cheng āu tio̍h chiong sià-io̍h hō͘ chia̍h, thang hō͘ thāu-sí ê thâng hā-chhut-lâi.
@@ -1181,7 +1181,7 @@ Beh tāi-khài koh kóng tī-liâu-hoat. Lâng nā ū tng-kià-seng-thâng pī�
 **Goân-in** : Táⁿ-chiap lī-khui koaⁿ-chōng ji̍p tī táⁿ-lông ; āu-lâi kiâⁿ tùi táⁿ-kńg kàu cha̍p-jī-chí-tng. Nā ū sím-mi̍h chó͘-tòng hit ê táⁿ bōe kiâⁿ, án-ni ōe chiâⁿ n̂g-thán. Chit ê chó͘-tòng ū kúi-nā khoán : (a) táⁿ-kńg-iām hō͘ liām-mó͘h chéng ; (b) táⁿ-kńg-gōa sīⁿ chéng-iông, lâi teh-tio̍h
 
 > **【全漢對照】**
-> **原因**：膽汁離開肝臟入佇膽囊；後來行對膽管到十二指腸。若有甚麼阻擋彼个膽袂行，按呢會成黃疸。這个阻擋有幾若款：(a) 膽管炎互黏膜腫；(b) 膽管外生腫瘍，來壓著（接續下頁...）
+> **原因**：膽汁離開肝臟入佇膽囊；後來行對膽管到十二指腸。若有甚麼阻擋彼个膽袂行，按呢會成黃疸。這个阻擋有幾若款：(a) 膽管炎互黏膜腫；(b) 膽管外生腫瘍，來壓著（接續下頁。..）
 
 <!-- Page 542 End -->
 

@@ -737,6 +737,49 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
+import re
+
+def normalize_han_punctuation(text: str) -> str:
+    """
+    Normalizes half-width punctuation in Taiwanese Han-ji translation blockquotes
+    into standard full-width punctuation marks (全形標點符號).
+    """
+    lines = text.split("\n")
+    out_lines = []
+    
+    for line in lines:
+        if line.startswith(">"):
+            # Header metadata lines inside blockquote: keep intact
+            if line.startswith("> **【全漢對照") or line.startswith("> **所屬篇章") or line.startswith("> **原書頁碼"):
+                out_lines.append(line)
+                continue
+            
+            l = line
+            # Colons: e.g. 邊註: -> 邊註：, 1: -> 1：
+            l = re.sub(r'([\u4e00-\u9fff\w\)])\s*:\s*', r'\1：', l)
+            # Semicolons
+            l = re.sub(r'([\u4e00-\u9fff\w\)])\s*;\s*', r'\1；', l)
+            # Commas
+            l = re.sub(r'([\u4e00-\u9fff])\s*,\s*', r'\1，', l)
+            l = re.sub(r',\s*([\u4e00-\u9fff])', r'，\1', l)
+            # Periods following Han-ji or brackets (exclude decimals like 3.14)
+            l = re.sub(r'([\u4e00-\u9fff\)])\s*\.\s*(?!\d)', r'\1。', l)
+            # Question and exclamation marks
+            l = re.sub(r'([\u4e00-\u9fff])\s*\?\s*', r'\1？', l)
+            l = re.sub(r'([\u4e00-\u9fff])\s*!\s*', r'\1！', l)
+            # Brackets: [ ] -> ［ ］
+            l = l.replace('[', '［').replace(']', '］')
+            # Parentheses enclosing Han-ji: (漢字...) -> （漢字...）
+            l = re.sub(r'\(([\u4e00-\u9fff][^)]*)\)', r'（\1）', l)
+            l = re.sub(r'\(([^)]*[\u4e00-\u9fff])\)', r'（\1）', l)
+            # Tilde
+            l = l.replace('~', '～')
+            out_lines.append(l)
+        else:
+            out_lines.append(line)
+            
+    return "\n".join(out_lines)
+
 def load_book_structure():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -832,13 +875,14 @@ def build_chapters():
                             alt_label = f"原書插圖 - 第 {p_num} 頁 (圖 {idx+1})"
                             f.write(f"![{alt_label}]({fig_rel})\n\n")
                             if caption:
-                                f.write(f"<p style=\"font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;\"><em>{caption}</em></p>\n\n")
+                                f.write(f"<p class=\"figure-caption\"><em>{caption}</em></p>\n\n")
                             total_illustrations_embedded += 1
                         f.write("</div>\n\n")
                         
-                    f.write(p_text.strip())
+                    p_text_norm = normalize_han_punctuation(p_text)
+                    f.write(p_text_norm.strip())
                     f.write(f"\n\n<!-- Page {p_num:03d} End -->\n\n---\n\n")
-                    total_words += len(p_text)
+                    total_words += len(p_text_norm)
                     
             print(f"  📄 [{len(chapter_pages):02d} 頁] -> {target_file}")
             sidebar_groups[vol_label].append((sec_title, target_file))

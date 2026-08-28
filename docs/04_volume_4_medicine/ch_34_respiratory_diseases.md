@@ -212,7 +212,7 @@ Tī-liâu: Tio̍h hioh-khùn; m̄-thang kóng ōe, m̄-thang chia̍h sek-hun (to
 Âu-thâu-keng-loân (喉頭痙攣, *Spasmodic Laryngitis*): Nā ū âu-thâu pīⁿ, ū-sî ū siaⁿ-mn̂g-keng-loân (*spasm of glottis*), m̄-kú chit hō pīⁿ sī gín-ná te̍k-pia̍t ê pīⁿ.
 
 > **【全漢對照】**
-> 喉頭痙攣（喉頭痙攣, *Spasmodic Laryngitis*）：若有喉頭病，有時有聲門痙攣（*spasm of glottis*），毋拘此號病是囡仔特別的病。
+> 喉頭痙攣（喉頭痙攣，*Spasmodic Laryngitis*）：若有喉頭病，有時有聲門痙攣（*spasm of glottis*），毋拘此號病是囡仔特別的病。
 
 ---
 
@@ -322,11 +322,11 @@ Khì-kúng ê pīⁿ thang hun chòe :
 
 > **【全漢對照】**
 > 氣管的病通分做：  
-> 1. 急性氣管枝炎 (急性氣管枝炎, *Acute bronchitis*)。  
-> 2. 慢性氣管枝炎 (慢性氣管枝炎, *Chronic bronchitis*)。  
-> 3. 氣管枝擴張 (氣管枝擴張, *Bronchiectasis*)。  
-> 4. 氣管枝喘息 (氣管枝喘息, *Bronchial asthma*)。  
-> 5. 纖維性氣管枝炎 (纖維性氣管枝炎, *Fibrinous bronchitis*；第 466^b 圖，第 557 面)。
+> 1. 急性氣管枝炎 （急性氣管枝炎，*Acute bronchitis*）。  
+> 2. 慢性氣管枝炎 （慢性氣管枝炎，*Chronic bronchitis*）。  
+> 3. 氣管枝擴張 （氣管枝擴張，*Bronchiectasis*）。  
+> 4. 氣管枝喘息 （氣管枝喘息，*Bronchial asthma*）。  
+> 5. 纖維性氣管枝炎 （纖維性氣管枝炎，*Fibrinous bronchitis*；第 466^b 圖，第 557 面）。
 
 ---
 
@@ -390,7 +390,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 Tī-liâu : Tó tī bîn-chhñg hioh-khùn, sóe sio-chúi-e̍k, lim sio-kún-chúi, chiong sio-chúi-koàn hō͘ i ù-sio, kah khah-chōe níá nî-thán, á-sī mî-phē, hō͘ i lâu kōaⁿ. Tāi-piān ti̍oh chù-ì. Khip-ji̍p-hoat, tī 500.0 c.c. kún-chúi-lāi hē *tinctura benzoini co.* 3.5 c.c. (tē 293 bīn). Pīⁿ-sek-lāi ê khong-khì ti̍oh siat-hoat hō͘ sî-siông sip-lūn. Ū-sî ēng kài-lo̍ah-pâ-pò͘, á-sī sio ê chhò͘-khng kā i kah tī heng-chêng á-sī heng-khám-āu, ōe khah an-ún-tit. Ū-sî ēng sio ê mî-hoe lâi khàm-khám. Só͘ ēng ê ióh sī *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*, a-phiàn, *potasii iodidum*. Nā-sī gín-ná ê thâm siuⁿ liām, khak bōe tit chhut-lâi, chiong *vinum ipecacuanhæ* thò͘-che hō͘ i thò͘, hit ê thâm ōe sòa chhut-lâi. Nā bô án-ni, gín-ná ê thâm ōe thun-lo̍h-khì.
 
 > **【全漢對照】**
-> 治療：倒佇眠床歇困，洗燒水浴，啉燒滾水，將燒水罐予伊煨燒，蓋較多領呢毯，抑是棉被，予伊流汗。大便著注意。吸入法，佇 500.0 c.c. 滾水內下 *tinctura benzoini co.* 3.5 c.c.（第 293 面）。病室內的空氣著設法予時常濕潤。有時用芥辣爬布（芥末泥敷布），抑是燒的粗糠共伊蓋佇胸前抑是胸坎後，會較安穩得。有時用燒的棉花來蓋蓋。所用的藥是 *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*, 鴉片, *potasii iodidum*。若是囡仔的痰傷黏，咯袂得出夾，將 *vinum ipecacuanhæ* 吐劑予伊吐，彼個痰會紲出來。若無按呢，囡仔的痰會吞落去。
+> 治療：倒佇眠床歇困，洗燒水浴，啉燒滾水，將燒水罐予伊煨燒，蓋較多領呢毯，抑是棉被，予伊流汗。大便著注意。吸入法，佇 500.0 c.c. 滾水內下 *tinctura benzoini co.* 3.5 c.c.（第 293 面）。病室內的空氣著設法予時常濕潤。有時用芥辣爬布（芥末泥敷布），抑是燒的粗糠共伊蓋佇胸前抑是胸坎後，會較安穩得。有時用燒的棉花來蓋蓋。所用的藥是 *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*，鴉片，*potasii iodidum*。若是囡仔的痰傷黏，咯袂得出夾，將 *vinum ipecacuanhæ* 吐劑予伊吐，彼個痰會紲出來。若無按呢，囡仔的痰會吞落去。
 
 ---
 
@@ -462,7 +462,7 @@ mî-sî hiah ê thâm chek-chū tī khì-kúng-lāi; chá-khí khí-lâi ê sî,
 Tī-liâu: Khip-ji̍p-hoat. Ēng *creosotum*, *acidum carbolicum*, *thymol*, lâi khip-ji̍p (tē 293 bīn.)
 
 > **【全漢對照】**
-> 治療：吸入法。用 *creosotum*, *acidum carbolicum*, *thymol*, 來吸入（第 293 面。）
+> 治療：吸入法。用 *creosotum*, *acidum carbolicum*, *thymol*，來吸入（第 293 面。）
 
 ---
 
@@ -471,7 +471,7 @@ Tī-liâu: Khip-ji̍p-hoat. Ēng *creosotum*, *acidum carbolicum*, *thymol*, lâ
 Khì-kúng-chi-chhoán-sek (氣管枝喘息, *Bronchial asthma*) sī ho͘-khip-khùn-lân pīⁿ ê chi̍t khoán.
 
 > **【全漢對照】**
-> 氣管枝喘息（氣管枝喘息, *Bronchial asthma*）是呼吸困難病的一款。
+> 氣管枝喘息（氣管枝喘息，*Bronchial asthma*）是呼吸困難病的一款。
 
 ---
 
@@ -581,7 +581,7 @@ Chèng-chōng: Tē it chá ê chèng-chōng sī ùi-kôaⁿ, ū-sî khéh-khéh-
 
 ![原書插圖 - 第 568 頁 (圖 1)](assets/illustrations/page_568_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 467 tô.—Siau-hòⁿ-ji̍at; hì-kiat-hu̍t chèng (Sahli and Potter).</em></p>
+<p class="figure-caption"><em>Tē 467 tô.—Siau-hòⁿ-ji̍at; hì-kiat-hu̍t chèng (Sahli and Potter).</em></p>
 
 </div>
 
@@ -621,10 +621,10 @@ jia̍t, kiò-chòe siau-hòⁿ-jia̍t (消耗熱, *hectic fever*), ì-sù sī k�
 > **症狀**  
 > 症狀：親像頂面所講的，總是較嚴重。它的體溫較懸；彼款的  
 > 
-> *(圖 467：消耗熱；肺結核症)*  
+> *（圖 467：消耗熱；肺結核症）*  
 > 
 > **消耗熱**  
-> 熱，叫做消耗熱（消耗熱, *hectic fever*），意思是指久長的熱，抑是彼款的熱，親像肺癆病的人，流戰汗（冷汗）彼號。這個熱是下晡時較懸，早起時落低（第 467 圖）。有時醫生若愛知佇胸腔有排洩傷多胸膜液，抑是膿，伊欲用一支注射器，來穿刺術，看有抑無。
+> 熱，叫做消耗熱（消耗熱，*hectic fever*），意思是指久長的熱，抑是彼款的熱，親像肺癆病的人，流戰汗（冷汗）彼號。這個熱是下晡時較懸，早起時落低（第 467 圖）。有時醫生若愛知佇胸腔有排洩傷多胸膜液，抑是膿，伊欲用一支注射器，來穿刺術，看有抑無。
 
 ---
 
@@ -655,7 +655,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó͘-khǹg i chia̍h.
 
 ![原書插圖 - 第 569 頁 (圖 1)](assets/illustrations/page_569_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 468 tô:—Khip-ín-khì.</em></p>
+<p class="figure-caption"><em>Tē 468 tô:—Khip-ín-khì.</em></p>
 
 </div>
 
@@ -668,7 +668,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó͘-khǹg i chia̍h.
 khah khin, iû-goân ti̍h tó tī bîn-chhng hioh-khùn. Nā tó tī hit pêng ū pīⁿ ê só͘-chāi khah bē thiàⁿ. Chí thiàⁿ ê hoat chiū-sī un-pâ-pò͘ (溫罨布, *poultice*), hoat-phā-che (發疱劑, *blisters*), chhat-che (擦劑, *liniment*), gô-khî-hoat. Ū-sî hit pêng ū pīⁿ ê só͘-chāi, nā chiong liâm-pò͘ kā i pa̍k hō͘ ān, án-ni heng-khám khah bē tín-tāng, khah bē thiàⁿ. Chit ê liâm-pò͘ beh thiah-khí-lâi ê sî ti̍h khah kín, m̄-thang bān-bān, in-ūi nā ûn-ûn-á thiah chiū khah thiàⁿ. Ti̍h sòe-jī m̄-thang chhòng hō͘ i liù phê. Chit hō liâm-pò͘ ê liâm mi̍h, ti̍h ēng *olive* iû chhit hō͘ i khí-lâi. I-seng beh ēng ióh hō͘ i chia̍h chhin-chhiūⁿ beh chù-ì tāi-, siáu-piān; hō͘ i ōe khùn-tit, chí sàu ê ióh, chí thiàⁿ ê ióh.
 
 > **【全漢對照】**
-> （症狀）較輕，猶原著倒佇眠床歇睏。若倒佇彼旁有病的所在較袂痛。止痛的法就是溫罨布（溫罨布, *poultice*）、發疱劑（發疱劑, *blisters*）、擦劑（擦劑, *liniment*）、蛾蜞法。有時彼旁有病的所在，若將粘布給伊縛予絚，按呢胸坎較袂振動，較袂痛。這个粘布欲拆起來的時著較緊，毋通慢慢，因為若勻勻仔拆就較痛。著細膩毋通創予伊遛皮。這號粘布的粘物，著用 *olive* 油拭予伊起來。醫生欲用藥予伊食親像欲注意大、小便；予伊會睏得，止嗽的藥，止痛的藥。
+> （症狀）較輕，猶原著倒佇眠床歇睏。若倒佇彼旁有病的所在較袂痛。止痛的法就是溫罨布（溫罨布，*poultice*）、發疱劑（發疱劑，*blisters*）、擦劑（擦劑，*liniment*）、蛾蜞法。有時彼旁有病的所在，若將粘布給伊縛予絚，按呢胸坎較袂振動，較袂痛。這个粘布欲拆起來的時著較緊，毋通慢慢，因為若勻勻仔拆就較痛。著細膩毋通創予伊遛皮。這號粘布的粘物，著用 *olive* 油拭予伊起來。醫生欲用藥予伊食親像欲注意大、小便；予伊會睏得，止嗽的藥，止痛的藥。
 
 ---
 
@@ -788,7 +788,7 @@ Nā iáu-bē sìng mèh-phok, m̄-thang kì chha-put-to kúi-ē.
 
 ![原書插圖 - 第 571 頁 (圖 1)](assets/illustrations/page_571_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 469 tô:—Heng-khám-liām-háp-chhùi-ko-pò͘-hoat (after A.S. Morrow).</em></p>
+<p class="figure-caption"><em>Tē 469 tô:—Heng-khám-liām-háp-chhùi-ko-pò͘-hoat (after A.S. Morrow).</em></p>
 
 </div>
 
@@ -962,12 +962,12 @@ Nā ōe hō͘ pīⁿ-lâng khah hoaⁿ-hí, an-sim, sī lán tio̍h tì-ì.
 
 ![原書插圖 - 第 573 頁 (圖 1)](assets/illustrations/page_573_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>470
+<p class="figure-caption"><em>470
 Tē 470 tô:—Hì-hiỏh-iām hoān-chiá hun-lī ê thé-un-pió (Clinical Methods).</em></p>
 
 ![原書插圖 - 第 573 頁 (圖 2)](assets/illustrations/page_573_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>471
+<p class="figure-caption"><em>471
 Tē 471 tô:—Khì-kńg-chi-hì-iām hoān-chiá sàn-hoàn ê thé-un-pió (Clinical Methods).</em></p>
 
 </div>
@@ -982,7 +982,7 @@ kôaⁿ, chhùi-tûn ōe tiô, ū-sî ok-hân (*rigor*), chiū-sī kôaⁿ kàu 
 
 > **【全漢對照】**
 > **【肺葉炎的症狀】**
-> 寒，嘴脣會搐，有時惡寒 (*rigor*)，就是寒到掣掣顫（冷到發抖）。呼吸的時胸坎真正疼，親像刀咧鑿。體溫 103°—105° F. (39.4°—40.6° C.)。呼吸較短，也較緊，佇一分的中間有 30 下，抑是較懸。脈搏緊 100 至 120，閣有力。所呸出來的痰，若親像鐵銑的色，也是黏黏。有時嘴脣有出一粒一粒膨脬，叫做嘴脣水疱疹 (口唇水疱疹, *herpes labialis*)。
+> 寒，嘴脣會搐，有時惡寒 (*rigor*)，就是寒到掣掣顫（冷到發抖）。呼吸的時胸坎真正疼，親像刀咧鑿。體溫 103°—105° F. (39.4°—40.6° C.)。呼吸較短，也較緊，佇一分的中間有 30 下，抑是較懸。脈搏緊 100 至 120，閣有力。所呸出來的痰，若親像鐵銑的色，也是黏黏。有時嘴脣有出一粒一粒膨脬，叫做嘴脣水疱疹 （口唇水疱疹，*herpes labialis*）。
 
 ---
 
@@ -1010,7 +1010,7 @@ Chit hō pīⁿ nā teh-beh hó, pīⁿ-lâng ê me̍h-phok, ho͘-khip, kap thé
 
 > **【全漢對照】**
 > **【分利】**
-> 這號病若欲好，病人的脈搏、呼吸、佮體溫忽然攏較好。若是親像按呢的好法，叫做分利（分利, *crisis*；第 470 圖）。
+> 這號病若欲好，病人的脈搏、呼吸、佮體溫忽然攏較好。若是親像按呢的好法，叫做分利（分利，*crisis*；第 470 圖）。
 
 ---
 
@@ -1020,7 +1020,7 @@ Chit hō pīⁿ nā teh-beh hó, pīⁿ-lâng ê me̍h-phok, ho͘-khip, kap thé
 
 > **【全漢對照】**
 > **【散渙】**
-> 有時病人的體溫、呼吸、脈搏，漸漸照舊來較好，按呢的好法，叫做散渙（散渙, *lysis*；第 471 圖）。
+> 有時病人的體溫、呼吸、脈搏，漸漸照舊來較好，按呢的好法，叫做散渙（散渙，*lysis*；第 471 圖）。
 
 ---
 
@@ -1059,7 +1059,7 @@ Pát khoán pêng-siông jia̍t ê chèng-chōng, chiū-sī lâng bô ài chia̍
 Tē it thang kiaⁿ ê chèng-chōng sī pīⁿ-lâng ê méh-phok chin kín, pīⁿ-lâng loán-jio̍k, siān-siān thih-thih-khùn, kiò-chòe hun-sūi (昏睡, coma); phê-sek tńg chhiⁿ-lâm-sek, nā kàu án-ni ê siong-tiōng chiū oh-tit hó.
 
 > **【全漢對照】**
-> 第一通驚的症狀是病人的脈搏真緊，病人軟弱，倦倦惙惙睏，叫做昏睡（昏睡, coma）；皮色轉青藍色，若到按呢的傷重就惡得好。
+> 第一通驚的症狀是病人的脈搏真緊，病人軟弱，倦倦惙惙睏，叫做昏睡（昏睡，coma）；皮色轉青藍色，若到按呢的傷重就惡得好。
 
 ---
 
@@ -1096,7 +1096,7 @@ Tio̍h hō͘ i tó tī bîn-chhng, khah sok-chēng hioh-khùn,
 Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6: 16-17).
 
 > **【全漢對照】**
-> 上帝怨恨驕傲的，佮嘴講奸詐的（箴言 6: 16-17）。
+> 上帝怨恨驕傲的，佮嘴講奸詐的（箴言 6：16-17）。
 
 <!-- Page 574 End -->
 
@@ -1193,9 +1193,9 @@ Chèng-chōng: 1. Goân-hoat-sèng-ê (原發性, *primary*): Hut-jiân khí tā
 2. Sio̍k-hoat-sèng-ê (續發性, *secondary*): Pīⁿ-lâng...
 
 > **【全漢對照】**
-> **症狀**：1. 原發性的（原發性, *primary*）：忽然起代先畏寒，抑是痙攣、嘔吐。體溫起到 102°—104 °F（38.9°—40° C）；呼吸較緊，有時 60 下至 80 下，脈搏較緊。嗽。
+> **症狀**：1. 原發性的（原發性，*primary*）：忽然起代先畏寒，抑是痙攣、嘔吐。體溫起到 102°—104 °F（38.9°—40° C）；呼吸較緊，有時 60 下至 80 下，脈搏較緊。嗽。
 > 
-> 2. 續發性的（續發性, *secondary*）：病人……
+> 2. 續發性的（續發性，*secondary*）：病人……
 
 ---
 
@@ -1218,7 +1218,7 @@ Chèng-chōng: 1. Goân-hoat-sèng-ê (原發性, *primary*): Hut-jiân khí tā
 
 ![原書插圖 - 第 577 頁 (圖 1)](assets/illustrations/page_577_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 471ª tô.—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho͘-chit (單力組織, elastic tissue). [From "Clinical Methods."]</em></p>
+<p class="figure-caption"><em>Tē 471ª tô.—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho͘-chit (單力組織, elastic tissue). [From "Clinical Methods."]</em></p>
 
 </div>
 
@@ -1239,9 +1239,9 @@ Chit khoán pīⁿ ê sî-kî, pí hì-hio̍h-iām ê kî-kan khah kú, tāi-kh�
 
 **Tī-liâu**
 
-> **Tē 471ª tô͘.**—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho-chit (彈力組織, *elastic tissue*). [From “Clinical Methods.”]
+> **Tē 471ª tô͘.**—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho-chit （彈力組織，*elastic tissue*）。［From “Clinical Methods.”］
 > 
-> （**第 471a 圖**——患著肺結核症所喀出痰內的彈力組織 [彈力組織，*elastic tissue*]。［出自《臨床方法》］）
+> （**第 471a 圖**——患著肺結核症所喀出痰內的彈力組織 ［彈力組織，*elastic tissue*］。［出自《臨床方法》］）
 
 Tī-liâu: Gín-ná nā ū thoân-jiám pīⁿ chhin-chhiūⁿ môa-chín á-sī pah-ji̍t-sàu, tio̍h cha̍p hun sió-sim chiàu-kò͘, tī-hông pìⁿ-chiâⁿ sio̍k-hoat-sèng khì-kńg-chi-hì-iām. Tī-liâu-hoat sī tāi-khài chhin-chhiūⁿ hì-hio̍h-iām, chóng-sī i-seng ū-sî ū pa̍t khoán ê hoat-tō͘ thang ēng, hiah-ê tī chia m̄-bián kóng.
 
@@ -1283,7 +1283,7 @@ Nā-sī hì-chōng ū jiám-tio̍h kiat-hu̍t, tāi-seng khí ê ūi sī téng-p
 
 ![原書插圖 - 第 578 頁 (圖 1)](assets/illustrations/page_578_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 472 tô.—Hì-chōng-lāi ê kiat-hut-khang. Téng-bīn ū chit-ê tōa khang ; ē-bīn ê hì ê cho·-chit ū pìⁿ-chiâⁿ téng (Mc Farland).</em></p>
+<p class="figure-caption"><em>Tē 472 tô.—Hì-chōng-lāi ê kiat-hut-khang. Téng-bīn ū chit-ê tōa khang ; ē-bīn ê hì ê cho·-chit ū pìⁿ-chiâⁿ téng (Mc Farland).</em></p>
 
 </div>
 
@@ -1294,7 +1294,7 @@ Nā-sī hì-chōng ū jiám-tio̍h kiat-hu̍t, tāi-seng khí ê ūi sī téng-p
 nńg, pe̍h-pe̍h ê mih chhin-chhiūⁿ gû-leng-piáⁿ. Chit ê mih nā nōa, kàu āu-lâi chhin-chhiūⁿ lâng ê khoán; nā-sī chit hō mih, ē ji̍p khì-kńg-lāi, tùi hia ē sàu-chhut-khì. Pún-jiân teh sìⁿ ê só͘-chāi ū chi̍t khang chi̍t khang. Pīⁿ nā kàu hia, nā beh koh sìⁿ-thòaⁿ, hit ê kiat-hút-sèng ê lâng, á-sī thâm, ē khì tī hì-chōng ê pa̍t ūi, kàu āu-lâi, hì-chōng-lāi kúi-nā só͘-chāi ū kiat-hút-khang (tē 472 tô͘). Ū-sî chit ê pīⁿ nā í-keng kiâⁿ kàu hì-kiat-hút-khang, iû-goân ē thêng-chí. Nā-sī án-ni, sī chin kai-chài, iā hit ê khang ē kiu khah sè, ū-sî ē pìⁿ-chiâⁿ chio̍h; nā bô koh-chài khí, hit-ê lâng sí liáu-āu, i ê hì-chōng chá-chêng ū kiat-hút ê só͘-chāi ē chhin-chhiūⁿ chi̍t-ê siong-hûn nā-tiāⁿ. Khah-siông bô án-ni ê hó, hoán-tńg ná-kú ná-siong-tiōng, hiah ê khang-tāng pīⁿ khah...
 
 > **【全漢對照】**
-> **[邊註：結核症 / 結核孔]**
+> **［邊註：結核症 / 結核孔］**
 > 軟、白白之物親像牛乳餅（起司）。此個物若爛，到後來親像膿之款；若是此號物，會入氣管內，對遐會嗽出去。本然塊生（發）之所在有一孔一孔。病若到遐，若欲閣生湠，彼個結核性之膿，抑是痰，會去佇肺臟之別位，到後來，肺臟內幾若所在有結核孔（第 472 圖）。有時此個病若已經行到肺結核孔，猶原會停止。若是按呢，是真佳哉，也彼個孔會縮較細，有時會變成石（鈣化）；若無閣再起，彼個人死了後，伊之肺臟早前有結核之所在會親像一個傷痕若定。較常無按呢之好，反轉愈久愈嚴重，遐之孔洞變較……
 
 ---
@@ -1314,8 +1314,8 @@ Jîn-ài bô kiâⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 Jîn-ài, hoān-sū jím-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13: 7).
 
 > **【全漢對照】**
-> 仁愛無行見潲（羞恥）之事（哥林多前書 13: 5）。  
-> 仁愛，凡事忍受，凡事相信，凡事指望，凡事吞忍（哥林多前書 13: 7）。
+> 仁愛無行見潲（羞恥）之事（哥林多前書 13：5）。  
+> 仁愛，凡事忍受，凡事相信，凡事指望，凡事吞忍（哥林多前書 13：7）。
 
 <!-- Page 578 End -->
 
@@ -1353,7 +1353,7 @@ Chèng-chōng: Hì-kiat-hút ê chèng-chōng tāi-khí-seng sī sió-khóa. Ū-
 Hì-kiat-hút chèng í-keng chiāⁿ, ū siau-hòⁿ-jia̍t (消耗熱, hectic fever) ê chèng-chōng, chiū-sī bīn tńg âng-sek, me̍h-phok khah kín, ho͘-khip khah kín, ē-pó-sî khí jia̍t, mî-sî lâu chhìn-kōaⁿ (tē 467 tô). Ū-sî ū kiat-hút-sèng hā-lī. Heng-khám thiàⁿ. Seng-khu khah sán. Chá-khí tú-á khí--lâi ê sî phùi thâm khah-chōe, sī in-ūi mî-sî teh khùn, lâng nā ū chek-chū tī hì ê khang-tōng-lāi, khí--lâi ê sî chit hō nōa ē lâu kàu khì-kńg, liâm-piⁿ khí sàu phùi-chhut-lâi.
 
 > **【全漢對照】**
-> 肺結核症已經成，有消耗熱（消耗熱, hectic fever）的症狀，就是面轉紅色，脈搏較緊，呼吸較緊，下晡時起熱，暝時流冷汗（第 467 圖）。有時有結核性下痢。胸坎疼。身軀較瘦。早起拄仔起來的時呸痰較濟，是因為暝時咧睏，人若有積聚佇肺的空洞內，起來的時此號爛會流到氣管，連鞭起嗽呸出來。
+> 肺結核症已經成，有消耗熱（消耗熱，hectic fever）的症狀，就是面轉紅色，脈搏較緊，呼吸較緊，下晡時起熱，暝時流冷汗（第 467 圖）。有時有結核性下痢。胸坎疼。身軀較瘦。早起拄仔起來的時呸痰較濟，是因為暝時咧睏，人若有積聚佇肺的空洞內，起來的時此號爛會流到氣管，連鞭起嗽呸出來。
 
 ---
 
@@ -1430,7 +1430,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13: 5).
 > **【全漢對照】**
 > 洗病人的時，水著照醫生所吩咐的溫度，若是著燒，抑是冷，著照按呢。
 > 
-> 仁愛無記念人的歹（哥林多前書 13: 5）。
+> 仁愛無記念人的歹（哥林多前書 13：5）。
 
 <!-- Page 580 End -->
 
@@ -1514,7 +1514,7 @@ Mî-sî lâu chhìn-kōaⁿ : Pīⁿ-lâng só͘ khip-ji̍p ê khong-khì nā kh
 
 ![原書插圖 - 第 582 頁 (圖 1)](assets/illustrations/page_582_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466b tô:--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só· khak-chhut ê bô·.
+<p class="figure-caption"><em>Tē 466b tô:--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só· khak-chhut ê bô·.
 (From “Clinical Methods.”)</em></p>
 
 </div>
@@ -1561,7 +1561,7 @@ Tē 466ᵇ tô͘.--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só͘ khak-ch
 Lán só͘ tio̍h kiàⁿ-ê bô pa̍t hāng, lâng kap lâng kóng ōe tio̍h kóng seng-si̍t, tī kong-tn̂g phòaⁿ-toàn, tio̍h ēng chin seng hō͘ lâng saⁿ-hô (Sat-ka-lī-a 8 : 16).
 
 > **【全漢對照】**
-> 咱所著敬的無別項，人佮人講話著講誠實，佇公堂判斷，著用真實予人相和（撒迦利亞 8 : 16）。
+> 咱所著敬的無別項，人佮人講話著講誠實，佇公堂判斷，著用真實予人相和（撒迦利亞 8：16）。
 
 <!-- Page 582 End -->
 

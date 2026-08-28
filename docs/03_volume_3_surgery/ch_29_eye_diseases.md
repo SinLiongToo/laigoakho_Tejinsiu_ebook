@@ -66,7 +66,7 @@ Nā ēng mî-hoe, ēng liáu chiū kā sio-khì; nā ēng bīn-kun, ēng liáu t
 
 ![原書插圖 - 第 392 頁 (圖 1)](assets/illustrations/page_392_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 244 tô.-Trachoma
+<p class="figure-caption"><em>Tē 244 tô.-Trachoma
 (Nettleship).</em></p>
 
 </div>
@@ -96,7 +96,7 @@ Kā pīⁿ-lâng sóe ba̍k-chiu liáu, tiòh liâm-piⁿ chiong i ê chhiú só
 > 無論甚麼儂看此號目睭症，攏毋通摸著別儂的目睭。
 > 共病人洗目睭了，著連鞭將伊的手洗予清氣，閣浸佇消毒藥水裡，亦毋通摸家己的目睭。洗目睭的水，毋通沃著面裡。
 > 
-> *(第 244 圖。—Trachoma (Nettleship)。)*
+> *（第 244 圖。—Trachoma (Nettleship）。)*
 
 ---
 
@@ -148,11 +148,11 @@ Siōng-tè bô kah lâng tiòh gâu, sī kiò lâng tiòh chīn-tiong.
 
 ![原書插圖 - 第 393 頁 (圖 1)](assets/illustrations/page_393_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></p>
+<p class="figure-caption"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></p>
 
 ![原書插圖 - 第 393 頁 (圖 2)](assets/illustrations/page_393_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></p>
+<p class="figure-caption"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></p>
 
 </div>
 
@@ -168,7 +168,7 @@ kak-mo̍h ē siⁿ ùi-iông, ē pháiⁿ-khì (tē 245 tô͘). I-tī ê hoat-t�
 **Tē 245 tô͘:—Kak-mo̍h-ùi-iông, chhiòng-tn̄g-bīn : 1, ùi-iông teh chìn-chêng tī kak-mo̍h-tiong ; 2, kak-mo̍h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mo̍h ê āu-bīn.**
 
 > **【全漢對照】**
-> **第 245 圖：——角膜潰瘍，縱斷面：1, 潰瘍佇角膜中咧進前；2, 角膜的頭前面；3, 潰瘍；4, 角膜的後面。**
+> **第 245 圖：——角膜潰瘍，縱斷面：1，潰瘍佇角膜中咧進前；2，角膜的頭前面；3，潰瘍；4，角膜的後面。**
 
 ---
 
@@ -184,7 +184,7 @@ Kak-mo̍h-ùi-iông ê pīⁿ-khoán, tē it kiaⁿ thīⁿ kng. Nā gín-ná t�
 **Tē 246 tô͘:—Chiân-phông-thiok-lâng-chèng ê tô͘ : a-b, ùi-iông teh chìn-chêng ê iān-kīⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kīⁿ ; d, lâng chek-chū tī chiân-phông ê téng-bīn kīⁿ (Parsons).**
 
 > **【全漢對照】**
-> **第 246 圖：——前房蓄膿症的圖：a-b, 潰瘍咧進前的沿墘；b-c, 潰瘍的面；c 的頂面線佮 a 的頂面線是虹彩墘；d, 膿積聚佇前房的頂面墘 (Parsons)。**
+> **第 246 圖：——前房蓄膿症的圖：a-b，潰瘍咧進前的沿墘；b-c，潰瘍的面；c 的頂面線佮 a 的頂面線是虹彩墘；d，膿積聚佇前房的頂面墘 (Parsons)。**
 
 ---
 
@@ -207,7 +207,7 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 
 ![原書插圖 - 第 394 頁 (圖 1)](assets/illustrations/page_394_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 247 tô.</em></p>
+<p class="figure-caption"><em>Tē 247 tô.</em></p>
 
 </div>
 
@@ -283,7 +283,7 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 
 ![原書插圖 - 第 395 頁 (圖 1)](assets/illustrations/page_395_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></p>
+<p class="figure-caption"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></p>
 
 </div>
 
@@ -305,7 +305,7 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 Péh-lāi-chiàng (白內障, cataract), kak-mo̍h-péh-pan (角膜白斑, leucoma), iā sī gán-kho nn̄g hāng ê chèng-thâu. Kak-mo̍h-péh-pan ê khoán-sit, sī kak-mo̍h khí péh-ì, lâi jia bák-chiu ê tông-khóng, hō͘ lâng bōe khòaⁿ-kìⁿ mi̍h.
 
 > **【全漢對照】**  
-> 白內障（白內障, cataract）、角膜白斑（角膜白斑, leucoma），也是眼科兩項的症頭。角膜白斑的款式，是角膜起白翳，來遮目睭的瞳孔，予人𣍐看見物。
+> 白內障（白內障，cataract）、角膜白斑（角膜白斑，leucoma），也是眼科兩項的症頭。角膜白斑的款式，是角膜起白翳，來遮目睭的瞳孔，予人𣍐看見物。
 
 ---
 
@@ -314,7 +314,7 @@ Péh-lāi-chiàng (白內障, cataract), kak-mo̍h-péh-pan (角膜白斑, leuco
 I-tī ê hoat-tō͘, tio̍h ēng chhiú-su̍t-ê, chiong hit ê hông-chhái tām-po̍h ka-khí-lâi chòe khang, chhin-chhiūⁿ sin ê tông-khóng ê khoán, kiò-chòe hông-chhái-chhiat-tû-su̍t (虹彩切除術, iridectomy; tē 248, 249 tô͘).
 
 > **【全漢對照】**  
-> 醫治的法度，著用手術的，將彼个虹彩淡薄鉸起來做孔，親像新的瞳孔的款，叫做虹彩切除術（虹彩切除術, iridectomy；第 248、249 圖）。
+> 醫治的法度，著用手術的，將彼个虹彩淡薄鉸起來做孔，親像新的瞳孔的款，叫做虹彩切除術（虹彩切除術，iridectomy；第 248、249 圖）。
 
 ---
 
@@ -325,7 +325,7 @@ I-tī ê hoat-tō͘, tio̍h ēng chhiú-su̍t-ê, chiong hit ê hông-chhái tā
 Tē 248 tô͘.—Sī hông-chhái-chhiat-tû-su̍t kiáh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô͘ beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah o̍eh (Parsons).
 
 > **【全漢對照】**  
-> 第 248 圖。——是虹彩切除術攑鉸刀的法；佇遮鉸刀拄拄欲鉸佇虹彩半徑線（半徑線, radially）；第 249 圖欲鉸佇虹彩半徑線的直角（直角, right angles to the previous position）。前的鉸法所創的虹彩缺（虹彩缺, coloboma）是較狹（Parsons）。
+> 第 248 圖。——是虹彩切除術攑鉸刀的法；佇遮鉸刀拄拄欲鉸佇虹彩半徑線（半徑線，radially）；第 249 圖欲鉸佇虹彩半徑線的直角（直角，right angles to the previous position）。前的鉸法所創的虹彩缺（虹彩缺，coloboma）是較狹（Parsons）。
 
 ---
 
@@ -334,7 +334,7 @@ Tē 248 tô͘.—Sī hông-chhái-chhiat-tû-su̍t kiáh ka-to ê hoat; tī chia
 Ke-si: Khui-kiám-khì; kak-mo̍h-to; 2 ki gán-kiû-kò͘-tēng-ngoeh-á; hông-chhái-ngoeh-á; hông-chhái-kau-á; hông-chhái-chián-to; hông-chhái-ho̍k-kū (虹彩復具, iris repositor). Pīⁿ hó liáu-āu, tio̍h kòa ū chòe-sek ê bák-kiàⁿ.
 
 > **【全漢對照】**  
-> 器械（傢俬）：開瞼器；角膜刀；2 枝眼球固定鋏仔；虹彩鋏仔；虹彩鉤仔；虹彩剪刀；虹彩復具（虹彩復具, iris repositor）。病好了後，著掛有雜色的目鏡。
+> 器械（傢俬）：開瞼器；角膜刀；2 枝眼球固定鋏仔；虹彩鋏仔；虹彩鉤仔；虹彩剪刀；虹彩復具（虹彩復具，iris repositor）。病好了後，著掛有雜色的目鏡。
 
 ---
 
@@ -357,23 +357,23 @@ Péh-lāi-chiàng sī in-ūi chúi-chiⁿ-thé túg lô, lâng chiū chhiⁿ-mî
 
 ![原書插圖 - 第 396 頁 (圖 1)](assets/illustrations/page_396_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></p>
+<p class="figure-caption"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></p>
 
 ![原書插圖 - 第 396 頁 (圖 2)](assets/illustrations/page_396_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></p>
 
 ![原書插圖 - 第 396 頁 (圖 3)](assets/illustrations/page_396_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 252 tô:—Khui-kiám-khì.</em></p>
+<p class="figure-caption"><em>Tē 252 tô:—Khui-kiám-khì.</em></p>
 
 ![原書插圖 - 第 396 頁 (圖 4)](assets/illustrations/page_396_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></p>
+<p class="figure-caption"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></p>
 
 ![原書插圖 - 第 396 頁 (圖 5)](assets/illustrations/page_396_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></p>
 
 </div>
 
@@ -452,7 +452,7 @@ Ke-si: Khui-kiám-khì; hoán-chiam-chián-to; gán-kiû-tiah-chhut-chián-to; g
 Nā bák-chiu chèng siuⁿ siong-tiōng, á-sī bák-chiu-jîn tióh tāng siong bōe ē i-tī-tit, ū-sî tióh ēng tiah-chhut-sút, chiong hit lia̍p bák-chiu-jîn koah-chhut-lâi. Tiah-chhut liáu liâm-piⁿ ēng *acidum boricum* ê ióh-hún hē tī bák-chiu-u ê só͘-chāi, iā ēng mî-se soeh hō͘ i ān, bóh-tit hō͘ i lâu-huih, ēng pheng-tòa kā pák. Kè chit ji̍t á-sī nñg ji̍t liáu-āu ēng *lotio acidi borici* ê ióh-chúi, chit ji̍t sóe saⁿ pái. Kè gō͘ lé-pài í-āu, hit ê bák-chiu-khang í-keng hó.
 
 > **【全漢對照】**
-> **眼球摘出術 (眼球摘出術, *Enucleation of eye*):**
+> **眼球摘出術 （眼球摘出術，*Enucleation of eye*）：**
 >
 > 器具：開瞼器；反針剪刀；眼球摘出剪刀；眼球固定鋏仔；斜視鉤；動脈鉗，2 枝。
 >
@@ -492,7 +492,7 @@ Nā bák-chiu tióh siong, bô sió-sim lâi i-tī, chiū bô tióh-siong ê bá
 眼炎, sympathetic ophthalmia). Nā tú-tio̍h chit hō chèng, kiám-chhái ōe hō͘ lâng kui-sì-lâng bōe khòaⁿ-kìⁿ mi̍h.
 
 > **【全漢對照】**
-> 眼炎, sympathetic ophthalmia）。若抵著此號症，減採會互人歸世人𣍐看見物。
+> 眼炎，sympathetic ophthalmia）。若抵著此號症，減採會互人歸世人𣍐看見物。
 
 ---
 
@@ -501,7 +501,7 @@ Nā bák-chiu tióh siong, bô sió-sim lâi i-tī, chiū bô tióh-siong ê bá
 Le̍k-lāi-chiàng: Iáu ū chi̍t khoán ba̍k-chiu pīⁿ ū-sî ōe tì-kàu chhiⁿ-mî, kiò-chòe le̍k-lāi-chiàng (綠內障, glaucoma). Chit hō pīⁿ-lâng ê ba̍k-chiu-jîn pìⁿ-chiaⁿⁿ tēng. Tùi án-ni ū teh-tio̍h sī-sīn-keng-leng-thâu hō͘ i pháiⁿ-khì, tì-kàu chiām-chiām bū, khòaⁿ bōe bêng. Chit-ê khah-siông sī lāu-lâng chiah ōe án-ni. Ū-sî i-seng ēng chhiú-su̍t lâi hō͘ i m̄-bián chhiⁿ-mî. Tio̍h ēng *eserina* ê ióh tiám ba̍k-chiu-lāi.
 
 > **【全漢對照】**
-> 綠內障：猶有一款目睭病有時會致到青盲，叫做綠內障（綠內障, glaucoma）。此號病人的目睭仁變真正硬。對按呢有壓著視神經𥹋頭互伊沛去，致到漸漸霧，看𣍐明。這個較常是老人才會按呢。有時醫生用手術來互伊毋免青盲。著用 *eserina* 的藥點目睭內。
+> 綠內障：猶有一款目睭病有時會致到青盲，叫做綠內障（綠內障，glaucoma）。此號病人的目睭仁變真正硬。對按呢有壓著視神經𥹋頭互伊沛去，致到漸漸霧，看𣍐明。這個較常是老人才會按呢。有時醫生用手術來互伊毋免青盲。著用 *eserina* 的藥點目睭內。
 
 ---
 

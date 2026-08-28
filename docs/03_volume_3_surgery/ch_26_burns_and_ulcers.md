@@ -178,9 +178,9 @@ $\begin{cases} \text{Liquor calcis (chio̍h-he-chúi)} \\ \text{Oleum olivae (ol
 > **【藥料】**  
 > 較常所用的藥膏是：  
 > **Carron oil（卡倫油）:**  
-> $\begin{cases} \text{Liquor calcis (石灰水)} \\ \text{Oleum lini (亞麻仁油)} \end{cases}$ 各項同份量。  
+> $\begin{cases} \text{Liquor calcis （石灰水）} \\ \text{Oleum lini （亞麻仁油）} \end{cases}$ 各項同份量。  
 > **Linimentum calcis（石灰搽劑）:**  
-> $\begin{cases} \text{Liquor calcis (石灰水)} \\ \text{Oleum olivae (橄欖油)} \end{cases}$ 各項同份量。
+> $\begin{cases} \text{Liquor calcis （石灰水）} \\ \text{Oleum olivae （橄欖油）} \end{cases}$ 各項同份量。
 
 ---
 

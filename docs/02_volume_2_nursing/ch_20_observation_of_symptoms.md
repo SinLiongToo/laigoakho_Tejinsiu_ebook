@@ -39,7 +39,7 @@ Khàn-hō͘ sî-siông tio̍h chù-ì ê tiâu-kiāⁿ thang hôe-hok i-seng, s�
 Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thài-thó ū tiàm tī i ah (I Iok-hān 3 : 17)?
 
 > **【全漢對照】**
-> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼汰佗有踮佇伊啊（I 約翰 3:17）？
+> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼汰佗有踮佇伊啊（I 約翰 3：17）？
 
 <!-- Page 272 End -->
 
@@ -53,7 +53,7 @@ Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kh
 
 ![原書插圖 - 第 273 頁 (圖 1)](assets/illustrations/page_273_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 174 tô.—Phó·-thong ê thé-un-pió : C, chá-khí-sî ; E, ê-hng-sî.</em></p>
+<p class="figure-caption"><em>Tē 174 tô.—Phó·-thong ê thé-un-pió : C, chá-khí-sî ; E, ê-hng-sî.</em></p>
 
 </div>
 
@@ -217,7 +217,7 @@ Méh-sò͘ sī múi hun-cheng thiàu kúi-ē. M̄-thang kan-ta kóng méh-phok s
 Chiàⁿ-kui-méh (正規脈, *regular pulse*), chiū-sī méh-phok teh thiàu ê sî, hit ê hioh ê sî-kan pîⁿ kú, pîⁿ tōa la̍t-ê.
 
 > **【全漢對照】**  
-> 正規脈（正規脈, *regular pulse*），就是脈搏咧跳的時，彼個歇的時間平久，平大力ê。
+> 正規脈（正規脈，*regular pulse*），就是脈搏咧跳的時，彼個歇的時間平久，平大力ê。
 
 ---
 
@@ -226,7 +226,7 @@ Chiàⁿ-kui-méh (正規脈, *regular pulse*), chiū-sī méh-phok teh thiàu �
 Put-kui-chek-méh (不規則脈, *irregular pulse*), chiū-sī méh loān-loān, thêng ê sî bô pîⁿ kú, ū-sî tōa-ē, ū-sî sòe, bô chiàu chhù-sū.
 
 > **【全漢對照】**  
-> 不規則脈（不規則脈, *irregular pulse*），就是脈亂亂，停的時無平久，有時大下，有時細，無照秩序。
+> 不規則脈（不規則脈，*irregular pulse*），就是脈亂亂，停的時無平久，有時大下，有時細，無照秩序。
 
 ---
 
@@ -235,7 +235,7 @@ Put-kui-chek-méh (不規則脈, *irregular pulse*), chiū-sī méh loān-loān,
 Kàn-hat-méh (間歇脈, *intermittent pulse*), chiū-sī méh thiàu ê sî, ū-sî kiám chi̍t-ē; chhin-chhiūⁿ cha̍p-ē chiàu chhù-sū, hut-jiân làng chi̍t-ē, chiah koh thiàu. Chit hō kàn-hat-méh, ū-sî bô pīⁿ ê lâng iā ū chit khoán ê méh; iā
 
 > **【全漢對照】**  
-> 間歇脈（間歇脈, *intermittent pulse*），就是脈跳的時，有時減一下；親像十下照秩序，忽然漏（間隔）一下，才閣跳。這號間歇脈，有時無病的人也有這款的脈；也
+> 間歇脈（間歇脈，*intermittent pulse*），就是脈跳的時，有時減一下；親像十下照秩序，忽然漏（間隔）一下，才閣跳。這號間歇脈，有時無病的人也有這款的脈；也
 
 ---
 
@@ -265,7 +265,7 @@ Ta̍k hāng sū tióh chīn-tiong.
 Sió-núng-hi-me̍h (小軟虛脈, *compressible pulse*) sī sió-khóa koh núng ê me̍h; ēng chńg-thâu-á jih chiū khoài-khoài bô-khì.
 
 > **【全漢對照】**
-> 小軟虛脈（小軟虛脈, *compressible pulse*）是稍可閣軟的脈；用指頭仔揤就快快無去。
+> 小軟虛脈（小軟虛脈，*compressible pulse*）是稍可閣軟的脈；用指頭仔揤就快快無去。
 
 ---
 
@@ -274,7 +274,7 @@ Sió-núng-hi-me̍h (小軟虛脈, *compressible pulse*) sī sió-khóa koh nún
 Lân-ap-me̍h (難壓脈, *incompressible pulse*), chiū-sī me̍h khah kiông, sui-jiân ēng chńg-thâu-á jih, iā khah oh bô-khì.
 
 > **【全漢對照】**
-> 難壓脈（難壓脈, *incompressible pulse*），就是脈較強，雖然用指頭仔揤，也較惡無去。
+> 難壓脈（難壓脈，*incompressible pulse*），就是脈較強，雖然用指頭仔揤，也較惡無去。
 
 ---
 
@@ -283,7 +283,7 @@ Lân-ap-me̍h (難壓脈, *incompressible pulse*), chiū-sī me̍h khah kiông, 
 Koâiⁿ-ap-me̍h (高壓脈, *high tension pulse*), chiū-sī me̍h thiàu khah tōa la̍t; jih beh hō͘ i tiām khah oh-tit.
 
 > **【全漢對照】**
-> 高壓脈（高壓脈, *high tension pulse*），就是脈跳較大力；揤欲互伊恬較惡得。
+> 高壓脈（高壓脈，*high tension pulse*），就是脈跳較大力；揤欲互伊恬較惡得。
 
 ---
 
@@ -292,7 +292,7 @@ Koâiⁿ-ap-me̍h (高壓脈, *high tension pulse*), chiū-sī me̍h thiàu khah
 Kē-ap-me̍h (低壓脈, *low tension pulse*), sī chhin-chhiūⁿ sió-núng-hi-me̍h; ēng chńg-thâu-á kā i jih, khoài-khoài bô khì.
 
 > **【全漢對照】**
-> 低壓脈（低壓脈, *low tension pulse*），是親像小軟虛脈；用指頭仔共伊揤，快快無去。
+> 低壓脈（低壓脈，*low tension pulse*），是親像小軟虛脈；用指頭仔共伊揤，快快無去。
 
 ---
 
@@ -301,7 +301,7 @@ Kē-ap-me̍h (低壓脈, *low tension pulse*), sī chhin-chhiūⁿ sió-núng-hi
 Tiông-hok-me̍h (重複脈, *dicrotic pulse*), chiū-sī sim-chōng phok-tōng chi̍t-ē, chiū chhiú-me̍h ū thiàu nñg-ē, thâu chi̍t-ē khah tōa, tē jī-ē khah sòe. Thâu chi̍t-ē khah tōa-ē, sī tùi sim ê chó-sek kiu-sok hō͘ huih chhut, chiàu tē 5 chiuⁿ ū kóng. Tāi-tōng-me̍h ê poàn-goa̍t-piān chiū koaiⁿ, iā tāi-tōng-me̍h ê piah ū kiu-sok, hō͘ khah sòe tōng-me̍h koh thiàu chi̍t-ē khah sòe-ē. Chit hō ê tiông-hok-me̍h, sī in-ūi pīⁿ-lâng ū pīⁿ khah kú, seng-khu khah hi, chhin-chhiūⁿ bān-sèng ê jia̍t pīⁿ, á-sī sió-tñg-jia̍t. Khàn-hō͘ teh sǹg me̍h-phok ê sî, tio̍h sǹg thâu chi̍t-ē, tē jī-ē m̄-thang sǹg. Nā gâu-gî ê sî, tio̍h ēng chi̍t ki chhiú hōaⁿ tī heng-chêng, sim-chōng ê só͘-chāi, pa̍t ki chhiú an tī chhiú-me̍h, chiah ōe chai sim-chōng phok-tōng chi̍t-ē, chhiú-me̍h thiàu nñg-ē.
 
 > **【全漢對照】**
-> 重複脈（重複脈, *dicrotic pulse*），就是心臟搏動一下，就手脈有跳兩下，頭一下較大，第二下較細。頭一下較大的，是對心的左室搐縮互血出，照第五章有講。大動脈的半月弁就關，也大動脈的壁有搐縮，互較細動脈閣跳一下較細的。此號的重複脈，是因為病人有病較久，身軀較虛，親像慢性的熱病，抑是小腸熱。看護咧算脈搏的時，著算頭一下，第二下毋通算。若猶疑的時，著用一枝手捾佇胸前、心臟的所在，別枝手安佇手脈，才會知心臟搏動一下，手脈跳兩下。
+> 重複脈（重複脈，*dicrotic pulse*），就是心臟搏動一下，就手脈有跳兩下，頭一下較大，第二下較細。頭一下較大的，是對心的左室搐縮互血出，照第五章有講。大動脈的半月弁就關，也大動脈的壁有搐縮，互較細動脈閣跳一下較細的。此號的重複脈，是因為病人有病較久，身軀較虛，親像慢性的熱病，抑是小腸熱。看護咧算脈搏的時，著算頭一下，第二下毋通算。若猶疑的時，著用一枝手捾佇胸前、心臟的所在，別枝手安佇手脈，才會知心臟搏動一下，手脈跳兩下。
 
 ---
 
@@ -313,7 +313,7 @@ Bong me̍h ê hoat-tō͘ :
 
 > **【全漢對照】**
 > 摸脈的法度：
-> 1. 對摸脈就會知心臟有病抑無。平常時的摸脈，是佇手裡的橈骨動脈（橈骨動脈, *radial artery*）。
+> 1. 對摸脈就會知心臟有病抑無。平常時的摸脈，是佇手裡的橈骨動脈（橈骨動脈，*radial artery*）。
 
 ---
 
@@ -334,7 +334,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó-khǹg i chia̍h.
 
 ![原書插圖 - 第 276 頁 (圖 1)](assets/illustrations/page_276_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 176 tô:—Bong méh ê hoat-tō. (From Woodwark's " Medical Nursing," Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 176 tô:—Bong méh ê hoat-tō. (From Woodwark's " Medical Nursing," Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -518,8 +518,8 @@ Thé-un ê pún-tō͘-hā : Pīⁿ-lâng nā keng-kè pīⁿ-chèng chin tāng, 
 (惡液症, *cachexia*), gâm-chéng (癌腫, *carcinoma*), ū-sî i ê thé-un ōe pí thé-un ê pún-tō͘ khah kē. Pīⁿ-lâng ê thé-un, nā hut-jiân kàng-lo̍h pí thé-un ê pún-tō͘ khah kē, chit hō ê goân-in sī hì-chōng, ūi, á-sī tng chhut-huih; á-sī tng ū phòai-khì, chhng-khang; á-sī chín-tōng (*shock*); iā ū-sî sī hun-lī (分利 *crisis*), chhin-chhiūⁿ hì-iām teh-beh hó ê sî, jia̍t hut-jiân lo̍h kē. Tio̍h khòaⁿ tē 257 bīn ê pió, kì thé-un kap me̍h-sò͘ ê koan-liân. Ū-sî pīⁿ-lâng ê me̍h-phok sui-jiân kín, thé-un hoán-tńg khah kē, án-ni chiū-sī gūi-hiám ê chèng-chōng.
 
 > **【全漢對照】**
-> *(體溫落低)*
-> （惡液症, *cachexia*）、癌腫（癌腫, *carcinoma*），有時伊的體溫會比體溫的本度較低。病人的體溫，若忽然降落比體溫的本度較低，此號的原因是肺臟、胃、抑是腸出血；抑是腸有破氣、穿孔；抑是震動（*shock*）；也有時是分利（分利 *crisis*），親像肺炎欲好的時，熱忽然落低。著看第 257 面的表，記體溫及脈數的關聯。有時病人的脈搏雖然緊，體溫反轉較低，按呢就是危險的症狀。
+> *（體溫落低）*
+> （惡液症，*cachexia*）、癌腫（癌腫，*carcinoma*），有時伊的體溫會比體溫的本度較低。病人的體溫，若忽然降落比體溫的本度較低，此號的原因是肺臟、胃、抑是腸出血；抑是腸有破氣、穿孔；抑是震動（*shock*）；也有時是分利（分利 *crisis*），親像肺炎欲好的時，熱忽然落低。著看第 257 面的表，記體溫及脈數的關聯。有時病人的脈搏雖然緊，體溫反轉較低，按呢就是危險的症狀。
 
 ---
 
@@ -531,8 +531,8 @@ Jia̍t chèng ū saⁿ lūi (*Three principal types of fever*):
 > **【全漢對照】**
 > 熱症有三類（*Three principal types of fever*）：
 > 
-> *(稽留熱)*
-> 1. 稽留熱（稽留熱, *Continued fever*，有時叫做長熱）：此號熱佇 24 點鐘的中間，伊的波動（波動, *fluctuation*）無較加 1.5° F. (0.8° C.)，也無降落到體溫的本度（第 477 圖）。
+> *（稽留熱）*
+> 1. 稽留熱（稽留熱，*Continued fever*，有時叫做長熱）：此號熱佇 24 點鐘的中間，伊的波動（波動，*fluctuation*）無較加 1.5° F. (0.8° C.)，也無降落到體溫的本度（第 477 圖）。
 
 ---
 
@@ -540,8 +540,8 @@ Jia̍t chèng ū saⁿ lūi (*Three principal types of fever*):
 2. Î-tiong-jia̍t (弛張熱, *Remittent fever*, ū-sî kiò-chòe ke-kiám-jia̍t, 加減熱): Múi ji̍t thé-un ê pho-tōng nā 2° F. (1.1° C.), á-sī khah ke, kiò-chòe î-tiong-jia̍t (tē 467 tô͘). Î-tiong-jia̍t ê sî, ē-po͘-sî ê jia̍t, pí chá-khí-sî khah-siông khah koâiⁿ; chóng-sī ū-sî ū kap chit-ê tùi-hoán-ê, chhin-chhiūⁿ hoān-tio̍h hì-kiat-hu̍t chèng, ū-sî chá-khí-sî ê thé-un, pí ē-po͘ khah koâiⁿ.
 
 > **【全漢對照】**
-> *(弛張熱)*
-> 2. 弛張熱（弛張熱, *Remittent fever*，有時叫做加減熱，加減熱）：每日體溫的波動若 2° F. (1.1° C.)，抑是較加，叫做弛張熱（第 467 圖）。弛張熱的時，下晡時的熱，比早起時時常較懸；總是有時有及這個對反的，親像患著肺結核症，有時早起時的體溫，比下晡較懸。
+> *（弛張熱）*
+> 2. 弛張熱（弛張熱，*Remittent fever*，有時叫做加減熱，加減熱）：每日體溫的波動若 2° F. (1.1° C.)，抑是較加，叫做弛張熱（第 467 圖）。弛張熱的時，下晡時的熱，比早起時時常較懸；總是有時有及這個對反的，親像患著肺結核症，有時早起時的體溫，比下晡較懸。
 
 ---
 
@@ -549,8 +549,8 @@ Jia̍t chèng ū saⁿ lūi (*Three principal types of fever*):
 3. Kàn-hat-jia̍t (間歇熱, *Intermittent fever*): Chit hō jia̍t tī 24 tiám-cheng ê tiong-kan, ū thêng kúi-nā tiám-cheng lóng bô jia̍t, jia̍t iā ū thè; koh thêng kúi-nā tiám-cheng-kú, chiah ū koh khí jia̍t (tē 482 tô͘).
 
 > **【全漢對照】**
-> *(間歇熱)*
-> 3. 間歇熱（間歇熱, *Intermittent fever*）：此號熱佇 24 點鐘的中間，有停幾若點鐘攏無熱，熱也有退；閣停幾若點鐘久，才有閣起熱（第 482 圖）。
+> *（間歇熱）*
+> 3. 間歇熱（間歇熱，*Intermittent fever*）：此號熱佇 24 點鐘的中間，有停幾若點鐘攏無熱，熱也有退；閣停幾若點鐘久，才有閣起熱（第 482 圖）。
 
 ---
 
@@ -566,7 +566,7 @@ Kiám-thé-un ê hoat: Kiám-thé-un ê khì-kū kiò-chòe thé-un-khì. Chiàu
 A. Iáu-bē ēng: 1. Tio̍h chim-chiok khòaⁿ thé-un-khì ū chheng-khì á-bô.
 
 > **【全漢對照】**
-> *(體溫器)*
+> *（體溫器）*
 > 驗體溫的法：驗體溫的器具叫做體溫器。照顧體溫器的法：
 > A. 猶未用：1. 著斟酌看體溫器有清潔抑無。
 
@@ -575,7 +575,7 @@ A. Iáu-bē ēng: 1. Tio̍h chim-chiok khòaⁿ thé-un-khì ū chheng-khì á-b
 Jîn-ài bô kiàⁿ kiàn-siàu ê sū (I[Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無行見誚的事（哥林多前書 13: 5）。
+> 仁愛無行見誚的事（哥林多前書 13：5）。
 
 <!-- Page 278 End -->
 
@@ -589,11 +589,11 @@ Jîn-ài bô kiàⁿ kiàn-siàu ê sū (I[Ko-lîm-to 13: 5).
 
 ![原書插圖 - 第 279 頁 (圖 1)](assets/illustrations/page_279_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)</em></p>
+<p class="figure-caption"><em>Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)</em></p>
 
 ![原書插圖 - 第 279 頁 (圖 2)](assets/illustrations/page_279_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C.</em></p>
+<p class="figure-caption"><em>Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C.</em></p>
 
 </div>
 
@@ -813,7 +813,7 @@ Nā khip-ji̍p ho͘-chhut ê khong-khì, pí pêng-sî khah chió, kiò-chòe ch
 Ho͘-khip-khùn-lân (呼吸困難, *dyspnoea*) chiū-sī ho͘-khip kan-khó͘, tio̍h chhut-la̍t lâi chhoán-khùi. Ho͘-khip-khùn-lân, nā khah siong-tiōng hit sî, tó bē tiâu, tio̍h khí-lâi chē, chiah kiò-chòe kūi-chō-ho͘-khip (跪坐呼吸, *orthopnoea*).
 
 > **【全漢對照】**
-> 呼吸困難（呼吸困難, *dyspnoea*）就是呼吸艱苦，著出力來喘氣。呼吸困難，若較嚴重彼時，倒袂稠，著起來坐，才叫做跪坐呼吸（跪坐呼吸, *orthopnoea*）。
+> 呼吸困難（呼吸困難，*dyspnoea*）就是呼吸艱苦，著出力來喘氣。呼吸困難，若較嚴重彼時，倒袂稠，著起來坐，才叫做跪坐呼吸（跪坐呼吸，*orthopnoea*）。
 
 ---
 
@@ -822,7 +822,7 @@ Ho͘-khip-khùn-lân (呼吸困難, *dyspnoea*) chiū-sī ho͘-khip kan-khó͘, 
 Tn̂g-té-ho͘-khip (長短呼吸, *Cheyne-Stokes breathing*), sī ho͘-khip ê te̍k-pia̍t chi̍t khoán; chiū-sī ho͘-khip thêng-tiap-á-kú, chiū chiām-chiām chhoán-tōa-ê, ná chhim, ná tn̂g, ná kín, āu-lâi chiū chiām-chiām sè-ê, sòa thêng tiap-á-kú. Tùi khí-thâu thêng-chhoán khí, kàu chhoán-liáu koh thêng ûi-chí, iok-lio̍k pòaⁿ hun chì nn̄g hun-cheng-kú. Chit khoán ê ho͘-khip, sī tùi náu pīⁿ, náu-mo̍h-iām (腦膜炎), sīn-chōng-iām (腎臟炎), á-sī kip-sèng jia̍t, (急性熱) chiah án-ni; chit-hō ê chèng-thâu sī chīn gûi-hiám.
 
 > **【全漢對照】**
-> 長短呼吸（長短呼吸, *Cheyne-Stokes breathing*），是呼吸的特別一款；就是呼吸停疊仔久，就漸漸喘大個，愈深、愈長、愈緊，後來就漸漸細個，續停疊仔久。對起頭停喘起，到喘了閣停為止，約略半份至兩分鐘久。這款的呼吸，是對腦病、腦膜炎（腦膜炎）、腎臟炎（腎臟炎），抑是急性熱（急性熱）才按呢；這號的症頭是盡危險。
+> 長短呼吸（長短呼吸，*Cheyne-Stokes breathing*），是呼吸的特別一款；就是呼吸停疊仔久，就漸漸喘大個，愈深、愈長、愈緊，後來就漸漸細個，續停疊仔久。對起頭停喘起，到喘了閣停為止，約略半份至兩分鐘久。這款的呼吸，是對腦病、腦膜炎（腦膜炎）、腎臟炎（腎臟炎），抑是急性熱（急性熱）才按呢；這號的症頭是盡危險。
 
 ---
 
@@ -847,7 +847,7 @@ Nā-sī ū heng-mo̍h-iām sī ōe kan-ta sàu, iā khah té, heng-ha̍h ōe thi
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī jîn-ài (I Ko-lîm-to 13: 13).
 
 > **【全漢對照】**
-> 現今所存的，就是信、盼望、仁愛，此三項，其中第一大的，是仁愛（I 哥林多 13: 13）。
+> 現今所存的，就是信、盼望、仁愛，此三項，其中第一大的，是仁愛（I 哥林多 13：13）。
 
 <!-- Page 282 End -->
 
@@ -861,11 +861,11 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 
 ![原書插圖 - 第 283 頁 (圖 1)](assets/illustrations/page_283_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 179 tô.―Hûi-chè ê thâm-koàn.</em></p>
+<p class="figure-caption"><em>Tē 179 tô.―Hûi-chè ê thâm-koàn.</em></p>
 
 ![原書插圖 - 第 283 頁 (圖 2)](assets/illustrations/page_283_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney).</em></p>
 
 </div>
 
@@ -943,7 +943,7 @@ Pīⁿ-lâng nā kho͘-eh, khàn-hō͘ tióh kì sī chi̍t pòaⁿ pái, á-sī
 Ho͘-chhut ê khì-bī, khàn-hō͘ tióh chim-chiok sī sím-mi̍h khoán. Nā-sī pháiⁿ bī, chit-ê ū-sî sī tùi chiù-khí, siau-hòa-put-liông, pì-kiat, ok-hiù-sèng-khì-kńg-chi-īam (惡臭性氣管枝炎, *foetid bronchitis*) hit khoán ê pīⁿ.
 
 > **【全漢對照】**
-> 呼出的氣味，看護著斟酌是甚麼款。若是歹味，這個有時是對蛀齒、消化不良、秘結、惡臭性氣管枝炎（惡臭性氣管枝炎, *foetid bronchitis*）彼款的病。
+> 呼出的氣味，看護著斟酌是甚麼款。若是歹味，這個有時是對蛀齒、消化不良、秘結、惡臭性氣管枝炎（惡臭性氣管枝炎，*foetid bronchitis*）彼款的病。
 
 ---
 
@@ -993,7 +993,7 @@ khui-khui iā tek-khak khah-siông sī ta-ta. Tio̍h kā gín-ná kóng, kah i t
 Khòaⁿ pīⁿ-lâng ê chih sī ta, á-sī tâm ; ū chih-thai, á-sī ū pe̍h-sek, âng-sek, chhiah-chhiah, chhin-chhiūⁿ chhiⁿ bah ê sek ? Ū jia̍t chhin-chhiūⁿ seng-hông-jia̍t (猩紅熱, *scarlet fever*), sió-tn̂g-jia̍t (小腸熱, *typhoid fever*), i ê chih ê sek ū te̍k-pia̍t ê khoán. Khah-siông lim chiú ê pīⁿ-lâng, i ê chih nā chhun-chhut-lâi, khah chōe ōe ngiaùh-ngiaùh-chùn. Ū chi̍t khoán ê piàn-sūi (poàn-sin-put-sūi) ê pīⁿ-lâng, chih chhun-chhut bōe tit, ū-sî oai kè chiàⁿ-pêng, ū-sî oai kè tò-pêng. Pīⁿ-lâng ê chih nā ta̍k ji̍t khòaⁿ ū chiām-chiām khah chheng-khì, chiū ōe chai, hit ê pīⁿ teh-beh hó.
 
 > **【全漢對照】**
-> 看病人的舌是燥，抑是淡；有舌苔，抑是有白色、紅色、赤赤，親像生肉的色？有熱親像猩紅熱（猩紅熱, *scarlet fever*）、小腸熱（小腸熱, *typhoid fever*），伊的舌的色有特別的款。較常啉酒的病人，伊的舌若伸出來，較濟會擽擽顫（ngiaùh-ngiaùh-chùn）。有一款的偏遂（半身不遂）的病人，舌伸出𣍐得，有時歪過正邊，有時歪過倒邊。病人的舌若逐日看有漸漸較清潔，就會知，彼個病咧欲好。
+> 看病人的舌是燥，抑是淡；有舌苔，抑是有白色、紅色、赤赤，親像生肉的色？有熱親像猩紅熱（猩紅熱，*scarlet fever*）、小腸熱（小腸熱，*typhoid fever*），伊的舌的色有特別的款。較常啉酒的病人，伊的舌若伸出來，較濟會擽擽顫（ngiaùh-ngiaùh-chùn）。有一款的偏遂（半身不遂）的病人，舌伸出𣍐得，有時歪過正邊，有時歪過倒邊。病人的舌若逐日看有漸漸較清潔，就會知，彼個病咧欲好。
 
 ---
 
@@ -1025,7 +1025,7 @@ Pīⁿ-lâng siông-siông áu-thò͘, goân-pún m̄-sī hó ê tiāu-thâu, n�
 bô hioh, á-sī só͘ thò-chhut-lâi-ê chhin-chhiūⁿ pùn, án-ni thang chai chit hō sī tùi tn̂g thò-chhut-lâi, chit hō pīⁿ sī put-chí gûi-hiám. Ū chia̍h-tō bē thong-ê, kiàn chia̍h, kiàn thò, lóng m̄-bián chhut la̍t. Ū sīn-chio̍h ê pīⁿ, thò ê sî sin-io put-chí thiàⁿ. Ū táⁿ-chio̍h ê pīⁿ-ê, thò ê sî pak-tó͘ ê chiàⁿ-pêng, ū-sî tò-pêng put-chí thiàⁿ. Pīⁿ-lâng phīⁿ kè bâ-chùi-io̍h (麻醉藥, anaesthetic) liáu-āu só͘ thò ê chúi, le̍k-sek á-sī pe̍h-sek, khiok bô iàu-kín, nā-sī táⁿ ū pīⁿ-ê, thò ê chúi sī n̂g-sek.
 
 > **【全漢對照】**
-> 無歇，抑是所吐出來的親像糞，按呢通知此號是對腸吐出來，此號病是不止危險。有食道𣍐通的，見食，見吐，攏免出力。有腎石的病，吐的時身腰不止痛。有膽石的病者，吐的時腹肚的正爿，有時倒爿不止痛。病人鼻過麻醉藥（麻醉藥, anaesthetic）了後所吐的水，綠色抑是白色，卻無要緊，若是膽有病的，吐的水是黃色。
+> 無歇，抑是所吐出來的親像糞，按呢通知此號是對腸吐出來，此號病是不止危險。有食道𣍐通的，見食，見吐，攏免出力。有腎石的病，吐的時身腰不止痛。有膽石的病者，吐的時腹肚的正爿，有時倒爿不止痛。病人鼻過麻醉藥（麻醉藥，anaesthetic）了後所吐的水，綠色抑是白色，卻無要緊，若是膽有病的，吐的水是黃色。
 
 ---
 
@@ -1140,7 +1140,7 @@ Iā tióh chim-chiok khòaⁿ i thong seng-khu ū só͘-chāi
 khah léng á-bô. Phê-hu ū hoat-chín (khí pan-tiám) á-bô? Hoat-chín ê hêng-chōng bô sio-tâng; ū-ê lâu kōaⁿ āu, hoat-chhut-lâi, miâ kiò hān-chín (汗疹, sweat rash). Ū-ê chia̍h io̍h liáu hoat-chhut-lâi. Joa̍h-thiⁿ, á-sī chia̍h bô ha̍p ê mi̍h, iā ē hoat-chín. Phê-hu, kha, bīn ū kūi-chúi á-bô, Nā ū, kā i jih ē lap-u. Tùi phīⁿ-khang, hī-khang, ba̍k-chiu ū pài-siat-mi̍h á-bô? Phê-hu ū só͘-chāi chhin-chhiūⁿ beh sìⁿ jiók-siong á-bô?
 
 > **【全漢對照】**
-> 較冷抑無？皮膚有發疹（起斑點）抑無？發疹的形狀無相同；有的流汗後，發出來，名叫汗疹（汗疹, sweat rash）。有的食藥了發出來。熱天，抑是食無合的物，亦會發疹。皮膚、跤、面有洘水抑無，若有，共伊𢯎會凹-u。對鼻孔、耳孔、目珠有排泄物抑無？皮膚有所在親像欲生褥傷抑無？
+> 較冷抑無？皮膚有發疹（起斑點）抑無？發疹的形狀無相同；有的流汗後，發出來，名叫汗疹（汗疹，sweat rash）。有的食藥了發出來。熱天，抑是食無合的物，亦會發疹。皮膚、跤、面有洘水抑無，若有，共伊𢯎會凹-u。對鼻孔、耳孔、目珠有排泄物抑無？皮膚有所在親像欲生褥傷抑無？
 
 ---
 
@@ -1177,7 +1177,7 @@ Pīⁿ-lâng tó ê khoán-sit: Pīⁿ-lâng ài chhē khah khòaⁿ-oa̍h ê kh
 Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 
 > **【全漢對照】**
-> 仁愛無快受氣（哥林多前書 13:5）
+> 仁愛無快受氣（哥林多前書 13：5）
 
 <!-- Page 288 End -->
 
@@ -1200,7 +1200,7 @@ i-seng kóng. Pīⁿ-lâng khùn-lo̍h-bîn ê sî, ū-ê ōe kā chhùi-khí-ku
 Chiam-bōng (譫妄, Delirium): Chit-ê sī loān-loān lām-sám kóng ê ì-sù. Ū-sî ōe tōa siaⁿ. Ū-sî i ê chhiú ōe khiú i ka-kī ê saⁿ, lām-sám jiàu bîn-chhn̂g. Ū-sî ōe hoat kông, kàu gûi-hiám ê khoán-sit. Nā ū chit hō ê pīⁿ-lâng khàn-hō͘ tio̍h put-chí sió-sim khoàⁿ-kò͘, m̄-thang lī-khui i ê sin-piⁿ, kiaⁿ-liáu pīⁿ-lâng ōe hāi ka-kī.
 
 > **【全漢對照】**
-> 譫妄（譫妄, Delirium）：這個是亂亂濫撒講的意思。有時會大聲。有時伊的手會揪伊家己的衫，濫撒抓眠床。有時會發狂，到危險的款式。若有此號的病人看護著不止小心看顧，唔通離開伊的身邊，驚了病人會害家己。
+> 譫妄（譫妄，Delirium）：這個是亂亂濫撒講的意思。有時會大聲。有時伊的手會揪伊家己的衫，濫撒抓眠床。有時會發狂，到危險的款式。若有此號的病人看護著不止小心看顧，唔通離開伊的身邊，驚了病人會害家己。
 
 ---
 
@@ -1225,7 +1225,7 @@ Pīⁿ-lâng nā kóng thiàⁿ, tio̍h chhâ-khoàⁿ thiàⁿ ê só͘-chāi, 
 Tī bē pīⁿ ê tāi-seng, ū-sî ōe ka-iam-kôaⁿ. Nā-sī pīⁿ-lâng hut-jiân khí kôaⁿ, ū-sî sī in-ūi i seng-khu ū só͘-chāi teh hùn-lâng; só͘-í pīⁿ-lâng nā siū chhiú-su̍t liáu-āu, hut-jiân khí kôaⁿ kiò-chòe ok-hān (惡寒, *rigor*), kiám-chhái sī tùi beh hùn-lâng; m̄-kú bô tek-khak, in-ūi hit hō khí kôaⁿ, ōe tùi pa̍t-mi̍h ê iân-kò͘, chhin-chhiūⁿ tùi kiaⁿ, á-sī tùi *hysteria* ê iân-kò͘; iā ū-sî teh-beh hoat jia̍t ê sî ōe khí kôaⁿ. Chit ê ok-hān ê khoán-sit, ū-ê sī sió-khóa ka-iam nā-tiāⁿ, ū-ê kha chhiú
 
 > **【全漢對照】**
-> 佇未病的代先，有時會𢵄冷。若是病人忽然起寒，有時是因為伊身軀有所在咧蘊膿；所以病人若受手術了後，忽然起寒叫做惡寒（惡寒, *rigor*），咸采是對欲蘊膿；唔拘無的確，因為許號起寒，會對別項的緣故，親像對驚，抑是對 *hysteria*（歇斯底里）的緣故；也有時欲發熱的時會起寒。這個惡寒的款式，有的是小寡𢵄冷爾定，有的腳手...
+> 佇未病的代先，有時會𢵄冷。若是病人忽然起寒，有時是因為伊身軀有所在咧蘊膿；所以病人若受手術了後，忽然起寒叫做惡寒（惡寒，*rigor*），咸采是對欲蘊膿；唔拘無的確，因為許號起寒，會對別項的緣故，親像對驚，抑是對 *hysteria*（歇斯底里）的緣故；也有時欲發熱的時會起寒。這個惡寒的款式，有的是小寡𢵄冷爾定，有的腳手。..
 
 <!-- Page 289 End -->
 
@@ -1434,7 +1434,7 @@ Nā ū sím-mih mi̍h phah-phòa, á-sī phah-m̄-kiàⁿ tióh liâm-piⁿ thon
 Nā-sī pīⁿ-lâng mñg i ê pīⁿ ōe sí á-bōe, chit kù ōe chin pháiⁿ ìn-tap. In-ūi pīⁿ-lâng nā ū châi-sán mih-kiāⁿ, á-sī iàu-kín tióh kau-tāi ê ōe, tek-khak tióh hoan-hù i ê chhin-lâng àn-cháiⁿ-iūⁿ lâi siat-hoat. Lâng nā pīⁿ kú, khàn-hō͘ chai i bōe tit thang hó, pa̍t lâng iā chai i sī bōe hó, m̄-kú pīⁿ-lâng m̄-nā m̄-chai i bōe hó, iáu-kú ǹg-bāng ōe hó, thang koh tit-tióh chin chōe ê khoài-lo̍k. Tng hit ê sî-chūn, nā hō͘ i thiaⁿ-kìⁿ i bōe hó ê ōe, i ê sim-koaⁿ tek-khak chin ut-chut, só͘-í koan-hē pīⁿ-lâng ōe hó á bōe, á-sī ōe sí á bōe ê ōe, tāi-khài nā-sī hō͘ i-seng kóng, sī pí khàn-hō͘ khah thò-tòng.
 
 > **【全漢對照】**
-> **[病之有好]**
+> **［病之有好］**
 > 若是病人問伊的病會死抑未，這句話真歹應答。因為病人若有財產物件，抑是要緊著交代的話，的確著吩咐伊的親人按怎樣來設法。人若病久，看護知伊袂使得通好，別人也知伊是袂好，毋過病人毋但毋知伊袂好，猶久指望會好，通閣得著真多的快遞。當彼個時陣，若予伊聽見伊袂好的話，伊的心肝的確真鬱卒，所以關係病人會好抑袂，抑是會死抑袂的話，大概若是予醫生講，是比看護較妥當。
 
 ---
@@ -1444,7 +1444,7 @@ Nā-sī pīⁿ-lâng mñg i ê pīⁿ ōe sí á-bōe, chit kù ōe chin phái�
 Nā-sī khòaⁿ pīⁿ-lâng ū gûi-hiám ê khoán-sit, tióh kā i ê chhin-lâng kóng, iā tióh chiong pīⁿ-lâng ê khoán-sit kā i-seng kóng; nā-sī i-seng kóng m̄-bián koh kiò i lâi khòaⁿ, chiū m̄-bián koh kā i kóng, tāi-khài sī bōe i-tī tit.
 
 > **【全漢對照】**
-> **[病人危險]**
+> **［病人危險］**
 > 若是看病人有危險的款式，著佮伊的親人講，也著將病人的款式佮醫生講；若是醫生講毋免閣叫伊來看，就毋免閣佮伊講，大概是袂醫治得。
 
 ---
@@ -1454,7 +1454,7 @@ Nā-sī khòaⁿ pīⁿ-lâng ū gûi-hiám ê khoán-sit, tióh kā i ê chhin-
 Pīⁿ-lâng lîm-chiong, khàn-hō͘ eng-kai tióh chòe ê tāi-chì sī chiàu ē-bīn : Pīⁿ-lâng í-keng kè-óng, i ê chhin-lâng siám khui liáu-āu, khàn-hō͘ tióh liām-piⁿ chiong pīⁿ-lâng ê saⁿ-á-khò thǹg-khí-lâi, hō͘ sin-si tó ti̍t-ti̍t. Nā-sī siū chhiú-su̍t, á-sī tióh-siong ê só͘-chāi, chiong hit ê kiaⁿ-lâng, ù-òe ê mih théh-khí-lâi, ēng chheng-khì ê mî-hoe hē tī siong-chhùi ê só͘-chāi, sòa chiong pheng-tòa kā pa̍k. Chiong mî-hoe tùi kong-bûn that hō͘ tīⁿ. Chiong i ê hā-go̍k-kut ēng pheng-tòa pa̍k. Hō͘ i ba̍k-chiu ōe khoeh-khì, ēng nn̄g tè tâm ê mî-hoe tah hit ba̍k-chiu-téng. Kè chi̍t tiám-cheng chiah kā sóe seng-khu, chhēng saⁿ-á-khò.
 
 > **【全漢對照】**
-> **[病人臨終]**
+> **［病人臨終］**
 > 病人臨終，看護應該著做的大事是照下面：病人已經過往，伊的親人閃開了後，看護著黏鞭將病人的衫仔褲褪起來，予身屍倒直直。若是受手術，抑是著傷的所在，將彼個驚人、污穢的物提出來，用清氣的棉花放置傷喙的所在，紲將繃帶共縛。將棉花對肛門塞予滇。將伊的下顎骨用繃帶縛。予伊目睭會闔去，用兩塊澹的棉花貼彼目睭頂。過一點鐘才共洗身軀，穿衫仔褲。
 
 ---
@@ -1464,7 +1464,7 @@ Pīⁿ-lâng lîm-chiong, khàn-hō͘ eng-kai tióh chòe ê tāi-chì sī chià
 Nā pīⁿ-lâng sī hì-iām ê pīⁿ, á-sī thoân-jiám pīⁿ lâi kè-óng-ê, tióh ēng siau-to̍k-io̍h kā i sóe seng-khu, sóe liáu-āu só͘ ēng ê pò͘ lóng-chóng kā i sio-lio-khì, chiah khàn-hō͘ chiong ka-kī ê chhiú sóe hō͘ chheng-khì. Chòe khàn-hō͘ ê lâng, soah bé pái kā pīⁿ-lâng sóe-e̍k, tióh chhin-chhiūⁿ kā i ê chhin-lâng siat-hoat chi̍t-poaⁿ-iūⁿ. Chhin-chhiūⁿ ka-kī tú-tióh chit hō tē-pō͘, ài lâng cháiⁿ-iūⁿ kā lán liāu-lí, lán
 
 > **【全漢對照】**
-> **[傳染病的過往]**
+> **［傳染病的過往］**
 > 若病人是肺炎的病，抑是傳染病來過往的，著用消毒藥共伊洗身軀，洗了後所用的布攏總共伊燒了去，才看護將家己的手洗予清氣。做看護的人，煞尾擺共病人洗浴，著親像共伊的親人設法一般樣。親像家己拄著這號地步，愛人怎樣共咱料理，咱……
 
 <!-- Page 293 End -->
@@ -1497,7 +1497,7 @@ Nā-sī pīⁿ-lâng í-keng kè-óng, kòng tiān-pò hō͘ in tau ê lâng cha
 Jîn-ài, hoān-sū jím-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13: 7).
 
 > **【全漢對照】**  
-> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13: 7）。
+> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13：7）。
 
 <!-- Page 294 End -->
 

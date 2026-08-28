@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 322 頁 (圖 1)](assets/illustrations/page_322_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 186 tô:—Chòe pôe-iúⁿ-hoat ê ke-sì : 1, chiú-teng ; 2, ngoeh-á ; 3, siau-tók-chhit-pò͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.</em></p>
+<p class="figure-caption"><em>Tē 186 tô:—Chòe pôe-iúⁿ-hoat ê ke-sì : 1, chiú-teng ; 2, ngoeh-á ; 3, siau-tók-chhit-pò͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.</em></p>
 
 </div>
 
@@ -47,7 +47,7 @@ I-ha̍k ná chìn-pō͘, pīⁿ ê goân-in ná káng-kiù, lán chai pīⁿ ê 
 **Tē 186 tô͘.**—Chòe pôe-iúⁿ-hoat ê ke-si: 1, chiú-teng ; 2, ngoeh-á ; 3, siau-to̍k-chhit-pô͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.
 
 > **【全漢對照】**
-> **第 186 圖。**——做培養法的器具：1, 酒燈（酒精燈）；2, 挾仔；3, 消毒漆布；4, 培養法管；5, 白金針。
+> **第 186 圖。**——做培養法的器具：1，酒燈（酒精燈）；2，挾仔；3，消毒漆布；4，培養法管；5，白金針。
 
 ---
 
@@ -79,12 +79,12 @@ Nā tio̍h ōaⁿ pau-siong-liāu chi̍t ji̍t nn̄g pái, m̄-thang phah-sǹg c
 
 ![原書插圖 - 第 323 頁 (圖 1)](assets/illustrations/page_323_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>187
+<p class="figure-caption"><em>187
 Tē 187 tô.—Chhit ian-thâu chòe pôe-iúⁿ-hoat. (Morrow, from Sanders' "Modern Methods in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
 
 ![原書插圖 - 第 323 頁 (圖 2)](assets/illustrations/page_323_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow).</em></p>
+<p class="figure-caption"><em>Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow).</em></p>
 
 </div>
 
@@ -149,7 +149,7 @@ Tē 188 tô͘.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-
 
 ![原書插圖 - 第 324 頁 (圖 1)](assets/illustrations/page_324_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 189 tô.—Kúi-nā khoán ê bî-seng-bút hián-bî-kiàⁿ khòaⁿ-ê chha-put-to 1,000 pē khok-tōa : 1, liân-só-chōng-kiû-khún ; 2, phû-tô-chōng-kiû-khún ; 3, hì-iām-siang-kiû-khún ; 4, lîm-pīⁿ-siang-kiû-khún ; 5, sit-hû-tek-lí-a-sòe-khún ; 6, sió-tng-jia̍t-sòe-khún ; 7, kiat-hu̍t-sòe-khún ; 8, mûi-to̍k-lê-soān-khún.</em></p>
+<p class="figure-caption"><em>Tē 189 tô.—Kúi-nā khoán ê bî-seng-bút hián-bî-kiàⁿ khòaⁿ-ê chha-put-to 1,000 pē khok-tōa : 1, liân-só-chōng-kiû-khún ; 2, phû-tô-chōng-kiû-khún ; 3, hì-iām-siang-kiû-khún ; 4, lîm-pīⁿ-siang-kiû-khún ; 5, sit-hû-tek-lí-a-sòe-khún ; 6, sió-tng-jia̍t-sòe-khún ; 7, kiat-hu̍t-sòe-khún ; 8, mûi-to̍k-lê-soān-khún.</em></p>
 
 </div>
 
@@ -163,7 +163,7 @@ Mûi-to̍k, *malaria* jia̍t, chhiah-lī ê chit hāng ê goân-in, sī tōng-bu
 
 > **【全漢對照】**
 > 
-> **2. 動物性微生物 (動物性微生物, *Animal organism*)**
+> **2. 動物性微生物 （動物性微生物，*Animal organism*）**
 > 
 > 梅毒、*malaria* 熱（瘧疾熱）、赤痢的彼項的原因，是動物性微生物；總是在遮所欲講起的，較多是植物性的。諸個植物性的微生物，有分幾若種，佇諸個的中間，細菌是第一要緊的。簡省來記微生物的表照下底：
 
@@ -203,7 +203,7 @@ Sòe-khún ê thé ū n̄g hāng lâi chiaⁿ-i, lāi-bīn-ê chiū-sī chheng-c
 
 > **【全漢對照】**
 > 
-> 細菌的體有兩項來成伊，內面的就是清清無色幾粒的款式，叫做元形質（元形質, *protoplasm*，原生質）。外面旁有透光的包膜，無親像平常的組織細胞，諸個總名叫作細菌（細菌, *bacteria*；第 185、189 圖）。
+> 細菌的體有兩項來成伊，內面的就是清清無色幾粒的款式，叫做元形質（元形質，*protoplasm*，原生質）。外面旁有透光的包膜，無親像平常的組織細胞，諸個總名叫作細菌（細菌，*bacteria*；第 185、189 圖）。
 
 ---
 
@@ -213,7 +213,7 @@ Sòe-khún ê thé ū n̄g hāng lâi chiaⁿ-i, lāi-bīn-ê chiū-sī chheng-c
 
 > **【全漢對照】**
 > 
-> **第 189 圖。**——幾若款的微生物顯微鏡看的差不多 1,000 倍擴大：1, 連鎖狀球菌；2, 葡萄狀球菌；3, 肺炎雙球菌；4, 淋病雙球菌；5, 窒扶的里亞細菌（白喉桿菌）；6, 小腸熱細菌（傷寒桿菌）；7, 結核細菌；8, 梅毒螺旋菌。
+> **第 189 圖。**——幾若款的微生物顯微鏡看的差不多 1,000 倍擴大：1，連鎖狀球菌；2，葡萄狀球菌；3，肺炎雙球菌；4，淋病雙球菌；5，窒扶的里亞細菌（白喉桿菌）；6，小腸熱細菌（傷寒桿菌）；7，結核細菌；8，梅毒螺旋菌。
 
 ---
 
@@ -227,7 +227,7 @@ Hêng-chōng : Pêng-siông-ê hun chòe saⁿ khoán :
 > 
 > 形狀：平常的分做三款：
 > 
-> 1. **球菌 (球菌, *Cocci*)**：照伊的名所講……
+> 1. **球菌 （球菌，*Cocci*）**：照伊的名所講……
 
 ---
 
@@ -253,7 +253,7 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chōe tō͘.
 îⁿ-kiû-chōng, á-sī pîⁿ-kiû-chōng. Chit ê kiû-khún, ū-ê kan-ta chit lia̍p, ū-ê kúi-nā lia̍p tī siāng só͘-chāi ; hit ê miâ bô sio-siāng, Nn̄g lia̍p saⁿ óa, kiò-chòe siang-kiû-khún (diplococci). Nā saⁿ-kap chòe chit tīn, chhin-chhiūⁿ phû-tô ê khoán, kiò-chòe phû-tô-chōng-kiû-khún (葡萄狀球菌, staphylococci). Liân-sòa tn̂g-tn̂g chhin-chhiūⁿ liān-á ê khoán, kiò-chòe liân-só-chōng-kiû-khún (連鎖狀球菌, streptococci).
 
 > **【全漢對照】**  
-> 圓球狀，抑是扁球狀。此個球菌，有的干焦一粒，有的幾若粒佇相同所在；彼個名無相同，兩粒相倚，叫做雙球菌 (diplococci)。若相佮做一陣，親像葡萄的款，叫做葡萄狀球菌 (葡萄狀球菌, staphylococci)。連續長長親像鍊仔的款，叫做連鎖狀球菌 (連鎖狀球菌, streptococci)。
+> 圓球狀，抑是扁球狀。此個球菌，有的干焦一粒，有的幾若粒佇相同所在；彼個名無相同，兩粒相倚，叫做雙球菌 (diplococci)。若相佮做一陣，親像葡萄的款，叫做葡萄狀球菌 （葡萄狀球菌，staphylococci）。連續長長親像鍊仔的款，叫做連鎖狀球菌 （連鎖狀球菌，streptococci）。
 
 ---
 
@@ -262,7 +262,7 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chōe tō͘.
 2. Kán-chōng-khún (桿狀菌, *bacilli*), chiū-sī sòe ki, ti̍t-ti̍t ê khoán-sit.
 
 > **【全漢對照】**  
-> 2. 桿狀菌 (桿狀菌, *bacilli*)，就是細枝，直直的款式。
+> 2. 桿狀菌 （桿狀菌，*bacilli*），就是細枝，直直的款式。
 
 ---
 
@@ -275,7 +275,7 @@ Sòe-khún beh oa̍h, i ê kéng-gū tióh chiàu kì tī ē-tóe ê mi̍h:
 3. Tú-hó ê un-tō͘. Chiah ē hoat-io̍k.
 
 > **【全漢對照】**  
-> 3. 螺旋菌 (螺旋菌, *spirilla*)，親像螺絲的款，有彎曲。  
+> 3. 螺旋菌 （螺旋菌，*spirilla*），親像螺絲的款，有彎曲。  
 > 細菌欲活，伊的境遇著照記佇下底的物：  
 > 1. 水分。  
 > 2. 食物，親像卵白質，抑是肉汁，死的肉彼號。  
@@ -444,9 +444,9 @@ Hì-iām (肺炎, *Pneumonia*).
 Lú-mâ-chit-su (僂痲質斯, *Rheumatism*). Lâng nā keng-kè chiah ê pīⁿ, koh chi̍t pái koh jiám-tio̍h, sī pí bô jiám-tio̍h ê lâng, koh khah khoài.
 
 > **【全漢對照】**
-> 肺炎（肺炎, *Pneumonia*）。
+> 肺炎（肺炎，*Pneumonia*）。
 > 
-> 僂痲質斯（僂痲質斯, *Rheumatism*）。人若經過諸個病，閣一擺閣染著，是比無染著的人，閣較快。
+> 僂痲質斯（僂痲質斯，*Rheumatism*）。人若經過諸個病，閣一擺閣染著，是比無染著的人，閣較快。
 
 ---
 
@@ -473,7 +473,7 @@ Nā ēng hit ê chū-tōng-bián-ėk-sèng ê tōng-bu̍t huih-chheng, lâi chù
       * Jîn-kong-bián-ėk, chù-siā khòng-tók-huih-chheng.
 
 > **【全漢對照】**
-> 若用彼個自動免疫性的動物血清，來注射第二的動物抑是人，連鞭會互這個受著的動物得著免疫質。這個叫做他動免疫。這個是因為彼隻動物的血有發現免疫質，抑是通叫做抗毒素（抗毒素, *antitoxin*）；也這號血清叫做抗毒血清（抗毒血清, *antitoxic serum*）。［也看第 37 章］。佇下底的表有記幾若種的免疫：
+> 若用彼個自動免疫性的動物血清，來注射第二的動物抑是人，連鞭會互這個受著的動物得著免疫質。這個叫做他動免疫。這個是因為彼隻動物的血有發現免疫質，抑是通叫做抗毒素（抗毒素，*antitoxin*）；也這號血清叫做抗毒血清（抗毒血清，*antitoxic serum*）。［也看第 37 章］。佇下底的表有記幾若種的免疫：
 > 
 > * **免疫**
 >   * 先天免疫
@@ -501,7 +501,7 @@ Iām-chèng chiū-sī lâng seng-khu ê cho͘-chit siū-tio̍h siong liáu-āu, 
 *Tī chì sió-khóa ê sū chīn-tiong-ê, tī tōa-ê iā chīn-tiong, tī sió-khóa-ê put-gī, tī tōa-ê iā put-gī (Lō͘-ka 16:10).*
 
 > **【全漢對照】**
-> 佇至小可的事盡忠的，佇大的也盡忠；佇小可的不義，佇大的也不義（路加 16:10）。
+> 佇至小可的事盡忠的，佇大的也盡忠；佇小可的不義，佇大的也不義（路加 16：10）。
 
 <!-- Page 328 End -->
 
@@ -558,7 +558,7 @@ Téng-bīn chit saⁿ hāng hoat-tō͘, kài khoài chhì-giām, chóng-sī nā 
 Téng-bīn só kóng: 1. Tē it tō sī huih siuⁿ chōe ê iām-chèng, in-ūi hō͘ kài-loáh-pâ-pò͘ am-teh ê só͘-chāi, huih-kńg hoat tiùⁿ, hit ūi só lâu-lâi ê huih, pí pêng-siông só ū ê huih khah chōe, chhih ê sî, âng-sek ōe sóa-khui-khì, án-ni thang chai hit tè ê huih, iáu-kú ōe liû-thong ōe tín-tāng. Chit khoán kiò-chòe chhiong-huih (充 血, *hyperæmia*).
 
 > **【全漢對照】**
-> 頂面所講：1. 第一就是血傷多的炎症，因為予芥辣杷布罨著的所在，血管發脹，彼位所流來的血，比平常所有的血較多，揤的時，紅色會徙開去，按呢通知彼塊的血，猶久會流通會振動。這款叫做充血（充血, *hyperæmia*）。
+> 頂面所講：1. 第一就是血傷多的炎症，因為予芥辣杷布罨著的所在，血管發脹，彼位所流來的血，比平常所有的血較多，揤的時，紅色會徙開去，按呢通知彼塊的血，猶久會流通會振動。這款叫做充血（充血，*hyperæmia*）。
 
 <!-- Page 329 End -->
 
@@ -640,7 +640,7 @@ Iām-chèng ê sî, huih-nih ê huih-chiuⁿ tùi m̂ng-sòe-huih-kńg siàm-chh
 
 ![原書插圖 - 第 331 頁 (圖 1)](assets/illustrations/page_331_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 190 tô.—Chiàh-khún-sòe-pau teh chiàh kiat-hu̍t-khún, kā i phah-biát (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 190 tô.—Chiàh-khún-sòe-pau teh chiàh kiat-hu̍t-khún, kā i phah-biát (Rose and Carless).</em></p>
 
 </div>
 
@@ -658,7 +658,7 @@ Chhin-chhiūⁿ ēng kài-loa̍h-phâ-pò͘ hō͘ lâng ê phê-bah khí-phâ, h
 Pe̍h-huih-kiû ū chi̍t-ê te̍k-pia̍t ê miâ, kiò-chòe chia̍h-khún-sòe-pau (食菌細胞, phagocyte). Chit-ê sī ná chhin-chhiūⁿ sàu koe-lō͘-ê, in-ūi i ê kong-iōng ê chi̍t hāng, sī teh chia̍h huih-lāi it-khài bô-lō͘-ēng ê mi̍h, kap teh siau-hòa lóng-chóng ê bî-seng-bu̍t, kā i phah-bia̍t; thèng-hāu i só͘ tio̍h chòe ê sū chòe liáu, i pún thé iā sòa siau-hòa bô--khì (tē 190 tô͘).
 
 > **【全漢對照】**
-> 白血球有一個特別的名，叫做食菌細胞（食菌細胞, phagocyte）。這個是若親像掃街路的，因為伊的功用的一項，是咧食血內一切無路用的物，佮咧消化攏總的微生物，共伊撲滅；聽候伊所著做的事做了，伊本體也續消化無--去（第 190 圖）。
+> 白血球有一個特別的名，叫做食菌細胞（食菌細胞，phagocyte）。這個是若親像掃街路的，因為伊的功用的一項，是咧食血內一切無路用的物，佮咧消化攏總的微生物，共伊撲滅；聽候伊所著做的事做了，伊本體也續消化無--去（第 190 圖）。
 
 ---
 
@@ -684,7 +684,7 @@ Iām-chèng chèng-chōng ê chóng-lūn ū nñg khoán: (1) kan-ta chi̍t só͘
 > 2. 腫脹（Swelling）。
 > 3. 熱（Heat）。
 > 4. 痛（Pain）。
-> 5. 官能阻礙（官能阻礙, Loss of function）。
+> 5. 官能阻礙（官能阻礙，Loss of function）。
 
 ---
 
@@ -709,7 +709,7 @@ Nā-sī chit gō hāng lóng ū, chiū chai tiāⁿ-tio̍h sī iām-chèng; nā 
 1. Hoat âng sī huih-kńg tiùⁿ, pí pêng-siông sî ê huih khah chōe, hit ê âng sī tùi chhiah-huih-kiû chōe ê iân-kò͘. Âng-sek ê tōa sió, sī chāi iām ê khin-tāng. Nā-sī ōe khoài hó ê iām-chèng, i ê sek chin âng iā khah chheng. Nā khah oh-tit hó ê iām-chèng, hit ê âng ê
 
 > **【全漢對照】**
-> 1. 發紅是血管脹，比平常時的血較濟，彼個紅是對赤血球濟的緣故。紅色的量（大小），是在炎的輕重。若是會快好的炎症，伊的色真紅也較清。若較僫得好的炎症，彼個紅的...
+> 1. 發紅是血管脹，比平常時的血較濟，彼個紅是對赤血球濟的緣故。紅色的量（大小），是在炎的輕重。若是會快好的炎症，伊的色真紅也較清。若較僫得好的炎症，彼個紅的。..
 
 <!-- Page 331 End -->
 
@@ -872,7 +872,7 @@ Tē gō͘ : Nā chi̍t só͘-chāi hoat-iām put-chí tāng, tī hoat-iām ê s�
 hit hō, che kiò-chòe hoāi-chu (壞疽, *gangrene*). Nā-sī kut í-keng pháiⁿ-khì, miâ kiò kut-hoāi-chu (sí-kut á-sī chhàu-kut, *necrosed bone*).
 
 > **【全漢對照】**
-> 彼號，這叫做壞疽 (壞疽, *gangrene*)。若是骨已經歹去，名叫骨壞疽 (死骨抑是臭骨, *necrosed bone*)。
+> 彼號，這叫做壞疽 （壞疽，*gangrene*）。若是骨已經歹去，名叫骨壞疽 （死骨抑是臭骨，*necrosed bone*）。
 
 ---
 

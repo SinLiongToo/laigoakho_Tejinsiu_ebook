@@ -17,7 +17,7 @@ Siau-hòa-khì (消化器, *the alimentary system*), sī siau-hòa chia̍h-mi̍h
 > ### 第 4 章
 > ### 論消化器系統
 > 
-> 消化器（消化器, *the alimentary system*），是消化食物的用處，是一條的膜管，佮嘴齒、涎泉（唾腺, *salivary glands*），佮兩個泉體，攏排列佇下底（第 35 圖）：
+> 消化器（消化器，*the alimentary system*），是消化食物的用處，是一條的膜管，佮嘴齒、涎泉（唾腺，*salivary glands*），佮兩個泉體，攏排列佇下底（第 35 圖）：
 
 ---
 
@@ -44,25 +44,25 @@ Siau-hòa-khì (消化器, *the alimentary system*), sī siau-hòa chia̍h-mi̍h
 
 > **【全漢對照】**
 > - 嘴 (*Mouth*)。
-> - 咽頭 (咽頭, *Pharynx*)。
-> - 食道 (食道, *Oesophagus*)。
+> - 咽頭 （咽頭，*Pharynx*）。
+> - 食道 （食道，*Oesophagus*）。
 > - 胃 (*Stomach*)。
 > - 小腸
->   - 十二指腸 (十二指腸, *Duodenum*)。
->   - 空腸 (空腸, *Jejunum*)。
->   - 回腸 (回腸, *Ileum*)。
+>   - 十二指腸 （十二指腸，*Duodenum*）。
+>   - 空腸 （空腸，*Jejunum*）。
+>   - 回腸 （回腸，*Ileum*）。
 > - 大腸
->   - 盲腸 (盲腸, *Caecum*)。
->   - 蟲樣垂 (蟲樣垂, *Vermiform appendix*)。
->   - 結腸 (結腸, *Colon*)
+>   - 盲腸 （盲腸，*Caecum*）。
+>   - 蟲樣垂 （蟲樣垂，*Vermiform appendix*）。
+>   - 結腸 （結腸，*Colon*）
 >     - 上行結腸 (*Ascending colon*)。
 >     - 橫行結腸 (*Transverse colon*)。
 >     - 下行結腸 (*Descending colon*)。
->   - 直腸 (直腸, *Rectum*)。
+>   - 直腸 （直腸，*Rectum*）。
 > - 嘴齒 (*Teeth*)。
-> - 涎泉 (唾液腺, *Salivary glands*)。
-> - 肝臟 (肝臟, *Liver*)。
-> - 膵臟 (膵臟. *Pancreas*)。
+> - 涎泉 （唾液腺，*Salivary glands*）。
+> - 肝臟 （肝臟，*Liver*）。
+> - 膵臟 （膵臟。*Pancreas*）。
 
 ---
 
@@ -73,7 +73,7 @@ Chhùi-khang pō͘-ūi tī bīn ê ē-tóe, tī siōng-hā go̍k-kut (上下顎�
 > **【全漢對照】**
 > ### 嘴。
 > 
-> 嘴孔部位佇面的下底，佇上下顎骨（上下顎骨, *upper and lower jaw*）的中間。伊的形狀是合佇抱食物，佮含食物的用處。
+> 嘴孔部位佇面的下底，佇上下顎骨（上下顎骨，*upper and lower jaw*）的中間。伊的形狀是合佇抱食物，佮含食物的用處。
 
 ---
 
@@ -94,7 +94,7 @@ Chhùi-khang pō͘-ūi tī bīn ê ē-tóe, tī siōng-hā go̍k-kut (上下顎�
 
 ![原書插圖 - 第 58 頁 (圖 1)](assets/illustrations/page_058_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 35 tô:—Siau-hòa-khì tô: s, ūi ; oe, chia̍h-tō ; sp, pî-chōng ; i, sió-tng ; l, koaⁿ-chōng ; gb, táⁿ-lông ; va, thâng-iūⁿ-sûi ; c, bông-tng ; ac, siōng-hêng-kiat-tng ; tc, hoâiⁿ-hêng-kiat-tng ; dc, hā-hêng-kiat-tng ; r, tit-tng ; a, kong-bûn. (From "Training in First Aid and Nursing," The Scientific Press, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 35 tô:—Siau-hòa-khì tô: s, ūi ; oe, chia̍h-tō ; sp, pî-chōng ; i, sió-tng ; l, koaⁿ-chōng ; gb, táⁿ-lông ; va, thâng-iūⁿ-sûi ; c, bông-tng ; ac, siōng-hêng-kiat-tng ; tc, hoâiⁿ-hêng-kiat-tng ; dc, hā-hêng-kiat-tng ; r, tit-tng ; a, kong-bûn. (From "Training in First Aid and Nursing," The Scientific Press, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -148,7 +148,7 @@ Tē 35 tô͘:—Siau-hòa-khì tô͘: s, ūi ; oe, chia̍h-tō ; sp, pî-chōng 
 
 > **【全漢對照】**
 > ### 【圖說】
-> 第 35 圖：——消化器圖：s, 胃；oe, 食道；sp, 脾臟；i, 小腸；l, 肝臟；gb, 膽囊；va, 蟲樣垂；c, 盲腸；ac, 上行結腸；tc, 橫行結腸；dc, 下行結腸；r, 直腸；a, 肛門。（取材自《急救與看護訓練》，科學出版社有限公司出版。）
+> 第 35 圖：——消化器圖：s，胃；oe，食道；sp，脾臟；i，小腸；l，肝臟；gb，膽囊；va，蟲樣垂；c，盲腸；ac，上行結腸；tc，橫行結腸；dc，下行結腸；r，直腸；a，肛門。（取材自《急救與看護訓練》，科學出版社有限公司出版。）
 
 ---
 
@@ -158,7 +158,7 @@ Lí ti̍h chīn-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû si�
 
 > **【全漢對照】**
 > ### 【格言／聖經金句】
-> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2:10）。
+> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2：10）。
 
 <!-- Page 058 End -->
 
@@ -172,11 +172,11 @@ Lí ti̍h chīn-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû si�
 
 ![原書插圖 - 第 59 頁 (圖 1)](assets/illustrations/page_059_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 36 tô:—Leng-khí tò-pêng ê chhùi-khí : A, tē it mñg-khí ; B, tē jī mñg-khí ; CH, káu-khí; CHH, tē it sió-khū-khí; E, tē jī sió-khū-khí. Chiah ê sò·-jī ê hō-thâu sī chí sím-mih géh hoat-chhut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 36 tô:—Leng-khí tò-pêng ê chhùi-khí : A, tē it mñg-khí ; B, tē jī mñg-khí ; CH, káu-khí; CHH, tē it sió-khū-khí; E, tē jī sió-khū-khí. Chiah ê sò·-jī ê hō-thâu sī chí sím-mih géh hoat-chhut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 ![原書插圖 - 第 59 頁 (圖 2)](assets/illustrations/page_059_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 37 tô:—Chiàⁿ-pêng kú-sèng-khí ê khí-lia̍t, tùi gōa-bīn khòaⁿ-ê : 1, tē saⁿ tōa-khū-khí (tì-khí) ; 2, 3, tē jī kap tē it tōa-khū-khí ; 4, 5, tē jī kap tē it sió-khū-khí ; 6, káu-khí ; 7, 8, tē jī kap tē it mñg-khí (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 37 tô:—Chiàⁿ-pêng kú-sèng-khí ê khí-lia̍t, tùi gōa-bīn khòaⁿ-ê : 1, tē saⁿ tōa-khū-khí (tì-khí) ; 2, 3, tē jī kap tē it tōa-khū-khí ; 4, 5, tē jī kap tē it sió-khū-khí ; 6, káu-khí ; 7, 8, tē jī kap tē it mñg-khí (Cunningham).</em></p>
 
 </div>
 
@@ -242,7 +242,7 @@ Lán lâng tòa tī sè-kan, m̄-sī in-ūi beh chhit-thô, ná chhin-chhiūⁿ 
 
 ![原書插圖 - 第 60 頁 (圖 1)](assets/illustrations/page_060_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 38 tô.—Chhùi-khí chhiat tùi pêng : a, hoat-lông-chit ; b, chhīuⁿ-gê-chit ; c, khí-khang ; d, hoat-lông-chit kap peh-ok-chit, sio-chiap ê só·-chāi ; e, peh-ok-chit ; f, khí-chô-kut-mó͘h. (Leroy, from “Anatomy and physiology for Nurses,” W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 38 tô.—Chhùi-khí chhiat tùi pêng : a, hoat-lông-chit ; b, chhīuⁿ-gê-chit ; c, khí-khang ; d, hoat-lông-chit kap peh-ok-chit, sio-chiap ê só·-chāi ; e, peh-ok-chit ; f, khí-chô-kut-mó͘h. (Leroy, from “Anatomy and physiology for Nurses,” W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -324,7 +324,7 @@ Chia̍h-tō: Ian-thâu āu-bīn ē-tóe khí, kàu ūi ê ji̍p-kháu chí, kiò
 Tē 38 tô͘.—Chhùi-khí chhiat tùi pêng: a, hoat-lông-chit; b, chhiūⁿ-gê-chit; c, khí-khang; d, hoat-lông-chit kap pe̍h-ok-chit, sio-chiap ê só͘-chāi; e, pe̍h-ok-chit; f, khí-chô-kut-mo̍h. (Leroy, from “Anatomy and physiology for Nurses,” W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> 第 38 圖。—嘴齒切對平：a, 琺瑯質；b, 象牙質；c, 齒孔；d, 琺瑯質佮白堊質，相接的所在；e, 白堊質；f, 齒槽骨膜。(Leroy, from “Anatomy and physiology for Nurses,” W. B. Saunders Co., publishers.)
+> 第 38 圖。—嘴齒切對平：a，琺瑯質；b，象牙質；c，齒孔；d，琺瑯質佮白堊質，相接的所在；e，白堊質；f，齒槽骨膜。(Leroy, from “Anatomy and physiology for Nurses,” W. B. Saunders Co., publishers.)
 
 ---
 
@@ -347,7 +347,7 @@ Ióh-tû tióh só, bô só, m̄-thang khì pàt-ūi.
 
 ![原書插圖 - 第 61 頁 (圖 1)](assets/illustrations/page_061_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 39 tô.—Chhùi-lāi ê nōa-chôaⁿ ê tô : 1, chíh-kut ; 2, 3, kun-bah ; 4, hā-gók-kut ê ē-bīn-pêng ; 5, 7, gók-ē-chôaⁿ ; 6, kun-bah ; 8, liâm-mó͘h (thâi-ti̍h) ; 9, kun-bah ; 10, hī-ē-chôaⁿ ; 11, hī-ē-chôaⁿ-kńg ê chhùi ; 12, hī-ē-chôaⁿ-kńg ; 14, gók-ē chôaⁿ-kńg ; 13, 15, chíh-ē-chôaⁿ-kńg ; 16, chíh-ē-chôaⁿ (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 39 tô.—Chhùi-lāi ê nōa-chôaⁿ ê tô : 1, chíh-kut ; 2, 3, kun-bah ; 4, hā-gók-kut ê ē-bīn-pêng ; 5, 7, gók-ē-chôaⁿ ; 6, kun-bah ; 8, liâm-mó͘h (thâi-ti̍h) ; 9, kun-bah ; 10, hī-ē-chôaⁿ ; 11, hī-ē-chôaⁿ-kńg ê chhùi ; 12, hī-ē-chôaⁿ-kńg ; 14, gók-ē chôaⁿ-kńg ; 13, 15, chíh-ē-chôaⁿ-kńg ; 16, chíh-ē-chôaⁿ (Cunningham).</em></p>
 
 </div>
 
@@ -358,7 +358,7 @@ Ióh-tû tióh só, bô só, m̄-thang khì pàt-ūi.
 *diaphragm*), chiah chiap-liân tī ūi (tē 41 tô͘). Thun si̍t-bu̍t ê sî, ēng i ê kun-bah kiu ê la̍t, chiong si̍t-bu̍t kā chhih-lo̍h-khì; chiū-sī nā beh thun-lo̍h-khì, hit ê chia̍h-tō ê kun-bah ū kiu, lâi chhih tī si̍t-bu̍t, í-kip tī si̍t-bu̍t ê téng-bīn. Tú-tú hit sî, tī si̍t-bu̍t-ē, hit ê kun-bah ū chhun. Án-ni tī si̍t-bu̍t-téng kun-bah ū kiu, tī si̍t-bu̍t-ē kun-bah ū chhun; tùi chit nñg hāng, si̍t-bu̍t chiū ōe chiām-chiām lo̍h-khì ji̍p ūi.
 
 > **【全漢對照】**  
-> **[吞食物]**  
+> **［吞食物］**  
 > *diaphragm*〔橫膈膜〕），才接連佇胃（第 41 圖）。吞食物的時，用伊的筋肉縮的力，將食物共揤落去；就是若欲吞落去，彼個食道的筋肉有縮，來揤佇食物，以及佇食物的頂面。拄拄彼時，佇食物下，彼個筋肉有伸。按呢佇食物頂筋肉有縮，佇食物下筋肉有伸；對此兩項，食物就會漸漸落去入胃。
 
 ---
@@ -368,7 +368,7 @@ Ióh-tû tióh só, bô só, m̄-thang khì pàt-ūi.
 **Tē 39 tô͘.**—Chhùi-lāi ê nōa-chôaⁿ ê tô͘ : 1, chíh-kut ; 2, 3, kun-bah ; 4, hā-go̍k-kut ê ē-bīn-pêng ; 5, 7, go̍k-ē-chôaⁿ ; 6, kun-bah ; 8, liâm-mo̍h (thâi-tio̍h) ; 9, kun-bah ; 10, hī-ē-chôaⁿ ; 11, hī-ē-chôaⁿ-kńg ê chhùi ; 12, hī-ē-chôaⁿ-kńg ; 14, go̍k-ē chôaⁿ-kńg ; 13, 15, chíh-ē-chôaⁿ-kńg ; 16, chíh-ē-chôaⁿ (Cunningham).
 
 > **【全漢對照】**  
-> **第 39 圖。**——嘴內的涎泉的圖：1, 舌骨；2, 3, 筋肉；4, 下顎骨的下面爿；5, 7, 顎下泉；6, 筋肉；8, 黏膜（治著）；9, 筋肉；10, 耳下泉；11, 耳下泉管的嘴；12, 耳下泉管；14, 顎下泉管；13, 15, 舌下泉管；16, 舌下泉（Cunningham）。
+> **第 39 圖。**——嘴內的涎泉的圖：1，舌骨；2, 3，筋肉；4，下顎骨的下面爿；5, 7，顎下泉；6，筋肉；8，黏膜（治著）；9，筋肉；10，耳下泉；11，耳下泉管的嘴；12，耳下泉管；14，顎下泉管；13, 15，舌下泉管；16，舌下泉（Cunningham）。
 
 ---
 
@@ -377,8 +377,8 @@ Ióh-tû tióh só, bô só, m̄-thang khì pàt-ūi.
 Tī hoâiⁿ-keh-mo̍h ê ē-tóe tò-pêng tām-po̍h, tī koaⁿ ê ē-bīn, ū chi̍t-ê ūi. Ūi ê hêng-chōng sī lâi-á khoán ê mo̍h-lông. Tò-pêng khah phòng tōa, kiò-chòe ūi-tóe (胃底, *fundus*); chiàⁿ-pêng sió-khóa phòng, ū ūi-chhut-kháu-pō͘, kiò-chòe hiu-bûn-pō͘ (幽門部, *pylorus*). Téng-bīn ū chi̍t-ê khang liân tī chia̍h-tō, chiū-sī ūi-ji̍p-kháu, kiò-chòe pûn-bûn (噴門, *cardiac orifice*, tē 41 tô͘ 5 hō).
 
 > **【全漢對照】**  
-> **[胃]**  
-> 佇橫膈膜的底下倒爿淡薄，佇肝的下面，有一個胃。胃的形狀是梨仔款的膜囊。倒爿較膨大，叫做胃底（胃底, *fundus*）；正爿小寡膨，有胃出口部，叫做幽門部（幽門部, *pylorus*）。頂面有一個孔連佇食道，就是胃入口，叫做噴門（噴門, *cardiac orifice*, 第 41 圖 5 號）。
+> **［胃］**  
+> 佇橫膈膜的底下倒爿淡薄，佇肝的下面，有一個胃。胃的形狀是梨仔款的膜囊。倒爿較膨大，叫做胃底（胃底，*fundus*）；正爿小寡膨，有胃出口部，叫做幽門部（幽門部，*pylorus*）。頂面有一個孔連佇食道，就是胃入口，叫做噴門（噴門，*cardiac orifice*，第 41 圖 5 號）。
 
 ---
 
@@ -399,7 +399,7 @@ Kah hù-bo̍k liáu, tio̍h sûn chíng-thâu-á ê sek, á-sī ū chéng bô.
 
 ![原書插圖 - 第 62 頁 (圖 1)](assets/illustrations/page_062_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 40 tô.—Phīⁿ, chhùi, âu-thâu, kūn-óa chiàⁿ-tiong toān-bīn : 1, phīⁿ-m̂g, tī chêng ê phīⁿ-kháu-piⁿ ; 2, hā-kah-kài-kut ; 3, Iâⁿ-sī kńg ian-thâu-kháu ; 4, nńg-chhùi-kòa ê téng-bīn pêng ; 5, chih ê ian-thâu pêng ; 6, hōe-iàm ; 7, âu-thâu-khì-kńg-kháu ê piⁿ-á ; 8, kah-chōng-nńg-kut ; 9, hōe-iàm ê nńg-kut ; 10, chih-kut ; 11, chih ê kun-bah liân tī hā-gók-kut kap chih-kut ; 12, chhùi-khí ; 13, téng-chhùi-kòa ; 14, chiàh-tō ê khí-thâu ; 15, nńg-chhùi-kòa ê kun-bah ; 16, khoân-chōng-nńg-kut. (From Cunningham's “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
+<p class="figure-caption"><em>Tē 40 tô.—Phīⁿ, chhùi, âu-thâu, kūn-óa chiàⁿ-tiong toān-bīn : 1, phīⁿ-m̂g, tī chêng ê phīⁿ-kháu-piⁿ ; 2, hā-kah-kài-kut ; 3, Iâⁿ-sī kńg ian-thâu-kháu ; 4, nńg-chhùi-kòa ê téng-bīn pêng ; 5, chih ê ian-thâu pêng ; 6, hōe-iàm ; 7, âu-thâu-khì-kńg-kháu ê piⁿ-á ; 8, kah-chōng-nńg-kut ; 9, hōe-iàm ê nńg-kut ; 10, chih-kut ; 11, chih ê kun-bah liân tī hā-gók-kut kap chih-kut ; 12, chhùi-khí ; 13, téng-chhùi-kòa ; 14, chiàh-tō ê khí-thâu ; 15, nńg-chhùi-kòa ê kun-bah ; 16, khoân-chōng-nńg-kut. (From Cunningham's “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
 
 </div>
 
@@ -411,7 +411,7 @@ Kah hù-bo̍k liáu, tio̍h sûn chíng-thâu-á ê sek, á-sī ū chéng bô.
 
 > **【全漢對照】**
 > **幽門**
-> 下面有閣一个孔佮小腸相透，就是胃出口，叫做幽門（幽門, pyloric orifice）。這个幽門有一个環狀的筋肉，會互物出，也互物袂倒轉行（第 42 圖）。
+> 下面有閣一个孔佮小腸相透，就是胃出口，叫做幽門（幽門，pyloric orifice）。這个幽門有一个環狀的筋肉，會互物出，也互物袂倒轉行（第 42 圖）。
 
 ---
 
@@ -421,7 +421,7 @@ Kah hù-bo̍k liáu, tio̍h sûn chíng-thâu-á ê sek, á-sī ū chéng bô.
 
 > **【全漢對照】**
 > **胃的壁**
-> 胃的壁佇胃面下，是腹肚膜的摺包咧；中央是三層的筋肉來成伊；內面是粘膜。粘膜內有兩款的胃液腺（胃液腺, gastric glands）咧出胃液來消化食物（第 43, 44 圖）。
+> 胃的壁佇胃面下，是腹肚膜的摺包咧；中央是三層的筋肉來成伊；內面是粘膜。粘膜內有兩款的胃液腺（胃液腺，gastric glands）咧出胃液來消化食物（第 43, 44 圖）。
 
 ---
 
@@ -450,7 +450,7 @@ Cháp-jī-chí-tng sī sió-tng ê khí-thâu tùi hiu-bûn (ūi-chhut-kháu) kh
 **Tē 40 tô͘.**—Phīⁿ, chhùì, âu-thâu, kūn-óa chiàⁿ-tiong toān-bīn: 1, phīⁿ-mng, tī chêng ê phīⁿ-kháu-piⁿ; 2, hā-kah-kài-kut; 3, Iâⁿ-sī kńg ian-thâu-kháu; 4, nńg-chhùì-kòa ê téng-bīn pêng; 5, chih ê ian-thâu pêng; 6, hōe-iàm; 7, âu-thâu-khì-kńg-kháu ê piⁿ-á; 8, kah-chōng-nńg-kut; 9, hōe-iàm ê nńg-kut; 10, chih-kut; 11, chih ê kun-bah liân tī hā-gók-kut kap chih-kut; 12, chhùì-khí; 13, téng-chhùì-kòa; 14, chia̍h-tō ê khí-thâu; 15, nńg-chhùi-kòa ê kun-bah; 16, khoân-chōng-nńg-kut. (From Cunningham’s “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)
 
 > **【全漢對照】**
-> **第 40 圖。**——鼻、嘴、喉頭，近倚正中斷面：1, 鼻毛，佇前的鼻孔邊；2, 下甲介骨（下鼻甲）；3, 歐氏管（Eustachian tube）咽頭口；4, 軟嘴蓋的頂面旁；5, 舌的咽頭旁；6, 會厭；7, 喉頭氣管孔的邊仔；8, 甲狀軟骨；9, 會厭的軟骨；10, 舌骨；11, 舌的筋肉連佇下顎骨佮舌骨；12, 嘴齒；13, 頂嘴蓋；14, 食道的起頭；15, 軟嘴蓋的筋肉；16, 環狀軟骨。（取材自 Cunningham 著《解剖學》，Henry Frowde 與 Hodder and Stoughton 出版。）
+> **第 40 圖。**——鼻、嘴、喉頭，近倚正中斷面：1，鼻毛，佇前的鼻孔邊；2，下甲介骨（下鼻甲）；3，歐氏管（Eustachian tube）咽頭口；4，軟嘴蓋的頂面旁；5，舌的咽頭旁；6，會厭；7，喉頭氣管孔的邊仔；8，甲狀軟骨；9，會厭的軟骨；10，舌骨；11，舌的筋肉連佇下顎骨佮舌骨；12，嘴齒；13，頂嘴蓋；14，食道的起頭；15，軟嘴蓋的筋肉；16，環狀軟骨。（取材自 Cunningham 著《解剖學》，Henry Frowde 與 Hodder and Stoughton 出版。）
 
 ---
 
@@ -459,7 +459,7 @@ Cháp-jī-chí-tng sī sió-tng ê khí-thâu tùi hiu-bûn (ūi-chhut-kháu) kh
 Jin-ài bô hoaⁿ-hí put-gī, sī kap chin-lí saⁿ-kap hoaⁿ-hí (I Ko-lîm-to 13 : 6).
 
 > **【全漢對照】**
-> 仁愛無歡喜不義，是佮真理相佮歡喜（I 哥林多 13 : 6）。
+> 仁愛無歡喜不義，是佮真理相佮歡喜（I 哥林多 13：6）。
 
 <!-- Page 062 End -->
 
@@ -473,7 +473,7 @@ Jin-ài bô hoaⁿ-hí put-gī, sī kap chin-lí saⁿ-kap hoaⁿ-hí (I Ko-lîm
 
 ![原書插圖 - 第 63 頁 (圖 1)](assets/illustrations/page_063_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 41 tô.—Hoʻ-khip-khì kap siau-hòa-khì tô : 1, nng-chhuì-kòa ; 2, Iûⁿ-sī kńg ian-thâu-kháu ; 3. ian-thâu ; 4, chiảh-tō ; 5, pûn-bûn ; 6, hoâiⁿ-keh-mỏ͘h ; 7, pî-chōng ; 8 hoâiⁿ-hêng-kiat-tng teh oat tùi ē-tóe ê pō͘-ūi, kiò-chòe pî-oan-khiok ; 9, chảp-jī-chí-tńg khang-tńg tiong-kan ê oan-khiok ; 10, khang-tńg ; 11, hā-hêng-kiat-tńg ; 12, tit-tńg ; 13, hôe-tńg ; 14, thâng-iūⁿ-súi ; 15, bōng-tńg ; 16, hôe-bōng-piān ê pō͘-ūi ; 17, siōng-hêng-kiat-tńg ; 18, kiat-tńg ê koaⁿ-oan-khiok ; 19, táⁿ-kńg ; 20, hiu-bûn-pō͘ ; 21, táⁿ-lộng ; 22, chiảh-tō ; 23, chóng-khì-kúg khui-chhe ; 24, chóng-khì-kńg ; 25, âu-thâu ; 26, âu-thâu-ian-thâu-kháu ; 27, chhùi-khang ; 27a, chêng-tiâⁿ; 28 phīⁿ-khang ; 29, tò-hì; 30, chiàⁿ-hì; 31, koaⁿ-chōng ; 32, ūi ; 33, chūi-chōng ; 34, hoâiⁿ-hêng-kiat-tńg. (By permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 41 tô.—Hoʻ-khip-khì kap siau-hòa-khì tô : 1, nng-chhuì-kòa ; 2, Iûⁿ-sī kńg ian-thâu-kháu ; 3. ian-thâu ; 4, chiảh-tō ; 5, pûn-bûn ; 6, hoâiⁿ-keh-mỏ͘h ; 7, pî-chōng ; 8 hoâiⁿ-hêng-kiat-tng teh oat tùi ē-tóe ê pō͘-ūi, kiò-chòe pî-oan-khiok ; 9, chảp-jī-chí-tńg khang-tńg tiong-kan ê oan-khiok ; 10, khang-tńg ; 11, hā-hêng-kiat-tńg ; 12, tit-tńg ; 13, hôe-tńg ; 14, thâng-iūⁿ-súi ; 15, bōng-tńg ; 16, hôe-bōng-piān ê pō͘-ūi ; 17, siōng-hêng-kiat-tńg ; 18, kiat-tńg ê koaⁿ-oan-khiok ; 19, táⁿ-kńg ; 20, hiu-bûn-pō͘ ; 21, táⁿ-lộng ; 22, chiảh-tō ; 23, chóng-khì-kúg khui-chhe ; 24, chóng-khì-kńg ; 25, âu-thâu ; 26, âu-thâu-ian-thâu-kháu ; 27, chhùi-khang ; 27a, chêng-tiâⁿ; 28 phīⁿ-khang ; 29, tò-hì; 30, chiàⁿ-hì; 31, koaⁿ-chōng ; 32, ūi ; 33, chūi-chōng ; 34, hoâiⁿ-hêng-kiat-tńg. (By permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -482,7 +482,7 @@ Jin-ài bô hoaⁿ-hí put-gī, sī kap chin-lí saⁿ-kap hoaⁿ-hí (I Ko-lîm
 Tē 41 tô͘.—Ho͘-khip-khì kap siau-hòa-khì tô͘ : 1, nńg-chhùi-kòa ; 2, Iûⁿ-sī kńg ian-thâu-kháu ; 3. ian-thâu ; 4, chia̍h-tō ; 5, pùn-bûn ; 6, hoa̍iⁿ-keh-mo̍͘h ; 7, pî-chōng ; 8 hoa̍iⁿ-hêng-kiat-tn̂g teh oat tùi ē-tóe ê pō͘-ūi, kiò-chòe pî-oan-khiok ; 9, cha̍p-jī-chí-tn̂g khang-tn̂g tiong-kan ê oan-khiok ; 10, khang-tn̂g ; 11, hā-hêng-kiat-tn̂g ; 12, ti̍t-tn̂g ; 13, hôe-tn̂g ; 14, thâng-iūⁿ-súi ; 15, bōng-tn̂g ; 16, hôe-bōng-piān ê pō͘-ūi ; 17, siōng-hêng-kiat-tn̂g ; 18, kiat-tn̂g ê kóaⁿ-oan-khiok ; 19, táⁿ-kńg ; 20, hiu-bûn-pō͘ ; 21, táⁿ-lōng ; 22, chia̍h-tō ; 23, chóng-khì-kúg khui-chhe ; 24, chóng-khì-kńg ; 25, âu-thâu ; 26, âu-thâu-ian-thâu-kháu ; 27, chhùi-khang ; 27a, chêng-tîaⁿ; 28 phīⁿ-khang ; 29, tò-hì ; 30, chiàⁿ-hì ; 31, kóaⁿ-chōng ; 32, ūi ; 33, chūi-chōng ; 34, hoa̍iⁿ-hêng-kiat-tn̂g. (By permission of W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> 第 41 圖。——呼吸器佮消化器圖：1, 軟喙蓋；2, 尤氏管咽頭口；3, 咽頭；4, 食道；5, 賁門；6, 橫膈膜；7, 脾臟；8, 橫行結腸咧斡對底的部位，叫做脾彎曲；9, 十二指腸空腸中間的彎曲；10, 空腸；11, 下行結腸；12, 直腸；13, 迴腸；14, 蟲樣垂；15, 盲腸；16, 迴盲弁的部位；17, 上行結腸；18, 結腸的肝彎曲；19, 膽管；20, 幽門部；21, 膽囊；22, 食道；23, 總氣管開杈；24, 總氣管；25, 喉頭；26, 喉頭咽頭口；27, 喙空；27a, 前埕；28, 鼻空；29, 倒肺；30, 正肺；31, 肝臟；32, 胃；33, 膵臟；34, 橫行結腸。(By permission of W. B. Saunders Co., publishers.)
+> 第 41 圖。——呼吸器佮消化器圖：1，軟喙蓋；2，尤氏管咽頭口；3，咽頭；4，食道；5，賁門；6，橫膈膜；7，脾臟；8，橫行結腸咧斡對底的部位，叫做脾彎曲；9，十二指腸空腸中間的彎曲；10，空腸；11，下行結腸；12，直腸；13，迴腸；14，蟲樣垂；15，盲腸；16，迴盲弁的部位；17，上行結腸；18，結腸的肝彎曲；19，膽管；20，幽門部；21，膽囊；22，食道；23，總氣管開杈；24，總氣管；25，喉頭；26，喉頭咽頭口；27，喙空；27a，前埕；28，鼻空；29，倒肺；30，正肺；31，肝臟；32，胃；33，膵臟；34，橫行結腸。(By permission of W. B. Saunders Co., publishers.)
 
 <!-- Page 063 End -->
 
@@ -525,7 +525,7 @@ Hôe-tng chiap-sòa tī khang-tng ê ē-tóe, kàu tī chiàⁿ-pêng ê tōa-tn
 Tē 42 tô:—Ūi chhiat-tn̄g-bīn ê tô thang khòaⁿ lāi-bīn ê liām-mo̍h: 1, chia̍h-tō; 2, ūi-té; 3, chūi-kńg; 4, chūi-kńg kap táⁿ-kńg chiap-ji̍p cha̍p-jī-chí-tng; 5, cha̍p-jī-chí-tng; 6, táⁿ-lông; 7, koaⁿ-kńg; 8, hiu-bûn. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)
 
 > **【全漢對照】**
-> 第 42 圖：——胃切斷面的圖通看內面的黏膜：1, 食道；2, 胃底；3, 膵管；4, 膵管及膽管接入十二指腸；5, 十二指腸；6, 膽囊；7, 肝管；8, 幽門。(From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)
+> 第 42 圖：——胃切斷面的圖通看內面的黏膜：1，食道；2，胃底；3，膵管；4，膵管及膽管接入十二指腸；5，十二指腸；6，膽囊；7，肝管；8，幽門。(From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)
 
 ---
 
@@ -552,7 +552,7 @@ Siōng-hêng-kiat-tng ê khí-thâu ū chit ê phòng tōa ê só-chāi, kiò-ch
 Koh tī pa̍t-ê pêng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個旁無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4: 12）。
+> 閣佇別個旁無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 064 End -->
 
@@ -566,11 +566,11 @@ Koh tī pa̍t-ê pêng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa�
 
 ![原書插圖 - 第 65 頁 (圖 1)](assets/illustrations/page_065_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 43 tô.—Ūi-ėk-chôaⁿ: Chit ê tô sī beh chí-bêng ūi-ėk-chôaⁿ kap mñg-sòe-huih-kńg ū chhin-ji̍t ê kan-sia̍p. V, chēng-me̍h-kńg; A, tōng-me̍h-kńg ; 1, Ūi ê lāi-bīn ; 2 ūi-ėk-chôaⁿ-kńg ; 3 ūi-ėk-chôaⁿ ê sòe-pau teh hun-pì sng-sèng ê ūi-ėk. (From Lewis' “Anatomy and Physiology for Nurses.”)</em></p>
+<p class="figure-caption"><em>Tē 43 tô.—Ūi-ėk-chôaⁿ: Chit ê tô sī beh chí-bêng ūi-ėk-chôaⁿ kap mñg-sòe-huih-kńg ū chhin-ji̍t ê kan-sia̍p. V, chēng-me̍h-kńg; A, tōng-me̍h-kńg ; 1, Ūi ê lāi-bīn ; 2 ūi-ėk-chôaⁿ-kńg ; 3 ūi-ėk-chôaⁿ ê sòe-pau teh hun-pì sng-sèng ê ūi-ėk. (From Lewis' “Anatomy and Physiology for Nurses.”)</em></p>
 
 ![原書插圖 - 第 65 頁 (圖 2)](assets/illustrations/page_065_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 44 tô.—Chit ê tô sī chhin-chhiūⁿ tē 42, chòng-sī tī chia ū ūi-līm-pa-kńg (L) ; 2, ūi-ėk-chôaⁿ-kńg.</em></p>
+<p class="figure-caption"><em>Tē 44 tô.—Chit ê tô sī chhin-chhiūⁿ tē 42, chòng-sī tī chia ū ūi-līm-pa-kńg (L) ; 2, ūi-ėk-chôaⁿ-kńg.</em></p>
 
 </div>
 
@@ -579,7 +579,7 @@ Koh tī pa̍t-ê pêng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa�
 (蟲樣垂, *vermiform appendix*). Tiong-ng ū khang thàu tī bōng-tn̂g-nih (tē 41 tô͘ 14).
 
 > **【全漢對照】**
-> (蟲樣垂, *vermiform appendix*). 中央有孔透佇盲腸裡（第 41 圖 14）。
+> （蟲樣垂，*vermiform appendix*）。中央有孔透佇盲腸裡（第 41 圖 14）。
 
 ---
 
@@ -642,7 +642,7 @@ Nā iáu-bē sǹg me̍h-phok, m̄-thang kì chha-put-to kúi-ē.
 
 ![原書插圖 - 第 66 頁 (圖 1)](assets/illustrations/page_066_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 45 tô:—Khang-tng-lāi hoâiⁿ ê jiâu-liām-mo̍h, eng ba̍k-chiu khòaⁿ-ê (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 45 tô:—Khang-tng-lāi hoâiⁿ ê jiâu-liām-mo̍h, eng ba̍k-chiu khòaⁿ-ê (Cunningham).</em></p>
 
 </div>
 
@@ -669,14 +669,14 @@ Iā ū koh chi̍t ê chôaⁿ-thé, chòe siau-hòa ê lō͘-ēng, kiò-chòe ch
 Siau-hòa-khì ê liâm-mo̍h sî-siông hún-âng koh sip-lūn sī cháiⁿ-iūⁿ? Liâm-mo̍h sī po̍h-po̍h, tī i ê ē-tóe ū chin chōe huih-kńg, m̂g-sòe-huih-kńg; iā in ê huih sī âng; chit ê sek ōe chiò-kè-lâi, iā chiah ê huih-kńg-lāi huih ê chiap ōe tò-kè-lâi, kàu liâm-mo̍h ê téng-bīn. Tī liâm-mo̍h ê lāi-bīn ta̍k ūi ū chôaⁿ-thé, sòe-sòe-ê, put-sî teh chhut liâm-e̍k.
 
 > **【全漢對照】**
-> 消化器的黏膜時常粉紅閣濕潤是怎樣？黏膜是薄薄，佇伊的下底有真多血管、毛細血管；亦(亻因)的血是紅；這個色會照過來，亦諸個血管內血的汁會透（倒）過來，到黏膜的頂面。佇黏膜的內面逐位有泉體，細細個，不時咧出黏液。
+> 消化器的黏膜時常粉紅閣濕潤是怎樣？黏膜是薄薄，佇伊的下底有真多血管、毛細血管；亦（亻因）的血是紅；這個色會照過來，亦諸個血管內血的汁會透（倒）過來，到黏膜的頂面。佇黏膜的內面逐位有泉體，細細個，不時咧出黏液。
 
 ---
 
 Chit ê siau-hòa-khì sī chi̍t tiâu tn̂g ê mo̍h-kńg, ū só͘-chāi oeh-oeh, ū só͘-chāi chhin-chhiūⁿ ūi khah khoah. Bô lūn sím-mi̍h só͘-chāi, i ê khoán-sit sī lāi-bīn ū liâm-mo̍h (tē 45 tô 4), gōa-bīn ū kun-bah (45 tô 2). Chit ê kun-bah kap kha-chhiú ê kun-bah ū koh-iūⁿ, m̄-kú iū-goân ōe chhun kiu, iā teh chhiah kńg-lāi ê si̍t-bu̍t, hō͘ in ōe kiâⁿ. Chiah ê kun-bah kap liâm-mo̍h ê lāi-bīn ū tông-chēⁿ-me̍h, sîn-keng, lîm-pa-kńg tī-teh (tē 45 tô 3).
 
 > **【全漢對照】**
-> 這個消化器是一條長的膜管，有所在狹狹，有所在親像胃較闊。無論甚麼所在，伊的款式是內面有黏膜（第 45 圖 4），外面有筋肉（45 圖 2）。這個筋肉及腳手的筋肉有各樣，毋過依然會伸縮，亦咧(齒戚)管內的食物，互(亻因)會行。諸個筋肉及黏膜的內面有動靜脈、神經、淋巴管佇咧（第 45 圖 3）。
+> 這個消化器是一條長的膜管，有所在狹狹，有所在親像胃較闊。無論甚麼所在，伊的款式是內面有黏膜（第 45 圖 4），外面有筋肉（45 圖 2）。這個筋肉及腳手的筋肉有各樣，毋過依然會伸縮，亦咧（齒戚）管內的食物，互（亻因）會行。諸個筋肉及黏膜的內面有動靜脈、神經、淋巴管佇咧（第 45 圖 3）。
 
 ---
 
@@ -707,7 +707,7 @@ Sió-tn̂g ê liâm-mo̍h khòaⁿ sī chhin-chhiūⁿ jiông (tē 45...
 
 ![原書插圖 - 第 67 頁 (圖 1)](assets/illustrations/page_067_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 46 tô.—Sió-tng liām-mỏ·h kái-phò tô· 20 pē khok-tōa : 1, pak-mỏ·h ; 2, 3, tng-piah-lāi ê kun-bah ; 4, liām-mỏ·h-ē-cho·-chit ; 5, tng-ėk-chôaⁿ ; 6, tng-liām-mỏ·h-jiông-mng ; 7, huih-kúg ; 9, ko·-lîm-pa-chôaⁿ (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 46 tô.—Sió-tng liām-mỏ·h kái-phò tô· 20 pē khok-tōa : 1, pak-mỏ·h ; 2, 3, tng-piah-lāi ê kun-bah ; 4, liām-mỏ·h-ē-cho·-chit ; 5, tng-ėk-chôaⁿ ; 6, tng-liām-mỏ·h-jiông-mng ; 7, huih-kúg ; 9, ko·-lîm-pa-chôaⁿ (Cunningham).</em></p>
 
 </div>
 
@@ -716,7 +716,7 @@ Sió-tn̂g ê liâm-mo̍h khòaⁿ sī chhin-chhiūⁿ jiông (tē 45...
 tô͘), nā ēng hián-bî-kiàⁿ lâi khòaⁿ, sī chhin-chhiūⁿ mng-mng ê chhì (tē 46 tô͘ 6). Hit ê liâm-mo̍h chi̍t chhùn sù-hong ū chhì, iok-lio̍k chi̍t bān ê chōe. Ta̍k ki chhì ê lāi-bīn ū tōng-me̍h, chēng-me̍h, kap lîm-pa-kńg (淋巴管, *lacteal*) lâi khip-siu hit ê leng-bê (乳糜, *chyle*), hō͘ i āu-lâi thang chham huih sì-kè liû-hêng, lâi iúⁿ-chhī seng-khu.
 
 > **【全漢對照】**
-> 圖），若用顯微鏡來看，是親像毿毿（mng-mng）的刺（第 46 圖 6）。彼個黏膜一寸四方有刺，約略一萬的濟。逐支刺的內面有動脈、靜脈，佮淋巴管（淋巴管, *lacteal*）來吸收彼個乳糜（乳糜, *chyle*），互伊後來通參血四界流行，來養飼身軀。
+> 圖），若用顯微鏡來看，是親像毿毿（mng-mng）的刺（第 46 圖 6）。彼個黏膜一寸四方有刺，約略一萬的濟。逐支刺的內面有動脈、靜脈，佮淋巴管（淋巴管，*lacteal*）來吸收彼個乳糜（乳糜，*chyle*），互伊後來通參血四界流行，來養飼身軀。
 
 ---
 
@@ -734,7 +734,7 @@ Tī tn̂g-lāi ū chin chōe e̍k-choâⁿ, ū iù-iù ê kńg thàu kàu liâm-
 Tē 46 tô͘.—Sió-tn̂g liâm-mo̍h kái-phò tô͘ 20 pē khok-tōa : 1, pak-mo̍h ; 2, 3, tn̂g-piah-lāi ê kun-bah ; 4, liâm-mo̍h-ē-cho-chit ; 5, tn̂g-e̍k-choâⁿ ; 6, tn̂g-liâm-mo̍h-jiông-mng ; 7, huih-kńg ; 9, ko͘-lîm-pa-choâⁿ (Cunningham).
 
 > **【全漢對照】**
-> 第 46 圖。——小腸黏膜解剖圖 20 倍擴大：1, 腹膜；2, 3, 腸壁內的筋肉；4, 黏膜下組織；5, 腸液泉；6, 腸黏膜絨毛；7, 血管；9, 孤淋巴泉 (Cunningham)。
+> 第 46 圖。——小腸黏膜解剖圖 20 倍擴大：1，腹膜；2, 3，腸壁內的筋肉；4，黏膜下組織；5，腸液泉；6，腸黏膜絨毛；7，血管；9，孤淋巴泉 (Cunningham)。
 
 ---
 
@@ -749,7 +749,7 @@ Taⁿ tāi-khài lâi kóng siau-hòa-khì ê hun-pì-mi̍h (分泌物, *secreti
 Chiah ê hun-pì-mi̍h (hun-pì-mi̍h chiū-sī chóng miâ,
 
 > **【全漢對照】**
-> 今大概來講消化器的分泌物（分泌物, *secretion*）有五項：
+> 今大概來講消化器的分泌物（分泌物，*secretion*）有五項：
 > 1. 對嘴內的涎泉出涎液（*saliva*）。
 > 2. 對胃的泉有出胃液（*gastric juice*）。
 > 3. 對十二指腸佮小腸有出腸液（*intestinal secretion*）。
@@ -776,7 +776,7 @@ Tióh chheng-khì.
 
 ![原書插圖 - 第 68 頁 (圖 1)](assets/illustrations/page_068_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 47 tô:—Sió-tng-piah liâm-móh-lāi ê Peyer-sī ê chip-chôan (lîm-pa-chôan) kap ko-(lîm-pa) chôan: 1, 2, 3, ko-lîm-pa-chôan; 4, Peyer-sī ê chip-chôan. Nñg hē ê gín-ná-ê, ēng bák-chiu khòaⁿ-ê (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 47 tô:—Sió-tng-piah liâm-móh-lāi ê Peyer-sī ê chip-chôan (lîm-pa-chôan) kap ko-(lîm-pa) chôan: 1, 2, 3, ko-lîm-pa-chôan; 4, Peyer-sī ê chip-chôan. Nñg hē ê gín-ná-ê, ēng bák-chiu khòaⁿ-ê (Cunningham).</em></p>
 
 </div>
 
@@ -811,7 +811,7 @@ Siat-sú nā tāi-seng ēng ūi-e̍k kap bah, lâi chìm, hō͘ tām-pỏh sio, 
 **Tē 47 tô͘:—Sió-tng-piah liâm-mỏh-lāi ê Peyer-sī ê chip-chôaⁿ (lîm-pa-chôaⁿ) kap ko-(lîm-pa) chôaⁿ: 1, 2, 3, ko-lîm-pa-chôaⁿ; 4, Peyer-sī ê chip-chôaⁿ. Nñg hē ê gín-ná-ê, ēng bák-chiu khòaⁿ-ê (Cunningham).**
 
 > **【全漢對照】**  
-> 第 47 圖：—小腸壁粘膜內的 Peyer 氏的集腺（淋巴腺）佮孤（淋巴）腺：1, 2, 3, 孤淋巴腺；4, Peyer 氏的集腺。兩歲的囡仔的，用目睭看的（Cunningham）。
+> 第 47 圖：—小腸壁粘膜內的 Peyer 氏的集腺（淋巴腺）佮孤（淋巴）腺：1, 2, 3，孤淋巴腺；4, Peyer 氏的集腺。兩歲的囡仔的，用目睭看的（Cunningham）。
 
 ---
 
@@ -835,8 +835,8 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chîn, m̄-thang lia̍h-chòe sió-k
 pông-kong ê mo̍h, kàu tī chúi-nih. Tī seng-khu-lāi iā sī chhin-chhiūⁿ án-ni. Chit ê mo̍h ū hit hō khoán-sit, mi̍h ū-ê ōe thàu-kè mo̍h, ū-ê bōe, sī kiò siap-thàu-chok-iōng, á-sī kau-liû-chok-iōng (交流作用, osmosis)..
 
 > **【全漢對照】**
-> [邊注：交流作用]
-> 膀胱的膜，到佇水裡。佇身軀內也是親像按呢。這个膜有彼號款式，物有的會透過膜，有的袂，是叫滲透作用，抑是交流作用（交流作用, osmosis）..
+> ［邊注：交流作用］
+> 膀胱的膜，到佇水裡。佇身軀內也是親像按呢。這个膜有彼號款式，物有的會透過膜，有的袂，是叫滲透作用，抑是交流作用（交流作用，osmosis）..
 
 ---
 
@@ -844,8 +844,8 @@ pông-kong ê mo̍h, kàu tī chúi-nih. Tī seng-khu-lāi iā sī chhin-chhiū�
 Sī tùi chit hō kau-liû-chok-iōng, êng-ióng-e̍k (營養液, nutriment) ōe tùi ūi á-sī tng, kè-lâi kàu lîm-pa-kńg-lāi, chiah kàu huih-kńg-lāi. Hit ê êng-ióng-e̍k tùi huih kiâⁿ kàu seng-khu ta̍k ūi ê só͘-chāi lâi iúⁿ-chhī. Chhin-chhiūⁿ ūi teh pī-pān mi̍h beh iúⁿ-chhī seng-khu, m̄-kú ūi iû-goân ka-kī tio̍h siū-tio̍h iúⁿ-chhī. Iā tī huih-kńg ū bô lō͘-ēng ê mi̍h tio̍h tùi sīn-chōng, phê-hu, hì-chōng, pâi-chhut. Chiah ê mi̍h ōe chhut-khì, khah chōe sī óa-khò seng-khu-lāi ê mo̍h, ū chit ê kau-liû-chok-iōng ê koan-hē. In-ūi seng-khu ê mo̍h ū chit hō chok-iōng, só͘-í huih sî-siông teh iúⁿ-chhī seng-khu; iā sī tùi chit hō chok-iōng, huih ka-kī ōe tit-tio̍h chheng-khì.
 
 > **【全漢對照】**
-> [邊注：營養液會養飼身軀]
-> 是對這號交流作用，營養液（營養液, nutriment）會對胃抑是腸，過來到淋巴管內，才到血管內。彼个營養液對血行到身軀逐位的所在來養飼。親像胃咧備辦物欲養飼身軀，毋過胃依然家己著受到養飼。也佇血管有無路用的物著對腎臟、皮膚、肺臟，排出。諸個物會出去，較多是倚靠身軀內的膜，有這个交流作用的關係。因為身軀的膜有這號作用，所以血時常咧養飼身軀；也是對這號作用，血家己會得到清氣。
+> ［邊注：營養液會養飼身軀］
+> 是對這號交流作用，營養液（營養液，nutriment）會對胃抑是腸，過來到淋巴管內，才到血管內。彼个營養液對血行到身軀逐位的所在來養飼。親像胃咧備辦物欲養飼身軀，毋過胃依然家己著受到養飼。也佇血管有無路用的物著對腎臟、皮膚、肺臟，排出。諸個物會出去，較多是倚靠身軀內的膜，有這个交流作用的關係。因為身軀的膜有這號作用，所以血時常咧養飼身軀；也是對這號作用，血家己會得到清氣。
 
 ---
 
@@ -853,8 +853,8 @@ Sī tùi chit hō kau-liû-chok-iōng, êng-ióng-e̍k (營養液, nutriment) ō
 Lâng ê sin-thé sī chōe-chōe hāng chit lâi ha̍p-chiâⁿ--ê, chiū-sī kun-bah, kun, kut, huih-kńg sin-keng, chiah ê lūi. Chiah ê bu̍t-chit lóng sī chiàu hòa-ha̍k ê goân-sò͘ (元素, iā kiò goân-chit, element) lâi ha̍p-chiâⁿ--ê. Hòa-ha̍k ê goân-sò͘ chiū-sī ēng chi̍t hāng mi̍h chiong hòa-ha̍k ê hoat-tō͘ lâi pun-khui chiah ê ta̍k hāng ê chit, pun kàu bōe koh pun-tit, chiū-sī kiò-chòe goân-sò͘. Chiàu hòa-ha̍k ê lí-khì lóng-chóng pun chòe 78 chéng.
 
 > **【全漢對照】**
-> [邊注：元素]
-> 人的身體是贅贅項質來合成的，就是筋肉、筋、骨、血管、神經，諸個類。諸個物質攏是照化學的元素（元素，也叫原質, element）來合成的。化學的元素就是用一項物將化學的法度來分開諸個逐項的質，分到袂閣分得，就是叫做元素。照化學的理氣攏總分做 78 種。
+> ［邊注：元素］
+> 人的身體是贅贅項質來合成的，就是筋肉、筋、骨、血管、神經，諸個類。諸個物質攏是照化學的元素（元素，也叫原質，element）來合成的。化學的元素就是用一項物將化學的法度來分開諸個逐項的質，分到袂閣分得，就是叫做元素。照化學的理氣攏總分做 78 種。
 
 ---
 
@@ -862,8 +862,8 @@ Lâng ê sin-thé sī chōe-chōe hāng chit lâi ha̍p-chiâⁿ--ê, chiū-sī 
 Lâng seng-khu ê cho͘-chit, kiōng ū 12 hāng goân-sò͘. Chiah-ê sī iàu-kín-ê, iáu-kú tī seng-khu-lāi ū-sî ū saⁿ sì khoán pa̍t hāng ê goân-sò͘ tī-teh. Chiah ê 12-ê, chiū-sī sng-sò͘, (酸素, oxygen), chúi-sò͘ (水素, hydrogen), thòaⁿ-sò͘ (炭素, carbon), chek-sò͘ (窒素, nitrogen), jiû-hông (硫黃, sulphur,) lîn (燐, phosphorus), iâm-sò͘ (鹽素, chlorine), potassium, sodium, calcium, magnesium, iron.
 
 > **【全漢對照】**
-> [邊注：身軀組織有 12 項元素]
-> 人身軀的組織，共有 12 項元素。諸個是要緊的，猶久佇身軀內有時有三四款別項的元素佇咧。諸個 12 个，就是酸素，（酸素, oxygen）、水素（水素, hydrogen）、炭素（炭素, carbon）、窒素（窒素, nitrogen）、硫黃（硫黃, sulphur,）、燐（燐, phosphorus）、鹽素（鹽素, chlorine）、potassium、sodium、calcium、magnesium、iron。
+> ［邊注：身軀組織有 12 項元素］
+> 人身軀的組織，共有 12 項元素。諸個是要緊的，猶久佇身軀內有時有三四款別項的元素佇咧。諸個 12 个，就是酸素，（酸素，oxygen）、水素（水素，hydrogen）、炭素（炭素，carbon）、窒素（窒素，nitrogen）、硫黃（硫黃，sulphur,）、燐（燐，phosphorus）、鹽素（鹽素，chlorine）、potassium、sodium、calcium、magnesium、iron。
 
 ---
 
@@ -918,7 +918,7 @@ Hé-thòaⁿ sī thòaⁿ-sò͘ (C) ê goân-sò͘. Thòaⁿ-sò͘ kap sng-sò͘
 Chek-sò͘ (N) sī chi̍t chéng iàu-kín ê goân-sò͘, tī sin-thé ê bah ê lāi-bīn ū kap pa̍t hāng ê goân-sò͘ lâi ha̍p-chiâⁿ-ê. Chek-sò͘ sī bô sek ê khì, bōe pôe-iúⁿ lâng ê sìⁿ-miā, iā bōe hō͘ lâng hoa̍t-phoat. Chek-sò͘ kap chúi-sò͘ ha̍p chiâⁿ tui, miâ kiò *ammonia*, hòa-ha̍k ê kì-hō chiū-sī $\text{NH}_3$.
 
 > **【全漢對照】**
-> 窒素 (N) 是一種要緊的元素，佇身體的肉的內面有佮別項的元素來合成的。窒素是無色的氣，袂培養人的性命，也袂予人活潑。窒素佮水素合成堆，名叫 *ammonia* (阿摩尼亞/氨)，化學的記號就是 $\text{NH}_3$。
+> 窒素 (N) 是一種要緊的元素，佇身體的肉的內面有佮別項的元素來合成的。窒素是無色的氣，袂培養人的性命，也袂予人活潑。窒素佮水素合成堆，名叫 *ammonia* （阿摩尼亞/氨），化學的記號就是 $\text{NH}_3$。
 
 ---
 
@@ -927,7 +927,7 @@ Chek-sò͘ (N) sī chi̍t chéng iàu-kín ê goân-sò͘, tī sin-thé ê bah �
 Iâm ê lāi-bīn ū *natrium* (*sodium*) kap *chlorine*. *Natrium* chiū-sī tok ê goân-sò͘, lâng nā chia̍h ē sí. *Chlorine* iā sī put-chí tok ê khì, nĝ-sek, lâng khip-ji̍p tī hì-chōng, hì ē hoat iām, nā choan khip-ji̍p chit hō khì bô kúi hun-kú chiū ē sí-khì. Tī chiàn-tiûⁿ ū ēng chit hō khì lâi tok sí kau-chiàn ê peng. Tī chia ū chin kî-koài ê hòa-ha̍p, chiū-sī nā *natrium* kap *chlorine* sio-ha̍p pìⁿ-chiâⁿ iâm, ē iúⁿ-chhī lâng ê sin-thé.
 
 > **【全漢對照】**
-> 鹽的內面有 *natrium* (*sodium* / 鈉) 佮 *chlorine* (氯)。*Natrium* 就是毒的元素，人若食會死。*Chlorine* 也是不止毒的氣，黃色，人吸入佇肺臟，肺會發炎，若專吸入這號氣無幾分久就會死去。佇戰場有用這號氣來毒死交戰的兵。佇遮有真奇怪的化合，就是若 *natrium* 佮 *chlorine* 相合變成鹽，會養飼人的身體。
+> 鹽的內面有 *natrium* （*sodium* / 鈉） 佮 *chlorine* （氯）。*Natrium* 就是毒的元素，人若食會死。*Chlorine* 也是不止毒的氣，黃色，人吸入佇肺臟，肺會發炎，若專吸入這號氣無幾分久就會死去。佇戰場有用這號氣來毒死交戰的兵。佇遮有真奇怪的化合，就是若 *natrium* 佮 *chlorine* 相合變成鹽，會養飼人的身體。
 
 ---
 
@@ -989,11 +989,11 @@ Lâng só͘ chiàh ê mi̍h, tiòh ū chit khoán ê si̍t-liāu, lâi pó͘ sin
 
 > **【全漢對照】**
 > 人所食的物，著有此款的食料，來補身體內的欠缺。若愛人的身軀會勇健，著用五款的食料：
-> 1. 卵白質（卵白質, *Protein*）。
-> 2. 含水炭素（含水炭素, *Carbo-hydrates*）。
-> 3. 脂質（脂質, *Fats*）。
-> 4. 鹽質（鹽質, *Salts*）。
-> 5. 水（水, *Water*）。
+> 1. 卵白質（卵白質，*Protein*）。
+> 2. 含水炭素（含水炭素，*Carbo-hydrates*）。
+> 3. 脂質（脂質，*Fats*）。
+> 4. 鹽質（鹽質，*Salts*）。
+> 5. 水（水，*Water*）。
 
 ---
 
@@ -1107,7 +1107,7 @@ Mi̍h ji̍p chhùi tio̍h pō͘ ; chi̍t hāng sī beh hō͘ i iù-iù, chiah ē
 
 ![原書插圖 - 第 73 頁 (圖 1)](assets/illustrations/page_073_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 48 tô.—Iû-chit khip-siu tī tng-liâm-mo̍h-lāi, hián-bî-kiàⁿ ê tô: 3, liâm-mo̍h ; 1, liâm-mo̍h óa tng-lāi ê khang hit pêng ; 2, liâm-mo̍h-sòe-pau kap kúi-nā lia̍p ê iû-chit ; 4, sòe-pau-hùt ; 5, pe̍h-huih-kiû ; 6, tng-lāi ê lîm-pa-kńg (Schafer).</em></p>
+<p class="figure-caption"><em>Tē 48 tô.—Iû-chit khip-siu tī tng-liâm-mo̍h-lāi, hián-bî-kiàⁿ ê tô: 3, liâm-mo̍h ; 1, liâm-mo̍h óa tng-lāi ê khang hit pêng ; 2, liâm-mo̍h-sòe-pau kap kúi-nā lia̍p ê iû-chit ; 4, sòe-pau-hùt ; 5, pe̍h-huih-kiû ; 6, tng-lāi ê lîm-pa-kńg (Schafer).</em></p>
 
 </div>
 
@@ -1167,7 +1167,7 @@ Tng-e̍k iā teh pang-chān siau-hòa ê sū. Táⁿ-chiap ê lō͘-ēng sī beh
 Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 
 > **【全漢對照】**
-> 阮倚靠基督向上帝有這號的信（哥林多後書 3: 4）。
+> 阮倚靠基督向上帝有這號的信（哥林多後書 3：4）。
 
 <!-- Page 073 End -->
 
@@ -1181,7 +1181,7 @@ Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 kàu chiâu. Nā sit-bu̍t siau-hòa liáu, i ê sek pìⁿ-chiâⁿ khah n̂g-pe̍h ê sek, chiū-sī kiò leng-bê (乳糜, *chyle*), á-sī thang kiò êng-ióng-e̍k (營養液, *nutriment*).
 
 > **【全漢對照】**
-> 到齊。若食物消化了，它的色變成較黃白的色，就是叫乳糜（乳糜, *chyle*），抑是通叫營養液（營養液, *nutriment*）。
+> 到齊。若食物消化了，它的色變成較黃白的色，就是叫乳糜（乳糜，*chyle*），抑是通叫營養液（營養液，*nutriment*）。
 
 ---
 
@@ -1206,7 +1206,7 @@ Lâng tek-khak tio̍h lim-chia̍h, chóng-sī lim-chia̍h tio̍h chiàu hoat-tō
 Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無求家己的利益（I 哥林多 13: 5）。
+> 仁愛無求家己的利益（I 哥林多 13：5）。
 
 <!-- Page 074 End -->
 

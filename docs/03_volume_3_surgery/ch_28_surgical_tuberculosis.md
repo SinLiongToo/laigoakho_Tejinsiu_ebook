@@ -23,14 +23,14 @@ Sò͘-in (素因, *Predisposing causes*) :
 6. Si̍t-bu̍t put-chiok, tùi án-ni sin-thé ōe khah soe-jio̍k, ōe khah khoài jiám-tio̍h. Nā-sī gû ê leng-pông (乳房, *udder*) ū kiat-hút chèng, tùi hia sè-khún ōe ji̍p gû-leng; lâng chia̍h hit hō gû-leng ōe jiám-tio̍h kiat-hút chèng.
 
 > **【全漢對照】**  
-> **[邊註：素因]**  
-> 素因（素因, *Predisposing causes*）：  
+> **［邊註：素因］**  
+> 素因（素因，*Predisposing causes*）：  
 > 1. 父母有此號病，伊的囝的身體袂勇，所以較快染著結核症。  
 > 2. 人的胸坎傷平，會致到結核症。  
 > 3. 囡仔，佮少年人，較會染著。  
 > 4. 空氣無夠，厝裡腌臢，塵埃佮沙較多。  
 > 5. 久長的病，親像久長嗽，嚨喉常常疼；關節磕著、摃著，也較快染著此號病。  
-> 6. 食物不足，對按呢身體會較衰弱，會較快染著。若是牛的乳房（乳房, *udder*）有結核症，對遐細菌會入牛奶；人食彼號牛奶會染著結核症。
+> 6. 食物不足，對按呢身體會較衰弱，會較快染著。若是牛的乳房（乳房，*udder*）有結核症，對遐細菌會入牛奶；人食彼號牛奶會染著結核症。
 
 ---
 
@@ -39,8 +39,8 @@ Sò͘-in (素因, *Predisposing causes*) :
 Goân-in: Chit hō pīⁿ ê goân-in sī kiat-hút-khún. Chit hō sè-khún, ū-sî ji̍p tùi khì-kńg kap hì-chōng, ū-sî tùi siau-hòa-khì ji̍p. Tī bó͘ só͘-chāi i-īⁿ ê chú-chia̍h ū hì-lô pīⁿ, bô lōa-kú la̍k-ê i-seng iā ū jiám-tio̍h chit hō pīⁿ. Sī tùi chú-chia̍h thâm-lāi ê kiat-hút-khún ū bak-tio̍h i-seng ê si̍t-bu̍t, só͘-í thoân-jiám-tio̍h kiat-hút chèng. Tùi ū siong ê phê-hu á-sī liâm-mo̍h, sè-khún ōe ji̍p. Hit ê sè-khún ji̍p lâng ê seng-khu liáu-āu, ū-sî lâng nā ióng-kiāⁿ, sè-khún ōe sí. Sè-khún lâi kàu seng-khu-lāi tú-tio̍h pe̍h-huih-kiû hō͘ i chia̍h, chiū sí, chit ê pe̍h-huih-kiû ê miâ, kiò-chòe chia̍h-khún-sòe-pau (食菌細胞, *phagocyte*). Chit-ê sī tùi seng-khu ū khòng-to̍k ê khùi-la̍t. Phì-lūn lâi kóng, kiat-hút-khún sī kong-kek ê
 
 > **【全漢對照】**  
-> **[邊註：原因]**  
-> 原因：此號病的原因是結核菌。此號細菌，有時入對氣管佮肺臟，有時對消化器入。佇某所在醫院的煮食有肺癆病，無偌久六個醫生也有染著此號病。是對煮食痰內的結核菌有溽著（沾著）醫生的食物，所以傳染著結核症。對有傷的皮膚抑是粘膜，細菌會入。彼個細菌入人的身軀了後，有時人若勇健，細菌會死。細菌來到身軀內抵著白血球予伊食，就死，此個白血球的名，叫做食菌細胞（食菌細胞, *phagocyte*）。此個是對身軀有抗毒的氣力。譬論來講，結核菌是攻擊的
+> **［邊註：原因］**  
+> 原因：此號病的原因是結核菌。此號細菌，有時入對氣管佮肺臟，有時對消化器入。佇某所在醫院的煮食有肺癆病，無偌久六個醫生也有染著此號病。是對煮食痰內的結核菌有溽著（沾著）醫生的食物，所以傳染著結核症。對有傷的皮膚抑是粘膜，細菌會入。彼個細菌入人的身軀了後，有時人若勇健，細菌會死。細菌來到身軀內抵著白血球予伊食，就死，此個白血球的名，叫做食菌細胞（食菌細胞，*phagocyte*）。此個是對身軀有抗毒的氣力。譬論來講，結核菌是攻擊的
 
 <!-- Page 381 End -->
 
@@ -64,7 +64,7 @@ Nā tī lîm-pa-chôaⁿ-lāi, hiah ê sòe-khún tāi-seng ē chòe chit-lia̍p
 
 > **【全漢對照】**
 > **［結核菌］**
-> 若佇淋巴泉內，遐的細菌代先會做一粒一粒叫做結核，諸個後來會試合做較大粒，叫做結核結節（結核結節, nodule），愈久愈大到後來佇彼粒內有白白之物，親像牛奶餅。若猶原閣健，無偌久會變成膿瘍，會到皮膚外出膿；若按呢就惡得好。
+> 若佇淋巴泉內，遐的細菌代先會做一粒一粒叫做結核，諸個後來會試合做較大粒，叫做結核結節（結核結節，nodule），愈久愈大到後來佇彼粒內有白白之物，親像牛奶餅。若猶原閣健，無偌久會變成膿瘍，會到皮膚外出膿；若按呢就惡得好。
 
 ---
 
@@ -74,7 +74,7 @@ Nā tú-á thoân-jiám, lâng thàn hó ê hoat-tō͘, hiah ê kiat-hút ê lia
 
 > **【全漢對照】**
 > **［石灰變性］**
-> 若抵仔傳染，人趁好的法度，遐的結核的粒會較乾、較硬，彼粒的四圍會生結締質，就是較硬的質，來包圍結核。這粒愈久愈硬，粒內的膿會互血的食菌細胞食去，抑是變成硬質親像石的款，叫做石炭變性（石炭變性, calcification）。
+> 若抵仔傳染，人趁好的法度，遐的結核的粒會較乾、較硬，彼粒的四圍會生結締質，就是較硬的質，來包圍結核。這粒愈久愈硬，粒內的膿會互血的食菌細胞食去，抑是變成硬質親像石的款，叫做石炭變性（石炭變性，calcification）。
 
 ---
 
@@ -168,7 +168,7 @@ Tī-liâu : Nā kā i chhiú-su̍t, tiòh chin chheng-khì. Kā i thāi á-sī c
 Lîm-pa-chôaⁿ-kiat-hút (淋巴腺結核, tubercular glands) ê goân-in, sī siàu-liân lâng, si̍t-bu̍t kap ōe-seng m̄-hó, chiù-khí, phīⁿ-thô-chôaⁿ-īam (扁桃腺炎, tonsillitis).
 
 > **【全漢對照】**
-> 淋巴腺結核（淋巴腺結核, tubercular glands）的原因，是少年人，食物佮衛生毋好、蛀齒、鼻桃腺炎（扁桃腺炎, tonsillitis）。
+> 淋巴腺結核（淋巴腺結核，tubercular glands）的原因，是少年人，食物佮衛生毋好、蛀齒、鼻桃腺炎（扁桃腺炎，tonsillitis）。
 
 ---
 
@@ -198,7 +198,7 @@ Lîm-pa-chôaⁿ piàn tōa, sì-ûi ê chho͘-chit kap lîm-pa-
 
 ![原書插圖 - 第 384 頁 (圖 1)](assets/illustrations/page_384_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 238 tô.—Pî-khū - koan-chat-kiat-hùt chèng : Tōa-thúi-kut-thâu, kut-mó͘h, nńg-kut, lóng ū kiat-hùt (Rose and Carless).</em></p>
 
 </div>
 
@@ -284,7 +284,7 @@ phàiⁿ-khì. Koan-chat-lāi ōe siⁿ kiat-hút bah-gê-cho͘-chit; chit ê ba
 Chèng-chōng: Thiàⁿ, ū-sî chit ê thiàⁿ sī tī ū pīⁿ ê só͘-chāi, ū-sî tī pa̍t ūi ōe thiàⁿ; chhin-chhiūⁿ nā pī-khū-koan-chat ê kiat-hút, ū-sî chhek-koan-chat ōe thiàⁿ. Chit ê iân-kò͘; sī in-ūi lâng ê thàng-thiàⁿ, lóng sī tùi sîn-keng chiah ōe chai. Pī-khū-koan-chat hit só͘-chāi ê sîn-keng ū pun chhe kàu chhek-koan-chat, só͘-í hit ê pīⁿ sui-bóng tī pī-khū-koan-chat, m̄-kú lâng chai thiàⁿ ê só͘-chāi, ū-sî sī chhek-koan-chat. Chit-ê kiò-chòe hoán-siā-sèng ê thiàⁿ (反射性, referred pain). Iā thang kóng pī-khū-koan-chat ê thiàⁿ chhì-kek kàu tōa-náu, hit ê tōa-náu ū hoan-e̍k thiàⁿ sī tùi chhek-koan-chat chiah khí.
 
 > **【全漢對照】**
-> 症狀：疼，有時這个疼是佇有病的所在，有時佇別位會疼；親像若髀臼關節的結核，有時膝關節會疼。這个緣故，是因為人的痛疼，攏是對神經才會知。髀臼關節彼所在的神經有分杈到膝關節，所以彼个病雖罔佇髀臼關節，毋過人知疼的所在，有時是膝關節。這个叫做反射性的疼（反射性, referred pain）。也通講髀臼關節的疼刺激到大腦，彼个大腦有翻譯疼是對膝關節才起。
+> 症狀：疼，有時這个疼是佇有病的所在，有時佇別位會疼；親像若髀臼關節的結核，有時膝關節會疼。這个緣故，是因為人的痛疼，攏是對神經才會知。髀臼關節彼所在的神經有分杈到膝關節，所以彼个病雖罔佇髀臼關節，毋過人知疼的所在，有時是膝關節。這个叫做反射性的疼（反射性，referred pain）。也通講髀臼關節的疼刺激到大腦，彼个大腦有翻譯疼是對膝關節才起。
 
 ---
 
@@ -325,7 +325,7 @@ Tī-liâu: 1. Khòng kiat-hút chèng ê tī-liâu-hoat.
 
 ![原書插圖 - 第 386 頁 (圖 1)](assets/illustrations/page_386_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 239 tô.—Thomas-sī pī-khū-koan-chat āu hù-bo̍k (Sanders).</em></p>
 
 </div>
 
@@ -361,7 +361,7 @@ To-má-sī chhek-koan-chat ê hù-bo̍k : Chit ê hù-bo̍k ū chi̍t-ê thih ch
 Jîn-ài bô kiâⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無行見潲的事（I 哥林多 13: 5）。
+> 仁愛無行見潲的事（I 哥林多 13：5）。
 
 <!-- Page 386 End -->
 
@@ -375,11 +375,11 @@ Jîn-ài bô kiâⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 
 ![原書插圖 - 第 387 頁 (圖 1)](assets/illustrations/page_387_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath).</em></p>
+<p class="figure-caption"><em>Tē 240 tô.— Thomas-sī. Chhek - koan- chat hù - bo̍k (Heath).</em></p>
 
 ![原書插圖 - 第 387 頁 (圖 2)](assets/illustrations/page_387_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”).</em></p>
+<p class="figure-caption"><em>Tē 241 tô.—Chek-chui-kut-kiat-hu̍t chèng : thang khòaⁿ-kìⁿ chek-chui- kut ê thé í-keng pāi-hoāi ; iā ū ún-ku ; tī chêng-chhiòng-jīm-tài ê āu-bīn ū lâng-iông ; chit hō lâng-iông nā siuⁿ tōa, ōe teh-tio̍h chek-chhé, sòa hō͘ pīⁿ-lâng pīⁿ-chiâⁿ piàn-sūi (Rose and Carless' “Surgery ”).</em></p>
 
 </div>
 
@@ -416,7 +416,7 @@ Chek-chui-kut ê kiat-hu̍t chèng (Potts Disease): Chit hō pīⁿ ê khoán-si
 > **【全漢對照】**
 > 〔側標：脊椎骨結核〕
 > 
-> 脊椎骨的結核症 (Potts Disease)：此號病的款式，大概是親像拄仔講，骨佮關節結核症。彼號的素因佮原因相同。病有時佇一塊椎骨，抑是有時幾若塊有染著。若是人的椎骨有一兩塊損壞了後，就人規身軀的重，傳過佇椎骨，予彼個有病的所在的椎骨，頂面的來壓著下面的，致到予彼個有病的骨彎曲 (第 241 圖)。此個病名叫脊椎骨……
+> 脊椎骨的結核症 (Potts Disease)：此號病的款式，大概是親像拄仔講，骨佮關節結核症。彼號的素因佮原因相同。病有時佇一塊椎骨，抑是有時幾若塊有染著。若是人的椎骨有一兩塊損壞了後，就人規身軀的重，傳過佇椎骨，予彼個有病的所在的椎骨，頂面的來壓著下面的，致到予彼個有病的骨彎曲 （第 241 圖）。此個病名叫脊椎骨……
 
 ---
 
@@ -437,11 +437,11 @@ Chek-chui-kut ê kiat-hu̍t chèng (Potts Disease): Chit hō pīⁿ ê khoán-si
 
 ![原書插圖 - 第 388 頁 (圖 1)](assets/illustrations/page_388_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).</em></p>
+<p class="figure-caption"><em>Tē 241a tô:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-pīⁿ kha-thúi ê chèng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).</em></p>
 
 ![原書插圖 - 第 388 頁 (圖 2)](assets/illustrations/page_388_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)</em></p>
+<p class="figure-caption"><em>Tē 241b tô:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō-ūi. (From Rose and Carless' “Surgery.”)</em></p>
 
 </div>
 
@@ -468,7 +468,7 @@ Chèng-chōng: 1. Thiàⁿ: Tī ū pīⁿ ê só͘-chāi chai thiàⁿ, iā tī 
 Tē 241<sup>a</sup> tô͘:—Heng-io-chek-chui-kut-kiat-hút chèng; tī kái-piⁿ kha-thúi ê chêng bīn teh khí ê lâng-iông, kiò-chòe lāi-io-kun-lâng-iông (內腰筋膿瘍, psoas abscess).
 
 > **【全漢對照】**
-> 第 241<sup>a</sup> 圖：——胸腰脊椎骨結核症；佇胯邊跤腿的前面咧起的膿瘍，叫做內腰筋膿瘍（內腰筋膿瘍, psoas abscess）。
+> 第 241<sup>a</sup> 圖：——胸腰脊椎骨結核症；佇胯邊跤腿的前面咧起的膿瘍，叫做內腰筋膿瘍（內腰筋膿瘍，psoas abscess）。
 
 Tē 241<sup>b</sup> tô͘:—Heng-io-chek-chui-kut-kiat-hút chèng teh khí lâng-iông tī kut-pôaⁿ ê téng-bīn pō͘-ūi. (From Rose and Carless’ “Surgery.”)
 
@@ -521,7 +521,7 @@ Sin-thé ióng-kiāⁿ, khah-iānⁿ chōe-chōe chîⁿ.
 5. Piàn-sūi: Chit ê iân-kò͘ sī in-ūi hit hō kiat-hu̍t pīⁿ-châu nōa-khì ê pe̍h-chit (caseous material), á-sī lâng-iông teh-tio̍h sîn-keng, á-sī chek-chhé; á-sī in-ūi chek-chhé, á-sī i ê mo̍͘h ū jiám-tio̍h kiat-hu̍t chèng. Só͘-í hit ê chek-chhé pí pêng-siông-ê lâi khòaⁿ, sī khah oe̍h, chiū chiām-chiām hoat-iām, hit ê ū pīⁿ ê só͘-chāi ê ē-bīn chiū piàn-sūi (tē 241 tô͘). Tāi-seng i ê kha ū khah soe-jio̍k iā thiàⁿ, āu-lâi ná kú chiū lóng bē tín-tāng. Chit hō pīⁿ miâ kiò pòaⁿ-sin-put-sūi (半身不遂, paraplegia. I ê tāi-, siáu-piān, iā ūi-tio̍h piàn-sūi ê iân-kò͘ bô sūn, ū-sî sit-kìm (失禁).
 
 > **【全漢對照】**
-> 5. 半遂：這個緣故是因為彼號結核病巢爛去的白質（caseous material，乾酪物質），抑是膿瘍壓著神經，抑是脊髓；抑是因為脊髓，抑是伊的膜有染著結核症。所以彼個脊髓比平常的來看，是較狹，就漸漸發炎，彼個有病的所在下面就半遂（第 241 圖）。代先伊的骹有較衰弱也疼，後來愈久就攏袂振動。這號病名叫半身不遂（半身不遂, paraplegia。伊的大、小便，也為著半遂的緣故無順，有時失禁（失禁）。
+> 5. 半遂：這個緣故是因為彼號結核病巢爛去的白質（caseous material，乾酪物質），抑是膿瘍壓著神經，抑是脊髓；抑是因為脊髓，抑是伊的膜有染著結核症。所以彼個脊髓比平常的來看，是較狹，就漸漸發炎，彼個有病的所在下面就半遂（第 241 圖）。代先伊的骹有較衰弱也疼，後來愈久就攏袂振動。這號病名叫半身不遂（半身不遂，paraplegia。伊的大、小便，也為著半遂的緣故無順，有時失禁（失禁）。
 
 ---
 
@@ -537,7 +537,7 @@ Tī-liâu: Khòng-kiat-hu̍t chèng ê tī-liâu-hoat. Kap koan-chat-kiat-hu̍t 
 Phelps-sī ê siuⁿ-á, sī beh i-tī gín-ná ū chek-chui-kut-kiat-hu̍t chèng (242, 243 tô͘). Gín-ná nā ū chit hō pīⁿ, tio̍h ēng chit ê hoat-tō͘ i-tī nñg saⁿ tang-kú. Nā beh sóe seng-khu, ōaⁿ pau-siong-liâu, tāi-, siáu-piān sī put-chí
 
 > **【全漢對照】**
-> Phelps氏的箱仔，是要醫治囡仔有脊椎骨結核症（242, 243 圖）。囡仔若有這號病，著用這個法度醫治兩三年久。若要洗身軀，換包傷料，大、小便是不止...
+> Phelps氏的箱仔，是要醫治囡仔有脊椎骨結核症（242, 243 圖）。囡仔若有這號病，著用這個法度醫治兩三年久。若要洗身軀，換包傷料，大、小便是不止。..
 
 <!-- Page 389 End -->
 
@@ -551,12 +551,12 @@ Phelps-sī ê siuⁿ-á, sī beh i-tī gín-ná ū chek-chui-kut-kiat-hu̍t chè
 
 ![原書插圖 - 第 390 頁 (圖 1)](assets/illustrations/page_390_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>242
+<p class="figure-caption"><em>242
 Tē 242 tô:—Phelps-sī ê siuⁿ-á.</em></p>
 
 ![原書插圖 - 第 390 頁 (圖 2)](assets/illustrations/page_390_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>243
+<p class="figure-caption"><em>243
 Tē 243 tô:—Gín-ná í-keng pák hó-sè tī Phelps-sī ê siuⁿ-á (Heath).</em></p>
 
 </div>
@@ -593,7 +593,7 @@ Chit hō pīⁿ-lâng tio̍h chin sió-sim chiàu-kò͘ tī-hông jio̍k-siong. 
 Góa siat-sú chòe sian-ti bêng-pe̍k lóng-chóng ê ò-biāu kap lóng-chóng ê chai-bat; koh siat-sú ū chiâu-pī ê sìn, kàu-gia̍h lâi î-soaⁿ, nā bô jîn-ài, góa chiū bōe sǹg chòe sī sím-mi̍h (I Ko-lîm-to 13: 2).
 
 > **【全漢對照】**  
-> 我設使做先知明白攏總的奧妙及攏總的知別；閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼 (I 哥林多 13: 2)。
+> 我設使做先知明白攏總的奧妙及攏總的知別；閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼 (I 哥林多 13：2)。
 
 <!-- Page 390 End -->
 

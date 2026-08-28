@@ -351,11 +351,11 @@ Min., minim ; fl. dr., fluid drachm ; fl. oz., fluid ounce ; gr., grain ; oz. ou
 
 ![原書插圖 - 第 299 頁 (圖 1)](assets/illustrations/page_299_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+<p class="figure-caption"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
 
 ![原書插圖 - 第 299 頁 (圖 2)](assets/illustrations/page_299_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+<p class="figure-caption"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
 
 </div>
 
@@ -422,7 +422,7 @@ lb., pōng; kgm., kilogramme; ft., chhioh; in., chhùn; mm., millimetre.
 (Six tables from Wellcome's “Medical Diary.”)
 
 > **【全漢對照】**
-> lb., 磅; kgm., kilogramme; ft., 尺; in., 寸; mm., millimetre.  
+> lb.，磅；kgm., kilogramme；ft.，尺；in.，寸；mm., millimetre.  
 > (Six tables from Wellcome's “Medical Diary.”)
 
 <!-- Page 299 End -->
@@ -444,7 +444,7 @@ Chhòng ióh hō͘ pīⁿ-lâng ū chin chōe ê hoat-tō͘. Ióh nā khip-siu t
 6. Tùi im-tō koàn-ji̍p; tùi jiō-tō, phông-kong; chhùi sóa-kháu; ba̍k-chiu, hī-á, phīⁿ-khang.
 
 > **【全漢對照】**
-> **[側註：藥吸收的路]**  
+> **［側註：藥吸收的路］**  
 > 創藥予病人有真多的法度。藥若吸收佇血裡有幾若條路，就是排列佇底下：  
 > 1. 對嘴食。  
 > 2. 對直腸灌入。  
@@ -459,7 +459,7 @@ Chhòng ióh hō͘ pīⁿ-lâng ū chin chōe ê hoat-tō͘. Ióh nā khip-siu t
 Ū chi̍t khoán ê ióh chí-ū ōe kám-tōng tāi-seng kàu ê só͘-chāi, chhin-chhiūⁿ tùi gōa-bīn lâi kô, chiū ōe kám-tōng phê, tùi chhùi chia̍h-ê chiū ōe kám-tōng ūi kap tn̂g ê liām-mo̍h. Chóng-sī tē it chōe-ê, sī khip-siu tī huih-nih, koh tùi huih-nih kiâⁿ kàu ta̍k ūi kiat-tè-chit, kun-bah ê só͘-chāi, jiân-āu chiah tī hit ê ū pīⁿ ê ūi kìⁿ-chhut kong-hāu. Lūn kàu chit khoán ê ióh, kong-hāu ê tōa sió, sī khòaⁿ hit ê huih khip-siu ê sî, kín á-sī bān.
 
 > **【全漢對照】**
-> **[側註：藥吸收的作用]**  
+> **［側註：藥吸收的作用］**  
 > 有一款的藥只有會感動代先到的所在，親像對外面來膏，就會感動皮，對嘴食的就會感動胃佮腸的黏膜。總視第一多的，是吸收佇血裡，擱對血裡行到逐位結締質、筋肉的所在，然後才佇彼個有病的位見出功效。論到這款的藥，功效的大細，是看彼個血吸收的時，緊抑是慢。
 
 ---
@@ -474,7 +474,7 @@ Ióh khip-siu tī seng-khu-lāi ū koan-hē tī ē-bīn só͘ kì-ê:
 > 藥吸收佇身軀內有關係佇下面所記的：  
 > 1. 照藥放置部位的分別。  
 > 2. 血循環的款式。  
-> 3. 藥溶解性（溶解性, solubility）。  
+> 3. 藥溶解性（溶解性，solubility）。  
 > 4. 藥透過黏膜的作用。
 
 ---
@@ -483,7 +483,7 @@ Ióh khip-siu tī seng-khu-lāi ū koan-hē tī ē-bīn só͘ kì-ê:
 Chù-siā tī chēng-me̍h-lāi sī siāng kín, chóng-sī chit ê hoat-tō͘ sī kan-ta i-seng teh chòe-ê. Tē jī sī tī phê-ē-kiat-tè-chit-lāi. Nā án-ni kè gō͘ hun-cheng-kú chiū kìⁿ-chhut kong-hāu. Tùi chhùi chia̍h sī khah bān, tùi ti̍t-tn̂g koh khah bān. Tùi hì-chōng sī khah kín, in-ūi hì-chōng-lāi m̂g-sòe-huih-kńg chin chōe.
 
 > **【全漢對照】**
-> **[側註：藥吸收的緊慢]**  
+> **［側註：藥吸收的緊慢］**  
 > 注射佇靜脈內是上緊，總是這個法度是干單醫生咧做的。第二是佇皮下結締質內。若按呢過五分鐘久就見出功效。對嘴食是較慢，對直腸擱較慢。對肺臟是較緊，因為肺臟內毛細血管真多。
 
 ---
@@ -508,7 +508,7 @@ Nā bē chiong ióh hō͘ pīⁿ-lâng chia̍h, m̄-thang kóng ū chia̍h. Kan-
 Nā tùi chhùi chia̍h kàu ūi, tióh 20 hun-cheng-āu, chiah ē kìⁿ-chhut kong-hāu. Tùi tit-t̂ng ji̍p tióh 45 hun-cheng-āu, chiah ū hāu-iōng. Bē chia̍h ê tāi-seng lâi chia̍h ióh, pí chia̍h-pá, khah khoài khip-siu, in-ūi ūi-ni̍h bô si̍t-bu̍t chó͘-keh i teh kiâⁿ kàu ūi ê liâm-mo̍h. Nā pīⁿ tāng, huih sûn-khoân chiū khah bān, liâm-mo̍h bē thang chiàu pêng-sî ê chok-iōng, ióh khip-siu chiū khah bān. Ióh-hún kap ióh-oân khah bān, in-ūi tī ūi-t̂ng-ni̍h tióh thèng-hāu iûⁿ-kái.
 
 > **【全漢對照】**
-> **[藥吸收的時間]**
+> **［藥吸收的時間］**
 > 若對嘴食到胃，著 20 分鐘後，才會看出功效。對直腸入著 45 分鐘後，才有效用。未食的代先來食藥，比食飽，較快吸收，因為胃裡無食物阻隔伊咧行到胃的黏膜。若病重，血循環就較慢，黏膜袂通照平時的作用，藥吸收就較慢。藥粉佮藥丸較慢，因為佇胃腸裡著聽候溶解。
 
 ---
@@ -517,7 +517,7 @@ Nā tùi chhùi chia̍h kàu ūi, tióh 20 hun-cheng-āu, chiah ē kìⁿ-chhut 
 Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 
 > **【全漢對照】**
-> **[規則]**
+> **［規則］**
 > 發藥予病人的規則：
 
 ---
@@ -526,7 +526,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 1. Ū to̍k ê ióh, m̄-thang hē kap bô to̍k ê ióh siāng chi̍t só͘-chāi. Chhat ê ióh kap chia̍h ê ióh iā sī án-ni. Iàu-kín tióh kì-tit, hoān-nā ū to̍k ê ióh, m̄-thang hē tī pīⁿ-lâng bîn-chhn̂g-téng ê kè-á-ni̍h.
 
 > **【全漢對照】**
-> **[毒藥]**
+> **［毒藥］**
 > 1. 有毒的藥，毋通下佮無毒的藥同所在。擦的藥佮食的藥也是按呢。要緊著記得，凡若有毒的藥，毋通下佇病人眠床頂的架仔裡。
 
 ---
@@ -535,7 +535,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 2. Ióh-tû tióh sî-siông só-teh.
 
 > **【全漢對照】**
-> **[藥櫥著鎖]**
+> **［藥櫥著鎖］**
 > 2. 藥櫥著時常鎖咧。
 
 ---
@@ -544,7 +544,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 3. Kìⁿ-nā beh chhòng ióh-chúi hō͘ pīⁿ-lâng chia̍h ê sî, iàu-kín tióh tāi-seng chiong ióh-kan iô hō͘ i chiâu, in-ūi ióh ê goân-liāu, ū khin ū tāng. Chit ê lí-khì khàn-hō͘ èng-kai tióh chai. Ū-ê ióh-chúi ê lāi-bīn ū *bismuthum* ê ióh-hún, á-sī khah oh hòa, í-ki̍p hun-liōng tāng ê ióh-hún, koh khah iàu-kín tióh iô hō͘ chiâu-chiâu; koh tò lỏh poe-ni̍h ê sî, tióh liâm-piⁿ chia̍h, in-ūi che chin khoài tîm tóe.
 
 > **【全漢對照】**
-> **[揤予勻]**
+> **［揤予勻］**
 > 3. 見若欲創藥水予病人食的時，要緊著代先將藥矸搖予伊勻，因為藥的原料，有輕有重。此個理氣看護應該著知。有的藥水的內面有 *bismuthum*（次硝酸鉍）的藥粉，抑是較惡化，以及份量重的藥粉，閣較要緊著搖予勻勻；閣倒落杯裡的時，著連鞭食，因為這真快沉底。
 
 ---
@@ -553,7 +553,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 4. Tióh ēng chi̍t tè pôaⁿ-á, hē chi̍t tè niû-poe, chi̍t tè chúi-poe, chi̍t óaⁿ léng-kún-chúi, kap sóe chúi-poe ēng ê chúi chi̍t pôaⁿ, chi̍t tè chheng-khì pò͘. Nā hō͘ chi̍t-ê chia̍h liáu, tióh chiong tóe ióh ê poe sóe hō͘ chheng-khì, chhit hō͘ ta, chiah thang koh hō͘ pa̍t lâng chia̍h.
 
 > **【全漢對照】**
-> **[捧藥的盤]**
+> **［捧藥的盤］**
 > 4. 著用一塊盤仔，下一塊量杯，一塊水杯，一碗冷滾水，佮洗水杯用的水一盤，一塊清潔布。若予一個食了，著將貯藥的杯洗予清潔，拭予焦，才通閣予別人食。
 
 ---
@@ -562,7 +562,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 5. Pīⁿ-lâng chia̍h liáu, só͘ ēng ê poe tióh sóe hō͘ chheng-khì; m̄-tān-nā in-ūi bô chheng-khì, iā kiaⁿ-liáu chiong hit hō thoân-jiám pīⁿ iáu-bē hián-chhut ê pīⁿ-lâng, só͘ ēng ê poe koh hō͘ pa̍t lâng ēng, sī gûi-hiám.
 
 > **【全漢對照】**
-> **[著洗杯]**
+> **［著洗杯］**
 > 5. 病人食了，所用的杯著洗予清潔；毋但那是因為無清潔，也驚了將彼號傳染病猶未顯出的病人，所用的杯閣予別人用，是危險。
 
 ---
@@ -571,7 +571,7 @@ Hoat ióh hō͘ pīⁿ-lâng ê kui-chek :
 6. Hoān ū thoân-jiám pīⁿ-ê, i só͘ ēng ê mi̍h-kiāⁿ, tiāⁿ-tióh sī lóng kap pa̍t lâng teh ēng-ê bô sio-siāng.
 
 > **【全漢對照】**
-> **[傳染病的]**
+> **［傳染病的］**
 > 6. 凡有傳染病的，伊所用的物件，定著是攏佮別人咧用的無成樣（無相同）。
 
 <!-- Page 301 End -->
@@ -755,7 +755,7 @@ Chiàu phó͘-thong ê kui-chek, tióh chia̍h-pá liáu-āu n̄g tiám-cheng-k�
 Kiān-ūi-iòh (健胃藥, Stomachics): Chit hō iòh sī siòk khah khui ūi-ê, iā ōe hō͘ ūi-e̍k khah chōe. Chit hō iòh, tióh tī iáu-bē chia̍h pn̄g ê tāi-seng 15 hun-cheng chia̍h. Chhin-chhiūⁿ khó ê iòh, *nux vomica*.
 
 > **【全漢對照】**
-> 健胃藥（健胃藥, Stomachics）：這號藥是屬較開胃的，亦會予胃液較多。這號藥，著佇猶未食飯的代先 15 分鐘食。親像苦的藥，*nux vomica*（番木鼈）。
+> 健胃藥（健胃藥，Stomachics）：這號藥是屬較開胃的，亦會予胃液較多。這號藥，著佇猶未食飯的代先 15 分鐘食。親像苦的藥，*nux vomica*（番木鼈）。
 
 ---
 
@@ -764,7 +764,7 @@ Kiān-ūi-iòh (健胃藥, Stomachics): Chit hō iòh sī siòk khah khui ūi-ê
 Siau-hòa-iòh (消化藥, Digestives): Tióh chia̍h-pn̄g-pá liáu-āu 15 chì 30 hun-cheng chiah chia̍h. Ūi-ni̍h sng-e̍k nā bô kàu-gia̍h thang siau-hòa; chit hō iòh tióh chia̍h-pá chia̍h. *Pepsina, acidum lacticum, pancreatin*, sī siòk tī chit hō lūi.
 
 > **【全漢對照】**
-> 消化藥（消化藥, Digestives）：著食飯飽了後 15 至 30 分鐘才食。胃裡酸液若無夠額通消化；這號藥著食飽食。*Pepsina*（胃蛋白酶）、*acidum lacticum*（乳酸）、*pancreatin*（胰酶），是屬佇這號類。
+> 消化藥（消化藥，Digestives）：著食飯飽了後 15 至 30 分鐘才食。胃裡酸液若無夠額通消化；這號藥著食飽食。*Pepsina*（胃蛋白酶）、*acidum lacticum*（乳酸）、*pancreatin*（胰酶），是屬佇這號類。
 
 ---
 
@@ -807,7 +807,7 @@ Hā-che (sià-iòh): Nā ūi-ni̍h bô chia̍h mih ê sî, lâi chia̍h iòh, i�
 Koh só͘ ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 3).
 
 > **【全漢對照】**
-> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4: 3）。
+> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4：3）。
 
 <!-- Page 304 End -->
 
@@ -841,7 +841,7 @@ Nā ēng io̍h-oân chiū khah bān, só͘-í nā ài hō͘ i keh-jit ê chá-kh
 Bâ-chùi-io̍h (麻醉藥, *Narcotics*): Beh hō͘ i ē khùn-tit ê io̍h, tio̍h tī beh khùn ê sî chiah hō͘ chia̍h; chiàu i-īⁿ ê kui-kú tī 10 tiám-cheng (á-sī 8 tiám) ê sî, ta̍k hāng tāi-chì tio̍h lóng chhòng liáu, chiah hō͘ i chia̍h io̍h. Koh ū chi̍t chéng ài-khùn-io̍h, chhin-chhiūⁿ *sulphonal*, chit lūi ê io̍h m̄-sī kóng chia̍h liáu chiū ē khùn-tit, tio̍h chia̍h liáu-āu, óa n̄g saⁿ tiám-cheng chiah khùn. Kìⁿ-nā beh khùn ê tāi-seng tio̍h chia̍h chit ê io̍h, kàu chit ê sî khàn-hō͘ eng-kai tio̍h siat-hoat hō͘ i khùn. Tio̍h kah hō͘ i sio; pīⁿ-sek-lāi m̄-thang kóng tōa siaⁿ ōe; iā tio̍h cháh kng hō͘ i khah àm, chiah khah khoài khùn. Pīⁿ-lâng chia̍h io̍h liáu-āu, khàn-hō͘ tio̍h khòaⁿ i sím-mi̍h khoán, chhin-chhiūⁿ keh-jit khòaⁿ ū thâu-khak thiàⁿ á-bô.
 
 > **【全漢對照】**
-> 麻醉藥（麻醉藥, *Narcotics*）：欲互伊會睏得的藥，著佇欲睏的時才互食；照醫院的規矩佇 10 點鐘（抑是 8 點）的時，逐項代誌著攏創了，才互伊食藥。閣有一種愛睏藥，親像 *sulphonal*，這類的藥毋是講食了就會睏得，著食了後，倚兩三點鐘才睏。見若欲睏的大先著食彼個藥，到彼個時看護應該著設法互伊睏。著蓋互伊燒；病室內毋通講大聲話；也著遮光互伊較暗，才較快睏。病人食藥了後，看護著看伊甚麼款，親像隔日看有頭殼疼抑無。
+> 麻醉藥（麻醉藥，*Narcotics*）：欲互伊會睏得的藥，著佇欲睏的時才互食；照醫院的規矩佇 10 點鐘（抑是 8 點）的時，逐項代誌著攏創了，才互伊食藥。閣有一種愛睏藥，親像 *sulphonal*，這類的藥毋是講食了就會睏得，著食了後，倚兩三點鐘才睏。見若欲睏的大先著食彼個藥，到彼個時看護應該著設法互伊睏。著蓋互伊燒；病室內毋通講大聲話；也著遮光互伊較暗，才較快睏。病人食藥了後，看護著看伊甚麼款，親像隔日看有頭殼疼抑無。
 
 ---
 
@@ -902,7 +902,7 @@ Chhòng *oleum ricini* hō͘ pīⁿ-lâng chia̍h ê hoat:
 Ngoéh phīⁿ-khang ê lí-khì, sī lâng chai *oleum ricini* ê bī m̄-sī tùi chhùi-lāi, sī tùi phīⁿ-khang-lāi ê sîn-keng; iā koh khong-khì nā bô ji̍p phīⁿ-khang, chiū chit hō bī m̄-chai.
 
 > **【全漢對照】**
-> **[理氣]**
+> **［理氣］**
 > 夾鼻孔的理氣，是人知 *oleum ricini* 的味伓是對嘴內，是對鼻孔內的神經；亦閣空氣若無入鼻孔，就這號味伓知。
 
 ---
@@ -940,7 +940,7 @@ Pa̍t khoán ê io̍h tùi chhùi chiàh, khòaⁿ téng-bīn.
 Chō-io̍h (坐藥, *suppositorium*) chiū-sī tēng koh khoài siau-iûⁿ ê io̍h-oân that ji̍p kong-bûn (sòa ji̍p ti̍t-tn̂g), á-sī im-tō-lāi. Tī chit lia̍p io̍h-oân-lāi, ū-sî sī a-phiàn beh chí thiàⁿ ê lō͘-ēng. *Suppositorium iodoformi* sī tī-liâu im-tō-lāi lâu-chhut pháiⁿ ê e̍k, ū m̄-hó ê bī. *Suppositorium glycerini* sī beh hō͘ pīⁿ-lâng tāi-piān ê lō͘-ēng. Iā tióh khòaⁿ tē 132 tô͘.
 
 > **【全漢對照】**
-> **[坐藥]**
+> **［坐藥］**
 > 坐藥（坐藥，*suppositorium*）就是硬閣快消融的藥丸塞入肛門（續入直腸），抑是陰道內。佇這粒藥丸內，有時是鴉片欲止痛的用處。*Suppositorium iodoformi*（碘仿坐藥）是治療陰道內流出歹的液，有唔好的味。*Suppositorium glycerini*（甘油坐藥）是欲予病人大便的用處。亦著看第 132 圖。
 
 ---
@@ -962,7 +962,7 @@ Pīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tióh khoán-thāi siāng chi̍t kho
 
 ![原書插圖 - 第 307 頁 (圖 1)](assets/illustrations/page_307_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></p>
+<p class="figure-caption"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></p>
 
 </div>
 
@@ -1028,7 +1028,7 @@ Koh chi̍t hāng, chit ê chù-siā ióh-oân beh hō͘ i sòaⁿ ê hoat, ū k�
 
 ![原書插圖 - 第 308 頁 (圖 1)](assets/illustrations/page_308_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></p>
+<p class="figure-caption"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></p>
 
 </div>
 
@@ -1045,21 +1045,21 @@ oân hē chúi-lāi, iā ēng kè-sảh ê po-lê-thûi lā-lā hō͘ iûⁿ-ká
 Bē chù-siā ê tāi-seng tiòh sóe ka-kī ê chhiú, iā ēng *lotio iodi* chhat beh chù-siā ê só͘-chāi; á-sī ēng hé-chiú á-sī *ether* sóe phê-hu hō͘ i chheng-khì. *(Phê-hu tiòh siau-tòk)*
 
 > **【全漢對照】**
-> 未注射的代先著洗家己的手，也用 *lotio iodi*（碘劑）擦欲注射的所在；抑是用火酒抑是 *ether*（乙醚）洗皮膚予伊清氣。 *(皮膚著消毒)*
+> 未注射的代先著洗家己的手，也用 *lotio iodi*（碘劑）擦欲注射的所在；抑是用火酒抑是 *ether*（乙醚）洗皮膚予伊清氣。 *（皮膚著消毒）*
 
 ---
 
 Théh chù-siā-tâng kap khip-koáiⁿ, chiong ū-pī ê ióh thiu-ji̍p-khì; chiah tàu chiam. Théh chù-siā-khì tī chhiú-nih, chiam hit thâu kiàh ǹg chiūⁿ koâiⁿ, ēng chńg-thâu-á khà tâng ê piⁿ-á hō͘ lāi-bīn ê khong-khì chiūⁿ-koâiⁿ, chiah chiong khip-koáiⁿ hō͘ khong-khì lóng tû-khì. *(Khong-khì tû-khì)*
 
 > **【全漢對照】**
-> 提注射筒佮吸管（活塞桿），將預備的藥抽入去；才鬥針。提注射器佇手裡，針彼頭攑向懸（頂高），用指頭仔敲筒的邊仔予內面的空氣頂懸，才將吸管予空氣攏除去。 *(空氣除去)*
+> 提注射筒佮吸管（活塞桿），將預備的藥抽入去；才鬥針。提注射器佇手裡，針彼頭攑向懸（頂高），用指頭仔敲筒的邊仔予內面的空氣頂懸，才將吸管予空氣攏除去。 *（空氣除去）*
 
 ---
 
 Chiong chiàⁿ-chhiú théh chù-siā-khì, ēng tōa-thâu-bú kap kí-cháiⁿ chiong chù-siā-tâng kap chiam chiap ê só͘-chāi, khíⁿ hō͘ ân. Ēng tiong-cháiⁿ, bû-bêng-cháiⁿ, bé-cháiⁿ ê bé-liu hō͘ chù-siā-tâng ōe chāi. Nā án-ni kiàh, í-keng thiu-chhut-lâi ê khip-koáiⁿ ê gōa-bīn hit thâu, ōe khòa tī chhiú-chiúⁿ chhioh-kut hit pêng ê phê-bah. *(Kiàh-hoat)*
 
 > **【全漢對照】**
-> 將正手提注射器，用大頭拇佮指示（食指）將注射筒佮針接的所在，掔（夾）予絚。用中指、無名指、尾指的尾溜予注射筒會柴（穩固）。若按呢攑，已經抽出來的吸管的外面彼頭，會跨佇手掌尺骨彼邊的皮肉。 *(攑法)*
+> 將正手提注射器，用大頭拇佮指示（食指）將注射筒佮針接的所在，掔（夾）予絚。用中指、無名指、尾指的尾溜予注射筒會柴（穩固）。若按呢攑，已經抽出來的吸管的外面彼頭，會跨佇手掌尺骨彼邊的皮肉。 *（攑法）*
 
 ---
 
@@ -1068,9 +1068,9 @@ Chiong chiàⁿ-chhiú théh chù-siā-khì, ēng tōa-thâu-bú kap kí-chái�
 **Tē 182 tô͘.—Phê-ē chù-siā-hoat (Thornton).**
 
 > **【全漢對照】**
-> 用倒手的大頭拇佮指示、中指，將病人的皮膚挾起來（著細膩毋通揀有血管的所在）。用注射針插入去皮下，彼個方向毋通直直入深的金肉（肌肉），著佮皮膚平行，才會入皮下的結締質（組織）內。指頭仔照頂面的款式毋通換，著用手掌的肉，將吸管勻勻仔捒入去，彼個藥就會入。閣這個法度是照第 182 圖裡。 *(注入法)*
+> 用倒手的大頭拇佮指示、中指，將病人的皮膚挾起來（著細膩毋通揀有血管的所在）。用注射針插入去皮下，彼個方向毋通直直入深的金肉（肌肉），著佮皮膚平行，才會入皮下的結締質（組織）內。指頭仔照頂面的款式毋通換，著用手掌的肉，將吸管勻勻仔捒入去，彼個藥就會入。閣這個法度是照第 182 圖裡。 *（注入法）*
 > 
-> **第 182 圖.—皮下注射法 (Thornton)。**
+> **第 182 圖。—皮下注射法 (Thornton)。**
 
 ---
 
@@ -1148,7 +1148,7 @@ Nā ūi bōe-kham-tit chia̍h súi-gûn, i-seng ēng chit ê hoat-tō͘. Koh chi
 
 ![原書插圖 - 第 310 頁 (圖 1)](assets/illustrations/page_310_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 183 tô.—Khip-jip-koàn.</em></p>
+<p class="figure-caption"><em>Tē 183 tô.—Khip-jip-koàn.</em></p>
 
 </div>
 
@@ -1158,7 +1158,7 @@ Nā ūi bōe-kham-tit chia̍h súi-gûn, i-seng ēng chit ê hoat-tō͘. Koh chi
 Nā-sī gín-ná, ēng ióh-ko boah tī chúi-nî-pò͘, hē i ê pak-tó͘, chiah ēng pheng-tòa, á-sī hâ pak-tó͘ ê tòa kā i pák hó-sè. Ták jit tióh ēng ióh-ko boah.
 
 > **【全漢對照】**
-> [囡仔]
+> ［囡仔］
 > 若是囡仔，用藥膏抹佇水泥布，下伊的腹肚，才用繃帶，抑是合腹肚的帶共伊縛好勢。逐日著用藥膏抹。
 
 ---
@@ -1167,7 +1167,7 @@ Nā-sī gín-ná, ēng ióh-ko boah tī chúi-nî-pò͘, hē i ê pak-tó͘, chi
 Khàn-hō͘ nā ēng chit hō ióh-ko boah pīⁿ-lâng ê seng-khu, sī khah hó tióh ēng chit ki ték-pia̍t boah ióh-ko ê po-lê-thûi. Khàn-hō͘ m̄-thang ēng ka-kī ê chhiú, kiaⁿ-liáu ōe hō͘ súi-gûn tiòng-tók (tē 209 bīn).
 
 > **【全漢對照】**
-> [看護毋通用手]
+> ［看護毋通用手］
 > 看護若用這號藥膏抹病人的身軀，是較好著用一支特別抹藥膏的玻璃槌。看護毋通用家己的手，驚了會予水銀中毒（第 209 面）。
 
 ---
@@ -1178,8 +1178,8 @@ Khàn-hō͘ nā ēng chit hō ióh-ko boah pīⁿ-lâng ê seng-khu, sī khah h�
 Khip-jip-hoat (吸入法, Inhalation): Chit ê hoat-tō͘ sī ēng ióh khip-jip tī hì-chōng-lāi. Ū saⁿ khoán ê hoat:
 
 > **【全漢對照】**
-> [吸入法]
-> 吸入法（吸入法, Inhalation）：這個法度是用藥吸入佇肺臟內。有三款的法：
+> ［吸入法］
+> 吸入法（吸入法，Inhalation）：這個法度是用藥吸入佇肺臟內。有三款的法：
 
 ---
 
@@ -1187,8 +1187,8 @@ Khip-jip-hoat (吸入法, Inhalation): Chit ê hoat-tō͘ sī ēng ióh khip-jip
 1. Ēng ték-pia̍t ê ké-bīn (mask) kiò-chòe khip-khì-kiông-hì-khì (吸氣强肺器, inhaler). Chit ê ké-bīn khàm pīⁿ-lâng ê chhùi, ū tòa thang pák hī-āu, á-sī āu-khok. Tī lāi-bīn ū hái-jiông. Tī hái-jiông-téng thang piàⁿ ióh, chiah khip-jip hì-lāi. Pīⁿ-lâng nā ū hì-lô, ū-sî ēng chit hō hoat.
 
 > **【全漢對照】**
-> [假面]
-> 1. 用特別的假面（mask）叫做吸氣強肺器（吸氣强肺器, inhaler）。這個假面罨病人的喙，有帶通縛耳後，抑是後硞。佇內面有海絨。佇海絨頂通傾藥，才吸入肺內。病人若有肺癆，有時用這號法。
+> ［假面］
+> 1. 用特別的假面（mask）叫做吸氣強肺器（吸氣强肺器，inhaler）。這個假面罨病人的喙，有帶通縛耳後，抑是後硞。佇內面有海絨。佇海絨頂通傾藥，才吸入肺內。病人若有肺癆，有時用這號法。
 
 ---
 
@@ -1198,10 +1198,10 @@ Khip-jip-hoat (吸入法, Inhalation): Chit ê hoat-tō͘ sī ēng ióh khip-jip
 *(圖旁註解：Tē 183 tô͘:—Khip-jip-koàn.)*
 
 > **【全漢對照】**
-> [吸入罐]
+> ［吸入罐］
 > 2. 用一個罐貯熱水，一爿用玻璃管下佇病人的喙裡，將水罐罨予勻（安），一爿罐的喙，略略仔開予空氣透入去，病人就通將熱的氣吸入；抑是用長喙的水壺亦好。水壺內的水著 140 度 F. (60° C.) 就好；（第 183 圖）。貯滾水佇壺內，照醫生命令，用 tinctura benzoini co. 的藥 4.0 c.c.，（水 600.0 c.c.），抑是 2.0 c.c. 的 creosotum 的藥；這兩款是消毒藥，病人吸入了後，伊的呼出的氣味，會較好。若
 > 
-> *(圖旁註解：第 183 圖：——吸入罐。)*
+> *（圖旁註解：第 183 圖：——吸入罐。）*
 
 ---
 
@@ -1210,7 +1210,7 @@ Khip-jip-hoat (吸入法, Inhalation): Chit ê hoat-tō͘ sī ēng ióh khip-jip
 Góan óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 
 > **【全漢對照】**
-> 阮倚靠基督向上帝有這號的信（II 哥林多 3: 4）。
+> 阮倚靠基督向上帝有這號的信（II 哥林多 3：4）。
 
 <!-- Page 310 End -->
 
@@ -1224,7 +1224,7 @@ Góan óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 
 ![原書插圖 - 第 311 頁 (圖 1)](assets/illustrations/page_311_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></p>
+<p class="figure-caption"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></p>
 
 </div>
 
@@ -1359,7 +1359,7 @@ Tī chia beh iok-lio̍k kóng-khí kúi-nā khoán ê iòh, chiàu i ê chok-iō
 Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無求自己的利益（哥林多前書 13: 5）。
+> 仁愛無求自己的利益（哥林多前書 13：5）。
 
 <!-- Page 312 End -->
 
@@ -1572,7 +1572,7 @@ Tī chia beh kì kúi-nā hāng iòh tiòng-tók ê chèng-chōng; bô lūn sī 
 Péh-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119: 163).
 
 > **【全漢對照】**
-> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119: 163）。
+> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119：163）。
 
 <!-- Page 314 End -->
 
@@ -1727,7 +1727,7 @@ lâu-ba̍k-iû, nâ-âu thiàⁿ, chhin-chhiūⁿ kám-tio̍h ê khoán. Hoat-ch
 *Phenazonum* (*Antipyrine*) : Kap *phenacetinum* tâng chèng-chōng.
 
 > **【全漢對照】**
-> *Phenazonum* (*Antipyrine*，安替比林)：佮 *phenacetinum* 同症狀。
+> *Phenazonum* （*Antipyrine*，安替比林）：佮 *phenacetinum* 同症狀。
 
 ---
 
@@ -1771,7 +1771,7 @@ Tī chia kan-ta tāi-lio̍k kóng-khí chit nñg hāng. Khàn-hō͘ nā khòaⁿ
 Lí tio̍h chin-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû siúⁿ-sù lí (Khé-sī-lio̍k 2 : 10).
 
 > **【全漢對照】**
-> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2 : 10）。
+> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2：10）。
 
 <!-- Page 316 End -->
 
@@ -1901,7 +1901,7 @@ I-seng khui io̍h ê sî, ū-sî ēng kiám-pit ê jī; kì tī ē-tóe-ê sī p
 > | Aq. | aqua | water | 水。 |
 > | Aq. dest. | aqua destillata | distilled water | 蒸餾水。 |
 > | B. i. d. | bis in die | twice a day | 一日兩擺。 |
-> | C., 抑是 c̄ | cum | with | 相佮。 |
+> | C.，抑是 c̄ | cum | with | 相佮。 |
 > | Collun. | collunarium | nasal douche | 洗鼻孔藥。 |
 > | Collyr. | collyrium | eye wash | 洗目睭藥。 |
 > | Cras | cras | to-morrow | 明仔日。 |
@@ -2008,7 +2008,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 
 ![原書插圖 - 第 320 頁 (圖 1)](assets/illustrations/page_320_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -2016,7 +2016,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *a*, Sit-hû-tek-lí-a-sòe-khún: agar-agar pôe-iúⁿ-hoat, 24 tiám-cheng-kú.
 
 > **【全漢對照】**  
-> *a*, 窒扶的里亞細菌（白喉桿菌）：寒天培養法，24點鐘久。
+> *a*，窒扶的里亞細菌（白喉桿菌）：寒天培養法，24點鐘久。
 
 ---
 
@@ -2024,7 +2024,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *á*, Tâng : pôe-iúⁿ-hoat, 5 jit kú.
 
 > **【全漢對照】**  
-> *á*, 同：培養法，5日久。
+> *á*，同：培養法，5日久。
 
 ---
 
@@ -2032,7 +2032,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *b*, Thâm-nih ê kiat-hu̍t-sòe-khún.
 
 > **【全漢對照】**  
-> *b*, 痰裡的結核細菌。
+> *b*，痰裡的結核細菌。
 
 ---
 
@@ -2040,7 +2040,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *c*, Hó-lia̍t-la ê lê-soân-khún; agar-agar pôe-iúⁿ-hoat, 24 tiám-cheng-kú.
 
 > **【全漢對照】**  
-> *c*, 虎列拉（霍亂）的螺旋菌；寒天培養法，24點鐘久。
+> *c*，虎列拉（霍亂）的螺旋菌；寒天培養法，24點鐘久。
 
 ---
 
@@ -2048,7 +2048,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *d*, Thâm-nih ê hì-iām-siang-kiû-khún.
 
 > **【全漢對照】**  
-> *d*, 痰裡的肺炎雙球菌。
+> *d*，痰裡的肺炎雙球菌。
 
 ---
 
@@ -2056,7 +2056,7 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 *e*, Lîm-pīⁿ pâi-siat-mi̍h-nih ê lîm-khún.
 
 > **【全漢對照】**  
-> *e*, 淋病排泄物裡的淋菌。
+> *e*，淋病排泄物裡的淋菌。
 
 ---
 

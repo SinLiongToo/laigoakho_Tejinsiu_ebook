@@ -23,11 +23,11 @@ Sīn-kiat-chio̍h (腎結石, *Renal calculus*).
 > ### 論腎臟病
 > 
 > 佇此章的內面是欲約略講起腎臟病較要緊的，就是：
-> 急性腎臟炎 (急性腎臟炎, *Acute nephritis*).
-> 慢性腎臟炎 (慢性腎臟炎, *Chronic nephritis*).
-> 糖尿病 (糖尿病, *Diabetes mellitus*).
-> 尿毒症 (尿毒症, *Uræmia*).
-> 腎結石 (腎結石, *Renal calculus*).
+> 急性腎臟炎 （急性腎臟炎，*Acute nephritis*）。
+> 慢性腎臟炎 （慢性腎臟炎，*Chronic nephritis*）。
+> 糖尿病 （糖尿病，*Diabetes mellitus*）。
+> 尿毒症 （尿毒症，*Uræmia*）。
+> 腎結石 （腎結石，*Renal calculus*）。
 
 ---
 
@@ -187,7 +187,7 @@ Si̍t-bu̍t: Ti̍h ûn-ûn-á kiám-chió hâm-chúi-thòaⁿ-sò͘ (含水炭�
 Só͘ chia̍h ê io̍h chiū-sī a-phiàn ê lūi, m̄-kú bô io̍h thang táⁿ-tiap, sī ōe khah khòaⁿ-oáh nā-tiāⁿ, bōe tng-kun.
 
 > **【全漢對照】**
-> **食物**：著勻勻仔減少含水炭素（含水炭素, carbohydrates）；毋通食糖、飯、番薯及一概糖的類。所通食的物排列佇下底：較薄的湯、咖啡茶、茶、魚、蠔、雞肉、牛肉（淡薄）；（肝的類毋通食），煙肉、*quaker oats*、雞卵、鴨卵、柑仔蜜、菜瓜、菠薐菜。總是有尿內的糖若較嚴重，著較禁喙。
+> **食物**：著勻勻仔減少含水炭素（含水炭素，carbohydrates）；毋通食糖、飯、番薯及一概糖的類。所通食的物排列佇下底：較薄的湯、咖啡茶、茶、魚、蠔、雞肉、牛肉（淡薄）；（肝的類毋通食），煙肉、*quaker oats*、雞卵、鴨卵、柑仔蜜、菜瓜、菠薐菜。總是有尿內的糖若較嚴重，著較禁喙。
 > 
 > 所食的藥就是鴉片的類，毋過無藥通拍帖，是會較快活若定，袂斷根。
 
@@ -203,7 +203,7 @@ Jiō-to̍k chèng: Tēng-gī: Chit ê pīⁿ chiū-sī sím-mih
 *Lí tio̍h chīn-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû siúⁿ-sù lí (Khé-sī-lio̍k 2:10).*
 
 > **【全漢對照】**
-> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2:10）。
+> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2：10）。
 
 <!-- Page 585 End -->
 
@@ -245,7 +245,7 @@ Tī-liâu : Kap i-tī sīn-chōng-iām saⁿ-tâng. Tio̍h chai chit-ê sī gûi
 Sīn-chio̍h : Tēng-gī : Chit ê pīⁿ chiū-sī tī sīn-chōng, á-sī tī sīn-m̂g (腎門), jiō-lāi ê iâm-lūi ū kiat tēng pīⁿ-chiâⁿ kuí lia̍p chio̍h.
 
 > **【全漢對照】**  
-> 腎石：定義：這個病就是佇腎臟，抑是佇腎門 (腎門)，尿內的鹽類有結硬變成幾粒石。
+> 腎石：定義：這個病就是佇腎臟，抑是佇腎門 （腎門），尿內的鹽類有結硬變成幾粒石。
 
 ---
 
@@ -263,7 +263,7 @@ Goân-in : Bô lūn siàu-liân á-sī lāu, lóng ū. Ûi-thoân ê pīⁿ. Ch�
 Chèng-chōng : Io thiàⁿ, jiō-nih kâⁿ huih, á-sī lâng. Chit ê chio̍h nā keng-kè su-jiō-kńg (輸尿管), sī chin thiàⁿ; hit ê thiàⁿ sī tī tōa-thúi ê lāi pêng, kiò-chòe sīn-chio̍h sàn-thiàⁿ (腎石疝痛). Pīⁿ-lâng ōe lâu kōaⁿ, bīn ōe tńg pe̍h, áu-thò͘, ū-sî kôaⁿ-chia̍t kàu ōe tiō. Thiàⁿ liáu-āu siáu-piān khah-chōe.
 
 > **【全漢對照】**  
-> 症狀：腰疼，尿裡含血，抑是膿。這個石若經過輸尿管 (輸尿管)，是真疼；彼個疼是佇大腿的內旁，叫做腎石疝痛 (腎石疝痛)。病人會流汗，面會轉白，嘔吐，有時寒掣到會跳。疼了後小便較多。
+> 症狀：腰疼，尿裡含血，抑是膿。這個石若經過輸尿管 （輸尿管），是真疼；彼個疼是佇大腿的內旁，叫做腎石疝痛 （腎石疝痛）。病人會流汗，面會轉白，嘔吐，有時寒掣到會跳。疼了後小便較多。
 
 ---
 
@@ -281,14 +281,14 @@ Tī-liâu : Tio̍h lim chúi khah-chōe. Chit lia̍p chio̍h i-seng tio̍h chhia
 Pông-kong ê pīⁿ ū kúi-nā khoán, chia beh kóng-khí nñg hāng nā-tiāⁿ, chiū-sī pông-kong-iām, iā kiò pông-kong-ka-tap-jî (膀胱加答兒), kap pông-kong-lāi-kiat-chio̍h.
 
 > **【全漢對照】**  
-> 膀胱的病有幾若款，遮欲講起兩項若定，就是膀胱炎，也叫膀胱加答兒 (膀胱加答兒)，佮膀胱內結石。
+> 膀胱的病有幾若款，遮欲講起兩項若定，就是膀胱炎，也叫膀胱加答兒 （膀胱加答兒），佮膀胱內結石。
 
 ---
 
-> Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thái-thó ū tiàm tī i ah (I Iok-hān 3 : 17)?
+> Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thái-thó ū tiàm tī i ah (I Iok-hān 3：17)?
 > 
 > **【全漢對照】**  
-> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈有踮佇伊啊 (I 約翰 3 : 17)？
+> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈有踮佇伊啊 (I 約翰 3：17)？
 
 <!-- Page 586 End -->
 

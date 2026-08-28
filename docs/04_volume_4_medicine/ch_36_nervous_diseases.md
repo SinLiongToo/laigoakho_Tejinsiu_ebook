@@ -25,13 +25,13 @@ Lūn sîn-keng pīⁿ khiok sī chin chōe, tī chia só kóng-ê sī khah-siôn
 > ### 論神經病  
 > 
 > 論神經病則是真多，佇遮所講的是較常抵著的，就是：  
-> &emsp;&emsp;腦出血 (腦出血, *Cerebral hæmorrhage*)。  
-> &emsp;&emsp;腦膜炎 (腦膜炎, *Meningitis*)。  
-> &emsp;&emsp;腦腫瘍 (腦腫瘍, *Cerebral tumour*)。  
-> &emsp;&emsp;羊癇 (癲癇, *Epilepsy*)。  
-> &emsp;&emsp;腦貧血 (腦貧血, *Cerebral anæmia*)。  
-> &emsp;&emsp;神經衰弱 (神經衰弱, *Neurasthenia*)。  
-> &emsp;&emsp;*Hysteria* (歇斯底里)。
+> &emsp；&emsp；腦出血 （腦出血，*Cerebral hæmorrhage*）。  
+> &emsp；&emsp；腦膜炎 （腦膜炎，*Meningitis*）。  
+> &emsp；&emsp；腦腫瘍 （腦腫瘍，*Cerebral tumour*）。  
+> &emsp；&emsp；羊癇 （癲癇，*Epilepsy*）。  
+> &emsp；&emsp；腦貧血 （腦貧血，*Cerebral anæmia*）。  
+> &emsp；&emsp；神經衰弱 （神經衰弱，*Neurasthenia*）。  
+> &emsp；&emsp；*Hysteria* （歇斯底里）。
 
 ---
 
@@ -218,7 +218,7 @@ Hoat-choh ê keng-kè liáu-āu, bô tiāⁿ-tio̍h lōa-kú, chiū
 Jîn-ài sī gâu khoan-iông, chû-pi ; jîn-ài sī bô oàn-tò͘ ; jîn-ài bô khoa-kháu, bô phín-phóng (I Ko-lîm-to 13 : 4).
 
 > **【全漢對照】**
-> 仁愛是猴（善於）寬容、慈悲；仁愛是無怨妬；仁愛無誇口、無品磅（I 哥林多 13 : 4）。
+> 仁愛是猴（善於）寬容、慈悲；仁愛是無怨妬；仁愛無誇口、無品磅（I 哥林多 13：4）。
 
 <!-- Page 590 End -->
 
@@ -388,7 +388,7 @@ Chit ê pīⁿ ê chèng-chōng chōe koh cha̍p, bē tit thang chiâu kóng-kh�
 
 ---
 
-> *[註/頁底註記]*
+> *［註/頁底註記］*
 > Thé-un-khì m̄-thang hō͘ gín-ná ka-kī ēng, á-sī put-séng-jîn-sū ê lâng, kiaⁿ-liáu ōe phah-phòa.
 > 
 > **【全漢對照】**
@@ -406,7 +406,7 @@ Chit ê pīⁿ ê chèng-chōng chōe koh cha̍p, bē tit thang chiâu kóng-kh�
 
 ![原書插圖 - 第 593 頁 (圖 1)](assets/illustrations/page_593_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></p>
 
 </div>
 
@@ -466,7 +466,7 @@ Tē 472a tô͘.—Chhì chhek-kài-kiān hoán-èng ê hoat-tô͘ (Clinical Meth
 Jîn-ài bô hoaⁿ-hí put-gī, sī kap chin-lí saⁿ-kap hoaⁿ-hí (I Ko-lîm-to 13: 6).
 
 > **【全漢對照】**
-> 仁愛無歡喜不義，是佮真理相佮歡喜（I 哥林多 13: 6）。
+> 仁愛無歡喜不義，是佮真理相佮歡喜（I 哥林多 13：6）。
 
 <!-- Page 593 End -->
 

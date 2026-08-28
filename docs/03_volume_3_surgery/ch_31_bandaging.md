@@ -13,15 +13,15 @@
 
 ![原書插圖 - 第 452 頁 (圖 1)](assets/illustrations/page_452_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Pheng-tòa bé Tē 304 tô.</em></p>
+<p class="figure-caption"><em>Pheng-tòa bé Tē 304 tô.</em></p>
 
 ![原書插圖 - 第 452 頁 (圖 2)](assets/illustrations/page_452_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 305 tô.</em></p>
+<p class="figure-caption"><em>Tē 305 tô.</em></p>
 
 ![原書插圖 - 第 452 頁 (圖 3)](assets/illustrations/page_452_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 306 tô.</em></p>
+<p class="figure-caption"><em>Tē 306 tô.</em></p>
 
 </div>
 
@@ -161,11 +161,11 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 
 ![原書插圖 - 第 454 頁 (圖 1)](assets/illustrations/page_454_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 307 tô.</em></p>
+<p class="figure-caption"><em>Tē 307 tô.</em></p>
 
 ![原書插圖 - 第 454 頁 (圖 2)](assets/illustrations/page_454_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 308 tô.</em></p>
+<p class="figure-caption"><em>Tē 308 tô.</em></p>
 
 </div>
 
@@ -203,11 +203,11 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 
 ![原書插圖 - 第 455 頁 (圖 1)](assets/illustrations/page_455_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 309 tô.</em></p>
+<p class="figure-caption"><em>Tē 309 tô.</em></p>
 
 ![原書插圖 - 第 455 頁 (圖 2)](assets/illustrations/page_455_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 310 tô.</em></p>
+<p class="figure-caption"><em>Tē 310 tô.</em></p>
 
 </div>
 
@@ -255,7 +255,7 @@ Tē 310 tô͘.
 
 > **【全漢對照】**
 > 2. 用繃帶來纏，著趁這個勢面：對下面跤抑是手纏到頂面的大腿，抑是肩頭；對內面到外面，經過四肢的頭前面。
-> 3. 繃帶的張力（張力, *tension*, 就是鬆及緊）著平平。
+> 3. 繃帶的張力（張力，*tension*，就是鬆及緊）著平平。
 
 <!-- Page 455 End -->
 
@@ -312,7 +312,7 @@ Tē 310 tô͘.
 Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ chhin-chhiūⁿ góa thiàⁿ lín, che sī góa ê bēng-lēng (Iok-hān 15 : 12).
 
 > **【全漢對照】**
-> 耶穌講恁著相疼親像我疼恁，這是我兮命令（約翰 15:12）。
+> 耶穌講恁著相疼親像我疼恁，這是我兮命令（約翰 15：12）。
 
 <!-- Page 456 End -->
 
@@ -326,7 +326,7 @@ Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ chhin-chhiūⁿ góa thiàⁿ lín, che
 
 ![原書插圖 - 第 457 頁 (圖 1)](assets/illustrations/page_457_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></p>
+<p class="figure-caption"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></p>
 
 </div>
 
@@ -363,7 +363,7 @@ Phah-kat ū nn̄g hāng ê hoat; chi̍t hāng sī kiò-chòe hong-kat (方結, *
 ![Tē 312, 313 tô͘.—Si̍p-jī-kat (Warwick and Tunstall).](image)
 Tē 312, 313 tô͘.—Si̍p-jī-kat (Warwick and Tunstall).
 > **【全漢對照】**
-> 第 312, 313 圖。——十字結 (Warwick and Tunstall).
+> 第 312, 313 圖。——十字結 (Warwick and Tunstall)。
 
 ---
 
@@ -397,11 +397,11 @@ Phah hong-kat ê hoat-tō͘, tióh chiàu ē-bīn: Chiong pheng-tòa siang-chhi�
 
 ![原書插圖 - 第 458 頁 (圖 1)](assets/illustrations/page_458_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 314, 315 tô:—Hong-kat.</em></p>
+<p class="figure-caption"><em>Tē 314, 315 tô:—Hong-kat.</em></p>
 
 ![原書插圖 - 第 458 頁 (圖 2)](assets/illustrations/page_458_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 316 tô.</em></p>
+<p class="figure-caption"><em>Tē 316 tô.</em></p>
 
 </div>
 
@@ -461,7 +461,7 @@ Kiò-chòe chit ê miâ, in-ūi tîⁿ liáu, i ê khoán-sit sī sió-khóa chh
 Pèh-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119: 163).
 
 > **【全漢對照】**
-> 白賊話我怨恨閣厭惡，總是有疼（疼惜）你的律法（詩篇 119: 163）。
+> 白賊話我怨恨閣厭惡，總是有疼（疼惜）你的律法（詩篇 119：163）。
 
 <!-- Page 458 End -->
 
@@ -475,7 +475,7 @@ Pèh-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu�
 
 ![原書插圖 - 第 459 頁 (圖 1)](assets/illustrations/page_459_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 317 tô.</em></p>
+<p class="figure-caption"><em>Tē 317 tô.</em></p>
 
 </div>
 
@@ -520,11 +520,11 @@ The̍h chit khûn chhit hun khoah, 3 chhioh tng ê pheng-tòa, khí tîⁿ tī j
 
 ![原書插圖 - 第 460 頁 (圖 1)](assets/illustrations/page_460_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 318 tô.</em></p>
+<p class="figure-caption"><em>Tē 318 tô.</em></p>
 
 ![原書插圖 - 第 460 頁 (圖 2)](assets/illustrations/page_460_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 319 tô.</em></p>
+<p class="figure-caption"><em>Tē 319 tô.</em></p>
 
 </div>
 
@@ -565,15 +565,15 @@ Tē 319 tô͘.
 
 ![原書插圖 - 第 461 頁 (圖 1)](assets/illustrations/page_461_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 320 tô.</em></p>
+<p class="figure-caption"><em>Tē 320 tô.</em></p>
 
 ![原書插圖 - 第 461 頁 (圖 2)](assets/illustrations/page_461_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 321 tô.</em></p>
+<p class="figure-caption"><em>Tē 321 tô.</em></p>
 
 ![原書插圖 - 第 461 頁 (圖 3)](assets/illustrations/page_461_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 322 tô.</em></p>
+<p class="figure-caption"><em>Tē 322 tô.</em></p>
 
 </div>
 
@@ -611,19 +611,19 @@ chi̍t hūn (tē 323 tô͘). Tîⁿ kàu chíng-thâu-á ê thâu-chat, pheng-t�
 
 ![原書插圖 - 第 462 頁 (圖 1)](assets/illustrations/page_462_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 323 tô.</em></p>
+<p class="figure-caption"><em>Tē 323 tô.</em></p>
 
 ![原書插圖 - 第 462 頁 (圖 2)](assets/illustrations/page_462_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 324 tô.</em></p>
+<p class="figure-caption"><em>Tē 324 tô.</em></p>
 
 ![原書插圖 - 第 462 頁 (圖 3)](assets/illustrations/page_462_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 325 tô.</em></p>
+<p class="figure-caption"><em>Tē 325 tô.</em></p>
 
 ![原書插圖 - 第 462 頁 (圖 4)](assets/illustrations/page_462_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 326 tô· (Heath).</em></p>
+<p class="figure-caption"><em>Tē 326 tô· (Heath).</em></p>
 
 </div>
 
@@ -635,7 +635,7 @@ teh hit 6 chhùn lâi saⁿ-kat tī jiâu-óaⁿ-koan-chat ê āu-bīn pêng (t�
 
 > **【全漢對照】**
 > 壓彼 6 寸來相結佇手腕關節的後面便（第 325 圖）。
-> *(邊註：纏指頭仔)*
+> *（邊註：纏指頭仔）*
 
 ---
 
@@ -664,11 +664,11 @@ Siat-sú beh tîⁿ 2, 3 ki chúng-thâu-á, tiòh seng tîⁿ tī óa bé-chái
 
 ![原書插圖 - 第 463 頁 (圖 1)](assets/illustrations/page_463_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 327 tô.</em></p>
+<p class="figure-caption"><em>Tē 327 tô.</em></p>
 
 ![原書插圖 - 第 463 頁 (圖 2)](assets/illustrations/page_463_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 328 tô.</em></p>
+<p class="figure-caption"><em>Tē 328 tô.</em></p>
 
 </div>
 
@@ -680,8 +680,8 @@ Siat-sú beh tîⁿ 2, 3 ki chúng-thâu-á, tiòh seng tîⁿ tī óa bé-chái
 The̍h chit khûn chhit hùn khoah, 4½ chhioh tn̂g ê pheng-tòa, khí tîⁿ tī jiâu-óaⁿ-koan-chat ê chêng-bīn, pheng-tòa-bé tióh liōng 6 chhùn tn̂g, hō͘ i tūi-lóh, (tē 327 tô͘). Pheng-tòa tióh thôaⁿ kè gōa-bīn pêng tùi chhiú-pôaⁿ kàu hit ki beh tîⁿ ê chúg-thâu-á, kàu tiong-chat kap thâu-chat tiong-ng ê koan-chat hit ba̍k (tē 327 tô͘); pheng-tòa tióh tùi chia khàm bé-liu, koh tò-tńg khàm chúg-thâu-á ê chêng-bīn (tē 328 tô͘). Tī chia tióh ngoéh hō͘ i tiâu, chiong pheng-tòa seh ji̍p nn̄g ki chng-thâu-á ê tiong-ng hit bīn, iu-goân ngoéh hō͘ i tiâu (tē 329 tô͘), tùi chia koh khàm kàu bé-liu (tē 330 tô͘); chiah koh khàm hit-pêng kàu goân-ūi (tē 331 tô͘); chiah tîⁿ chi̍t lìn, lâi hō͘ só͘ ngoéh-teh ê só͘-chāi ōe tiâu (tē 332 tô͘); taⁿ pheng-tòa tióh koh tîⁿ chi̍t lìn, kàu chúg-thâu-á-bé, tī chia koh tîⁿ chi̍t lìn, lâi pau chêng só͘ khàm-ê, chiah chiap-sòa chiàu
 
 > **【全漢對照】**
-> ### 繃帶纏蓋指頭仔尾的方法 (*Bandage to cover top of finger*):
-> *(纏蓋指頭仔尾)*
+> ### 繃帶纏蓋指頭仔尾的方法 (*Bandage to cover top of finger*)：
+> *（纏蓋指頭仔尾）*
 >
 > 提一群七分闊，4½ 尺長兮繃帶，起纏佇手腕關節兮前面，繃帶尾著量 6 寸長，予伊墜落（第 327 圖）。繃帶著拖過外面旁對手盤到彼支欲纏兮指頭仔，到中節佮頭節中間兮關節彼目（第 327 圖）；繃帶著對遮蓋尾溜，閣倒轉蓋指頭仔兮前面（第 328 圖）。佇遮著夾予伊稠，將繃帶踅入兩支指頭仔兮中間彼面，依然夾予伊稠（第 329 圖），對遮閣蓋到尾溜（第 330 圖）；才閣蓋彼旁到原位（第 331 圖）；才纏一輾，來予所夾咧兮所在會稠（第 332 圖）；今繃帶著閣纏一輾，到指頭仔尾，佇遮閣纏一輾，來包前所蓋兮，才接續照
 
@@ -704,11 +704,11 @@ Tāi-, siáu-piān liáu, piān-khì tióh liâm-piⁿ phâng chhut pīⁿ-sek-g
 
 ![原書插圖 - 第 464 頁 (圖 1)](assets/illustrations/page_464_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 329 tô.</em></p>
+<p class="figure-caption"><em>Tē 329 tô.</em></p>
 
 ![原書插圖 - 第 464 頁 (圖 2)](assets/illustrations/page_464_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 330 tô.</em></p>
+<p class="figure-caption"><em>Tē 330 tô.</em></p>
 
 </div>
 
@@ -719,7 +719,7 @@ Tāi-, siáu-piān liáu, piān-khì tióh liâm-piⁿ phâng chhut pīⁿ-sek-g
 lê-hêng-tîⁿ-hoat tîⁿ kàu chíng-thâu-á ê thâu-chat, ta̍k lûn tio̍h khàm chêng lûn 3 hūn ê 2 hūn. Nā kàu chia tio̍h
 
 > **【全漢對照】**  
-> **[邊註：纏蓋指頭仔尾]**  
+> **［邊註：纏蓋指頭仔尾］**  
 > 螺形纏法纏到指頭仔的頭節，逐輪著蓋前輪3份的2份。若到遮著
 
 ---
@@ -751,15 +751,15 @@ chhòng chhin-chhiūⁿ tē 324, 325 tô͘ í-keng kóng-khí-ê phah chi̍t-ê 
 
 ![原書插圖 - 第 465 頁 (圖 1)](assets/illustrations/page_465_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 331 tô.</em></p>
+<p class="figure-caption"><em>Tē 331 tô.</em></p>
 
 ![原書插圖 - 第 465 頁 (圖 2)](assets/illustrations/page_465_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 332 tô.</em></p>
+<p class="figure-caption"><em>Tē 332 tô.</em></p>
 
 ![原書插圖 - 第 465 頁 (圖 3)](assets/illustrations/page_465_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 333 tô.</em></p>
+<p class="figure-caption"><em>Tē 333 tô.</em></p>
 
 </div>
 
@@ -782,13 +782,13 @@ Tē 333 tô͘.
 > 
 > ### 纏蓋指頭仔尾
 > 
-> [第 331 圖]  
+> ［第 331 圖］  
 > 第 331 圖。
 > 
-> [第 332 圖]  
+> ［第 332 圖］  
 > 第 332 圖。
 > 
-> [第 333 圖]  
+> ［第 333 圖］  
 > 第 333 圖。
 
 <!-- Page 465 End -->
@@ -803,11 +803,11 @@ Tē 333 tô͘.
 
 ![原書插圖 - 第 466 頁 (圖 1)](assets/illustrations/page_466_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 334 tô.</em></p>
+<p class="figure-caption"><em>Tē 334 tô.</em></p>
 
 ![原書插圖 - 第 466 頁 (圖 2)](assets/illustrations/page_466_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 335 tô.</em></p>
+<p class="figure-caption"><em>Tē 335 tô.</em></p>
 
 </div>
 
@@ -822,7 +822,7 @@ Nā pau-siong-liāu khah-chōe, ēng chit ê hoat-tō͘ khah hó. Pheng-tòa tî
 > **螺形反纏指頭仔（445）**  
 > 
 > **繃帶螺形反纏指頭仔的法（*Reversed spiral bandage of finger*）：**  
-> [邊註：螺形反纏指頭仔]  
+> ［邊註：螺形反纏指頭仔］  
 > 
 > 若包傷料較濟，用這个法度較好。繃帶纏起親像第 320、322 圖已經講起的；佇指甲的半月著照
 
@@ -861,11 +861,11 @@ lê-hêng ê hoat tîⁿ chi̍t lùn, chíng-kah m̄-thang khàm ba̍t. Tùi chi
 
 ![原書插圖 - 第 467 頁 (圖 1)](assets/illustrations/page_467_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 336 tô.</em></p>
+<p class="figure-caption"><em>Tē 336 tô.</em></p>
 
 ![原書插圖 - 第 467 頁 (圖 2)](assets/illustrations/page_467_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 337 tô.</em></p>
+<p class="figure-caption"><em>Tē 337 tô.</em></p>
 
 </div>
 
@@ -964,11 +964,11 @@ bīn, koh ke tîⁿ chi̍t lìn tī jiâu-óaⁿ-koan-chat, hō͘ pheng-tòa ōe
 
 ![原書插圖 - 第 469 頁 (圖 1)](assets/illustrations/page_469_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 340 tô.</em></p>
+<p class="figure-caption"><em>Tē 340 tô.</em></p>
 
 ![原書插圖 - 第 469 頁 (圖 2)](assets/illustrations/page_469_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 341 tô.</em></p>
+<p class="figure-caption"><em>Tē 341 tô.</em></p>
 
 </div>
 
@@ -1013,11 +1013,11 @@ The̍h chi̍t khûn nn̄g chhùn khoah, chi̍t tn̄g tn̂g ê pheng-
 
 ![原書插圖 - 第 470 頁 (圖 1)](assets/illustrations/page_470_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 342 tô.</em></p>
+<p class="figure-caption"><em>Tē 342 tô.</em></p>
 
 ![原書插圖 - 第 470 頁 (圖 2)](assets/illustrations/page_470_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 343 tô.</em></p>
+<p class="figure-caption"><em>Tē 343 tô.</em></p>
 
 </div>
 
@@ -1055,11 +1055,11 @@ thâu-á ê āu-bīn kàu bé-cháiⁿ (tē 342 tô͘ 2). Tio̍h koh tîⁿ chi�
 
 ![原書插圖 - 第 471 頁 (圖 1)](assets/illustrations/page_471_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 344 tô.</em></p>
+<p class="figure-caption"><em>Tē 344 tô.</em></p>
 
 ![原書插圖 - 第 471 頁 (圖 2)](assets/illustrations/page_471_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 345 tô.</em></p>
+<p class="figure-caption"><em>Tē 345 tô.</em></p>
 
 </div>
 
@@ -1144,11 +1144,11 @@ kàu bé-cháiⁿ ê thâu-chat (tē 346 tô͘ 1) ; tùi chia tîⁿ kè chhiú-
 
 ![原書插圖 - 第 473 頁 (圖 1)](assets/illustrations/page_473_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 348 tô.</em></p>
+<p class="figure-caption"><em>Tē 348 tô.</em></p>
 
 ![原書插圖 - 第 473 頁 (圖 2)](assets/illustrations/page_473_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 349 tô.</em></p>
+<p class="figure-caption"><em>Tē 349 tô.</em></p>
 
 </div>
 
@@ -1196,15 +1196,15 @@ siông-sè kóng. Tióh án-ni chiap-sòa lâi tîⁿ kàu beh kàu tiú-koan-ch
 
 ![原書插圖 - 第 474 頁 (圖 1)](assets/illustrations/page_474_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 350 tô.</em></p>
+<p class="figure-caption"><em>Tē 350 tô.</em></p>
 
 ![原書插圖 - 第 474 頁 (圖 2)](assets/illustrations/page_474_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 351 tô.</em></p>
+<p class="figure-caption"><em>Tē 351 tô.</em></p>
 
 ![原書插圖 - 第 474 頁 (圖 3)](assets/illustrations/page_474_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 352 tô.</em></p>
+<p class="figure-caption"><em>Tē 352 tô.</em></p>
 
 </div>
 
@@ -1215,7 +1215,7 @@ siông-sè kóng. Tióh án-ni chiap-sòa lâi tîⁿ kàu beh kàu tiú-koan-ch
 > **【全漢對照】**
 > **纏肘關節（453）**
 > 
-> **繃帶纏肘關節的法度 (*Bandage of elbow*):**
+> **繃帶纏肘關節的法度 (*Bandage of elbow*)：**
 
 ---
 
@@ -1264,11 +1264,11 @@ Tiú-koan-chat tio̍h kiu-khí-lâi, chiah the̍h chi̍t khûn n̄g chhùn khoah
 
 ![原書插圖 - 第 475 頁 (圖 1)](assets/illustrations/page_475_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 353 tô.</em></p>
+<p class="figure-caption"><em>Tē 353 tô.</em></p>
 
 ![原書插圖 - 第 475 頁 (圖 2)](assets/illustrations/page_475_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 354 tô.</em></p>
+<p class="figure-caption"><em>Tē 354 tô.</em></p>
 
 </div>
 
@@ -1312,11 +1312,11 @@ Tē 354 tô͘.
 
 ![原書插圖 - 第 476 頁 (圖 1)](assets/illustrations/page_476_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 355 tô.</em></p>
+<p class="figure-caption"><em>Tē 355 tô.</em></p>
 
 ![原書插圖 - 第 476 頁 (圖 2)](assets/illustrations/page_476_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 356 tô.</em></p>
+<p class="figure-caption"><em>Tē 356 tô.</em></p>
 
 </div>
 
@@ -1366,15 +1366,15 @@ Pheng-tòa tîⁿ tiū-sūi-hêng tī keng-thâu ê tîⁿ-hoat (*Spica bandage 
 
 ![原書插圖 - 第 477 頁 (圖 1)](assets/illustrations/page_477_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 357 tô.</em></p>
+<p class="figure-caption"><em>Tē 357 tô.</em></p>
 
 ![原書插圖 - 第 477 頁 (圖 2)](assets/illustrations/page_477_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 358 tô.</em></p>
+<p class="figure-caption"><em>Tē 358 tô.</em></p>
 
 ![原書插圖 - 第 477 頁 (圖 3)](assets/illustrations/page_477_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 359 tô.</em></p>
+<p class="figure-caption"><em>Tē 359 tô.</em></p>
 
 </div>
 
@@ -1394,7 +1394,7 @@ tîⁿ chi̍t lìn kè chhiú, chi̍t lìn tio̍h pí tī siōng-phok ê tiong-n
 > 
 > 提一捆三寸闊，2 丈 4 尺長的繃帶。著照螺旋纏法
 > 
-> *(第 357 圖、第 358 圖、第 359 圖)*
+> *（第 357 圖、第 358 圖、第 359 圖）*
 > 
 > 纏一輪過手，一輪著比佇上膊的中央兩寸較懸（第 359 圖）。
 
@@ -1410,19 +1410,19 @@ tîⁿ chi̍t lìn kè chhiú, chi̍t lìn tio̍h pí tī siōng-phok ê tiong-n
 
 ![原書插圖 - 第 478 頁 (圖 1)](assets/illustrations/page_478_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 360 tô.</em></p>
+<p class="figure-caption"><em>Tē 360 tô.</em></p>
 
 ![原書插圖 - 第 478 頁 (圖 2)](assets/illustrations/page_478_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 361 tô.</em></p>
+<p class="figure-caption"><em>Tē 361 tô.</em></p>
 
 ![原書插圖 - 第 478 頁 (圖 3)](assets/illustrations/page_478_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 362 tô.</em></p>
+<p class="figure-caption"><em>Tē 362 tô.</em></p>
 
 ![原書插圖 - 第 478 頁 (圖 4)](assets/illustrations/page_478_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 363 tô.</em></p>
+<p class="figure-caption"><em>Tē 363 tô.</em></p>
 
 </div>
 
@@ -1432,7 +1432,7 @@ tîⁿ chi̍t lìn kè chhiú, chi̍t lìn tio̍h pí tī siōng-phok ê tiong-n
 
 > **【全漢對照】**  
 > 纏穗形佇肩頭 (457)  
-> [側標] 纏穗形佇肩頭
+> ［側標］ 纏穗形佇肩頭
 
 ---
 
@@ -1474,7 +1474,7 @@ Tē 363 tô͘.
 
 ![原書插圖 - 第 479 頁 (圖 1)](assets/illustrations/page_479_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 364 tô.</em></p>
+<p class="figure-caption"><em>Tē 364 tô.</em></p>
 
 </div>
 
@@ -1512,11 +1512,11 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 
 ![原書插圖 - 第 480 頁 (圖 1)](assets/illustrations/page_480_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 365 tô.</em></p>
+<p class="figure-caption"><em>Tē 365 tô.</em></p>
 
 ![原書插圖 - 第 480 頁 (圖 2)](assets/illustrations/page_480_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 366 tô.</em></p>
+<p class="figure-caption"><em>Tē 366 tô.</em></p>
 
 </div>
 
@@ -1558,7 +1558,7 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 
 ![原書插圖 - 第 481 頁 (圖 1)](assets/illustrations/page_481_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 367 tô.</em></p>
+<p class="figure-caption"><em>Tē 367 tô.</em></p>
 
 </div>
 
@@ -1594,19 +1594,19 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 
 ![原書插圖 - 第 482 頁 (圖 1)](assets/illustrations/page_482_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 368 tô.</em></p>
+<p class="figure-caption"><em>Tē 368 tô.</em></p>
 
 ![原書插圖 - 第 482 頁 (圖 2)](assets/illustrations/page_482_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 369 tô.</em></p>
+<p class="figure-caption"><em>Tē 369 tô.</em></p>
 
 ![原書插圖 - 第 482 頁 (圖 3)](assets/illustrations/page_482_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 370 tô.</em></p>
+<p class="figure-caption"><em>Tē 370 tô.</em></p>
 
 ![原書插圖 - 第 482 頁 (圖 4)](assets/illustrations/page_482_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 371 tô.</em></p>
+<p class="figure-caption"><em>Tē 371 tô.</em></p>
 
 </div>
 
@@ -1624,9 +1624,9 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 **Tē 368 tô͘.**
 
 > **【全漢對照】**
-> ### [第 368 圖]
+> ### ［第 368 圖］
 >
-> [第 368 圖：照圖所教，提療帶對頭前向肩尖部位纏起去（指示 7）。]
+> ［第 368 圖：照圖所教，提療帶對頭前向肩尖部位纏起去（指示 7）。］
 >
 > **第 368 圖。**
 
@@ -1639,9 +1639,9 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 **Tē 369 tô͘.**
 
 > **【全漢對照】**
-> ### [第 369 圖]
+> ### ［第 369 圖］
 >
-> [第 369 圖：提療帶對後壁斜對做十字形纏過（指示 6 佮 8）。]
+> ［第 369 圖：提療帶對後壁斜對做十字形纏過（指示 6 佮 8）。］
 >
 > **第 369 圖。**
 
@@ -1654,9 +1654,9 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 **Tē 370 tô͘.**
 
 > **【全漢對照】**
-> ### [第 370 圖]
+> ### ［第 370 圖］
 >
-> [第 370 圖：提療帶對胸前佮手翅橫向療纏（指示 3-4 佮 9）。]
+> ［第 370 圖：提療帶對胸前佮手翅橫向療纏（指示 3-4 佮 9）。］
 >
 > **第 370 圖。**
 
@@ -1669,9 +1669,9 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 **Tē 371 tô͘.**
 
 > **【全漢對照】**
-> ### [第 371 圖]
+> ### ［第 371 圖］
 >
-> [第 371 圖：纏鎖骨完全療法ê正面狀況佮逐界纏帶ê順序記號。]
+> ［第 371 圖：纏鎖骨完全療法ê正面狀況佮逐界纏帶ê順序記號。］
 >
 > **第 371 圖。**
 
@@ -1687,11 +1687,11 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 
 ![原書插圖 - 第 483 頁 (圖 1)](assets/illustrations/page_483_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 372 tô.</em></p>
+<p class="figure-caption"><em>Tē 372 tô.</em></p>
 
 ![原書插圖 - 第 483 頁 (圖 2)](assets/illustrations/page_483_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 373 tô.</em></p>
+<p class="figure-caption"><em>Tē 373 tô.</em></p>
 
 </div>
 
@@ -1727,11 +1727,11 @@ Chiong chi̍t khûn saⁿ chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, khí tî�
 
 ![原書插圖 - 第 484 頁 (圖 1)](assets/illustrations/page_484_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 374 tô.</em></p>
+<p class="figure-caption"><em>Tē 374 tô.</em></p>
 
 ![原書插圖 - 第 484 頁 (圖 2)](assets/illustrations/page_484_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 375 tô.</em></p>
+<p class="figure-caption"><em>Tē 375 tô.</em></p>
 
 </div>
 
@@ -1742,7 +1742,7 @@ Chiong chi̍t khûn saⁿ chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, khí tî�
 > **【全漢對照】**
 > ### 纏一粒乳房 (463)
 > 
-> [纏一粒乳房]
+> ［纏一粒乳房］
 
 ---
 
@@ -1770,11 +1770,11 @@ Tē 375 tô͘.
 
 ![原書插圖 - 第 485 頁 (圖 1)](assets/illustrations/page_485_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 376 tô.</em></p>
+<p class="figure-caption"><em>Tē 376 tô.</em></p>
 
 ![原書插圖 - 第 485 頁 (圖 2)](assets/illustrations/page_485_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 377 tô.</em></p>
+<p class="figure-caption"><em>Tē 377 tô.</em></p>
 
 </div>
 
@@ -1825,7 +1825,7 @@ Tē 378 tô͘.
 
 > **【全漢對照】**  
 > 第 378 圖。  
-> *(旁註：纏一粒乳房 / 纏兩粒乳房)*
+> *（旁註：纏一粒乳房 / 纏兩粒乳房）*
 
 ---
 
@@ -1843,7 +1843,7 @@ Tióh théh chi̍t khûn 3 chhùn khoah, 4 tng 8 chhioh tn̂g ê pheng-tòa, chh
 Tē 379 tô͘. (Heath).
 
 > **【全漢對照】**  
-> 第 379 圖。(Heath).
+> 第 379 圖。(Heath)。
 
 ---
 
@@ -1852,7 +1852,7 @@ Tē 379 tô͘. (Heath).
 Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 
 > **【全漢對照】**
-> 仁愛無快受氣（I 哥林多 13 : 5.）
+> 仁愛無快受氣（I 哥林多 13：5.）
 
 <!-- Page 486 End -->
 
@@ -1866,7 +1866,7 @@ Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 
 ![原書插圖 - 第 487 頁 (圖 1)](assets/illustrations/page_487_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 380 tô.</em></p>
+<p class="figure-caption"><em>Tē 380 tô.</em></p>
 
 </div>
 
@@ -1883,7 +1883,7 @@ Pheng-tòa tîⁿ tiū-sūi-hêng tī ām-kún ê tîⁿ-hoat (*Spica bandage fo
 Ām-kún nā siū-siong, á-sī chhiú-su̍t tī ām-kún ê só͘-chāi, ēng chit ê tîⁿ-hoat, hō͘ pau-siong-liāu bē sóa-ūi. The̍h chi̍t khûn 2 chhùn khoah, 2 tn̄g tn̂g ê pheng-tòa, khí tîⁿ tī keng-thâu-téng (tē 380 tô͘ 1). Kè koh-ē-khang, tîⁿ kè ām-kún chi̍t nn̄g līn (tē 380 tô͘ 2, 3, 4). Chiah tîⁿ kè ām-kún (tē 380 tô͘ 5), hā-go̍k-ē bô siū-siong hit pêng hī-á-āu, kè thâu-khak-téng, lo̍h lâi siū-siong chit pêng hī-á ê chêng-bīn (6); chiah koh chi̍t pái tī hā-go̍k-ē, bô siū-siong hit-pêng hī-á ê chêng-bīn, kè thâu-khak-téng (8), lo̍h khì siū-siong chit pêng ê hī-á ê āu-bīn, á-sī hī-á-téng. Chiah koh chi̍t pái tī hā-go̍k-ē, tîⁿ thâu-khak kàu āu-khok, chiah tîⁿ thâu-hia̍h, chiū ēng pín-chiam kā i pín tiâu. Chhòng chit-ê liáu, tio̍h ēng sì gō͘ ki an-jiân-pín-chiam kā i pín, hō͘ i bē sóa-ūi (tē 380 tô͘ 9, 10).
 
 > **【全漢對照】**
-> 繃帶纏稻穗形佇頷頸的纏法 (*Spica bandage for the neck*):
+> 繃帶纏稻穗形佇頷頸的纏法 (*Spica bandage for the neck*)：
 > 頷頸若受傷，抑是手術佇頷頸的所在，用這个纏法，予包傷料𣍐移位。提一捆 2 寸闊，2 丈長的繃帶，起纏佇肩頭頂（第 380 圖 1）。過夾下空，纏過頷頸一兩轔（第 380 圖 2, 3, 4）。才纏過頷頸（第 380 圖 5），下顎下無受傷彼邊耳仔後，過頭殼頂，落來受傷這邊耳仔的前面 (6)；才閣一擺佇下顎下，無受傷彼邊耳仔的前面，過頭殼頂 (8)，落去受傷這邊的耳仔的後面，抑是耳仔頂。才閣一擺佇下顎下，纏頭殼到後硞，才纏頭額，就用扁針共伊扁牢。創這个了，著用四五支安全扁針共伊扁，予伊𣍐移位（第 380 圖 9, 10）。
 
 ---
@@ -1894,7 +1894,7 @@ Thâu-khak ê tîⁿ-hoat (*Bandage for the head*):
 Tē it khoài ê hoat-tō͘ sī hoâiⁿ-hêng tîⁿ tùi āu-khok kè thâu-hia̍h. Nā án-ni tîⁿ kiaⁿ-liáu ōe sóa-ūi, só͘-í tio̍h koh tîⁿ chi̍t nn̄g līn tī hā-go̍k-ē, kè thâu-khak-téng. Tāi-seng chiong an-jiân-pín-chiam pín hit ê hoâiⁿ-hêng hit līn hō͘ i khah chāi (tē 381 tô͘ 1 jī ê hō sī chí pín-chiam). Tîⁿ kè
 
 > **【全漢對照】**
-> 頭殼的纏法 (*Bandage for the head*):
+> 頭殼的纏法 (*Bandage for the head*)：
 > 第一快的方法是橫形纏對後硞過頭額。若按呢纏驚了會移位，所以著閣纏一兩轔佇下顎下，過頭殼頂。代先將安全扁針扁彼个橫形彼轔予伊較在（第 381 圖 1 字的號是指扁針）。纏過
 
 <!-- Page 487 End -->
@@ -1909,15 +1909,15 @@ Tē it khoài ê hoat-tō͘ sī hoâiⁿ-hêng tîⁿ tùi āu-khok kè thâu-hi
 
 ![原書插圖 - 第 488 頁 (圖 1)](assets/illustrations/page_488_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 381 tô. (Heath).</em></p>
+<p class="figure-caption"><em>Tē 381 tô. (Heath).</em></p>
 
 ![原書插圖 - 第 488 頁 (圖 2)](assets/illustrations/page_488_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 382 tô.</em></p>
+<p class="figure-caption"><em>Tē 382 tô.</em></p>
 
 ![原書插圖 - 第 488 頁 (圖 3)](assets/illustrations/page_488_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 383 tô.</em></p>
+<p class="figure-caption"><em>Tē 383 tô.</em></p>
 
 </div>
 
@@ -1957,27 +1957,27 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 
 ![原書插圖 - 第 489 頁 (圖 1)](assets/illustrations/page_489_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 384 tô.</em></p>
+<p class="figure-caption"><em>Tē 384 tô.</em></p>
 
 ![原書插圖 - 第 489 頁 (圖 2)](assets/illustrations/page_489_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 385 tô.</em></p>
+<p class="figure-caption"><em>Tē 385 tô.</em></p>
 
 ![原書插圖 - 第 489 頁 (圖 3)](assets/illustrations/page_489_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 386 tô.</em></p>
+<p class="figure-caption"><em>Tē 386 tô.</em></p>
 
 ![原書插圖 - 第 489 頁 (圖 4)](assets/illustrations/page_489_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 387 tô.</em></p>
+<p class="figure-caption"><em>Tē 387 tô.</em></p>
 
 ![原書插圖 - 第 489 頁 (圖 5)](assets/illustrations/page_489_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 388 tô.</em></p>
+<p class="figure-caption"><em>Tē 388 tô.</em></p>
 
 ![原書插圖 - 第 489 頁 (圖 6)](assets/illustrations/page_489_fig_06.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 389 tô.</em></p>
+<p class="figure-caption"><em>Tē 389 tô.</em></p>
 
 </div>
 
@@ -2022,15 +2022,15 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 
 ![原書插圖 - 第 490 頁 (圖 1)](assets/illustrations/page_490_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 390 tô.</em></p>
+<p class="figure-caption"><em>Tē 390 tô.</em></p>
 
 ![原書插圖 - 第 490 頁 (圖 2)](assets/illustrations/page_490_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 391 tô.</em></p>
+<p class="figure-caption"><em>Tē 391 tô.</em></p>
 
 ![原書插圖 - 第 490 頁 (圖 3)](assets/illustrations/page_490_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 392 tô.</em></p>
+<p class="figure-caption"><em>Tē 392 tô.</em></p>
 
 </div>
 
@@ -2072,15 +2072,15 @@ lóng-chóng ê thâu-khak-phê, khòaⁿ (tē 390 chì 395 tô͘). Beh chhòng 
 
 ![原書插圖 - 第 491 頁 (圖 1)](assets/illustrations/page_491_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 393 tô.</em></p>
+<p class="figure-caption"><em>Tē 393 tô.</em></p>
 
 ![原書插圖 - 第 491 頁 (圖 2)](assets/illustrations/page_491_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 394 tô.</em></p>
+<p class="figure-caption"><em>Tē 394 tô.</em></p>
 
 ![原書插圖 - 第 491 頁 (圖 3)](assets/illustrations/page_491_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 395 tô.</em></p>
+<p class="figure-caption"><em>Tē 395 tô.</em></p>
 
 </div>
 
@@ -2141,27 +2141,27 @@ The̍h chi̍t tiâu tòa 3 chhioh tn̂g, 6 chhùn khoah, ēng ka-to lâi ka khui
 
 ![原書插圖 - 第 492 頁 (圖 1)](assets/illustrations/page_492_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 396 tô.</em></p>
+<p class="figure-caption"><em>Tē 396 tô.</em></p>
 
 ![原書插圖 - 第 492 頁 (圖 2)](assets/illustrations/page_492_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 397 tô.</em></p>
+<p class="figure-caption"><em>Tē 397 tô.</em></p>
 
 ![原書插圖 - 第 492 頁 (圖 3)](assets/illustrations/page_492_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 398 tô.</em></p>
+<p class="figure-caption"><em>Tē 398 tô.</em></p>
 
 ![原書插圖 - 第 492 頁 (圖 4)](assets/illustrations/page_492_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 399 tô.</em></p>
+<p class="figure-caption"><em>Tē 399 tô.</em></p>
 
 ![原書插圖 - 第 492 頁 (圖 5)](assets/illustrations/page_492_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 400 tô.</em></p>
+<p class="figure-caption"><em>Tē 400 tô.</em></p>
 
 ![原書插圖 - 第 492 頁 (圖 6)](assets/illustrations/page_492_fig_06.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 401 tô.</em></p>
+<p class="figure-caption"><em>Tē 401 tô.</em></p>
 
 </div>
 
@@ -2174,7 +2174,7 @@ The̍h chi̍t tiâu tòa 3 chhioh tn̂g, 6 chhùn khoah, ēng ka-to lâi ka khui
 *〔邊註：Sì-tiâu-bé tîⁿ thâu-khak〕*
 
 > **【全漢對照】**
-> *(前段接續)*……各得分做兩條，總是在中央站 6 寸長無鉸透（看第 396 圖）。纏法著看第 397—400 圖。
+> *（前段接續）*……各得分做兩條，總是在中央站 6 寸長無鉸透（看第 396 圖）。纏法著看第 397—400 圖。
 > 
 > *〔邊註：四條尾纏頭殼〕*
 
@@ -2224,7 +2224,7 @@ Oāⁿ pau-siong-liāu ê tāi-seng, tióh ták hāng ū-pī.
 
 ![原書插圖 - 第 493 頁 (圖 1)](assets/illustrations/page_493_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 402 tô.</em></p>
+<p class="figure-caption"><em>Tē 402 tô.</em></p>
 
 </div>
 
@@ -2272,11 +2272,11 @@ The̍h pheng-tòa 15 chhioh tn̂g, 2 chhùn khoah. Tāi-seng chiong pheng-tòa �
 
 ![原書插圖 - 第 494 頁 (圖 1)](assets/illustrations/page_494_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 403 tô. (After Heath.)</em></p>
+<p class="figure-caption"><em>Tē 403 tô. (After Heath.)</em></p>
 
 ![原書插圖 - 第 494 頁 (圖 2)](assets/illustrations/page_494_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 404 tô.</em></p>
+<p class="figure-caption"><em>Tē 404 tô.</em></p>
 
 </div>
 
@@ -2286,7 +2286,7 @@ The̍h pheng-tòa 15 chhioh tn̂g, 2 chhùn khoah. Tāi-seng chiong pheng-tòa �
 tîⁿ chiūⁿ thâu-khak-téng, tîⁿ lo̍h kàu tò-pêng hī-á-āu, tī chia teh-tio̍h khí tîⁿ pheng-tòa ê bé-liu; án-ni sī thâu chit ê 8-jī hêng chit lìn. Tē jī lìn chiap-sòa tîⁿ kè ām-kún-āu, chiàⁿ-pêng hī-á-ē, khàm-ba̍t chhùi-ē-táu, kàu ām-kún-āu; che sī tē jī lìn bêng-pe̍k. Tio̍h án-ni chiap-sòa tîⁿ kúi-nā lìn kàu chheng-chhó. Beh soah ê sî, tòa tio̍h tú-tú tī thâu-khak-téng, chiah ēng pín-chiam pín tiâu. Nā beh hō͘ i khah tiâu, tio̍h ēng an-jiân-pín-chiam pín tiâu tī siang-pêng hī-á-téng hun-chhe ê só͘-chāi. Koh chi̍t ki tī ām-kún-āu;
 
 > **【全漢對照】**
-> [邊註：纏下顎]
+> ［邊註：纏下顎］
 > 纏上頭殼頂，纏落到倒爿耳仔後，佇遮壓著起纏繃帶的尾溜；按呢是頭一個 8 字形一輾。第二輾接續纏過頷頸後，正爿耳仔下，崁密喙下兜，到頷頸後；這是第二輾明白。著按呢接續纏幾若輾到清楚。欲煞的時，帶著拄拄佇頭殼頂，才用別針（pín-chiam）插牢。若欲予伊較牢，著用安全別針插牢佇雙爿耳仔頂分岔的所在。閣一支佇頷頸後；
 
 ---
@@ -2302,7 +2302,7 @@ tîⁿ chiūⁿ thâu-khak-téng, tîⁿ lo̍h kàu tò-pêng hī-á-āu, tī ch
 （第 404 圖）
 
 > **【全漢對照】**
-> [邊註：纏跤]
+> ［邊註：纏跤］
 > （第 404 圖）
 
 <!-- Page 494 End -->
@@ -2317,11 +2317,11 @@ tîⁿ chiūⁿ thâu-khak-téng, tîⁿ lo̍h kàu tò-pêng hī-á-āu, tī ch
 
 ![原書插圖 - 第 495 頁 (圖 1)](assets/illustrations/page_495_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 405 tô.</em></p>
+<p class="figure-caption"><em>Tē 405 tô.</em></p>
 
 ![原書插圖 - 第 495 頁 (圖 2)](assets/illustrations/page_495_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 406 tô.</em></p>
+<p class="figure-caption"><em>Tē 406 tô.</em></p>
 
 </div>
 
@@ -2371,11 +2371,11 @@ Théh chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tng ê pheng-tòa, khí 
 
 ![原書插圖 - 第 496 頁 (圖 1)](assets/illustrations/page_496_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 407 tô.</em></p>
+<p class="figure-caption"><em>Tē 407 tô.</em></p>
 
 ![原書插圖 - 第 496 頁 (圖 2)](assets/illustrations/page_496_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 408 tô.</em></p>
+<p class="figure-caption"><em>Tē 408 tô.</em></p>
 
 </div>
 
@@ -2389,7 +2389,7 @@ Théh chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tng ê pheng-tòa, khí 
 pêng, kè kha ê chêng-bīn kàu kha-bé-cháiⁿ ê kha-kah (tē 404 tô͘); tùi chia tîⁿ kè kha-chiúⁿ kàu kha tōa-thâu-bú, chiàu lê-hêng-tîⁿ-hoat tîⁿ chi̍t lìn, kè kha-pôaⁿ (tē 405 tô͘
 
 > **【全漢對照】**
-> **[纏腳]**
+> **［纏腳］**
 > 邊，過腳的前面到腳尾指的腳甲（第 404 圖）；對遮纏過腳掌到腳大頭姆，照犁形纏法纏一輪，過腳盤（第 405 圖
 
 ---
@@ -2411,14 +2411,14 @@ Tē 408 tô͘.
 2). Koh chi̍t pái tîⁿ kè kha-chiúⁿ, chi̍t lìn tio̍h khàm chêng lìn 3 hūn ê 2 hūn, kè kha-tōa-thâu-bú, kè kha-pôaⁿ
 
 > **【全漢對照】**
-> 2). 閣一擺纏過腳掌，一輪著崁前輪 3 份的 2 份，過腳大頭姆，過腳盤
+> 2)。閣一擺纏過腳掌，一輪著崁前輪 3 份的 2 份，過腳大頭姆，過腳盤
 
 ---
 
 Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無求家己的利益（I 哥林多 13: 5）。
+> 仁愛無求家己的利益（I 哥林多 13：5）。
 
 <!-- Page 496 End -->
 
@@ -2432,11 +2432,11 @@ Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 
 ![原書插圖 - 第 497 頁 (圖 1)](assets/illustrations/page_497_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 409 tô.</em></p>
+<p class="figure-caption"><em>Tē 409 tô.</em></p>
 
 ![原書插圖 - 第 497 頁 (圖 2)](assets/illustrations/page_497_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 410 tô.</em></p>
+<p class="figure-caption"><em>Tē 410 tô.</em></p>
 
 </div>
 
@@ -2447,7 +2447,7 @@ Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 kàu chiok-koan-chat ê gōa-bīn pêng (tē 406 tô͘ 3). Tîⁿ kè chiok-koan-chat ê āu-bīn, kàu lāi-bīn pêng, tùi chia koh chi̍t pái kè kha-pôaⁿ kàu kha-bé-cháiⁿ, án-ni chiū-sī Se-kok 8-jī hêng (tē 407 tô͘). Tio̍h chiap-sòa tîⁿ kàu bêng-pe̍k, chiah chhòng hō͘ i tiâu, chhin-chhiūⁿ tī tē 408 tô͘.
 
 > **【全漢對照】**
-> **[纏跤]**
+> **［纏跤］**
 > 到足關節的外面爿（第 406 圖 3）。纏過足關節的後面，到內面爿，對遮閣一擺過跤盤到跤尾指，按呢就是西國 8 字形（第 407 圖）。著接續纏到明白，才創予伊牢，親像佇第 408 圖。
 
 ---
@@ -2472,7 +2472,7 @@ Pheng-tòa tîⁿ kha-āu-tiⁿ ê hoat (*Bandage for the heel*):
 The̍h chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tn̂g ê pheng-tòa, khí tîⁿ tī kha-āu-tiⁿ ê lāi-bīn pêng (tē 409 tô͘). Chiàu lê-hêng-tîⁿ-hoat tîⁿ nñg lûn kè kha-
 
 > **【全漢對照】**
-> **[纏跤後𬡢]**
+> **［纏跤後𬡢］**
 > 繃帶纏跤後𬡢的方法（*Bandage for the heel*）：
 > 提一捆兩寸半闊，12 尺長的繃帶，起纏佇跤後𬡢的內面爿（第 409 圖）。照螺形纏法纏兩輪過跤——
 
@@ -2488,11 +2488,11 @@ The̍h chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tn̂g ê pheng-tòa, kh
 
 ![原書插圖 - 第 498 頁 (圖 1)](assets/illustrations/page_498_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 411 tô.</em></p>
+<p class="figure-caption"><em>Tē 411 tô.</em></p>
 
 ![原書插圖 - 第 498 頁 (圖 2)](assets/illustrations/page_498_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 412 tô.</em></p>
+<p class="figure-caption"><em>Tē 412 tô.</em></p>
 
 </div>
 
@@ -2536,11 +2536,11 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 
 ![原書插圖 - 第 499 頁 (圖 1)](assets/illustrations/page_499_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 413 tô:</em></p>
+<p class="figure-caption"><em>Tē 413 tô:</em></p>
 
 ![原書插圖 - 第 499 頁 (圖 2)](assets/illustrations/page_499_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 414 tô:</em></p>
+<p class="figure-caption"><em>Tē 414 tô:</em></p>
 
 </div>
 
@@ -2592,11 +2592,11 @@ koan-chat ê lāi-bīn pêng tîⁿ kè kha-pôaⁿ, kàu kha ê gōa-bīn pêng
 
 ![原書插圖 - 第 500 頁 (圖 1)](assets/illustrations/page_500_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 415 tô.</em></p>
+<p class="figure-caption"><em>Tē 415 tô.</em></p>
 
 ![原書插圖 - 第 500 頁 (圖 2)](assets/illustrations/page_500_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 416 tô.</em></p>
+<p class="figure-caption"><em>Tē 416 tô.</em></p>
 
 </div>
 
@@ -2606,7 +2606,7 @@ koan-chat ê lāi-bīn pêng tîⁿ kè kha-pôaⁿ, kàu kha ê gōa-bīn pêng
 8-jī hêng. Taⁿ tióh chiàu 8-jī hêng, tîⁿ nñg saⁿ lìn, kàu chiok-koan-chat khàm bêng-pe̍k, chiah chiàu lê-hêng-tîⁿ-hoat, tîⁿ chi̍t nñg lìn kè kha, tī chiok-koan-chat ê téng-bīn tām-póh (tē 415 tô͘). Nā ài khah ióng, thâu chi̍t-ê 8-jī hêng chòe liáu, thang koh tîⁿ chi̍t-ê 8-jī hêng, tú-tú tī chêng lìn ê téng-bīn, kā i khàm ba̍t, chiah chiap-sòa chiàu téng-bīn só͘ kóng, tîⁿ kàu bêng-pe̍k.
 
 > **【全漢對照】**
-> **[纏足關節]**
+> **［纏足關節］**
 > 8字形。今著照 8 字形，纏兩三輪，到足關節崁明白，才照螺形纏法，纏一兩輪過跤，佇足關節的頂面淡薄（第 415 圖）。若愛較勇，頭一個 8 字形做了，通閣纏一個 8 字形，拄拄佇前輪的頂面，共伊崁密，才接續照頂面所講，纏到明白。
 
 ---
@@ -2623,8 +2623,8 @@ koan-chat ê lāi-bīn pêng tîⁿ kè kha-pôaⁿ, kàu kha ê gōa-bīn pêng
 Tîⁿ kha ê sî, khah hó tióh seng tîⁿ nñg saⁿ lìn kè kha kap chiok-koan-chat. Tióh khè kha tī í-liâu-téng, hō͘ i khah
 
 > **【全漢對照】**
-> ### 繃帶纏跤的法 (*Bandage for the leg*):
-> **[纏跤]**
+> ### 繃帶纏跤的法 (*Bandage for the leg*)：
+> **［纏跤］**
 > 纏跤的時，較好著先纏兩三輪過跤佮足關節。著憩跤佇椅橑頂，予伊較……
 
 ---
@@ -2647,11 +2647,11 @@ Sóe pīⁿ-lâng ê sî, chúi tióh chiàu i-seng só͘ hoan-hù ê un-tō͘, 
 
 ![原書插圖 - 第 501 頁 (圖 1)](assets/illustrations/page_501_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 417 tô.</em></p>
+<p class="figure-caption"><em>Tē 417 tô.</em></p>
 
 ![原書插圖 - 第 501 頁 (圖 2)](assets/illustrations/page_501_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 418 tô.</em></p>
+<p class="figure-caption"><em>Tē 418 tô.</em></p>
 
 </div>
 
@@ -2697,11 +2697,11 @@ lī-piān. The̍h chi̍t khûn 2½ chhùn khoah, 18 chhioh tn̂g ê pheng-tòa, 
 
 ![原書插圖 - 第 502 頁 (圖 1)](assets/illustrations/page_502_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 419 tô.</em></p>
+<p class="figure-caption"><em>Tē 419 tô.</em></p>
 
 ![原書插圖 - 第 502 頁 (圖 2)](assets/illustrations/page_502_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 420 tô.</em></p>
+<p class="figure-caption"><em>Tē 420 tô.</em></p>
 
 </div>
 
@@ -2714,7 +2714,7 @@ Chhek-koan-chat tio̍h kiu-khí-lâi, chiah the̍h chit khûn 2½ chhùn khoah, 
 
 > **【全漢對照】**  
 > **繃帶纏膝關節的法（*Bandage for the knee*）：**  
-> *(邊註：纏膝關節)*  
+> *（邊註：纏膝關節）*  
 > 膝關節著抅起來，才提一捆 2½ 寸闊，一丈至丈半長的繃帶，起纏膝關節的內面朋（第 419 圖），照螺形纏法，纏兩輪過膝蓋骨，此兩輪著相疊（第 420 圖 1—2）。對遮將繃帶纏較懸佇膝關節，纏一輪，此輪著蓋前兩輪，三分的的一分
 
 ---
@@ -2758,7 +2758,7 @@ Tióh ēng chi̍t khûn 3 chhùn khoah 24 chhioh tn̂g ê pheng-tòa. Chit ê ho
 
 > **【全漢對照】**
 > ### 繃帶纏大腿的法 (*Bandage for the thigh*)
-> *(邊註：纏大腿)*
+> *（邊註：纏大腿）*
 > 
 > 著用一梱 3 寸闊 24 尺長的繃帶。這個法度是拄拄照纏上膊的纏法相像（第 357—358 圖）。
 
@@ -2774,11 +2774,11 @@ Tióh ēng chi̍t khûn 3 chhùn khoah 24 chhioh tn̂g ê pheng-tòa. Chit ê ho
 
 ![原書插圖 - 第 504 頁 (圖 1)](assets/illustrations/page_504_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 423 tô.</em></p>
+<p class="figure-caption"><em>Tē 423 tô.</em></p>
 
 ![原書插圖 - 第 504 頁 (圖 2)](assets/illustrations/page_504_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 424 tô.</em></p>
+<p class="figure-caption"><em>Tē 424 tô.</em></p>
 
 </div>
 
@@ -2793,7 +2793,7 @@ Tio̍h the̍h chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, chiàu
 > **纏髀臼關節（483）**  
 > 
 > **繃帶纏髀臼關節的方法 (*Bandage for the hip*)：**  
-> *[旁註：纏髀臼關節]*  
+> *［旁註：纏髀臼關節］*  
 > 
 > 著提一捲 3 寸闊、24 尺長的繃帶，照螺形纏一輾過大腿，此輾著比大腿骨的中央兩寸較懸（第 423 圖）。著照螺形反纏法纏三四輾過大腿，才將繃帶過大腿纏上去過髀臼關節，過病人的尻脊後（第 424 圖 4），對遐纏過腹肚到大腿的外面邊（第 425 圖 5）；按呢纏就做 8 字形。著接續纏到纏明白，才佇病人腹肚前，創予伊牢（第 426 圖）。
 
@@ -2806,7 +2806,7 @@ Tio̍h the̍h chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, chiàu
 
 > **【全漢對照】**  
 > **繃帶纏稻穗形佇髂邊的纏法 (*Spica bandage for the groin*)：**  
-> *[旁註：稻穗形纏髂邊]*
+> *［旁註：稻穗形纏髂邊］*
 
 <!-- Page 504 End -->
 
@@ -2820,15 +2820,15 @@ Tio̍h the̍h chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, chiàu
 
 ![原書插圖 - 第 505 頁 (圖 1)](assets/illustrations/page_505_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 425 tô.</em></p>
+<p class="figure-caption"><em>Tē 425 tô.</em></p>
 
 ![原書插圖 - 第 505 頁 (圖 2)](assets/illustrations/page_505_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 426 tô.</em></p>
+<p class="figure-caption"><em>Tē 426 tô.</em></p>
 
 ![原書插圖 - 第 505 頁 (圖 3)](assets/illustrations/page_505_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 427 tô.</em></p>
+<p class="figure-caption"><em>Tē 427 tô.</em></p>
 
 </div>
 
@@ -2878,7 +2878,7 @@ Tē 427 tô͘.
 
 ![原書插圖 - 第 506 頁 (圖 1)](assets/illustrations/page_506_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 428 tô.</em></p>
+<p class="figure-caption"><em>Tē 428 tô.</em></p>
 
 </div>
 
@@ -2911,7 +2911,7 @@ Théh chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, khí tîⁿ t�
 Théh chi̍t khûn 3 chhùn khoah, 48 chhioh tn̂g ê pheng-tòa, khí tîⁿ chhin-chhiūⁿ í-keng kóng (tē 427, 428 tô͘). Nā khí tîⁿ tī chia̍h-pêng, tio̍h tîⁿ kè ka-chiah-āu, chiah kè pak-tó͘
 
 > **【全漢對照】**
-> ### 繃帶纏稻穗形佇兩旁膎邊的纏法 (*Spica bandage for both groins*):
+> ### 繃帶纏稻穗形佇兩旁膎邊的纏法 (*Spica bandage for both groins*)：
 > 
 > 〔側標：兩旁膎邊〕
 > 
@@ -2936,11 +2936,11 @@ Tio̍h khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 
 ![原書插圖 - 第 507 頁 (圖 1)](assets/illustrations/page_507_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 429 tô.</em></p>
+<p class="figure-caption"><em>Tē 429 tô.</em></p>
 
 ![原書插圖 - 第 507 頁 (圖 2)](assets/illustrations/page_507_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 430 tô.</em></p>
+<p class="figure-caption"><em>Tē 430 tô.</em></p>
 
 </div>
 
@@ -2985,11 +2985,11 @@ T-jī pheng-tòa ê chok-iōng sī beh tîⁿ tī kong-bûn, hōe-im, kap gōa-i
 
 ![原書插圖 - 第 508 頁 (圖 1)](assets/illustrations/page_508_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 431 tô.</em></p>
+<p class="figure-caption"><em>Tē 431 tô.</em></p>
 
 ![原書插圖 - 第 508 頁 (圖 2)](assets/illustrations/page_508_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 432 tô.</em></p>
+<p class="figure-caption"><em>Tē 432 tô.</em></p>
 
 </div>
 
@@ -3003,7 +3003,7 @@ Tîⁿ ê sî chiah ê thán-ti̍t-ê kè gōa-im-pō͘ tōa-thúi-tiong, pák t
 > ### 纏穗形佇兩爿佮髀 487
 > 纏的時 chiah 的坦直的過外陰部大腿中，縛佇彼條坦橫的合帶。
 > 
-> *(邊註：纏穗形佇兩爿佮髀)*
+> *（邊註：纏穗形佇兩爿佮髀）*
 
 ---
 
@@ -3031,19 +3031,19 @@ Tîⁿ ê sî chiah ê thán-ti̍t-ê kè gōa-im-pō͘ tōa-thúi-tiong, pák t
 
 ![原書插圖 - 第 509 頁 (圖 1)](assets/illustrations/page_509_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 433 tô.</em></p>
+<p class="figure-caption"><em>Tē 433 tô.</em></p>
 
 ![原書插圖 - 第 509 頁 (圖 2)](assets/illustrations/page_509_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 434 tô.</em></p>
+<p class="figure-caption"><em>Tē 434 tô.</em></p>
 
 ![原書插圖 - 第 509 頁 (圖 3)](assets/illustrations/page_509_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 434a tô.</em></p>
+<p class="figure-caption"><em>Tē 434a tô.</em></p>
 
 ![原書插圖 - 第 509 頁 (圖 4)](assets/illustrations/page_509_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 435 tô.</em></p>
+<p class="figure-caption"><em>Tē 435 tô.</em></p>
 
 </div>
 
@@ -3073,7 +3073,7 @@ The̍h chi̍t tiâu tòa 6 chhùn khoah, 3 chhioh tn̂g, chhu thán-ti̍t tī to
 
 ![原書插圖 - 第 510 頁 (圖 1)](assets/illustrations/page_510_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 436 tô.</em></p>
+<p class="figure-caption"><em>Tē 436 tô.</em></p>
 
 </div>
 
@@ -3128,11 +3128,11 @@ Nā ū sím-mih mi̍h phah-phòa, á-sī phah-m̄-kìⁿ tio̍h liâm-piⁿ thon
 
 ![原書插圖 - 第 511 頁 (圖 1)](assets/illustrations/page_511_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 437 tô.</em></p>
+<p class="figure-caption"><em>Tē 437 tô.</em></p>
 
 ![原書插圖 - 第 511 頁 (圖 2)](assets/illustrations/page_511_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></p>
+<p class="figure-caption"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></p>
 
 </div>
 
@@ -3186,15 +3186,15 @@ Saⁿ-kak hêng ê kò͘-chō tio̍h khòaⁿ tē 438 tô͘. Chiong saⁿ-kak-t�
 
 ![原書插圖 - 第 512 頁 (圖 1)](assets/illustrations/page_512_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 439 tô.</em></p>
+<p class="figure-caption"><em>Tē 439 tô.</em></p>
 
 ![原書插圖 - 第 512 頁 (圖 2)](assets/illustrations/page_512_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 440 tô.</em></p>
+<p class="figure-caption"><em>Tē 440 tô.</em></p>
 
 ![原書插圖 - 第 512 頁 (圖 3)](assets/illustrations/page_512_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 441 tô.</em></p>
+<p class="figure-caption"><em>Tē 441 tô.</em></p>
 
 </div>
 
@@ -3205,7 +3205,7 @@ Saⁿ-kak hêng ê kò͘-chō tio̍h khòaⁿ tē 438 tô͘. Chiong saⁿ-kak-t�
 siū-siong ê chhiú kiu-óa heng-chêng, chhiú tio̍h pí tiú-koan-chat khah koâiⁿ tām-póh (1 chì 2 chhùn). Jiân-āu chiong ē-bīn hit thâu tí-kak the̍h-khí-lâi khàm siū-siong ê chhiú, chiah chiong siang thâu ê tí-kak, lâi saⁿ-kat-teh tī só-kut-ē ê só͘-chāi. Lō͘-bé chiong téng-tiám, tio̍h hō͘ ti̍t, chiah khàm tiú-koan-chat kap siōng-phok ê ē-toan (tē 440 tô͘); chiah chiong an-jiân-pín-chiam pín-tiâu chhin-chhiūⁿ tē 441 tô͘.
 
 > **【全漢對照】**
-> **[三角帶]**
+> **［三角帶］**
 > 受傷的手抅倚胸前，手著比肘關節較懸淡薄（1至2寸）。然後將下面彼頭底角提起來蓋受傷的手，才將雙頭的底角，來相結佇鎖骨下的所在。路尾將頂點，著予直，才蓋肘關節佮上膊的下端（第 440 圖）；才將安全別針（pin-chiam）別牢親像第 441 圖。
 
 ---
@@ -3218,7 +3218,7 @@ Saⁿ-kak-tòa phè tiú-koan-chat :
 Chiong tí-kak chi̍t thâu hē tī siū-siong chi̍t pêng ê keng-thâu-téng, téng-tiám ǹg tī bô siū-siong hit pêng ; chiah chiong siū-siong ê chhiú kiu-khí-lâi,
 
 > **【全漢對照】**
-> **[帔肘關節]**
+> **［帔肘關節］**
 > 三角帶帔肘關節：
 > 將底角一頭下佇受傷一爿的肩頭頂，頂點向佇無受傷彼爿；才將受傷的手抅起來，
 
@@ -3245,15 +3245,15 @@ hōaⁿ tī bô siong ê keng-thâu-téng (tē 442 tô͘). Chiong ē-tóe hit th
 
 ![原書插圖 - 第 513 頁 (圖 1)](assets/illustrations/page_513_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 442 tô.</em></p>
+<p class="figure-caption"><em>Tē 442 tô.</em></p>
 
 ![原書插圖 - 第 513 頁 (圖 2)](assets/illustrations/page_513_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 443 tô.</em></p>
+<p class="figure-caption"><em>Tē 443 tô.</em></p>
 
 ![原書插圖 - 第 513 頁 (圖 3)](assets/illustrations/page_513_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 444 tô.</em></p>
+<p class="figure-caption"><em>Tē 444 tô.</em></p>
 
 </div>
 
@@ -3275,7 +3275,7 @@ Tāi-seng chiong saⁿ-kak-tòa ê téng-tiám áu-ji̍p tī ki-sòaⁿ (基線,
 > **【全漢對照】**
 > 將較狹的三角帶做吊帶：
 > 
-> 首先將三角帶的頂點拗入佇基線（基線, base line）的中央，才閣拗一遍（第 445 圖）。拗好勢了後，將一頭的底角抈上無受傷彼旁的肩頭頂；下面彼頭的底角墜落身軀的前面；將
+> 首先將三角帶的頂點拗入佇基線（基線，base line）的中央，才閣拗一遍（第 445 圖）。拗好勢了後，將一頭的底角抈上無受傷彼旁的肩頭頂；下面彼頭的底角墜落身軀的前面；將
 
 ---
 
@@ -3295,11 +3295,11 @@ Tāi-seng chiong saⁿ-kak-tòa ê téng-tiám áu-ji̍p tī ki-sòaⁿ (基線,
 
 ![原書插圖 - 第 514 頁 (圖 1)](assets/illustrations/page_514_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 445 tô.</em></p>
+<p class="figure-caption"><em>Tē 445 tô.</em></p>
 
 ![原書插圖 - 第 514 頁 (圖 2)](assets/illustrations/page_514_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 446 tô.</em></p>
+<p class="figure-caption"><em>Tē 446 tô.</em></p>
 
 </div>
 
@@ -3313,7 +3313,7 @@ Tāi-seng chiong saⁿ-kak-tòa ê téng-tiám áu-ji̍p tī ki-sòaⁿ (基線,
 siū-siong ê chhiú kiu-khí-lâi, áⁿ tī heng-chêng, chhiú-bé ti̍h pí tiú-koan-chat khah koâiⁿ n̄g chhùn; ē-bīn ê tí-kak the̍h chiūⁿ koâiⁿ khàm siū-siong ê chhiú. Chit thâu tí-kak chiah phoàh kè siū-siong chit pêng ê keng-thâu-téng, lō͘-bé phah-kat hō͘ tiâu (tē 446 tô͘).
 
 > **【全漢對照】**
-> **[條帶]**
+> **［條帶］**
 > 受傷的手縮起來，揞佇胸前，手尾著比肘關節較懸兩寸；下面的底角提上懸蓋受傷的手。這頭底角才披過受傷這爿的肩頭頂，路尾拍結予稠（第 446 圖）。
 
 ---
@@ -3361,7 +3361,7 @@ Kah hù-bo̍k liáu, ti̍h sūn chńg-thâu-á ê sek, á-sī ū chéng bô.
 
 ![原書插圖 - 第 515 頁 (圖 1)](assets/illustrations/page_515_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 447 tô.</em></p>
+<p class="figure-caption"><em>Tē 447 tô.</em></p>
 
 </div>
 
@@ -3385,7 +3385,7 @@ Chio̍h-ko-pheng-tòa (*Plaster of Paris bandage*):
 Chio̍h-ko-pheng-tòa ê chok-iōng, sī chòe hù-bo̍k, hō͘ ū pīⁿ ê só͘-chāi ōe tiām-chāi, chhin-chhiūⁿ beh i-tī kut-chih, koan-chat-thoat-khū, á-sī ū pīⁿ ê koan-chat, chek-chui-kut kiat-hu̍t chèng.
 
 > **【全漢對照】**
-> **[石膏繃帶]**
+> **［石膏繃帶］**
 > 石膏繃帶（*Plaster of Paris bandage*）：
 > 石膏繃帶的作用，是做副木，予有病的所在會恬在，親像欲醫治骨折、關節脫臼，抑是有病的關節、脊椎骨結核症。
 
@@ -3404,7 +3404,7 @@ Pī-pān pheng-tòa ê hoat-tō͘:
 *(插圖圖說：Tē 447 tô͘.)*
 
 > **【全漢對照】**
-> **[備辦之法]**
+> **［備辦之法］**
 > 備辦繃帶的法度：
 > 1. 用紗布（*gauze*）長 21 尺，闊兩寸半，鬆鬆捲成規捆。
 > 2. 將一領被單，抑是新聞紙，鋪佇桌頂。
@@ -3412,7 +3412,7 @@ Pī-pān pheng-tòa ê hoat-tō͘:
 > 4. 閣摻淡薄佇帶頂。挲好勢才鬆鬆捲成規捆，按呢隨時展開，隨時摻閣挲到創齊了。
 > 5. 用油紙包伊，逐條著另外包，免得受澹溼，才收佇彼號空氣袂通入的亞鉛盒仔，抑是玻璃罐內，等候欲用。
 > 
-> *(插圖圖說：第 447 圖)*
+> *（插圖圖說：第 447 圖）*
 
 ---
 
@@ -3422,7 +3422,7 @@ Pī-pān pheng-tòa ê hoat-tō͘:
 Chio̍h-ko-pheng-tòa sú-iōng-hoat:
 
 > **【全漢對照】**
-> **[使用法]**
+> **［使用法］**
 > 石膏繃帶使用法：
 
 <!-- Page 515 End -->
@@ -3459,7 +3459,7 @@ Tiòh ū-pī :
 > 7. 氊做的繃帶，棉花。
 > 8. 舊的新聞紙通蓋保護眠床佮地板。
 >
-> *(邊註：石膏繃帶預備物)*
+> *（邊註：石膏繃帶預備物）*
 
 ---
 
@@ -3474,7 +3474,7 @@ lâi so, chiah ēng nî-pò͘ chòe ê pheng-tòa ; tìⁿ beh pa̍k ê só͘-ch
 > $\left. \begin{array}{l} \text{粉漿} \\ \text{Zinci oxidum（氧化鋅）} \\ \text{Borax（硼砂）} \end{array} \right\} \dots\dots\dots\dots\dots\dots\dots\dots\text{...各項平濟}$
 > 來挲，才用氊布做的繃帶；纏欲縛的所在。若無這號氊布，用歸片棉花來包四緻亦好。
 >
-> *(邊註：技術)*
+> *（邊註：技術）*
 
 ---
 
@@ -3509,11 +3509,11 @@ Pheng-tòa the̍h-khí-lâi, chūn hō͘ i lióh-á ta, chiah tìⁿ chiàu lē-
 
 ![原書插圖 - 第 517 頁 (圖 1)](assets/illustrations/page_517_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></p>
+<p class="figure-caption"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></p>
 
 ![原書插圖 - 第 517 頁 (圖 2)](assets/illustrations/page_517_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></p>
+<p class="figure-caption"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></p>
 
 </div>
 
@@ -3563,11 +3563,11 @@ Chiòh-ko-hù-bo̍k làng-khang ê hoat: Só́ tîⁿ ê só͘-chāi, nā ū sio
 
 ![原書插圖 - 第 518 頁 (圖 1)](assets/illustrations/page_518_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></p>
+<p class="figure-caption"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></p>
 
 ![原書插圖 - 第 518 頁 (圖 2)](assets/illustrations/page_518_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></p>
+<p class="figure-caption"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></p>
 
 </div>
 
@@ -3615,7 +3615,7 @@ Nā ū thóng chhut ê kut, tio̍h ēng mî-hoe chū-teh chòe tiām. Tîⁿ chi
 Só͘-í tio̍h tû-khì pe̍h-chha̍t, tàk lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4: 25).
 
 > **【全漢對照】**
-> 所以著除去白賊，逐人及他的厝邊講真實，因為咱相相同做體（以弗所 4: 25）。
+> 所以著除去白賊，逐人及他的厝邊講真實，因為咱相相同做體（以弗所 4：25）。
 
 <!-- Page 518 End -->
 
@@ -3629,11 +3629,11 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, tàk lâng kap i ê chhù-piⁿ kóng ch
 
 ![原書插圖 - 第 519 頁 (圖 1)](assets/illustrations/page_519_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></p>
+<p class="figure-caption"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></p>
 
 ![原書插圖 - 第 519 頁 (圖 2)](assets/illustrations/page_519_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></p>
 
 </div>
 
@@ -3646,7 +3646,7 @@ Sayre-sī chio̍h-ko-kòa (石膏褂, Sayre's plaster jacket) :
 Chhēng chio̍h-ko-kòa ê hoat : Chit hō chio̍h-ko-kòa, sī beh i-tī chek-thiāu ū oai, beh hō͘ i tit-tit, á-sī chek-chui-kut ū pīⁿ. Beh chhēng ê sî, iàu-kín tio̍h ēng khan-ín-hoat, hō͘ chui-kut lióh-á saⁿ-lī, hō͘ ū pīⁿ ê só͘-chāi bōe sio-bôa. Tio̍h ēng chi̍t hù saⁿ-kha-tu (tripod), téng-bīn tiàu ka-lak, chiong soh-á chhng-kè-khì, tūi-lo̍h-lâi pák tiâu chi̍t ki hoâiⁿ-chhâ (tē 452 tô͘). Tùi hoâiⁿ-chhâ-nih tio̍h pák sì tiâu tiàu-tòa, tiong-ng n̄g tiâu, sī beh tiàu phê chòe-ê ām-kún-niá, lâi tú hā-gók thâu-chêng-ē, kap āu-khok-ē; gōa-bīn hit n̄g tiâu, sī beh tiàu tī koh-ē-khang-ē. Nā chhòng hó-sè, chiah sió-khóa kā i lūi chiūⁿ koâiⁿ, hō͘ pīⁿ-lâng ê kha-chńg-thâu-á-bé, lióh-á tap-tio̍h thô͘-kha; tio̍h saⁿ ê lâng tàu pang-chān. Tāi-seng chhēng chi̍t niá nî chòe ê kah-á chòe lāi-saⁿ; thóng-chhut ê kut, tio̍h ēng mî-hoe chū-teh chòe tiām; nā-sī lú-hoān-chiá, tio̍h ēng mî-hoe, pau bāt leng-pông; iā ēng chi̍t tiâu bīn-kun áu hó-sè, chū tī ūi ê thâu-chêng, kiò-chòe chia̍h-pn̄g-tiām, chio̍h-ko tēng ê sî, chit-ê thang théh-khí-lâi; sī hō͘ i chia̍h-pn̄g-pá ê sî, pak-tó bōe tiùⁿ ān. Pheng-tòa nā ēng chòe tōa-lâng-ê, tio̍h 6 chhùn khoah, nā gín-ná 3 chhùn chiū kàu-gia̍h. I ê tn̂g tio̍h 15 chhioh chì 20
 
 > **【全漢對照】**
-> **Sayre-氏石膏褂 (石膏褂, Sayre's plaster jacket)：**
+> **Sayre-氏石膏褂 （石膏褂，Sayre's plaster jacket）：**
 > 
 > 穿石膏褂的法：此號石膏褂，是欲醫治脊柱有歪，欲予伊直直，抑是脊椎骨有病。欲穿的時，要緊著用牽引法，予椎骨略仔相離，予有病的所在袂相磨。著用一副三腳株 (tripod)，頂面吊加絡（絞轆），將索仔穿過去，墜落來縛牢一支橫柴（第 452 圖）。對橫柴裡著縛四條吊帶，中央兩條，是欲吊皮做的頷頸領，來拄下顎頭前下，佮後腦勺下；外面彼兩條，是欲吊佇胳下空下（腋下）。若創好勢，才小可共伊擂（搦）懸，予病人的跤指頭仔尾，略仔踏著土地；著三个人鬥幫贊。代先穿一件棉（毛織）做的甲仔做內衫；捅出的骨，著用棉花注佇咧做墊；若是女患者，著用棉花，包密乳房；也用一條面巾拗好勢，注佇胃的頭前，叫做食飯墊，石膏硬的時，這个通提起來；是予伊食飯飽的時，腹肚袂脹緊。繃帶若用做大人的，著 6 寸闊，若囡仔 3 寸就夠額。伊的長著 15 尺至 20
 
@@ -3677,7 +3677,7 @@ Chhēng chio̍h-ko-kòa ê hoat : Chit hō chio̍h-ko-kòa, sī beh i-tī chek-t
 ...chhioh. Tio̍h tùi kut-pôaⁿ ê chêng-siōng-kek khí tíⁿ, ûn-ûn-á tíⁿ chiūⁿ téng-bīn, kàu koh-ē-khang. Thâu-chêng tùi tiong-ng, tio̍h ēng chi̍t phìⁿ a-iân, chiàu téng-bīn só͘ kóng lâi ji̍p tī lāi-bīn, thang chòe ka khui ê lō͘-ēng. Iáu-bē kian-tēng ê tāi-seng, tio̍h ēng to ka khui, hit phìⁿ a-iân chiah the̍h-khí-lâi. Ka khui liáu, thang ēng nńg-phê chòe ê kah-á lâi pa̍k tiâu, á-sī ēng pheng-tòa pa̍k.
 
 > **【全漢對照】**
-> **[石膏挂]**
+> **［石膏挂］**
 > ……尺。著對骨盤的前上棘起纏，勻勻仔纏上面，到胳下空。頭前對中央，著用一片亞鉛，照上面所講來入佇內面，通做鉸開的路用。猶未堅定的代先，著用刀鉸開，彼片亞鉛才提起來。鉸開了，通用軟皮做的甲仔來縛牢，抑是用繃帶來縛。
 
 ---
@@ -3692,7 +3692,7 @@ Nā ài chiong khan-ín-hoat, hō͘ i siông-siông khan-ín, tio̍h ēng chi̍t
 Hó koh chīn-tiong ê lô-po̍k, lí tī chió-ê í-keng chīn-tiong, thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25 : 21）。
+> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 520 End -->
 

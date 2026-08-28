@@ -85,7 +85,7 @@ Gín-ná ê tāng-liōng kap seng-tióng: Gín-ná thâu chi̍t nî ê tāng-li�
 Gín-ná tú-á siⁿ saⁿ sì ji̍t chiū-sī sit tāng 100 chì 200 *grms*. (4 chì 8 niú). Kàu tē 7 ji̍t, i ê tāng-liōng kap chhut-sì hit ji̍t pîⁿ-pîⁿ. Jiân-āu ta̍k lé-pài ti̍h ke-thiⁿ 100 chì 200 *grms*. Nā kàu 6 ge̍h chì 12 ge̍h-lāi, i ke-thiⁿ ê tāng-liōng, pí chêng khah bān, ta̍k lé-pài ē ke 50 chì 100 *grms*.
 
 > **【全漢對照】**
-> 囡仔拄仔生三、四日就是失重 100 至 200 *grms*. (4 至 8 兩)。到第 7 日，伊的重量佮出生彼日平平。然後逐禮拜著加添 100 至 200 *grms*. 若到 6 月至 12 月內，伊加添的重量，比前較慢，逐禮拜會加 50 至 100 *grms*.
+> 囡仔拄仔生三、四日就是失重 100 至 200 *grms*. （4 至 8 兩）。到第 7 日，伊的重量佮出生彼日平平。然後逐禮拜著加添 100 至 200 *grms*. 若到 6 月至 12 月內，伊加添的重量，比前較慢，逐禮拜會加 50 至 100 *grms*.
 
 ---
 
@@ -143,7 +143,7 @@ Tī ē-tóe só͘ siá ê pió ū kì ta-pó͘ gín-ná chi̍t hè í-lāi pêng
 > | 五月 | 14 | 6.35 | 十二月 | 21 | 9.45 |
 > | 六月 | 15 | 6.80 | | | |
 > 
-> *(旁註：重量表)*
+> *（旁註：重量表）*
 
 ---
 
@@ -159,7 +159,7 @@ Tio̍h chai téng-bīn só͘ kì tāng-liōng ê pió sī pêng-kun nā-tiāⁿ,
 Kàu tī 4 ge̍h-ji̍t ê gín-ná, thâu-khak chiah thang phō hō͘ khiā-khí-lâi. Kàu tē 12 ge̍h-ji̍t chiū ē khiā; tùi 15 chì cháp-poeh ge̍h-ji̍t chiū ē kiâⁿ-cháu.
 
 > **【全漢對照】**
-> **[頭殼通抱予豎起來]**
+> **［頭殼通抱予豎起來］**
 > 
 > 到佇 4 個月的囡仔，頭殼才通抱予豎起來。到第 12 個月就會豎；對 15 至 18 個月就會行走。
 
@@ -170,7 +170,7 @@ Kàu tī 4 ge̍h-ji̍t ê gín-ná, thâu-khak chiah thang phō hō͘ khiā-khí
 Gín-ná iáu-bē hoat-khí ê sî, bē siau-hòa gō͘-kak ê si̍t-bu̍t, só͘-í tī káu ge̍h-ji̍t-lāi tio̍h chia̍h lâng-leng, á-sī gû-leng.
 
 > **【全漢對照】**
-> **[食奶]**
+> **［食奶］**
 > 
 > 囡仔猶未發齒的時，袂消化五穀的食物，所以佇九個月內著食人奶，抑是牛奶。
 
@@ -193,14 +193,14 @@ Chhī gín-ná ū saⁿ hāng hoat-tō͘:
 *(旁註：Saⁿ hāng hoat-tō͘)*
 
 > **【全漢對照】**
-> **[飼囡仔的法]**
+> **［飼囡仔的法］**
 > 
 > 囡仔出世了後二十四點以內，毋免予伊食奶，干焦用一兩茶匙拉勻燒的滾水予伊飲，就夠額。
 > 
 > 飼囡仔有三項法度：
 > 1. 食奶，老母抑是奶母的。
 > 
-> *(旁註：三項法度)*
+> *（旁註：三項法度）*
 
 ---
 
@@ -322,7 +322,7 @@ Tṉ̄g-leng: Gín-ná nā í-keng káu ge̍h chiok, tióh tṉ̄g-leng. Siōng 
 Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong,......thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，……通入你的主人的快樂（馬太 25 : 21）。
+> 好閣盡忠的奴僕，你佇少個已經盡忠，……通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 650 End -->
 
@@ -390,7 +390,7 @@ Hit ê leng-thâu ê khang m̄-thang siuⁿ tōa, in-ūi m̄-ài...
 
 ![原書插圖 - 第 652 頁 (圖 1)](assets/illustrations/page_652_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 488 tô.—Gín-ná ê chhī-leng-khì.</em></p>
+<p class="figure-caption"><em>Tē 488 tô.—Gín-ná ê chhī-leng-khì.</em></p>
 
 </div>
 
@@ -413,7 +413,7 @@ hō͘ gín-ná chia̍h leng siuⁿ kín. Pân-bé iā ū chi̍t khang, chit hān
 
 > **【全漢對照】**
 > ### 照顧飼乳器（牛奶瓶）的法度：
-> *(旁註：照顧飼乳器)*
+> *（旁註：照顧飼乳器）*
 > 
 > 1. 這號飼乳器著不止清氣。若無清氣，囝仔的喙內會生白點，袂消化、下痢，是真快（看第 501 面）。
 > 2. 食乳了，著連鞭將冷水來洗飼乳器及乳頭。後來用熱水及雪文（肥皂）閣洗，才過煠。
@@ -450,7 +450,7 @@ Chhī gín-ná ê hoat-tō͘ sī chiàu ē-tóe ê pió (after Holt) :
 Góa siat-sú ōe kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa chiū chiaⁿ-chòe hiáng ê tâng-khì, tân ê lâ-poah (I Ko-lîm-to 13: 1).
 
 > **【全漢對照】**
-> 我設使會講人及天使的蔭語，若無仁愛，我就成做響的銅器，鳴的喇叭（I 哥林多 13: 1）。
+> 我設使會講人及天使的蔭語，若無仁愛，我就成做響的銅器，鳴的喇叭（I 哥林多 13：1）。
 
 <!-- Page 652 End -->
 
@@ -598,7 +598,7 @@ Gín-ná sóe-e̍k : Nā-sī kôaⁿ-thiⁿ ê sî tio̍h tī hé-lô-piⁿ, m̄
 *Jîn-ài, hoān-sū jím siū, hoān-sū siong-sìm, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13: 7).*
 
 > **【全漢對照】**
-> *仁愛，凡事忍受，凡事相信，凡事向望，凡事吞忍（哥林多前書 13: 7）。*
+> *仁愛，凡事忍受，凡事相信，凡事向望，凡事吞忍（哥林多前書 13：7）。*
 
 <!-- Page 655 End -->
 
@@ -640,7 +640,7 @@ Iòh m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tiòh siu tī iòh-tû-nih.
 
 ![原書插圖 - 第 657 頁 (圖 1)](assets/illustrations/page_657_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 489 tô.—Jîn-kong-ho·-khip. Ho·-chhut. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 489 tô.—Jîn-kong-ho·-khip. Ho·-chhut. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -687,7 +687,7 @@ Tē 489 tô͘.—Jîn-kong-ho͘-khip. Ho͘-chhut. (From Warwick and Tunstall's "
 
 ![原書插圖 - 第 658 頁 (圖 1)](assets/illustrations/page_658_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>* Tē 503 tô.—Jîn-kong-ho-khip. Khip-jip (Warwick and Tunstall).</em></p>
+<p class="figure-caption"><em>* Tē 503 tô.—Jîn-kong-ho-khip. Khip-jip (Warwick and Tunstall).</em></p>
 
 </div>
 
@@ -710,7 +710,7 @@ Múi hun cheng chiong chit ê hoat, iok óa 15 pái, nā kàu pīⁿ-lâng ka-k�
 \* Tē 503 tô͘.—Jîn-kong-ho͘-khip. Khip-ji̍p (Warwick and Tunstall).
 
 > **【全漢對照】**  
-> \* 第 503 圖。——人工呼吸。吸入 (Warwick and Tunstall).
+> \* 第 503 圖。——人工呼吸。吸入 (Warwick and Tunstall)。
 
 ---
 
@@ -854,7 +854,7 @@ Nā bô kóaⁿ-kín chiong chit ê gâm-chéng chhiat-tû-khì, siông-siông i
 Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thài-thó ū tiàm tī i ah (I Iok-hān 3 : 17) ?
 
 > **【全漢對照】**
-> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼汰哆有踮佇伊啊（I 約翰 3 : 17）？
+> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼汰哆有踮佇伊啊（I 約翰 3：17）？
 
 <!-- Page 660 End -->
 
@@ -871,7 +871,7 @@ Nā ōe thang khah chá chhiat-tû, khah-siông khah khoài i-tī.
 Ták ji̍t, ták hun-cheng lóng sī iàu-kín, m̄-thang iân-chhiân phah-sńg sî-kan.
 
 > **【全漢對照】**  
-> **[邊註：子宮癌症]**  
+> **［邊註：子宮癌症］**  
 > 此個症起頭起的時，干單顯出佇一局部位，袂散（thòaⁿ）到通身軀。  
 > 若會通較早切除，較常較快醫治。  
 > 逐日，逐分鐘攏是要緊，毋通延遷拍損時間。

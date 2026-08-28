@@ -75,11 +75,11 @@ Pīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tio̍h khoán-thāi siāng chit kho�
 
 ![原書插圖 - 第 76 頁 (圖 1)](assets/illustrations/page_076_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 49 tô:—1, huih-chiuⁿ; 2, peh-huih-kiû; 3, chhiah-huih-kiû. Tioh khòaⁿ tē 60 bīn.</em></p>
+<p class="figure-caption"><em>Tē 49 tô:—1, huih-chiuⁿ; 2, peh-huih-kiû; 3, chhiah-huih-kiû. Tioh khòaⁿ tē 60 bīn.</em></p>
 
 ![原書插圖 - 第 76 頁 (圖 2)](assets/illustrations/page_076_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 50 tô:—Huih, hián-bî-kiàⁿ 350 pē khok-tōa: a, chhiah-huih-kiû, tùi pīⁿ-á khòaⁿ; b, chhiah-huih-kiû, pīⁿ-pīⁿ kā khòaⁿ; c, peh-huih-kiû; e, huih-sió-pán (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 50 tô:—Huih, hián-bî-kiàⁿ 350 pē khok-tōa: a, chhiah-huih-kiû, tùi pīⁿ-á khòaⁿ; b, chhiah-huih-kiû, pīⁿ-pīⁿ kā khòaⁿ; c, peh-huih-kiû; e, huih-sió-pán (Blackie and Son).</em></p>
 
 </div>
 
@@ -88,7 +88,7 @@ Pīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tio̍h khoán-thāi siāng chit kho�
 [...chiuⁿ], (2) tī tiong-ng khah chhián sī pe̍h-huih-kiû, (3) tī ē-tóe-ê sī chhiah-huih-kiû (tē 49 tô͘). Tùi án-ni thang khòaⁿ, huih ê sêng-hun tāi-pō͘-hūn sī chí saⁿ hāng lâi chiâⁿ.
 
 > **【全漢對照】**
-> [……漿]，(2) 佇中央較淺是白血球，(3) 佇下底的是赤血球（第 49 圖）。對按呢通看，血的成分大部分是此三項來成。
+> ［……漿］，(2) 佇中央較淺是白血球，(3) 佇下底的是赤血球（第 49 圖）。對按呢通看，血的成分大部分是此三項來成。
 
 ---
 
@@ -105,7 +105,7 @@ Tē 49 tô͘.—1, huih-chiuⁿ; 2, pe̍h-huih-kiû; 3, chhiah-huih-kiû. Tio̍h
 > 血球 / 血漿 / 赤血球  
 > 
 > **【圖說】**  
-> 第 49 圖。—1, 血漿；2, 白血球；3, 赤血球。著看第 60 面。
+> 第 49 圖。—1，血漿；2，白血球；3，赤血球。著看第 60 面。
 
 ---
 
@@ -147,7 +147,7 @@ Huih ê sek sī âng, in-ūi ū hiah chōe chhiah-huih-kiû tī-teh. Chhiah-kiû
 Tē 50 tô͘.—Huih, hián-bî-kiàⁿ 350 pē khok-tōa : a, chhiah-huih-kiû, tùi piⁿ-á khòaⁿ; b, chhiah-huih-kiû, pîⁿ-pîⁿ kā khòaⁿ; c, pe̍h-huih-kiû; e, huih-sió-pán (Blackie and Son).
 
 > **【全漢對照】**
-> 第 50 圖。—血，顯微鏡 350 倍擴大：a, 赤血球，對邊仔看；b, 赤血球，平平共看；c, 白血球；e, 血小板 (Blackie and Son)。
+> 第 50 圖。—血，顯微鏡 350 倍擴大：a，赤血球，對邊仔看；b，赤血球，平平共看；c，白血球；e，血小板 (Blackie and Son)。
 
 ---
 
@@ -170,7 +170,7 @@ Khàn-hō͘ sî-siông chù-ì khòaⁿ ōe ke-thiⁿ kiàn-sek.
 
 ![原書插圖 - 第 77 頁 (圖 1)](assets/illustrations/page_077_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 51 tô.—Chhiam-î-sò· ê bāng.</em></p>
+<p class="figure-caption"><em>Tē 51 tô.—Chhiam-î-sò· ê bāng.</em></p>
 
 </div>
 
@@ -195,7 +195,7 @@ Seng-khu-lāi ê huih sī seng-khu ê tāng cháp-saⁿ hūn ê chi̍t hūn.
 
 > **【全漢對照】**
 > 身軀內兮血是身軀兮重十三份兮一份。  
-> *(邊欄：血兮重量)*
+> *（邊欄：血兮重量）*
 
 ---
 
@@ -204,7 +204,7 @@ Huih ū nn̄g khoán. Hit hō huih tùi sim ê chó-sek chhut tī tāi-tōng-me�
 
 > **【全漢對照】**
 > 血有兩種。彼號血對心兮左室出佇大動脈流行到身軀，是清氣兮血，有酸素佇伊兮內面；此號血叫做動脈血。也血若已經有養飼身軀，欲倒轉來到心及肺臟，是污穢兮血，叫做靜脈血。此個是紫色兮血，因為有炭酸佇內面。  
-> *(邊欄：血有兩種 / 動脈血 / 靜脈血)*
+> *（邊欄：血有兩種 / 動脈血 / 靜脈血）*
 
 ---
 
@@ -212,8 +212,8 @@ Huih-chiuⁿ sī õe thang kng, chheng-chheng, bô sím-mi̍h sek-tī ê mi̍h, 
 *(邊欄：Huih-chiuⁿ)*
 
 > **【全漢對照】**
-> 血漿是會通光、清清、無甚麼色緻兮物，親像水兮款式。血漿是水及纖維素（血絲）（纖維素, *fibrin*）及彼號卵白質、鹽類遐的來做成兮。  
-> *(邊欄：血漿)*
+> 血漿是會通光、清清、無甚麼色緻兮物，親像水兮款式。血漿是水及纖維素（血絲）（纖維素，*fibrin*）及彼號卵白質、鹽類遐的來做成兮。  
+> *（邊欄：血漿）*
 
 ---
 
@@ -221,8 +221,8 @@ Huih nā lâu-chhut seng-khu ê gōa-bīn, chiū chiām-chiām gêng chiâⁿ ku
 *(邊欄：Huih-tè / Chhiam-î-sò͘ / Huih-chheng)*
 
 > **【全漢對照】**
-> 血若流出身軀兮外面，就漸漸凝成歸塊；是因為血漿內有纖維素（*fibrin*）佇咧（第 51 圖），——離身軀就變結成歸塊，叫做血塊。所賰兮親像水，叫做血清（血清, *serum*）。此個血塊是真要緊兮用處；就是人若受傷兮時，血流出見著空氣，就變成血塊，來塞血管，予伊袂流；若無，雖然傷喙是細，伊兮血若不時流，就致到死。  
-> *(邊欄：血塊 / 纖維素 / 血清)*
+> 血若流出身軀兮外面，就漸漸凝成歸塊；是因為血漿內有纖維素（*fibrin*）佇咧（第 51 圖），——離身軀就變結成歸塊，叫做血塊。所賰兮親像水，叫做血清（血清，*serum*）。此個血塊是真要緊兮用處；就是人若受傷兮時，血流出見著空氣，就變成血塊，來塞血管，予伊袂流；若無，雖然傷喙是細，伊兮血若不時流，就致到死。  
+> *（邊欄：血塊 / 纖維素 / 血清）*
 
 ---
 
@@ -240,7 +240,7 @@ Tē 51 tô͘.—Chhiam-î-sò͘ ê bāng. Ū chiong huih hō͘ i kiat kui tè ch
 Jîn-ài bô kiànⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無行見誚兮事（I 哥林多 13: 5）。
+> 仁愛無行見誚兮事（I 哥林多 13：5）。
 
 <!-- Page 077 End -->
 
@@ -254,7 +254,7 @@ Jîn-ài bô kiànⁿ kiàn-siàu ê sū (I Ko-lîm-to 13: 5).
 
 ![原書插圖 - 第 78 頁 (圖 1)](assets/illustrations/page_078_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Huih gêng-teh Chiâⁿ huih-tè ê khoán-sit</em></p>
+<p class="figure-caption"><em>Huih gêng-teh Chiâⁿ huih-tè ê khoán-sit</em></p>
 
 </div>
 
@@ -271,7 +271,7 @@ Chiong huih-lāi ê huih-chheng (serum) lâu-chhut-lâi hō͘ huih chiâⁿ kui 
 > **【全漢對照】**
 > ### 62 血及血管系統
 > 
-> #### [邊註：血成規塊的原因]
+> #### ［邊註：血成規塊的原因］
 > 
 > 將血內的血清 (serum) 流出來予血成規塊的原因是親像寫佇下底：
 > 1. 熱到 120°度 F. (49° C.)。
@@ -289,7 +289,7 @@ Hō͘ huih bōe-ōe gêng kui tè, hit ê goân-in chhin-chhiūⁿ ē-bīn :
 3. Huih chham te̍k-pia̍t ê iâm lâi chòe tui, chhin-chhiūⁿ *sodii sulphas* á-sī pêng-siông ê iâm, hit ê huih khah bōe gêng-teh. Huih tiām-tiām gêng-teh ê khoán-sit, ū pâi-lia̍t tī ē-tóe :
 
 > **【全漢對照】**
-> #### [邊註：血袂凝規塊的原因]
+> #### ［邊註：血袂凝規塊的原因］
 > 
 > 予血袂會凝規塊，彼個原因親像下面：
 > 1. 血拄著冷。
@@ -320,7 +320,7 @@ Hō͘ huih bōe-ōe gêng kui tè, hit ê goân-in chhin-chhiūⁿ ē-bīn :
 ```
 
 > **【全漢對照】**
-> #### [圖表：血凝咧 / 成血塊的款式]
+> #### ［圖表：血凝咧 / 成血塊的款式］
 > 
 > ```text
 >                            血
@@ -358,11 +358,11 @@ Siat-sú huih tú-á lâu-chhut, chiū ēng tek-chhéng lâi phah, huih-lāi ê 
 Huih sī tùi sim-chōng chhut tāi-tōng-me̍h, keng-kè
 
 > **【全漢對照】**
-> ### 血循環 (血循環, Circulation of the blood)
+> ### 血循環 （血循環，Circulation of the blood）
 > 
-> #### [邊註：血循環]
+> #### ［邊註：血循環］
 > 
-> **血循環** (血循環, *Circulation of the blood*)：  
+> **血循環** （血循環，*Circulation of the blood*）：  
 > 血是對心臟出大動脈，經過
 
 ---
@@ -386,7 +386,7 @@ Huih sī tùi sim-chōng chhut tāi-tōng-me̍h, keng-kè
 
 ![原書插圖 - 第 79 頁 (圖 1)](assets/illustrations/page_079_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 52 tô.—Tōng-mėh kap chēng-mėh-kńg hoâin-tñg-bīn, 350 pē khok-tōa : a, tōng-mėh ; e, ū sòe-pau-hùt ê lāi-mȯ·h ; ch, tân-lėk-cho·-chit ; m, tiong-mȯ·h chiū-sī put-sūi-ì-kun cho·-chit ; chh, sòe-pau-hut ; a, gōa-mȯ·h ; chit ê gōa-mȯ·h sī kiat-tè-chit, kap chēng-mėh, tōng-mėh-tiong ê kiat-tè-chit a, san-liân ; n, kiat-tè-chit-sòe-pau-hùt ; V, chēng-mėh, khah pȯh ê lāi-mȯ·h-ê ; m, tiong-mȯ·h, chiū-sī khah pȯh, kúi-nā tiâu put-sūi-ì-kun-cho·-chit. (After Klein & Noble Smith, from Gray’s “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 52 tô.—Tōng-mėh kap chēng-mėh-kńg hoâin-tñg-bīn, 350 pē khok-tōa : a, tōng-mėh ; e, ū sòe-pau-hùt ê lāi-mȯ·h ; ch, tân-lėk-cho·-chit ; m, tiong-mȯ·h chiū-sī put-sūi-ì-kun cho·-chit ; chh, sòe-pau-hut ; a, gōa-mȯ·h ; chit ê gōa-mȯ·h sī kiat-tè-chit, kap chēng-mėh, tōng-mėh-tiong ê kiat-tè-chit a, san-liân ; n, kiat-tè-chit-sòe-pau-hùt ; V, chēng-mėh, khah pȯh ê lāi-mȯ·h-ê ; m, tiong-mȯ·h, chiū-sī khah pȯh, kúi-nā tiâu put-sūi-ì-kun-cho·-chit. (After Klein & Noble Smith, from Gray’s “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
 
 </div>
 
@@ -395,7 +395,7 @@ Huih sī tùi sim-chōng chhut tāi-tōng-me̍h, keng-kè
 tōng-me̍h kap m̂g-sòe-kúng, chiah hun khui khì ta̍k só͘-chāi ; í-keng tùi m̂g-sòe-kúng kè, chiū koh ji̍p chēng-me̍h, iû-goân tò-tńg-khì sim-chōng-nih ; án-ni kiò-chòe huih ê sûn-khoân, (tē 59 tô͘).
 
 > **【全漢對照】**
-> 動脈及微細管，才分開去逐所在；已經對微細管過，就閣入靜脈，猶原倒轉去心臟裡；按呢叫做血的循環，(第 59 圖)。
+> 動脈及微細管，才分開去逐所在；已經對微細管過，就閣入靜脈，猶原倒轉去心臟裡；按呢叫做血的循環，（第 59 圖）。
 
 ---
 
@@ -411,7 +411,7 @@ Huih-kúng ū saⁿ khoán :
 1. Tē it sī teh kiâⁿ tùi sim kàu seng-khu ta̍k ūi ê só͘-chāi. Tī lāi-bīn ū chheng-khì, âng-sek, sng-sò͘, ê huih, miâ kiò-chòe tōng-me̍h (動脈, artery). I ê piah sī khah kāu, iā jūn, ē chhun-kiu. Tōng-me̍h-lāi ê huih ê ap-le̍k sī koân. Huih sûn-khoân ê sok-le̍k (速力, rate of flow) tī tōng-me̍h-kúng - lāi, chi̍t tiám-cheng chha-put-to 800 metres. Tī chēng-me̍h-lāi sok-le̍k sī khah bān, tī m̂g-sòe-huih-kúng iáu khah bān.
 
 > **【全漢對照】**
-> 1. 第一是咧行對心到身軀逐位的所在。佇內面有清氣、紅色、酸素、的血，名叫做動脈 (動脈, artery)。伊的壁是較厚，亦韌，會伸縮。動脈內的血的壓力是懸。血循環的速力 (速力, rate of flow) 佇動脈管內，一點鐘差不多 800 metres。佇靜脈內速力是較慢，佇微細血管猶較慢。
+> 1. 第一是咧行對心到身軀逐位的所在。佇內面有清氣、紅色、酸素、的血，名叫做動脈 （動脈，artery）。伊的壁是較厚，亦韌，會伸縮。動脈內的血的壓力是懸。血循環的速力 （速力，rate of flow） 佇動脈管內，一點鐘差不多 800 metres。佇靜脈內速力是較慢，佇微細血管猶較慢。
 
 ---
 
@@ -420,7 +420,7 @@ Huih-kúng ū saⁿ khoán :
 2. Tē jī sī teh kiâⁿ tùi seng-khu ta̍k ūi ê só͘-chāi kàu sim. Tī lāi-bīn ū ù-òe, thòaⁿ-sng, khah o͘-sek ê huih, miâ kiò chēng-me̍h (靜脈, vein). I ê piah sī po̍h-po̍h, iā pí tōng-me̍h khah bōe chhun kiu. Huih ê ap-le̍k khah kē. Tī seng-khu ê phê-ē, ē khoài-khoài khòaⁿ-kìⁿ chit hō chēng-me̍h (tē 52 tô͘).
 
 > **【全漢對照】**
-> 2. 第二是咧行對身軀逐位的所在到心。佇內面有污穢、炭酸、較烏色的血，名叫靜脈 (靜脈, vein)。伊的壁是薄薄，亦比動脈較袂伸縮。血的壓力較低。佇身軀的皮下，會快快看見這號靜脈 (第 52 圖)。
+> 2. 第二是咧行對身軀逐位的所在到心。佇內面有污穢、炭酸、較烏色的血，名叫靜脈 （靜脈，vein）。伊的壁是薄薄，亦比動脈較袂伸縮。血的壓力較低。佇身軀的皮下，會快快看見這號靜脈 （第 52 圖）。
 
 ---
 
@@ -429,7 +429,7 @@ Huih-kúng ū saⁿ khoán :
 Tē 52 tô͘.—Tōng-me̍h kap chēng-me̍h-kúng hoâiⁿ-tūg-bīn, 350 pē khok-tōa : a, tōng-me̍h ; e, ū sòe-pau-hu̍t ê lāi-mo̍͘h ; ch, tân-le̍k-cho͘-chit ; m, tiong-mo̍͘h chiū-sī put-sūi-ì-kun cho͘-chit ; chh, sòe-pau-hu̍t ; a, gōa-mo̍͘h ; chit ê gōa-mo̍͘h sī kiat-tè-chit, kap chēng-me̍h, tōng-me̍h-tiong ê kiat-tè-chit a, saⁿ-liân ; n, kiat-tè-chit-sòe-pau-hu̍t ; V, chēng-me̍h, khah po̍h ê lāi-mo̍͘h-ê ; m, tiong-mo̍͘h, chiū-sī khah po̍h, kúi-nā tiâu put-sūi-ì-kun-cho͘-chit. (After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
 
 > **【全漢對照】**
-> 第 52 圖。——動脈及靜脈管橫斷面，350 倍擴大：a, 動脈；e, 有細胞核的內膜；ch, 彈力組織；m, 中膜就是不隨意筋組織；chh, 細胞核；a, 外膜；這個外膜是結締織，及靜脈、動脈中的結締織 a，相連；n, 結締織細胞核；V, 靜脈，較薄的內膜的；m, 中膜，就是較薄，幾若條不隨意筋組織。(After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
+> 第 52 圖。——動脈及靜脈管橫斷面，350 倍擴大：a，動脈；e，有細胞核的內膜；ch，彈力組織；m，中膜就是不隨意筋組織；chh，細胞核；a，外膜；這個外膜是結締織，及靜脈、動脈中的結締織 a，相連；n，結締織細胞核；V，靜脈，較薄的內膜的；m，中膜，就是較薄，幾若條不隨意筋組織。(After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
 
 ---
 
@@ -438,7 +438,7 @@ Tē 52 tô͘.—Tōng-me̍h kap chēng-me̍h-kúng hoâiⁿ-tūg-bīn, 350 pē k
 Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ, chhin-chhiūⁿ góa thiàⁿ lín, che sī góa ê bēng-lēng (Iok-hān 15 : 12).
 
 > **【全漢對照】**
-> 耶穌講恁著相疼，親像我疼恁，這是我兮命令 (約翰 15 : 12)。
+> 耶穌講恁著相疼，親像我疼恁，這是我兮命令 （約翰 15：12）。
 
 <!-- Page 079 End -->
 
@@ -452,11 +452,11 @@ Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ, chhin-chhiūⁿ góa thiàⁿ lín, ch
 
 ![原書插圖 - 第 80 頁 (圖 1)](assets/illustrations/page_080_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 53 tô.—Chēng-mèh ê chit pōʻ-ūi ū chhiat khui chí-bēng: 1, piān-mó͘h. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd.)</em></p>
+<p class="figure-caption"><em>Tē 53 tô.—Chēng-mèh ê chit pōʻ-ūi ū chhiat khui chí-bēng: 1, piān-mó͘h. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd.)</em></p>
 
 ![原書插圖 - 第 80 頁 (圖 2)](assets/illustrations/page_080_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 54 tô.—Mng-sòe-huih-kńg 2, lâi saⁿ-liân tōng-mèh 1, kap chēng-mèh 3. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid.”)</em></p>
+<p class="figure-caption"><em>Tē 54 tô.—Mng-sòe-huih-kńg 2, lâi saⁿ-liân tōng-mèh 1, kap chēng-mèh 3. Chìⁿ ū chí-bēng huih-sūn-khoân ê hong-hiòng. (From Warwick and Tunstall's “First Aid.”)</em></p>
 
 </div>
 
@@ -467,15 +467,15 @@ Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ, chhin-chhiūⁿ góa thiàⁿ lín, ch
 Chiah ê chēng-mėh, ū-ê ū piān-mó͘h (瓣膜) tī lāi-bīn; i ê chok-iōng sī beh pang-chān chēng-mėh-huih beh chiūⁿ lâi kui sim ê sî, hō͘ i chū-kí ê tāng bōe tūi-lo̍h, iā hō͘ huih bōe thè-khì. Chit ê mó͘h kiò-chòe chēng-mėh-piān (靜脈瓣, *valves in veins*; tē 53 tô͘).
 
 > **【全漢對照】**
-> **[靜脈瓣]**
+> **［靜脈瓣］**
 > 諸個靜脈，有的有瓣膜（瓣膜）佇內面；它的作用是欲幫贊靜脈血欲上來歸心ê時，予它自己的重𣍐墜落，也予血𣍐退去。這個膜叫做靜脈瓣（靜脈瓣，*valves in veins*；第 53 圖）。
 
 ---
 
-> **Tē 53 tô͘.**—Chēng-mėh ê chit pō͘-ūi ū chhiat khui chí-bêng: 1, piān-mó͘h. Chìⁿ ū chí-bêng huih-sûn-khoân ê hong-hiòng. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd.)
+> **Tē 53 tô͘.**—Chēng-mėh ê chit pō͘-ūi ū chhiat khui chí-bêng：1, piān-mó͘h. Chìⁿ ū chí-bêng huih-sûn-khoân ê hong-hiòng. (From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd.)
 > 
 > **【全漢對照】**
-> **第 53 圖。**——靜脈ê這部位有切開指明：1, 瓣膜。箭有指明血循環ê方向。（From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd.）
+> **第 53 圖。**——靜脈ê這部位有切開指明：1，瓣膜。箭有指明血循環ê方向。（From Warwick and Tunstall’s “First Aid,” by permission of John Wright and Sons, Ltd.）
 
 ---
 
@@ -486,7 +486,7 @@ Chiah ê chēng-mėh, ū-ê ū piān-mó͘h (瓣膜) tī lāi-bīn; i ê chok-i�
 Lán ti̍h ōe-kì-tit tī hì-tōng-mėh ê lāi-bīn sī ù-òe ê huih, iā tī hì-chēng-mėh, sui-bóng sī chēng-mėh, m̄-kú ū chheng-khì ê huih. Chit-ê sī lē-gōa, in-ūi seng-khu-lāi ê chēng-mėh-lāi ū ù-òe ê huih, kan-ta hì-chēng-mėh-lāi ê huih sī chheng-khì.
 
 > **【全漢對照】**
-> **[毛細血管]**
+> **［毛細血管］**
 > 3. 第三是第一細ê血管叫毛細血管（毛細血管，*capillaries*）。佇這內面血ê壓力是低，循環平平向倚心彼面（第 54, 55, 56 圖）。
 > 
 > 咱著會記得佇肺動脈ê內面是污穢ê血，也佇肺靜脈，雖罔是靜脈，唔過有清氣ê血。這個是例外，因為身軀內ê靜脈內有污穢ê血，干焦肺靜脈內ê血是清氣。
@@ -505,7 +505,7 @@ Lán ti̍h ōe-kì-tit tī hì-tōng-mėh ê lāi-bīn sī ù-òe ê huih, iā t
 Lūn Sim: Sim ê hêng-thé, iok-lio̍k chhin-chhiūⁿ kun-thâu-bú ê tōa, tī heng-khám-lāi, heng-khám-kut-ē khah óa tī chó-pêng. Téng-bīn khah khoah, khah ǹg iū-pêng, kiò-chòe sim-tóe (*base*); ē-tóe sòe koh chiam, khah ǹg chó-pêng, kiò-chòe sim-chiam (*apex*; tē 57 tô͘). Sim
 
 > **【全漢對照】**
-> **[心ê形態]**
+> **［心ê形態］**
 > 論心：心ê形態，約略親像拳頭母ê大，佇胸坎內，胸坎骨下較倚佇左邊。頂面較闊，較向右邊，叫做心底（*base*）；底下細閣尖，較向左邊，叫做心尖（*apex*；第 57 圖）。心……
 
 ---
@@ -529,7 +529,7 @@ Pīⁿ-lâng tī ėk-keng ê sî, khàn-hō͘ m̄-thang lī-khui i.
 
 ![原書插圖 - 第 81 頁 (圖 1)](assets/illustrations/page_081_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 55, 56 tô:—Mñg-sòe-huih-kńg khok-tōa ê tô·: tò-pêng ê tô· sī chêng-bīn; tiong-ng-ê sī chhiòng-tñg-bīn; chiàⁿ-pêng-ê sī hoâiⁿ-tñg-bīn; 1, sòe-pau-hu̍t; 2, sòe-pau; 3, huih-kńg ê lāi-khang. (From Warwick & Tunstall's “First Aid.”)</em></p>
+<p class="figure-caption"><em>Tē 55, 56 tô:—Mñg-sòe-huih-kńg khok-tōa ê tô·: tò-pêng ê tô· sī chêng-bīn; tiong-ng-ê sī chhiòng-tñg-bīn; chiàⁿ-pêng-ê sī hoâiⁿ-tñg-bīn; 1, sòe-pau-hu̍t; 2, sòe-pau; 3, huih-kńg ê lāi-khang. (From Warwick & Tunstall's “First Aid.”)</em></p>
 
 </div>
 
@@ -542,11 +542,11 @@ Pīⁿ-lâng tī ėk-keng ê sî, khàn-hō͘ m̄-thang lī-khui i.
 
 ---
 
-> **[圖 55, 56 圖說]**
-> Tē 55, 56 tô͘:—Mn̂g-sè-huih-kńg khok-tōa ê tô͘: tò-pêng ê tô͘ sī chêng-bīn; tiong-ng-ê sī chhiòng-tñg-bīn; chiàⁿ-pêng-ê sī hoâiⁿ-tñg-bīn; 1, sè-pau-hu̍t; 2, sè-pau; 3, huih-kńg ê lāi-khang. (From Warwick & Tunstall's "First Aid.")
+> **［圖 55, 56 圖說］**
+> Tē 55, 56 tô͘:—Mn̂g-sè-huih-kńg khok-tōa ê tô͘: tò-pêng ê tô͘ sī chêng-bīn；tiong-ng-ê sī chhiòng-tñg-bīn；chiàⁿ-pêng-ê sī hoâiⁿ-tñg-bīn；1, sè-pau-hu̍t；2, sè-pau；3, huih-kńg ê lāi-khang. (From Warwick & Tunstall's "First Aid.")
 >
 > **【全漢對照】**
-> 第 55, 56 圖：——毛細血管擴大的圖：倒爿的圖是前面；中間的是縱斷面；正爿的是橫斷面；1, 細胞核；2, 細胞；3, 血管的內空。(From Warwick & Tunstall's "First Aid.")
+> 第 55, 56 圖：——毛細血管擴大的圖：倒爿的圖是前面；中間的是縱斷面；正爿的是橫斷面；1，細胞核；2，細胞；3，血管的內空。(From Warwick & Tunstall's "First Aid.")
 
 ---
 
@@ -588,7 +588,7 @@ Pīⁿ-lâng nā put-séng-jîn-sū, tiòh chim-chiok sūn khoàⁿ pông-kng ū
 
 ![原書插圖 - 第 82 頁 (圖 1)](assets/illustrations/page_082_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 57 tô.—Khui sim iū-pông, iū-sek : 1, piān-mó·h ; 2, hā-tāi-chēng-me̍h ; 3, 5, 6, iū-pông-piah ê cho·-chit ; 4, nñg-îⁿ-o ; 7, 8, iū-pêng nñg tiâu hì-chēng-me̍h ; 9, siōng-tāi-chēng-me̍h ; 10, tāi-tōng-me̍h ; 11, hì-tāi-tōng-me̍h ; 12, iū-pông-hī ; 14, saⁿ-chiam-piān-mó·h ; 15, kun pak liân tī sim ê piah, kap piān-mó·h ; 16, 17, iū-sek-lāi ê bah (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 57 tô.—Khui sim iū-pông, iū-sek : 1, piān-mó·h ; 2, hā-tāi-chēng-me̍h ; 3, 5, 6, iū-pông-piah ê cho·-chit ; 4, nñg-îⁿ-o ; 7, 8, iū-pêng nñg tiâu hì-chēng-me̍h ; 9, siōng-tāi-chēng-me̍h ; 10, tāi-tōng-me̍h ; 11, hì-tāi-tōng-me̍h ; 12, iū-pông-hī ; 14, saⁿ-chiam-piān-mó·h ; 15, kun pak liân tī sim ê piah, kap piān-mó·h ; 16, 17, iū-sek-lāi ê bah (Cunningham).</em></p>
 
 </div>
 
@@ -615,8 +615,8 @@ lâi chòe-chiâⁿ--ê. Ta̍k ê mn̂g ē-tóe ū kúi-nā tiâu ê kun, pa̍k 
 ê lō͘-ēng, sī beh hō͘ chiah ê saⁿ ia̍p koaiⁿ tú hó. Chit ê khang kiò-chòe saⁿ-chiam-piān-khang iā chiah ê teh khui koaiⁿ ê ia̍p, kiò-chòe saⁿ-chiam-piān (三尖瓣, *tricuspid valve*). Huih nā-sī tùi iū-pông ji̍p iū-sek hit ê saⁿ-chiam-piān chiū khui. Iū-sek chi̍t-ē kiu, hit ê saⁿ-chiam-piān chiū
 
 > **【全漢對照】**
-> **[三尖瓣孔佮三尖瓣]**  
-> 的路用，是欲互諸個三葉關咁好。這個孔叫做三尖瓣孔，也諸個咧開關的葉，叫做三尖瓣（三尖瓣, *tricuspid valve*）。血若是對右房入右室，彼個三尖瓣就開。右室一下縮，彼個三尖瓣就
+> **［三尖瓣孔佮三尖瓣］**  
+> 的路用，是欲互諸個三葉關咁好。這個孔叫做三尖瓣孔，也諸個咧開關的葉，叫做三尖瓣（三尖瓣，*tricuspid valve*）。血若是對右房入右室，彼個三尖瓣就開。右室一下縮，彼個三尖瓣就
 
 ---
 
@@ -637,7 +637,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó͘-khǹg i chia̍h.
 
 ![原書插圖 - 第 83 頁 (圖 1)](assets/illustrations/page_083_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 58 tô:—Sim-chōng sûn-khoân ê kái-phò tô: HTCM, hā-tāi-chēng-mẻh; STCM, siōng-tāi-chēng-mẻh; IP, iū-pông; 4, saⁿ-chiam-piān; IS, iū-sek; 5, hì-tōng-mẻh ê poàn-goa̍t-piān; 6, hì-tōng-mẻh; 7, chiàⁿ-pêng ê hì-chōng; 8, tò-pêng ê hì-chōng; Pv. hì-chēng-mẻh; CP, chó-pông; 1, cheng-bō-piān; CS, chó-sek; 2, tāi-tōng-mẻh ê poàn-goa̍t-piān; 3, tāi-tōng-mẻh-keng. (Page, from Lewis, “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 58 tô:—Sim-chōng sûn-khoân ê kái-phò tô: HTCM, hā-tāi-chēng-mẻh; STCM, siōng-tāi-chēng-mẻh; IP, iū-pông; 4, saⁿ-chiam-piān; IS, iū-sek; 5, hì-tōng-mẻh ê poàn-goa̍t-piān; 6, hì-tōng-mẻh; 7, chiàⁿ-pêng ê hì-chōng; 8, tò-pêng ê hì-chōng; Pv. hì-chēng-mẻh; CP, chó-pông; 1, cheng-bō-piān; CS, chó-sek; 2, tāi-tōng-mẻh ê poàn-goa̍t-piān; 3, tāi-tōng-mẻh-keng. (Page, from Lewis, “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -681,7 +681,7 @@ Chó-sek sī sim tē it iàu-kín ê só͘-chāi. Hit ê hêng-thé tēng koh ch
 Koh só͘-ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 3).
 
 > **【全漢對照】**
-> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4: 3）。
+> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4：3）。
 
 <!-- Page 083 End -->
 
@@ -695,7 +695,7 @@ Koh só͘-ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 
 
 ![原書插圖 - 第 84 頁 (圖 1)](assets/illustrations/page_084_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 59 tô:—Huih sūn-khoân ê tô : 1, chó-sek; 2, chó-pông; 3, iū-sek ; 4, iū-pông ; 5, hì-chēng-mėh ; 6, hì-chōng; 7, tāi-tōng-mėh; 8, thâu-khak kap siōng-chì ; 9, tāi-chēng-mėh ; 10, pî-chōng ; 11, tng ; 12, sim-chōng ; 13, hā-chì ; 14, koaⁿ-chōng ; 14 hō ê ē-bīn hit tiâu jip koaⁿ-chōng, sī bûn-chēng-mėh ; tī koaⁿ-chōng téng-bīn pō͘-ūi teh chhut, hit tiâu sī koaⁿ-chēng-mėh (Dalton).</em></p>
+<p class="figure-caption"><em>Tē 59 tô:—Huih sūn-khoân ê tô : 1, chó-sek; 2, chó-pông; 3, iū-sek ; 4, iū-pông ; 5, hì-chēng-mėh ; 6, hì-chōng; 7, tāi-tōng-mėh; 8, thâu-khak kap siōng-chì ; 9, tāi-chēng-mėh ; 10, pî-chōng ; 11, tng ; 12, sim-chōng ; 13, hā-chì ; 14, koaⁿ-chōng ; 14 hō ê ē-bīn hit tiâu jip koaⁿ-chōng, sī bûn-chēng-mėh ; tī koaⁿ-chōng téng-bīn pō͘-ūi teh chhut, hit tiâu sī koaⁿ-chēng-mėh (Dalton).</em></p>
 
 </div>
 
@@ -758,9 +758,9 @@ I. Tē it, sī thong seng-khu ê huih ūn-hêng.
 Huih tùi hì jip sim ê chó-pông, kè chó-sek, koh chhut tāi-tōng-me̍h sòa ūn-hêng tī sin-thé ta̍k só͘-chāi, āu-lâi kè m̂g-sòe-kńg, chiah jip chēng-me̍h, kàu sim ê iū-pông, kè iū-sek. Chit-ê kiò-chòe choân-sin-sûn-khoân (全身循環, systemic circulation), á-sī tōa-sûn-khoân. *(邊註: Choân-sin-sûn-khoân)*
 
 > **【全漢對照】**
-> 血咧流行有分做三段：*(邊註: 血循環三段)*
+> 血咧流行有分做三段：*（邊註：血循環三段）*
 > 一、第一，是通身軀的血運行。
-> 血對肺入心的左房，過左室，閣出大動脈續運行佇身體逐所在，後來過毛細管，才入靜脈，到心的右房，過右室。這個號做全身循環（全身循環，systemic circulation），抑是大循環。*(邊註: 全身循環)*
+> 血對肺入心的左房，過左室，閣出大動脈續運行佇身體逐所在，後來過毛細管，才入靜脈，到心的右房，過右室。這個號做全身循環（全身循環，systemic circulation），抑是大循環。*（邊註：全身循環）*
 
 ---
 
@@ -769,14 +769,14 @@ Huih tùi sim ê iū-sek chhut hì-tāi-tōng-me̍h, chiah tùi hì-chēng-me̍h
 
 > **【全漢對照】**
 > 二、第二，是肺血運行。
-> 血對心的右室出肺大動脈，才對肺靜脈閣入心的左房，號做肺循環（肺循環，pulmonary circulation），抑是小循環。較詳細來講：肺大動脈是對心右室起分做兩杈，入佇左右的肺內。佇肺的內面閣分做真多細條杈，諸個閣分做閣較細條，成做毛細血管。諸個毛細管閣相合變成分靜脈，閣合成做肺靜脈（肺靜脈，pulmonary veins），左邊兩條，右邊亦兩條，才將血送到佇心的左房。*(邊註: 肺循環)*
+> 血對心的右室出肺大動脈，才對肺靜脈閣入心的左房，號做肺循環（肺循環，pulmonary circulation），抑是小循環。較詳細來講：肺大動脈是對心右室起分做兩杈，入佇左右的肺內。佇肺的內面閣分做真多細條杈，諸個閣分做閣較細條，成做毛細血管。諸個毛細管閣相合變成分靜脈，閣合成做肺靜脈（肺靜脈，pulmonary veins），左邊兩條，右邊亦兩條，才將血送到佇心的左房。*（邊註：肺循環）*
 
 ---
 
 III. Tē saⁿ, sī pak-tó-lāi ê chēng-me̍h-huih keng-kè koaⁿ-chōng ê ūn-hêng, kiò-chòe bûn-me̍h-sûn-khoân (門脈循環, portal circulation). Khah siông-sè lâi kóng : Chēng-me̍h-huih tùi ūi, pî, pak-lāi ê chôaⁿ-thé, tńg, chiah tùi koaⁿ-nih kè, koh jip ē-bīn hā-tāi-chēng-me̍h, chiah koh jip tī sim ê iū-pông. Koh khah siông-sè,— *(邊註: Bûn-me̍h-sûn-khoân)*
 
 > **【全漢對照】**
-> 三、第三，是腹肚內的靜脈血經過肝臟的運行，號做門脈循環（門脈循環，portal circulation）。較詳細來講：靜脈血對胃、脾、腹內的腺體、腸，才對肝裡過，閣入下面下大靜脈，才閣入佇心的右房。閣較詳細——*(邊註: 門脈循環)*
+> 三、第三，是腹肚內的靜脈血經過肝臟的運行，號做門脈循環（門脈循環，portal circulation）。較詳細來講：靜脈血對胃、脾、腹內的腺體、腸，才對肝裡過，閣入下面下大靜脈，才閣入佇心的右房。閣較詳細——*（邊註：門脈循環）*
 
 ---
 
@@ -806,7 +806,7 @@ Nā ū sím-mi̍h mı̍h phah-phòa, á-sī phah-m̄-kìⁿ, ti̍h liām-piⁿ t
 
 ![原書插圖 - 第 86 頁 (圖 1)](assets/illustrations/page_086_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 60 tô.—Sim kap sim ê tōa huih-kńg : 1, kah-chōng-chôaⁿ ; 2, chóng-khì-kńg ; 3, chó-pêng kēng-tōng-me̍h ; 4, tē 10 tiâu náu-sîn-keng ; 5, hoâiⁿ-keh-mo̍h-sîn-keng ; 6, heng-kńg ; 7, chó-pêng só-kut-ē-tōng-me̍h ; 8, chó-pêng lāi-kēng-chēng-me̍h ; 9, chó-pêng só-kut-ē-chēng-me̍h ; 10, heng-mo̍h ; 11, tōng-me̍h-kńg (ductus arteriosus) ; 12, chó-pêng hì-tōng-me̍h ; 13, hì-tāi-tōng-me̍h ; 14, chó-khì-kńg ; 15, chó-pêng ê chit-pō͘-ūi ; 16, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 17, heng-pō͘-tāi-tōng-me̍h ; 18, hā-tāi-chēng-me̍h ; 19, koaⁿ-chēng-me̍h ; 20, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 21, iū-sek ê piah ; 22, iū-pông ê piah ; 23, siōng-heng-tāi-tōng-me̍h ; 24, sim-lông khàm sim-chōng téng-bīn ê keh-kài ; 25, tāi-tōng-me̍h-keng ; 26, siōng-tāi-chēng-me̍h ; 27, iū-pêng bô-miâ-tāi-chēng-me̍h ; 28, heng-mo̍h ; 29, iū-pêng só-kut-ē-chēng-me̍h ; 30, iū-pêng lāi-kēng-chēng-me̍h ; 31, iū-pêng só-kut-ē-chēng-me̍h ; 33, tē 10 tiâu náu-sîn-keng ; 34, iū-pêng kēng-tōng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 60 tô.—Sim kap sim ê tōa huih-kńg : 1, kah-chōng-chôaⁿ ; 2, chóng-khì-kńg ; 3, chó-pêng kēng-tōng-me̍h ; 4, tē 10 tiâu náu-sîn-keng ; 5, hoâiⁿ-keh-mo̍h-sîn-keng ; 6, heng-kńg ; 7, chó-pêng só-kut-ē-tōng-me̍h ; 8, chó-pêng lāi-kēng-chēng-me̍h ; 9, chó-pêng só-kut-ē-chēng-me̍h ; 10, heng-mo̍h ; 11, tōng-me̍h-kńg (ductus arteriosus) ; 12, chó-pêng hì-tōng-me̍h ; 13, hì-tāi-tōng-me̍h ; 14, chó-khì-kńg ; 15, chó-pêng ê chit-pō͘-ūi ; 16, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 17, heng-pō͘-tāi-tōng-me̍h ; 18, hā-tāi-chēng-me̍h ; 19, koaⁿ-chēng-me̍h ; 20, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 21, iū-sek ê piah ; 22, iū-pông ê piah ; 23, siōng-heng-tāi-tōng-me̍h ; 24, sim-lông khàm sim-chōng téng-bīn ê keh-kài ; 25, tāi-tōng-me̍h-keng ; 26, siōng-tāi-chēng-me̍h ; 27, iū-pêng bô-miâ-tāi-chēng-me̍h ; 28, heng-mo̍h ; 29, iū-pêng só-kut-ē-chēng-me̍h ; 30, iū-pêng lāi-kēng-chēng-me̍h ; 31, iū-pêng só-kut-ē-chēng-me̍h ; 33, tē 10 tiâu náu-sîn-keng ; 34, iū-pêng kēng-tōng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -824,7 +824,7 @@ Nā ū sím-mi̍h mı̍h phah-phòa, á-sī phah-m̄-kìⁿ, ti̍h liām-piⁿ t
 Tē 60 tô͘:—Sim kap sim ê tōa huih-kńg : 1, kah-chōng-chôaⁿ ; 2, chóng-khì-kńg ; 3, chó-pêng keng-tōng-me̍h ; 4, tē 10 tiâu náu-sîn-keng ; 5, hoâiⁿ-keh-mo̍h-sîn-keng ; 6, heng-kńg ; 7, chó-pêng só-kut-ē-tōng-me̍h ; 8, chó-pêng lāi-keng-chēng-me̍h ; 9, chó-pêng só-kut-ē-chēng-me̍h ; 10, heng-mo̍h ; 11, tōng-me̍h-kńg (ductus arteriosus) ; 12, chó-pêng hì-tōng-me̍h ; 13, hì-tāi-tōng-me̍h ; 14, chó-khì-kńg ; 15, chó-pông ê chit-pō͘-ūi ; 16, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 17, heng-phō͘-tāi-tōng-me̍h ; 18, hā-tāi-chēng-me̍h ; 19, koaⁿ-chēng-me̍h ; 20, iúⁿ-chhiú sim-chōng ê tōng-me̍h ; 21, iū-sek ê piah ; 22, iū-pông ê piah ; 23, siōng-heng-tāi-tōng-me̍h ; 24, sim-lông khàm sim-chōng téng-bīn ê keh-kài ; 25, tāi-tōng-me̍h-keng ; 26, siōng-tāi-chēng-me̍h ; 27, iū-pêng bô-miâ-tāi-chēng-me̍h ; 28, heng-mo̍h ; 29, iū-pêng só-kut-ē-chēng-me̍h ; 30, iū-pêng lāi-keng-chēng-me̍h ; 31, iū-pêng só-kut-ē-chēng-me̍h ; 33, tē 10 tiâu náu-sîn-keng ; 34, iū-pêng keng-tōng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> 第 60 圖：—心及心的大血管：1, 甲狀泉（腺）；2, 總氣管；3, 左爿頸動脈；4, 第 10 條腦神經（迷走神經）；5, 橫膈膜神經；6, 胸管；7, 左爿鎖骨下動脈；8, 左爿內頸靜脈；9, 左爿鎖骨下靜脈；10, 胸膜；11, 動脈管 (ductus arteriosus)；12, 左爿肺動脈；13, 肺大動脈；14, 左氣管；15, 左房的一部位；16, 養手心臟的動脈（左冠狀動脈）；17, 胸部大動脈；18, 下大靜脈；19, 肝靜脈；20, 養手心臟的動脈（右冠狀動脈）；21, 右室的壁；22, 右房的壁；23, 上胸大動脈（升主動脈）；24, 心囊蓋心臟頂面的界限；25, 大動脈弓；26, 上大靜脈；27, 右爿無名大靜脈；28, 胸膜；29, 右爿鎖骨下靜脈；30, 右爿內頸靜脈；31, 右爿鎖骨下靜脈；33, 第 10 條腦神經；34, 右爿頸動脈。（出自 Gray's “Anatomy”，經出版者 Longmans, Green and Co. 授權允准。）
+> 第 60 圖：—心及心的大血管：1，甲狀泉（腺）；2，總氣管；3，左爿頸動脈；4，第 10 條腦神經（迷走神經）；5，橫膈膜神經；6，胸管；7，左爿鎖骨下動脈；8，左爿內頸靜脈；9，左爿鎖骨下靜脈；10，胸膜；11，動脈管 (ductus arteriosus)；12，左爿肺動脈；13，肺大動脈；14，左氣管；15，左房的一部位；16，養手心臟的動脈（左冠狀動脈）；17，胸部大動脈；18，下大靜脈；19，肝靜脈；20，養手心臟的動脈（右冠狀動脈）；21，右室的壁；22，右房的壁；23，上胸大動脈（升主動脈）；24，心囊蓋心臟頂面的界限；25，大動脈弓；26，上大靜脈；27，右爿無名大靜脈；28，胸膜；29，右爿鎖骨下靜脈；30，右爿內頸靜脈；31，右爿鎖骨下靜脈；33，第 10 條腦神經；34，右爿頸動脈。（出自 Gray's “Anatomy”，經出版者 Longmans, Green and Co. 授權允准。）
 
 ---
 
@@ -833,7 +833,7 @@ Tē 60 tô͘:—Sim kap sim ê tōa huih-kńg : 1, kah-chōng-chôaⁿ ; 2, chó
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī jîn-ài (I Ko-lîm-to 13: 13).
 
 > **【全漢對照】**
-> 現今所存的，就是信、盼望、仁愛，此三項，其中的第一大的，是仁愛（哥林多前書 13: 13）。
+> 現今所存的，就是信、盼望、仁愛，此三項，其中的第一大的，是仁愛（哥林多前書 13：13）。
 
 <!-- Page 086 End -->
 
@@ -847,7 +847,7 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 
 ![原書插圖 - 第 87 頁 (圖 1)](assets/illustrations/page_087_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 61 tô.—Pak-pō͘-tāi-tōng-me̍h kap i ê chi: 1, hoâiⁿ-keh-mo̍h ê ē-bīn pêng; 2, chia̍h-tō; 3, sīn-chōng téng-bīn ê chôaⁿ; 4, tōng-me̍h; 5, ji̍p teh iúⁿ-chhiūⁿ ūi hit tiâu tōng-me̍h; 6, phî-tōng-me̍h; 7, chó-pêng ê sīn-chōng; 8, sīn-tōng-me̍h; 9, sīn-chēng-me̍h; 10, cheng-hē-tōng-me̍h; 11, su-jiō-kńg; 12, chó-pêng chóng-tûg-kut-tōng-me̍h; 13, chó-pêng lāi-tûg-kut-tōng-me̍h; 14, chó-pêng lāi-tûg-kut-chēng-me̍h; 15, iū-pêng lāi-tûg-kut-tōng-me̍h; 16, iū-pêng gōa-tûg-kut-chēng-me̍h; 17, pak-pō͘-tāi-tōng-me̍h; 18, hā-tāi-chēng-me̍h; 19, iū-pêng ê sīn-chōng; 20, koaⁿ-tōng-me̍h; 21, koaⁿ-chēng-me̍h; 22, hā-tāi-chēng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 61 tô.—Pak-pō͘-tāi-tōng-me̍h kap i ê chi: 1, hoâiⁿ-keh-mo̍h ê ē-bīn pêng; 2, chia̍h-tō; 3, sīn-chōng téng-bīn ê chôaⁿ; 4, tōng-me̍h; 5, ji̍p teh iúⁿ-chhiūⁿ ūi hit tiâu tōng-me̍h; 6, phî-tōng-me̍h; 7, chó-pêng ê sīn-chōng; 8, sīn-tōng-me̍h; 9, sīn-chēng-me̍h; 10, cheng-hē-tōng-me̍h; 11, su-jiō-kńg; 12, chó-pêng chóng-tûg-kut-tōng-me̍h; 13, chó-pêng lāi-tûg-kut-tōng-me̍h; 14, chó-pêng lāi-tûg-kut-chēng-me̍h; 15, iū-pêng lāi-tûg-kut-tōng-me̍h; 16, iū-pêng gōa-tûg-kut-chēng-me̍h; 17, pak-pō͘-tāi-tōng-me̍h; 18, hā-tāi-chēng-me̍h; 19, iū-pêng ê sīn-chōng; 20, koaⁿ-tōng-me̍h; 21, koaⁿ-chēng-me̍h; 22, hā-tāi-chēng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -868,7 +868,7 @@ Tē 61 tô͘.—Pak-pō͘-tāi-tōng-me̍h kap i ê chi : 1, hoâiⁿ-keh-mo̍h 
 Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chû-sim, Siōng-tè ê thiàⁿ thái-thó ū tiàm tī i ah (I Iok-hān 3 : 17)?
 
 > **【全漢對照】**
-> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈可有踮佇伊啊（I 約翰 3:17）？
+> 人若有世間的財產，看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈可有踮佇伊啊（I 約翰 3：17）？
 
 <!-- Page 087 End -->
 
@@ -951,7 +951,7 @@ I-seng nā hoan-hù sím-mi̍h tāi-chì m̄-thang iān-chhiān.
 
 ![原書插圖 - 第 89 頁 (圖 1)](assets/illustrations/page_089_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 62 tô.—Chêng-phok-tōng-mèh kái-phò tô: Âng-sek-ê lóng sī tōng-mèh; tī chia kan-ta beh kì khah iàu-kín-ê; 1, 2, tōng-mèh ; 3, kun-bah ê kiān; 4, jiâu-kut-tōng-mèh ; 5, 6, kun-bah ; 7, tōng-mèh ; 8, 9, 10, kun-bah ; 11, tōng-mèh ; 12, 13, sîn-keng ; 14, siōng-phok-tōng-mèh ; 15, nñg-thâu-phok-kun ; 16, chhioh-tōng-mèh ; 17, kun-bah ; 18, chhioh-tōng-mèh ; 19, kun-bah ê kiān ; 20, chhioh-sîn-keng ; 21, kun-bah ê kiān ; 22, 23, tōng-mèh ; 24, chhíiⁿ-chíiⁿ-keng ; 25, chóng-chí-chíiⁿ-tōng-mèh (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 62 tô.—Chêng-phok-tōng-mèh kái-phò tô: Âng-sek-ê lóng sī tōng-mèh; tī chia kan-ta beh kì khah iàu-kín-ê; 1, 2, tōng-mèh ; 3, kun-bah ê kiān; 4, jiâu-kut-tōng-mèh ; 5, 6, kun-bah ; 7, tōng-mèh ; 8, 9, 10, kun-bah ; 11, tōng-mèh ; 12, 13, sîn-keng ; 14, siōng-phok-tōng-mèh ; 15, nñg-thâu-phok-kun ; 16, chhioh-tōng-mèh ; 17, kun-bah ; 18, chhioh-tōng-mèh ; 19, kun-bah ê kiān ; 20, chhioh-sîn-keng ; 21, kun-bah ê kiān ; 22, 23, tōng-mèh ; 24, chhíiⁿ-chíiⁿ-keng ; 25, chóng-chí-chíiⁿ-tōng-mèh (Cunningham).</em></p>
 
 </div>
 
@@ -961,7 +961,7 @@ tōng-me̍h iáu-bē kàu kut-pôaⁿ, ū tōng-me̍h-chi pun-khui thàu tī ūi
 
 > **【全漢對照】**
 > 【分開】
-> 動脈猶未到骨盤，有動脈枝分開透佇胃、脾、腎、腸、肝。佇骨盤遐，分做兩條叫做【腸骨動脈】總腸骨動脈（總腸骨動脈, *common iliac arteries*）。遮的閣分開，對遮到跤骨的所在。佇大腿骨遐叫做【股動脈】股動脈（股動脈, *femoral artery*）。對遮閣行到膝關節後，名叫【膝膕動脈】膝膕動脈（膝膕動脈, *politeal artery*）。也對遮閣分做兩條，行到佇跤指頭仔。
+> 動脈猶未到骨盤，有動脈枝分開透佇胃、脾、腎、腸、肝。佇骨盤遐，分做兩條叫做【腸骨動脈】總腸骨動脈（總腸骨動脈，*common iliac arteries*）。遮的閣分開，對遮到跤骨的所在。佇大腿骨遐叫做【股動脈】股動脈（股動脈，*femoral artery*）。對遮閣行到膝關節後，名叫【膝膕動脈】膝膕動脈（膝膕動脈，*politeal artery*）。也對遮閣分做兩條，行到佇跤指頭仔。
 
 ---
 
@@ -969,7 +969,7 @@ Tī kun-bah-lāi, kap seng-khu ta̍k só͘-chāi, koh pun kàu chin sòe tiâu, 
 
 > **【全漢對照】**
 > 【毛細血管】
-> 佇肌肉內，佮身軀逐所在，閣分到真細條，名叫毛細血管（毛...
+> 佇肌肉內，佮身軀逐所在，閣分到真細條，名叫毛細血管（毛。..
 
 ---
 
@@ -978,7 +978,7 @@ Tī kun-bah-lāi, kap seng-khu ta̍k só͘-chāi, koh pun kàu chin sòe tiâu, 
 Tē 62 tô͘.—Chêng-phok-tōng-me̍h kái-phò tô͘ : Âng-sek-ê lóng sī tōng-me̍h; tī chia kan-ta beh kì khah iàu-kín-ê; 1, 2, tōng-me̍h; 3, kun-bah ê kiān; 4, jiâu-kut-tōng-me̍h; 5, 6, kun-bah; 7, tōng-me̍h; 8, 9, 10, kun-bah; 11, tōng-me̍h; 12, 13, sîn-keng; 14, siōng-phok-tōng-me̍h; 15, nñg-thâu-phok-kun; 16, chhioh-tōng-me̍h; 17, kun-bah; 18, chhioh-tōng-me̍h; 19, kun-bah ê kiān; 20, chhioh-sîn-keng; 21, kun-bah ê kiān; 22, 23, tōng-me̍h; 24, chhián-chiúⁿ-keng; 25, chóng-chí-chiúⁿ-tōng-me̍h (Cunningham).
 
 > **【全漢對照】**
-> 第 62 圖。——前膊動脈解剖圖：紅色的攏是動脈；佇遮干焦欲記較要緊的；1, 2, 動脈；3, 肌肉的腱；4, 橈骨動脈；5, 6, 肌肉；7, 動脈；8, 9, 10, 肌肉；11, 動脈；12, 13, 神經；14, 上膊動脈；15, 兩頭膊筋；16, 尺動脈；17, 肌肉；18, 尺動脈；19, 肌肉的腱；20, 尺神經；21, 肌肉的腱；22, 23, 動脈；24, 淺掌弓；25, 總指掌動脈（Cunningham）。
+> 第 62 圖。——前膊動脈解剖圖：紅色的攏是動脈；佇遮干焦欲記較要緊的；1, 2，動脈；3，肌肉的腱；4，橈骨動脈；5, 6，肌肉；7，動脈；8, 9, 10，肌肉；11，動脈；12, 13，神經；14，上膊動脈；15，兩頭膊筋；16，尺動脈；17，肌肉；18，尺動脈；19，肌肉的腱；20，尺神經；21，肌肉的腱；22, 23，動脈；24，淺掌弓；25，總指掌動脈（Cunningham）。
 
 <!-- Page 089 End -->
 
@@ -992,7 +992,7 @@ Tē 62 tô͘.—Chêng-phok-tōng-me̍h kái-phò tô͘ : Âng-sek-ê lóng sī 
 
 ![原書插圖 - 第 90 頁 (圖 1)](assets/illustrations/page_090_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 63 tô.—Chiàⁿ-chhiú chêng bīn ê phê-ē-chēng-mèh tô: 1, thâu-chēng-mèh; 2, kùi-iàu-chēng-mèh; 3, tiong-kēng-chēng-mèh; 4, tiong-kùi-iàu-chēng-mèh; 5, tiong-chēng-mèh; 6, chhim-chēng-mèh ê chit pō-hūn; 7—10, chhiú khah sòe ê chēng-mèh (Cunningham.)</em></p>
+<p class="figure-caption"><em>Tē 63 tô.—Chiàⁿ-chhiú chêng bīn ê phê-ē-chēng-mèh tô: 1, thâu-chēng-mèh; 2, kùi-iàu-chēng-mèh; 3, tiong-kēng-chēng-mèh; 4, tiong-kùi-iàu-chēng-mèh; 5, tiong-chēng-mèh; 6, chhim-chēng-mèh ê chit pō-hūn; 7—10, chhiú khah sòe ê chēng-mèh (Cunningham.)</em></p>
 
 </div>
 
@@ -1004,7 +1004,7 @@ Tē 62 tô͘.—Chêng-phok-tōng-me̍h kái-phò tô͘ : Âng-sek-ê lóng sī 
 
 > **【全漢對照】**
 > **〔大靜脈〕**
-> 細血管）。血到遮的微細血管的時，無路用的物對肺、腎、皮，排出離開身軀。遮的微細血管閣試合，彼條管小可較大就變成小靜脈。小靜脈那行那試合變成較大的靜脈，到路尾續接佇兩條大靜脈。頂面大靜脈接佇腦、頷頸佮上肢的血。下面大靜脈接佇下肢佮腹內的血。**〔上〕**此兩條叫做上大靜脈（上大靜脈, superior vena cava），**〔下〕**下大靜脈（下大靜脈, inferior vena cava）；亦會運送血入佇心的右房。大的靜脈是較常綴動脈相佮行。
+> 細血管）。血到遮的微細血管的時，無路用的物對肺、腎、皮，排出離開身軀。遮的微細血管閣試合，彼條管小可較大就變成小靜脈。小靜脈那行那試合變成較大的靜脈，到路尾續接佇兩條大靜脈。頂面大靜脈接佇腦、頷頸佮上肢的血。下面大靜脈接佇下肢佮腹內的血。**〔上〕**此兩條叫做上大靜脈（上大靜脈，superior vena cava），**〔下〕**下大靜脈（下大靜脈，inferior vena cava）；亦會運送血入佇心的右房。大的靜脈是較常綴動脈相佮行。
 
 ---
 
@@ -1020,7 +1020,7 @@ Chēng-me̍h pí tông-me̍h sī khah chōe koh tōa. Nā-sī chēng-me̍h siū-
 **Tē 63 tô͘.**—Chiàⁿ-chhiú chêng bīn ê phê-ē-chēng-me̍h tô͘: 1, thâu-chēng-me̍h; 2, kùi-iàu-chēng-me̍h; 3, tiong-keng-chēng-me̍h; 4, tiong-kùi-iàu-chēng-me̍h; 5, tiong-chēng-me̍h; 6, chhim-chēng-me̍h ê chit pō͘-hūn; 7—10, chhiú khah sòe ê chēng-me̍h (Cunningham.)
 
 > **【全漢對照】**
-> **第 63 圖。**—正手前面的皮下靜脈圖：1, 頭靜脈；2, 貴要靜脈；3, 正中肘靜脈（中經靜脈）；4, 正中貴要靜脈；5, 正中靜脈；6, 深靜脈的一部份；7—10, 手較細的靜脈 (Cunningham.)
+> **第 63 圖。**—正手前面的皮下靜脈圖：1，頭靜脈；2，貴要靜脈；3，正中肘靜脈（中經靜脈）；4，正中貴要靜脈；5，正中靜脈；6，深靜脈的一部份；7—10，手較細的靜脈 (Cunningham.)
 
 <!-- Page 090 End -->
 
@@ -1070,7 +1070,7 @@ Sim ê iū-phong, kap iū-sek ū bô chheng-khì ê huih,
 Góa siat-sú ōe kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa chiū chiâⁿ-chòe hiáng ê tâng-khì, tân ê lâ-poa̍h (I Ko-lîm-to 13: 1).
 
 > **【全漢對照】**  
-> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器，鳴的鐃鈸（哥林多前書 13: 1）。
+> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器，鳴的鐃鈸（哥林多前書 13：1）。
 
 <!-- Page 091 End -->
 
@@ -1120,7 +1120,7 @@ chiū-sī chēng-me̍h-huih, in-ūi ū thòaⁿ-sng; chit hō thòaⁿ-sng sī t
 Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25 : 21）。
+> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 092 End -->
 
@@ -1161,10 +1161,10 @@ Tī $\frac{8}{10}$ biáu ê tiong-kan pông ū hioh chi̍t pòaⁿ khah ke, sek 
 > **【全漢對照】**  
 > 心咧撲，對房縮，到第二擺縮，算是心的循環。此個循環一擺的時間是一秒的十分八的久。  
 > 心循環的時期是照下底：  
-> &emsp;&emsp;心的循環 ． ． $\frac{8}{10}$ 秒  
-> &emsp;&emsp;房縮 ． ． ． $\frac{1}{10}$ 〃  
-> &emsp;&emsp;室縮 ． ． ． $\frac{3}{10}$ 〃  
-> &emsp;&emsp;室伸 ． ． ． $\frac{4}{10}$ 〃 就是歇睏。  
+> &emsp；&emsp；心的循環 ． ． $\frac{8}{10}$ 秒  
+> &emsp；&emsp；房縮 ． ． ． $\frac{1}{10}$ 〃  
+> &emsp；&emsp；室縮 ． ． ． $\frac{3}{10}$ 〃  
+> &emsp；&emsp；室伸 ． ． ． $\frac{4}{10}$ 〃 就是歇睏。  
 > 佇 $\frac{8}{10}$ 秒的中間房有歇一半較加，室有歇一半，所以佇 60 秒的中間，心有歇 30 秒較加。佇一點鐘久，心有歇 30 分較加，佇規日，心有歇 12 點鐘久較加。所以對按呢來看，心有做工，亦有歇睏。
 
 ---
@@ -1201,7 +1201,7 @@ Tio̍h hó khoán-thāi pīⁿ-lâng.
 
 ![原書插圖 - 第 94 頁 (圖 1)](assets/illustrations/page_094_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 64 tô:—Thai-jī huih-ék ê sûn-khoân : 1, iū-pêng kēng-tōng-mėh ; 2, chó-pêng kēng-tōng-mėh ; 3, chó-pêng lāi-kēng-chēng-mėh ; 4, chóng-khì-kńg ; 5, chó-pêng só-kut-ē-tōng-mėh ; 6, chó-pêng só-kut-ē-chēng-mėh ; 7, tāi-tōng-mėh ; 8, tōng-mėh-kńg ; 9, hì-tāi-tōng-mėh ; 10, chó-hì ; 11, chó-pông ; 12, chó-sek ; 13, iū-sek ; 14, sim-chōng ; 15, hā-hêng-tāi-tōng-mėh ; 16, chó-pêng chóng-tńg-kut-tōng-mėh ; 17, lāi-tńg-kut-tōng-mėh ; 18, chó-pêng gōa-tńg-kut-tōng-mėh ; 19, chó-pêng gōa-tńg-kut-chēng-mėh ; 20, iū-pêng gōa-tńg-kut-chēng-mėh ; 21, pông-kong ; 22, thai-pôaⁿ ; 23, châi-tòa ; 24, tō͘-châi ; 25, châi-chēng-mėh ; 26, koaⁿ-chông ê iū-hio̍h ; 27, táⁿ-lông ; 28, hā-tāi-chēng-mėh ; 29, bûn-chēng-mėh ; 30 ; iū-pông ; 31, nñg-īⁿ-khang ; 32, iū-hì ; 33, siōng-tāi-chēng-mėh ; 34, iū-pêng só-kut-ē-chēng-mėh ; 35, iū-pêng só-kut-ē-tōng-mėh ; 36, iū-pêng lāi-kēng-chēng-mėh. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 64 tô:—Thai-jī huih-ék ê sûn-khoân : 1, iū-pêng kēng-tōng-mėh ; 2, chó-pêng kēng-tōng-mėh ; 3, chó-pêng lāi-kēng-chēng-mėh ; 4, chóng-khì-kńg ; 5, chó-pêng só-kut-ē-tōng-mėh ; 6, chó-pêng só-kut-ē-chēng-mėh ; 7, tāi-tōng-mėh ; 8, tōng-mėh-kńg ; 9, hì-tāi-tōng-mėh ; 10, chó-hì ; 11, chó-pông ; 12, chó-sek ; 13, iū-sek ; 14, sim-chōng ; 15, hā-hêng-tāi-tōng-mėh ; 16, chó-pêng chóng-tńg-kut-tōng-mėh ; 17, lāi-tńg-kut-tōng-mėh ; 18, chó-pêng gōa-tńg-kut-tōng-mėh ; 19, chó-pêng gōa-tńg-kut-chēng-mėh ; 20, iū-pêng gōa-tńg-kut-chēng-mėh ; 21, pông-kong ; 22, thai-pôaⁿ ; 23, châi-tòa ; 24, tō͘-châi ; 25, châi-chēng-mėh ; 26, koaⁿ-chông ê iū-hio̍h ; 27, táⁿ-lông ; 28, hā-tāi-chēng-mėh ; 29, bûn-chēng-mėh ; 30 ; iū-pông ; 31, nñg-īⁿ-khang ; 32, iū-hì ; 33, siōng-tāi-chēng-mėh ; 34, iū-pêng só-kut-ē-chēng-mėh ; 35, iū-pêng só-kut-ē-tōng-mėh ; 36, iū-pêng lāi-kēng-chēng-mėh. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -1214,7 +1214,7 @@ Tē 64 tô͘:—Thai-jî huih-e̍k ê sûn-khoân : 1, iū-pêng kēng-tōng-me�
 > **【全漢對照】**
 > 78 血佮血管系統
 > 
-> 第 64 圖：—胎兒血液的循環：1, 右爿頸動脈；2, 左爿頸動脈；3, 左爿內頸靜脈；4, 總氣管；5, 左爿鎖骨下動脈；6, 左爿鎖骨下靜脈；7, 大動脈；8, 動脈管；9, 肺大動脈；10, 左肺；11, 左房；12, 左室；13, 右室；14, 心臟；15, 下行大動脈；16, 左爿總襠骨動脈；17, 內襠骨動脈；18, 左爿外襠骨動脈；19, 左爿外襠骨靜脈；20, 右爿外襠骨靜脈；21, 膀胱；22, 胎盤；23, 臍帶；24, 肚臍；25, 臍靜脈；26, 肝臟的右葉；27, 膽囊；28, 下大靜脈；29, 門靜脈；30；右房；31, 卵圓孔；32, 右肺；33, 上大靜脈；34, 右爿鎖骨下靜脈；35, 右爿鎖骨下動脈；36, 右爿內頸靜脈。(From Gray's "Anatomy," by permission of Longmans, Green and Co., publishers.)
+> 第 64 圖：—胎兒血液的循環：1，右爿頸動脈；2，左爿頸動脈；3，左爿內頸靜脈；4，總氣管；5，左爿鎖骨下動脈；6，左爿鎖骨下靜脈；7，大動脈；8，動脈管；9，肺大動脈；10，左肺；11，左房；12，左室；13，右室；14，心臟；15，下行大動脈；16，左爿總襠骨動脈；17，內襠骨動脈；18，左爿外襠骨動脈；19，左爿外襠骨靜脈；20，右爿外襠骨靜脈；21，膀胱；22，胎盤；23，臍帶；24，肚臍；25，臍靜脈；26，肝臟的右葉；27，膽囊；28，下大靜脈；29，門靜脈；30；右房；31，卵圓孔；32，右肺；33，上大靜脈；34，右爿鎖骨下靜脈；35，右爿鎖骨下動脈；36，右爿內頸靜脈。(From Gray's "Anatomy," by permission of Longmans, Green and Co., publishers.)
 
 <!-- Page 094 End -->
 
@@ -1228,7 +1228,7 @@ Tē 64 tô͘:—Thai-jî huih-e̍k ê sûn-khoân : 1, iū-pêng kēng-tōng-me�
 
 ![原書插圖 - 第 95 頁 (圖 1)](assets/illustrations/page_095_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Iáu=bē chhut=sì ê sūn=khoān Tē 65 tô·.</em></p>
+<p class="figure-caption"><em>Iáu=bē chhut=sì ê sūn=khoān Tē 65 tô·.</em></p>
 
 </div>
 
@@ -1314,7 +1314,7 @@ I-seng sûn kēng ê sî, khàn-hō͘ tio̍h tè i, m̄-thang thèng-hāu i-seng
 
 ![原書插圖 - 第 96 頁 (圖 1)](assets/illustrations/page_096_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Chhut=sì liáu ê sûn-khoân ... Tē 66 tô·.</em></p>
+<p class="figure-caption"><em>Chhut=sì liáu ê sûn-khoân ... Tē 66 tô·.</em></p>
 
 </div>
 
@@ -1390,7 +1390,7 @@ Lūn Lîm-pa-kńg (淋巴管)： Seng-khu chha-put-to ta̍k só͘-chāi, m̄-nā
 
 ![原書插圖 - 第 97 頁 (圖 1)](assets/illustrations/page_097_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 67 tô.—Chóng lîm-pa-kńg : 1, heng-kńg-lông ; 2, heng-kńg (tōa ê lîm-pa-kńg), iā kiò-chòe chóng-lîm-pa-kńg. Chit tiâu sī tī heng-chui-kut ê thâu-chêng-bīn. Lióng-pêng thang khòaⁿ hia̍p-kut ê āu-toan. 3, chia̍h-tō ; 4, lāi-kēng-chēng-me̍h (chó) ; 5, lāi-kēng-chēng-me̍h (iū) ; 6, só-kut-ē-chēng-me̍h ; 7, io-lîm-pa-chôaⁿ ; 8, hia̍p-kut-kan-lîm-pa-chôaⁿ ; Right lymphatic duct, iū chóng-lîm-pa-kńg ; Psoas, kun-bah; 4th. Lumbar, io-chui-kut ê tē 4 lûn. (After Gray, by permission of Longmans, Green & Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 67 tô.—Chóng lîm-pa-kńg : 1, heng-kńg-lông ; 2, heng-kńg (tōa ê lîm-pa-kńg), iā kiò-chòe chóng-lîm-pa-kńg. Chit tiâu sī tī heng-chui-kut ê thâu-chêng-bīn. Lióng-pêng thang khòaⁿ hia̍p-kut ê āu-toan. 3, chia̍h-tō ; 4, lāi-kēng-chēng-me̍h (chó) ; 5, lāi-kēng-chēng-me̍h (iū) ; 6, só-kut-ē-chēng-me̍h ; 7, io-lîm-pa-chôaⁿ ; 8, hia̍p-kut-kan-lîm-pa-chôaⁿ ; Right lymphatic duct, iū chóng-lîm-pa-kńg ; Psoas, kun-bah; 4th. Lumbar, io-chui-kut ê tē 4 lûn. (After Gray, by permission of Longmans, Green & Co., publishers.)</em></p>
 
 </div>
 
@@ -1408,7 +1408,7 @@ Lūn Lîm-pa-kńg (淋巴管)： Seng-khu chha-put-to ta̍k só͘-chāi, m̄-nā
 Lîm-pa-kńg tiong-ng chōe-chōe só͘-chāi ū khip-hu̍t, i ê tōa-sòe bô tiāⁿ-tio̍h, ū-ê tōa chhin-chhiūⁿ hēng-jîn, ū-ê chhin-chhiūⁿ bí-lia̍p ê sòe, kiò-chòe lîm-pa-chôaⁿ (淋巴腺, lymph glands).
 
 > **【全漢對照】**
-> 淋巴管中央贅贅（真濟）所在有吸核，伊的大細無定著，有的大家親像杏仁，有的親像米粒的細，叫做淋巴腺（淋巴腺, lymph glands）。
+> 淋巴管中央贅贅（真濟）所在有吸核，伊的大細無定著，有的大家親像杏仁，有的親像米粒的細，叫做淋巴腺（淋巴腺，lymph glands）。
 
 ---
 
@@ -1426,7 +1426,7 @@ Lîm-pa-kńg lāi-bīn só͘ lâu ê e̍k, sī chheng-chheng chha-put-to chhin-c
 **Tē 67 tô͘.**—Chóng lîm-pa-kńg: 1, heng-kńg-lông; 2, heng-kńg (tōa ê lîm-pa-kńg), iā kiò-chòe chóng-lîm-pa-kńg. Chit tiâu sī tī heng-chui-kut ê thâu-chêng-bīn. Lióng-pêng thang khòaⁿ hia̍p-kut ê āu-toan. 3, chia̍h-tō; 4, lāi-kēng-chēng-me̍h (chó); 5, lāi-kēng-chēng-me̍h (iū); 6, só-kut-ē-chēng-me̍h; 7, io-lîm-pa-chôaⁿ; 8, hia̍p-kut-kan-lîm-pa-chôaⁿ; Right lymphatic duct, iū chóng-lîm-pa-kńg; Psoas, kun-bah; 4th. Lumbar, io-chui-kut ê tē 4 lûn. (After Gray, by permission of Longmans, Green & Co., publishers.)
 
 > **【全漢對照】**
-> **第 67 圖。**——總淋巴管：1, 胸管囊；2, 胸管（大的淋巴管），也叫做總淋巴管。此條是佇胸椎骨的頭前面。兩爿通看脅骨的後端。3, 食道；4, 內頸靜脈（左）；5, 內頸靜脈（右）；6, 鎖骨下靜脈；7, 腰淋巴腺；8, 脅骨間淋巴腺；Right lymphatic duct, 右總淋巴管；Psoas, 筋肉；4th. Lumbar, 腰椎骨的第 4 輪。(After Gray, by permission of Longmans, Green & Co., publishers.)
+> **第 67 圖。**——總淋巴管：1，胸管囊；2，胸管（大的淋巴管），也叫做總淋巴管。此條是佇胸椎骨的頭前面。兩爿通看脅骨的後端。3，食道；4，內頸靜脈（左）；5，內頸靜脈（右）；6，鎖骨下靜脈；7，腰淋巴腺；8，脅骨間淋巴腺；Right lymphatic duct，右總淋巴管；Psoas，筋肉；4th. Lumbar，腰椎骨的第 4 輪。(After Gray, by permission of Longmans, Green & Co., publishers.)
 
 <!-- Page 097 End -->
 
@@ -1440,7 +1440,7 @@ Lîm-pa-kńg lāi-bīn só͘ lâu ê e̍k, sī chheng-chheng chha-put-to chhin-c
 
 ![原書插圖 - 第 98 頁 (圖 1)](assets/illustrations/page_098_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 68 tô:—Thâu-khak ê lîm-pa-chôan kap kńg : 1, āu-thâu-lîm-pa-kńg ; 2, hī-ē-nōa-chôan ; 3, hā-gók-lîm-pa-chôan ; 4, kun-bah ; 5, chhīán-kēng-lîm-pa-chôan ; Occipital gls., āu-thâu-lîm-pa-chôan ; Post Auricular gls., hī-āu-lîm-pa-chôan. (From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 68 tô:—Thâu-khak ê lîm-pa-chôan kap kńg : 1, āu-thâu-lîm-pa-kńg ; 2, hī-ē-nōa-chôan ; 3, hā-gók-lîm-pa-chôan ; 4, kun-bah ; 5, chhīán-kēng-lîm-pa-chôan ; Occipital gls., āu-thâu-lîm-pa-chôan ; Post Auricular gls., hī-āu-lîm-pa-chôan. (From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
 
 </div>
 
@@ -1475,7 +1475,7 @@ Tī pak-tó͘-lāi ia̍h ū lîm-pa-kńg chōe-chōe-ê, kiò tn̂g ê...
 Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4 : 25).
 
 > **【全漢對照】**
-> 所以著除去白賊，逐人及伊的厝邊講真實，因為咱相同做體（以弗所 4 : 25）。
+> 所以著除去白賊，逐人及伊的厝邊講真實，因為咱相同做體（以弗所 4：25）。
 
 <!-- Page 098 End -->
 
@@ -1489,11 +1489,11 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 
 ![原書插圖 - 第 99 頁 (圖 1)](assets/illustrations/page_099_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 69 tô.—Siōng-chí ê lîm-pa-kńg kap chôan: g, chhiú ê lîm-pa-kńg ; a, b, tiú-koan-chat lāi-bīn pêng ê lîm-pa-chôan ; c, c, c, koh-ē-khang-nih ê lîm-pa-chôan ; d, heng-khám-pîn ê lîm-pa-chôan óa leng-pông; e, f, só-kut téng-bīn ê lîm-pa-chôan. (From “The Household Physician,” Blackie & Son, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 69 tô.—Siōng-chí ê lîm-pa-kńg kap chôan: g, chhiú ê lîm-pa-kńg ; a, b, tiú-koan-chat lāi-bīn pêng ê lîm-pa-chôan ; c, c, c, koh-ē-khang-nih ê lîm-pa-chôan ; d, heng-khám-pîn ê lîm-pa-chôan óa leng-pông; e, f, só-kut téng-bīn ê lîm-pa-chôan. (From “The Household Physician,” Blackie & Son, Ltd., publishers.)</em></p>
 
 ![原書插圖 - 第 99 頁 (圖 2)](assets/illustrations/page_099_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 70 tô.—Hā-chí kap kái-pîn ê lîm-pa-kńg kap chôan: d, e, f, kái-pîn téng-bīn ê lîm-pa-chôan ; a, b, c, tōa-thúi-chêng-bīn ê lîm-pa-chôan, ū-ê chhián, ū ê chhim. (From as Fig. 69.)</em></p>
+<p class="figure-caption"><em>Tē 70 tô.—Hā-chí kap kái-pîn ê lîm-pa-kńg kap chôan: d, e, f, kái-pîn téng-bīn ê lîm-pa-chôan ; a, b, c, tōa-thúi-chêng-bīn ê lîm-pa-chôan, ū-ê chhián, ū ê chhim. (From as Fig. 69.)</em></p>
 
 </div>
 
@@ -1506,7 +1506,7 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 **Tē 69 tô͘.**—Siōng-chi ê lîm-pa-kúng kap chôaⁿ : g, chhiú ê lîm-pa-kúng ; a, b, tiú-koan-chat lāi-bīn pêng ê lîm-pa-chôaⁿ ; c, c, c, koh-ē-khang-nih ê lîm-pa-chôaⁿ ; d, heng-khám-piⁿ ê lîm-pa-chôaⁿ óa leng-pông ; e, f, só-kut téng-bīn ê lîm-pa-chôaⁿ. (From “The Household Physician,” Blackie & Son, Ltd., publishers.)
 
 > **【全漢對照】**
-> **第 69 圖**——上肢的淋巴管佮泉：g, 手的淋巴管；a, b, 肘關節內面旁的淋巴泉；c, c, c, 胳下空（腋下）內的淋巴泉；d, 胸坎旁的淋巴泉倚乳房；e, f, 鎖骨頂面的淋巴泉。（取材自 Blackie & Son, Ltd. 出版之《家庭醫師》）
+> **第 69 圖**——上肢的淋巴管佮泉：g，手的淋巴管；a, b，肘關節內面旁的淋巴泉；c, c, c，胳下空（腋下）內的淋巴泉；d，胸坎旁的淋巴泉倚乳房；e, f，鎖骨頂面的淋巴泉。（取材自 Blackie & Son, Ltd. 出版之《家庭醫師》）
 
 ---
 
@@ -1519,7 +1519,7 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 > **【全漢對照】**
 > ……淋巴管。腸仔的黏膜毋是光光，是親像絨毛的款式，有刺刺幼幼。佇絨毛的內面有毛細血管，以及毛細淋巴管（第 44–46 圖）。諸個淋巴管是對腸，來吸收已經消化的油，到佇管內親像奶的白白、稠稠，所以有時才叫做乳糜管（乳糜管，lacteal；第 48 圖）。
 > 
-> *[邊註：乳糜管]*
+> *［邊註：乳糜管］*
 
 ---
 
@@ -1530,7 +1530,7 @@ Chiah ê leng-bê-kúng sio-ha̍p chòe khah tōa ê lîm-pa-kúng ; chit-ê ki�
 > **【全漢對照】**
 > 諸個乳糜管試合做較大的淋巴管；這個行上去經過胸坎到頷頸，入佇頷頸的靜脈。對遮彼個淋巴液（乳糜液，lymph）出佇靜脈血。對頷頸這條靜脈行到胸坎下，佮別條靜脈試合，做……
 > 
-> *[邊註：胸管]*
+> *［邊註：胸管］*
 
 ---
 
@@ -1539,7 +1539,7 @@ Chiah ê leng-bê-kúng sio-ha̍p chòe khah tōa ê lîm-pa-kúng ; chit-ê ki�
 **Tē 70 tô͘.**—Hā-chi kap kái-piⁿ ê lîm-pa-kúng kap chôaⁿ : d, e, f, kái-piⁿ téng-bīn ê lîm-pa-chôaⁿ ; a, b, c, tōa-thúi-chêng-bīn ê lîm-pa-chôaⁿ, ū-ê chhián, ū ê chhim. (From as Fig. 69.)
 
 > **【全漢對照】**
-> **第 70 圖**——下肢佮胯邊（鼠蹊部）的淋巴管佮泉：d, e, f, 胯邊頂面的淋巴泉；a, b, c, 大腿前面的淋巴泉，有的淺，有的深。（出處同圖 69）
+> **第 70 圖**——下肢佮胯邊（鼠蹊部）的淋巴管佮泉：d, e, f，胯邊頂面的淋巴泉；a, b, c，大腿前面的淋巴泉，有的淺，有的深。（出處同圖 69）
 
 ---
 
@@ -1571,14 +1571,14 @@ siōng-tāi-chēng-me̍h ; iā chit tiâu sòa jip tī iū-pông, chiah keng-kè
 Lîm-pa-chôaⁿ ê lō͘-ēng chi̍t-hāng sī teh kò͘ seng-khu ê khùi-la̍t. Siat-sú nā ū sím-mi̍h sòe-khún (細菌, *bacteria*) ji̍p tī seng-khu-lāi, bô kú ōe ji̍p tī lîm-pa-kńg, iā tióh kè lîm-pa-chôaⁿ. Teh kè ê sî, chiah ê lîm-pa-chôaⁿ ū khùi-la̍t thang thāu-sí hiah ê sòe-khún. Nā-sī hit ê lîm-pa-chôaⁿ ê khùi-la̍t bô kàu, sòe-khún ōe koh kiâⁿ, koh thòaⁿ, á-sī lîm-pa-chôaⁿ ōe siⁿ lâng-iông. Che sùg sī lîm-pa-chôaⁿ su. Nā chńg-thâu-á ū siⁿ thiàⁿ, hit ê siⁿ thiàⁿ ê to̍k-khì ōe ji̍p tī lîm-pa-kńg-bé, tùi chia kiâⁿ kàu lîm-pa-chôaⁿ ê só͘-chāi. Thâu chi̍t-ê chiū-sī tiú-koan-chat ê lāi-pêng ê lîm-pa-chôaⁿ; tē jī sī koh-ē-khang ê lîm-pa-chôaⁿ. I só͘ kiâⁿ ê lō͘ ōe hián-chhut tī phê-hu, kui chōa âng-âng. Chit-ê chiū-sī tùi lîm-pa-kńg hoat iām. Hoat iām ê sî chhiú ōe thiàⁿ, koh-ē-khang ê lîm-pa-chôaⁿ iā ōe thiàⁿ (tē 68–70 tô͘).
 
 > **【全漢對照】**
-> 淋巴泉的路用一項是咧顧身軀的氣力。設使若有甚麼細菌（細菌, *bacteria*）入佇身軀內，無久會入佇淋巴管，也著過淋巴泉。咧過的時，諸個淋巴泉有氣力通敨死遐的細菌。若是彼個淋巴泉的氣力無夠，細菌會閣行，閣湠，抑是淋巴泉會生膿瘍。這算是淋巴泉輸。若指頭仔有生痛，彼個生痛的毒氣會入佇淋巴管尾，對遮行到淋巴泉的所在。頭一個就是肘關節的內爿的淋巴泉；第二是𡰪下空的淋巴泉。伊所行的路會顯出佇皮膚，規條紅紅。這個就是對淋巴管發炎。發炎的時手會痛，𡰪下空的淋巴泉也會痛（第 68–70 圖）。
+> 淋巴泉的路用一項是咧顧身軀的氣力。設使若有甚麼細菌（細菌，*bacteria*）入佇身軀內，無久會入佇淋巴管，也著過淋巴泉。咧過的時，諸個淋巴泉有氣力通敨死遐的細菌。若是彼個淋巴泉的氣力無夠，細菌會閣行，閣湠，抑是淋巴泉會生膿瘍。這算是淋巴泉輸。若指頭仔有生痛，彼個生痛的毒氣會入佇淋巴管尾，對遮行到淋巴泉的所在。頭一個就是肘關節的內爿的淋巴泉；第二是𡰪下空的淋巴泉。伊所行的路會顯出佇皮膚，規條紅紅。這個就是對淋巴管發炎。發炎的時手會痛，𡰪下空的淋巴泉也會痛（第 68–70 圖）。
 
 ---
 
 Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giān 6 : 16-17).
 
 > **【全漢對照】**
-> 上帝怨恨驕傲的，及嘴講奸詐的（箴言 6 : 16-17）。
+> 上帝怨恨驕傲的，及嘴講奸詐的（箴言 6：16-17）。
 
 <!-- Page 100 End -->
 

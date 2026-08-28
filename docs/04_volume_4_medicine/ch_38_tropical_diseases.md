@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 626 頁 (圖 1)](assets/illustrations/page_626_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 481 tô:—Saⁿ khoán kàn-hat-jiảt ê thé-un-pió: Quotidian, tàk-jit-jiảt ; Tertian, saⁿ-jit-jiảt ; Quartan, sì-jit-jiảt (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 481 tô:—Saⁿ khoán kàn-hat-jiảt ê thé-un-pió: Quotidian, tàk-jit-jiảt ; Tertian, saⁿ-jit-jiảt ; Quartan, sì-jit-jiảt (Clinical Methods).</em></p>
 
 </div>
 
@@ -35,16 +35,16 @@ Cháp-jī-chí-tn̂g-thâng pīⁿ (十二指腸蟲病, *Ankylostomiasis*).
 > ### 第 38 章
 > ### 論熱帶的症及看護的方法
 > 
-> [邊註：熱帶地病]
+> ［邊註：熱帶地病］
 > 
 > 此章所欲講的是佇熱帶地的國較常抵著的症，就是表記佇下底：  
 > 瘧疾（Malaria 熱）。  
-> 赤痢（赤痢, *Dysentery*）。  
-> 腳氣（脚氣, *Beriberi*）。  
-> 脾腫（脾腫, *Splenomegaly*）。  
-> 鼠疫（鼠疫, *Plague*）。  
-> 日射病（日射病, *Sunstroke*）。  
-> 十二指腸蟲病（十二指腸蟲病, *Ankylostomiasis*）。
+> 赤痢（赤痢，*Dysentery*）。  
+> 腳氣（脚氣，*Beriberi*）。  
+> 脾腫（脾腫，*Splenomegaly*）。  
+> 鼠疫（鼠疫，*Plague*）。  
+> 日射病（日射病，*Sunstroke*）。  
+> 十二指腸蟲病（十二指腸蟲病，*Ankylostomiasis*）。
 
 ---
 
@@ -79,7 +79,7 @@ Chiah ê chèng tī jiȧt-tài ê kok, pí tī un-tài ê kok chám-jiān ke chi
 
 ![原書插圖 - 第 627 頁 (圖 1)](assets/illustrations/page_627_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 482 tô.—Malaria saⁿ-jit-jia̍t ê thé-un-pió. Chit-ê sī kàn-hat-jia̍t ê chit hāng (Paul).</em></p>
+<p class="figure-caption"><em>Tē 482 tô.—Malaria saⁿ-jit-jia̍t ê thé-un-pió. Chit-ê sī kàn-hat-jia̍t ê chit hāng (Paul).</em></p>
 
 </div>
 
@@ -134,7 +134,7 @@ Goân-in: Ū chi̍t khoán tėk-piảt ê bî-seng-bu̍t kiò-chòe *malaria* ê
 
 ![原書插圖 - 第 628 頁 (圖 1)](assets/illustrations/page_628_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 483 tô:—Malaria goân-thâng hoat-io̍k tī huih-nih chōng-thài ê tô͘.
+<p class="figure-caption"><em>Tē 483 tô:—Malaria goân-thâng hoat-io̍k tī huih-nih chōng-thài ê tô͘.
 (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
 
 </div>
@@ -234,8 +234,8 @@ Tē it pō͘ sī khí kôaⁿ: Thâu-khak thiàⁿ, ū-sî ài áu-thò͘. Chit-
 ---
 
 > **【頁底格言註記】**  
-> Pe̍h-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119: 163).  
-> *(全漢對照：白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119: 163）。)*
+> Pe̍h-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119：163)。
+> *（全漢對照：白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119：163）。）*
 
 <!-- Page 630 End -->
 
@@ -258,7 +258,7 @@ chin kôaⁿ, chóng-sī kā i kiám-un, ū-sî thé-un ōe 105° F. (40.6° C.)
 Tē jī pō͘ pīⁿ-lâng ka-kī chai sī chin sio: Bīn kap phê-hu hoat-âng. Me̍h-phok kín khah tōa la̍t, khah kiông. Ū-sî pīⁿ-lâng m̄-chai-lâng, loān-loān liām, kiò-chòe chiam-bōng (譫妄, delirium). Tī chit pō͘-lāi thé-un iû-goân khah koâiⁿ 104° F. chì 106° F. (40° chì 41.1° C.), á-sī khah koâiⁿ. Chit pō͘ ê kî-kan sī pòaⁿ tiám-cheng chì sì tiám-cheng-kú.
 
 > **【全漢對照】**
-> 第二步病人自己知是真燒：面佮皮膚發紅。脈搏緊較大力，較強。有時病人不知人，亂亂唸，叫做譫妄（譫妄, delirium）。佇這步內體溫猶原較懸 104° F. 至 106° F. (40° 至 41.1° C.)，抑是較懸。這步的期間是半點鐘至四點鐘久。
+> 第二步病人自己知是真燒：面佮皮膚發紅。脈搏緊較大力，較強。有時病人不知人，亂亂唸，叫做譫妄（譫妄，delirium）。佇這步內體溫猶原較懸 104° F. 至 106° F. (40° 至 41.1° C.)，抑是較懸。這步的期間是半點鐘至四點鐘久。
 
 ---
 
@@ -280,7 +280,7 @@ Jia̍t teh hoat-choh ê sî-kî, kap ok-hân ê kî, sī kap hit ê goân-thâng
 Ū-hông-hoat: Bô chúi chiū bô báng, bô báng chiū bô jia̍t. Chit khoán ê báng sī tī kiaⁿ-lâng chúi siⁿ--ê, á-sī tī hit hō khah bô kiâⁿ-lâu ê chúi siⁿ--ê, chhin-chhiūⁿ tī te̍k-kha ê chúi-tî, á-sī tī chúi-kng ê chúi hit hō. Chit khoán ê báng ti̍h bia̍t-bô. Tī chhù-lāi só͘ khòaⁿ-kìⁿ ê báng, ti̍h phah-sí. Lâng só͘ tòa ê chhù ti̍h sì-ûi chheng-kiat, m̄-thang lām-sám piàⁿ kiaⁿ-lâng chúi, á-sī pùn-sò͘. Nā tī chúi-nih ū chit khoán ê hî, hiah ê hî ōe chia̍h báng ê iù-thâng (幼蟲, larvæ), thó͘ ōe kiò-chòe chhu. Só͘-í ti̍h chhī chit khoán ê hî hō͘ i chia̍h hiah ê báng ê iù-thâng. Lâng só͘ tiàm ê chhù ti̍h ēng thih bāng lâi tèng tī thang-á-mn̂g-gōa, iā ēng chit hō thih bāng chòe ê mn̂g, hō͘ báng bōe-tit ji̍p chhù-lāi. Mî-sî ti̍h ēng báng-tà. Ti̍h sòe-jī khòaⁿ báng-tà hó á-sī phòa; nā-sī phòa, ti̍h sòa pó. Nā ū chit hō pīⁿ, ti̍h chia̍h *quinina* lâi táⁿ-tia̍p. Ēng chit hō io̍h ta̍k ji̍t chia̍h tām-po̍h (0.2 gram) ōe tî-hông hoat *malaria* jia̍t.
 
 > **【全漢對照】**
-> 預防法：無水就無蚊，無蚊就無熱。這款的蚊是佇驚人水生的，抑是佇彼號較無行流的水生的，親像佇滴腳的水池，抑是佇水缸的水彼號。這款的蚊著滅無。佇厝內所看見的蚊，著拍死。人所戴的厝著四圍清潔，毋通濫糝洴驚人水，抑是糞埽。若佇水裡有這款的魚，遐的魚會食蚊的幼蟲（幼蟲, larvæ），土話叫做蛆。所以著飼這款的魚予伊食遐的蚊的幼蟲。人所踮的厝著用鐵網來釘佇窗仔門外，也用這號鐵網做的門，予蚊袂得出厝內。瞑時著用蚊罩。著細膩看蚊罩好抑是破；若是破，著續補。若有這號病，著食 *quinina*（奎寧）來打點。用這號藥逐日食淡薄 (0.2 gram) 會提防發 *malaria*（瘧疾）熱。
+> 預防法：無水就無蚊，無蚊就無熱。這款的蚊是佇驚人水生的，抑是佇彼號較無行流的水生的，親像佇滴腳的水池，抑是佇水缸的水彼號。這款的蚊著滅無。佇厝內所看見的蚊，著拍死。人所戴的厝著四圍清潔，毋通濫糝洴驚人水，抑是糞埽。若佇水裡有這款的魚，遐的魚會食蚊的幼蟲（幼蟲，larvæ），土話叫做蛆。所以著飼這款的魚予伊食遐的蚊的幼蟲。人所踮的厝著用鐵網來釘佇窗仔門外，也用這號鐵網做的門，予蚊袂得出厝內。瞑時著用蚊罩。著細膩看蚊罩好抑是破；若是破，著續補。若有這號病，著食 *quinina*（奎寧）來打點。用這號藥逐日食淡薄 (0.2 gram) 會提防發 *malaria*（瘧疾）熱。
 
 <!-- Page 631 End -->
 
@@ -294,7 +294,7 @@ Jia̍t teh hoat-choh ê sî-kî, kap ok-hân ê kî, sī kap hit ê goân-thâng
 
 ![原書插圖 - 第 632 頁 (圖 1)](assets/illustrations/page_632_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 484 tô:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-sìt ; b, tī pùn-lāi ê khoán-sìt.
+<p class="figure-caption"><em>Tē 484 tô:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-sìt ; b, tī pùn-lāi ê khoán-sìt.
 Amœbic dysentery. a, amœba dysenteriæ fixed and stained (Councilman): b, amœba dysenteriæ in stools. (After Losch, Virchow's “Archiv,” Bd 65.)</em></p>
 
 </div>
@@ -326,7 +326,7 @@ Tē 484 tô͘:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-si
 
 > **【全漢對照】**
 > 第 484 圖：—Amœba性（阿米巴性）赤痢：a，用染色染了ê款式；b，佇糞內ê款式。  
-> *Amœbic dysentery. a, amœba dysenteriæ fixed and stained (Councilman): b, amœba dysenteriæ in stools. (After Losch, Virchow's "Archiv," Bd 65.)*
+> *Amœbic dysentery. a, amœba dysenteriæ fixed and stained (Councilman)：b, amœba dysenteriæ in stools. (After Losch, Virchow's "Archiv," Bd 65.)*
 
 ---
 
@@ -425,7 +425,7 @@ Khàn-hō͘ chit khoán ê pīⁿ tióh put-chí sió-sim. Tióh
 
 ![原書插圖 - 第 634 頁 (圖 1)](assets/illustrations/page_634_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 485 tô.—Pî-chōng-pûi-tōa (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 485 tô.—Pî-chōng-pûi-tōa (Clinical Methods).</em></p>
 
 </div>
 
@@ -457,8 +457,8 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 
 ---
 
-> [圖附文字]
-> Tē 485 tô͘:—Pî-chōng-pûi-tōa (Clinical Methods).
+> ［圖附文字］
+> Tē 485 tô͘:—Pî-chōng-pûi-tōa (Clinical Methods)。
 > 
 > **【全漢對照】**
 > 第 485 圖：——脾臟肥大（Clinical Methods）。
@@ -506,7 +506,7 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 Koh tī pa̍t-ê pèng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ Hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4: 12）。
+> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 634 End -->
 
@@ -570,7 +570,7 @@ cháu, ōe kā-tio̍h lâng, chit hō chèng ê sòe-khún chiū ji̍p lâng sen
 
 ![原書插圖 - 第 636 頁 (圖 1)](assets/illustrations/page_636_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 486 tô.--Chảp-jī - chí - tńg - thâng, kang-ê, bú-ê, tāi goân-hêng.</em></p>
+<p class="figure-caption"><em>Tē 486 tô.--Chảp-jī - chí - tńg - thâng, kang-ê, bú-ê, tāi goân-hêng.</em></p>
 
 </div>
 
@@ -601,7 +601,7 @@ Tī-liâu: Hō͘ pīⁿ-lâng tòai tī khah liâng-léng pīⁿ-sek-lāi. Pī�
 > **【全漢對照】**
 > **治療**：予病人倒佇較涼冷病室內。病室創予暗。洗冷水浴。用冰囊熨頭殼；用冷水拭身軀。將燒水罐予跤會燒。著食事流動的食物。大便著注意。
 > 
-> *(第 486 圖。——十二指腸蟲，公的、母的，帶原形。)*
+> *（第 486 圖。——十二指腸蟲，公的、母的，帶原形。）*
 
 ---
 
@@ -641,7 +641,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 
 ![原書插圖 - 第 637 頁 (圖 1)](assets/illustrations/page_637_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 487 tô.-Kang-ê cháp-jī-chí-tng-thâng, khok-tōa ê tô (Clinical Methods).</em></p>
+<p class="figure-caption"><em>Tē 487 tô.-Kang-ê cháp-jī-chí-tng-thâng, khok-tōa ê tô (Clinical Methods).</em></p>
 
 </div>
 
@@ -659,7 +659,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 Nñg ê khoán-sit, chhin-chhiūⁿ koe-nñg-hêng (tē 465 tô͘). Chiah ê nñg siông-siông chham tī pīⁿ-lâng ê pùn lâi hā-chhut. Pīⁿ-lâng nā jiám-tióh khah tāng-ê, bat ū chi̍t lâng chi̍t pái pâi-chhut sì-pah-bān lia̍p (Osler). Nñg hā-chhut liáu-āu, tī un-sip (70° F.—90° F., 21°C.—32°C.) ê só͘-chāi, khoài-khoài chhut sòe-sòe ê iù-thâng (幼蟲, larva). Chiah ê iù-thâng koh sì gō͘ ji̍t ē jiám-tióh pa̍t lâng. Thâng ê thoân-jiám, khah-chē sī tùi phê-hu; tùi chhùi iā ē, chóng-sī khah hán-tit.
 
 > **【全漢對照】**
-> 卵的款式，親像雞卵形（第 465 圖）。諸個卵常常參佇病人的糞來下出。病人若染著較重的，曾有一人一次排出四百萬粒 (Osler)。卵下出了後，佇溫濕（70° F.—90° F., 21°C.—32°C.）的所在，快快出細細的幼蟲（幼蟲, larva）。諸個幼蟲閣四五日會染著別人。蟲的傳染，較多是對皮膚；對嘴亦會，總是較罕得。
+> 卵的款式，親像雞卵形（第 465 圖）。諸個卵常常參佇病人的糞來下出。病人若染著較重的，曾有一人一次排出四百萬粒 (Osler)。卵下出了後，佇溫濕（70° F.—90° F., 21°C.—32°C.）的所在，快快出細細的幼蟲（幼蟲，larva）。諸個幼蟲閣四五日會染著別人。蟲的傳染，較多是對皮膚；對嘴亦會，總是較罕得。
 
 ---
 
@@ -679,8 +679,8 @@ Thâng ji̍p seng-khu ê lō͘, chiàu kì tī ē-tóe: Chǹg-ji̍p phê-hu, chi
 
 ---
 
-> *[圖說]*
-> **Tē 487 tô͘.**—Kang-ê cha̍p-jī-chí-tng-thâng, khok-tōa ê tô͘ (Clinical Methods).
+> *［圖說］*
+> **Tē 487 tô͘.**—Kang-ê cha̍p-jī-chí-tng-thâng, khok-tōa ê tô͘ (Clinical Methods)。
 > 
 > **【全漢對照】**
 > **第 487 圖。**——公的十二指腸蟲，擴大的圖 (Clinical Methods)。
@@ -771,7 +771,7 @@ Ióh-bu̍t tī-liâu-hoat: Ū nñg khoán ê ióh sî-siông ēng-ê, chiū-sī 
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī jîn-ài (I Ko-lîm-tō 13: 13).
 
 > **【全漢對照】**
-> 現今所存的，就是信、向望、仁愛，只三項，其中第一大個，是仁愛（哥林多前書 13: 13）。
+> 現今所存的，就是信、向望、仁愛，只三項，其中第一大個，是仁愛（哥林多前書 13：13）。
 
 <!-- Page 638 End -->
 
@@ -785,7 +785,7 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 
 ![原書插圖 - 第 639 頁 (圖 1)](assets/illustrations/page_639_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 487a tô:-Thâm-lāi hì-thâng ê nñg khok-tōa ê tô (distoma pulmonale). [From "Clinical Methods."]</em></p>
+<p class="figure-caption"><em>Tē 487a tô:-Thâm-lāi hì-thâng ê nñg khok-tōa ê tô (distoma pulmonale). [From "Clinical Methods."]</em></p>
 
 </div>
 
@@ -810,14 +810,14 @@ Hì-thâng: Hì-lāi ū-sî ū chi̍t chéng ê kià-seng-thâng kiò-chòe hì-
 Tē 487ᵃ tô͘.—Thâm-lāi hì-thâng ê nñg khok-tōa ê tô͘ (distoma pulmonale). [From “Clinical Methods.”]
 
 > **【全漢對照】**
-> 第 487ᵃ 圖。—痰內肺蟲的卵擴大的圖 (distoma pulmonale)。[From “Clinical Methods.”]
+> 第 487ᵃ 圖。—痰內肺蟲的卵擴大的圖 (distoma pulmonale)。［From “Clinical Methods.”］
 
 ---
 
 Tī chì sió-khóa ê sū chīn-tiong-ê, tī tōa-ê iā chīn-tiong, tī sió-khóa-ê put-gī, tī tōa-ê iā put-gī (Lō-ka 16: 10).
 
 > **【全漢對照】**
-> 佇至小可的事盡忠的，佇大的亦盡忠，佇小可的不義，佇大的亦不義（路加 16: 10）。
+> 佇至小可的事盡忠的，佇大的亦盡忠，佇小可的不義，佇大的亦不義（路加 16：10）。
 
 <!-- Page 639 End -->
 

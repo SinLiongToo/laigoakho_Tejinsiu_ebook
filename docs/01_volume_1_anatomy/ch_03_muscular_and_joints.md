@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 46 頁 (圖 1)](assets/illustrations/page_046_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 23 tô.—Sûi-ì-kun: A, saⁿ tiâu kun-chiam-î, hián-bî-kiàⁿ khok-tōa ê tô; a, saⁿ tiâu kun-chhiam-î; b, sòe-pau-hu̍t ; c, ték-pia̍t ê kiat-tè-chit ; d, kun-goân-chhiam-î. B, kun-chhiam-î ê tô : a, bô bêng ê chân ; b, bêng chân ; e, kun-chhiam-î ê piah ; f, sòe-pau-hu̍t. C, a, bêng-chân, b, bô bêng ê chân ; c, ōe chhun-kiu ê chit. (Leroy, from Lewis' “ Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co.)</em></p>
+<p class="figure-caption"><em>Tē 23 tô.—Sûi-ì-kun: A, saⁿ tiâu kun-chiam-î, hián-bî-kiàⁿ khok-tōa ê tô; a, saⁿ tiâu kun-chhiam-î; b, sòe-pau-hu̍t ; c, ték-pia̍t ê kiat-tè-chit ; d, kun-goân-chhiam-î. B, kun-chhiam-î ê tô : a, bô bêng ê chân ; b, bêng chân ; e, kun-chhiam-î ê piah ; f, sòe-pau-hu̍t. C, a, bêng-chân, b, bô bêng ê chân ; c, ōe chhun-kiu ê chit. (Leroy, from Lewis' “ Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co.)</em></p>
 
 </div>
 
@@ -24,7 +24,7 @@
 Ōe hō͘ koan-chat oa̍h-tāng ê khùi-la̍t, sī chāi tī kun-bah, chiū-sī seng-khu âng-sek ê chiaⁿ-bah, sī kun-chhiam-î (筋纖維, *muscle fibres*) lâi ha̍p-chiâⁿ--ê. Chin chōe ê kun-chhiam-î ū lâi chi̍p-ha̍p chòe kui tiâu kun (tē 23 tô͘).
 
 > **【全漢對照】**
-> **[筋肉]**
+> **［筋肉］**
 > 會互關節活動的氣力，是在佇筋肉，就是身軀紅色的正肉，是筋纖維（筋纖維，*muscle fibres*）來合成ê。真多的筋纖維有來集合做規條筋（第 23 圖）。
 
 ---
@@ -44,10 +44,10 @@ Kun ū nñg khoán, sûi-ì-kun (隨意筋, *voluntary muscle*), put-sûi-ì-kun
 Chit hō sī chhut-chāi lâng chhun kiu--ê, chhin-chhiūⁿ kha chhiú, chhùi ba̍k ê kun, sī chhut-chāi lâng só͘ ài--ê, miâ kiò sûi-ì-kun. Koh chi̍t hō sī chū-jiân chhun kiu--ê, chhin-
 
 > **【全漢對照】**
-> **[筋有兩款]**
+> **［筋有兩款］**
 > 筋有兩款，隨意筋（隨意筋，*voluntary muscle*），不隨意筋（不隨意筋，*involuntary muscle*）。
 > 
-> **[隨意筋]**
+> **［隨意筋］**
 > 此號是出在人伸縮ê，親像腳手、嘴目的筋，是出在人所愛ê，名叫隨意筋。閣一號是自然伸縮ê，親—
 
 ---
@@ -69,7 +69,7 @@ Tiòh khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 
 ![原書插圖 - 第 47 頁 (圖 1)](assets/illustrations/page_047_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 24 tô:—Siōng-chì-kut, kap nñg-thâu-phok-kun : a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster’s “Physiology,” Macmillan and Co.)</em></p>
+<p class="figure-caption"><em>Tē 24 tô:—Siōng-chì-kut, kap nñg-thâu-phok-kun : a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster’s “Physiology,” Macmillan and Co.)</em></p>
 
 </div>
 
@@ -78,7 +78,7 @@ Tiòh khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 chhiūⁿ sim put-sî teh phok, lâng bōe chú-ì-tit hō͘ i khah kín, khah bān ; miâ kiò put-sûi-ì-kun. *(Put-sûi-ì kun)*
 
 > **【全漢對照】**  
-> 像心不時咧搏，人袂注意得予伊較緊、較慢；名稱叫不隨意筋。 *(不隨意筋)*
+> 像心不時咧搏，人袂注意得予伊較緊、較慢；名稱叫不隨意筋。 *（不隨意筋）*
 
 ---
 
@@ -92,21 +92,21 @@ Kun ū-ê sī chi̍t pòaⁿ chū-jiân, chi̍t pòaⁿ chhut-chāi lâng-ê ; c
 Kun ōe chhun, ōe kiu, chiah hō͘ seng-khu ōe tín-tāng. Chhiú chi̍t-ē chhun chiū bong i ê téng-chat sī nńg-nńg, chi̍t-ē ut-khiau chiū tēng-tēng. *(Kun ōe chhun kiu)*
 
 > **【全漢對照】**  
-> 筋會伸、會縮（kiu），才會予身軀會振動。手一下伸就摸伊的頂節是軟軟，一下屈曲就硬硬。 *(筋會伸縮)*
+> 筋會伸、會縮（kiu），才會予身軀會振動。手一下伸就摸伊的頂節是軟軟，一下屈曲就硬硬。 *（筋會伸縮）*
 
 ---
 
 Kun-bah ū thâu-bé, chi̍t pêng liân tī chi̍t tè kut, chi̍t pêng liân tī pa̍t tè kut. Nā beh hō͘ seng-khu ōe tín-tāng, tióh ū chi̍t thâu tiāⁿ-tióh, iā chi̍t thâu ōe tín-tāng. Hit ê khah tiāⁿ-tióh ê ūi, kiò-chòe kun-bah ê khí-sí (起始, *origin*) ; hit pêng teh tín-tāng ê ūi, kiò-chòe thêng-chí (停止, *insertion*). *(Thâu-bé / Khí-sí / Thêng-chí)*
 
 > **【全漢對照】**  
-> 筋肉有頭尾，一旁連佇一塊骨，一旁連佇別塊骨。若欲予身軀會振動，著有一頭定著，也一頭會振動。彼個較定著的位，叫做筋肉的起始（起始，*origin*）；彼旁咧振動的位，叫做停止（停止，*insertion*）。 *(頭尾 / 起始 / 停止)*
+> 筋肉有頭尾，一旁連佇一塊骨，一旁連佇別塊骨。若欲予身軀會振動，著有一頭定著，也一頭會振動。彼個較定著的位，叫做筋肉的起始（起始，*origin*）；彼旁咧振動的位，叫做停止（停止，*insertion*）。 *（頭尾 / 起始 / 停止）*
 
 ---
 
 Hit tiong-ng ê bah, kiò-chòe kun pak-tó͘ (筋腹, *belly of muscle*). Chhin-chhiūⁿ tī chhiú ê téng-chat, siōng-phok-kut ê só͘-chāi, ū chi̍t tiâu kiò-chòe nñg-thâu-phok-kun (二頭搏筋, *biceps*). I ê khí-sí sī liân tī keng-kah-kut, i ê thêng-chí liân tī jiâu-kut ê téng-toan. Chit tiâu nā kiu-khí-lâi, tī chhiú ê téng-chat ōe bong-tióh tēng koh kāu, iā chhiú ōe kiáh koâiⁿ (tē 24 tô͘). *(Kun pak-tó͘ / Nñg-thâu-phok-kun)*
 
 > **【全漢對照】**  
-> 彼中央的肉，叫做筋腹（筋腹，*belly of muscle*）。親像佇手的頂節，上膊骨的所在，有一條叫做兩頭搏筋（二頭搏筋，*biceps*）。伊的起始是連佇肩胛骨，伊的停止連佇橈骨的頂端。這條若縮起來，佇手的頂節會摸著硬閣厚，也手會攑高（第 24 圖）。 *(筋腹 / 兩頭搏筋)*
+> 彼中央的肉，叫做筋腹（筋腹，*belly of muscle*）。親像佇手的頂節，上膊骨的所在，有一條叫做兩頭搏筋（二頭搏筋，*biceps*）。伊的起始是連佇肩胛骨，伊的停止連佇橈骨的頂端。這條若縮起來，佇手的頂節會摸著硬閣厚，也手會攑高（第 24 圖）。 *（筋腹 / 兩頭搏筋）*
 
 ---
 
@@ -115,7 +115,7 @@ Hit tiong-ng ê bah, kiò-chòe kun pak-tó͘ (筋腹, *belly of muscle*). Chhin
 **Tē 24 tô͘:—Siōng-chì-kut, kap nñg-thâu-phok-kun:** a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō͘-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster's “Physiology,” Macmillan and Co.)
 
 > **【全漢對照】**  
-> **第 24 圖：——上肢骨，及兩頭搏筋：** a, b, 頂面兩頭的起始就是佇肩胛骨；P, 是筋停止就是佇橈骨；這個是力點；F, 上膊骨的下端，是橈骨及尺骨的頂端振動的部位；這個是支點；W, 手，就是重點。(From Foster's “Physiology,” Macmillan and Co.)
+> **第 24 圖：——上肢骨，及兩頭搏筋：** a, b，頂面兩頭的起始就是佇肩胛骨；P，是筋停止就是佇橈骨；這個是力點；F，上膊骨的下端，是橈骨及尺骨的頂端振動的部位；這個是支點；W，手，就是重點。(From Foster's “Physiology,” Macmillan and Co.)
 
 ---
 
@@ -138,7 +138,7 @@ Hit tiong-ng ê bah, kiò-chòe kun pak-tó͘ (筋腹, *belly of muscle*). Chhin
 
 ![原書插圖 - 第 48 頁 (圖 1)](assets/illustrations/page_048_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 25 tô.—Kun-bah ê kiān chhiòng-tñg-bīn, 270 pē khok-tōa : Tendon-cell, kiān-sòe-pau ; Tendon-fibres, kiān-chhiam-î. (Bohm and Davidoff, from Lewis' “ Anatomy and Physiology for Nurses.”)</em></p>
+<p class="figure-caption"><em>Tē 25 tô.—Kun-bah ê kiān chhiòng-tñg-bīn, 270 pē khok-tōa : Tendon-cell, kiān-sòe-pau ; Tendon-fibres, kiān-chhiam-î. (Bohm and Davidoff, from Lewis' “ Anatomy and Physiology for Nurses.”)</em></p>
 
 </div>
 
@@ -190,7 +190,7 @@ Kun nā siông-siông ēng, ōe pang-chān i khah cha̍t, khah ióng; bô ēng, 
 Lán só· tiòh kiàⁿ-ê bô pát-hāng, lâng kap lâng kóng-ōe tiòh kóng sêng-si̍t, tī kong-têng phòan-tòan, tiòh ēng chin sêng hō· lâng saⁿ-hô (Sat-ka-lī-a 8: 16).
 
 > **【全漢對照】**  
-> 咱所著敬的無別項，人佮人講話著講誠實，佇公庭判斷，著用真誠互人相和（撒迦利亞 8: 16）。
+> 咱所著敬的無別項，人佮人講話著講誠實，佇公庭判斷，著用真誠互人相和（撒迦利亞 8：16）。
 
 <!-- Page 048 End -->
 
@@ -204,7 +204,7 @@ Lán só· tiòh kiàⁿ-ê bô pát-hāng, lâng kap lâng kóng-ōe tiòh kón
 
 ![原書插圖 - 第 49 頁 (圖 1)](assets/illustrations/page_049_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 26 tô:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mo̍h; 4, chhiam-î-lông. (From Gray’s “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 26 tô:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mo̍h; 4, chhiam-î-lông. (From Gray’s “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -246,9 +246,9 @@ Koan-chat sī kut-keh ê kut saⁿ-liân ê só͘-chāi (tē 26 tô͘). Chòe ch
 > **【全漢對照】**
 > 關節是骨格的骨相連的所在（第 26 圖）。做成骨關節的組織就是：
 > * 骨。
-> * 軟骨（軟骨, Cartilage）。
-> * 韌帶（韌帶, Ligaments）。
-> * 滑液膜（滑液膜, Synovial membrane）。
+> * 軟骨（軟骨，Cartilage）。
+> * 韌帶（韌帶，Ligaments）。
+> * 滑液膜（滑液膜，Synovial membrane）。
 
 ---
 
@@ -257,7 +257,7 @@ Koan-chat sī kut-keh ê kut saⁿ-liân ê só͘-chāi (tē 26 tô͘). Chòe ch
 **Tē 26 tô͘:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô͘: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mó͘h; 4, chhiam-î-lông.** *(From Gray's "Anatomy," by permission of Longmans, Green and Co., publishers.)*
 
 > **【全漢對照】**
-> **第 26 圖：——活動關節縱斷面的圖：1, 骨；2, 關節軟骨；3, 滑液膜；4, 纖維囊。** *(出自格雷氏《解剖學》，經出版商朗文格林公司授權使用)*
+> **第 26 圖：——活動關節縱斷面的圖：1，骨；2，關節軟骨；3，滑液膜；4，纖維囊。** *（出自格雷氏《解剖學》，經出版商朗文格林公司授權使用）*
 
 ---
 
@@ -285,7 +285,7 @@ Kut sī koan-chat ê ki-chhó͘ (基礎). Múi ki kut ê thâu beh tàu tī koan
 
 ![原書插圖 - 第 50 頁 (圖 1)](assets/illustrations/page_050_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 27 tô.—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ : 1, lông-chōng-jīm-tài ; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu ; 3, 5, 10, keng-kah-kut ; 4, 6, jīm-tài, 7, kun-bah kap siōng-phok-kut saⁿ-liân ; 8, nñg-thâu-phok-kun|ê kiān ; 9, siōng-phok-kut (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 27 tô.—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ : 1, lông-chōng-jīm-tài ; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu ; 3, 5, 10, keng-kah-kut ; 4, 6, jīm-tài, 7, kun-bah kap siōng-phok-kut saⁿ-liân ; 8, nñg-thâu-phok-kun|ê kiān ; 9, siōng-phok-kut (Cunningham).</em></p>
 
 </div>
 
@@ -297,7 +297,7 @@ koan-chat-lāi. Chit-ê kiò-chòe lông-chōng-jīm-tài (囊狀韌帶, capsula
 
 > **【全漢對照】**
 > （左側欄標註：囊狀韌帶／滑液膜／滑液）
-> 關節內。這个叫做囊狀韌帶 (囊狀韌帶, capsular ligament)。佇這个囊狀韌帶的內面有關滑的膜親像粘膜咧放出滑的分泌物 (分泌物) 來潤澤關節，互伊的關節快快運動；這个叫做滑液膜 (synovial membrane)，也所分泌的物叫做滑液 (滑液, synovia)。這个滑液的款式是小寡粘粘若親像雞卵清的款。佇囊狀韌帶的外面旁有較勇的韌帶保護關節；閣佇外面有筋肉佮筋的腱包咧。親像按呢，就關節兩旁的連絡會妥當。
+> 關節內。這个叫做囊狀韌帶 （囊狀韌帶，capsular ligament）。佇這个囊狀韌帶的內面有關滑的膜親像粘膜咧放出滑的分泌物 （分泌物） 來潤澤關節，互伊的關節快快運動；這个叫做滑液膜 (synovial membrane)，也所分泌的物叫做滑液 （滑液，synovia）。這个滑液的款式是小寡粘粘若親像雞卵清的款。佇囊狀韌帶的外面旁有較勇的韌帶保護關節；閣佇外面有筋肉佮筋的腱包咧。親像按呢，就關節兩旁的連絡會妥當。
 
 ---
 
@@ -306,7 +306,7 @@ koan-chat-lāi. Chit-ê kiò-chòe lông-chōng-jīm-tài (囊狀韌帶, capsula
 Tē 27 tô͘:—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ: 1, lông-chōng-jīm-tài; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu; 3, 5, 10, keng-kah-kut; 4, 6, jīm-tài; 7, kun-bah kap siōng-phok-kut saⁿ-liân; 8, nn̄g-thâu-phok-kun ê kiān; 9, siōng-phok-kut (Cunningham).
 
 > **【全漢對照】**
-> 第 27 圖：——肩胛關節，對頭前面共看：1, 囊狀韌帶；2, 佇這內面有關節空洞，所會看的是上膊骨頭；3, 5, 10, 肩胛骨；4, 6, 韌帶；7, 筋肉佮上膊骨相連；8, 兩頭膊筋的腱；9, 上膊骨 (Cunningham)。
+> 第 27 圖：——肩胛關節，對頭前面共看：1，囊狀韌帶；2，佇這內面有關節空洞，所會看的是上膊骨頭；3, 5, 10，肩胛骨；4, 6，韌帶；7，筋肉佮上膊骨相連；8，兩頭膊筋的腱；9，上膊骨 (Cunningham)。
 
 ---
 
@@ -318,7 +318,7 @@ Koan-chat ū hun chòe nn̄g khoán:
 > **【全漢對照】**
 > （左側欄標註：關節兩款）
 > 關節有分做兩款：
-> 1. 不動關節 (不動關節)。
+> 1. 不動關節 （不動關節）。
 
 ---
 
@@ -341,7 +341,7 @@ Ka-kī ê chhiú tiòh sió-sim pó-hō͘, nā chhàk kui khang, tiòh liâm-pi�
 
 ![原書插圖 - 第 51 頁 (圖 1)](assets/illustrations/page_051_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 28 tô.—Pî-khū-koan-chat: 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê pīⁿ-á hō͘ khū-o khah chhìm ; 11, tng-kut (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 28 tô.—Pî-khū-koan-chat: 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê pīⁿ-á hō͘ khū-o khah chhìm ; 11, tng-kut (Cunningham).</em></p>
 
 </div>
 
@@ -368,7 +368,7 @@ II. Khó-tōng-koan-chat ê miâ sī chiàu i ūn-tōng ê khoán, ū hun chòe 
 
 > **【全漢對照】**
 > II. 可動關節的名是照伊運動的款，有分做四大段：
-> *(邊註：不動關節，有四大段)*
+> *（邊註：不動關節，有四大段）*
 > 
 > (a.) 舂臼關節（舂臼關節，*Ball and socket-joint*）。
 > (b.) 蝴蝶關節（蝶番關節，*Hinge-joint*）。
@@ -382,14 +382,14 @@ II. Khó-tōng-koan-chat ê miâ sī chiàu i ūn-tōng ê khoán, ū hun chòe 
 **Tē 28 tô͘.—Pî-khū-koan-chat :** 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê piⁿ-á hō͘ khū-o khah chhim ; 11, tng-kut (Cunningham).
 
 > **【全漢對照】**
-> **第 28 圖。—髀臼關節：** 1, 腸骨的前下棘，2, 4, 6, 8, 韌帶；3, 大腿骨；5, 坐骨；7, 恥骨；9, 大腿骨頭；10, 臼唇軟骨，這个連佇臼窩的邊仔互臼窩較深；11, 腸骨 (Cunningham)。
+> **第 28 圖。—髀臼關節：** 1，腸骨的前下棘，2, 4, 6, 8，韌帶；3，大腿骨；5，坐骨；7，恥骨；9，大腿骨頭；10，臼唇軟骨，這个連佇臼窩的邊仔互臼窩較深；11，腸骨 (Cunningham)。
 
 ---
 
 Jîn-ài sī gâu khoan-iông chû-pi ; jîn-ài sī bô oàn-tò͘ ; jîn-ài bô khoa-kháu, bô phín-phóng (I Ko-lîm-to 13 : 4).
 
 > **【全漢對照】**
-> 仁愛是𠢕寬容慈悲；仁愛是無怨妒；仁愛無誇口，無膨風（I 哥林多 13 : 4）。
+> 仁愛是𠢕寬容慈悲；仁愛是無怨妒；仁愛無誇口，無膨風（I 哥林多 13：4）。
 
 <!-- Page 051 End -->
 
@@ -403,7 +403,7 @@ Jîn-ài sī gâu khoan-iông chû-pi ; jîn-ài sī bô oàn-tò͘ ; jîn-ài b
 
 ![原書插圖 - 第 52 頁 (圖 1)](assets/illustrations/page_052_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 29 tô.—Chhiú-cháiⁿ-kut ê koan-chat : 1, chhiú-cháiⁿ tē it chat ; 2, tē jī chat ; 3, tē saⁿ chat ; 4, jīm-tài ; 5, chhiú-chiúⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 29 tô.—Chhiú-cháiⁿ-kut ê koan-chat : 1, chhiú-cháiⁿ tē it chat ; 2, tē jī chat ; 3, tē saⁿ chat ; 4, jīm-tài ; 5, chhiú-chiúⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -471,11 +471,11 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chē tō͘.
 
 ![原書插圖 - 第 53 頁 (圖 1)](assets/illustrations/page_053_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 ![原書插圖 - 第 53 頁 (圖 2)](assets/illustrations/page_053_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -491,7 +491,7 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chē tō͘.
 **Tē 30 tô͘:—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat:** 1, chêng-keng; 2, koan-chat kap kút-e̍k-mo̍h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâiⁿ-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo̍h; 7, āu-keng; 8, hoâiⁿ-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> **第 30 圖：—齒狀突起佮第一頸椎骨中間的關節：** 1, 前弓；2, 關節佮滑液膜；3, 齒狀突起；4, 上關節窩；5, 橫韌帶；6, 椎孔欲底脊髓佮脊髓膜；7, 後弓；8, 橫突起。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
+> **第 30 圖：—齒狀突起佮第一頸椎骨中間的關節：** 1，前弓；2，關節佮滑液膜；3，齒狀突起；4，上關節窩；5，橫韌帶；6，椎孔欲底脊髓佮脊髓膜；7，後弓；8，橫突起。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -501,14 +501,14 @@ Sī chi̍t ê kut ê thâu tī siāng chit khoán ê sún-thâu-nih teh tńg. T�
 
 > **【全漢對照】**
 > **（ch.）門樞關節（車軸關節）：**
-> 是一個骨的頭佇相仝這款的榫頭裡咧轉。第一頸椎骨佮第二頸椎骨的中間，有這款的關節。第二頸椎骨的頂面旁，有一個齒狀突起（齒狀突起, odontoid process），是圓圓。佇第一頸椎骨有一個硬閣韌的韌帶，坦橫來連佇第一頸椎骨的兩旁，按呢分第一頸椎……
+> 是一個骨的頭佇相仝這款的榫頭裡咧轉。第一頸椎骨佮第二頸椎骨的中間，有這款的關節。第二頸椎骨的頂面旁，有一個齒狀突起（齒狀突起，odontoid process），是圓圓。佇第一頸椎骨有一個硬閣韌的韌帶，坦橫來連佇第一頸椎骨的兩旁，按呢分第一頸椎……
 
 ---
 
 **Tē 31 tô͘:—Tiú-koan-chat:** 1, siōng-phok-kut; 2, kút-e̍k-mo̍h tiùⁿ tōa thang khòaⁿ-īⁿ ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiâu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> **第 31 圖：—肘關節：** 1, 上膊骨；2, 滑液膜脹大通看見的大細；3, 輪狀韌帶；4, 橈骨；5, 尺骨。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
+> **第 31 圖：—肘關節：** 1，上膊骨；2，滑液膜脹大通看見的大細；3，輪狀韌帶；4，橈骨；5，尺骨。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 <!-- Page 053 End -->
 
@@ -522,7 +522,7 @@ Sī chi̍t ê kut ê thâu tī siāng chit khoán ê sún-thâu-nih teh tńg. T�
 
 ![原書插圖 - 第 54 頁 (圖 1)](assets/illustrations/page_054_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
 
 </div>
 
@@ -581,7 +581,7 @@ Thé-un-khì m̄-thang hō͘ gín-ná ka-kī ēng, á-sī put-séng-jîn-sū ê 
 
 ![原書插圖 - 第 55 頁 (圖 1)](assets/illustrations/page_055_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 33 tô.—Chiâⁿ-pêⁿ chhek-koan-chat, chêng-āu tit-tit-tǹg ê tô͘ : 1, tōa-thúi-kut ; 2, iû ê cho͘-chit ; 3, sì-thâu-kó͘-kun-kiān ê liâm-e̍k-lông ; 4, chhek-kài-kut ; 5, iû ê cho͘-chit ; 6, nńg-kut ; 7, chhek-kài-jīm-tài ; 8, kēng-kut kap chhek-kài-jīm-tài ê tiong-kan ê liâm-e̍k-lông ; 9, kēng-kut ; 10, nńg-kut ; 11, jīm-tài. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 33 tô.—Chiâⁿ-pêⁿ chhek-koan-chat, chêng-āu tit-tit-tǹg ê tô͘ : 1, tōa-thúi-kut ; 2, iû ê cho͘-chit ; 3, sì-thâu-kó͘-kun-kiān ê liâm-e̍k-lông ; 4, chhek-kài-kut ; 5, iû ê cho͘-chit ; 6, nńg-kut ; 7, chhek-kài-jīm-tài ; 8, kēng-kut kap chhek-kài-jīm-tài ê tiong-kan ê liâm-e̍k-lông ; 9, kēng-kut ; 10, nńg-kut ; 11, jīm-tài. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -613,7 +613,7 @@ Mî-sî tio̍h pan ê khàn-hō͘, m̄-thang the tī the-í-nih, kiaⁿ-liáu kh
 
 ![原書插圖 - 第 56 頁 (圖 1)](assets/illustrations/page_056_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 34 tô:.-Chui-kut-thiāu chit phō·-ūi ê chêng-bīn kap hia̍p-kut-chui-kut-koan-chat : 1, hia̍p-kut ; 2, 4, hia̍p-kut-chui-kut-koan-chat ê jīm-tài ; 3, chêng-chhiòng-jīm-tài (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 34 tô:.-Chui-kut-thiāu chit phō·-ūi ê chêng-bīn kap hia̍p-kut-chui-kut-koan-chat : 1, hia̍p-kut ; 2, 4, hia̍p-kut-chui-kut-koan-chat ê jīm-tài ; 3, chêng-chhiòng-jīm-tài (Cunningham).</em></p>
 
 </div>
 
@@ -667,7 +667,7 @@ Koh kán-séng kì saⁿ ê koan-chat ê kò͘-chō :
 Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無記得人的歹（I 哥林多 13: 5）。
+> 仁愛無記得人的歹（I 哥林多 13：5）。
 
 <!-- Page 056 End -->
 

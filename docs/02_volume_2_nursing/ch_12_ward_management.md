@@ -21,7 +21,7 @@
 Sin óh chòe khàn-hō͘ ê lâng, sī chhin-chhiūⁿ tī chhù-nih chòe ê tāi-chì chi̍t-poàⁿ-iūⁿ. M̄-sī tāi-seng su-hāu pīⁿ-lâng, sī tāi-seng siu-chéng pīⁿ-sek-lāi it-khài hō͘ chheng-khì. Che sī ták ji̍t chòe iàu-kín-ê, chóng-sī só chòe ê tāi-chì, bô lūn chòe kàu cháiⁿ-iūⁿ hó, tāi-khài iā bô lâng o-ló; m̄-kú nā pān-liáu m̄-hó, chiū hit ê chōe-kòak bōe the-sî-tit.
 
 > **【全漢對照】**
-> **[邊欄：病室內雜事]**  
+> **［邊欄：病室內雜事］**  
 > 新學做看護的人，是親像佇厝裡做的大事一半樣。毋是代先伺候病人，是代先修整病室內一概予清潔。這是逐日做要緊的，總是所做的大事，無論做到怎樣好，大概也無人謳咾；毋過若辦了毋好，就彼個罪過𣍐推辭得。
 
 ---
@@ -30,7 +30,7 @@ Sin óh chòe khàn-hō͘ ê lâng, sī chhin-chhiūⁿ tī chhù-nih chòe ê t
 I-īⁿ-lāi ê tāi-chì tio̍h ták ji̍t jīn chin lâi pān; ták hāng khì-kū mi̍h-kiāⁿ, nā bô chheng-khì, lóng ū bî-seng-bu̍t tī-teh. Tī i-īⁿ-lāi, pīⁿ-lâng kì-jiân chōe, bî-seng-bu̍t iā tek-khak chōe, nā bô chheng-khì, hit ê hāi m̄-sī sió-khoá. Eng-kai chai bô chheng-khì ê só͘-chāi, sī chòe gâu siⁿ bî-seng-bu̍t; ū hiah chōe pīⁿ-lâng sī tùi bô chheng-khì ê tōe-hng lâi-ê. Koh hit hō pīⁿ kiám-chháu sī tùi bô chheng-khì lâi jiám-tio̍h. Só͘-í tio̍h siat-hoat hō͘ chheng-khì, iā thang hō͘ pīⁿ-lâng khoàⁿ, in ê pīⁿ hó tńg-khì ê sî, iā thang chiàu án-ni lâi óh; hit ê lī-ek put-chí tōa.
 
 > **【全漢對照】**
-> **[邊欄：著清潔]**  
+> **［邊欄：著清潔］**  
 > 醫院內的大事著逐日認真來辦；逐項器具物件，若無清潔，攏有微生物佇咧。佇醫院內，病人既然多，微生物也的確多，若無清潔，彼個害毋是小可。應該知無清潔的所在，是做𠢕生微生物；有遐多病人是對無清潔的地方來的。閣彼號病檢綵是對無清潔來染著。所以著設法予清潔，也通知予病人看，𪜶的病好轉去之時，也通知照按呢來學；彼個利益不止大。
 
 ---
@@ -55,7 +55,7 @@ Sàu-tè ê hoat-tō͘ :
 2. Tio̍h bîn-chhng thia̍p hó, chiah thang sàu.
 
 > **【全漢對照】**
-> **[邊欄：掃地的法]**  
+> **［邊欄：掃地的法］**  
 > 掃地的法度：  
 > 1. 著順風勢掃。  
 > 2. 著眠床摺好，才通掃。
@@ -110,7 +110,7 @@ Chiáng-koán saⁿ-á-tû, kui-kú, sī tio̍h chôe-chéng ;
 Lí tio̍h chīn-tiong kàu sí, góa chiū beh ēng oa̍h-miā ê bián-liû siúⁿ-sù lí (Khé-sī-li̍k 2 : 10).
 
 > **【全漢對照】**
-> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2 : 10）。
+> 你著盡忠到死，我就欲用活命的冕旒賞賜你（啟示錄 2：10）。
 
 <!-- Page 169 End -->
 
@@ -217,35 +217,35 @@ Gû-leng tio̍h khàm hō͘ hó, hē tī liâng-léng ê só͘-chāi, m̄-thang 
 > **【全漢對照】**  
 > **要緊的雜事** (155)  
 > 看護著會記得到的代誌照下面：  
-> 牛奶著崁予好，下佇涼冷的地方，毋通下佇病人的房內。天氣熱的時，著將牛奶代先過滾。鮮肉、湯的類，若無下佇冰箱，就的確會歹去。`[牛奶]`
+> 牛奶著崁予好，下佇涼冷的地方，毋通下佇病人的房內。天氣熱的時，著將牛奶代先過滾。鮮肉、湯的類，若無下佇冰箱，就的確會歹去。`［牛奶］`
 
 ---
 
 Peng-siuⁿ tio̍h siông-siông khàm hō͘ ân, in-ūi peng nā kìⁿ-tio̍h khong-khì, chiū khah khoài iûⁿ bô-khì. Nā ēng sòe tè peng, hō͘ pīⁿ-lâng kâm tī chhùi-lāi, tio̍h tāi-seng pī-pān chi̍t tè óaⁿ; óaⁿ ê téng-bīn chhu chi̍t tè pò͘, chiong chheng-khì ê peng hē tī pò͘ ê téng-bīn; peng nā pìⁿ-chiâⁿ chúi chiū lâu-lo̍h tī óaⁿ-lāi. Peng tī chúi-lāi khah khoài hòa bô-khì. Peng ê téng-bīn iā tio̍h ēng chúi-nî-pò͘ khàm. `[Peng-siuⁿ]`
 
 > **【全漢對照】**  
-> 冰箱著常常崁予絚，因為冰若見著空氣，就較快溶無去。若用細塊冰，予病人含佇喙內，著代先備辦一塊碗；碗的頂面鋪一塊布，將清氣的冰下佇布的頂面；冰若變成水就流落佇碗內。冰佇水內較快化無去。冰的頂面也著用水坭布崁。`[冰箱]`
+> 冰箱著常常崁予絚，因為冰若見著空氣，就較快溶無去。若用細塊冰，予病人含佇喙內，著代先備辦一塊碗；碗的頂面鋪一塊布，將清氣的冰下佇布的頂面；冰若變成水就流落佇碗內。冰佇水內較快化無去。冰的頂面也著用水坭布崁。`［冰箱］`
 
 ---
 
 Kā pīⁿ-lâng kô iôh-ko ê sî, tio̍h boah tī chúi-nî-pò͘ kng-bīn hit téng-bīn; ēng to boah iôh-ko, to tio̍h chheng-khì, chiong chúi-nî-pò͘ hē hō͘ pīⁿ, tùi tò-chhiú-pêng boah tùi chiàⁿ-chhiú-pêng khì. `[Chúi-nî-pò͘]`
 
 > **【全漢對照】**  
-> 共病人糊藥膏的時，著抹佇水坭布光面彼頂面；用刀抹藥膏，刀著清氣，將水坭布下予平，對倒手爿抹對正手爿去。`[水坭布]`
+> 共病人糊藥膏的時，著抹佇水坭布光面彼頂面；用刀抹藥膏，刀著清氣，將水坭布下予平，對倒手爿抹對正手爿去。`［水坭布］`
 
 ---
 
 Ōaⁿ pau-siong-liāu ê sî, tio̍h tāi-seng pī-pān só͘ beh ēng ê pheng-tòa chúi-nî-pò͘, mî-hoe, mî-se, iû-chóa, hit hō mi̍h; m̄-thang thèng-hāu ēng-liáu chiah koh pī-pān; tio̍h sûi-sî ēng, sûi-sî koh ū-pī. `[Ōaⁿ pau-siong-liāu]`
 
 > **【全漢對照】**  
-> 換包傷料的時，著代先備辦所欲用的繃帶、水坭布、棉花、棉紗、油紙，彼號物；毋通聽候用妥才閣備辦；著隨時用，隨時閣預備。`[換包傷料]`
+> 換包傷料的時，著代先備辦所欲用的繃帶、水坭布、棉花、棉紗、油紙，彼號物；毋通聽候用妥才閣備辦；著隨時用，隨時閣預備。`［換包傷料］`
 
 ---
 
 Sin lâi ê pīⁿ-lâng tú-á ji̍p pīⁿ-īⁿ, tio̍h chhâ i só͘ tòa ê mi̍h-kiāⁿ; nā chhin-chhiūⁿ i-ho̍k, phē, ji̍k-á, ū bô chheng-khì-ê, tio̍h hō͘ chhōa pīⁿ-lâng lâi-ê tòa tò-khì. Nā-sī gín-ná ji̍p pīⁿ-īⁿ, tio̍h tùi i ê lāu-bú mn̄g it-khài phòa-pīⁿ ê chêng-hêng. `[Chhâ sin ji̍p īⁿ ê hoān-chiá]`
 
 > **【全漢對照】**  
-> 新來的病人拄仔入病院，著查伊所帶的物件；若親像衣服、被、褥仔，有無清氣的，著予𤆬病人來的帶倒去。若是囡仔入病院，著對伊的老母問一概破病的形情。`[查新入院的患者]`
+> 新來的病人拄仔入病院，著查伊所帶的物件；若親像衣服、被、褥仔，有無清氣的，著予𤆬病人來的帶倒去。若是囡仔入病院，著對伊的老母問一概破病的形情。`［查新入院的患者］`
 
 ---
 
@@ -259,7 +259,7 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng ê chêng-hêng hut-jiân ū m̄-hó, m̄-thang
 M̄-thang ēng pháiⁿ ê tê-au, á-sī niû-poe; bô lūn sím-mi̍h nā phah-pháiⁿ, tio̍h kā kàu-su kóng, liâm-piⁿ lēng-gōa bóe sin-ê; nā tio̍h siu-lí ê mi̍h, m̄-thang siu khì khǹg, tio̍h `[Tio̍h pó-sioh pīⁿ-īⁿ-lāi ê mi̍h-kiāⁿ]`
 
 > **【全漢對照】**  
-> 毋通用歹的茶甌，抑是量杯；無論甚麼若拍歹，著共教席講，連鞭另外買新的；若著修理的物，毋通收去囥，著…… `[著寶惜病院內的物件]`
+> 毋通用歹的茶甌，抑是量杯；無論甚麼若拍歹，著共教席講，連鞭另外買新的；若著修理的物，毋通收去囥，著…… `［著寶惜病院內的物件］`
 
 ---
 

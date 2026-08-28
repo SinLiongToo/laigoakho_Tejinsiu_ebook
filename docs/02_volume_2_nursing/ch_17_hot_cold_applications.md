@@ -73,7 +73,7 @@
 *Lán só͘ tio̍h kiàⁿ-ê bô pa̍t hāng, lâng kap lâng kóng ōe tio̍h kóng seng-si̍t, tī kong-tng phòaⁿ-toàn, tio̍h ēng chin seng hō͘ lâng saⁿ-hô (Sat-ka-lī-a 8 : 16).*
 
 > **【全漢對照】**
-> *咱所著行的無別項，人佮人講話著講誠實，佇公堂判斷，著用真實予人相和（撒迦利亞 8 : 16）。*
+> *咱所著行的無別項，人佮人講話著講誠實，佇公堂判斷，著用真實予人相和（撒迦利亞 8：16）。*
 
 <!-- Page 227 End -->
 
@@ -87,7 +87,7 @@
 
 ![原書插圖 - 第 228 頁 (圖 1)](assets/illustrations/page_228_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 146 tô:—Ēng peng-lông ù-léng : (a) sī m̄-tióh, (b) sī tióh ê hoat-tō͘. (a) Peng-lông-lāi ū khong-khì só͘-í khah îⁿ, bô sím-mi̍h hó hē-teh ; (b) sī khah pīⁿ, hē khah ōe tiâu, iā ù khah khoah. (From Stoney's “ Practical Points in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 146 tô:—Ēng peng-lông ù-léng : (a) sī m̄-tióh, (b) sī tióh ê hoat-tō͘. (a) Peng-lông-lāi ū khong-khì só͘-í khah îⁿ, bô sím-mi̍h hó hē-teh ; (b) sī khah pīⁿ, hē khah ōe tiâu, iā ù khah khoah. (From Stoney's “ Practical Points in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -136,12 +136,12 @@ Tē 146 tô͘:—Ēng peng-lông ù-léng: (a) sī m̄-tio̍h, (b) sī tio̍h ê
 
 ![原書插圖 - 第 229 頁 (圖 1)](assets/illustrations/page_229_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>147
+<p class="figure-caption"><em>147
 Tē 147 tô.—Leiter-sī ê kńg. (From Woodwark's “ Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 ![原書插圖 - 第 229 頁 (圖 2)](assets/illustrations/page_229_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>148
+<p class="figure-caption"><em>148
 Tē 148 tô.—Leiter-sī ê kńg, ù heng-chêng. (From Sanders' “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
@@ -288,7 +288,7 @@ Chòe sio nî-thán kap kah ê hoat-tō͘: Hang thán-á, m̄-thang kńg-teh, ti
 
 > **【全漢對照】**
 > **【熨熱濕的法】**
-> 熨熱濕（濕熱敷）的法：濕布有溫濕布、*acidum boricum*（硼酸）的溫濕布、鴉片溫濕布、*oleum terebinthinae* (*turpentine* / 松節油) 的溫濕布、*acidum carbolicum*（石炭酸）、*hydrarg. perchlor.*（昇汞）的溫濕布。
+> 熨熱濕（濕熱敷）的法：濕布有溫濕布、*acidum boricum*（硼酸）的溫濕布、鴉片溫濕布、*oleum terebinthinae* （*turpentine* / 松節油） 的溫濕布、*acidum carbolicum*（石炭酸）、*hydrarg. perchlor.*（昇汞）的溫濕布。
 
 ---
 
@@ -321,7 +321,7 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hē-teh.
 
 ![原書插圖 - 第 232 頁 (圖 1)](assets/illustrations/page_232_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 149 tô.—Chūn-pò kap siang-thâu-bé ê chhâ-thûi. (From Cantlies' “Nursing Manual,” Cassell and Co., Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 149 tô.—Chūn-pò kap siang-thâu-bé ê chhâ-thûi. (From Cantlies' “Nursing Manual,” Cassell and Co., Ltd., publishers.)</em></p>
 
 </div>
 
@@ -409,11 +409,11 @@ Iā tio̍h ū nñg ki ê chhâ-thûi chhiok poeh tng, chi̍t chhùn kāu, chhihn
 
 ![原書插圖 - 第 233 頁 (圖 1)](assets/illustrations/page_233_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 150 tô:—Ū-pī un-sip-pò· ê hoat : teh piàⁿ kún-chúi (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 150 tô:—Ū-pī un-sip-pò· ê hoat : teh piàⁿ kún-chúi (Sanders).</em></p>
 
 ![原書插圖 - 第 233 頁 (圖 2)](assets/illustrations/page_233_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 151 tô:—Ū-pī un-sip-pò· ê hoat : teh chūn un-sip-pò· (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 151 tô:—Ū-pī un-sip-pò· ê hoat : teh chūn un-sip-pò· (Sanders).</em></p>
 
 </div>
 
@@ -424,7 +424,7 @@ Iā tio̍h ū nñg ki ê chhâ-thûi chhiok poeh tng, chi̍t chhùn kāu, chhihn
 ...chiah piàⁿ kún-chúi tī téng-bīn, chìm hō͘ chiâu tâm. Koh chit-ê hoat-tō͘, sī ēng kún-chúi 600.0 c.c., hit lāi-bīn piàⁿ *oleum terebinthinae* 10.0 c.c., lā hō͘ chiâu. Teh lā ê sî, ēng chúi-nî-pò͘ chìm hō͘ chiâu tâm, chiah the̍h-khí-lâi,
 
 > **【全漢對照】**
-> [邊註: 松節油溫濕布]
+> ［邊註：松節油溫濕布］
 > ……才傾滾水佇頂面，浸互齊澹。閣一个法度，是用滾水 600.0 c.c.，彼內面傾松節油（*oleum terebinthinae*）10.0 c.c.，攋互齊。咧攋的時，用水呢布浸互齊澹，才提起來，
 
 ---
@@ -453,7 +453,7 @@ chūn hō͘ ta, hē tī ū pīⁿ ê só͘-chāi. Chit hō iû, tio̍h tōa-lân
 Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少个已經盡忠，通入你的主人的快樂（馬太 25 : 21）。
+> 好閣盡忠的奴僕，你佇少个已經盡忠，通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 233 End -->
 
@@ -487,7 +487,7 @@ Nā ēng *lotio hydrarg. perchlor.* chòe un-sip-pò͘, tióh 1—5,000. Nā *ac
 Pâ-pò͘ (琶布, Poultice) : Chit ê hoat-tō͘ sī ēng ióh, pè á-sī pau tī pò͘ ê lāi-bīn, chiah hē ū pīⁿ ê só͘-chāi. Ū-sî bô lóng pau, kan-ta kô͘ chi̍t pêng, iā hē ū pīⁿ ê só͘-chāi.
 
 > **【全漢對照】**
-> 爬布（琶布, Poultice）：這個法度是用藥，被抑是包佇布的內面，才下有病的所在。有時無攏包，干焦糊一旁，也下有病的所在。
+> 爬布（琶布，Poultice）：這個法度是用藥，被抑是包佇布的內面，才下有病的所在。有時無攏包，干焦糊一旁，也下有病的所在。
 
 ---
 
@@ -591,12 +591,12 @@ Pīⁿ-lâng nā teh khùn, i-seng nā bô hoan-hù, m̄-thang kiò i chhíⁿ, 
 
 ![原書插圖 - 第 236 頁 (圖 1)](assets/illustrations/page_236_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>152
+<p class="figure-caption"><em>152
 Tē 152 tô:—Ū-pī môa-chí-pâ-pò· ê hoat.</em></p>
 
 ![原書插圖 - 第 236 頁 (圖 2)](assets/illustrations/page_236_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>153
+<p class="figure-caption"><em>153
 Tē 153 tô:—Teh phi môa-chí-pâ-pò· hō· ī pîⁿ (Sanders).</em></p>
 
 </div>
@@ -615,9 +615,9 @@ Tē 153 tô͘.—Teh phi môa-chí-pâ-pò͘ hō͘ ī pîⁿ (Sanders).
 > 
 > ### 熨冷、熨燒的法
 > 
-> [152]
+> ［152］
 > 
-> [153]
+> ［153］
 > 
 > 第 152 圖。—預備麻子杷布的法。
 > 
@@ -660,7 +660,7 @@ Chit ê kài-loảh kô liáu the̍h-khí-lâi ê sî-chūn, tio̍h ēng mî che
 Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6: 16-17).
 
 > **【全漢對照】**  
-> 上帝怨恨憍傲的，佮嘴講奸詐的（箴言 6: 16-17）。
+> 上帝怨恨憍傲的，佮嘴講奸詐的（箴言 6：16-17）。
 
 <!-- Page 237 End -->
 

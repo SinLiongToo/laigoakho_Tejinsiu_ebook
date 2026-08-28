@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 101 頁 (圖 1)](assets/illustrations/page_101_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 71, 72 tô.—Ho·-khip ê sî hoâiⁿ-mớ·h àn-cháiⁿ-iūⁿ piàn-ōaⁿ i ê pō·-ūi : Ū chat ê chōa sī heng-khám, hoâiⁿ-keh-mớ·h, kap pak-tó· piah, khip-jip ê sî só· ū ê pō·-ūi ; 1, hoâiⁿ-keh-mớ·h, khip-jip ê sî; 2, hoâiⁿ-keh-mớ·h ho·-chhut ê sî. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 71, 72 tô.—Ho·-khip ê sî hoâiⁿ-mớ·h àn-cháiⁿ-iūⁿ piàn-ōaⁿ i ê pō·-ūi : Ū chat ê chōa sī heng-khám, hoâiⁿ-keh-mớ·h, kap pak-tó· piah, khip-jip ê sî só· ū ê pō·-ūi ; 1, hoâiⁿ-keh-mớ·h, khip-jip ê sî; 2, hoâiⁿ-keh-mớ·h ho·-chhut ê sî. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -46,7 +46,7 @@ Khip-jip (吸入, *inspiration*) chiū-sī chiong gōa-bīn ê khong-khì suh-ji
 > **【全漢對照】**
 > **吸入**
 > 
-> 吸入（吸入, *inspiration*）就是將外面的空氣欶入佇肺臟內。彼時若看胸坎就知有膨出來。
+> 吸入（吸入，*inspiration*）就是將外面的空氣欶入佇肺臟內。彼時若看胸坎就知有膨出來。
 
 ---
 
@@ -69,7 +69,7 @@ Nā bē chiong io̍h hō͘ pīⁿ-lâng chia̍h, m̄-thang kóng ū chia̍h. Kan
 
 ![原書插圖 - 第 102 頁 (圖 1)](assets/illustrations/page_102_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 73 tô:—Khong-khì ê lō͘, kap si̍t-bu̍t ê lō͘, kái-phò tô͘: KH, khong-khì ê lō͘, chiū-sī ēng ū chat ê chìn lâi chí-bêng; SB, si̍t-bu̍t ê lō͘, chiū-sī ēng bô chat ê chìn lâi chí-bêng. 1, phīⁿ-khang; 2, ian-thâu; 3, hōe-iàm; 4, âu-thâu; 5, khì-kńg; 6, chia̍h-tō; 7, chui-khang; 8, nńg-chhùi-kòa; 9, tē jī kēng-chui-kut; 10, chi̍h. (From Ritchie's “Human Physiology,” World Book Co.)</em></p>
+<p class="figure-caption"><em>Tē 73 tô:—Khong-khì ê lō͘, kap si̍t-bu̍t ê lō͘, kái-phò tô͘: KH, khong-khì ê lō͘, chiū-sī ēng ū chat ê chìn lâi chí-bêng; SB, si̍t-bu̍t ê lō͘, chiū-sī ēng bô chat ê chìn lâi chí-bêng. 1, phīⁿ-khang; 2, ian-thâu; 3, hōe-iàm; 4, âu-thâu; 5, khì-kńg; 6, chia̍h-tō; 7, chui-khang; 8, nńg-chhùi-kòa; 9, tē jī kēng-chui-kut; 10, chi̍h. (From Ritchie's “Human Physiology,” World Book Co.)</em></p>
 
 </div>
 
@@ -146,7 +146,7 @@ Pīⁿ-lâng nā teh khùn, i-seng nā bô hoan-hù, m̄-thang kiò i chhíⁿ, 
 
 ![原書插圖 - 第 103 頁 (圖 1)](assets/illustrations/page_103_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 74 tô.—Âu-thâu ê chêng-bīn: 1, khoân-chōng-nńg-kut; 2, kah-chōng-nńg-kut ê hā-kak; 3, khoân-chōng-kah-chōng-tiong ê jīm-tài; 4, kah-chōng-nńg-kut ê thâu-chêng-gū; 5, kah-chōng-nńg-kut-khiah; 6, kah-chōng-chih-kut-tiong ê jīm-tài; 8, chit lia̍p nńg-kut; 9, chih-kut; 10, hōe-iàm.
+<p class="figure-caption"><em>Tē 74 tô.—Âu-thâu ê chêng-bīn: 1, khoân-chōng-nńg-kut; 2, kah-chōng-nńg-kut ê hā-kak; 3, khoân-chōng-kah-chōng-tiong ê jīm-tài; 4, kah-chōng-nńg-kut ê thâu-chêng-gū; 5, kah-chōng-nńg-kut-khiah; 6, kah-chōng-chih-kut-tiong ê jīm-tài; 8, chit lia̍p nńg-kut; 9, chih-kut; 10, hōe-iàm.
 Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nñg ê lûn, thâu-chêng só͘ ōe khòaⁿ ê pe̍h-pe̍h sī nńg-kut (Cunningham).</em></p>
 
 </div>
@@ -184,7 +184,7 @@ Tē 74 tô͘.—Âu-thâu ê chêng-bīn: 1, khoân-chōng-nńg-kut; 2, kah-chō
 Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nñg ê lûn, thâu-chêng só͘ ē khòaⁿ ê pe̍h-pe̍h sī nńg-kut (Cunningham).
 
 > **【全漢對照】**
-> 第 74 圖。——喉頭的前面：1, 環狀軟骨；2, 甲狀軟骨的下角；3, 環狀甲狀中的韌帶；4, 甲狀軟骨的頭前隅；5, 甲狀軟骨缺；6, 甲狀舌骨中的韌帶；8, 一粒軟骨；9, 舌骨；10, 會厭。
+> 第 74 圖。——喉頭的前面：1，環狀軟骨；2，甲狀軟骨的下角；3，環狀甲狀中的韌帶；4，甲狀軟骨的頭前隅；5，甲狀軟骨缺；6，甲狀舌骨中的韌帶；8，一粒軟骨；9，舌骨；10，會厭。
 > 佇環狀軟骨的下面有氣管的頭兩個輪，頭前所會看的白白是軟骨（Cunningham）。
 
 ---
@@ -208,7 +208,7 @@ Nā tio̍h oaⁿ pau-siong-liāu chi̍t ji̍t nñg pái, m̄-thang phah-sǹg chi
 
 ![原書插圖 - 第 104 頁 (圖 1)](assets/illustrations/page_104_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 75 tô:—Chih kap âu-thâu tùi āu-bīn khòaⁿ ê tô: 1, chhiòng-kau ; 2, bōng-khóng ; 3, phò-lia̍t-hōe-iām-chih ; 4, siaⁿ-mn̂g ; 5, chit tè nńg-kut ; 6, ian-thâu ê piah ; 7, chit tè nńg-kut ; 8, khoân-chōng-nńg-kut ; 9, siaⁿ-tài ; 10, kah-chōng-nńg-kut ê siōng-kak ; 11, chih-kut ê tōa-kak ; 12, chih kap hōe-iām tiong-ng ê chih ; 13, chih. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 75 tô:—Chih kap âu-thâu tùi āu-bīn khòaⁿ ê tô: 1, chhiòng-kau ; 2, bōng-khóng ; 3, phò-lia̍t-hōe-iām-chih ; 4, siaⁿ-mn̂g ; 5, chit tè nńg-kut ; 6, ian-thâu ê piah ; 7, chit tè nńg-kut ; 8, khoân-chōng-nńg-kut ; 9, siaⁿ-tài ; 10, kah-chōng-nńg-kut ê siōng-kak ; 11, chih-kut ê tōa-kak ; 12, chih kap hōe-iām tiong-ng ê chih ; 13, chih. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -231,7 +231,7 @@ chhiú-chí. Tī āu-bīn ū nñg tè nńg-kut kiò-chòe phò-lia̍t nńg-kut (
 **Tē 75 tô͘:—Chih kap âu-thâu tùi āu-bīn khòaⁿ ê tô͘ :** 1, chhiòng-kau ; 2, bông-khóng ; 3, phò-lia̍t-hōe-iàm-chih ; 4, siaⁿ-m̂g ; 5, chi̍t tè nńg-kut ; 6, ian-thâu ê piah ; 7, chi̍t tè nńg-kut ; 8, khoân-chōng-nńg-kut ; 9, siaⁿ-tài ; 10, kah-chōng-nńg-kut ê siōng-kak ; 11, chih-kut ê tōa-kak ; 12, chih kap hōe-iàm tiong-ng ê chih ; 13, chih. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> **第 75 圖：——舌佮喉頭對後面看的圖：** 1, 終溝；2, 盲孔；3, 破裂會厭舌；4, 聲門；5, 一塊軟骨；6, 咽頭的壁；7, 一塊軟骨；8, 環狀軟骨；9, 聲帶；10, 甲狀軟骨的上角；11, 舌骨的大角；12, 舌佮會厭中央的舌；13, 舌。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
+> **第 75 圖：——舌佮喉頭對後面看的圖：** 1，終溝；2，盲孔；3，破裂會厭舌；4，聲門；5，一塊軟骨；6，咽頭的壁；7，一塊軟骨；8，環狀軟骨；9，聲帶；10，甲狀軟骨的上角；11，舌骨的大角；12，舌佮會厭中央的舌；13，舌。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -262,7 +262,7 @@ Tī âu-thâu ê lāi-bīn ū chi̍t tùi siaⁿ-tài ; i ê thâu-chêng liân 
 
 ![原書插圖 - 第 105 頁 (圖 1)](assets/illustrations/page_105_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 76 tô:—Âu-thâu ê āu-bīn lāi-bīn pêng : 1, chih-kut ; 2, chit liap nńg-kut ; 3, kah-chōng-hōe-iām-tiong ê jīm-tài ; 4, kah-chōng-nńg-kut ê siōng-kak ; 5, chit-liap nńg-kut ; 6, 7, phò-lia̍t-nńg-kut ; 8, kah-chōng-nńg-kut ê hā-kak.
+<p class="figure-caption"><em>Tē 76 tô:—Âu-thâu ê āu-bīn lāi-bīn pêng : 1, chih-kut ; 2, chit liap nńg-kut ; 3, kah-chōng-hōe-iām-tiong ê jīm-tài ; 4, kah-chōng-nńg-kut ê siōng-kak ; 5, chit-liap nńg-kut ; 6, 7, phò-lia̍t-nńg-kut ; 8, kah-chōng-nńg-kut ê hā-kak.
 Epiglottis, hōe-iām ; Thyro-hy : memb ; kah-chōng - chih-kut -tiong ê jīm ; Thyroid cartilage, kah-chōng-nńg-kut ; Cric. cart., khoân-chōng-nńg-kut. Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nñg lûn (Cunningham).</em></p>
 
 </div>
@@ -279,7 +279,7 @@ hun-piat. Siaⁿ-tài nā pàng lēng, siaⁿ-im sī khah kē, nā kiu ân, sia�
 Teh ho͘-khip ê sî nā khip-ji̍p, khong-khì sī tùi âu-thâu keng-kè, lo̍h-khì chóng-khì-kńg, ji̍p tī hì-nih. Ho͘-chhut sī tùi-hoán: pêng-siông teh ho͘-khip, khong-khì teh keng-kè âu-thâu, siaⁿ-tài ū pàng khui saⁿ-lī, chiū bōe chhut siaⁿ. Nā beh chhut siaⁿ, siaⁿ-tài chiū ū kiu khah óa, tiong-ng lâu chi̍t phāng-á, khong-khì tùi hit ê phāng teh chhut, hō͘ siaⁿ-tài chín-tōng (震動, vibrate), chiah ū siaⁿ.
 
 > **【全漢對照】**
-> 咧呼吸的時若吸入，空氣是對喉頭經過，落去總氣管，入佇肺裡。呼出是對反：平常咧呼吸，空氣咧經過喉頭，聲帶有放開相離，就袂出聲。若欲出聲，聲帶就有糾較倚，中央留一個縫仔，空氣對彼個縫咧出，互聲帶震動（震動, vibrate），才有聲。
+> 咧呼吸的時若吸入，空氣是對喉頭經過，落去總氣管，入佇肺裡。呼出是對反：平常咧呼吸，空氣咧經過喉頭，聲帶有放開相離，就袂出聲。若欲出聲，聲帶就有糾較倚，中央留一個縫仔，空氣對彼個縫咧出，互聲帶震動（震動，vibrate），才有聲。
 
 ---
 
@@ -295,8 +295,8 @@ Tē 76 tô͘:—Âu-thâu ê āu-bīn lāi-bīn pêng: 1, chih-kut; 2, chi̍t li
 Epiglottis, hōe-iàm; Thyro-hy: memb; kah-chōng - chih-kut - tiong ê jīm; Thyroid cartilage, kah-chōng-nńg-kut; Cric. cart., khoân-chōng-nńg-kut. Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nn̄g lûn (Cunningham).
 
 > **【全漢對照】**
-> 第 76 圖：—喉頭的後面內面爿：1, 舌骨；2, 一粒軟骨；3, 甲狀會厭中的韌帶；4, 甲狀軟骨的上角；5, 一粒軟骨；6, 7, 披裂軟骨；8, 甲狀軟骨的下角。
-> Epiglottis, 會厭；Thyro-hy: memb; 甲狀—舌骨—中的韌；Thyroid cartilage, 甲狀軟骨；Cric. cart., 環狀軟骨。佇環狀軟骨的下面有氣管的頭兩輪 (Cunningham)。
+> 第 76 圖：—喉頭的後面內面爿：1，舌骨；2，一粒軟骨；3，甲狀會厭中的韌帶；4，甲狀軟骨的上角；5，一粒軟骨；6, 7，披裂軟骨；8，甲狀軟骨的下角。
+> Epiglottis，會厭；Thyro-hy：memb；甲狀—舌骨—中的韌；Thyroid cartilage，甲狀軟骨；Cric. cart.，環狀軟骨。佇環狀軟骨的下面有氣管的頭兩輪 (Cunningham)。
 
 ---
 
@@ -306,14 +306,14 @@ Tī chhùi-chih ê āu-bīn ê ē-tóe ū chi̍t tè nńg-kut miâ kiò hōe-ià
 
 > **【全漢對照】**
 > ### 會厭
-> 佇嘴舌的後面的底有一塊軟骨名叫會厭（會厭, *epiglottis*；第 75 圖）。伊的款式親像細細的葉仔。伊的用處是人欲吞物落食道的時，喉頭及筋肉上懸，來互伊……
+> 佇嘴舌的後面的底有一塊軟骨名叫會厭（會厭，*epiglottis*；第 75 圖）。伊的款式親像細細的葉仔。伊的用處是人欲吞物落食道的時，喉頭及筋肉上懸，來互伊……
 
 ---
 
 Tī chì sió-khóa ê sū chīn-tiong-ê, tī tōa-ê iā chīn-tiong, tī sió-khóa-ê put-gī, tī tōa-ê iā put-gī (Lō-ka 16: 10).
 
 > **【全漢對照】**
-> 佇至小可的事盡忠的，佇大的亦盡忠，佇小可的不義，佇大的亦不義（路加 16: 10）。
+> 佇至小可的事盡忠的，佇大的亦盡忠，佇小可的不義，佇大的亦不義（路加 16：10）。
 
 <!-- Page 105 End -->
 
@@ -327,7 +327,7 @@ Tī chì sió-khóa ê sū chīn-tiong-ê, tī tōa-ê iā chīn-tiong, tī sió
 
 ![原書插圖 - 第 106 頁 (圖 1)](assets/illustrations/page_106_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 77 tô.—Khì-kńg kap hì-chóng : A, khì-kńg ; B, chó-khì-kńg-chi ; C, iū-khì-kńg-chi ; D, khah sòe khì-kńg-chi.
+<p class="figure-caption"><em>Tē 77 tô.—Khì-kńg kap hì-chóng : A, khì-kńg ; B, chó-khì-kńg-chi ; C, iū-khì-kńg-chi ; D, khah sòe khì-kńg-chi.
 I, Mñg-sòe-khì-kńg-chi kap hì-pau chhiat-khui : b, mñg-sòe-khì-kńg-chi ; hhh, mñg-sòe-khì-kńg-chi ê bé-á, kap hì-pau-tiong ê lō͘ ; cccc, hì-pau.
 II, Nñg tiâu mñg-sòe-khì-kńg-chi ê bé-á kap hì-pau, iáu-bē chhiat-khui, 60 pē khok-tōa (Blackie and Son).</em></p>
 
@@ -358,9 +358,9 @@ I, Mông-sòe-khì-kńg-chi kap hì-pau chhiat-khui : b, mông-sòe-khì-kńg-ch
 II, Nn̄g tiâu mông-sòe-khì-kńg-chi ê bé-á kap hì-pau, iáu-bē chhiat-khui, 60 pē khok-tōa (Blackie and Son).
 
 > **【全漢對照】**
-> 第 77 圖。——氣管佮肺總：A, 氣管；B, 左氣管支；C, 右氣管支；D, 較細氣管支。  
-> I, 微細氣管支佮肺胞切開：b, 微細氣管支；hhh, 微細氣管支ê尾仔，佮肺胞中ê路；cccc, 肺胞。  
-> II, 兩條微細氣管支ê尾仔佮肺胞，猶未切開，60 倍擴大 (Blackie and Son)。
+> 第 77 圖。——氣管佮肺總：A，氣管；B，左氣管支；C，右氣管支；D，較細氣管支。  
+> I，微細氣管支佮肺胞切開：b，微細氣管支；hhh，微細氣管支ê尾仔，佮肺胞中ê路；cccc，肺胞。  
+> II，兩條微細氣管支ê尾仔佮肺胞，猶未切開，60 倍擴大 (Blackie and Son)。
 
 <!-- Page 106 End -->
 
@@ -374,7 +374,7 @@ II, Nn̄g tiâu mông-sòe-khì-kńg-chi ê bé-á kap hì-pau, iáu-bē chhiat-
 
 ![原書插圖 - 第 107 頁 (圖 1)](assets/illustrations/page_107_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 78 tô.—Sim-chōng kap hì-chōng tùi thâu-chêng bīn khòaⁿ ê tô: 1, chóng-khì-kńg ; 2, iū-pêng hì-chōng ê téng-bīn hióh ; 3, hì-chōng ê tiong-hióh ; 4 hì-chōng ê hā-hióh ; 5, hā-tāi-chēng-meh ; 6, sim ê iū-pông ; 7, sim ê iū-sek ; 8, sim ê chó-sek ; 9, sim ê chó-pông ; 10, chó-pêng hì-chōng ê hā-hióh ; 11, chó-pêng hì-chōng ê téng-bīn hióh ; 12, tông-méh-kńg ; 13, chó-pêng-lāi-kēng-chēng-méh ; 14, chó-pêng kēng-tóng-méh ; Ch, chiaⁿ-pêng ê hì-chēng-méh ; Chh, tò-pêng ê hì-chēng-méh. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 78 tô.—Sim-chōng kap hì-chōng tùi thâu-chêng bīn khòaⁿ ê tô: 1, chóng-khì-kńg ; 2, iū-pêng hì-chōng ê téng-bīn hióh ; 3, hì-chōng ê tiong-hióh ; 4 hì-chōng ê hā-hióh ; 5, hā-tāi-chēng-meh ; 6, sim ê iū-pông ; 7, sim ê iū-sek ; 8, sim ê chó-sek ; 9, sim ê chó-pông ; 10, chó-pêng hì-chōng ê hā-hióh ; 11, chó-pêng hì-chōng ê téng-bīn hióh ; 12, tông-méh-kńg ; 13, chó-pêng-lāi-kēng-chēng-méh ; 14, chó-pêng kēng-tóng-méh ; Ch, chiaⁿ-pêng ê hì-chēng-méh ; Chh, tò-pêng ê hì-chēng-méh. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -385,7 +385,7 @@ II, Nn̄g tiâu mông-sòe-khì-kńg-chi ê bé-á kap hì-pau, iáu-bē chhiat-
 i khah tēng koh ióng. Tn̂g sì chhùn. Ē-tóe pun siang chhe kiò-chòe chó-khì-kńg, iū-khì-kńg; chi̍t tiâu ji̍p tī chó hì-nih, chi̍t tiâu ji̍p tī iū hì-nih. Chí nn̄g tiâu khì-kńg, iā chhin-chhiūⁿ chóng-khì-kńg, sī nńg-kut kap kiat-tè-chit chòe chiaⁿ--ê. Chiah-ê koh pun chòe chōe-chōe sòe
 
 > **【全漢對照】**
-> [旁註：左氣管 / 右氣管]
+> ［旁註：左氣管 / 右氣管］
 > 
 > 伊較硬閣勇。長四寸。下底分雙杈叫做左氣管、右氣管；一條入佇左肺裡，一條入佇右肺裡。此兩條氣管，也親像總氣管，是軟骨佮結締質做成的。諸個閣分做贅贅細……
 
@@ -396,7 +396,7 @@ i khah tēng koh ióng. Tn̂g sì chhùn. Ē-tóe pun siang chhe kiò-chòe chó
 Tē 78 tô͘.—Sim-chōng kap hì-chōng tùi thâu-chêng bīn khòaⁿ ê tô͘ : 1, chóng-khì-kńg; 2, iū-pêng hì-chōng ê téng-bīn hio̍h; 3, hì-chōng ê tiong-hio̍h; 4 hì-chōng ê hā-hio̍h; 5, hā-tāi-chēng-me̍h; 6, sim ê iū-pông; 7, sim ê iū-sek; 8, sim ê chó-sek; 9, sim ê chó-pông; 10, chó-pêng hì-chōng ê hā-hio̍h; 11, chó-pêng hì-chōng ê téng-bīn hio̍h; 12, tông-me̍h-kńg; 13, chó-pêng-lāi-kēng-chēng-me̍h; 14, chó-pêng kēng-tóng-me̍h; Ch, chiaⁿ-pêng ê hì-chēng-me̍h; Chh, tò-pêng ê hì-chēng-me̍h. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> 第 78 圖。— 心臟佮肺臟對頭前面看的圖：1, 總氣管；2, 右爿肺臟的頂面葉；3, 肺臟的中葉；4, 肺臟的下葉；5, 下大靜脈；6, 心的右房；7, 心的右室；8, 心的左室；9, 心的左房；10, 左爿肺臟的下葉；11, 左爿肺臟的頂面葉；12, 動脈管；13, 左爿內頸靜脈；14, 左爿頸動脈；Ch, 正爿的肺靜脈；Chh, 倒爿的肺靜脈。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
+> 第 78 圖。— 心臟佮肺臟對頭前面看的圖：1，總氣管；2，右爿肺臟的頂面葉；3，肺臟的中葉；4，肺臟的下葉；5，下大靜脈；6，心的右房；7，心的右室；8，心的左室；9，心的左房；10，左爿肺臟的下葉；11，左爿肺臟的頂面葉；12，動脈管；13，左爿內頸靜脈；14，左爿頸動脈；Ch，正爿的肺靜脈；Chh，倒爿的肺靜脈。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -419,7 +419,7 @@ Sòe pīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘,
 
 ![原書插圖 - 第 108 頁 (圖 1)](assets/illustrations/page_108_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 79 tô:—Heng-mo̍h-khang ê tô : a, hia̍p-kut ; b, hia̍p-kut-heng-mo̍h ; c, heng-mo̍h-khang ; d, chiaⁿ-pêng hì-chōng-tiong-hio̍h ; 1, chiaⁿ-pêng hì-chōng-siōng-hio̍h óa tī chiam-toan ; 2, chiaⁿ-pêng-hì-hā-hio̍h, óa tī hì-chōng ê ki-tóe ; 3, tò-pêng hì-chōng-hā-hio̍h ; 4, siōng-hio̍h ; e, hoâiⁿ-keh-mo̍h ; f, hì-heng-mo̍h. (McCombs, from Aikens' “Primary Studies for Nurses,” by per. W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 79 tô:—Heng-mo̍h-khang ê tô : a, hia̍p-kut ; b, hia̍p-kut-heng-mo̍h ; c, heng-mo̍h-khang ; d, chiaⁿ-pêng hì-chōng-tiong-hio̍h ; 1, chiaⁿ-pêng hì-chōng-siōng-hio̍h óa tī chiam-toan ; 2, chiaⁿ-pêng-hì-hā-hio̍h, óa tī hì-chōng ê ki-tóe ; 3, tò-pêng hì-chōng-hā-hio̍h ; 4, siōng-hio̍h ; e, hoâiⁿ-keh-mo̍h ; f, hì-heng-mo̍h. (McCombs, from Aikens' “Primary Studies for Nurses,” by per. W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -470,7 +470,7 @@ Hì-thé ê tāng, iū-pêng ê hì 600.0 grms. Chó-hì 560.0 grms. Hit ê chó
 Tē 79 tô͘:—Heng-mo̍h-khang ê tô͘: a, hia̍p-kut; b, hia̍p-kut-heng-mo̍h; c, heng-mo̍h-khang; d, chiàⁿ-pêng hì-chióng-tiong-hio̍h; 1, chiàⁿ-pêng hì-chióng-siōng-hio̍h óa tī chiam-toan; 2, chiàⁿ-pêng-hì-hā-hio̍h, óa tī hì-chióng ê ki-tóe; 3, tò-pêng hì-chióng-hā-hio̍h; 4, siōng-hio̍h; e, hoâiⁿ-keh-mo̍h; f, hì-heng-mo̍h. (McCombs, from Aikens’ “Primary Studies for Nurses,” by per. W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> 第 79 圖：—胸膜腔的圖：a, 脅骨；b, 脅骨胸膜；c, 胸膜腔；d, 正旁肺掌中葉；1, 正旁肺掌上葉倚佇尖端；2, 正旁肺下葉，倚佇肺掌的基底；3, 倒旁肺掌下葉；4, 上葉；e, 橫膈膜；f, 肺胸膜。(McCombs, from Aikens’ “Primary Studies for Nurses,” by per. W. B. Saunders Co., publishers.)
+> 第 79 圖：—胸膜腔的圖：a，脅骨；b，脅骨胸膜；c，胸膜腔；d，正旁肺掌中葉；1，正旁肺掌上葉倚佇尖端；2，正旁肺下葉，倚佇肺掌的基底；3，倒旁肺掌下葉；4，上葉；e，橫膈膜；f，肺胸膜。(McCombs, from Aikens’ “Primary Studies for Nurses,” by per. W. B. Saunders Co., publishers.)
 
 ---
 
@@ -493,7 +493,7 @@ M̄-thang chhui-sǹg me̍h-phok, ho͘-khip, á-sī thé-un.
 
 ![原書插圖 - 第 109 頁 (圖 1)](assets/illustrations/page_109_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 80 tô:—Seng-khu chhiòng-tñg, teh chí-bêng hoâiⁿ-keh-mỏh: 1, heng-chui-kut; 2, heng-khám-lāi ê khang, lāi-bīn ê chōng-khì tû-khì; 3, hoâiⁿ-keh-mỏh; 4, pak-khang, lāi-bīn ê chōng-khì tû-khì (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 80 tô:—Seng-khu chhiòng-tñg, teh chí-bêng hoâiⁿ-keh-mỏh: 1, heng-chui-kut; 2, heng-khám-lāi ê khang, lāi-bīn ê chōng-khì tû-khì; 3, hoâiⁿ-keh-mỏh; 4, pak-khang, lāi-bīn ê chōng-khì tû-khì (Blackie and Son).</em></p>
 
 </div>
 
@@ -502,7 +502,7 @@ M̄-thang chhui-sǹg me̍h-phok, ho͘-khip, á-sī thé-un.
 chiah ū nn̄g ia̍p nā-tiāⁿ, in-ūi tī nn̄g hio̍h hì ê tiong-kan ê sim-chōng sī khah phian tī tò-pêng (tē 79 tô͘).
 
 > **【全漢對照】**
-> （接前頁）這只有兩葉爾定，因為佇兩葉肺的中間的心臟是較偏佇倒爿 (第 79 圖)。
+> （接前頁）這只有兩葉爾定，因為佇兩葉肺的中間的心臟是較偏佇倒爿 （第 79 圖）。
 
 ---
 
@@ -511,8 +511,8 @@ chiah ū nn̄g ia̍p nā-tiāⁿ, in-ūi tī nn̄g hio̍h hì ê tiong-kan ê si
 Siang pêng nn̄g ia̍p hì-thé ê gōa-bīn lóng ū heng-mo̍h (*pleura*) khàm-teh (tē 79 tô͘). Chit ê heng-mo̍h tī heng ê lāi-bīn, ū nn̄g têng sio-óa, chit têng liân tī hia̍p-kut-lāi ê kun-bah kap hoaîⁿ-keh-mo̍h, iā chit têng pau hì-chōng. Chiah ê mo̍h kiò-chòe heng-mo̍h (*pleurae*). Tī chit nn̄g têng ê tiong-kan ū tām-po̍h chhin-chhiūⁿ chúi ê khoán, miâ kiò-chòe heng-mo̍h-e̍k (胸膜液, *pleuritic fluid*) lâi pang-chān hì ho͘-khip, khah iông-īⁿ lâi tín-tāng.
 
 > **【全漢對照】**
-> **[胸膜 / 胸膜液]**
-> 雙爿兩葉肺體的外面攏有胸膜 (*pleura*) 蓋咧 (第 79 圖)。此個胸膜佇胸的內面，有兩層相倚，一層連佇脅骨內的筋肉佮橫膈膜，也一層包肺臟。諸個膜號做胸膜 (*pleurae*)。佇此兩層的中間有淡薄親像水之款，名叫做胸膜液 (胸膜液, *pleuritic fluid*) 來幫贊肺呼吸，較容易來振動。
+> **［胸膜 / 胸膜液］**
+> 雙爿兩葉肺體的外面攏有胸膜 (*pleura*) 蓋咧 （第 79 圖）。此個胸膜佇胸的內面，有兩層相倚，一層連佇脅骨內的筋肉佮橫膈膜，也一層包肺臟。諸個膜號做胸膜 (*pleurae*)。佇此兩層的中間有淡薄親像水之款，名叫做胸膜液 （胸膜液，*pleuritic fluid*） 來幫贊肺呼吸，較容易來振動。
 
 ---
 
@@ -521,7 +521,7 @@ Siang pêng nn̄g ia̍p hì-thé ê gōa-bīn lóng ū heng-mo̍h (*pleura*) kh�
 Hì ê cho͘-chit sī chiàu kì tī ē-tóe: Ta̍k ia̍p ê hì, sī ū chōe-chōe sè ia̍p-ê lâi ha̍p chiâⁿ-ê. Ta̍k ia̍p sè ia̍p ê hì-lāi, ū chi̍t tiâu chin sè ê khì-kńg tī-teh, koh ū hì-pau ê tōng-me̍h, chēng-me̍h, sîn-keng, kap lîm-pa-kńg.
 
 > **【全漢對照】**
-> **[肺組織]**
+> **［肺組織］**
 > 肺的組織是照記佇下底：逐葉的肺，是有多多細葉的來合成的。逐葉細葉的肺內，有一條真細的氣管佇咧，擱有肺胞的動脈、靜脈、神經佮淋巴管。
 
 ---
@@ -531,8 +531,8 @@ Hì ê cho͘-chit sī chiàu kì tī ē-tóe: Ta̍k ia̍p ê hì, sī ū chōe-c
 Sió khì-kńg ji̍p sè ia̍p hì ê sî, chiū hun chòe chōe-chōe tiâu khì, ná pun ná po̍h, po̍h kàu chhin-chhiūⁿ mo̍h ê khoán. Khì-kńg ê bé-liu, sió-khóa khah khoah, ū sè-sè ê phā, chit hō sió phā miâ kiò hì-pau (肺胞, *alveoli*). Chiah ê hì-pau ê piah sī put-chí po̍h, tī lāi-bīn ū liām-mo̍h, chiah kiat-tè-chit kap gōa-bīn ê liām-mo̍h. Tī kiat-tè-chit ê tiong-kan ū m̂g-sè-huih-kńg, chēng-me̍h chhin-chhiūⁿ bāng ê khoán-sit, (tē 81 tô͘).
 
 > **【全漢對照】**
-> **[肺胞]**
-> 小氣管入細葉肺的時，就分做多多條去，若分若薄，薄到親像膜的款。氣管的尾溜，稍可較闊，有細細的胞，此號小胞名叫肺胞 (肺胞, *alveoli*)。諸個肺胞的壁是不止薄，佇內面有粘膜，諸結締質佮外面的粘膜。佇結締質的中間有毛細血管、靜脈親像網的款式 (第 81 圖)。
+> **［肺胞］**
+> 小氣管入細葉肺的時，就分做多多條去，若分若薄，薄到親像膜的款。氣管的尾溜，稍可較闊，有細細的胞，此號小胞名叫肺胞 （肺胞，*alveoli*）。諸個肺胞的壁是不止薄，佇內面有粘膜，諸結締質佮外面的粘膜。佇結締質的中間有毛細血管、靜脈親像網的款式 （第 81 圖）。
 
 ---
 
@@ -541,7 +541,7 @@ Sió khì-kńg ji̍p sè ia̍p hì ê sî, chiū hun chòe chōe-chōe tiâu kh�
 Tē 80 tô͘:—Seng-khu chhiòng-tñg, teh chí-bêng hoaîⁿ-keh-mo̍h: 1, heng-chui-kut; 2, heng-khám-lāi ê khang, lāi-bīn ê chōng-khì tû-khì; 3, hoaîⁿ-keh-mo̍h; 4, pak-khang, lāi-bīn ê chōng-khì tû-khì (Blackie and Son).
 
 > **【全漢對照】**
-> 第 80 圖：——身軀縱斷，咧指明橫膈膜：1, 胸椎骨；2, 胸坎內的空，內面的臟器除去；3, 橫膈膜；4, 腹腔，內面的臟器除去 (Blackie and Son)。
+> 第 80 圖：——身軀縱斷，咧指明橫膈膜：1，胸椎骨；2，胸坎內的空，內面的臟器除去；3，橫膈膜；4，腹腔，內面的臟器除去 (Blackie and Son)。
 
 ---
 
@@ -550,8 +550,8 @@ Tē 80 tô͘:—Seng-khu chhiòng-tñg, teh chí-bêng hoaîⁿ-keh-mo̍h: 1, he
 Lūn ho͘-khip ê hoat-tō͘: Heng-khám kap pak-tó́ ê tiong-ng, ū chi̍t têng mo̍h keh-teh, hō-chòe hoaîⁿ-keh-mo̍h (tē 81 tô͘); sim kap hì tiàm tī i ê
 
 > **【全漢對照】**
-> **[呼吸]**
-> 論呼吸的法度：胸坎佮腹肚的中央，有一層膜隔咧，號做橫膈膜 (第 81 圖)；心佮肺踮佇伊的（接下頁）
+> **［呼吸］**
+> 論呼吸的法度：胸坎佮腹肚的中央，有一層膜隔咧，號做橫膈膜 （第 81 圖）；心佮肺踮佇伊的（接下頁）
 
 <!-- Page 109 End -->
 
@@ -631,7 +631,7 @@ lát khip-ji̍p ia̍h ē khah chōe. Nā beh kìm khuì sī tiap-á-kú nā-tiā
 Ho͘-khip ê lō͘-ēng: Lâng kúi-nā ji̍t bô chia̍h, iáu-kú ē oa̍h, nā-sī poàⁿ khek kú bô ho͘-khip, tek-khak bē oa̍h; mî-ji̍t, khùn á-sī chhíⁿ, chòe-kang á-sī êng-êng chē, ho͘-khip lóng bô tng-chām.
 
 > **【全漢對照】**  
-> **[呼吸的用]**  
+> **［呼吸的用］**  
 > 呼吸的用：人幾若日無食，猶久會活，若是半刻久無呼吸，的確𣍐活；暝日，睏抑是醒，做工抑是閒閒坐，呼吸攏無停塹。
 
 ---
@@ -648,7 +648,7 @@ Tōe-kiû ta̍k só͘-chāi ū khong-khì pau-teh. Lâng ho͘-khip ê sî, i ê 
 > **【全漢對照】**  
 > 地球逐所在有空氣包咧。人呼吸的時，伊的吸氣、呼氣是親像下底：
 > 
-> | 吸氣 | | | | 呼氣 | [吸氣、呼氣] |
+> | 吸氣 | | | | 呼氣 | ［吸氣、呼氣］ |
 > | :--- | :--- | :--- | :--- | :--- | :--- |
 > | $\text{O}_2$，酸素（氧氣） | ... | ... | 2096 | 1600 | |
 > | $\text{N}_2$，窒素（氮氣） | ... | ... | 7900 | 7960 | |
@@ -669,7 +669,7 @@ Chiàu án-ni khoàⁿ, khong-khì chi̍t bān hūn ê tiong-kan, sng-sò͘ ū 2
 Lâng ho͘-khip ū nñg hāng ê lō͘-ēng. Tē it hāng, sng-sò͘ ē tiau-hô hì-lāi m̂g-sòe-khì-kńg-chi-nih, kap hì-pau-piah-lāi ê chēng-me̍h-huih; hit ê huih sek-tī khah o͘, tit-tio̍h sng-sò͘ chiū pìⁿ-chia̍ⁿ chhiah-sek ê huih. Tē jī hāng, chēng-me̍h-huih ê lāi-bīn ū hâm chōe-chōe thòaⁿ-sng, chiū-sī to̍k ê mi̍h; chit ê thòaⁿ-sng tû-khì tuì ho͘-khì ho͘-chhut; só͘ ho͘-chhut ê khì, ia̍h ū hâm sip-khì chōe-chōe. Só͘-í ho͘-chhut ê khì kap só͘ khip-ji̍p ê khì bô sio-tâng. Só͘ khip-ji̍p ê sng-sò͘ ū ēng kúi-nā pah hūn, só͘ ho͘-chhut ê thòaⁿ-sng ū ke-thiⁿ kúi-nā pah hūn.
 
 > **【全漢對照】**  
-> **[血液得著清氣 / 酸素入 / 炭酸出]**  
+> **［血液得著清氣 / 酸素入 / 炭酸出］**  
 > 人呼吸有兩項的用。第一項，酸素會調和肺內微細氣管枝nih，及肺胞壁內的靜脈血；彼個血色緻較烏，得著酸素就變成赤色的血。第二項，靜脈血的內面有含濟濟炭酸，就是毒的物；此個炭酸除去對呼氣呼出；所呼出的氣，亦有含濕氣濟濟。所以呼出的氣及所吸入的氣無相同。所吸入的酸素有用幾若百份，所呼出的炭酸有加添幾若百份。
 
 ---
@@ -684,7 +684,7 @@ Tuì sin-thé ta̍k ūi ù-òe bô chheng-khì ê huih, liû-hêng
 Pe̍h-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119: 163).
 
 > **【全漢對照】**  
-> 白賊話我怨恨閣厭惡，總是有疼你的律法（詩篇 119: 163）。
+> 白賊話我怨恨閣厭惡，總是有疼你的律法（詩篇 119：163）。
 
 <!-- Page 111 End -->
 
@@ -698,7 +698,7 @@ Pe̍h-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu
 
 ![原書插圖 - 第 112 頁 (圖 1)](assets/illustrations/page_112_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 81 tô:—5, Mîg-sòe-huih-kńg pò· tī hì-pau ê piah, khok-tōa ê tô·: Chìⁿ teh chí-bêng huih-sūn-khoân ê hong-hiòng. 1, hì-tōng-me̍h ; 2, 4, hì-pau ; 3, 7, hì-chēng-me̍h. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 81 tô:—5, Mîg-sòe-huih-kńg pò· tī hì-pau ê piah, khok-tōa ê tô·: Chìⁿ teh chí-bêng huih-sūn-khoân ê hong-hiòng. 1, hì-tōng-me̍h ; 2, 4, hì-pau ; 3, 7, hì-chēng-me̍h. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -790,7 +790,7 @@ Thòaⁿ-sng sī to̍k ê khì; khong-khì-tiong nā kiáu chi̍t-pah hūn ê 5 
 
 *Jîn-ài bô khoài siū-khì (I Ko-lîm-to 13 : 5.)*
 > **【全漢對照】**
-> *仁愛無快受氣（哥林多前書 13:5）*
+> *仁愛無快受氣（哥林多前書 13：5）*
 
 <!-- Page 113 End -->
 

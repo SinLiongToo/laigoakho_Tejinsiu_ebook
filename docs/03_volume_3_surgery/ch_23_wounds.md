@@ -15,7 +15,7 @@
 Tī chit chiuⁿ ê lāi-bīn beh kóng-khí bô-tiuⁿ-tî tú-tio̍h ê siong, í-ki̍p i-seng chhiú-su̍t ê siong. Lâng nā poa̍h-tó, á-sī hō͘ lâng phah-tio̍h, hit ê siū-siong ê só͘-chāi, nā phê-hu bô phòa, kiò-chòe chhò-siong (挫傷, *contusion*). Tī phê-ē ê kiat-tè-chit-lāi ū mn̂g-sòe-huih-kńg, chiah-ê ōe chhoah-tnḡ, chhut tām-po̍h huih tī phê-ē. Chit ê huih nā khah chōe kiò-chòe huih-chéng (血腫, *haematoma*). Nā-sī khah chió, hit ê phê ê sek-tī tāi-seng sī o͘, kàu chiah-khún-sòe-pau khip-siu tī huih-nih, hit ê sek chiū pìⁿ-chiâⁿ n̂g; koh bô kú ōe chiàu-goân. Chit-ê kiò-chòe phê-ē-ek-huih (皮下溢血, *echymosis*).
 
 > **【全漢對照】**
-> **[挫傷]**
+> **［挫傷］**
 > 佇此章的內面欲提起無張遲抵著的傷，以及醫生手術的傷。人若跋倒，抑是互人拍著，彼個受傷的所在，若皮膚無破，號做挫傷（挫傷，*contusion*）。佇皮下的結締質內有毛細血管，諸個會掣斷，出淡薄血佇皮下。此個血若較濟號做血腫（血腫，*haematoma*）。若是較少，彼個皮的色緻代先是烏，到赤菌細胞吸收佇血裡，彼個色就變成黃；閣無久會照原。此個號做皮下溢血（皮下溢血，*echymosis*）。
 
 ---
@@ -24,7 +24,7 @@ Tī chit chiuⁿ ê lāi-bīn beh kóng-khí bô-tiuⁿ-tî tú-tio̍h ê siong,
 Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 
 > **【全漢對照】**
-> **[創傷]**
+> **［創傷］**
 > 創傷（創傷，*wounds*）較常分做四款：
 
 ---
@@ -33,7 +33,7 @@ Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 1. Tē it sī koah-siong (*incised wounds*). Hit ê siong kap to koah-tio̍h-ê sio-chhin-chhiūⁿ, chiū-sī hit hō chhiú-su̍t-ê. Siong-chhùi chôe-cháⁿ, khui-khui, gâu chhut-huih.
 
 > **【全漢對照】**
-> **[割傷]**
+> **［割傷］**
 > 1. 第一是割傷（*incised wounds*）。彼個傷佮刀割著的相親像，就是彼號手術的。傷喙齊整，開開，𠢕出血。
 
 ---
@@ -42,7 +42,7 @@ Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 2. Tē jī chiū-sī chhò-lih-siong (挫裂傷, *lacerated wounds*). Siong-chhùi lóng bô chôe-cháⁿ, chhin-chhiūⁿ hit hō hō͘ ki-khì phah-tio̍h, á-sī teh-tio̍h, hit khoán. Phê-hu kap tī piⁿ-á ê cho͘-chit siū-tio̍h siong, tāi-khài hoat-iām iā sī khah tāng. Bô sím-mi̍h chhut-huih, in-ūi huih-kńg sī chhoah-tnḡ, m̄-sī koah-tnḡ, só͘-í huih-kńg ê lāi-bīn-mo̍h ōe kiu-khì, huih chiū khah bô lâu chhut phê-gōa, m̄-kú chin chōe huih lâu-ji̍p kiat-tè-chit ê lāi-bīn.
 
 > **【全漢對照】**
-> **[挫裂傷]**
+> **［挫裂傷］**
 > 2. 第二就是挫裂傷（挫裂傷，*lacerated wounds*）。傷喙攏無齊整，親像彼號互機器拍著，抑是壓著，彼款。皮膚佮佇邊仔的組織受著傷，大概發炎也是較重。無甚物出血，因為血管是掣斷，毋是割斷，所以血管的內面膜會縮去，血就較無流出皮外，毋過真濟血流入結締質的內面。
 
 ---
@@ -51,7 +51,7 @@ Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 3. Tē saⁿ sī táⁿ-phah-siong (打撲傷, *contused wounds*). Siū-siong ê só͘-chāi, m̄-nā phòa-lih, hit sì-piⁿ iā lóng siū-
 
 > **【全漢對照】**
-> **[打撲傷]**
+> **［打撲傷］**
 > 3. 第三是打撲傷（打撲傷，*contused wounds*）。受傷的所在，毋但破裂，彼四邊也攏受——
 
 <!-- Page 335 End -->
@@ -75,7 +75,7 @@ siong, chiū-sī hit hō͘ chhin-chhiūⁿ hō͘ tāng ê mi̍h phah-tio̍h-sion
 4. Tē sì sī chhì-siong (刺傷, *punctured wounds*). Chiū-sī ēng to-chhiuⁿ chha̍k-tio̍h siong hit hō͘. Hit ê siong ū-sî chin chhim, ē hō͘ hit ê lâng lāi-bīn ê só͘-chāi chhut-huih. Chit khoán-ê, ū-sî put-chí gûi-hiám, in-ūi ē siong-tio̍h khah chhim ê huih-kńg, sîn-keng, á-sī chōng-khì.
 
 > **【全漢對照】**
-> 4. 第四是刺傷 (刺傷, *punctured wounds*)。就是用刀槍鏨著傷彼號。彼ê傷有時真深，會互彼ê人內面的所在出血。這款ê，有時不止危險，因為會傷著較深的血管、神經，抑是臟器。
+> 4. 第四是刺傷 （刺傷，*punctured wounds*）。就是用刀槍鏨著傷彼號。彼ê傷有時真深，會互彼ê人內面的所在出血。這款ê，有時不止危險，因為會傷著較深的血管、神經，抑是臟器。
 
 ---
 
@@ -120,7 +120,7 @@ Tē-it-kî-lú-ha̍p : I-seng tak-ê só͘ ài, chiū-sī chhiú-su̍t ê siong 
 Góa siat-sú ē kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa chiū chiâⁿ-chòe hiáng ê tâng-khì, tân ê lâ-poah (I Ko-lîm-to 13: 1).
 
 > **【全漢對照】**
-> 我設使會講人佮天使的音語，若無仁愛，我就成做響的銅器、震的喇叭（I 哥林多 13: 1）。
+> 我設使會講人佮天使的音語，若無仁愛，我就成做響的銅器、震的喇叭（I 哥林多 13：1）。
 
 <!-- Page 336 End -->
 
@@ -134,7 +134,7 @@ Góa siat-sú ē kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa c
 
 ![原書插圖 - 第 337 頁 (圖 1)](assets/illustrations/page_337_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></p>
 
 </div>
 
@@ -158,7 +158,7 @@ Taⁿ beh kán-séng pâi-lia̍t siong ka-kī chū-jiân ê tī-liâu-hoat, chi�
 > 3. 白血球佮血漿滲出到傷的邊仔佮血塊的邊仔（第 191 圖）。  
 > 4. 白血球的中間的食菌細胞咧食血塊佮死的組織。  
 > 5. 結締質佮血管的黏膜有出結締質新生細胞（*fibroblasts*）。  
-> 6. 傷喙的邊仔有毛細血管。對諸個會生細細的紅粒遍散佇肉的頂面，此號紅粒入佇彼個結締質，新的細胞成做肉芽組織（肉芽組織, *granulation tissue*）。此個肉芽組織漸漸大起來，到傷喙直直填起來抑是連合。
+> 6. 傷喙的邊仔有毛細血管。對諸個會生細細的紅粒遍散佇肉的頂面，此號紅粒入佇彼個結締質，新的細胞成做肉芽組織（肉芽組織，*granulation tissue*）。此個肉芽組織漸漸大起來，到傷喙直直填起來抑是連合。
 
 ---
 
@@ -297,7 +297,7 @@ Sóe siong-chhùi khah-siông ēng ê siau-to̍k-io̍h-chúi chhin-chhiūⁿ ē-
 Lūn gōa-kho chhiú-su̍t ê siong-chhùi, ē-bīn só͘ kì-ê tio̍h tì-ì. Gōa-kho siong-chhùi, nā lóng chheng-khì ê chhiú-su̍t, thang ēng sòaⁿ thīⁿ hō͘ ba̍t, m̄-kú nā bô chheng-khì, m̄-thang thīⁿ ba̍t-ba̍t, sī in-ūi ū bî-seng-bu̍t tī hit lāi-bīn teh oa̍h, lâi tì-kàu hòa-lâng. Chiah ê bî-seng-bu̍t khah chōe chi̍t pòaⁿ sī phû-tô-chōng-kiû-khún (葡萄狀球菌), kap liân-só-chōng-kiû-khún (連鎖狀球菌). Bî-seng-bu̍t ū-ê tī huih-nih, ū-ê tùi khong-khì ê tiong-kan thoân-jiám ji̍p tī pau bô ba̍t ê siong-chhùi, á-sī tùi i-seng chō͘-chhiú ê chhiú, kap ke-si, iā ōe ji̍p-khì. Huih ê tiong-kan khah chió bî-seng-bu̍t, khong-khì nā tiām-tiām, á-sī tī gōa-bīn, iā chió-chió ū hit hō. Án-ni thang chai siong-chhùi í-
 
 > **【全漢對照】**
-> 論外科手術的傷喙，下面所記的著致意。外科傷喙，若攏清潔的手術，通用線縫予密，毋拘若無清潔，毋通縫密密，是因為有微生物佇彼內面咧活，來致到化膿。諸個微生物較濟一半是葡萄狀球菌 (葡萄狀球菌)，佮連鎖狀球菌 (連鎖狀球菌)。微生物有的佇血裡，有的對空氣的中間傳染入佇包無密的傷喙，抑是對醫生助手的手，佮器具，亦會入去。血的中間較少微生物，空氣若恬恬，抑是佇外面，亦少少有彼號。按呢通知傷喙以-
+> 論外科手術的傷喙，下面所記的著致意。外科傷喙，若攏清潔的手術，通用線縫予密，毋拘若無清潔，毋通縫密密，是因為有微生物佇彼內面咧活，來致到化膿。諸個微生物較濟一半是葡萄狀球菌 （葡萄狀球菌），佮連鎖狀球菌 （連鎖狀球菌）。微生物有的佇血裡，有的對空氣的中間傳染入佇包無密的傷喙，抑是對醫生助手的手，佮器具，亦會入去。血的中間較少微生物，空氣若恬恬，抑是佇外面，亦少少有彼號。按呢通知傷喙以-
 
 <!-- Page 339 End -->
 

@@ -56,7 +56,7 @@ Kut sī nñg hō ê chit lâi ha̍p chiâⁿ-ê, chi̍t hō sī iú-ki-sêng-hun
 Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng chìn-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4: 25).
 
 > **【全漢對照】**
-> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4: 25）。
+> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4：25）。
 
 <!-- Page 023 End -->
 
@@ -70,11 +70,11 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 
 ![原書插圖 - 第 24 頁 (圖 1)](assets/illustrations/page_024_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 3 tô̇.—Ēng kut phah-kat. (Raymond, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders, Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 3 tô̇.—Ēng kut phah-kat. (Raymond, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders, Co., publishers.)</em></p>
 
 ![原書插圖 - 第 24 頁 (圖 2)](assets/illustrations/page_024_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 4 tô̇. — Tnĝ-kut ê chhiòng-tn̄g-bīn : tuì 1, kàu gōa-bīn pîⁿ sī kian-kò͘-chit ; 2, lāi-bīn hái-mî-chit.</em></p>
+<p class="figure-caption"><em>Tē 4 tô̇. — Tnĝ-kut ê chhiòng-tn̄g-bīn : tuì 1, kàu gōa-bīn pîⁿ sī kian-kò͘-chit ; 2, lāi-bīn hái-mî-chit.</em></p>
 
 </div>
 
@@ -164,7 +164,7 @@ I-seng mn̄g pīⁿ-lâng ê sū, nā m̄-chai, tio̍h kóng m̄-chai, m̄-thang
 
 ![原書插圖 - 第 25 頁 (圖 1)](assets/illustrations/page_025_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 5 tô.--A. Tng-kut ê chhiòng-tng-bīn, 100 pē khok-tōa; abcde, Havers ê sió-kńg; f kut-sòe-pau-chit, kut-sòe-pau tiong-ng ê khang-khiah. B. Tng-kut ê hoâiⁿ-tng-bīn, 100 pē khok-tōa; a b Havers ê sió-kńg; c, kut sòe-pau tiong-ng ê kńg; de, sòe-pau tiong-kan ê chit. (From "The Household Physician," Blackie & Son, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 5 tô.--A. Tng-kut ê chhiòng-tng-bīn, 100 pē khok-tōa; abcde, Havers ê sió-kńg; f kut-sòe-pau-chit, kut-sòe-pau tiong-ng ê khang-khiah. B. Tng-kut ê hoâiⁿ-tng-bīn, 100 pē khok-tōa; a b Havers ê sió-kńg; c, kut sòe-pau tiong-ng ê kńg; de, sòe-pau tiong-kan ê chit. (From "The Household Physician," Blackie & Son, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -179,7 +179,7 @@ khóan, gōa-bīn-ê sī kian-kò͘-chit (硬固質, *compact tissue*), lāi-bī
 
 > **【全漢對照】**
 > 款，外面的是硬固質（硬固質，*compact tissue*），內面的是海綿質（海綿質，*spongy tissue*）（第 4 圖）。中間亦有多多穿叫做出 *Havers* 氏的小管，才互血會循環來養飼骨（第 5 圖）。
-> *(邊註：海綿質)*
+> *（邊註：海綿質）*
 
 ---
 
@@ -190,7 +190,7 @@ khóan, gōa-bīn-ê sī kian-kò͘-chit (硬固質, *compact tissue*), lāi-bī
 
 > **【全漢對照】**
 > 3. 長骨的中央有一個孔叫做出骨髓腔（骨髓腔）。此個孔照骨的長短、大小。彼個孔有貯骨髓（*medulla*；第 6 圖），就是黃色及赤色的兩種；佇內面有血管、淋巴管（淋巴管，*lymphatics*）、神經（神經，*nerves*）佇咧，咧營養骨。
-> *(邊註：骨髓腔)*
+> *（邊註：骨髓腔）*
 
 ---
 
@@ -201,7 +201,7 @@ B. Tn̂g-kut ê hoâiⁿ-tñg-bīn, 100 pē khok-tōa; a b Havers ê sió-kńg; 
 
 > **【全漢對照】**
 > **第 5 圖。**——A. 長骨的縱斷面，100 倍擴大；abcde, Havers 的小管；f 骨細胞質，骨細胞中央的空隙。  
-> B. 長骨的橫斷面，100 倍擴大；a b Havers 的小管；c, 骨細胞中央的管；de, 細胞中間的質。（From "The Household Physician," Blackie & Son, Ltd., publishers.）
+> B. 長骨的橫斷面，100 倍擴大；a b Havers 的小管；c，骨細胞中央的管；de，細胞中間的質。（From "The Household Physician," Blackie & Son, Ltd., publishers.）
 
 ---
 
@@ -212,7 +212,7 @@ B. Tn̂g-kut ê hoâiⁿ-tñg-bīn, 100 pē khok-tōa; a b Havers ê sió-kńg; 
 
 > **【全漢對照】**
 > 4. 骨關節的所在有軟骨（軟骨，*cartilage*）包咧（第 26 圖）。
-> *(邊註：軟骨)*
+> *（邊註：軟骨）*
 
 ---
 
@@ -223,7 +223,7 @@ B. Tn̂g-kut ê hoâiⁿ-tñg-bīn, 100 pē khok-tōa; a b Havers ê sió-kńg; 
 
 > **【全漢對照】**
 > 5. 骨有靱帶（靱帶，*ligaments*）來相連咧，亦有筋肉（肌肉）來連通保護骨，及做運動的路用。
-> *(邊註：靱帶)*
+> *（邊註：靱帶）*
 
 ---
 
@@ -234,7 +234,7 @@ Kut ê lō͘-ēng ū kúi-nā khóan, só͘-í kut gōa-bīn ê hêng-chōng m̄
 
 > **【全漢對照】**
 > 骨的路用有幾若款，所以骨外面的形狀伓是一款，概共分做四種，——長、短、扁、無齊的。
-> *(邊註：骨的外形)*
+> *（邊註：骨的外形）*
 
 ---
 
@@ -245,7 +245,7 @@ Kut ê lō͘-ēng ū kúi-nā khóan, só͘-í kut gōa-bīn ê hêng-chōng m̄
 
 > **【全漢對照】**
 > 1. 長骨的款式有上端（上端，*upper extremity*）、下端，及中央有一個體。長骨
-> *(邊註：長骨)*
+> *（邊註：長骨）*
 
 ---
 
@@ -254,7 +254,7 @@ Kut ê lō͘-ēng ū kúi-nā khóan, só͘-í kut gōa-bīn ê hêng-chōng m̄
 Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6: 16-17).
 
 > **【全漢對照】**
-> 上帝怨恨驕傲的，及嘴講奸詐的（箴言 6: 16-17）。
+> 上帝怨恨驕傲的，及嘴講奸詐的（箴言 6：16-17）。
 
 <!-- Page 025 End -->
 
@@ -343,7 +343,7 @@ Lán lâng tòa tī sè-kan, m̄-sī in-ūi beh chhit-thô, ná chhin-chhiūⁿ 
 
 ![原書插圖 - 第 27 頁 (圖 1)](assets/illustrations/page_027_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 7 tô:—Kut-keh tô: 1, chêng-thâu-kut ; 2, lō-téng-kut ; 3, jiap-su-kut ; 4, siōng-gók-kut ; 5, hā-gók-kut ; 6, bák-chiu-o ; 7, phīⁿ-khang-o ; 8, kēng-chui-kut ; 9, só-kut ; 10, tē it hiáp-kut ; 11, heng-kut ; 12, keng-kah-kut ; 13, siōng-phok-kut ; 14, jiâu-kut ; 15,chhioh-kut ; 16, chhiú-oáⁿ-kut ; 17, chhiú-chiúⁿ-kut ; 18, chhiú-cháiⁿ-kut ; 19, tē 12 hiáp-kut ; 20, thng-kut ; 21, io-chui-kut ; 22, chiàn-kut ; 23, thí-kut ; 24, chō-kut ; 25, tōa-thúi-kut ; 26, chhek-kài-kut ; 27, hûi-kut ; 28, kēng-kut ; 29, hū-kut ; 30, chek-kut ; 31, chí-kut ; PLEVIS, kut-poâⁿ. (From Lewis' "Anatomy and Physiology for Nurses," by per. W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 7 tô:—Kut-keh tô: 1, chêng-thâu-kut ; 2, lō-téng-kut ; 3, jiap-su-kut ; 4, siōng-gók-kut ; 5, hā-gók-kut ; 6, bák-chiu-o ; 7, phīⁿ-khang-o ; 8, kēng-chui-kut ; 9, só-kut ; 10, tē it hiáp-kut ; 11, heng-kut ; 12, keng-kah-kut ; 13, siōng-phok-kut ; 14, jiâu-kut ; 15,chhioh-kut ; 16, chhiú-oáⁿ-kut ; 17, chhiú-chiúⁿ-kut ; 18, chhiú-cháiⁿ-kut ; 19, tē 12 hiáp-kut ; 20, thng-kut ; 21, io-chui-kut ; 22, chiàn-kut ; 23, thí-kut ; 24, chō-kut ; 25, tōa-thúi-kut ; 26, chhek-kài-kut ; 27, hûi-kut ; 28, kēng-kut ; 29, hū-kut ; 30, chek-kut ; 31, chí-kut ; PLEVIS, kut-poâⁿ. (From Lewis' "Anatomy and Physiology for Nurses," by per. W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -358,7 +358,7 @@ Tē 7 tô͘:—Kut-keh tô͘: 1, chêng-thâu-kut; 2, lô͘-téng-kut; 3, jiap-s
 > 
 > 11
 > 
-> 第 7 圖：—骨格圖：1, 前頭骨；2, 顱頂骨；3, 鑷子骨（顳骨）；4, 上顎骨；5, 下顎骨；6, 目睭窠（眼窩）；7, 鼻孔窠（鼻腔）；8, 頸椎骨；9, 鎖骨；10, 第一肋骨；11, 胸骨；12, 肩胛骨；13, 上膊骨；14, 橈骨；15,尺骨；16, 手腕骨；17, 手掌骨；18, 手指骨；19, 第 12 肋骨；20, 腸骨（髂骨）；21, 腰椎骨；22, 薦骨；23, 恥骨；24, 坐骨；25, 大腿骨；26, 膝蓋骨；27, 腓骨；28, 脛骨；29, 跗骨；30, 蹠骨；31, 趾骨；PLEVIS，骨盤。(From Lewis’ “Anatomy and Physiology for Nurses,” by per. W. B. Saunders Co., publishers.)
+> 第 7 圖：—骨格圖：1，前頭骨；2，顱頂骨；3，鑷子骨（顳骨）；4，上顎骨；5，下顎骨；6，目睭窠（眼窩）；7，鼻孔窠（鼻腔）；8，頸椎骨；9，鎖骨；10，第一肋骨；11，胸骨；12，肩胛骨；13，上膊骨；14，橈骨；15，尺骨；16，手腕骨；17，手掌骨；18，手指骨；19，第 12 肋骨；20，腸骨（髂骨）；21，腰椎骨；22，薦骨；23，恥骨；24，坐骨；25，大腿骨；26，膝蓋骨；27，腓骨；28，脛骨；29，跗骨；30，蹠骨；31，趾骨；PLEVIS，骨盤。(From Lewis’ “Anatomy and Physiology for Nurses,” by per. W. B. Saunders Co., publishers.)
 
 ---
 
@@ -379,7 +379,7 @@ Nā tio̍h oaⁿ pau-siong-liâu chi̍t ji̍t nn̄g pái, m̄-thang phah-sǹg ch
 Chek-chui-kut (脊椎骨), [chiàn-kut (薦骨) kap bí-lû-kut (尾閭骨)] sǹg chāi-lāi. (*The vertebral column with sacrum and coccyx*) 26
 
 > **【全漢對照】**
-> 脊椎骨（脊椎骨），[薦骨（薦骨）佮尾閭骨（尾閭骨）] 算在內。 (*The vertebral column with sacrum and coccyx*) 26
+> 脊椎骨（脊椎骨），［薦骨（薦骨）佮尾閭骨（尾閭骨）］ 算在內。 (*The vertebral column with sacrum and coccyx*) 26
 
 ---
 
@@ -404,25 +404,25 @@ Thâu-kòa 22 tè kut (頭蓋, *Skull*)：
   * Hā-go̍k-kut (下顎骨, *Inferior maxilla*) 1
 
 > **【全漢對照】**
-> 頭蓋 22 塊骨（頭蓋, *Skull*）：
+> 頭蓋 22 塊骨（頭蓋，*Skull*）：
 > 
-> * **腦頭蓋（腦頭蓋, *Cranium*）8 塊骨**
->   * 後頭骨（後頭骨, *Occipital*）1
->   * 顱頂骨（顱頂骨, *Parietal*）2
->   * 前頭骨（前頭骨, *Frontal*）1
->   * 顳顬骨（顳顬骨, *Temporal*）2
->   * 蝴蝶骨（蝴蝶骨, *Sphenoid*）1
->   * 篩骨（篩骨, *Ethmoid*）1
+> * **腦頭蓋（腦頭蓋，*Cranium*）8 塊骨**
+>   * 後頭骨（後頭骨，*Occipital*）1
+>   * 顱頂骨（顱頂骨，*Parietal*）2
+>   * 前頭骨（前頭骨，*Frontal*）1
+>   * 顳顬骨（顳顬骨，*Temporal*）2
+>   * 蝴蝶骨（蝴蝶骨，*Sphenoid*）1
+>   * 篩骨（篩骨，*Ethmoid*）1
 > 
-> * **顏面頭蓋（顏面頭蓋, *Face*）14 塊骨**
->   * 鼻骨（鼻骨, *Nasal*）2
->   * 上顎骨（上顎骨, *Superior maxilla*）2
->   * 淚骨（淚骨, *Lachrymal*）2
->   * 顴骨（顴骨, *Malar*）2
->   * 喙蓋骨（口蓋骨, *Palate*）2
->   * 下甲介骨（下甲介骨, *Inferior turbinated*）2
->   * 鋤骨（鋤骨, *Vomer*）1
->   * 下顎骨（下顎骨, *Inferior maxilla*）1
+> * **顏面頭蓋（顏面頭蓋，*Face*）14 塊骨**
+>   * 鼻骨（鼻骨，*Nasal*）2
+>   * 上顎骨（上顎骨，*Superior maxilla*）2
+>   * 淚骨（淚骨，*Lachrymal*）2
+>   * 顴骨（顴骨，*Malar*）2
+>   * 喙蓋骨（口蓋骨，*Palate*）2
+>   * 下甲介骨（下甲介骨，*Inferior turbinated*）2
+>   * 鋤骨（鋤骨，*Vomer*）1
+>   * 下顎骨（下顎骨，*Inferior maxilla*）1
 
 ---
 
@@ -431,9 +431,9 @@ Heng-kut (胸骨, *Sternum*) 1
 Hia̍p-kut (肋骨, *Ribs*) 24  
 
 > **【全漢對照】**
-> 舌骨（舌骨, *Hyoid*）1  
-> 胸骨（胸骨, *Sternum*）1  
-> 脅骨（肋骨, *Ribs*）24  
+> 舌骨（舌骨，*Hyoid*）1  
+> 胸骨（胸骨，*Sternum*）1  
+> 脅骨（肋骨，*Ribs*）24  
 
 ---
 
@@ -448,15 +448,15 @@ Siōng-chi-kut (上肢骨, *Upper extremity*) lióng pêng sǹg 64 tè kut：
 * Chhiú-cháiⁿ-kut (手指骨, *Phalanges*) 28
 
 > **【全漢對照】**
-> 上肢骨（上肢骨, *Upper extremity*）兩旁算 64 塊骨：
-> * 鎖骨（鎖骨, *Clavicle*）2
-> * 肩胛骨（肩胛骨, *Scapula*）2
-> * 上膊骨（上膊骨, *Humerus*）2
-> * 橈骨（橈骨, *Radius*）2
-> * 尺骨（尺骨, *Ulna*）2
-> * 手腕骨（手腕骨, *Carpus*）16
-> * 手掌骨（手掌骨, *Metacarpus*）10
-> * 手指骨（手指骨, *Phalanges*）28
+> 上肢骨（上肢骨，*Upper extremity*）兩旁算 64 塊骨：
+> * 鎖骨（鎖骨，*Clavicle*）2
+> * 肩胛骨（肩胛骨，*Scapula*）2
+> * 上膊骨（上膊骨，*Humerus*）2
+> * 橈骨（橈骨，*Radius*）2
+> * 尺骨（尺骨，*Ulna*）2
+> * 手腕骨（手腕骨，*Carpus*）16
+> * 手掌骨（手掌骨，*Metacarpus*）10
+> * 手指骨（手指骨，*Phalanges*）28
 
 <!-- Page 028 End -->
 
@@ -546,7 +546,7 @@ Pīⁿ-lâng nā teh khùn, i-seng rā bô hoan-hù, m̄-thang kiò i chhíⁿ, 
 
 ![原書插圖 - 第 30 頁 (圖 1)](assets/illustrations/page_030_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 8 tô.—Chek-thiāu tùi āu-bīn khòaⁿ tit-tit : 1, kēng-chui-kut; 2, heng-chui-kut; 3, io-chui-kut; 4, chiàn-kut; 5, bí-lû-kut. (From Cunning-ham's "Anatomy," Henry Frowde Hodder & Stoughton, publishers.)</em></p>
+<p class="figure-caption"><em>Tē 8 tô.—Chek-thiāu tùi āu-bīn khòaⁿ tit-tit : 1, kēng-chui-kut; 2, heng-chui-kut; 3, io-chui-kut; 4, chiàn-kut; 5, bí-lû-kut. (From Cunning-ham's "Anatomy," Henry Frowde Hodder & Stoughton, publishers.)</em></p>
 
 </div>
 
@@ -558,7 +558,7 @@ Pīⁿ-lâng nā teh khùn, i-seng rā bô hoan-hù, m̄-thang kiò i chhíⁿ, 
 koh jūn, khah chhin-chhiūⁿ kun ê khoán-sit. I ê lō͘-ēng sī hō͘ kut tú kut khah bōe sio kháp, iā khah bōe chhe̍k-tio̍h náu-chhé (tē 9 tô͘). Chui-kut ū chiah chē ê lí-khì, sī hō͘ seng-khu thang ut-khiau chhun-ti̍t, khi lâi khi khì. Chek-chui-kut koh sī chhin-chhiūⁿ thiāu hō͘ seng-khu ōe thêng sin. Chui-kut ê tiong-ng ū khang chhin-chhiūⁿ kńg, kńg ê lāi-bīn ū chi̍t tiâu chek-chhé thàu tī náu (tē 10 tô͘).
 
 > **【全漢對照】**  
-> [圖左標示：第一頸椎骨]  
+> ［圖左標示：第一頸椎骨］  
 > 閣韌，較親像筋的款式。伊的路用是互骨抵骨較袂相嗑，也較袂磧著腦髓（第 9 圖）。椎骨有遮多的理氣，是互身軀通鬱曲伸直，去來去氣。脊椎骨閣是親像柱互身軀會挺身。椎骨的中央有孔親像管，管的內面有一條脊髓透佇腦（第 10 圖）。
 
 ---
@@ -575,7 +575,7 @@ Thâu-kòa kap chek-chui-kut kau-chiap ê só͘-chāi ū n̄g tè kut, téng-bī
 Tē 8 tô͘.—Chek-thiāu tùi āu-bīn khòaⁿ ti̍t-ti̍t: 1, kēng-chui-kut; 2, heng-chui-kut; 3, io-chui-kut; 4, chiàn-kut; 5, bí-lû-kut. (From Cunningham's “Anatomy,” Henry Frowde Hodder & Stoughton, publishers.)
 
 > **【全漢對照】**  
-> 第 8 圖。—脊柱對後面看直直：1, 頸椎骨；2, 胸椎骨；3, 腰椎骨；4, 薦骨；5, 尾閭骨。（取材自康寧漢《解剖學》，亨利·弗羅德與霍德與斯托頓出版商。）
+> 第 8 圖。—脊柱對後面看直直：1，頸椎骨；2，胸椎骨；3，腰椎骨；4，薦骨；5，尾閭骨。（取材自康寧漢《解剖學》，亨利·弗羅德與霍德與斯托頓出版商。）
 
 <!-- Page 030 End -->
 
@@ -589,11 +589,11 @@ Tē 8 tô͘.—Chek-thiāu tùi āu-bīn khòaⁿ ti̍t-ti̍t: 1, kēng-chui-kut
 
 ![原書插圖 - 第 31 頁 (圖 1)](assets/illustrations/page_031_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 9 tô.—Kēng-chui-kut chhiat-tūg-bīn, tùi tò-pêng kàu chiàⁿ-pêng, khiā-ti̍t chhiat-lo̍h-khì kā i khòaⁿ: 1, hoâiⁿ-tút-khí; 2, chui-kut-thé; 3, koan-chat-tút-khí tiong-ng ê koan-chat; 4, chui-kan-nńg-kut; 5, lông-chōng-jīm-tài; 6, chui-kut-thé tiong-kan ê koan-chat (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 9 tô.—Kēng-chui-kut chhiat-tūg-bīn, tùi tò-pêng kàu chiàⁿ-pêng, khiā-ti̍t chhiat-lo̍h-khì kā i khòaⁿ: 1, hoâiⁿ-tút-khí; 2, chui-kut-thé; 3, koan-chat-tút-khí tiong-ng ê koan-chat; 4, chui-kan-nńg-kut; 5, lông-chōng-jīm-tài; 6, chui-kut-thé tiong-kan ê koan-chat (Cunningham).</em></p>
 
 ![原書插圖 - 第 31 頁 (圖 2)](assets/illustrations/page_031_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 10 tô.—1. Heng-chui-kut: a, chui-kut-thé; b, c, chui-kut-keng; d, chhì-chōng-tút-khí; e, hoâiⁿ-tút-khí; f, hoâiⁿ-tút-khí-o, chiū-sī hia̍p-kut-o; g, koan-chat-o; h, chui-khang (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 10 tô.—1. Heng-chui-kut: a, chui-kut-thé; b, c, chui-kut-keng; d, chhì-chōng-tút-khí; e, hoâiⁿ-tút-khí; f, hoâiⁿ-tút-khí-o, chiū-sī hia̍p-kut-o; g, koan-chat-o; h, chui-khang (Blackie and Son).</em></p>
 
 </div>
 
@@ -676,11 +676,11 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hē-teh.
 
 ![原書插圖 - 第 32 頁 (圖 1)](assets/illustrations/page_032_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 11 tô.—2. Tē it kēng-chui-kut téng-bīn pêng : a, chêng-keng ; e, aū-koan-chat-o, chit-ê sī kap tē 2 kēng-chui-kut ê khí-chōng-tút-khí lâi chòe koan-chat ; f, hoâin-tút-khí-khang ; g, siōng-koan-chat-o ; k, chí-bēng hoâin-jīm-tài, liân ê só͘-chāi ; l, chui-khang (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 11 tô.—2. Tē it kēng-chui-kut téng-bīn pêng : a, chêng-keng ; e, aū-koan-chat-o, chit-ê sī kap tē 2 kēng-chui-kut ê khí-chōng-tút-khí lâi chòe koan-chat ; f, hoâin-tút-khí-khang ; g, siōng-koan-chat-o ; k, chí-bēng hoâin-jīm-tài, liân ê só͘-chāi ; l, chui-khang (Blackie and Son).</em></p>
 
 ![原書插圖 - 第 32 頁 (圖 2)](assets/illustrations/page_032_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 12 tô.—3. Tē jī kēng-chui-kut thâu-chêng bīn : c, b, e, khí-chōng-tút-khí ê thâu, tiong kap bé ; d, chêng-koan-chat-o, sī kap tē it kēng-chui-kut aū-koan-chat-o lâi chòe koan-chat ; g, siōng hā koan-chat-o (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 12 tô.—3. Tē jī kēng-chui-kut thâu-chêng bīn : c, b, e, khí-chōng-tút-khí ê thâu, tiong kap bé ; d, chêng-koan-chat-o, sī kap tē it kēng-chui-kut aū-koan-chat-o lâi chòe koan-chat ; g, siōng hā koan-chat-o (Blackie and Son).</em></p>
 
 </div>
 
@@ -708,7 +708,7 @@ Tē sì . . . . . nah-ji̍p-khì.
 Ta̍k tè ê chui-kut ê chek-chhé-khang ê nñg pêng-piⁿ ū khang, kiò-chòe chui-kan-khóng (椎間孔, *intervertebral foramen*); chek-chhé-sîn-keng (*spinal nerves*) tùi chiah ê khang kè-lâi pò͘ tī seng-khu ta̍k só͘-chāi. Tī chek-chui-kut ê gōa-bīn ū kun-bah tah-liân-teh, lâi pó-hō͘ kut, hō͘ i bōe oa̍t tùi chó-iū oai-chhiâ-khì. Chiah ê kun-bah nā bô la̍t, hit ê lâng ê keng-kah-kut kap hia̍p-kut ōe oai-chhiâ.
 
 > **【全漢對照】**
-> **[椎間孔]**
+> **［椎間孔］**
 > 逐塊的椎骨的脊髓孔的兩旁邊有孔，叫做椎間孔（椎間孔，*intervertebral foramen*）；脊髓神經（*spinal nerves*）對諸個孔過來布佇身軀逐所在。佇脊椎骨的外面有筋肉貼連咧，來保護骨，互伊𣍐越對左右歪斜去。諸個筋肉若無力，彼個人的肩胛骨佮脅骨會歪斜。
 
 ---
@@ -717,7 +717,7 @@ Ta̍k tè ê chui-kut ê chek-chhé-khang ê nñg pêng-piⁿ ū khang, kiò-ch�
 Tē 11 tô͘.—2. Tē it kēng-chui-kut téng-bīn pêng: a, chêng-keng; e, āu-koan-chat-o, chit-ê sī kap tē 2 kēng-chui-kut ê khí-chōng-tu̍t-khí lâi chòe koan-chat; f, hoâiⁿ-tu̍t-khí-khang; g, siōng-koan-chat-o; k, chí-bêng hoâiⁿ-jīm-tài, liân ê só͘-chāi; l, chui-khang (Blackie and Son).
 
 > **【全漢對照】**
-> 第 11 圖。—2. 第一頸椎骨頂面平：a, 前弓；e, 後關節窩，這個是佮第 2 頸椎骨的齒狀突起來做關節；f, 橫突起孔；g, 上關節窩；k, 指明橫韌帶，連的所在；l, 椎孔 (Blackie and Son)。
+> 第 11 圖。—2. 第一頸椎骨頂面平：a，前弓；e，後關節窩，這個是佮第 2 頸椎骨的齒狀突起來做關節；f，橫突起孔；g，上關節窩；k，指明橫韌帶，連的所在；l，椎孔 (Blackie and Son)。
 
 ---
 
@@ -728,7 +728,7 @@ Thâu-kòa ū kúi-nā tè kut lâi ha̍p chiâⁿ--ê (tē 14 tô͘). Ta̍k tè
 Náu-thâu-kòa ū 8 tè kut, hun thâu-kòa-téng (*vault of*...
 
 > **【全漢對照】**
-> **[頭蓋 / 縫合]**
+> **［頭蓋 / 縫合］**
 > 頭蓋有幾若塊骨來合成的（第 14 圖）。逐塊骨墘仔有鋸仔齒的款來接合的線，叫做縫合（縫合，*suture*）。裏面空殼略略仔親像圓的款式。空殼的裏面有底腦髓，腦髓才會穩當。頭蓋的骨總共有 22 塊骨，分做腦頭蓋佮顏面頭蓋。
 >
 > 腦頭蓋有 8 塊骨，分頭蓋頂（*vault of*...
@@ -739,7 +739,7 @@ Náu-thâu-kòa ū 8 tè kut, hun thâu-kòa-téng (*vault of*...
 Tē 12 tô͘.—3. Tē jī kēng-chui-kut thâu-chêng bīn: c, b, e, khí-chōng-tu̍t-khí ê thâu, tiong kap bé; d, chêng-koan-chat-o, sī kap tē it kēng-chui-kut aū-koan-chat-o lâi chòe koan-chat; g, siōng hā koan-chat-o (Blackie and Son).
 
 > **【全漢對照】**
-> 第 12 圖。—3. 第二頸椎骨頭前面：c, b, e, 齒狀突起的頭，中佮尾；d, 前關節窩，是佮第一頸椎骨後關節窩來做關節；g, 上下關節窩 (Blackie and Son)。
+> 第 12 圖。—3. 第二頸椎骨頭前面：c, b, e，齒狀突起的頭，中佮尾；d，前關節窩，是佮第一頸椎骨後關節窩來做關節；g，上下關節窩 (Blackie and Son)。
 
 ---
 
@@ -748,7 +748,7 @@ Tē 12 tô͘.—3. Tē jī kēng-chui-kut thâu-chêng bīn: c, b, e, khí-chōn
 Tī chí sió-khóa ê sū chīn-tiong--ê, tī tōa--ê iā chīn-tiong, tī sió-khóa--ê put-gī, tī tōa--ê iā put-gī (Lō-ka 16: 10).
 
 > **【全漢對照】**
-> 佇只些許的事盡忠的，佇大的也盡忠，佇些許的不義，佇大的也不義（路加 16: 10）。
+> 佇只些許的事盡忠的，佇大的也盡忠，佇些許的不義，佇大的也不義（路加 16：10）。
 
 <!-- Page 032 End -->
 
@@ -762,7 +762,7 @@ Tī chí sió-khóa ê sū chīn-tiong--ê, tī tōa--ê iā chīn-tiong, tī si
 
 ![原書插圖 - 第 33 頁 (圖 1)](assets/illustrations/page_033_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 13 tô.—Chek-thiāu tùi pīⁿ-á khòaⁿ i ê oan-khiau : 1, kēng-chui-kut ; 2, heng-chui-kut ; 3, io-chui-kut ; 4, chiàn-kut ; 5, bí-lû-kut (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 13 tô.—Chek-thiāu tùi pīⁿ-á khòaⁿ i ê oan-khiau : 1, kēng-chui-kut ; 2, heng-chui-kut ; 3, io-chui-kut ; 4, chiàn-kut ; 5, bí-lû-kut (Cunningham).</em></p>
 
 </div>
 
@@ -834,7 +834,7 @@ Tē 13 tô͘.—Chek-thiāu tùi piⁿ-á khòaⁿ i ê oan-khiau: 1, kēng-chui
 
 ![原書插圖 - 第 34 頁 (圖 1)](assets/illustrations/page_034_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 14 tô̇.—Thâu-kòa tùi tò-pêng khòaⁿ: 1, chêng-thâu-kut; 2, chêng-thâu-kut kap 3, lō͘-téng-kut tiong-ng ê hông-ha̍p; 4, āu-thâu-kut; 5, jiap-su-kut; 6, hī-khang ê kut; 7, ô͘-tiáp-kut; 8, hā-gók-gū; 9, hā-gók-kut; 10 koân-kut; 11, siōng-gók-kut; 12, phīⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green, & Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 14 tô̇.—Thâu-kòa tùi tò-pêng khòaⁿ: 1, chêng-thâu-kut; 2, chêng-thâu-kut kap 3, lō͘-téng-kut tiong-ng ê hông-ha̍p; 4, āu-thâu-kut; 5, jiap-su-kut; 6, hī-khang ê kut; 7, ô͘-tiáp-kut; 8, hā-gók-gū; 9, hā-gók-kut; 10 koân-kut; 11, siōng-gók-kut; 12, phīⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green, & Co., publishers.)</em></p>
 
 </div>
 
@@ -856,7 +856,7 @@ Tē 14 tô͘.—Thâu-kòa tùi tò-pêng khòaⁿ: 1, chêng-thâu-kut; 2, chê
 
 > **【全漢對照】**
 > **【第 14 圖】**
-> 第 14 圖。——頭蓋對倒爿看：1, 前頭骨；2, 前頭骨佮 3, 顱頂骨中央的縫合；4, 後頭骨；5, 鑷子骨；6, 耳孔的骨；7, 蝴蝶骨；8, 下顎隅；9, 下顎骨；10 顴骨；11, 上顎骨；12, 鼻骨。(From Gray's “Anatomy,” by permission of Longmans, Green, & Co., publishers.)
+> 第 14 圖。——頭蓋對倒爿看：1，前頭骨；2，前頭骨佮 3，顱頂骨中央的縫合；4，後頭骨；5，鑷子骨；6，耳孔的骨；7，蝴蝶骨；8，下顎隅；9，下顎骨；10 顴骨；11，上顎骨；12，鼻骨。(From Gray's “Anatomy,” by permission of Longmans, Green, & Co., publishers.)
 
 ---
 
@@ -889,7 +889,7 @@ Sóe phīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘
 
 ![原書插圖 - 第 35 頁 (圖 1)](assets/illustrations/page_035_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 15 tô:—Thâu-kòa, tùi thâu-chêng bīn kà i khòaⁿ : 1, chêng-kut ; 2, lô·-téng-kut ; 3, (sphenoid) ô·-tia̍p-kut ; 4, siōng-gán-o-khóng ; 5, lūi-kut ; 6, hā-gán-o-phò-lia̍t ; 7, hā-gán-o-khóng ; 8, phīⁿ-khang ; 9, hā-kah-kài-kut ; 10, hā-siōng-go̍k-kut ; 11, chêng-go̍k-kut-khóng ; 12, hā-go̍k-kut ; 13, koân-kut ; 14, jiap-su-kut ; Nasals, phīⁿ-kut ; Sphenoid, ô·-tia̍p-kut, chòe gán-o ê āu-piah ê chit-pō·-hūn ; Coronal suture, chêng-kut kap lô·-téng-kut tiong-ng ê hông-ha̍p. (From Gray's “Anatomy” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 15 tô:—Thâu-kòa, tùi thâu-chêng bīn kà i khòaⁿ : 1, chêng-kut ; 2, lô·-téng-kut ; 3, (sphenoid) ô·-tia̍p-kut ; 4, siōng-gán-o-khóng ; 5, lūi-kut ; 6, hā-gán-o-phò-lia̍t ; 7, hā-gán-o-khóng ; 8, phīⁿ-khang ; 9, hā-kah-kài-kut ; 10, hā-siōng-go̍k-kut ; 11, chêng-go̍k-kut-khóng ; 12, hā-go̍k-kut ; 13, koân-kut ; 14, jiap-su-kut ; Nasals, phīⁿ-kut ; Sphenoid, ô·-tia̍p-kut, chòe gán-o ê āu-piah ê chit-pō·-hūn ; Coronal suture, chêng-kut kap lô·-téng-kut tiong-ng ê hông-ha̍p. (From Gray's “Anatomy” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -898,7 +898,7 @@ Sóe phīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘
 **Tē 15 tô͘.**—Thâu-kòa, tùi thâu-chêng bīn kā i khòaⁿ : 1, chêng-kut ; 2, lô-téng-kut ; 3, (sphenoid) ô͘-tia̍p-kut ; 4, siōng-gán-o-khóng ; 5, lūi-kut ; 6, hā-gán-o-phò-lia̍t ; 7, hā-gán-o-khóng ; 8, phīⁿ-khang ; 9, hā-kah-kài-kut ; 10, hā-siōng-gòk-kut ; 11, chêng-gòk-kut-khóng ; 12, hā-gòk-kut ; 13, koân-kut ; 14, jiap-su-kut ; *Nasals*, phīⁿ-kut ; *Sphenoid*, ô͘-tia̍p-kut, chòe gán-o ê āu-piah ê chit-pō͘-hūn ; *Coronal suture*, chêng-kut kap lô-téng-kut tiong-ng ê hông-ha̍p. (From Gray's “Anatomy” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> **第 15 圖。**——頭蓋，對頭前面共伊看：1, 前骨（額骨）；2, 顱頂骨（頂骨）；3, (sphenoid) 蝴蝶骨（蝶骨）；4, 上眼窩孔（眶上孔）；5, 淚骨；6, 下眼窩破裂（眶下裂）；7, 下眼窩孔（眶下孔）；8, 鼻孔（鼻腔）；9, 下甲介骨（下鼻甲）；10, 下上顎骨（上顎骨）；11, 前顎骨孔（頦孔）；12, 下顎骨；13, 顴骨；14, 聶鬚骨（顳骨）；*Nasals*, 鼻骨；*Sphenoid*, 蝴蝶骨，做眼窩的後壁的一部份；*Coronal suture*, 前骨佮顱頂骨中央的縫合。(From Gray's “Anatomy” by permission of Longmans, Green and Co., publishers.)
+> **第 15 圖。**——頭蓋，對頭前面共伊看：1，前骨（額骨）；2，顱頂骨（頂骨）；3, (sphenoid) 蝴蝶骨（蝶骨）；4，上眼窩孔（眶上孔）；5，淚骨；6，下眼窩破裂（眶下裂）；7，下眼窩孔（眶下孔）；8，鼻孔（鼻腔）；9，下甲介骨（下鼻甲）；10，下上顎骨（上顎骨）；11，前顎骨孔（頦孔）；12，下顎骨；13，顴骨；14，聶鬚骨（顳骨）；*Nasals*，鼻骨；*Sphenoid*，蝴蝶骨，做眼窩的後壁的一部份；*Coronal suture*，前骨佮顱頂骨中央的縫合。(From Gray's “Anatomy” by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -921,7 +921,7 @@ M̄-thang chhui-sǹg me̍h-phok, ho-khip, á-sī thé-un.
 
 ![原書插圖 - 第 36 頁 (圖 1)](assets/illustrations/page_036_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 16 tô:—Chih-kut tùi téng-bīn kap thâu-chêng kòaⁿ : 1, tāi-kak ; 2, sió-kak ; 3, thé. (Toldt, from Lewis' "Anatomy aud physiology for Nurses").</em></p>
+<p class="figure-caption"><em>Tē 16 tô:—Chih-kut tùi téng-bīn kap thâu-chêng kòaⁿ : 1, tāi-kak ; 2, sió-kak ; 3, thé. (Toldt, from Lewis' "Anatomy aud physiology for Nurses").</em></p>
 
 </div>
 
@@ -932,7 +932,7 @@ M̄-thang chhui-sǹg me̍h-phok, ho-khip, á-sī thé-un.
 Thû-kut (鋤骨, *vomer*) tī phīⁿ-khang ê tiong-ng ê ē-tóe, lâi chòe phīⁿ-tiong-keh (鼻中隔, *nasal septum*) ê chi̍t pō͘-hūn.
 
 > **【全漢對照】**
-> 鋤骨 (鋤骨, *vomer*) 佇鼻孔的中央的下底，來做鼻中隔 (鼻中隔, *nasal septum*) 的一部份。
+> 鋤骨 （鋤骨，*vomer*） 佇鼻孔的中央的下底，來做鼻中隔 （鼻中隔，*nasal septum*） 的一部份。
 
 ---
 
@@ -941,7 +941,7 @@ Thû-kut (鋤骨, *vomer*) tī phīⁿ-khang ê tiong-ng ê ē-tóe, lâi chòe 
 Hā-go̍k-kut, (*inferior maxilla*): Gân-bīn-thâu-kòa tē it tōa ê kut tī gân-bīn ê ē-pō chhin-chhiūⁿ bé-tôe-thih ê khoán-sit, kiò-chòe hā-go̍k-kut. Chiap-liân tī jiap-su-kut (*temporal*) chòe khó-tōng-koan-chat. Tī chit ê kut ê téng iân ū tàu ē lia̍t ê chhùi-khí. Tī hā-go̍k-kut ê ē-bīn ê āu-bīn pêng lióng pêng ū chi̍t ê kak, kiò-chòe hā-go̍k-gû (下顎隅, *angle of inferior maxilla*, tē 14 tô 8).
 
 > **【全漢對照】**
-> 下顎骨, (*inferior maxilla*)：顏面頭蓋第一大的骨佇顏面的下部親像馬蹄鐵的款式，叫做下顎骨。接連佇鑷顳骨 (*temporal*) 做可動關節。佇此個骨的頂沿有鬥下列的喙齒。佇下顎骨的下面ê後面旁兩旁有一個角，叫做下顎隅 (下顎隅, *angle of inferior maxilla*, 第 14 圖 8)。
+> 下顎骨，(*inferior maxilla*)：顏面頭蓋第一大的骨佇顏面的下部親像馬蹄鐵的款式，叫做下顎骨。接連佇鑷顳骨 (*temporal*) 做可動關節。佇此個骨的頂沿有鬥下列的喙齒。佇下顎骨的下面ê後面旁兩旁有一個角，叫做下顎隅 （下顎隅，*angle of inferior maxilla*，第 14 圖 8）。
 
 ---
 
@@ -950,7 +950,7 @@ Hā-go̍k-kut, (*inferior maxilla*): Gân-bīn-thâu-kòa tē it tōa ê kut tī
 Tī ām-kún thâu-chêng ê pō͘-ūi, āu-thâu ê téng-bīn, chiū-sī tī chi̍h-kun, ū chi̍t tè kut, kiò-chòe chi̍h-kut (舌骨, *hyoid*). I ê hêng-chōng sī chhin-chhiūⁿ bé-tôe thih ê khoán, hun chòe chi̍t thé, sì kak, tōa-ê nn̄g kak, sòe-ê nn̄g kak (tē 16 tô).
 
 > **【全漢對照】**
-> 佇頷頸頭前的部位，喉頭的頂面，就是佇舌根，有一塊骨，叫做舌骨 (舌骨, *hyoid*)。伊的形狀是親像馬蹄鐵的款，分做一體，四角，大的兩角，細的兩角 (第 16 圖)。
+> 佇頷頸頭前的部位，喉頭的頂面，就是佇舌根，有一塊骨，叫做舌骨 （舌骨，*hyoid*）。伊的形狀是親像馬蹄鐵的款，分做一體，四角，大的兩角，細的兩角 （第 16 圖）。
 
 ---
 
@@ -963,7 +963,7 @@ Tī ām-kún thâu-chêng ê pō͘-ūi, āu-thâu ê téng-bīn, chiū-sī tī c
 Tē 16 tô͘.—Chi̍h-kut tùi téng-bīn kap thâu-chêng kā i khòaⁿ: 1, tāi-kak; 2, sió-kak; 3, thé. (Toldt, from Lewis' "Anatomy aud physiology for Nurses").
 
 > **【全漢對照】**
-> 第 16 圖。——舌骨對頂面佮頭前共伊看：1, 大角；2, 小角；3, 體。(Toldt, from Lewis' "Anatomy aud physiology for Nurses")。
+> 第 16 圖。——舌骨對頂面佮頭前共伊看：1，大角；2，小角；3，體。(Toldt, from Lewis' "Anatomy aud physiology for Nurses")。
 
 ---
 
@@ -972,14 +972,14 @@ Tē 16 tô͘.—Chi̍h-kut tùi téng-bīn kap thâu-chêng kā i khòaⁿ: 1, t
 Tī thâu-chêng heng-khám piah ê chiàⁿ tong ū chi̍t tè kut, kiò-chòe heng-kut (胸骨, *sternum*). I ê hêng-chōng chhin-chhiūⁿ kó-chá ê kiàm. I ê thé hun chòe saⁿ pō͘-hūn, chiū-sī téng-bīn-ê kiò-chòe chhiú-pìⁿ (手柄, *manubrium*), iā ū kiò-chòe kiàm-pìⁿ; tiong-ng kiò-chòe kiàm-sin (*gladiolus*); bé-ê kiò-chòe kiàm-bé (*ensiform appendix*). Lióng pêng ū kap 7 tùi ê hia̍p-kut
 
 > **【全漢對照】**
-> 佇頭前胸坎壁的正中有一塊骨，叫做胸骨 (胸骨, *sternum*)。伊的形狀親像古早的劍。伊的體分做三部份，就是頂面的叫做手柄 (手柄, *manubrium*)，也有叫做劍柄；中央叫做劍身 (*gladiolus*)；尾的叫做劍尾 (*ensiform appendix*)。兩旁有佮 7 對的脅骨
+> 佇頭前胸坎壁的正中有一塊骨，叫做胸骨 （胸骨，*sternum*）。伊的形狀親像古早的劍。伊的體分做三部份，就是頂面的叫做手柄 （手柄，*manubrium*），也有叫做劍柄；中央叫做劍身 (*gladiolus*)；尾的叫做劍尾 (*ensiform appendix*)。兩旁有佮 7 對的脅骨
 
 ---
 
 Jîn-ài, hoān-sū jím-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13: 7).
 
 > **【全漢對照】**
-> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍 (I 哥林多 13: 7)。
+> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍 (I 哥林多 13：7)。
 
 <!-- Page 036 End -->
 
@@ -993,7 +993,7 @@ Jîn-ài, hoān-sū jím-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-
 
 ![原書插圖 - 第 37 頁 (圖 1)](assets/illustrations/page_037_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 17 tô.—Heng-khám ê kut : 1—12, khah sòe jī, sī hiảp-kut ; 1—8, khah tōa jī, sī chiàu ē-bīn :—1, tē it heng-chui-kut ; 2, 3, 6, heng-kut ; 2, kiàm-pîⁿ ; 3, kiàm-sin ; 6, kiàm-bé ; 4, tē gō͘ hiảp-kut ; 5, tē gō͘ hiảp-nńg-kut ; 7, tē 11, 12 hiảp-kut ; 8, io-chui-kut (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 17 tô.—Heng-khám ê kut : 1—12, khah sòe jī, sī hiảp-kut ; 1—8, khah tōa jī, sī chiàu ē-bīn :—1, tē it heng-chui-kut ; 2, 3, 6, heng-kut ; 2, kiàm-pîⁿ ; 3, kiàm-sin ; 6, kiàm-bé ; 4, tē gō͘ hiảp-kut ; 5, tē gō͘ hiảp-nńg-kut ; 7, tē 11, 12 hiảp-kut ; 8, io-chui-kut (Cunningham).</em></p>
 
 </div>
 
@@ -1053,7 +1053,7 @@ Siōng-chi-kut (上肢骨, *Upper extremity*, tē 18 tô͘) : Chhiú kap seng-kh
 
 > **【全漢對照】**  
 > **【邊註：上肢骨】**  
-> 上肢骨（上肢骨, *Upper extremity*, 第 18 圖）：手合身軀相連的所在叫做肩頭。肩頭，——頭前是鎖骨，後壁是肩胛骨。
+> 上肢骨（上肢骨，*Upper extremity*，第 18 圖）：手合身軀相連的所在叫做肩頭。肩頭，——頭前是鎖骨，後壁是肩胛骨。
 
 ---
 
@@ -1093,7 +1093,7 @@ Chhiú ê téng-chatⁿ ū chi̍t tè tn̂g ê kut miâ kiò siōng-phok-kut (*h
 Chhiú ē-chat ū n̄g ki kut, kiò-chòe chêng-phok-kut (*forearm*), hun chòe jiâu-kut (橈骨, *radius*) kap chhioh-kut (尺骨, *ulna* ; tē 18 tô͘).
 
 > **【全漢對照】**  
-> 手下節有兩枝骨，叫做前膊骨（*forearm*），分做橈骨（橈骨, *radius*）合尺骨（尺骨, *ulna*；第 18 圖）。
+> 手下節有兩枝骨，叫做前膊骨（*forearm*），分做橈骨（橈骨，*radius*）合尺骨（尺骨，*ulna*；第 18 圖）。
 
 ---
 
@@ -1113,7 +1113,7 @@ Chit ki chhioh-kut sī khah tōa khah tn̂g, iā tī chhiú ê lāi-bīn pêng, 
 Péh-chhát-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lút-hoat (Si-phian 119: 163).
 
 > **【全漢對照】**  
-> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119: 163）。
+> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119：163）。
 
 <!-- Page 038 End -->
 
@@ -1127,7 +1127,7 @@ Péh-chhát-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lút-h
 
 ![原書插圖 - 第 39 頁 (圖 1)](assets/illustrations/page_039_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 18 tô:—Siōng-chi-kut: 1, só-kut; 2, keng-kah-kut ; 3, siōng-phok-kut ; 4, chhioh-kut ; 5, jiâu-kut ; 6, kut tiong-kan ê khang-khiah ; 7, chhiú-chiúⁿ-kut ; 8, chhiú-cháiⁿ-kut ; 9, chhiú-óaⁿ-kut ; 10, siōng-phok-thâu ; 11, só-kut-lāi-toan-koan-chat-o ; 12, só-kut ê gōa-toan. (Toldt, from Lewis’ “Anatomy and Physiology for Nurses” by permission of W. B. Saunders, Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 18 tô:—Siōng-chi-kut: 1, só-kut; 2, keng-kah-kut ; 3, siōng-phok-kut ; 4, chhioh-kut ; 5, jiâu-kut ; 6, kut tiong-kan ê khang-khiah ; 7, chhiú-chiúⁿ-kut ; 8, chhiú-cháiⁿ-kut ; 9, chhiú-óaⁿ-kut ; 10, siōng-phok-thâu ; 11, só-kut-lāi-toan-koan-chat-o ; 12, só-kut ê gōa-toan. (Toldt, from Lewis’ “Anatomy and Physiology for Nurses” by permission of W. B. Saunders, Co., publishers.)</em></p>
 
 </div>
 
@@ -1142,9 +1142,9 @@ Péh-chhát-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lút-h
 *[邊註：Jiâu-kut]*
 
 > **【全漢對照】**
-> *(……接)*。尺骨的頂端的邊仔有凹凹的所在，互橈骨通鬥。橈骨的下端的邊仔有凹凹，互尺骨通鬥。此兩枝骨若轉來轉去，尺骨較恬恬，橈骨會轉較遠。此兩枝骨會相絆（相跨），所以手會轉來轉去（第 18 圖）。
+> *（……接）*。尺骨的頂端的邊仔有凹凹的所在，互橈骨通鬥。橈骨的下端的邊仔有凹凹，互尺骨通鬥。此兩枝骨若轉來轉去，尺骨較恬恬，橈骨會轉較遠。此兩枝骨會相絆（相跨），所以手會轉來轉去（第 18 圖）。
 > 
-> *[邊註：橈骨]*
+> *［邊註：橈骨］*
 
 ---
 
@@ -1157,7 +1157,7 @@ Chhiú-óaⁿ-kut (carpus) ū 8 tè kut pâi-lia̍t chòe nñg chōa, kap chêng
 > **【全漢對照】**
 > 手腕骨（carpus）有 8 塊骨排列做兩排，佮前膊骨的下端相撐；下排佮手掌骨相接。
 > 
-> *[邊註：手腕骨]*
+> *［邊註：手腕骨］*
 
 ---
 
@@ -1170,7 +1170,7 @@ Chhiú-chiúⁿ-kut (手掌骨, metacarpus) ū 5 ki. Chhiú-cháiⁿ-kut ū 14 k
 > **【全漢對照】**
 > 手掌骨（手掌骨，metacarpus）有 5 枝。手指骨有 14 枝。諸的骨互指頭仔會微倚會黏黐。手指骨有三節，獨獨大頭拇是兩節。大……
 > 
-> *[邊註：手掌骨 / 手指骨]*
+> *［邊註：手掌骨 / 手指骨］*
 
 ---
 
@@ -1179,7 +1179,7 @@ Chhiú-chiúⁿ-kut (手掌骨, metacarpus) ū 5 ki. Chhiú-cháiⁿ-kut ū 14 k
 **Tē 18 tô͘:—Siōng-chi-kut:** 1, só-kut; 2, keng-kah-kut; 3, siōng-phok-kut; 4, chhioh-kut; 5, jiâu-kut; 6, kut tiong-kan ê khang-khiah; 7, chhiú-chiúⁿ-kut; 8, chhiú-cháiⁿ-kut; 9, chhiú-óaⁿ-kut; 10, siōng-phok-thâu; 11, só-kut-lāi-toan-koan-chat-o; 12, só-kut ê gōa-toan. (Toldt, from Lewis' "Anatomy and Physiology for Nurses" by permission of W. B. Saunders, Co., publishers.)
 
 > **【全漢對照】**
-> **第 18 圖：——上肢骨：** 1, 鎖骨；2, 肩胛骨；3, 上膊骨；4, 尺骨；5, 橈骨；6, 骨中間的空隙；7, 手掌骨；8, 手指骨；9, 手腕骨；10, 上膊頭；11, 鎖骨內端關節窩；12, 鎖骨的外端。（Toldt，取材自 Lewis 著之《護理專用解剖生理學》，經出版商 W. B. Saunders 公司授權使用。）
+> **第 18 圖：——上肢骨：** 1，鎖骨；2，肩胛骨；3，上膊骨；4，尺骨；5，橈骨；6，骨中間的空隙；7，手掌骨；8，手指骨；9，手腕骨；10，上膊頭；11，鎖骨內端關節窩；12，鎖骨的外端。（Toldt，取材自 Lewis 著之《護理專用解剖生理學》，經出版商 W. B. Saunders 公司授權使用。）
 
 ---
 
@@ -1188,7 +1188,7 @@ Chhiú-chiúⁿ-kut (手掌骨, metacarpus) ū 5 ki. Chhiú-cháiⁿ-kut ū 14 k
 Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 
 > **【全漢對照】**
-> 仁愛無快受氣（哥林多前書 13 : 5。）
+> 仁愛無快受氣（哥林多前書 13：5。）
 
 <!-- Page 039 End -->
 
@@ -1202,7 +1202,7 @@ Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 
 ![原書插圖 - 第 40 頁 (圖 1)](assets/illustrations/page_040_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 19 tô:—Lú ê kut-pôaⁿ 1, tûg-kut; 2, thí-kut; 3, chō-kut; 4, chêng-siōng-kek; 5, khū-o; 6, chiàn-kut, 7, bí-lû-kut; 8, kut-pôaⁿ ê hā-kháu; 9, kut-pôaⁿ ê siōng-kháu (From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 19 tô:—Lú ê kut-pôaⁿ 1, tûg-kut; 2, thí-kut; 3, chō-kut; 4, chêng-siōng-kek; 5, khū-o; 6, chiàn-kut, 7, bí-lû-kut; 8, kut-pôaⁿ ê hā-kháu; 9, kut-pôaⁿ ê siōng-kháu (From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.)</em></p>
 
 </div>
 
@@ -1220,7 +1220,7 @@ thâu-bú koan-chat chin oa̍h-tāng, tē it chíuⁿ-kut kap chhiú-óaⁿ-kut 
 Chek-thiāu-kut (脊柱骨) ē-tóe siang pêng ū chi̍t tè tōa tè kut, kiò-chòe bô-miâ-kut (*os innominatum*). Chi̍t ê bô-miâ-kut sòe-hàn ê sî-chūn hun chòe saⁿ tè, tōa-hàn ê sî-chūn chiâⁿ chi̍t thé (tē 7, 19 tô͘). Chit ê bô-miâ-kut hun
 
 > **【全漢對照】**
-> **[下肢骨 / 無名骨]**
+> **［下肢骨 / 無名骨］**
 > 脊柱骨（脊柱骨）下底雙朋有一塊大塊骨，叫做無名骨（*os innominatum*）。一个無名骨細漢的時陣分做三塊，大漢的時陣成一體（第 7、19 圖）。這个無名骨分
 
 ---
@@ -1230,7 +1230,7 @@ Chek-thiāu-kut (脊柱骨) ē-tóe siang pêng ū chi̍t tè tōa tè kut, kiò
 Tē 19 tô͘.—Lú ê kut-phôaⁿ 1, tn̂g-kut ; 2, thí-kut ; 3, chō-kut ; 4, chêng-siōng-kek ; 5, khū-o ; 6, chiàn-kut, 7, bí-lû-kut ; 8, kut-phôaⁿ ê hā-kháu ; 9, kut-poâⁿ ê siōng-kháu (From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.)
 
 > **【全漢對照】**
-> 第 19 圖。——女的骨盤 1, 腸骨；2, 恥骨；3, 坐骨；4, 前上棘；5, 臼窩；6, 薦骨，7, 尾閭骨；8, 骨盤的下口；9, 骨盤的上口（From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.）
+> 第 19 圖。——女的骨盤 1，腸骨；2，恥骨；3，坐骨；4，前上棘；5，臼窩；6，薦骨，7，尾閭骨；8，骨盤的下口；9，骨盤的上口（From Gray's “Anatomy,” by permission of Longmans, Green & Co., publishers.）
 
 ---
 
@@ -1239,7 +1239,7 @@ Tē 19 tô͘.—Lú ê kut-phôaⁿ 1, tn̂g-kut ; 2, thí-kut ; 3, chō-kut ; 4
 chòe saⁿ phō, téng-bīn-ê kiò-chòe tn̂g-kut (腸骨, *ilium*). Tī pak-tó-piⁿ ê siang pêng tī ē-io ê só͘-chāi ōe bong-tio̍h teh phok-chhut-lâi ê kut, chiū-sī chit ê tn̂g-kut. Tú-tú tī thâu-chêng siōng téng-bīn hit tè kiò-chòe chêng-siōng-kek (前上棘, *anterior superior spine*).
 
 > **【全漢對照】**
-> **[腸骨]**
+> **［腸骨］**
 > 做三部，頂面的叫做腸骨（腸骨，*ilium*）。佇腹肚邊的雙朋佇下腰的所在會摸著咧蹼出來的骨，就是這个腸骨。拄拄佇頭前頂頂面彼塊叫做前上棘（前上棘，*anterior superior spine*）。
 
 ---
@@ -1249,7 +1249,7 @@ chòe saⁿ phō, téng-bīn-ê kiò-chòe tn̂g-kut (腸骨, *ilium*). Tī pak-
 Bô-miâ-kut ê ē-tóe pō͘-hūn, kiò-chòe chō-kut (坐骨, *ischium*). Chit ê kut lán teh chē í ê sî, tú-tú khòa tī í-téng.
 
 > **【全漢對照】**
-> **[坐骨]**
+> **［坐骨］**
 > 無名骨的下底部分，叫做坐骨（坐骨，*ischium*）。這个骨咱咧坐椅的時，拄拄跨佇椅頂。
 
 ---
@@ -1350,7 +1350,7 @@ Iòh m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tiòh siu tī iòh-tû-nih.
 
 ![原書插圖 - 第 42 頁 (圖 1)](assets/illustrations/page_042_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 20 tô:—Hā-chi-kut : 1, bô-miâ-kut ; 2, tōa-thúi-kut-thâu ; 3, tōa-choán-chú ; 4, sió-choán-chú ; 5, tōa-thúi-kut ; 6, tōa-thúi-kut ê gōa-koan-chat-khò ; 7, tōa-thúi-kut ê lāi-koan-chat-khò ; 8, chhek-kài-kut ; 9, kēng-kut ê lāi-koan-chat-khò ; 10, kēng-kut ê gōa-koan-chat-khò ; 11, kēng-kut-siōng-toan ; 12, kēng-kut ; 13, hūi-kut ; 14, kut-tiong khang-khiah ; 15, kēng-kut-chiat ; 16, lāi-khòa ; 17, gōa-khòa ; 18, hū-kut ; 19, chek-kut ; 20, chí-kut (Toldt).</em></p>
+<p class="figure-caption"><em>Tē 20 tô:—Hā-chi-kut : 1, bô-miâ-kut ; 2, tōa-thúi-kut-thâu ; 3, tōa-choán-chú ; 4, sió-choán-chú ; 5, tōa-thúi-kut ; 6, tōa-thúi-kut ê gōa-koan-chat-khò ; 7, tōa-thúi-kut ê lāi-koan-chat-khò ; 8, chhek-kài-kut ; 9, kēng-kut ê lāi-koan-chat-khò ; 10, kēng-kut ê gōa-koan-chat-khò ; 11, kēng-kut-siōng-toan ; 12, kēng-kut ; 13, hūi-kut ; 14, kut-tiong khang-khiah ; 15, kēng-kut-chiat ; 16, lāi-khòa ; 17, gōa-khòa ; 18, hū-kut ; 19, chek-kut ; 20, chí-kut (Toldt).</em></p>
 
 </div>
 
@@ -1382,7 +1382,7 @@ Chit ê chhek-
 **Tē 20 tô͘.**—Hā-chi-kut: 1, bô-miâ-kut; 2, tōa-thúi-kut-thâu; 3, tōa-choán-chú; 4, sió-choán-chú; 5, tōa-thúi-kut; 6, tōa-thúi-kut ê gōa-koan-chat-khò; 7, tōa-thúi-kut ê lāi-koan-chat-khò; 8, chhek-kài-kut; 9, kēng-kut ê lāi-koan-chat-khò; 10, kēng-kut ê gōa-koan-chat-khò; 11, kēng-kut-siōng-toan; 12, kēng-kut; 13, hūi-kut; 14, kut-tiong khang-khiah; 15, kēng-kut-chiat; 16, lāi-khòa; 17, gōa-khòa; 18, hū-kut; 19, chek-kut; 20, chí-kut (Toldt).
 
 > **【全漢對照】**
-> **第 20 圖。**──下肢骨：1, 無名骨；2, 大腿骨頭；3, 大轉子；4, 小轉子；5, 大腿骨；6, 大腿骨的外關節髁；7, 大腿骨的內關節髁；8, 膝蓋骨；9, 脛骨的內關節髁；10, 脛骨的外關節髁；11, 脛骨上端；12, 脛骨；13, 腓骨；14, 骨中間隙；15, 脛骨脊；16, 內踝；17, 外踝；18, 跗骨；19, 蹠骨；20, 趾骨（Toldt）。
+> **第 20 圖。**──下肢骨：1，無名骨；2，大腿骨頭；3，大轉子；4，小轉子；5，大腿骨；6，大腿骨的外關節髁；7，大腿骨的內關節髁；8，膝蓋骨；9，脛骨的內關節髁；10，脛骨的外關節髁；11，脛骨上端；12，脛骨；13，腓骨；14，骨中間隙；15，脛骨脊；16，內踝；17，外踝；18，跗骨；19，蹠骨；20，趾骨（Toldt）。
 
 ---
 
@@ -1469,11 +1469,11 @@ Iòh-kan m̄-thang hē tī iòh-toaⁿ-téng.
 
 ![原書插圖 - 第 44 頁 (圖 1)](assets/illustrations/page_044_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 21 tô:—Kha kut tùi lāi-bīn pêng kā i khòan : 1, kēng-kut ê lāi-khòa ; 2, kun-kut ; 3, hû-kut ; 4, chek-kut ; 5, chí-kut ; 6, kiô ê āu-bīn kha ; 7, kiô ê thâu-chêng kha.</em></p>
+<p class="figure-caption"><em>Tē 21 tô:—Kha kut tùi lāi-bīn pêng kā i khòan : 1, kēng-kut ê lāi-khòa ; 2, kun-kut ; 3, hû-kut ; 4, chek-kut ; 5, chí-kut ; 6, kiô ê āu-bīn kha ; 7, kiô ê thâu-chêng kha.</em></p>
 
 ![原書插圖 - 第 44 頁 (圖 2)](assets/illustrations/page_044_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 22 tô:—Píⁿ-pîⁿ-kha (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 22 tô:—Píⁿ-pîⁿ-kha (Rose and Carless).</em></p>
 
 </div>
 
@@ -1483,7 +1483,7 @@ Iòh-kan m̄-thang hē tī iòh-toaⁿ-téng.
 ...kut kap hûi-kut ê lap-u, chòe chiok-koan-chat (足關節, *ankle joint*); iáu ū koh chi̍t tè, kiò-chòe chûn-chōng-kut (舟狀骨, *scaphoid*).
 
 > **【全漢對照】**
-> ……骨佮腓骨的凹塢，做足關節（足關節, *ankle joint*）；猶有閣一塊，叫做舟狀骨（舟狀骨, *scaphoid*）。
+> ……骨佮腓骨的凹塢，做足關節（足關節，*ankle joint*）；猶有閣一塊，叫做舟狀骨（舟狀骨，*scaphoid*）。
 
 ---
 
@@ -1502,9 +1502,9 @@ Chek-kut ū 5 ki kap chhiú-chiúⁿ-kut saⁿ pí; iā tī i ê chêng-bīn ū 
 
 ---
 
-> **Tē 21 tô͘.**—Kha kut tùi lāi-bīn pêng kā i khòaⁿ: 1, kēng-kut ê lāi-khòa; 2, kun-kut; 3, hū-kut; 4, chek-kut; 5, chí-kut; 6, kiô ê āu-bīn kha; 7, kiô ê thâu-chêng kha.
+> **Tē 21 tô͘.**—Kha kut tùi lāi-bīn pêng kā i khòaⁿ：1, kēng-kut ê lāi-khòa；2, kun-kut；3, hū-kut；4, chek-kut；5, chí-kut；6, kiô ê āu-bīn kha；7, kiô ê thâu-chêng kha.
 > 
-> （**第 21 圖.**—跤骨對內面爿共伊看：1, 脛骨的內踝；2, 跟骨；3, 跗骨；4, 蹠骨；5, 指骨；6, 橋的後面跤；7, 橋的頭前跤。）
+> （**第 21 圖。**—跤骨對內面爿共伊看：1，脛骨的內踝；2，跟骨；3，跗骨；4，蹠骨；5，指骨；6，橋的後面跤；7，橋的頭前跤。）
 
 ---
 
@@ -1512,13 +1512,13 @@ Chek-kut ū 5 ki kap chhiú-chiúⁿ-kut saⁿ pí; iā tī i ê chêng-bīn ū 
 Chiah ê sè tè ê kut ha̍p-chia̍p-ê, khoán-sit chin kî, téng-bīn phòng-khí-lâi, ē-tóe lap-lo̍h-khì. Kha-kut ê hêng-chōng sī án-ni, hō͘ lâng tōng-chok chin ha̍p-gî. Kha sī chhin-chhiūⁿ ún-ku-kiô ê khoán-sit, āu-bīn sī kun-kut ta̍h tī tōe-nih, chêng-bīn sī chí-kut iā ta̍h tī tōe-nih. Khòaⁿ hit ê 21 tô͘ chiū chai. Nā kha sit-lo̍h i ê hêng-chōng hit ê pīⁿ miâ kiò-chòe pīⁿ-pīⁿ-kha (扁平足, *flat foot*; tē 22 tô͘).
 
 > **【全漢對照】**
-> 諸個細塊的骨合接的，款式真奇，頂面膨起來，下底凹落去。跤骨的形狀是按呢，予人動作真合宜。跤是親像伛佝橋的款式，後面是跟骨踏佇地裡，前面是指骨也踏佇地裡。看彼個 21 圖就知。若跤失落伊的形狀彼個病名叫做扁扁跤（扁平足, *flat foot*；第 22 圖）。
+> 諸個細塊的骨合接的，款式真奇，頂面膨起來，下底凹落去。跤骨的形狀是按呢，予人動作真合宜。跤是親像伛佝橋的款式，後面是跟骨踏佇地裡，前面是指骨也踏佇地裡。看彼個 21 圖就知。若跤失落伊的形狀彼個病名叫做扁扁跤（扁平足，*flat foot*；第 22 圖）。
 
 ---
 
-> **Tē 22 tô͘.**—Pīⁿ-pīⁿ-kha (*Rose and Carless*).
+> **Tē 22 tô͘.**—Pīⁿ-pīⁿ-kha (*Rose and Carless*)。
 > 
-> （**第 22 圖.**—扁扁跤 (*Rose and Carless*)。）
+> （**第 22 圖。**—扁扁跤 (*Rose and Carless*)。）
 
 ---
 
@@ -1532,7 +1532,7 @@ Chiah ê 26 tè kut saⁿ chia̍h-chhēⁿ ha̍p chòe chi̍t ki...
 Góa siat-sú chòe sian-ti bêng-pe̍k lóng-chóng ê ò-biāu kap lóng-chóng ê chai-bat; koh siat-sú ū chiâu-pī ê sìn, kàu-gia̍h lâi î-soaⁿ, nā bô jîn-ài, góa chiū bôe sǹg chòe sī sím-mi̍h (I Ko-lîm-to 13: 2).
 
 > **【全漢對照】**
-> 我設使做先知明白攏總的奧妙佮攏總的知捌；閣設使有齊備的信，到額來移山，若無仁愛，我就袂算做是甚物（I 哥林多 13: 2）。
+> 我設使做先知明白攏總的奧妙佮攏總的知捌；閣設使有齊備的信，到額來移山，若無仁愛，我就袂算做是甚物（I 哥林多 13：2）。
 
 <!-- Page 044 End -->
 

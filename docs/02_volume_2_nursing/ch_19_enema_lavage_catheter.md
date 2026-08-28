@@ -65,7 +65,7 @@ Sat-bûn-sio-chúi-koàn-tng-hoat :
 > **【全漢對照】**
 > 撒文水灌腸 233
 > 
-> [邊註：撒文灌腸]
+> ［邊註：撒文灌腸］
 > 
 > 撒文燒水灌腸法：
 
@@ -130,7 +130,7 @@ Sin-thé ióng-kiāⁿ, khah-iānⁿ chōe-chōe chíⁿ.
 
 ![原書插圖 - 第 250 頁 (圖 1)](assets/illustrations/page_250_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 157 tô:—Higginson-sī koàn-tng-khì.</em></p>
+<p class="figure-caption"><em>Tē 157 tô:—Higginson-sī koàn-tng-khì.</em></p>
 
 </div>
 
@@ -253,11 +253,11 @@ I-seng sûn keng ê sî, khàn-hō͘ ti̍oh tè i, m̄-thang thèng-hāu i-seng 
 
 ![原書插圖 - 第 252 頁 (圖 1)](assets/illustrations/page_252_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.</em></p>
+<p class="figure-caption"><em>Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.</em></p>
 
 ![原書插圖 - 第 252 頁 (圖 2)](assets/illustrations/page_252_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 159 tô.—Glycerinum koàn-tng-khì.</em></p>
+<p class="figure-caption"><em>Tē 159 tô.—Glycerinum koàn-tng-khì.</em></p>
 
 </div>
 
@@ -307,7 +307,7 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 **Koàn-khài-hoat (灌漑法, *douche*)**, sī ēng ti̍t-ti̍t lâu ê chúi, lâi sóe seng-khu te̍k-pia̍t ê khang-tāng. Teh sóe ê lō͘-ēng sī: (1) sóe-tû m̄-hó ê pâi-siat-mi̍h, hō͘ hit kio̍k-pō͘ chheng-khì; (2) ù-sio á-sī ù-léng; (3) ēng iòh i-tī hit ūi ê chơ-chit; (4) chí huih. Seng-khu só͘ koàn-khài ê só͘-chāi sī im-tō, chú-kiong, pông-kong, phīⁿ-khang, hī-khang, ba̍k-chiu.
 
 > **【全漢對照】**
-> **灌溉法（灌漑法, *douche*）**，是用直直流的水，來洗身軀特別的孔洞。咧洗的用處是：(1) 洗除唔好的排泄物，予彼局部清氣；(2) 熨熱抑是熨冷；(3) 用藥醫治彼位的組織；(4) 止血。身軀所灌溉的所在是陰道、子宮、膀胱、鼻孔、耳孔、目珠。
+> **灌溉法（灌漑法，*douche*）**，是用直直流的水，來洗身軀特別的孔洞。咧洗的用處是：(1) 洗除唔好的排泄物，予彼局部清氣；(2) 熨熱抑是熨冷；(3) 用藥醫治彼位的組織；(4) 止血。身軀所灌溉的所在是陰道、子宮、膀胱、鼻孔、耳孔、目珠。
 
 ---
 
@@ -318,10 +318,10 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 
 ---
 
-> Koh tī pa̍t-ê pêng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4: 12).
+> Koh tī pa̍t-ê pêng bô chín-kiù；in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4：12)。
 > 
 > **【全漢對照】**
-> 閣佇別个並無拯救；因為佇天下，無賜賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4: 12）。
+> 閣佇別个並無拯救；因為佇天下，無賜賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 253 End -->
 
@@ -335,7 +335,7 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 
 ![原書插圖 - 第 254 頁 (圖 1)](assets/illustrations/page_254_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 160 tô.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 160 tô.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).</em></p>
 
 </div>
 
@@ -348,12 +348,12 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 thóng chhut tām-póh. Tùi gōa-chú-kiong-kháu ū lō͘ ji̍p chú-kiong-lāi, iā tùi chú-kiong téng-bīn phō-ūi, ū n̄g tiâu lō͘ ji̍p pak-khang-lāi. Só-í nā ū bî-seng-bu̍t tùi im-tō ji̍p, ū lō͘ thang chiūⁿ-khì pak-khang. Tùi án-ni thang khòaⁿ, sóe im-tō ê sî, sī chin iàu-kín, só͘ ēng ê mi̍h ti̍h siau-to̍k ;
 
 > **【全漢對照】**
-> **[陰道及腹腔的關聯]**
+> **［陰道及腹腔的關聯］**
 > 通出淡薄。對外子宮口有路入子宮內，也對子宮頂面部位，有兩條路入腹腔內。所以若有微生物對陰道入，有路通上去腹腔。對按呢通看，洗陰道的時，是真要緊，所用的物著消毒；
 
 ---
 
-> **Tē 160 tô͘.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).**  
+> **Tē 160 tô͘.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney)。**  
 > （第 160 圖。—陰道灌漑法的器具 (Stoney)。）
 
 ---
@@ -371,7 +371,7 @@ Só ti̍h ū-pī ê mi̍h sī :
 1. Koàn-khài-koàn (po-lê, á-sī lâm-thng chòe-ê), (tē 160 tô͘).
 
 > **【全漢對照】**
-> **[預備的物]**
+> **［預備的物］**
 > 所著預備的物是：
 > 1. 灌漑罐（玻璃，抑是淋湯做的），（第 160 圖）。
 
@@ -583,7 +583,7 @@ Pīⁿ-lâng tó ê khoán-sit, ū-sî tó tò-pêng, ū-sî tó chhiò-
 Jîn-ài sī gâu khoan-iông, chú-pi ; jîn-ài sī bô oàn-tò͘ ; jîn-ài bô khoa-kháu, bô phín-phóng (I Ko-lîm-to 13 : 4).
 
 > **【全漢對照】**
-> 仁愛是猴寬容、慈悲；仁愛是無怨妒；仁愛無誇口，無膨風（哥林多前書 13:4）。
+> 仁愛是猴寬容、慈悲；仁愛是無怨妒；仁愛無誇口，無膨風（哥林多前書 13：4）。
 
 <!-- Page 257 End -->
 
@@ -687,7 +687,7 @@ Chi̍t tè ê niû-poe thang niû jiō ê lō͘-ēng.
 Chi̍t tè pôaⁿ tóe *lotio hydrarg. perchlor.* 1-4,000, beh chòe sóe chhiú ê lō͘-ēng.
 
 > **【全漢對照】**  
-> **[女導尿術]**  
+> **［女導尿術］**  
 > 一塊盤貯燒的 *lotio acidi borici*（硼酸洗液）1-50，欲洗尿道口之路用。  
 > 兩枝導尿的玻璃管，抑是別款的導尿管，已經過煠，浸佇 *lotio acidi borici*。  
 > 一塊的量杯通量尿之路用。  
@@ -706,7 +706,7 @@ Chi̍t tè pôaⁿ tóe *lotio hydrarg. perchlor.* 1-4,000, beh chòe sóe chhi�
 3. Khàn-hō͘ tio̍h tāi-seng chiong i pún-sin ê chhiú, kap pīⁿ-lâng ê jiō-tō-kháu sì pīⁿ ê só͘-chāi, lóng sóe hō͘ chheng-khì, chiah bōe hō͘ to̍k-mi̍h ji̍p-khì pông-kong ê lāi-bīn, lâi tì-kàu hoat-iām. Ēng thong jiō-tō ê hoat-tō͘, nā kan-ta óa-khò chhùi kóng, bōe tit bêng-pe̍k. Chóng-sī tio̍h pún-sin tāng chhiú. Mî-phê m̄-bián lóng hian khui, ōe tit khòaⁿ-kìⁿ jiō-tō-kháu chiū hó. Khah láu-liān ê khàn-hō͘ kóng, m̄-bián ēng ba̍k-chiu khòaⁿ, chhiú bong chiū chai, chóng-sī tio̍h khòaⁿ, chiah m̄-bián hō͘ pīⁿ-lâng kiò thiàⁿ kan-khó͘ ; iā m̄-bián hō͘ tō-jiō-kńg bak-tio̍h kiaⁿ-lâng. Tio̍h ēng tò-chhiú chiong tōa-im-tûn (*labia majora*) keng hō͘ khui (tē 161 tō͘), chiàⁿ-chhiú tio̍h the̍h mî-hoe ùn sio *lotio acidi borici* sóe hō͘ chheng-khì. Tio̍h tùi téng-bīn chhit lo̍h ē-bīn. Nā-sī im-tō ū pâi-siat-mi̍h lâu-chhut, tio̍h ēng chi̍t tè mî-hoe that-teh. Tō-jiō-su̍t liáu chi̍t tè mî-hoe chiah the̍h-khí-lâi.
 
 > **【全漢對照】**  
-> **[著小心不止清潔]**  
+> **［著小心不止清潔］**  
 > 3. 看護著代先將伊本身的手，及病人的尿道口四旁的所在，攏洗予清潔，才袂予毒物入去膀胱的內面，來到致發炎。用通尿道的方法，若單單倚靠嘴講，袂得出明白。總著是本身動手。棉被毋免攏掀開，會得看見尿道口就好。較老練的看護講，毋免用目睭看，手摸就知，總著是著看，才毋免予病人叫痛艱苦；也毋免予導尿管觸著驚人。著用倒手將大陰唇（*labia majora*）掞予開（第161圖），右手著提棉花搵燒 *lotio acidi borici* 洗予清潔。著對頂面拭落下面。若是陰道有排泄物流出，著用一塊棉花塞咧。導尿術了一塊棉花才提起來。
 
 ---
@@ -715,12 +715,12 @@ Chi̍t tè pôaⁿ tóe *lotio hydrarg. perchlor.* 1-4,000, beh chòe sóe chhi�
 4. Jiō-tō-kháu sī tī im-bûn ê téng-bīn, tī tiong-ng sió-khóa phok-chhut. Chiàⁿ-chhiú tio̍h the̍h tō-jiō-kńg ûn-ûn-á chhng-ji̍p jiō-tō. Ēng tō-jiō-kńg ê sî m̄-bián chhut la̍t, nā chhng bōe tit ji̍p-khì, sī in-ūi chhng bô-tio̍h jiō-tō ê chhùi ; ia̍h nā siuⁿ khoài chi̍t-ē chiū chhng-ji̍p-khì,
 
 > **【全漢對照】**  
-> **[尿道口]**  
+> **［尿道口］**  
 > 4. 尿道口是佇陰門的頂面，佇中央稍可硞出（凸出）。右手著提導尿管勻勻仔穿入尿道。用導尿管的時毋免出力，若穿袂得入去，是因為穿無著尿道的嘴；亦若傷快一下就穿入去，
 
 ---
 
-> *Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4 : 25).*  
+> *Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4：25)。*  
 > **【全漢對照】** 所以著除去白賊，逐人及伊的厝邊講真實，因為咱相同做體（以弗所 4:25）。
 
 <!-- Page 259 End -->
@@ -735,7 +735,7 @@ Chi̍t tè pôaⁿ tóe *lotio hydrarg. perchlor.* 1-4,000, beh chòe sóe chhi�
 
 ![原書插圖 - 第 260 頁 (圖 1)](assets/illustrations/page_260_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 161 tô (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 161 tô (Stoney).</em></p>
 
 </div>
 
@@ -768,14 +768,14 @@ Nā pīⁿ-lâng siông-siông ēng tō-jiō-kńg, tio̍h chhâ khòaⁿ i ê ph
 > 
 > 若病人常常用導尿管，著查看看伊的膀胱曾發炎抑毋曾；若果然發炎，彼個小化的氣味較常有阿摩尼亞（a-mô-nî-a）的味。閣一項，若看見病人常常愛小便也講會痛，就著趕緊共醫生講；也著留淡薄尿通互醫生檢驗，檢綵醫生教伊著共伊洗膀胱。較𠢕的看護大概會互病人免有此個病。
 > 
-> *(第 161 圖 (Stoney).)*
+> *（第 161 圖 (Stoney）。)*
 
 ---
 
 Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 
 > **【全漢對照】**
-> 仁愛無記念人的歹（I 哥林多 13:5）。
+> 仁愛無記念人的歹（I 哥林多 13：5）。
 
 <!-- Page 260 End -->
 
@@ -866,7 +866,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 
 ![原書插圖 - 第 262 頁 (圖 1)](assets/illustrations/page_262_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 162 tô.</em></p>
+<p class="figure-caption"><em>Tē 162 tô.</em></p>
 
 </div>
 
@@ -938,7 +938,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 
 ![原書插圖 - 第 263 頁 (圖 1)](assets/illustrations/page_263_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 163 tô:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kńg.</em></p>
+<p class="figure-caption"><em>Tē 163 tô:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kńg.</em></p>
 
 </div>
 
@@ -949,7 +949,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 5. Sóe-liáu, tō-jiō-kúng tióh thiu-chhut-lâi. Pīⁿ-lâng tī bîn-chhñg tióh chhòng hó-sè, hō͘ i khòaⁿ-o̍ah.
 
 > **【全漢對照】**
-> **[邊註：洗膀胱的方法]**
+> **［邊註：洗膀胱的方法］**
 > 5. 洗了，導尿管著抽出嚟。病人佇眠床著創好勢，予伊快活。
 
 ---
@@ -968,7 +968,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 Sóe-ūi-hoat : 1. Tióh khòaⁿ tē 184 bīn, tī hia ū kóng ēng chhiū-leng-tō-jiō-kúng, tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat. Tī chia beh ēng sóe-ūi ê *catheter* (chit tiâu sī pí tō-jiō-kúng khah tn̂g iā khah tōa kho͘). Ēng chhiū-leng-kúng chhng tùi chhùi ji̍p ūi, chit hō hong-hoat ê gûi-hiám, tī hia iû-goân ū kóng, só́-í tī chia m̄-bián koh kóng.
 
 > **【全漢對照】**
-> **[邊註：洗胃法]**
+> **［邊註：洗胃法］**
 > 洗胃法：1. 著看第 184 面，佇遐有講用樹乳導尿管，對鼻孔飼病人的法。佇遮欲用洗胃的 *catheter*（這條是比導尿管較長也較大箍）。用樹乳管穿對嘴入胃，這號方法的危險，佇遐猶原有講，所以在遮毋免閣講。
 
 ---
@@ -1015,7 +1015,7 @@ Sóe-ūi-hoat : 1. Tióh khòaⁿ tē 184 bīn, tī hia ū kóng ēng chhiū-len
 | *Sodii bicarbonas.* 6.0<br>Chúi . . . . . 1,000.0 | **á-sī** | *Acidum boricium.* 20.0<br>Chúi . . . . . 1,000.0 |
 
 > **【全漢對照】**
-> 7. 著備辦洗胃的藥水；有時用硼酸（硼酸, *acidum boricum*），有時用重炭酸（重炭酸, *sodii bicarbonas*）。
+> 7. 著備辦洗胃的藥水；有時用硼酸（硼酸，*acidum boricum*），有時用重炭酸（重炭酸，*sodii bicarbonas*）。
 > 
 > | 配方一 | 抑是 | 配方二 |
 > | :--- | :---: | :--- |
@@ -1067,7 +1067,7 @@ niá tōa-niá iû-pò͘, á-sī iû-chóa. Tī i ê bīn-chêng, tióh hē chi�
 11. Ēng ióh-chúi thîn tī lāu-táu (tē 165 tô͘); nā thîn chha-put-to 500.0 c.c., i ài thò͘-chhut-lâi. Án-ni chiong lāu-táu hē pí i ê ūi khah kē tām-póh, iā hit ê ūi-ni̍h ê mi̍h kiò-chòe ūi-lāi-iông (胃 內 容, stomach contents) khoài chhut-lâi (tē 166 tô͘).
 
 > **【全漢對照】**
-> 11. 用藥水斟佇漏斗（第 165 圖）；若斟差不多 500.0 c.c.，伊愛吐出來。按呢將漏斗下比伊的胃較低淡薄，也彼個胃裡之物叫做胃內容（胃 內 容, stomach contents）快出來（第 166 圖）。
+> 11. 用藥水斟佇漏斗（第 165 圖）；若斟差不多 500.0 c.c.，伊愛吐出來。按呢將漏斗下比伊的胃較低淡薄，也彼個胃裡之物叫做胃內容（胃 內 容，stomach contents）快出來（第 166 圖）。
 
 12. Tióh sóe kàu só͘ chhut-lâi ê chúi sī lóng chheng-khì, khah siông tióh ēng 2,000.0 c.c. ê ióh-chúi lâi sóe. Tióh sió-sim, m̄-thang hō͘ khong-khì ji̍p ūi.
 
@@ -1120,15 +1120,15 @@ Ióh-chúi tiám-ji̍p-hī-khang-lāi ê hoat: 1. Só͘ beh ēng ê ióh, tióh 
 
 ![原書插圖 - 第 265 頁 (圖 1)](assets/illustrations/page_265_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām.</em></p>
+<p class="figure-caption"><em>164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām.</em></p>
 
 ![原書插圖 - 第 265 頁 (圖 2)](assets/illustrations/page_265_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih.</em></p>
+<p class="figure-caption"><em>165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih.</em></p>
 
 ![原書插圖 - 第 265 頁 (圖 3)](assets/illustrations/page_265_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon).</em></p>
+<p class="figure-caption"><em>166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon).</em></p>
 
 </div>
 
@@ -1169,7 +1169,7 @@ Tē 166 tô͘:—Tē saⁿ chām. Chiong ūi-nih kàⁿ-lâng ê mi̍h sóe-chhu
 
 ![原書插圖 - 第 266 頁 (圖 1)](assets/illustrations/page_266_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 167 tô:—Hī-khang-koàn-khài-sùt (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 167 tô:—Hī-khang-koàn-khài-sùt (Sanders).</em></p>
 
 </div>
 
@@ -1239,11 +1239,11 @@ Hī-khang-koàn-khài-hoat (tē 167 tô͘) : 1. Hō͘ pīⁿ-lâng chē í, ū p
 
 ![原書插圖 - 第 267 頁 (圖 1)](assets/illustrations/page_267_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 168 tô:.-Tiám-gán-khì.</em></p>
+<p class="figure-caption"><em>Tē 168 tô:.-Tiám-gán-khì.</em></p>
 
 ![原書插圖 - 第 267 頁 (圖 2)](assets/illustrations/page_267_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi.</em></p>
+<p class="figure-caption"><em>Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi.</em></p>
 
 </div>
 
@@ -1256,7 +1256,7 @@ Hī-khang-koàn-khài-hoat (tē 167 tô͘) : 1. Hō͘ pīⁿ-lâng chē í, ū p
 6. Sóe liáu ēng mî-hoe chhit hō͘ i ta. Koh chi̍t ê hoat-tō͘ sī ēng tōa ki ê chù-siā-khì. Tāi-seng tióh suh io̍h-chúi, kiáh bé-á hō͘ i ǹg chiūⁿ téng-bīn, chiah siā-chhut khong-khì, chiū chiàu téng-bīn ê hoat-tō͘ lâi sóe hī-khang. Teh sóe ê sî tióh liâu-liâu-á, m̄-thang tōa la̍t, kiaⁿ-liáu gāi-tióh kó͘-mó̍h. Chit ê hoat-tō͘ pí ēng koàn-khài-koàn sī khah gûi-hiám, in-ūi hit ê koàn-khài-koàn ê chúi lâu-lóh sī ûn-ûn-á.
 
 > **【全漢對照】**
-> *(旁註：洗耳孔)*
+> *（旁註：洗耳孔）*
 > 
 > 勻仔流入。代先藥水入ê時，著淡薄；病人若講傷燒，著閣透冷滾水。
 > 
@@ -1275,7 +1275,7 @@ Tē 168 tô͘:—Tiám-gán-khì.
 Siat-sú nā ū thâng ji̍p hĩ-khang-lāi, thang ēng tām-póh *oleum olivae* tiám tī hĩ-khang-lāi, hō͘ hit bé thâng phû-khí-lâi. Hit ê iû tióh 100° F. (37.8° C.) sio.
 
 > **【全漢對照】**
-> *(旁註：耳仔內異物)*
+> *（旁註：耳仔內異物）*
 > 
 > 耳仔內異物：囡仔較常無咁好愛錯誤將果子抑是豆ê類塞入耳孔內。彼霎就毋通洗，因為會互彼个物溽濕膨大。亦毋通甩針尾屈曲共伊攑出來，驚了會𢫦入較深。著連鞭抱互醫生看，通用咁好ê傢俬提督出來。
 > 
@@ -1296,7 +1296,7 @@ Tiám-gán-hoat (點眼法, *Eye drops, administration of*): 1. Kah pīⁿ-lâng
 Tē 169 tô͘:—Tiám-gán-khì ji̍p tī kan-lāi.
 
 > **【全漢對照】**
-> *(旁註：點眼法)*
+> *（旁註：點眼法）*
 > 
 > 點眼法（點眼法，*Eye drops, administration of*）：1. 叫病人倒佇眠牀、手術臺，抑是椅寮。
 > 2. 點眼ê人著企佇病人頭殼ê後面。
@@ -1316,7 +1316,7 @@ Tē 169 tô͘:—Tiám-gán-khì ji̍p tī kan-lāi.
 
 ![原書插圖 - 第 268 頁 (圖 1)](assets/illustrations/page_268_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>170
+<p class="figure-caption"><em>170
 Tē 170 tô.—Sóe-gán-pân.</em></p>
 
 </div>
@@ -1452,11 +1452,11 @@ Sóe pīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘;
 
 ![原書插圖 - 第 270 頁 (圖 1)](assets/illustrations/page_270_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)</em></p>
+<p class="figure-caption"><em>Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)</em></p>
 
 ![原書插圖 - 第 270 頁 (圖 2)](assets/illustrations/page_270_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle).</em></p>
+<p class="figure-caption"><em>Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle).</em></p>
 
 </div>
 
@@ -1518,7 +1518,7 @@ Phīⁿ-khang-koàn-khài-hoat (*Nasal douche*): Sò͘ ēng ê koàn-khài-koàn
 
 ![原書插圖 - 第 271 頁 (圖 1)](assets/illustrations/page_271_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 173 tô:—Phīⁿ-khang-koàn-khài-sùt (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 173 tô:—Phīⁿ-khang-koàn-khài-sùt (Sanders).</em></p>
 
 </div>
 
@@ -1563,7 +1563,7 @@ leng-kńg, kap ték-piȧt ê sóe-phīⁿ-khang-kńg sī chhin-chhiūⁿ sóe h�
 
 ![Tē 173 tô͘:—Phīⁿ-khang-koàn-khài-su̍t (Sanders).]
 
-> **Tē 173 tô͘:—Phīⁿ-khang-koàn-khài-su̍t (Sanders).**
+> **Tē 173 tô͘:—Phīⁿ-khang-koàn-khài-su̍t (Sanders)。**
 > **【全漢對照】** 第 173 圖：——鼻孔灌溉術 (Sanders)。
 
 ---

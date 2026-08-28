@@ -23,7 +23,7 @@ Pīⁿ-lâng lim chia̍h ê tiong-kan, chòe gâu hián-chhut khàn-hō͘ ū ch�
 Lâng nā hó, chiū thang sûi-piān chia̍h, che khiok m̄-bián kóng. Chóng-sī ū pīⁿ ê lâng ê khòaⁿ-oa̍h, ē khah hó á bōe, ū-sî ū koan-hē tī lim chia̍h ê sū. I ê si̍t-bu̍t nā pī-pān tú-hó, iā khoài siau-hòa, tùi án-ni lâng ē chiām-chiām khah hó. Nā si̍t-bu̍t bô ha̍p, pīⁿ-lâng ê chèng-chōng ē khah siong-tiōng. Pīⁿ nā siong-tiōng, á-sī thoân-jiám pīⁿ, só͘ tú-tio̍h ê chèng-chōng chiàu kī tī ē-tóe: lâng chiū ài khùn khah bōe lo̍h-bîn, sim-lāi ak-chak, nâ-âu ē chhùi-ta, phê-hu sio, thé-un khah koân, me̍h-phok khah kín, chih pe̍h-pe̍h, siau-hòa put-liông, ūi sit-lo̍h siau-hòa ê la̍t, ài áu-thò͘, bô ài chia̍h, pak-tó́ thiàⁿ, kha chhiú sng-nńg. Nā-sī án-ni seng-khu-lāi ê cho͘-chit ē phah-sńg; chit-ê sī tùi seng-khu ta̍k ūi ê cho͘-chit bô chiàu i ê chok-iōng lâi kiâⁿ-chòe.
 
 > **【全漢對照】**
-> *(旁註：病人的症狀 / Pīⁿ-lâng ê chèng-chōng)*
+> *（旁註：病人的症狀 / Pīⁿ-lâng ê chèng-chōng）*
 > 人若好，就通隨便食，這卻毋免講。總是有病的人的看活，會較好抑袂，有時有關係佇飲食的事。伊的食物若備辦拄好，亦快消化，對按呢人會漸漸較好。若食物無合，病人的症狀會較傷重。病若傷重，抑是傳染病，所抵著的症狀照記佇下底：人就愛睏較袂落眠，心內鬱慒，頷喉會喙焦，皮膚燒，體溫較懸，脈搏較緊，舌白白，消化不良，胃失落消化的力，愛嘔吐，無愛食，腹肚痛，跤手痠軟。若是按呢身軀內的組織會拍損；這個是對身軀逐位的組織無照伊的作用來行做。
 
 ---
@@ -69,7 +69,7 @@ Phó͘-thong ê lí-khì :
 > **【全漢對照】**  
 > **［普通的理氣］**  
 > 普通的理氣：  
-> 1. 治療傳染病，抑是急性的病，著用流動物（流動物, *liquid food*），就會較快消化，也較緊吸收佇身軀內。  
+> 1. 治療傳染病，抑是急性的病，著用流動物（流動物，*liquid food*），就會較快消化，也較緊吸收佇身軀內。  
 > 2. 毋通做一下予伊傷濟，著將淡薄予食，也較捷予伊。  
 > 3. 備辦食物的款式，著有滋養料較濟的，也食了著會較快消化，免傷用著消化力的。  
 > 4. 食物若無合佇病人的款式，毋通創予伊。  
@@ -99,7 +99,7 @@ Chhòng si̍t-bu̍t hō͘ pīⁿ-lâng chia̍h ê kui-kú :
 
 ![原書插圖 - 第 192 頁 (圖 1)](assets/illustrations/page_192_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 128 tô:—Chiàh-mih-pân.</em></p>
+<p class="figure-caption"><em>Tē 128 tô:—Chiàh-mih-pân.</em></p>
 
 </div>
 
@@ -171,7 +171,7 @@ Tē 128 tô͘:—Chia̍h-mi̍h-pân.
 10. Pīⁿ-lâng nā tó-teh, bōe chē, ti̍h ēng chi̍t ki chia̍h-mi̍h-pân (食物瓶, feeder; tē 128 tô͘). Chhī chit khoán ê pīⁿ-lâng, khàn-hō͘ ti̍h ēng i ê tò-chhiú tī chím-thâu-ē, chiong thâu-khak hû khah
 
 > **【全漢對照】**
-> 10. 病人若倒咧，袂坐，著用一支食物瓶（食物瓶, feeder; 第 128 圖）。飼這款的病人，看護著用伊的倒手佇枕頭下，將頭殼扶較...
+> 10. 病人若倒咧，袂坐，著用一支食物瓶（食物瓶，feeder；第 128 圖）。飼這款的病人，看護著用伊的倒手佇枕頭下，將頭殼扶較。..
 
 <!-- Page 192 End -->
 
@@ -185,7 +185,7 @@ Tē 128 tô͘:—Chia̍h-mi̍h-pân.
 
 ![原書插圖 - 第 193 頁 (圖 1)](assets/illustrations/page_193_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -255,7 +255,7 @@ Nā-sī chhī gín-ná, khàn-hō͘ tiòh chiàu i só͘ eng-kai chia̍h lōa-ch
 Pīⁿ nā siong-tiōng, bōe ēng-tit chia̍h tēng koh chho ê mi̍h, tiòh ēng liû-tōng-si̍t-bu̍t chhin-chhiūⁿ gû-leng, bah-thng, ám, liòk-siòk n̄g tiám-cheng kok chi̍t pái, hō͘ i chia̍h tām-póh, án-ni thang pôe-iúⁿ sin-thé. Nā án-ni tiòh ēng thng-sî á-sī chia̍h-mi̍h-pân, ûn-ûn-á hō͘ chia̍h. I nā m̄-goān thun-lóh-khì, khàn-hō͘ tiòh siat-hoat khǹg i, kā i kóng, nā chia̍h, pīⁿ chiū khah khoài hó.
 
 > **【全漢對照】**
-> **[流動物]**
+> **［流動物］**
 > 病若傷重，袂用得食硬閣粗ê物，著用流動物親像牛奶、肉湯、泔，陸續兩點鐘各一擺，予伊食淡薄，按呢通培養身體。若按呢著用湯匙仔是食物瓶，勻勻仔予食。伊若毋願吞落去，看護著設法勸伊，共伊講，若食，病就較快好。
 
 ---
@@ -267,7 +267,7 @@ Pīⁿ-lâng chia̍h gû-leng nā-sī ài áu, tiòh ēng hoat-tō͘, chhin-chhi
 Tàk jit jī-cha̍p-sì tiám-cheng-lāi, chi̍t-ê bōe chia̍h tēng mi̍h ê pīⁿ-lâng tiòh chia̍h 1800.0 c.c. gû-leng. Tiòh pun tī múi n̄g tiám-cheng chia̍h 150.0 c.c. gû-leng. Mî-sî iû-goân tiòh n̄g tiám-cheng chi̍t pái; chóng-sī pīⁿ-lâng nā teh khùn, tiòh sì tiám-cheng chi̍t pái hō͘ i 300.0 c.c. Ū-sî pīⁿ-lâng bōe kham-tit chia̍h 300.0 c.c, nā án-ni, tiòh hō͘ i khah chió tām-póh.
 
 > **【全漢對照】**
-> **[牛奶]**
+> **［牛奶］**
 > 病人食牛奶若是愛嘔，著用法度，親像予食冷牛奶，抑是一半石灰水（lime water），一半牛奶；抑是一半牛奶，一半薏仁湯。有時著用已經消化ê法度（pre-digested）。這個咧做ê法度佇第 179 面有詳細講。
 > 
 > 逐日二十四點鐘內，一個袂食硬物ê病人著食 1800.0 c.c. 牛奶。著分佇每兩點鐘食 150.0 c.c. 牛奶。暝時猶原著兩點鐘一擺；總是病人若咧睏，著四點鐘一擺予伊 300.0 c.c.。有時病人袂堪得食 300.0 c.c.，若按呢，著予伊較少淡薄。
@@ -283,7 +283,7 @@ Siau-to̍k gû-leng ê hoat-tō͘ :
 4. Chiong e-á hē hé-lô͘-téng, hō͘ e-á-lāi ê chúi kún chi̍t tiám-cheng-kú. Chit ê chúi ōe ûn-ûn-á cheng-hoat, só͘-í tiòh put-sî ke chheng-khì chúi tī e-á-lāi.
 
 > **【全漢對照】**
-> **[消毒牛奶ê法度]**
+> **［消毒牛奶ê法度］**
 > 消毒牛奶ê法度：
 > 1. 牛奶著𠞞佇一塊清潔碗內。
 > 2. 碗下佇有水ê鍋仔內；鍋內ê水毋通傷贅，莫得予走入碗內。
@@ -318,7 +318,7 @@ Nā gû-leng í-keng tī kan-lāi, m̄-bián koh thîn tī óaⁿ-nih; chóng-s�
 Pī-pān chūi-e̍k-siau-hòa (膵液消化) ê gû-leng, chiū-sī lâng chòe siau-hòa-chiap, lâi hòa ê gû-leng. *(旁註: Chūi-e̍k siau-hòa ê hoat)*
 
 > **【全漢對照】**
-> 預備膵液消化（膵液消化）的牛奶，就是人做消化汁，來化的牛奶。 *(旁註: 膵液消化的法)*
+> 預備膵液消化（膵液消化）的牛奶，就是人做消化汁，來化的牛奶。 *（旁註：膵液消化的法）*
 
 ---
 
@@ -359,14 +359,14 @@ Khòng-hi-bê: Ēng siōng hó ê bí sóe hō͘ chheng-khì, àn chi̍t hūn b�
 
 > **【全漢對照】**
 > 佇下面欲講起預備物件互病人食的法度。  
-> 糠稀糜：用尚好的米洗互清潔，按一份米、九份水，煮點半鐘久，煮 *(旁註: 糠稀糜)*
+> 糠稀糜：用尚好的米洗互清潔，按一份米、九份水，煮點半鐘久，煮 *（旁註：糠稀糜）*
 
 ---
 
 Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無求家己的利益（I 哥林多 13: 5）。
+> 仁愛無求家己的利益（I 哥林多 13：5）。
 
 <!-- Page 195 End -->
 
@@ -566,7 +566,7 @@ tām-po̍h iâm. Hî chiah hē-lo̍h-khì, bān-bān hé sáh saⁿ tiám-cheng-
 Góa siat-sú chīn só͘ ū-ê lâi chín-chè, koh hiàn góa ê seng-khu hō͘ hé sio, nā bô jîn-ài, chiū góa bô tit-tio̍h lī-ek (I Ko-lîm-to 13: 3).
 
 > **【全漢對照】**
-> 我設使盡所有兮來賑濟，閣獻我兮身軀予火燒，若無仁愛，就我無得到利益（Ⅰ 哥林多 13: 3）。
+> 我設使盡所有兮來賑濟，閣獻我兮身軀予火燒，若無仁愛，就我無得到利益（Ⅰ 哥林多 13：3）。
 
 <!-- Page 199 End -->
 

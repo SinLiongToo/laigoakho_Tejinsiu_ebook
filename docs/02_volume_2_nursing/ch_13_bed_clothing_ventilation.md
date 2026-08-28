@@ -90,7 +90,7 @@ I-seng mñg pīⁿ-lâng ê sū, nā m̄-chai, tióh kóng m̄-chai, m̄-thang p
 
 ![原書插圖 - 第 174 頁 (圖 1)](assets/illustrations/page_174_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 115 tô.—Ōaⁿ ē-bīn phē-toaⁿ ê hoat. (From Sanders' “ Modern Methods in Nursing,’ by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 115 tô.—Ōaⁿ ē-bīn phē-toaⁿ ê hoat. (From Sanders' “ Modern Methods in Nursing,’ by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -210,7 +210,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 
 ![原書插圖 - 第 176 頁 (圖 1)](assets/illustrations/page_176_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 116 tô:—Pīⁿ-lâng iáu tī bîn-chhng, hian jiỏk-á ê hoat (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 116 tô:—Pīⁿ-lâng iáu tī bîn-chhng, hian jiỏk-á ê hoat (Sanders).</em></p>
 
 </div>
 
@@ -222,7 +222,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 
 > **【全漢對照】**  
 > **160 眠床、衣服、通空氣的方法**  
-> **[樹奶褥仔]**  
+> **［樹奶褥仔］**  
 > 有一款用樹奶貯水的褥仔，較多是因為椎骨有病的人，偏遂、抑是半遂彼號病人咧用的。這款樹奶褥仔設佇草褥仔的頂面；褥仔下，猶原著鋪枋。這款的褥仔價錢真貴，看護的人著謹慎來用；毋通溽著油，也毋通將彼號有稜角的來設佇褥仔頂面，驚了毋拄好刺破，抑是觸𣆮；若用聊著洗互清潔，閣曝乾，才收起來。
 
 ---
@@ -246,7 +246,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 Tōa niá ê jiók-á it-tēng tio̍h tī bîn-chhng-téng tóe chúi; sòe niá jiók-á, á-sī chím-thâu, tī chheng-khì toh-téng, tóe chúi iā thang. Tī toh-téng tóe chúi ê sî, nā ēng nn̄g chhiú lâi chhi̍h, ē bong-tio̍h toh-téng, chiū thang chai chúi iáu-bē kàu-gia̍h; nā-sī ēng chi̍t chhiú chhut-la̍t, chiah ē bong-tio̍h toh, án-ni chúi chiū-sī tú-hó.
 
 > **【全漢對照】**  
-> **[貯水的方法]**  
+> **［貯水的方法］**  
 > 大領的褥仔一定著佇眠床頂貯水；細領褥仔，抑是枕頭，佇清潔桌頂，貯水也通。佇桌頂貯水之時，若用兩手來揤，會摸著桌頂，就通知水猶未夠額；若是用一手出力，才會摸著桌，按呢水就是拄好。
 
 <!-- Page 176 End -->
@@ -310,7 +310,7 @@ Pīⁿ-lâng nā ū sit-hû-tek-lí-a (pėh-âu-chèng) á-sī kip-sèng *rheuma
 Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無記得人的歹（I 哥林多 13: 5）。
+> 仁愛無記得人的歹（I 哥林多 13：5）。
 
 <!-- Page 177 End -->
 
@@ -324,7 +324,7 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13: 5).
 
 ![原書插圖 - 第 178 頁 (圖 1)](assets/illustrations/page_178_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 117 tô.—Sim-chōng pīⁿ ê lâng phak-teh ê kí-toh (E. Band).</em></p>
+<p class="figure-caption"><em>Tē 117 tô.—Sim-chōng pīⁿ ê lâng phak-teh ê kí-toh (E. Band).</em></p>
 
 </div>
 
@@ -337,7 +337,7 @@ eng-kai tiòh tó pîⁿ-pîⁿ. Iā tī chēng-me̍h-kńg-lāi ê huih ū kiat 
 > **162 眠床、衣服、通空氣的法度**  
 > 
 > **［心臟病］**  
-> 應該著倒平平。也佇靜脈管內的血有結歸塊的病，就是血栓病，(血栓病, thrombosis)，閣較要緊著倒咧予平平。心臟有病的人，抑是睏的時心肝會驚的，這款的病人有時坐，有時倒，是袂用得定著的法度。看護著毋通嫌費氣，看病人按怎樣較好勢，就予伊按呢。親像病－
+> 應該著倒平平。也佇靜脈管內的血有結歸塊的病，就是血栓病，（血栓病，thrombosis），閣較要緊著倒咧予平平。心臟有病的人，抑是睏的時心肝會驚的，這款的病人有時坐，有時倒，是袂用得定著的法度。看護著毋通嫌費氣，看病人按怎樣較好勢，就予伊按呢。親像病－
 
 ---
 
@@ -361,7 +361,7 @@ lâng chē ê sî, ka-chiah-āu tiòh ēng chím-thâu á-sī phē-jiók hit hō
 Nā pīⁿ-lâng kóng, i seng-khu ū só͘-chāi ōe thiàⁿ, chiū
 
 > **【全漢對照】**  
-> ### 論褥傷（褥瘡, Bed-sore）：
+> ### 論褥傷（褥瘡，Bed-sore）：
 > 
 > **［褥傷］**  
 > 若病人講，伊身軀有所在會疼，就
@@ -378,7 +378,7 @@ Nā pīⁿ-lâng kóng, i seng-khu ū só͘-chāi ōe thiàⁿ, chiū
 
 ![原書插圖 - 第 179 頁 (圖 1)](assets/illustrations/page_179_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 118 tô:—Ēng pò· chòe ê tōa, hō· lâng bōe chhù-lỏh-khì bîn-chhñg-nih (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 118 tô:—Ēng pò· chòe ê tōa, hō· lâng bōe chhù-lỏh-khì bîn-chhñg-nih (Sanders).</em></p>
 
 </div>
 
@@ -406,7 +406,7 @@ Nā pīⁿ-lâng kóng, i seng-khu ū só͘-chāi ōe thiàⁿ, chiū
 Khàn-hō͘ tio̍h chai jio̍k-siong m̄-tān-nā óa tēng kut ê só͘-chāi ōe siⁿ nā-tiāⁿ. Ka-chiah ê chek-chui-kut, keng-kah-kut, tiú-koan-chat-āu, tōa-thúi-kut, kha-āu-tíⁿ-kut, gín-ná ê āu-khok, chiah ê só͘-chāi lóng ōe siⁿ jio̍k-siong. Iā kha-pôaⁿ kap kha-chńg-thâu-á, ōe hō͘ hit hō kah ê phē teh-tio̍h, kàu thiàⁿ.
 
 > **【全漢對照】**
-> *(側標：預防褥傷的方法)*
+> *（側標：預防褥傷的方法）*
 > 看護著知褥傷毋但倚硬骨的所在會生爾定。尻脊的脊椎骨、肩胛骨、肘關節後、大腿骨、跤後跟骨、囡仔的後硞，諸個所在攏會生褥傷。也跤盤及跤指頭仔，會予彼號蓋的被壓著，到疼。
 
 ---
@@ -426,7 +426,7 @@ Chòe tāng ê jio̍k-siong, chiū-sī sin ji̍p īⁿ ê pīⁿ-lâng, in-ūi i
 Ū-hông jio̍k-siong ê hoat: 1. Pīⁿ-lâng nā chhiâng-chāi tó tī bîn-chhng, beh tî-hông jio̍k-siong, khàn-hō͘ tio̍h put-chí sió-sim. Pīⁿ-lâng seng-khu-ē ê jio̍k-á kap phē-tòaⁿ, tio̍h sî-siông chhu pîⁿ, m̄-thang khioh-kéng. Chia̍h-mi̍h, m̄-thang phah-ka-la̍uh tī bîn-chhng-nih.
 
 > **【全漢對照】**
-> *(側標：著小心)*
+> *（側標：著小心）*
 > 預防褥傷的方法：1. 病人若常在倒佇眠牀，欲提防褥傷，看護著不止小心。病人身軀下的褥仔及被單，著時常搊平，毋通起褶皺。食物，毋通拍落佇眠牀裡。
 
 <!-- Page 179 End -->
@@ -491,7 +491,7 @@ $$\left.
 *Jîn-ài sī gâu khoan-iông, chû-pi; jîn-ài sī bô oàn-tò͘; jîn-ài bô khoat-kháu, bô phín-phóng (I Ko-lîm-to 13: 4).*
 
 > **【全漢對照】**
-> 仁愛是𠢕寬容、慈悲；仁愛是無怨妒；仁愛無誇口、無品磅（哥林多前書 13: 4）。
+> 仁愛是𠢕寬容、慈悲；仁愛是無怨妒；仁愛無誇口、無品磅（哥林多前書 13：4）。
 
 <!-- Page 180 End -->
 
@@ -505,7 +505,7 @@ $$\left.
 
 ![原書插圖 - 第 181 頁 (圖 1)](assets/illustrations/page_181_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 119 tô.—Kha-āu-tiⁿ tiām.
+<p class="figure-caption"><em>Tē 119 tô.—Kha-āu-tiⁿ tiām.
 (From Stoney's “Practical Points in Nursing,” by permission W. B. Saunders Co., publishers.)</em></p>
 
 </div>
@@ -554,7 +554,7 @@ Chòe oh-tit chiū-sī ka-chiah chek-chui-kut, kap sim-chōng pīⁿ ; in-ūi ch
 Só͘-í tióh tû-khì péh-chha̍t, ták lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4 : 25).
 
 > **【全漢對照】**  
-> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4 : 25）。
+> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4：25）。
 
 <!-- Page 181 End -->
 
@@ -568,7 +568,7 @@ Só͘-í tióh tû-khì péh-chha̍t, ták lâng kap i ê chhù-piⁿ kóng chin
 
 ![原書插圖 - 第 182 頁 (圖 1)](assets/illustrations/page_182_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 120 tô. — Hû-chhah pīⁿ-lâng ê hoat-tō͘. (Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 120 tô. — Hû-chhah pīⁿ-lâng ê hoat-tō͘. (Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -646,7 +646,7 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 
 ![原書插圖 - 第 183 頁 (圖 1)](assets/illustrations/page_183_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 121 tô:—Hû-chhah pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 121 tô:—Hû-chhah pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -659,7 +659,7 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 
 > **【全漢對照】**
 > **扶插病人的法度：**
-> *(邊註：扶插病人的法度)*
+> *（邊註：扶插病人的法度）*
 > 1. 病人在眠床裡，看護欲扶插的時，著用一枝手穿入肩胛下，閣一枝穿入佇大腿下，穿過到病人許爿面。
 
 ---
@@ -701,7 +701,7 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 
 > **【全漢對照】**
 > **用便器的法度（第 122 圖）：**
-> *(邊註：用便器的法度)*
+> *（邊註：用便器的法度）*
 > 1. 猶未予病人用的事先，著傾淡薄燒水佇內面予便器些許燒，才傾出拺捔，按呢較快活。
 
 ---
@@ -723,15 +723,15 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 
 ![原書插圖 - 第 184 頁 (圖 1)](assets/illustrations/page_184_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 122 tô:—Hûi-chè ê piān-khì.</em></p>
+<p class="figure-caption"><em>Tē 122 tô:—Hûi-chè ê piān-khì.</em></p>
 
 ![原書插圖 - 第 184 頁 (圖 2)](assets/illustrations/page_184_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 123 tô:—Lâm ê siū-jiō-khì.</em></p>
+<p class="figure-caption"><em>Tē 123 tô:—Lâm ê siū-jiō-khì.</em></p>
 
 ![原書插圖 - 第 184 頁 (圖 3)](assets/illustrations/page_184_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 124 tô:—Lú ê siū-jiō-khì.</em></p>
+<p class="figure-caption"><em>Tē 124 tô:—Lú ê siū-jiō-khì.</em></p>
 
 </div>
 
@@ -804,7 +804,7 @@ Tē 124 tô͘:—Lú ê siū-jiō-khì.
 
 ![原書插圖 - 第 185 頁 (圖 1)](assets/illustrations/page_185_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 125 tô.—Sóe chhùi ê pôaⁿ kap ū-pī mih. (From Sanders “Methods in Nur-sing,” by permission W. B. Saunders and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 125 tô.—Sóe chhùi ê pôaⁿ kap ū-pī mih. (From Sanders “Methods in Nur-sing,” by permission W. B. Saunders and Co., publishers.)</em></p>
 
 </div>
 
@@ -885,7 +885,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tióh khó-khǹg i chia̍h.
 
 ![原書插圖 - 第 186 頁 (圖 1)](assets/illustrations/page_186_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 126 tô:—Sóe lú hoān-chiá ê thâu-môg. (From Sanders' “ Modern Methods in Nursing.”)</em></p>
+<p class="figure-caption"><em>Tē 126 tô:—Sóe lú hoān-chiá ê thâu-môg. (From Sanders' “ Modern Methods in Nursing.”)</em></p>
 
 </div>
 
@@ -908,7 +908,7 @@ Chiàu-kò͘ hū-jîn-lâng thâu-mn̂g ê hoat-tō͘ (tē 126 tô͘) :
 Thâu-mn̂g tióh ta̍k ji̍t kā i soe, iā tióh pun chòe nn̄g
 
 > **【全漢對照】**
-> **[旁註]**
+> **［旁註］**
 > *婦仁人的頭毛*
 > *洗頭毛*
 > 
@@ -994,7 +994,7 @@ Thong khong-khì ê hoat-tō͘, m̄-nā ūi-tióh pīⁿ-lâng ê lī-ek, khàn-
 Koh tī pa̍t-ê pèng bô chín-kiù ; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ Hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4: 12）。
+> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 187 End -->
 
@@ -1008,7 +1008,7 @@ Koh tī pa̍t-ê pèng bô chín-kiù ; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa
 
 ![原書插圖 - 第 188 頁 (圖 1)](assets/illustrations/page_188_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 127 tô.―Tuì siang-tó· ê thang-á-mn̂g thong khong-khì (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 127 tô.―Tuì siang-tó· ê thang-á-mn̂g thong khong-khì (Stoney).</em></p>
 
 </div>
 
@@ -1018,7 +1018,7 @@ Koh tī pa̍t-ê pèng bô chín-kiù ; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa
 bîn-chhîng, nā kó-jiân ē chhiong-tio̍h hong, khàn-hō͘ tio̍h ēng ûi-pîn lâi chàh chiah hó. Tāi-khài lâi kóng, khàn-hō͘ tio̍h ē bêng-pe̍k thiⁿ-khì ê kôaⁿ-joa̍h, chiàu hit-ê khám-chām lâi khui lâi koaiⁿ ê lí-khì, che sī tī lín ê ha̍k-būn, kiàn-sek khòaⁿ cháiⁿ-iūⁿ-lah; chhin-chhiūⁿ thiⁿ-khì nā thài léng, ia̍h sī tio̍h khui thang-á hō͘ thong-khì, put-kò tio̍h ke kā pīⁿ-lâng chhēng saⁿ, kap kah phē, chiū bô iàu-kín; thèng-hāu khong-khì ōaⁿ liáu chiū liām-piⁿ thang koh koaiⁿ. Koh chi̍t hāng m̄-thang ūi-tio̍h chi̍t ê lâng ê iân-kò͘, lâi kā in khui-koaiⁿ, che chiū-sī ko téng khàn-hō͘ ê tāi-chì.
 
 > **【全漢對照】**
-> **[通空氣]**
+> **［通空氣］**
 > 眠床，若果然會衝著風，看護著用圍屏來遮則好。大概來講，看護著會明白天氣的寒熱，照彼個坎站來開來關的理氣，這是佇恁的學問、見識看怎樣啦；親像天氣若太冷，抑是著開窗仔予通氣，不過著加給病人著衫，及蓋被，就無要緊；聽候空氣換了就連鞭通閣關。閣一項毋通為著一個人的緣故，來給𪜶開關，這就是高等看護的代誌。
 
 ---
@@ -1027,7 +1027,7 @@ bîn-chhîng, nā kó-jiân ē chhiong-tio̍h hong, khàn-hō͘ tio̍h ēng ûi-
 Pīⁿ-sek ê hân-loán-kè (chiū-sī kiám-cha un-tō͘ ê khì-kū) tio̍h khah siông tī 60 tō͘ F. chì 65 tō͘ F. (15.6°C.—18.0°C.). Un-tō͘ nā bô kàu 60 tō͘ F. (15.6°C.), chiū tio̍h ēng hé-lô͘; nā tī 65 tō͘ í-chiūⁿ chiū tio̍h khui thang-á. Chit-ê sī khah ha̍p tī kôaⁿ-thiⁿ ê só͘-chāi; nā-sī jia̍t-tài ê ūi, pīⁿ-sek ê un-tō͘ tio̍h 65°—70° F. (18.0°C.—21.0°C.)
 
 > **【全漢對照】**
-> **[病室的溫度]**
+> **［病室的溫度］**
 > 病室的寒暖計（就是檢查溫度的器具）著較常佇 60 度 F. 至 65 度 F. (15.6°C.—18.0°C.)。溫度若無到 60 度 F. (15.6°C.)，就著用火爐；若佇 65 度以上就著開窗仔。這是較合佇寒天的所在；若是熱帶的位，病室的溫度著 65°—70° F. (18.0°C.—21.0°C.)。
 
 ---
@@ -1046,7 +1046,7 @@ Pīⁿ-sek ê téng-bīn tio̍h ū thang-á, thang tháu chiah ê kiaⁿ-lâng �
 Tāi-khài lâi kóng, thong khong-khì ê hoat-tō͘, tio̍h siông-siông hō͘ i tú-hó, mî kap ji̍t siâng chi̍t iūⁿ; nā ji̍t-sî ū teh ōaⁿ khong-khì, mî-sî chiū kín koaiⁿ, án-ni khí-thâu sī hó, m̄-kú āu-lâi iû-goân sī bô lō͘-ēng. Tī tē 127 tô͘ chit ê thang-á thong-khong-khì ê hoat, chiū-sī ū siang tó͘
 
 > **【全漢對照】**
-> **[開窗仔]**
+> **［開窗仔］**
 > 病室的頂面著有窗仔，卡通透諸個驚人的氣，因為唔好的氣，較多佇頂面；若袂會佇房頂開窗仔，的確著開門楣抑是開窗仔。
 > 
 > 大概來講，通空氣的法度，著常常予伊拄好，暝及日同一樣；若日時有咧換空氣，暝時就緊關，按呢起頭是好，毋過後來油原是無路用。佇第 127 圖彼個窗仔通空氣的法，就是有雙堵……
@@ -1097,7 +1097,7 @@ Mî-sî chòe tāi-chì tio̍h khah tiām-chēng, in-ūi pīⁿ-lâng nā thia�
 Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 
 > **【全漢對照】**  
-> 阮倚靠基督向上帝有此號的信（哥林多後書 3: 4）。
+> 阮倚靠基督向上帝有此號的信（哥林多後書 3：4）。
 
 <!-- Page 189 End -->
 

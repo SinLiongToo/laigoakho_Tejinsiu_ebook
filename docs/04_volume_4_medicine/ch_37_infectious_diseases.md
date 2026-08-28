@@ -34,7 +34,7 @@ Khàn-hō͘ thoân-jiám chèng ê hoat-tō͘, pêng-siông ê kui-kú ū saⁿ 
 > 2. 猶未飲食，著用雪文水洗手，也著用消毒的藥水來浸手。
 > 3. 若頷喉疼，抑是較無甚麼精神、爽快，著趕緊共醫生講。
 > 
-> *(邊註：規矩)*
+> *（邊註：規矩）*
 
 ---
 
@@ -60,17 +60,17 @@ Pah-ji̍t-sàu (百日咳, *Whooping cough*).
 
 > **【全漢對照】**
 > 佇遮是欲約略講較要緊的病就是：
-> 小腸熱（小腸熱, *Enteric fever*）。
-> 窒扶斯熱（窒扶斯熱, *Typhus fever*）。
-> 猩紅熱（猩紅熱, *Scarlet fever*）。
-> 痲疹（痲疹, *Measles*）。
-> 耳下腺炎（耳下腺炎, *Mumps*）。
-> 天然痘（天然痘, *Small pox*, *Variola*）。
-> 水痘、假痘（水痘, *Chicken pox*, *Varicella*）。
-> 實扶的里亞（實扶的里亞，白喉症, *Diphtheria*）。
-> 百日嗽（百日咳, *Whooping cough*）。
+> 小腸熱（小腸熱，*Enteric fever*）。
+> 窒扶斯熱（窒扶斯熱，*Typhus fever*）。
+> 猩紅熱（猩紅熱，*Scarlet fever*）。
+> 痲疹（痲疹，*Measles*）。
+> 耳下腺炎（耳下腺炎，*Mumps*）。
+> 天然痘（天然痘，*Small pox*, *Variola*）。
+> 水痘、假痘（水痘，*Chicken pox*, *Varicella*）。
+> 實扶的里亞（實扶的里亞，白喉症，*Diphtheria*）。
+> 百日嗽（百日咳，*Whooping cough*）。
 > 
-> *(邊註：傳染病)*
+> *（邊註：傳染病）*
 
 ---
 
@@ -92,8 +92,8 @@ Hó-lia̍t-la (虎列拉, *Cholera*).
 Siáu-jî-kip-sèng chek-chhé-chiân-kak-iām (小兒急性脊髓前角炎, *Acute poliomyelitis*).
 
 > **【全漢對照】**  
-> 虎列拉（虎列拉, *Cholera*）。  
-> 小兒急性脊髓前角炎（小兒急性脊髓前角炎, *Acute poliomyelitis*）。
+> 虎列拉（虎列拉，*Cholera*）。  
+> 小兒急性脊髓前角炎（小兒急性脊髓前角炎，*Acute poliomyelitis*）。
 
 ---
 
@@ -123,7 +123,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 1. Chiām-ho̍k-kî (潛伏期, *Incubation period*): Tùi bî-seng-bu̍t ji̍p lâng seng-khu ê sî, kàu hit ê pīⁿ hoat-choh-khí-lâi ê ji̍t; á-sī lâi kóng, chiū-sī tùi jiám-tio̍h pīⁿ-to̍k khí, kàu hoat pīⁿ ûi-chí ê kî-kan.
 
 > **【全漢對照】**  
-> 1. 潛伏期（潛伏期, *Incubation period*）：對微生物入人身軀的時，到彼個病發作起來的日；抑是來講，就是對染著病毒起，到發病為止的期間。
+> 1. 潛伏期（潛伏期，*Incubation period*）：對微生物入人身軀的時，到彼個病發作起來的日；抑是來講，就是對染著病毒起，到發病為止的期間。
 
 ---
 
@@ -132,7 +132,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 2. Cheng-chìn-kî (增進期, *Stage of development, or invasion*): Chiū-sī jia̍t tùi chho͘-khí jia̍t kàu tiāⁿ-tio̍h koân ê kî.
 
 > **【全漢對照】**  
-> 2. 增進期（增進期, *Stage of development, or invasion*）：就是熱對初期熱到定著懸的期。
+> 2. 增進期（增進期，*Stage of development, or invasion*）：就是熱對初期熱到定著懸的期。
 
 ---
 
@@ -141,7 +141,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 3. Ke̍k-kî (極期, *Fastigium*): Chiū-sī jia̍t ê koân í-keng kàu tiāⁿ-tio̍h ê sî-kî.
 
 > **【全漢對照】**  
-> 3. 極期（極期, *Fastigium*）：就是熱的懸已經到定著的時期。
+> 3. 極期（極期，*Fastigium*）：就是熱的懸已經到定著的時期。
 
 ---
 
@@ -150,7 +150,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 4. Kiám-thè-kî (減退期, *Stage of defeverescence*): Chiū-sī jia̍t kàng-lo̍h kē ê sî-kî. Chit ê kiám-thè-kî ū-sî tī kúi-nā sî-kan-lāi chiah ōe thè, chit hō kiò-chòe hun-lī (分利, *crisis*, tē 470 tô͘); koh chi̍t khoán ê jia̍t tio̍h chi̍t ji̍t í-siōng, chiah chiām-chiām lo̍h kē, chit hō kiò-chòe sàn-hoàn (散渙, *lysis*, tē 471 tô͘, tē 548 bīn).
 
 > **【全漢對照】**  
-> 4. 減退期（減退期, *Stage of defeverescence*）：就是熱降落低的時期。這個減退期有時佇幾若時間內才會退，彼號叫做分利（分利, *crisis*, 第 470 圖）；閣一款的熱著一日以上，才漸漸落低，彼號叫做散渙（散渙, *lysis*, 第 471 圖，第 548 面）。
+> 4. 減退期（減退期，*Stage of defeverescence*）：就是熱降落低的時期。這個減退期有時佇幾若時間內才會退，彼號叫做分利（分利，*crisis*，第 470 圖）；閣一款的熱著一日以上，才漸漸落低，彼號叫做散渙（散渙，*lysis*，第 471 圖，第 548 面）。
 
 <!-- Page 595 End -->
 
@@ -164,7 +164,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 
 ![原書插圖 - 第 596 頁 (圖 1)](assets/illustrations/page_596_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)</em></p>
+<p class="figure-caption"><em>Tē 473 tô.—Chit ê tô· sī beh hō· lâng khòaⁿ hô·-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô·-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pēng-siōng chhâ chòe ê piān-tháng. In-ūi bô khàm, hô·-sîn hioh tī pùn-téng, kha bak-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô·-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō· hô·-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō· lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)</em></p>
 
 </div>
 
@@ -187,7 +187,7 @@ Tē 473 tô͘.—Chit ê tô͘ sī beh hō͘ lâng khòaⁿ hô͘-sîn thoân-ji
 5. Kheng-khoài-kî (輕快期, _Convalescence_): Chit kî sī lóng bô jia̍t ê sî-kî; m̄-kú lâng tio̍h an-chēng, kàu seng-khu kiông-chòng, hō͘ to̍k-khì lóng lī. Tī chit kî sī iàu-kín tio̍h sió-sim chiàu-kò͘, tiâu-ióng, nā bô, pīⁿ ē koh khí.
 
 > **【全漢對照】**
-> 5. 輕快期 (輕快期, _Convalescence_)：此期是攏無熱的時期；毋過人著安靜，到身軀強壯，互毒氣攏離。佇此期是要緊著小心照顧、調養，若無，病會閣起。
+> 5. 輕快期 （輕快期，_Convalescence_）：此期是攏無熱的時期；毋過人著安靜，到身軀強壯，互毒氣攏離。佇此期是要緊著小心照顧、調養，若無，病會閣起。
 
 ---
 
@@ -247,7 +247,7 @@ Sin-thé ióng-kiāⁿ, khah-iāⁿ chōe-chōe chîⁿ.
 
 ![原書插圖 - 第 598 頁 (圖 1)](assets/illustrations/page_598_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel).</em></p>
+<p class="figure-caption"><em>Tē 474 tô:—Sió-tng-jiát, sió-tng-nih Peyer-sī ê chip-chôaⁿ ê ùi-iông (modified from Kast and Rumpel).</em></p>
 
 </div>
 
@@ -314,7 +314,7 @@ khah khoài hó. Ài chiah chiú ê lâng chiū khah oh-tit i-tī. Lâng nā bat
 
 ![原書插圖 - 第 599 頁 (圖 1)](assets/illustrations/page_599_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)</em></p>
+<p class="figure-caption"><em>Tē 475 tô.—Chit ê tô sī chí-bēng sió-tng-jiát ê sió-tng-nih ê ùi-iōng : 1, pak-mo̍h ; 2, tng put-sûi-ì-kun ; 3, huih-kńg ; 4, liâm-mo̍h ; 5, sió-tng-jiát-sēng ùi-iōng ; 6, tng-nih chhut-huih ; 7, tng chhng-khang. (From Cantlie's " Nursing Manual.)</em></p>
 
 </div>
 
@@ -576,7 +576,7 @@ Sió-tn̂g-jia̍t ê pīⁿ-lâng tāi-, siáu-piān ê sî, sûi-sî ti̍h ēng
 [...hỏk], kap teh kah ê phē-toaⁿ, tiỏh tāi-sèng chìm tī siau-tỏk-iỏh-chúi, cha̍p-jī tiám-cheng-kú, jiân-āu chiah thang sóe.
 
 > **【全漢對照】**
-> [……服]，佮咧蓋的被單，著代先浸佇消毒藥水，十二點鐘久，然後才通洗。
+> ［……服］，佮咧蓋的被單，著代先浸佇消毒藥水，十二點鐘久，然後才通洗。
 
 ---
 
@@ -605,8 +605,8 @@ Iā ū kúi-nā hāng pa̍t mi̍h thang chia̍h, chiū-sī ám, tê kap gû-leng
 
 ---
 
-> *Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13: 5).*  
-> （仁愛無快受氣 (I 哥林多 13: 5)。）
+> *Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13：5)。*  
+> （仁愛無快受氣 (I 哥林多 13：5)。）
 
 <!-- Page 603 End -->
 
@@ -620,7 +620,7 @@ Iā ū kúi-nā hāng pa̍t mi̍h thang chia̍h, chiū-sī ám, tê kap gû-leng
 
 ![原書插圖 - 第 604 頁 (圖 1)](assets/illustrations/page_604_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register).</em></p>
+<p class="figure-caption"><em>Tē 477 tô.—Sió-tng-jiát thé-un-pió (Register).</em></p>
 
 </div>
 
@@ -681,7 +681,7 @@ Chèng-thâu nā khah siong-tiōng ê sî, pīⁿ-lâng ōe tó
 
 ![原書插圖 - 第 605 頁 (圖 1)](assets/illustrations/page_605_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Múi 4 tiám-cheng ê thé-un pió
+<p class="figure-caption"><em>Múi 4 tiám-cheng ê thé-un pió
 Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, beh hō͘ lâng khòaⁿ sóe léng-chúi-e̍k ê lī-ek. O͘-sek-ê sī pêng-siông ê thé-un ; âng-sek-ê, sī léng-chúi-e̍k liáu-āu thé-un ê lo̍h kē ; ē-bīn kì méh-sò͘ thang khòaⁿ sóe liáu méh ū kiám-chió, tùi án-nī ōe hō͘ sim ê kang kiám-chió. Chi̍t ê hoān-chiá ū án-nī sóe léng-chúi-e̍k 25 pái, ū-sî chi̍t ji̍t 3 pái ; lō͘-bé choan hó.</em></p>
 
 </div>
@@ -707,20 +707,20 @@ Tē 476 tô: - Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chit-pō-hūn, be
 - **Ge̍h ji̍t** (月日): 24, 25, 26, 27
 
 > **【全漢對照】**
-> - **時** (時間)：午前、午後
+> - **時** （時間）：午前、午後
 > - **大便** / **灌腸**
 > - **小便**：有
-> - **溫度 (華氏)** (97°–107°)
-> - **體溫的本度** (正常體溫，約 98.4°F)
-> - **嘴裡體溫** (口溫)
-> - **胳下空裡體溫** (腋溫)
+> - **溫度 （華氏）** (97°–107°)
+> - **體溫的本度** （正常體溫，約 98.4°F）
+> - **嘴裡體溫** （口溫）
+> - **胳下空裡體溫** （腋溫）
 > - **冷水浴 90–78° F.**
-> - **冷水拭** (冷水擦澡)
-> - **冷濕布包** (冷濕敷包紮)
-> - **咧睏** (在睡覺)
+> - **冷水拭** （冷水擦澡）
+> - **冷濕布包** （冷濕敷包紮）
+> - **咧睏** （在睡覺）
 > - **病幾日**：13、14、15、16
-> - **脈** (脈搏數)
-> - **呼吸** (呼吸次數)
+> - **脈** （脈搏數）
+> - **呼吸** （呼吸次數）
 > - **月日**：24、25、26、27
 
 ---
@@ -745,7 +745,7 @@ Tē 476 tô͘. — Sió-tûg-jia̍t hoān-chiá ê thé-un-pió ê chi̍t-pō͘-
 chhiò-chhiò, iā lóng hun-hun bê-bê, put-séng-jîn-sū, chhuì pe lām-sám kóng, chit-ê kiò-chòe chiam-bōng (譫妄, *delirium*). Chhuì-tûn ta kàu pit-khì, chih-thai kāu, pê chhng khàng chhiỏh, m̄-chia̍h pòaⁿ hāng. Chit khoán sī gûi-hiám, m̄-kú ū-sî ōe hó. Chiàu-kò͘ chit khoán ê pīⁿ-lâng m̄-thang kóng sī bô ng̀-bāng. Chit khoán ê pīⁿ bōe àn-sǹg-tit tī-sî chiah ōe hó, in-ūi teh-beh hó ê sî koh-chài hoa̍t jiat chi̍t pái, á-sī nn̄g pái sī khoài-khoài.
 
 > **【全漢對照】**
-> **[側標：譫妄]**
+> **［側標：譫妄］**
 > 笑笑，也攏昏昏迷迷、不省人事，嘴𫝛亂攙講，這个嗌做譫妄（譫妄，*delirium*）。嘴脣燥到裂去，舌苔厚，爬床控席，伓食半項。這款是危險，毋過有時會好。照顧這款的病人毋通講是無向望。這款的病袂按算得值時才會好，因為欲好的時閣再發熱一擺，抑是兩擺是快快（平常）。
 
 ---
@@ -754,7 +754,7 @@ chhiò-chhiò, iā lóng hun-hun bê-bê, put-séng-jîn-sū, chhuì pe lām-sá
 Pīⁿ-lâng ê tn̂g-á phòa-chhng-khang ōe pìⁿ-chiâⁿ pak-mo̍h-iām. Nā tú-tióh chit hō, i-seng tióh liâm-piⁿ kā i chhiú-su̍t pak-tó, i-tī phòa ê só͘-chāi.
 
 > **【全漢對照】**
-> **[側標：腸穿孔]**
+> **［側標：腸穿孔］**
 > 病人的腸仔破穿孔會變成腹膜炎。若抵著這號，醫生著連鞭共伊手術腹肚，醫治破的所在。
 
 ---
@@ -763,7 +763,7 @@ Pīⁿ-lâng ê tn̂g-á phòa-chhng-khang ōe pìⁿ-chiâⁿ pak-mo̍h-iām. N
 Ū-sî pīⁿ-lâng bōe siáu-piān, nā-sī kè cha̍p-jī tiám-cheng-kú iáu-bē siáu-piān, chiū tióh kā i-seng kóng.
 
 > **【全漢對照】**
-> **[側標：小便]**
+> **［側標：小便］**
 > 有時病人袂小便，若是過十二點鐘久猶未小便，就著共醫生講。
 
 ---
@@ -772,7 +772,7 @@ Pīⁿ-lâng ê tn̂g-á phòa-chhng-khang ōe pìⁿ-chiâⁿ pak-mo̍h-iām. N
 Ū-sî pak-tó ū tiùⁿ, phòng-hong. Tn̂g-lāi ū khì, i-tī ê hoat-tō͘, chiū-sī ēng pàng khì ê chhiū-leng-kńg, kiò-chòe tit-tn̂g-tō-khì-kńg, kā chhng tùi kong-bûn ji̍p-khì (tī 237 bīn); iā thang ēng *enema terebinthinae* koàn-tn̂g. Nā bô tāi-piān, múi nn̄g ji̍t tióh ēng sat-bûn-chúi-koàn-tn̂g, hō͘ i tāi-piān ōe thong. Nā-sī hā-lī, ū-sî ēng hún-chiuⁿ á-sī ám kap *opium enema* koàn-tn̂g-hoat (tē 235 bīn).
 
 > **【全漢對照】**
-> **[側標：腸內有氣 / 灌腸]**
+> **［側標：腸內有氣 / 灌腸］**
 > 有時腹肚有脹、膨風。腸內有氣，醫治的法度，就是用放氣的樹奶管，嗌做直腸導氣管，共穿對肛門入去（佇 237 面）；也通用 *enema terebinthinae*（松節油灌腸劑）灌腸。若無大便，每兩日著用雪文水（肥皂水）灌腸，予伊大便會通。若是下痢，有時用粉漿抑是泔佮 *opium enema*（阿片灌腸劑）灌腸法（第 235 面）。
 
 ---
@@ -781,7 +781,7 @@ Pīⁿ-lâng ê tn̂g-á phòa-chhng-khang ōe pìⁿ-chiâⁿ pak-mo̍h-iām. N
 Nā-sī pīⁿ-lâng tn̂g-lāi ū chhut-huih, tāi-piān-nih ū kū ê huih, ū-sî âng-sek, ū-sî o͘-sek. Nā khàn-hō͘ khòaⁿ-kìⁿ chit hō sek, tióh liâm-piⁿ kā i-seng kóng.
 
 > **【全漢對照】**
-> **[側標：出血]**
+> **［側標：出血］**
 > 若是病人腸內有出血，大便裡有舊的血，有時紅色，有時黑色。若看護看見這號色，著連鞭共醫生講。
 
 ---
@@ -790,7 +790,7 @@ Nā-sī pīⁿ-lâng tn̂g-lāi ū chhut-huih, tāi-piān-nih ū kū ê huih, ū
 Nā-sī pīⁿ-lâng m̄-chai-lâng, khàn-hō tióh sió-sim chiàu-kò͘, in-ūi kiaⁿ-liáu i ka-kī ngiauh-khí--lâi, tì-kàu siū-siong. Bóh-tit hō͘ pīⁿ-lâng sî-siông tó chhiò-chhiò khùn, kiaⁿ-liáu ōe sù-jiòk-siong, á-sī khí hì-iām.
 
 > **【全漢對照】**
-> **[側標：毋知人]**
+> **［側標：毋知人］**
 > 若是病人毋知人，看護著小心照顧，因為驚了伊家己硞起來，致到受傷。莫得予病人時常倒笑笑（仰臥）睏，驚了會四褥傷（褥瘡），抑是起肺炎。
 
 ---
@@ -806,7 +806,7 @@ Nā-sī pīⁿ-lâng m̄-chai-lâng, khàn-hō tióh sió-sim chiàu-kò͘, in-�
 Pīⁿ nā-sī ū chiām-chiām khah khin, múi ji̍t iā thang ke-thiⁿ tām-póh khah khoài siau-hòa ê si̍t-bu̍t hō͘ i chia̍h. Tióh thèng-hāu i-seng ū bēng-lēng, chiah thang hō͘ pīⁿ-
 
 > **【全漢對照】**
-> **[側標：病人欲好]**
+> **［側標：病人欲好］**
 > 病若是有漸漸較輕，每日也通加添淡薄較快消化的食物予伊食。著聽候醫生有命令，才通予病……
 
 <!-- Page 606 End -->
@@ -833,7 +833,7 @@ lâng khí-lâi-chē. Tē it pái ti̍h hō͘ tiàm tōa liâu the-í-nīh the, 
 Lim chia̍h ti̍h sió-sim, in-ūi chit hō pīⁿ-lâng beh hó ê sî put-chí iau, nā bô put-chí sió-sim chiàu-kò͘, i beh thau chia̍h. Bat ū chi̍t-ê lâng teh-beh hó ê sî, put-chí iau, thau khí-lâi, khì chia̍h gû-bah, hit mī tng-á phòa-chhng-khang, keh ji̍t sòa sí--khì. Só͘-í ti̍h sió-sim, iā m̄-thang siuⁿ lô-tōng, in-ūi kiaⁿ-liáu pīⁿ ōe koh hoan-ho̍k. Chit hō ê pīⁿ-lâng, khàn-hō͘ ti̍h kā i ê chhin-chhiâⁿ kóng, chhian-bān-m̄-thang the̍h mi̍h lâi hō͘ i chia̍h, bô lūn sím-mi̍h mi̍h. Pīⁿ-lâng hó ê sî ti̍h kā i sóe-e̍k; tī chúi ê lāi-bīn ti̍h thîn *lysol* 10.0 c.c., á-sī *lotio carbolic*. I ê saⁿ-á-khò͘, phē-toaⁿ, bîn-chhng, ti̍h lóng ēng siau-to̍k-io̍h-chúi kā chìm, á-sī sóe.
 
 > **【全漢對照】**
-> **[食物著細膩]**
+> **［食物著細膩］**
 > 飲食著小心，因為這號病人欲好的時不止枵，若無不止小心照顧，伊欲偷食。曾有一個人teh欲好的時，不止枵，偷起來，去食牛肉，彼暝腸仔破穿孔，隔日紲死去。所以著小心，也毋通傷勞動，因為驚了病會閣反復。這號的病人，看護著共伊的親情講，千萬毋通提物來予伊食，無論甚麼物。病人好的時著共伊洗浴；佇水之內面著chenn *lysol* 10.0 c.c.，抑是 *lotio carbolic*。伊的衫仔褲、被單、眠床，著攏用消毒藥水共浸，抑是洗。
 
 ---
@@ -850,13 +850,13 @@ Taⁿ beh koh tāi-lio̍k kóng, khàn-hō͘ sió-tn̂g-jia̍t chèng ê kui-kú
 5. **[Thé-un-khì ti̍h siau-to̍k]** Thé-un-khì ti̍h chìm tī *lotio carbolic* ê io̍h-chúi. Beh hō͘ pīⁿ-lâng ēng, ti̍h tāi-seng ēng chúi sóe, koh chhit. Ke-si, thé-un-khì ti̍h lēng-gōa sia̍t, ti̍h siau-to̍k.
 
 > **【全漢對照】**
-> **[看護小腸熱的規矩：]**
+> **［看護小腸熱的規矩：］**
 > 今欲閣大略講，看護小腸熱症的規矩：
-> 1. **[器具著消毒]** 患者大、小便的器具，欲用的時，佮用了，著用消毒藥水下彼內面。
-> 2. **[衫著消毒]** 患者用過的被單、衫仔褲，著先浸下消毒藥水裡，後來才洗。
-> 3. **[洗手]** 無論共病人做甚麼代誌，攏著用消毒藥水洗手。
-> 4. **[大、小便]** 患者大、小便，毋通放大床下。著用布來蓋，放佇驗大、小便室內。
-> 5. **[體溫器著消毒]** 體溫器著浸佇 *lotio carbolic* 的藥水。欲予病人用，著代先用水洗，閣拭。器具、體溫器著另外設，著消毒。
+> 1. **［器具著消毒］** 患者大、小便的器具，欲用的時，佮用了，著用消毒藥水下彼內面。
+> 2. **［衫著消毒］** 患者用過的被單、衫仔褲，著先浸下消毒藥水裡，後來才洗。
+> 3. **［洗手］** 無論共病人做甚麼代誌，攏著用消毒藥水洗手。
+> 4. **［大、小便］** 患者大、小便，毋通放大床下。著用布來蓋，放佇驗大、小便室內。
+> 5. **［體溫器著消毒］** 體溫器著浸佇 *lotio carbolic* 的藥水。欲予病人用，著代先用水洗，閣拭。器具、體溫器著另外設，著消毒。
 
 ---
 
@@ -866,7 +866,7 @@ Taⁿ beh koh tāi-lio̍k kóng, khàn-hō͘ sió-tn̂g-jia̍t chèng ê kui-kú
 Chì-hû-su-jia̍t (*Typhus fever*): Tēng-gī: Chiū-sī thoân-jiám pīⁿ, hut-jiân-kan khí, sîn-keng chèng-chōng tāng, khah-siōng kè nñg lé-pài-kú chiah hun-lî.
 
 > **【全漢對照】**
-> **[窒扶斯熱]**
+> **［窒扶斯熱］**
 > 窒扶斯熱（*Typhus fever*）：定義：就是傳染病，忽然間起，神經症狀重，較常過兩禮拜久才分離。
 
 <!-- Page 607 End -->
@@ -911,7 +911,7 @@ Thé-un hut-jiân khí 104°—105° tō F. (40°—40.6° C.), tē it koâiⁿ 
 **Goân-in** [Goân-in] : Tú-tú sī sím-mi̍h to̍k iáu-bē koat-tēng. Chit-ê chiū-sī liû-hêng-sèng (流行性, *epidemic*), ū-sî sàn-hoat-sèng, (散發性, *sporadic*). Khah-siông sī gín-ná 2 chì 12 hè. Khah-siông jiám-tio̍h chi̍t pái nā-tiāⁿ, m̄-kú n̄g saⁿ pái iā bat.
 
 > **【全漢對照】**
-> **原因**〔原因〕：拄拄是甚麼毒猶未決定。這個就是流行性（流行性, *epidemic*），有時散發性（散發性, *sporadic*）。較常是囡仔 2 至 12 歲。較常染著一擺若定，毋過兩三擺也捌。
+> **原因**〔原因〕：拄拄是甚麼毒猶未決定。這個就是流行性（流行性，*epidemic*），有時散發性（散發性，*sporadic*）。較常是囡仔 2 至 12 歲。較常染著一擺若定，毋過兩三擺也捌。
 
 ---
 
@@ -927,7 +927,7 @@ Thé-un hut-jiân khí 104°—105° tō F. (40°—40.6° C.), tē it koâiⁿ 
 Góa siat-sú chòe sian-ti bêng-pe̍k lóng-chóng ê ò-biāu kap lóng-chóng ê chai-bat; koh siat-sú ū chiâu-pī ê sìn, kàu-gia̍h lâi î-soaⁿ, nā bô jîn-ài, góa chiū bōe sǹg chòe sī sím-mih (I Ko-lîm-to 13: 2).
 
 > **【全漢對照】**
-> 我設使做先知，明白攏總的奧妙佮攏總的知拔；閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼（哥林多前書 13: 2）。
+> 我設使做先知，明白攏總的奧妙佮攏總的知拔；閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼（哥林多前書 13：2）。
 
 <!-- Page 608 End -->
 
@@ -993,7 +993,7 @@ Teh liù-phê khí-lâi ê sî, sī chin gâu thoân-jiám pa̍t lâng, só͘-í
 **Goân-in**：Tú-tú sī sím-mih to̍k iáu-bē koat-tēng. Khah-siông tú-tióh chit ê pīⁿ chiū-sī sòe-hàn gín-ná kap siàu-liân lâng. Môa-chín chiū-sī hong-thó͘ pīⁿ (風土病, *endemic*), ū-sî liû-hêng pīⁿ (*epidemic*).
 
 > **【全漢對照】**
-> **原因**：拄拄是甚麼毒猶未決定。較常拄著這个病就是細漢囡仔佮少年人。麻疹就是風土病 (風土病, *endemic*)，有時流行病 (*epidemic*)。
+> **原因**：拄拄是甚麼毒猶未決定。較常拄著這个病就是細漢囡仔佮少年人。麻疹就是風土病 （風土病，*endemic*），有時流行病 (*epidemic*)。
 
 ---
 
@@ -1056,7 +1056,7 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 Mî-sî tio̍h pan ê khàn-hō͘, m̄-thang the tī the-í-nih, kiaⁿ-liáu khùn-khì.
 
 > **【全漢對照】**
-> 現今所存 ê，就是信、向望、仁愛，此三項，其中第一大 ê 是仁愛（I 哥林多 13: 13）。
+> 現今所存 ê，就是信、向望、仁愛，此三項，其中第一大 ê 是仁愛（I 哥林多 13：13）。
 > 瞑時著班 ê 看護，毋通敧佇梯椅 nih，驚了睏去。
 
 <!-- Page 610 End -->
@@ -1071,7 +1071,7 @@ Mî-sî tio̍h pan ê khàn-hō͘, m̄-thang the tī the-í-nih, kiaⁿ-liáu kh
 
 ![原書插圖 - 第 611 頁 (圖 1)](assets/illustrations/page_611_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).</em></p>
+<p class="figure-caption"><em>Tē 478 tô.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín ; 2, khiu-chín ; 3, chúi-phā-chín ; 4, lâng-phā ; 5, kiat-ka-phê ; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).</em></p>
 
 </div>
 
@@ -1098,7 +1098,7 @@ Tī-liâu: Tó tī bîn-chhng. Chia̍h khoài siau-hòa ê mih. Hit ê chéng ê
 Thian-jiân-chu: Tēng-gī: Chit-ê chiū-sī gâu thoân-jiám ê pīⁿ, i só chhut ê hoat-chín ū keng-kè chiah ê chām: thian-jiân-chu khiu-chín (丘疹, papule), thian-jiân-chu chúi-phā-chín (水疱疹, vesicle), thian-jiân-chu lâng-phā (膿疱, pustule), kiat-ka-phê (結痂皮, scabbing), iā i ê thé-un sī khah kî-koài ê khoán.
 
 > **【全漢對照】**
-> 天然痘：定義：這個就是𠢕傳染的病，伊所出的發疹有經過諸個站：天然痘丘疹（丘疹, papule），天然痘水泡疹（水疱疹, vesicle），天然痘膿泡（膿疱, pustule），結痂皮（結痂皮, scabbing），也伊的體溫是較奇怪的款。
+> 天然痘：定義：這個就是𠢕傳染的病，伊所出的發疹有經過諸個站：天然痘丘疹（丘疹，papule），天然痘水泡疹（水疱疹，vesicle），天然痘膿泡（膿疱，pustule），結痂皮（結痂皮，scabbing），也伊的體溫是較奇怪的款。
 
 ---
 
@@ -1107,7 +1107,7 @@ Thian-jiân-chu: Tēng-gī: Chit-ê chiū-sī gâu thoân-jiám ê pīⁿ, i só
 Tē 478 tô͘.—Thian-jiân-chu ê hoat-chín: 1, phê-ē ê khiu-chín; 2, khiu-chín; 3, chúi-phā-chín; 4, lâng-phā; 5, kiat-ka-phê; 6, hûn. (From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).
 
 > **【全漢對照】**
-> 第 478 圖。——天然痘的發疹：1, 皮下的丘疹；2, 丘疹；3, 水泡疹；4, 膿泡；5, 結痂皮；6, 痕。(From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers).
+> 第 478 圖。——天然痘的發疹：1，皮下的丘疹；2，丘疹；3，水泡疹；4，膿泡；5，結痂皮；6，痕。(From Cantlie's “Nursing Mauual,” Cassell and Co., Ltd., publishers)。
 
 ---
 
@@ -1384,7 +1384,7 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chōe tō͘.
 
 ![原書插圖 - 第 615 頁 (圖 1)](assets/illustrations/page_615_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)</em></p>
+<p class="figure-caption"><em>Tē 479 tô.--Pīⁿ-lâng teh tó ê khoán-sit hō͘ chhiú-su̍t-chiá chòe khì-kńg-chhiat-khui-su̍t. (From an American Text-Book of the Diseases of Children.)</em></p>
 
 </div>
 
@@ -1442,7 +1442,7 @@ Tó ê khoán-sit khòaⁿ tē 479 tô͘.
 
 ![原書插圖 - 第 616 頁 (圖 1)](assets/illustrations/page_616_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 480 tô.—A, khì-kńg-hok-kńg: 1, lāi-kńg, 2, gōa-kńg ; B, hoān-chiá ēng khì-kńg-hok-kńg (Stoney).</em></p>
 
 </div>
 
@@ -1882,7 +1882,7 @@ Chèng-chōng: Chiâm-ho̍k-kî sī gō͘ ji̍t chì cha̍p ji̍t. Pīⁿ-lâng 
 Iâ-so͘ kóng Lín tio̍h saⁿ-thiàⁿ chhin-chhiūⁿ góa thiàⁿ lín, che sī góa ê bēng-lēng (Iok-hān 15 : 12).
 
 > **【全漢對照】**
-> 耶穌講：「恁著相疼親像我疼恁，這是我兮命令。」（約翰 15 : 12）
+> 耶穌講：「恁著相疼親像我疼恁，這是我兮命令。」（約翰 15：12）
 
 <!-- Page 622 End -->
 

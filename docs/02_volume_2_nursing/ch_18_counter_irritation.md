@@ -58,7 +58,7 @@ Kài-loa̍h chòe chhì-kek-io̍h sī hó ēng; ū kài-loa̍h-iû, kài-loa̍h-
 chōe chúi; chòe chhin-chhiūⁿ iòh-ko chiū hó. Ēng chi̍t tiâu pheng-tòa-pò͘, á-sī pát khoán pỏh ê pò͘, chhin-chhiūⁿ môa-pò͘. Chiong kài-loảh phi tī pò͘ ê téng-bīn, chha-put-to saⁿ chhùn tn̂g, nñg chhùn khoah. Théh kok chi̍t tè pò͘ (pỏh-pỏh-ê) khàm tī kài-loảh-téng. Théh ū-pīⁿ ê kài-loảh, kap pò͘ hē phê-hu-téng. Koh cháp hun-cheng, pīⁿ-lâng chai phê ū sio, iā koh cháp hun ōe sió-khóa thiàⁿ, iā tńg âng. Án-ni chiū kàu-gia̍h, tiỏh théh-khí-lâi, m̄-thang hō͘ i hoat-phā. Siat-sú nā ū kài-loảh liām tī phê-hu-ni̍h, tiỏh ēng mî-hoe, ûn-ûn-á cheh hō͘ i khí-lâi; chiah ēng sio mî am-teh, ēng pheng-tòa kā pák.
 
 > **【全漢對照】**
-> **[芥辣]**
+> **［芥辣］**
 > 多水；做親像藥膏就好。用一條繃帶布，抑是別款薄的布，親像麻布。將芥辣披佇布的頂面，差不多三寸長，兩寸闊。提各一塊布（薄薄的）蓋佇芥辣頂。提有備的芥辣，佮布下皮膚頂。擱十分鐘，病人知皮有燒，也擱十分會小可痛，也轉紅。按呢就夠額，著提起來看，毋通用互伊發皰。設使若有芥辣黏佇皮膚裡，著用棉花，勻勻仔捽互伊起來；才用燒棉罨咧，用繃帶共縛。
 
 ---
@@ -75,7 +75,7 @@ Nā-sī ū bóe piān ê kài-loảh-ko chòe kui phìⁿ, chit-ê thang ùn lé
 Ēng kài-loảh-iû lâi thui heng-khám, pak-tó́, á-sī pát ūi ū pīⁿ ê sό͘-chāi, ōe hō͘ phê tńg âng. Chit hō m̄-thang thui kè-thâu, kiaⁿ-liáu ōe hoat phā. Thui liáu, ēng hang sio ê nî-pò͘ khàm iā sī hó.
 
 > **【全漢對照】**
-> **[芥辣油]**
+> **［芥辣油］**
 > 用芥辣油來推胸坎、腹肚，抑是別位有病的所在，會互皮轉紅。這號毋通推過頭，驚了會發皰。推了，用烘燒的絨布蓋也是好。
 
 ---
@@ -85,7 +85,7 @@ Nā-sī ū bóe piān ê kài-loảh-ko chòe kui phìⁿ, chit-ê thang ùn lé
 Ū-sî ēng chhat-iòh chòe chhì-kek, á-sī ín-chhiah ê lō͘-ēng. Ū-sî ēng *tinctura iodi*, á-sī *linimentum iodi*, kā chhat. Nā chhat saⁿ sì pái, kiám-chháih phê-hu ōe chhớ-chhớ; nā án-ni liù-phê m̄-thang koh chhat.
 
 > **【全漢對照】**
-> **[搽藥]**
+> **［搽藥］**
 > 有時用搽藥做刺激，抑是引赤的用處。有時用 *tinctura iodi*（碘酒），抑是 *linimentum iodi*（碘搽劑），共搽。若搽三四擺，減綵皮膚會瘛瘛；若按呢溜皮毋通擱搽。
 
 ---
@@ -210,7 +210,7 @@ Nā ài hō͘ io-kut ê pō͘-ūi hoat-phā, tióh chiong îⁿ-kho͘-á ūi hit
 Jîn-ài, hoān-sū jīm-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13 : 7).
 
 > **【全漢對照】**
-> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13 : 7）。
+> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13：7）。
 
 <!-- Page 241 End -->
 
@@ -224,7 +224,7 @@ Jîn-ài, hoān-sū jīm-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-
 
 ![原書插圖 - 第 242 頁 (圖 1)](assets/illustrations/page_242_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></p>
+<p class="figure-caption"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></p>
 
 </div>
 
@@ -275,7 +275,7 @@ Tē 154 tô͘.—Paquelin-sī pe̍h-kim sio-chiok-khì. (J.O)
 
 ![原書插圖 - 第 243 頁 (圖 1)](assets/illustrations/page_243_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -422,7 +422,7 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng hō͘ gô-khî teh suh ê sî-chūn tòng-bōe-
 
 * [註] Nā iáu-bē sìng ho-khip, m̄-thang kì chha-put-to.
 > **【全漢對照】**  
-> * [註] 若猶未成呼吸，毋通記「差不多」。
+> * ［註］ 若猶未成呼吸，毋通記「差不多」。
 
 <!-- Page 245 End -->
 
@@ -436,7 +436,7 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng hō͘ gô-khî teh suh ê sî-chūn tòng-bōe-
 
 ![原書插圖 - 第 246 頁 (圖 1)](assets/illustrations/page_246_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></p>
 
 </div>
 
@@ -480,7 +480,7 @@ Huih nā bē chí, chiū tio̍h liâm-piⁿ chiong lâu huih ê só͘-chāi ê k
 
 ---
 
-> *(圖附說明：Tē 156 tô͘:—Khòaⁿ tē 231 bīn / From Cantlies' "Nursing Mannal," Cassell and Co., publishers.)*  
+> *（圖附說明：Tē 156 tô͘:—Khòaⁿ tē 231 bīn / From Cantlies' "Nursing Mannal," Cassell and Co., publishers.）*  
 > **【全漢對照】**（第 156 圖：——看第 231 面）
 
 <!-- Page 246 End -->

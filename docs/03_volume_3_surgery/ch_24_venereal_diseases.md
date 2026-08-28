@@ -137,7 +137,7 @@ lâng. Khàn-hō͘ nā án-ni lâi kè-tio̍h pa̍t lâng, i ê chōe-kòa put-c
 Chit ê pīⁿ kóng kàu tī chia nā-tiāⁿ, sī beh hō͘ khàn-hō͘ thang chai, nā khàn-hō͘ chit hō pīⁿ-lâng tio̍h cha̍p hun sió-sim. Tùi jiám-tio̍h lîm-pīⁿ só͘ tè ê sio̍k-hoat pīⁿ (續發病, sequelae) chin chōe; ū-ê chit-sì-lâng bōe tng kun. Só͘-í tio̍h chim-chiok, kiaⁿ-liáu ōe jiám-tio̍h ka-kī, á-sī thoân-jiám-tio̍h pa̍t lâng.
 
 > **【全漢對照】**
-> 這个病講到佇遮爾定，是欲予看護通知，若看護這號病人著十分小心。對染著淋病所綴的續發病（續發病, sequelae）真多；有的這世人袂斷根。所以著斟酌，驚了會染著自己，抑是傳染著別人。
+> 這个病講到佇遮爾定，是欲予看護通知，若看護這號病人著十分小心。對染著淋病所綴的續發病（續發病，sequelae）真多；有的這世人袂斷根。所以著斟酌，驚了會染著自己，抑是傳染著別人。
 
 ---
 
@@ -146,7 +146,7 @@ Chit ê pīⁿ kóng kàu tī chia nā-tiāⁿ, sī beh hō͘ khàn-hō͘ thang 
 Mûi-to̍k (梅毒, syphilis) chiū-sī hoa-liú thoân-jiám pīⁿ ê chit khoán.
 
 > **【全漢對照】**
-> 梅毒（梅毒, syphilis）就是花柳傳染病的一款。
+> 梅毒（梅毒，syphilis）就是花柳傳染病的一款。
 
 ---
 
@@ -173,7 +173,7 @@ Mûi-to̍k hun chòe saⁿ kî, kiò-chòe tē-it-kî-mûi-to̍k, tē-jī-kî-m�
 Chiâm-ho̍k-kî 2 chì 6 lé-pài. Tē it-kî-mûi-to̍k ê kî-kan sī tùi chhut mûi-to̍k-hā-kam (下疳, chancre) ê sî, kàu tē-jī-kî, chiū-sī 4 chì 8 lé-pài-kú. Chit ê hā-kam sī chit lia̍p chha-put-to chit lia̍p chhek ê tōa, tāi-seng tēng, iā bōe thiàⁿ, āu-lâi tī tiong-ng nōa-khì chiah chhut póh-póh pâi-siat-mi̍h. Chit ê hā-kam tāi-seng chhut ê só͘-chāi, khah-siông sī tī im-keng-thâu, á-sī pau-phê ê lāi-bīn pêng, á-sī jiō-tō-kháu; im-tō á-sī im-kháu ê pîⁿ-á; ū-sî tī pa̍t ūi, chhin-chhiūⁿ chhùi-tûn, kong-bûn, chńg-thâu-á. Bat ū khàn-hō͘ á-sī i-seng tùi bong-tio̍h pīⁿ-lâng ê goân-in, chiah jiám-tio̍h chit hō pīⁿ. Hit só͘-chāi ê lîm-pa-chôaⁿ ū chéng-khí-lâi.
 
 > **【全漢對照】**
-> 潛伏期 2 至 6 禮拜。第一期梅毒的期間是對出梅毒下疳（下疳, chancre）的時，到第二期，就是 4 至 8 禮拜久。這个下疳是一粒差不多一粒粟的大，代先硬，也袂疼，後來佇中央爛去才出薄薄排泄物。這个下疳代先出的所在，較常是佇陰莖頭，抑是包皮的內面爿，抑是尿道口；陰道抑是陰口的平仔；有時佇別位，親像嘴脣、肛門、指頭仔。曾有看護抑是醫生對摸著病人的原因，才染著這號病。彼所在的分泌泉/淋巴泉有腫起來。
+> 潛伏期 2 至 6 禮拜。第一期梅毒的期間是對出梅毒下疳（下疳，chancre）的時，到第二期，就是 4 至 8 禮拜久。這个下疳是一粒差不多一粒粟的大，代先硬，也袂疼，後來佇中央爛去才出薄薄排泄物。這个下疳代先出的所在，較常是佇陰莖頭，抑是包皮的內面爿，抑是尿道口；陰道抑是陰口的平仔；有時佇別位，親像嘴脣、肛門、指頭仔。曾有看護抑是醫生對摸著病人的原因，才染著這號病。彼所在的分泌泉/淋巴泉有腫起來。
 
 ---
 
@@ -222,7 +222,7 @@ Tē-saⁿ-kî-mûi-to̍k sī nn̄g nî í-siōng. Ū-sî jiám-tio̍h sì-cha̍p
 Iáu-kú ū koh chi̍t hāng, chiū-sī sian-thian-sèng-mûi-to̍k (先天性梅毒 congenital syphilis). Chit ê pīⁿ sī lāu-pē á-sī lāu-bú, nā ū mûi-to̍k, tùi án-ni ōe liû-thoân kàu i ê kiáⁿ-jî. Nā tī chú-kiong-lāi gín-ná ū sian-thian-mûi-to̍k, khah-siông ōe liû-sán (流產, abortion, chiū-sī ka-la̍uh-sin). Nā chhut-sì oa̍h, khah-siông m̄-chiâⁿ gín-ná, i ê bīn-tē ná lāu-lâng bīn ê khoán. Koaⁿ-chōng kap phî-chóng pûi-tōa. Nā chhut-sì hó-hó, khah-siông nn̄g saⁿ ge̍h-ji̍t ê lāi-bīn, ōe chhut mûi-to̍k ê chèng-chōng, chiū-sī kha chhiú kap kong-bûn-piⁿ ū hoat-chín; chhùi siⁿ thiàⁿ, phīⁿ-liām-mo̍h hoat-iām, tì-kàu cha̍t-phīⁿ; kha thiàⁿ, koan-chat chéng.
 
 > **【全漢對照】**  
-> 猶久有閣一項，就是先天性梅毒（先天性梅毒 congenital syphilis）。這個病是老父抑是老母，若有梅毒，對按呢會流傳到伊的囝兒。若佇子宮內囡仔有先天梅毒，較常會流產（流產, abortion, 就是交流身）。若出世活，較常毋成囡仔，伊的面底若老人面的款。肝臟及脾臟肥大。若出世好好，較常兩三個月日的內面，會出梅毒的症狀，就是腳手及肛門邊有發疹；嘴生疼，鼻黏膜發炎，致到窒鼻；腳疼，關節腫。
+> 猶久有閣一項，就是先天性梅毒（先天性梅毒 congenital syphilis）。這個病是老父抑是老母，若有梅毒，對按呢會流傳到伊的囝兒。若佇子宮內囡仔有先天梅毒，較常會流產（流產，abortion，就是交流身）。若出世活，較常毋成囡仔，伊的面底若老人面的款。肝臟及脾臟肥大。若出世好好，較常兩三個月日的內面，會出梅毒的症狀，就是腳手及肛門邊有發疹；嘴生疼，鼻黏膜發炎，致到窒鼻；腳疼，關節腫。
 
 ---
 

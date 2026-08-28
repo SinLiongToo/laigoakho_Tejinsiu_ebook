@@ -210,7 +210,7 @@ chheng-khì. Iā i ê saⁿ-á-khò nā bak-tio̍h kiaⁿ-lâng tióh ōaⁿ, k�
 Í-keng ū kóng tióh sóe ba̍k-chiu, m̄-kú ba̍k-chiu-lāi nā ū lâng, tióh ēng 2 *per cent lotio argenti nitratis* tih kúi tiám hē ba̍k-chiu-lāi.
 
 > **【全漢對照】**  
-> **[囡仔]**  
+> **［囡仔］**  
 > 清氣。也伊的衫仔褲若墨著驚人著換，共伊著清氣閣燒的衫仔褲。眠床的被單佮毯仔著清氣。伊的脈搏，佮呼吸，著算，紲記咧。到老母攏安靜，看護著顧囡仔。  
 > 已經有講著洗目睭，毋過目睭內若有膿，著用 2 *per cent lotio argenti nitratis* 滴幾點下目睭內。
 
@@ -220,7 +220,7 @@ chheng-khì. Iā i ê saⁿ-á-khò nā bak-tio̍h kiaⁿ-lâng tióh ōaⁿ, k�
 Tióh chai, tú-á chhut-sì ê gín-ná iàu-kín tióh chhēng hō͘ i sio, in-ūi sī chin khoài kám-tio̍h. Hiah-ê soe-jiók, koh bô kàu ge̍h ê gín-ná, koh khah khoài kám-tio̍h. Ū-sî tióh ēng phū nñg ê khì-kū hō͘ gín-ná tó kúi-nā jit, tióh tiāⁿ-tióh ê un-tō͘, kàu khah ióng, ē ho͘-khip pêng-siông khong-khì ê sî.
 
 > **【全漢對照】**  
-> **[著著予伊燒]**  
+> **［著著予伊燒］**  
 > 著知，拄仔出世的囡仔要緊著著予伊燒，因為是真快感著。遐的衰弱，閣無夠月的囡仔，閣較快感著。有時著用孵卵的器具予囡仔倒幾若日，著定著的溫度，到較勇，會呼吸平常空氣的時。
 
 ---
@@ -229,8 +229,8 @@ Tióh chai, tú-á chhut-sì ê gín-ná iàu-kín tióh chhēng hō͘ i sio, in
 Sóe-e̍k : Tú-á chhut-sì ê gín-ná ê seng-khu, ū pe̍h-sek ê mi̍h kiò-chòe thai-iû (胎脂, vernix caseosa). Chiong lâ-lûn-sio *oleum olivæ* kā boah seng-khu, chiah ēng sio-chúi sóe-e̍k. Chit hō sio-chúi ê un-tō͘ tióh ū 100 tō͘ F. (37.8° C.) ê sio. Nā-sī gín-ná siuⁿ soe-jiók, bē kham-tit sóe-e̍k, tióh ēng khah nńg koh sio ê bīn-kun kā i pau, āu-lâi chiah chiong sio ê mî-hoe pau hō͘ hó-sè. Gín-ná hē tī phûn-lāi ê sî, khàn-hō͘ tióh ēng tò-chhiú hē gín-ná chiaⁿ-pêng ê koh-ē-khang-ē. Sóe liáu, chiah ûn-ûn-á cheh hō͘ ta. Gín-ná ê phê saⁿ-óa ê só͘-chāi, chhin-chhiūⁿ tī ām-kún, kái-piⁿ, tióh ēng ē-bīn só͘ kì ê io̍h-hún kā sám. Tióh khòaⁿ gín-ná teh ho͘-khip ū hó bô, châi-tòa ū lâu-huih bô, iā seng-khu ta̍k só͘-chāi chhin-chhiūⁿ chhùi-lāi, kong-bûn, jiō-tō, ū lóng hó bô.
 
 > **【全漢對照】**  
-> **[洗浴]**  
-> 洗浴：拄仔出世的囡仔的身軀，有白色的物號做胎脂（胎脂, vernix caseosa）。將微溫 *oleum olivæ* 共抹身軀，才用燒水洗浴。這號燒水的溫度著有 100 度 F.（37.8° C.）的燒。若是囡仔傷衰弱，袂堪得洗浴，著用較軟閣燒的面巾共伊包，後來才將燒的棉花包予好勢。囡仔下佇盆內的時，看護著用倒手下囡仔正爿的胳下空下。洗了，才勻勻仔捽予焦。囡仔的皮相倚的所在，親像佇頷頸、胯邊，著用下面所記的藥粉共糝。著看囡仔咧呼吸有好無，臍帶有流血無，也身軀逐所在親像喙內、肛門、尿道，有攏好無。
+> **［洗浴］**  
+> 洗浴：拄仔出世的囡仔的身軀，有白色的物號做胎脂（胎脂，vernix caseosa）。將微溫 *oleum olivæ* 共抹身軀，才用燒水洗浴。這號燒水的溫度著有 100 度 F.（37.8° C.）的燒。若是囡仔傷衰弱，袂堪得洗浴，著用較軟閣燒的面巾共伊包，後來才將燒的棉花包予好勢。囡仔下佇盆內的時，看護著用倒手下囡仔正爿的胳下空下。洗了，才勻勻仔捽予焦。囡仔的皮相倚的所在，親像佇頷頸、胯邊，著用下面所記的藥粉共糝。著看囡仔咧呼吸有好無，臍帶有流血無，也身軀逐所在親像喙內、肛門、尿道，有攏好無。
 
 ---
 
@@ -241,9 +241,9 @@ $$\left.\begin{array}{l} \text{\textit{Acidum boricum}} \\ \text{\textit{Zinci o
 Ēng siau-to̍k ê pò͘ á-sī mî-hoe am-teh, chiah ēng hâ pak-tó͘ ê tòa, hâ hō͘ ān. Tióh siông-siông hō͘ châi-tòa ō...
 
 > **【全漢對照】**  
-> **[臍帶]**  
+> **［臍帶］**  
 > 用這个藥粉共糝臍帶：  
-> $$\left.\begin{array}{l} \text{硼酸 (Acidum boricum)} \\ \text{氧化鋅 (Zinci oxidum)} \\ \text{澱粉 (Amylum, 粉漿)} \end{array}\right\} \text{各項平濟}$$  
+> $$\left.\begin{array}{l} \text{硼酸 (Acidum boricum)} \\ \text{氧化鋅 (Zinci oxidum)} \\ \text{澱粉 （Amylum，粉漿）} \end{array}\right\} \text{各項平濟}$$  
 > 用消毒的布抑是棉花掩咧，才用合腹肚的帶，試合予按。著時常予臍帶換……
 
 <!-- Page 643 End -->
@@ -340,7 +340,7 @@ Ta̍k ji̍t kā sán-hū ōaⁿ saⁿ sì pái ê pau-siong-liāu. Seng-sán li�
 Só-í tióh tû-khì péh-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng chin-si̍t, in-ūi lán saⁿ-kāng chòe thé (Í-hut-só͘ 4: 25).
 
 > **【全漢對照】**  
-> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4: 25）。
+> 所以著除去白賊，逐人佮伊的厝邊講真實，因為咱相同做體（以弗所 4：25）。
 
 <!-- Page 645 End -->
 

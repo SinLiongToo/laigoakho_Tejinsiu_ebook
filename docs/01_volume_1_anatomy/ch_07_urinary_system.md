@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 116 頁 (圖 1)](assets/illustrations/page_116_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 82 tô.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, hā-tāi-chēng-me̍h ; chìⁿ teh chí-bêng huih sūn-khoân ê hong-hiòng. Tùi tāi-tōng-me̍h ū hun tōng-me̍h-chi (aa) khì sīn-chōng ; iā tùi sīn-chōng ū chēng-me̍h (bb) chiap tī hā-tāi-chēng-me̍h. W, su-jiō-kńg ; B, pông-kong ; ‘Pelvic Region’ sī kut-phûn ê pō͘-ūi ; tī chia ê chìⁿ ū chí-bêng jiō teh lâu ê hong-hiòng. (From “The Household Physician,” Blackie and Son, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -29,7 +29,7 @@
 Pì-jiō khì (泌尿器) ū chhut jiō kap pâi-siat chhut-lâi-ê, hun chòe sīn-chōng (腎臟, *kidneys*), su-jiō-kńg (輸尿管, *ureters*), pông-kong (膀胱, *bladder*) kap jiō-tō (尿道, *urethra* ; tē 82 tô͘).
 
 > **【全漢對照】**
-> 泌尿器（泌尿器）有出尿佮排泄出來的，分做腎臟（腎臟, *kidneys*）、輸尿管（輸尿管, *ureters*）、膀胱（膀胱, *bladder*）佮尿道（尿道, *urethra*；第 82 圖）。
+> 泌尿器（泌尿器）有出尿佮排泄出來的，分做腎臟（腎臟，*kidneys*）、輸尿管（輸尿管，*ureters*）、膀胱（膀胱，*bladder*）佮尿道（尿道，*urethra*；第 82 圖）。
 
 ---
 
@@ -38,8 +38,8 @@ Pì-jiō khì (泌尿器) ū chhut jiō kap pâi-siat chhut-lâi-ê, hun chòe s
 Sīn-chōng ū nñg lia̍p, i ê pō͘-ūi sī tī pak-tó͘-āu, chek-chui-kut ê chó-iū hit siang pêng, kok ū chi̍t lia̍p. Tn̂g, sì chhùn ; khoah, nñg chhùn ; kāu, chi̍t chhùn pòaⁿ. Chi̍t lia̍p ê tāng ū 225 grms. I ê sek sī chhiah-âng. Gōa-bīn ū chi̍t têng tēng koh jūn ê mo̍h lâi pau-teh. Lāi-bīn ū tōng-me̍h, chēng-me̍h, sīn-keng, mn̂g-sè-huih-kńg, sòe jiō-kńg, kap te̍k-pia̍t ê si-kiû-thé (絲毬體) kiò-chòe Ma-lu-phi-gi ê sió-thé (tē 83 tô͘). Chiah ê sió-thé ê lō͘-ēng sī tùi huih, siu bô lō͘-ēng ê pâi-siat-mi̍h (排泄物, *excretion*), chiū-sī jiō. Chiah ê Ma-lu-phi-gi ê sió-thé, chi̍t pêng chiap tī sòe-jiō-kńg, chi̍t pêng sī hō͘ huih-kńg chhut-
 
 > **【全漢對照】**
-> ### [腎臟]
-> 腎臟有兩粒，伊的部位是佇腹肚後，脊椎骨的左右彼雙爿，各有蜀粒。長，四寸；闊，兩寸；厚，蜀寸半。蜀粒的重有 225 grms。伊的色是赤紅。外面有蜀重硬閣韌的膜來包咧。內面有動脈、靜脈、神經、微細血管、細尿管，佮特別的絲毬體（絲毬體）叫做 Ma-lu-phi-gi 的小體（第 83 圖）。諸個小體的路用是對血，收無路用的排泄物（排泄物, *excretion*），就是尿。諸個 Ma-lu-phi-gi 的小體，一爿接佇細尿管，一爿是予血管出——
+> ### ［腎臟］
+> 腎臟有兩粒，伊的部位是佇腹肚後，脊椎骨的左右彼雙爿，各有蜀粒。長，四寸；闊，兩寸；厚，蜀寸半。蜀粒的重有 225 grms。伊的色是赤紅。外面有蜀重硬閣韌的膜來包咧。內面有動脈、靜脈、神經、微細血管、細尿管，佮特別的絲毬體（絲毬體）叫做 Ma-lu-phi-gi 的小體（第 83 圖）。諸個小體的路用是對血，收無路用的排泄物（排泄物，*excretion*），就是尿。諸個 Ma-lu-phi-gi 的小體，一爿接佇細尿管，一爿是予血管出——
 
 ---
 
@@ -62,11 +62,11 @@ Tē 82 tô͘.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, 
 
 ![原書插圖 - 第 117 頁 (圖 1)](assets/illustrations/page_117_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 83 tô.—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa : a, b, sòe-jiō-kńg-bé ê sòe-pau ; c, sòe-jiō-kńg ; 1, tōng-meh ; 2, chēng-meh ; 3, si-kiû - chōng - huih - kńg (Blackie and Son).</em></p>
 
 ![原書插圖 - 第 117 頁 (圖 2)](assets/illustrations/page_117_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 84 tô.—Sīn-chōng chiàu tng-hêng chhiat-khui ê tô : C, phê-chit, sī óa gōa-bīn ê chit ; M, chhé-chit, sī khah chhim ê chit ; P, sīn-mng ; U, su-jiō-kńg. Chìn teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).</em></p>
 
 </div>
 
@@ -84,12 +84,12 @@ ji̍p tī sió-thé ê lāi-bīn pìⁿ-chiâⁿ chin chōe ê mn̂g-sòe-huih-k
 **Tē 83 tô͘.**—Malpighi-sī ê sió-thé, chha-put-to 100 pē khok-tōa: a, b, sòe-jiō-kúng-bé ê sòe-pau; c, sòe-jiō-kúng; 1, tōng-me̍h; 2, chēng-me̍h; 3, si-kiû-chōng-huih-kúng (Blackie and Son).
 
 > **【全漢對照】**
-> **第 83 圖。**——Malpighi氏的小體，差不多 100 倍擴大：a, b, 細尿管尾的細胞；c, 細尿管；1, 動脈；2, 靜脈；3, 絲毬狀血管 (Blackie and Son)。
+> **第 83 圖。**——Malpighi氏的小體，差不多 100 倍擴大：a, b，細尿管尾的細胞；c，細尿管；1，動脈；2，靜脈；3，絲毬狀血管 (Blackie and Son)。
 
 **Tē 84 tô͘.**—Sīn-chōng chiàu tn̂g-hêng chhiat-khui ê tô͘: C, phê-chit, sī óa gōa-bīn ê chit; M, chhé-chit, sī khah chhim ê chit; P, sīn-mn̂g; U, su-jiō-kúng. Chìⁿ teh chí-bêng jiō teh lâu ê hong-hiòng (Blackie and Son).
 
 > **【全漢對照】**
-> **第 84 圖。**——腎臟照長形切開的圖：C, 皮質，是倚外面的質；M, 髓質，是較深的質；P, 腎門；U, 輸尿管。箭咧指明尿咧流的方向 (Blackie and Son)。
+> **第 84 圖。**——腎臟照長形切開的圖：C，皮質，是倚外面的質；M，髓質，是較深的質；P，腎門；U，輸尿管。箭咧指明尿咧流的方向 (Blackie and Son)。
 
 ---
 
@@ -130,7 +130,7 @@ Iòh m̄-thang pàng-hē pîⁿ-lâng ê sin-piⁿ, tio̍h siu tī iòh-tû-nih.
 
 ![原書插圖 - 第 118 頁 (圖 1)](assets/illustrations/page_118_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 85 tô.—Chit ê tô· sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sòe-jiō-kńg : C, phê-chit ê pō·-ūi, M, chhé-chit ê pō·-ūi; B, phê-chit, chhé-chit tiong-kan ê pō·-ūi. Tô· ê chiàⁿ-pêng,—1, sī sòe-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só· keng-kè ê lō· sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mñg ê só·-chāi, chiū-sī tē 84 tô· M-jī teh chí-bêng ê pō·-ūi. Tô· ê tò-pêng ū chí-bêng huih-kńg kap sòe-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sòe-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h mñg-sòe-huih-kńg, chia̍h-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).</em></p>
 
 </div>
 
@@ -148,7 +148,7 @@ lâi-á. Nā-sī jiō pâi-chhut liáu-āu, hit sî phông-kong-lāi khang-khang
 Jiō-tō chiū-sī tùi phông-kong khí, kàu jiō-tō-kháu chí, chit-ê sī phông-kong-lāi chek-chū ê jiō, beh pâi-chhut seng-khu-gōa, só́ keng-kè ê lō͘. Lú ê jiō-tō chha-put-to chhùn-pòaⁿ tn̂g, lâm-ê chha-put-to poeh káu chhùn.
 
 > **【全漢對照】**
-> **[尿道]**
+> **［尿道］**
 > 尿道就是對膀胱起，到尿道口止，這個是膀胱內積聚的尿，欲排出身軀外，所經過的路。女的尿道差不多寸半長，男的差不多八九寸。
 
 ---
@@ -158,8 +158,8 @@ Jiō-tō chiū-sī tùi phông-kong khí, kàu jiō-tō-kháu chí, chit-ê sī 
 Lūn bô pīⁿ ê lâng ê jiō: Lâng nā bô phòa-pīⁿ, hit ê jiō chiū khah chheng, sek-tī n̂g-n̂g, bī ōe sng, i ê pí-tāng (比重, *specific gravity*) ū 1015 chì 1025. Chúi ê tāng chiah ū 1000, jiō ê pí-tāng, pí chúi khah koâiⁿ, sī in-ūi ū hit hō kúi-nā khoán ê jiō-sng-iâm-lūi tī-teh. Pêng-siông bô pīⁿ ê lâng ê jiō tī 1000 *grms.* ê lāi-bīn ū
 
 > **【全漢對照】**
-> **[論尿 / 比重]**
-> 論無病的人的尿：人若無破病，彼個尿就較清，色緻黃黃，味會酸，伊的比重（比重, *specific gravity*）有 1015 至 1025。水的重才只有 1000，尿的比重，比水較懸，是因為有彼號幾若款的尿酸鹽類佇咧。平常無病的人的尿佇 1000 *grms.* 的內面有
+> **［論尿 / 比重］**
+> 論無病的人的尿：人若無破病，彼個尿就較清，色緻黃黃，味會酸，伊的比重（比重，*specific gravity*）有 1015 至 1025。水的重才只有 1000，尿的比重，比水較懸，是因為有彼號幾若款的尿酸鹽類佇咧。平常無病的人的尿佇 1000 *grms.* 的內面有
 
 ---
 
@@ -211,15 +211,15 @@ Chhut-sì liáu-āu sǹg-khí:
 > 
 > | 時期 | 尿量 |
 > | :--- | :--- |
-> | 頭一個 60 點鐘久 ... | 60 c.c. |
-> | 24 點至 48 點 ... | 85 c.c. |
-> | 3 日至 6 日 ... | 150 c.c. |
-> | 7 日至 2 個月日 ... | 150-390 c.c. |
-> | 2 個月日至 6 個月日 ... | 210-480 c.c. |
-> | 6 個月日至 2 年 ... | 240-600 c.c. |
-> | 2 年至 5 年 ... | 480-880 c.c. |
-> | 5 年至 8 年 ... | 600-1200 c.c. |
-> | 8 年至 14 年 ... | 900-1440 c.c. |
+> | 頭一個 60 點鐘久。.. | 60 c.c. |
+> | 24 點至 48 點。.. | 85 c.c. |
+> | 3 日至 6 日。.. | 150 c.c. |
+> | 7 日至 2 個月日。.. | 150-390 c.c. |
+> | 2 個月日至 6 個月日。.. | 210-480 c.c. |
+> | 6 個月日至 2 年。.. | 240-600 c.c. |
+> | 2 年至 5 年。.. | 480-880 c.c. |
+> | 5 年至 8 年。.. | 600-1200 c.c. |
+> | 8 年至 14 年。.. | 900-1440 c.c. |
 
 ---
 
@@ -323,11 +323,11 @@ Kiám jiō hoat ê kui-kú : Kiám jiō ê hoat-tō͘ ū nñg saⁿ hāng, iàu-
 
 ![原書插圖 - 第 121 頁 (圖 1)](assets/illustrations/page_121_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 86 tô:-Jiō-pí-tāng-kè.</em></p>
+<p class="figure-caption"><em>Tē 86 tô:-Jiō-pí-tāng-kè.</em></p>
 
 ![原書插圖 - 第 121 頁 (圖 2)](assets/illustrations/page_121_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 87 tô:-San ki chhì-giām-kńg.</em></p>
+<p class="figure-caption"><em>Tē 87 tô:-San ki chhì-giām-kńg.</em></p>
 
 </div>
 
@@ -392,7 +392,7 @@ Kiám jiō hoat ê kui-kú : Kiám jiō ê hoat-tō͘ ū nñg saⁿ hāng, iàu-
 3. Lâm ê chhì-giām chóa ê hoán-èng (反應, *litmus paper reaction*), pìⁿ âng chiū-sī sng sèng hoán-èng. Âng ê chhì-giām-chóa pìⁿ lâm chiū-sī kiⁿ. Nā sī âng, lâm lóng bô piàn, chiū-sī bô sng, bô kiⁿ, kiò-chòe tiong-li̍p-sèng (中立性, *neutral*).
 
 > **【全漢對照】**
-> 3. 藍的試驗紙的反應（反應, *litmus paper reaction*），變紅就是酸性反應。紅的試驗紙變藍就是鹼。若是紅、藍攏無變，就是無酸、無鹼，叫做中立性（中立性, *neutral*）。
+> 3. 藍的試驗紙的反應（反應，*litmus paper reaction*），變紅就是酸性反應。紅的試驗紙變藍就是鹼。若是紅、藍攏無變，就是無酸、無鹼，叫做中立性（中立性，*neutral*）。
 
 ---
 
@@ -501,7 +501,7 @@ Léng ê hoat-tō͘:
 Góa siat-sú chòe sian-ti bêng-pe̍k lóng-chóng ê ò-biāu kap lóng-chóng ê chai-bat; koh siat-sú ū chiâu-pī ê sìn, kàu-gia̍h lâi î-soaⁿ, nā bô jîn-ài, góa chiū bōe sǹg chòe sī sím-mih (I Ko-lîm-to 13: 2).
 
 > **【全漢對照】**
-> 我設使做先知，明白攏總的奧妙佮攏總的知拔；閣設使有齊備的信，到額來移山，若無仁愛，我就袂算做是甚麼（哥林多前書 13: 2）。
+> 我設使做先知，明白攏總的奧妙佮攏總的知拔；閣設使有齊備的信，到額來移山，若無仁愛，我就袂算做是甚麼（哥林多前書 13：2）。
 
 <!-- Page 122 End -->
 
@@ -600,7 +600,7 @@ Kiám jiō-lāi huih ê hoat :
 > 2. 加兩滴 *tinctura guaiaci*（癒創木醑）。  
 > 3. 搖互振動。  
 > 4. 加一寸的 *ozonic ether*（含臭氧醚）。  
-> 5. 若是一條藍色的線，隔佇尿佮 *ozonic ether* 的中間，就是血。若是病人有咧食 *potassii iodidum* (KI，碘化鉀)，伊的尿有時亦會親像按呢。
+> 5. 若是一條藍色的線，隔佇尿佮 *ozonic ether* 的中間，就是血。若是病人有咧食 *potassii iodidum* （KI，碘化鉀），伊的尿有時亦會親像按呢。
 
 ---
 

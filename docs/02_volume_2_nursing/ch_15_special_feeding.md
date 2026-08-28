@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 200 頁 (圖 1)](assets/illustrations/page_200_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -26,7 +26,7 @@
 > ### 第 15 章
 > ### 特別飼病人的法
 > 
-> [兩條路] 若是病人袂吞物，抑是頷喉有手術症，袂吞物，著用特別的法度來飼伊。病人若有腦脊髓膜炎，抑是「息夫的里亞」（白喉症），抑是吞物的筋肉麻痺，有時著用樹乳管互食物入胃裡。用這个法度，有兩條路：(1) 對鼻孔、咽頭、食道、胃；(2) 對喙、咽頭、食道、胃（第 130 圖）。
+> ［兩條路］ 若是病人袂吞物，抑是頷喉有手術症，袂吞物，著用特別的法度來飼伊。病人若有腦脊髓膜炎，抑是「息夫的里亞」（白喉症），抑是吞物的筋肉麻痺，有時著用樹乳管互食物入胃裡。用這个法度，有兩條路：(1) 對鼻孔、咽頭、食道、胃；(2) 對喙、咽頭、食道、胃（第 130 圖）。
 
 ---
 
@@ -51,7 +51,7 @@ Thâu chi̍t pái tiāⁿ-ti̍oh ài i-seng chhī i, khàn-hō͘ kap i-seng tāi
 4. I-seng só́ hoan-hù ê si̍t-bu̍t, chhin-chhiūⁿ gû-leng,
 
 > **【全漢對照】**
-> [著預備的物]
+> ［著預備的物］
 > 1. 攢一條長閣軟、欲對鼻孔創物互病人食的樹乳管。較常所用的樹乳管，是咧通尿道的樹乳管（導尿管，*urethral catheter*，*Jaques’ catheter, No. 6*）。（若過用導尿術就唔通用）。
 > 2. 若是無夠長，著另外剪一條樹乳管相接；相接的所在用玻璃管。
 > 3. 面巾、面桶、熱水；將樹乳管浸互軟。一塊細塊碟仔貯 *glycerinum*（甘油）。
@@ -317,7 +317,7 @@ Chō-iòh: Ū-sî ēng chi̍t lia̍p iòh-oân, that-jip kong-bûn-lāi, im-tō 
 
 > **【全漢對照】**
 > **坐藥**
-> 坐藥：有時用一粒藥丸，塞入肛門內、陰道抑是尿道內，叫做坐藥（坐藥, *suppositorium*）。有肉做的坐藥，也有牛奶做的（第 132 圖）。予病人坐藥的時，著予伊敧佇倒手爿。
+> 坐藥：有時用一粒藥丸，塞入肛門內、陰道抑是尿道內，叫做坐藥（坐藥，*suppositorium*）。有肉做的坐藥，也有牛奶做的（第 132 圖）。予病人坐藥的時，著予伊敧佇倒手爿。
 
 ---
 
@@ -352,7 +352,7 @@ Chō-iòh: Ū-sî ēng chi̍t lia̍p iòh-oân, that-jip kong-bûn-lāi, im-tō 
 
 ![原書插圖 - 第 205 頁 (圖 1)](assets/illustrations/page_205_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></p>
+<p class="figure-caption"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></p>
 
 </div>
 
@@ -403,7 +403,7 @@ Ióh-kan m̄-thang hē tī ióh-toaⁿ-téng.
 
 ![原書插圖 - 第 206 頁 (圖 1)](assets/illustrations/page_206_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></p>
 
 </div>
 

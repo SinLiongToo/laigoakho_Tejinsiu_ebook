@@ -26,35 +26,35 @@
 Kái-phò-ha̍k (解剖學, *anatomy*), chiū-sī kho-ha̍k (科學, *science*) ê chi̍t hāng, i ê bo̍k-tek sī beh káng-kiù seng-khu ê kò-chō (構造). *(邊註: Kái-phò-ha̍k)*
 
 > **【全漢對照】**
-> 解剖學（解剖學，*anatomy*），就是科學（科學，*science*）的一項，伊的目的設欲講究身軀的構造（構造）。*(邊註: 解剖學)*
+> 解剖學（解剖學，*anatomy*），就是科學（科學，*science*）的一項，伊的目的設欲講究身軀的構造（構造）。*（邊註：解剖學）*
 
 ---
 
 Seng-lí-ha̍k (生理學, *physiology*), chiū-sī kho-ha̍k ê chi̍t hāng, i ê bo̍k-tek sī beh káng-kiù seng-khu ta̍k só͘-chāi ê chok-iōng (作用, *function*). *(邊註: Seng-lí-ha̍k)* Seng-khu sī kúi-nā téng-hō ê chit lâi chiâⁿ-ê, iā ta̍k hāng ū te̍k-pia̍t ê kò-chō kap chok-iōng. *(邊註: Seng-khu ê khì)* Chiah-ê kiò-chòe khì (器), chhin-chhiūⁿ chih sī bī-khì, hì-chōng sī ho͘-khip-khì, ūi sī siau-hòa-khì ê chi̍t phō-ūi.
 
 > **【全漢對照】**
-> 生理學（生理學，*physiology*），就是科學的一項，伊的目的設欲講究身軀逐所在的作用（作用，*function*）。*(邊註: 生理學)* 身軀是幾若等號的質來成兮，也逐項有特別的構造佮作用。*(邊註: 身軀的器)* 遮的叫做器（器），親像舌是味器，肺臟是呼吸器，胃是消化器的一部位。
+> 生理學（生理學，*physiology*），就是科學的一項，伊的目的設欲講究身軀逐所在的作用（作用，*function*）。*（邊註：生理學）* 身軀是幾若等號的質來成兮，也逐項有特別的構造佮作用。*（邊註：身軀的器）* 遮的叫做器（器），親像舌是味器，肺臟是呼吸器，胃是消化器的一部位。
 
 ---
 
 Seng-khu hun chòe (1) khu-kàn (軀幹), kap (2) sù-chi. *(邊註: Khu-kàn, Sù-chi)* Khu-kàn sī thâu, kēng (ām-kún), heng, pak, ê sì pō͘. Sù-chi sī siōng-chi, hā-chi, ê nn̄g pō͘, lâi tú khu-kàn.
 
 > **【全漢對照】**
-> 身軀分做 (1) 軀幹（軀幹），佮 (2) 四肢。*(邊註: 軀幹、四肢)* 軀幹是頭、頸（頷頸）、胸、腹，的四部。四肢是上肢、下肢，的兩部，來抵軀幹。
+> 身軀分做 (1) 軀幹（軀幹），佮 (2) 四肢。*（邊註：軀幹、四肢）* 軀幹是頭、頸（頷頸）、胸、腹，的四部。四肢是上肢、下肢，的兩部，來抵軀幹。
 
 ---
 
 Thâu-kòa (頭蓋, *skull*) ū kúi-nā tè kut lâi ha̍p chiâⁿ-ê, lāi-bīn khang-khak, thang tóe náu-chhé ê lō͘-ēng. *(邊註: Thâu-kòa)*
 
 > **【全漢對照】**
-> 頭蓋（頭蓋，*skull*）有幾若塊骨來合成兮，內面空殼，通貯腦髓的用（用途/作用）。*(邊註: 頭蓋)*
+> 頭蓋（頭蓋，*skull*）有幾若塊骨來合成兮，內面空殼，通貯腦髓的用（用途/作用）。*（邊註：頭蓋）*
 
 ---
 
 Thâu-kòa kap chek-chui-kut (脊椎骨, *spinal column*) kau-chiap ê só͘-chāi, sī chek-chui-kut ê téng-toan (上端). *(邊註: Chek-chui-kut)* Chit ê chek-chui-kut sī tī seng-khu ê tiong-ng, chhin-chhiūⁿ thiāu-á. Chit ê thiāu-á-lāi ū khang-khak ê kńg, teh tóe chek-chhé (脊髓, *spinal cord*). *(邊註: Chek-chhé)* Chit ê chek-chhé sī
 
 > **【全漢對照】**
-> 頭蓋佮脊椎骨（脊椎骨，*spinal column*）交接的所在，是脊椎骨的上端（上端）。*(邊註: 脊椎骨)* 此個脊椎骨是佇身軀的中央，親像柱仔。此個柱仔內有空殼的管，咧貯脊髓（脊髓，*spinal cord*）。*(邊註: 脊髓)* 此個脊髓是
+> 頭蓋佮脊椎骨（脊椎骨，*spinal column*）交接的所在，是脊椎骨的上端（上端）。*（邊註：脊椎骨）* 此個脊椎骨是佇身軀的中央，親像柱仔。此個柱仔內有空殼的管，咧貯脊髓（脊髓，*spinal cord*）。*（邊註：脊髓）* 此個脊髓是
 
 ---
 
@@ -63,7 +63,7 @@ Thâu-kòa kap chek-chui-kut (脊椎骨, *spinal column*) kau-chiap ê só͘-ch�
 Lâng nā ū sè-kan ê châi-sìn, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kheh, iā bô khui i ê chū-sim, Siōng-tè ê thiàⁿ thái-thó ū tiàm tī i ah (I Iok-hān 3: 17)?
 
 > **【全漢對照】**
-> 人若有世間的財信（財產），看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈可有踮佇伊啊（約翰一書 3: 17）？
+> 人若有世間的財信（財產），看見伊的兄弟有欠缺，也無開伊的慈心，上帝的疼豈可有踮佇伊啊（約翰一書 3：17）？
 
 <!-- Page 017 End -->
 
@@ -77,7 +77,7 @@ Lâng nā ū sè-kan ê châi-sìn, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kh
 
 ![原書插圖 - 第 18 頁 (圖 1)](assets/illustrations/page_018_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 1 tô:—Seng-khu chêng-āu tit-tit-tñg ê tô: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bút-sèng-kńg); c, pak-khang; p', heng-khang; d, hoâin-keh-mó͘h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tñg; l, koan-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 1 tô:—Seng-khu chêng-āu tit-tit-tñg ê tô: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bút-sèng-kńg); c, pak-khang; p', heng-khang; d, hoâin-keh-mó͘h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tñg; l, koan-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -86,7 +86,7 @@ Lâng nā ū sè-kan ê châi-sìn, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kh
 kap náu-chhé saⁿ-liân, hō͘ mo̍h pau-ûi; iā tī mo̍h kap chek-chhé ê tiong-ng, ū náu-chek-chhé-e̍k (腦脊髓液, *cerebrospinal fluid*).
 
 > **【全漢對照】**
-> 佮腦髓相連，互膜包圍；也在膜佮脊髓的中間，有腦脊髓液（腦脊髓液, *cerebrospinal fluid*）。
+> 佮腦髓相連，互膜包圍；也在膜佮脊髓的中間，有腦脊髓液（腦脊髓液，*cerebrospinal fluid*）。
 
 ---
 
@@ -95,8 +95,8 @@ kap náu-chhé saⁿ-liân, hō͘ mo̍h pau-ûi; iā tī mo̍h kap chek-chhé ê
 Seng-khu-lāi ū nn̄g ê tōa kńg, á-sī khang-tōng (腔洞), hō-chòe si̍t-bu̍t-sèng-kńg (植物性管, chêng-kńg); tōng-bu̍t-sèng-kńg (動物性管; āu-kńg; tē 1 tô͘). Chiah ê kńg-lāi ū tóe seng-khu ê chōng-khì ê tōa-pō͘-hūn. Chit ê tōng-bu̍t-sèng-kńg, tī khu-kàn ê āu-siōng-pō͘, tóe sin-keng ê tiong-chhu-khì-koan (中樞器官, *central nervous organ*), chiū-sī thâu-khak-lāi, kap chek-chui-kut-lāi ê náu-chhé, kap chek-chhé.
 
 > **【全漢對照】**
-> **[兩个大管 / 動物性管]**
-> 身軀內有兩个大管，抑是腔洞（腔洞），號做植物性管（植物性管，前管）；動物性管（動物性管；後管；第 1 圖）。諸个管內有貯身軀的臟器的大部分。這个動物性管，佇軀幹的後上部，貯神經的中樞器官（中樞器官, *central nervous organ*），就是頭殼內，佮脊椎骨內的腦髓，佮脊髓。
+> **［兩个大管 / 動物性管］**
+> 身軀內有兩个大管，抑是腔洞（腔洞），號做植物性管（植物性管，前管）；動物性管（動物性管；後管；第 1 圖）。諸个管內有貯身軀的臟器的大部分。這个動物性管，佇軀幹的後上部，貯神經的中樞器官（中樞器官，*central nervous organ*），就是頭殼內，佮脊椎骨內的腦髓，佮脊髓。
 
 ---
 
@@ -105,7 +105,7 @@ Seng-khu-lāi ū nn̄g ê tōa kńg, á-sī khang-tōng (腔洞), hō-chòe si̍
 Si̍t-bu̍t-sèng-kńg tī khu-kàn ê chêng-hā-pō͘, tún-chek ēng-ióng, siⁿ-thòaⁿ ê khì-kū, chiū-sī tùi chhùi kap phīⁿ-khang khí, kàu kong-bûn kap jiō-tō-kháu ûi-chí; iā hun chòe heng, kap pak-tó́.
 
 > **【全漢對照】**
-> **[植物性管]**
+> **［植物性管］**
 > 植物性管佇軀幹的前下部，囤積營養、生湠的器具，就是對喙佮鼻孔起，到肛門佮尿道口為止；也分做胸，佮腹肚。
 
 ---
@@ -122,7 +122,7 @@ Si̍t-bu̍t-sèng-kńg kiò-chòe chit ê miâ ê lí-khì sī chiàu ē-tóe: �
 **Tē 1 tô͘.**—Seng-khu chêng-āu tit-tit-tn̄g ê tô͘: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bu̍t-sèng-kńg); c. pak-khang; p', heng-khang; d, hoâiⁿ-keh-mo̍h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tn̂g; l, koaⁿ-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> **第 1 圖。**——身軀前後直直斷的圖：VV，脊椎骨體，分身軀做前管、後管；a a'，後管（動物性管）；c. 腹腔；p'，胸腔；d，橫膈膜；B，腦；Sp. c.，脊髓；e，食道；S，胃；T，腸；l，肝臟；p，膵臟；k，腎臟；o，膀胱；l'，肺臟；h，心臟；1，鼻孔；2，喙；3，肛門；4，氣管。（Brubaker, 出自 Aikens 之《護士初級研讀》，經出版商 W. B. Saunders 公司授權使用。）
+> **第 1 圖。**——身軀前後直直斷的圖：VV，脊椎骨體，分身軀做前管、後管；a a'，後管（動物性管）；c. 腹腔；p'，胸腔；d，橫膈膜；B，腦；Sp. c.，脊髓；e，食道；S，胃；T，腸；l，肝臟；p，膵臟；k，腎臟；o，膀胱；l'，肺臟；h，心臟；1，鼻孔；2，喙；3，肛門；4，氣管。（Brubaker，出自 Aikens 之《護士初級研讀》，經出版商 W. B. Saunders 公司授權使用。）
 
 ---
 
@@ -131,7 +131,7 @@ Si̍t-bu̍t-sèng-kńg kiò-chòe chit ê miâ ê lí-khì sī chiàu ē-tóe: �
 Góa siat-sú ōe kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa chiū chiaⁿ-chòe hiáng ê tâng-khì, tân ê lâ-poah (I Ko-lîm-to 13: 1).
 
 > **【全漢對照】**
-> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器、震的喇叭（I 哥林多 13: 1）。
+> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器、震的喇叭（I 哥林多 13：1）。
 
 <!-- Page 018 End -->
 
@@ -204,7 +204,7 @@ Seng-khu nā khip-siu chu-ióng-liāu sī tùi i ê sòe-pau, chhin-chhiūⁿ ū
 *Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).*
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25 : 21）。
+> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 019 End -->
 
@@ -218,7 +218,7 @@ Seng-khu nā khip-siu chu-ióng-liāu sī tùi i ê sòe-pau, chhin-chhiūⁿ ū
 
 ![原書插圖 - 第 20 頁 (圖 1)](assets/illustrations/page_020_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son).</em></p>
+<p class="figure-caption"><em>Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son).</em></p>
 
 </div>
 
@@ -227,7 +227,7 @@ Seng-khu nā khip-siu chu-ióng-liāu sī tùi i ê sòe-pau, chhin-chhiūⁿ ū
 Seng-khu nā pâi-chhut bô lō͘-ēng ê mih, lóng sī tùi sīn-chōng, hì-chōng, phê-hu ê sòe-pau, ū chit hō chok-iōng. Seng-khu-lāi ê chôaⁿ-thé hun-pì kúi-nā téng-hō ê hun-pì-mih (分泌物, secretion), lóng sī tùi chiah ê chôaⁿ-thé ê sòe-pau, chiah ōe án-ni.
 
 > **【全漢對照】**
-> 身軀若排出無路用的物件，攏是對腎臟、肺臟、皮膚的細胞，有這號作用。身軀內的腺體分泌幾若等號的分泌物（分泌物, secretion），攏是對諸個腺體的細胞，才會按呢。
+> 身軀若排出無路用的物件，攏是對腎臟、肺臟、皮膚的細胞，有這號作用。身軀內的腺體分泌幾若等號的分泌物（分泌物，secretion），攏是對諸個腺體的細胞，才會按呢。
 
 ---
 
@@ -280,7 +280,7 @@ Seng-khu-lāi kun-bah ê sòe-pau nā lóng-chóng saⁿ-tâng chiàu i ê chok-
 > **【全漢對照】**
 > 身軀內筋肉的細胞若攏總相同照伊的作用，會互身軀會振動。神經細胞積聚做神經組織；諸個若總共相和照伊的作用，會互人知覺（知覺）就是𠢕想、設法，亦有權能通知身軀外的物件是怎樣；亦對諸個神經細胞的作用，人會分別芳臭、光暗、有聲無聲。閣一款的細胞積聚做呼吸器；諸個會互人對空氣得著酸素（酸素）。血的細胞，赤血球會吸收酸素送到身軀逐所在。
 >
-> *(側欄旁註：身軀勇健 / 神經細胞 / 呼吸細胞 / 血細胞)*
+> *（側欄旁註：身軀勇健 / 神經細胞 / 呼吸細胞 / 血細胞）*
 
 ---
 
@@ -291,7 +291,7 @@ Chiah ê ta̍k téng-hō ê sòe-pau saⁿ hô, kok-ê ha̍p-hô chiàu i ê cho
 > **【全漢對照】**
 > 諸個逐等號的細胞相和，各個合和照伊的作用行做，會互規身軀活潑、勇健。
 >
-> *(側欄旁註：細胞相和)*
+> *（側欄旁註：細胞相和）*
 
 ---
 
@@ -302,7 +302,7 @@ Nā beh káng-kiù sin-thé ê sū, ti̍h khoàⁿ i ū koan-liân chok-iōng ê
 > **【全漢對照】**
 > 若欲講究身體的事，著看伊有關聯作用的總器，來集合做一類，抑是部，抑是系統（系統，*system*）。身軀的分類照記佇下底：
 >
-> *(側欄旁註：系統)*
+> *（側欄旁註：系統）*
 
 ---
 

@@ -62,7 +62,7 @@ Teh káng-kiù tē it gâu hun-piat chhiok-kak ê só͘-chāi, tio̍h ēng kî-c
 Koh só͘ ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 3).
 
 > **【全漢對照】**  
-> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4: 3）。
+> 閣所向望佇管家的，是愛得伊盡忠（I 哥林多 4：3）。
 
 <!-- Page 146 End -->
 
@@ -76,7 +76,7 @@ Koh só͘ ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 
 
 ![原書插圖 - 第 147 頁 (圖 1)](assets/illustrations/page_147_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey).</em></p>
+<p class="figure-caption"><em>Tē 102 tô:—Chih ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khōng ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liām-e̍k-chôaⁿ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō-hūn ; 9, hōe-iām-tòa (from Sappey).</em></p>
 
 </div>
 
@@ -99,7 +99,7 @@ Chhùi-chi̍h ê kong-iōng, chiū-sī hō͘ lâng ōe hun-piat chu-bī, chit-ê
 **Tē 102 tô͘.**—Chi̍h ê téng-bīn, ian-âu kap pīⁿ-thô-chôaⁿ : 1, tōa-leng-thâu ; 2, bōng-khang ; 3, tiong-leng-thâu ; 4, sió-leng-thâu ; 5, hûn ; 6, liâm-e̍k-chôaⁿ ; 7, pīⁿ-thô-chôaⁿ ; 8, hōe-iām ê chit-pō͘-hūn ; 9, hōe-iām-tòa (from Sappey).
 
 > **【全漢對照】**
-> **第 102 圖。**——舌的頂面，咽喉及扁桃腺：1, 大乳頭；2, 盲孔；3, 中乳頭；4, 小乳頭；5, 痕；6, 黏液腺；7, 扁桃腺；8, 會厭的一部分；9, 會厭帶（from Sappey）。
+> **第 102 圖。**——舌的頂面，咽喉及扁桃腺：1，大乳頭；2，盲孔；3，中乳頭；4，小乳頭；5，痕；6，黏液腺；7，扁桃腺；8，會厭的一部分；9，會厭帶（from Sappey）。
 
 ---
 
@@ -129,7 +129,7 @@ Tio̍h chheng-khì.
 
 ![原書插圖 - 第 148 頁 (圖 1)](assets/illustrations/page_148_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)</em></p>
+<p class="figure-caption"><em>Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng- chat 3; 7, 8, 9, pat tiâu sîn-keng. (From “The Household Physician.”)</em></p>
 
 </div>
 
@@ -188,7 +188,7 @@ Gōa-phīⁿ ê khoán-sit, ta̍k kok bô tâng. Tiong-kok lâng ê phīⁿ-niû
 Tē 103 tô͘.—Phīⁿ-khang ê gōa-piah kap hiù-sîn-keng: 1, hiù-sîn-keng-chi; 2, pêng-siông-ti-kak-sîn-keng; 4, 5, 6, sîn-keng tùi chi̍t lia̍p sîn-keng-chat; 3; 7, 8, 9, pát tiâu sîn-keng. (From “The Household Physician.”)
 
 > **【全漢對照】**
-> 第 103 圖。——鼻孔的外壁佮嗅神經：1, 嗅神經枝；2, 平常知覺神經；4, 5, 6, 神經對一粒神經節；3; 7, 8, 9, 別條神經。(From “The Household Physician.” )
+> 第 103 圖。——鼻孔的外壁佮嗅神經：1，嗅神經枝；2，平常知覺神經；4, 5, 6，神經對一粒神經節；3；7, 8, 9，別條神經。(From “The Household Physician.” )
 
 <!-- Page 148 End -->
 
@@ -293,7 +293,7 @@ Siōng-tè bô kah lâng tióh gâu, sī kiò lâng tióh chīn-tiong.
 
 ![原書插圖 - 第 150 頁 (圖 1)](assets/illustrations/page_150_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></p>
+<p class="figure-caption"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></p>
 
 </div>
 
@@ -347,7 +347,7 @@ Taⁿ chit ê kî-khá ê khì-kū, í-keng piān, cháiⁿ-iūⁿ ē thiaⁿ-k�
 > **【全漢對照】**
 > **聽見的原理 135**
 >
-> **論聽見的法度：** [聽見的法度]
+> **論聽見的法度：** ［聽見的法度］
 > 今這个奇怪的器具，已經備，怎樣會聽見？著代先略略仔議論聲音的理氣，就這个聽的法度較會曉得。用一塊石頭若沉落水，連鞭看見水面有水痕親像環，若開若闊；親像按呢物若相嗑著，空氣的裏面亦有痕若運若大；總是空氣的痕，呣是親像水面的痕，扁扁的環；空氣的是上下周圍攏有痕；若是人的目睭袂看見，因為空氣是袂看見的氣。這號空氣的痕若入人的耳孔，嗑著鼓膜互伊振動（屑屑𧞣）；倚佇鼓膜裡許三塊細細的骨塊伊震動；對此三塊骨傳到內耳的水；水就溢，互聽神經接納彼个痕；對按呢就連鞭會分別聲音。這就是聽見的法度，總是這个怎樣互人都會聽見，是真奧妙，人袂知到彼个底緻；是萬項物的主備辦逐項好勢攏合佇人的欠缺。
 
 ---
@@ -357,7 +357,7 @@ Taⁿ chit ê kî-khá ê khì-kū, í-keng piān, cháiⁿ-iūⁿ ē thiaⁿ-k�
 Ták hō ê siaⁿ lóng sī tùi hit ê chhut siaⁿ ê mi̍h teh chín-tōng; chín-tōng khah bān, siaⁿ-im chiū khah kē; chín-tōng khah kín, siaⁿ-im chiū khah koâiⁿ; nā-sī chín-tōng siuⁿ kín á-sī siuⁿ bān, lâng ê hī-khang chiū lóng bōe thiaⁿ-kìⁿ hit ê siaⁿ. Siaⁿ tio̍h ū khong-khì lâi ín-chhōa kàu lâng ê hī-khang, chiah ē thiaⁿ-kìⁿ, nā bô khong-khì chiū bōe thiaⁿ-kìⁿ. Chit-biáu ê tiong-kan ē chhōa kàu 110 tūiⁿ ê hn̄g; chhin-chhiūⁿ pàng-chhèng ê sî, lâng nā tiàm tī chhèng-piⁿ-nih, khui-chhèng chiū liâm-piⁿ thiaⁿ-kìⁿ i ê siaⁿ. Nā hn̄g-nih teh khòaⁿ, tāi-seng khòaⁿ hé chhut, thêng kúi-nā biáu kú, jiân-āu chiah thiaⁿ-kìⁿ i ê siaⁿ; che sī in-ūi kng pí siaⁿ kiâⁿ put-chí khah kín; chit biáu ê tiong-ng, kng ē kiâⁿ-tit la̍k-bān lí ê hn̄g; siaⁿ chí-ū kàu 110 tūiⁿ ê hn̄g
 
 > **【全漢對照】**
-> **[聲的振動]**
+> **［聲的振動］**
 > 逐號的聲攏是對彼个出聲的物咧振動；振動較慢，聲音就較低；振動較緊，聲音就較懸；若是振動傷緊抑是傷慢，人的耳孔就攏袂聽見彼个聲。聲著有空氣來引𤆬到人的耳孔，才會聽見，若無空氣就袂聽見。一秒的中間會𤆬到 110 丈的遠；親像放銃的時，人若踮佇銃邊裡，開銃就連鞭聽見伊的聲。若遠裡咧看，代先看火出，停幾若秒久，然後才聽見伊的聲；這是因為光比聲行不止較緊；一秒的中央，光會行得六萬里的遠；聲只有到 110 丈的遠。
 
 ---
@@ -379,7 +379,7 @@ Ták hō ê siaⁿ lóng sī tùi hit ê chhut siaⁿ ê mi̍h teh chín-tōng; 
 
 ![原書插圖 - 第 152 頁 (圖 1)](assets/illustrations/page_152_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 105 tô:—Gán-kiû tē-pēng toān ê tô· khok-tōa sì pē : 1, bōng-tiám ; 2, chêng-āu-ti̍t-kèng-sòaⁿ ; 3, po-lê-thé ; 4, 17, hoâiⁿ tit-kèng-sòaⁿ ; 5, kun-bah ê kiān ; 6, chúi-chìⁿ-thé ; 7, chúi-chìⁿ-thé ê tiâu-tòa ; 8, Schlem-sī kńg ; 9, kak-mo̍h ; 10, chiân-pông ; 11, hông-chhái ; 12, hō·-pông ; 13, mng-chōng-thé ; 14, Petit-sī kńg ; 15, kun-bah ê kiān ; 16, Stilling-sī kńg ; 18, po-lê-thé ; 19, kēng-mo̍h ; 20, me̍h-lo̍k-mo̍h ; 21, bāng-mo̍h ; 23, bāng-mo̍h-tiong-tông-me̍h ; 22, 24, sī-sîn-keng (Cunningham).</em></p>
 
 </div>
 
@@ -397,21 +397,21 @@ nā-tiāⁿ; só͘-í tāi-seng khòaⁿ-kìⁿ chhèng tân ê hé, jiân-āu c
 Sī-khì: Bák-chiu ê lō͘-ēng sī koán khòaⁿ-kìⁿ ê tāi-chì, kiò-chòe sī-kak (視覺); i ê khoán-sit sī chhin-chhiūⁿ kiû, ji̍p
 
 > **【全漢對照】**
-> **視器：**目睭的用處係管看見的代誌，叫做視覺 (視覺)；伊的款式係親像球，入
+> **視器：**目睭的用處係管看見的代誌，叫做視覺 （視覺）；伊的款式係親像球，入
 
 ---
 
 **Tē 105 tô͘:—Gán-kiû tē-pêng toān ê tô͘ khok-tōa sì pōe:** 1, bōng-tiám; 2, chêng-āu-ti̍t-kèng-sòaⁿ; 3, po-lê-thé; 4, 17, hoâiⁿ tit-kèng-sòaⁿ; 5, kun-bah ê kiàn; 6, chúi-chīⁿ-thé; 7, chúi-chīⁿ-thé ê tiâu-tòa; 8, Schlem-sī kńg; 9, kak-mo̍h; 10, chiân-pông; 11, hông-chhái; 12, hō͘-pông; 13, mn̂g-chōng-thé; 14, Petit-sī kńg; 15, kun-bah ê kiàn; 16, Stilling-sī kńg; 18, po-lê-thé; 19, kēng-mo̍h; 20, me̍h-lo̍k-mo̍h; 21, bāng-mo̍h; 23, bāng-mo̍h-tiong-tong-me̍h; 22, 24, sī-sîn-keng (Cunningham).
 
 > **【全漢對照】**
-> **第 105 圖：—眼球地平斷的圖擴大四倍：** 1, 盲點；2, 前後直徑線；3, 玻璃體；4, 17, 橫直徑線；5, 筋肉的腱；6, 水晶體；7, 水晶體的條帶；8, Schlem氏管；9, 角膜；10, 前房；11, 虹彩；12, 後房；13, 芒狀體（毛狀體）；14, Petit氏管；15, 筋肉的腱；16, Stilling氏管；18, 玻璃體；19, 硬膜；20, 脈絡膜；21, 網膜；23, 網膜中動脈；22, 24, 視神經 (Cunningham)。
+> **第 105 圖：—眼球地平斷的圖擴大四倍：** 1，盲點；2，前後直徑線；3，玻璃體；4, 17，橫直徑線；5，筋肉的腱；6，水晶體；7，水晶體的條帶；8, Schlem氏管；9，角膜；10，前房；11，虹彩；12，後房；13，芒狀體（毛狀體）；14, Petit氏管；15，筋肉的腱；16, Stilling氏管；18，玻璃體；19，硬膜；20，脈絡膜；21，網膜；23，網膜中動脈；22, 24，視神經 (Cunningham)。
 
 ---
 
 tī bák-chiu-o ê só͘-chāi; khoah chha-put-to chi̍t chhùn, chhim káu hun (tē 15 tô͘). I ê ūi ū saⁿ têng: gōa-têng sī kēng-mo̍h (硬膜, sclerotic), kap kak-mo̍h (角膜, cornea).
 
 > **【全漢對照】**
-> 佇目睭窩的所在；闊差不多一寸，深九分 (第 15 圖)。伊的位有三層：外層係硬膜 (硬膜, sclerotic)，及角膜 (角膜, cornea)。
+> 佇目睭窩的所在；闊差不多一寸，深九分 （第 15 圖）。伊的位有三層：外層係硬膜 （硬膜，sclerotic），及角膜 （角膜，cornea）。
 
 <!-- Page 152 End -->
 
@@ -482,7 +482,7 @@ Kah hù-bo̍k liáu, tio̍h sûn chíng-thâu-á ê sek, á-sī ū chéng bô.
 
 ![原書插圖 - 第 154 頁 (圖 1)](assets/illustrations/page_154_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)</em></p>
+<p class="figure-caption"><em>Tē 106 tô:—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publish-ers.)</em></p>
 
 </div>
 
@@ -540,7 +540,7 @@ Tī kak-móh ê āu-bīn ū chit lia̍p, miâ kiò chúi-chíⁿ-thé (水晶體
 Tē 106 tô͘.—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publishers.)
 
 > **【全漢對照】**
-> 第 106 圖。—A, 正視眼；B, 遠視眼；C, 近視眼。(From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publishers.)
+> 第 106 圖。—A，正視眼；B，遠視眼；C，近視眼。(From Hartridge's “The Refraction of The Eye,” J. and A. Churchill, publishers.)
 
 <!-- Page 154 End -->
 
@@ -554,7 +554,7 @@ Tē 106 tô͘.—A, chiàⁿ-sī-gán; B, oán-sī-gán; C, kūn-sī-gán. (From
 
 ![原書插圖 - 第 155 頁 (圖 1)](assets/illustrations/page_155_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge).</em></p>
+<p class="figure-caption"><em>Tē 107 tô:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng bák-chīu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhìn-chhīuⁿ bák-chīu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhìn-chhīuⁿ kūn-sī-gán, bák-chīu sī siuⁿ tûg, khiā-pîn sī tī sio-tiám khah hñg M, só-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mó͘h ê pí-phēng (Hartridge).</em></p>
 
 </div>
 
@@ -581,7 +581,7 @@ Lâng kàu khah ū hè chúi-chiⁿ-thé chiām-chiām khah píⁿ, kūn ê mi̍
 Ba̍k-chiu thang hun chòe sì khoán: chiàⁿ-sī-gán (正視眼, normal vision eye); oán-sī-gán (遠視眼, far-sighted eye); kūn-sī-gán (近視眼, near-sighted eye; tē 106 tô͘); loān-sī-gán (亂視眼, astigmatic eye).
 
 > **【全漢對照】**
-> 目睭通分做四款：正視眼 (正視眼, normal vision eye)；遠視眼 (遠視眼, far-sighted eye)；近視眼 (近視眼, near-sighted eye; 第 106 圖)；亂視眼 (亂視眼, astigmatic eye)。
+> 目睭通分做四款：正視眼 （正視眼，normal vision eye）；遠視眼 （遠視眼，far-sighted eye）；近視眼 （近視眼，near-sighted eye；第 106 圖）；亂視眼 （亂視眼，astigmatic eye）。
 
 ---
 
@@ -590,7 +590,7 @@ Ba̍k-chiu thang hun chòe sì khoán: chiàⁿ-sī-gán (正視眼, normal visi
 Tē 107 tô͘:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng ba̍k-chiu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhin-chhiūⁿ ba̍k-chiu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhin-chhiūⁿ kūn-sī-gán, ba̍k-chiu sī siuⁿ tn̂g, khiā-pîn sī tī sio-tiám khah hñg M, só͘-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mo̍h ê pí-phēng (Hartridge).
 
 > **【全漢對照】**
-> 第 107 圖：——用平行線，膨面透鏡，豎屏來比評目睭的三款：平行線的焦點是 E，佇遐有明明的像 (正視眼)；若是豎屏較倚透鏡，是親像目睭較短，平行線的焦點是佇 H 的後面，亦 H，的像是霧霧 (遠視眼)；若是親像近視眼，目睭是傷長，豎屏是佇焦點較遠 M，所以像是霧霧。此個豎屏是做網膜的比評 (Hartridge)。
+> 第 107 圖：——用平行線，膨面透鏡，豎屏來比評目睭的三款：平行線的焦點是 E，佇遐有明明的像 （正視眼）；若是豎屏較倚透鏡，是親像目睭較短，平行線的焦點是佇 H 的後面，亦 H，的像是霧霧 （遠視眼）；若是親像近視眼，目睭是傷長，豎屏是佇焦點較遠 M，所以像是霧霧。此個豎屏是做網膜的比評 (Hartridge)。
 
 ---
 
@@ -599,7 +599,7 @@ Tē 107 tô͘:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pî
 Chiàⁿ-sī-gán sī ba̍k-chiu chiâu-chng hó, chiū-sī ji̍t-kng ê pîⁿ-hêng-sòaⁿ (平行線) nā ji̍p tī ba̍k-chiu-lāi, i ê sio-tiám (焦點, focus) sī tú-tú tī bāng-mo̍h; só͘-í lâng ōe thang khòaⁿ bêng (tē 106 tô͘ A kap tē 107 tô͘ E).
 
 > **【全漢對照】**
-> 正視眼是目睭齊整好，就是日光的平行線 (平行線) 若入佇目睭內，伊的焦點 (焦點, focus) 是拄拄佇網膜；所以人會通看明 (第 106 圖 A 佮第 107 圖 E)。
+> 正視眼是目睭齊整好，就是日光的平行線 （平行線） 若入佇目睭內，伊的焦點 （焦點，focus） 是拄拄佇網膜；所以人會通看明 （第 106 圖 A 佮第 107 圖 E）。
 
 <!-- Page 155 End -->
 
@@ -613,17 +613,17 @@ Chiàⁿ-sī-gán sī ba̍k-chiu chiâu-chng hó, chiū-sī ji̍t-kng ê pîⁿ-
 
 ![原書插圖 - 第 156 頁 (圖 1)](assets/illustrations/page_156_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>A
+<p class="figure-caption"><em>A
 Tē 108 tô.</em></p>
 
 ![原書插圖 - 第 156 頁 (圖 2)](assets/illustrations/page_156_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>B
+<p class="figure-caption"><em>B
 Tē 109 tô.</em></p>
 
 ![原書插圖 - 第 156 頁 (圖 3)](assets/illustrations/page_156_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>CH
+<p class="figure-caption"><em>CH
 Tē 110 tô.</em></p>
 
 </div>
@@ -694,11 +694,11 @@ Tē 108-110 tô͘:—Pîⁿ-hêng-sòàⁿ chiò-ji̍p tī kūn-sī-gán, sio-ti
 
 ![原書插圖 - 第 157 頁 (圖 1)](assets/illustrations/page_157_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge).</em></p>
+<p class="figure-caption"><em>Tē 111 tô.—Oán-sī-gán, kòa phòng-bīn-thàu-kiàⁿ hō͘ kng-sòaⁿ õe chip-sòaⁿ tī bāng-mo̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám õe tī bāng-mo̍h-āu, khòaⁿ bõe bêng (Hartridge).</em></p>
 
 ![原書插圖 - 第 157 頁 (圖 2)](assets/illustrations/page_157_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 112 tô.—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mo̍h-nih: Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, jit-kng ê sòaⁿ ū chiò-jip bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mo̍h p, m, h; chit ê siōng sī tò-péng khia, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)</em></p>
 
 </div>
 
@@ -728,7 +728,7 @@ Lâng ê bák-chiu nā oán-sī-gán, tióh kòa phông-bīn thàu-kiàⁿ ê b�
 
 ---
 
-> **Tē 111 tô͘.**—Oán-sī-gán, kòa phông-bīn-thàu-kiàⁿ hō͘ kng-sòàⁿ ōe chi̍p-sòàⁿ tī bāng-mó̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám ōe tī bāng-mó̍h-āu, khòaⁿ bōe bêng (Hartridge).
+> **Tē 111 tô͘.**—Oán-sī-gán, kòa phông-bīn-thàu-kiàⁿ hō͘ kng-sòàⁿ ōe chi̍p-sòàⁿ tī bāng-mó̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám ōe tī bāng-mó̍h-āu, khòaⁿ bōe bêng (Hartridge)。
 >
 > **【全漢對照】**  
 > **第 111 圖**——遠視眼，掛膨面透鏡互光線會集線佇網膜裡。這個是因為眼球傷短，若無掛這號透鏡，焦點會佇網膜後，看袂明（Hartridge）。
@@ -749,7 +749,7 @@ Ji̍t-kng ê sòàⁿ nā chiò-ji̍p bák-chiu-lāi tióh keng-kè
 
 ---
 
-> **Tē 112 tô͘.**—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mó̍h-nih : Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, ji̍t-kng ê sòàⁿ ū chiò-ji̍p bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mó̍h p, m, h ; chit ê siōng sī tò-péng khiā, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)
+> **Tē 112 tô͘.**—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mó̍h-nih：Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, ji̍t-kng ê sòàⁿ ū chiò-ji̍p bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mó̍h p, m, h；chit ê siōng sī tò-péng khiā, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)
 >
 > **【全漢對照】**  
 > **第 112 圖**——箭的像照佇目珠的網膜裡：對箭裡幾若點親像 P, M, H，日光的線有照入目珠內，平成這個像佇網膜 p, m, h；這個像是倒反攲，也比箭較細。（出自《家庭醫師》，Blackie and Son 出版社。）
@@ -766,7 +766,7 @@ chiah ê mi̍h : kak-mó̍h, chiân-phông-lāi ê chúi-iūⁿ-e̍k, tông-khó
 *Jîn-ài bô kiàn kiàn-siàu ê sū (I Ko-lîm-to 13: 5).*
 
 > **【全漢對照】**  
-> *仁愛無見見潲的事（I 哥林多 13: 5）。*
+> *仁愛無見見潲的事（I 哥林多 13：5）。*
 
 <!-- Page 157 End -->
 
@@ -780,7 +780,7 @@ chiah ê mi̍h : kak-mó̍h, chiân-phông-lāi ê chúi-iūⁿ-e̍k, tông-khó
 
 ![原書插圖 - 第 158 頁 (圖 1)](assets/illustrations/page_158_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy).</em></p>
+<p class="figure-caption"><em>Tē 113 tô:—Bák-chiu-jīn ê kun-bah, chiàⁿ-pêng-ê : 11, sī-sîn-keng. Bák-chiu-o ê gōa-bīn-pêng ū kù khui thang khòaⁿ lāi-bīn (Leidy).</em></p>
 
 </div>
 
@@ -834,7 +834,7 @@ Ba̍k-chiu sī put-chí pó-pòe ê mi̍h, só͘-í pī-pān ta̍k-hāng
 
 ![原書插圖 - 第 159 頁 (圖 1)](assets/illustrations/page_159_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 114 tô.—Lūi-khì: 1, siōng-gán-kiám ; 2, hā-gán-kiám ; 3, lūi-chôaⁿ ; 4, lūi-chôaⁿ-kńg ; 5, lūi-tiám ; 6, sió-lūi-kńg ; 7, lūi-lông ; 8, phīⁿ-lūi-kńg ; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -862,7 +862,7 @@ Ba̍k-chiu ê thâu-chêng tùi kak-mó͘h-kîⁿ khí, kàu tī lán ba̍k-chiu
 Tē 114 tô͘.—Lūi-khì: 1, siōng-gán-kiám; 2, hā-gán-kiám; 3, lūi-chhôaⁿ; 4, lūi-chhôaⁿ-kńg; 5, lūi-tiám; 6, sió-lūi-kńg; 7, lūi-lông; 8, phīⁿ-lūi-kńg; 9, phīⁿ-khang-lāi. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> 第 114 圖。—淚器：1, 上眼瞼；2, 下眼瞼；3, 淚腺；4, 淚腺管；5, 淚點；6, 小淚管；7, 淚囊；8, 鼻淚管；9, 鼻孔內。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
+> 第 114 圖。—淚器：1，上眼瞼；2，下眼瞼；3，淚腺；4，淚腺管；5，淚點；6，小淚管；7，淚囊；8，鼻淚管；9，鼻孔內。(From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -891,7 +891,7 @@ Ba̍k-chiu-o téng-bīn ê pō͘-ūi, gōa-bīn pêng, ū ba̍k-iû-chhôaⁿ, �
 Jîn-ài, hoān-sū jím-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-sū thun-lún (I Ko-lîm-to 13 : 7).
 
 > **【全漢對照】**
-> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13 : 7）。
+> 仁愛，凡事忍受，凡事相信，凡事盼望，凡事吞忍（I 哥林多 13：7）。
 
 <!-- Page 159 End -->
 
@@ -906,7 +906,7 @@ sī ōe siⁿ lūi-e̍k (ba̍k-iû) lâi siông-siông lūn-te̍k ba̍k-chiu (t�
 
 > **【全漢對照】**  
 > 144 五官器  
-> 是會生淚液（目油）來常常潤澤目睭（第 114 圖）。目睭的頂下眼瞼的內角，有一個細孔，叫做淚點（淚點, *puncta lachrymalia*）。這兩個淚點透兩條管，叫做小淚管（小淚管, *canaliculi*），才結連做一條管入佇淚囊（淚囊, *lachrymal sac*）。對遮有閣一條管叫做鼻淚管（鼻淚管, *nasal duct*）。目油對遮的管流落鼻孔內。若啼哭，目油傷濟流𣍐落，就滿出佇面。減採坱著目睭，連鞭有目油較濟流出來洗出去。這個也是反應作用的一項。坱著的時目睭會疼，這個疼的刺激就對知覺神經傳到大腦。大腦就降命令落去到淚腺，教伊著排出目油來除去彼個異物，通保護目睭。
+> 是會生淚液（目油）來常常潤澤目睭（第 114 圖）。目睭的頂下眼瞼的內角，有一個細孔，叫做淚點（淚點，*puncta lachrymalia*）。這兩個淚點透兩條管，叫做小淚管（小淚管，*canaliculi*），才結連做一條管入佇淚囊（淚囊，*lachrymal sac*）。對遮有閣一條管叫做鼻淚管（鼻淚管，*nasal duct*）。目油對遮的管流落鼻孔內。若啼哭，目油傷濟流𣍐落，就滿出佇面。減採坱著目睭，連鞭有目油較濟流出來洗出去。這個也是反應作用的一項。坱著的時目睭會疼，這個疼的刺激就對知覺神經傳到大腦。大腦就降命令落去到淚腺，教伊著排出目油來除去彼個異物，通保護目睭。
 
 <!-- Page 160 End -->
 

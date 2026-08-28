@@ -157,7 +157,7 @@ kiaⁿ-liáu sóe ê sî, pīⁿ-lâng ē piàn khoán. Sóe léng-chúi-e̍k m�
 
 > **【全漢對照】**  
 > （**冷水浴**）  
-> 驚了洗的時，病人會變款。洗冷水浴毋通連鞭將病人下佇 60 度 F. (15.6° C.) 的冷水內；代先著用燒水，親像對 90 度 F. (35.° C.)，漸漸予冷到 65 度 (18.3° C.)。看護亦著知病人若親像熱到 105 度 F. (40.6° C.)，伊的身體的熱會倒出佇水裡予較燒，所以著常常添冷水佮冰塊。（**起寒發瘈**）若病人起寒發瘈，就將伊扛到眠床頂拭予焦；毋通共伊蓋傷多，用一領被單抑是細領毯仔共伊蓋就好。用燒水罐熨跤。洗浴了後著佇肛門內檢溫，亦閣 45 分著閣檢，紲記。病人洗浴了後，若淡薄起寒發瘈，較無要緊。著預備 *brandy* 酒佇玻璃杯內，佮備辦注射器（注射器, *hypodermic syringe*），閣著看病人的脈搏按怎樣。醫治小腸熱這个冷水浴是做要緊的法度。毋過人的腹肚膜若發炎 (*peritonitis*)、腸出血 (*haemorrhage*)、血管發炎 (*phlebitis*)、腹肚真疼，就毋通予病人落去冷水內。
+> 驚了洗的時，病人會變款。洗冷水浴毋通連鞭將病人下佇 60 度 F. (15.6° C.) 的冷水內；代先著用燒水，親像對 90 度 F. (35.° C.)，漸漸予冷到 65 度 (18.3° C.)。看護亦著知病人若親像熱到 105 度 F. (40.6° C.)，伊的身體的熱會倒出佇水裡予較燒，所以著常常添冷水佮冰塊。（**起寒發瘈**）若病人起寒發瘈，就將伊扛到眠床頂拭予焦；毋通共伊蓋傷多，用一領被單抑是細領毯仔共伊蓋就好。用燒水罐熨跤。洗浴了後著佇肛門內檢溫，亦閣 45 分著閣檢，紲記。病人洗浴了後，若淡薄起寒發瘈，較無要緊。著預備 *brandy* 酒佇玻璃杯內，佮備辦注射器（注射器，*hypodermic syringe*），閣著看病人的脈搏按怎樣。醫治小腸熱這个冷水浴是做要緊的法度。毋過人的腹肚膜若發炎 (*peritonitis*)、腸出血 (*haemorrhage*)、血管發炎 (*phlebitis*)、腹肚真疼，就毋通予病人落去冷水內。
 
 ---
 
@@ -200,7 +200,7 @@ Io̍h m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tio̍h siu tī io̍h-tû-ni
 
 ![原書插圖 - 第 210 頁 (圖 1)](assets/illustrations/page_210_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 134 tô:—Chit niá iû-pò͘ chòe ê chô, chòe sóe-ék ê lō͘-ēng (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 134 tô:—Chit niá iû-pò͘ chòe ê chô, chòe sóe-ék ê lō͘-ēng (Sanders).</em></p>
 
 </div>
 
@@ -248,7 +248,7 @@ Nā sóe liáu beh chiong chúi piàⁿ-chhut, chiong iû-pò͘ óa kha hit pên
 
 ![原書插圖 - 第 211 頁 (圖 1)](assets/illustrations/page_211_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 135 tô.—Hoe-phùn sóe-ėk-hoat. (Kellog, from Aikens' “ Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 135 tô.—Hoe-phùn sóe-ėk-hoat. (Kellog, from Aikens' “ Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -273,7 +273,7 @@ Hoe-phùn sóe-e̍k-hoat : Iû-pò͘ tiòh pí jiòk-á khah tng, iā nñg-pêng
 Tē 135 tô͘.—Hoe-phùn sóe-e̍k-hoat. (Kellog, from Aikens’ “Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> 第 135 圖。——花噴洗浴法。（Kellog, 轉載自 Aikens 著《護士臨床研究》，經出版商 W. B. Saunders 公司授權）
+> 第 135 圖。——花噴洗浴法。（Kellog，轉載自 Aikens 著《護士臨床研究》，經出版商 W. B. Saunders 公司授權）
 
 ---
 
@@ -315,7 +315,7 @@ Tiòh ū-pī chiah ê mi̍h :
 
 ![原書插圖 - 第 212 頁 (圖 1)](assets/illustrations/page_212_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 136 tô:—Léng-chúi chhit seng-khu. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 136 tô:—Léng-chúi chhit seng-khu. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -463,11 +463,11 @@ Thé-un-khì m̄-thang hō͘ gín-nā ka-kī ēng, á-sī put-séng-jîn-sū ê 
 
 ![原書插圖 - 第 214 頁 (圖 1)](assets/illustrations/page_214_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's "Practical Points in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's "Practical Points in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
 
 ![原書插圖 - 第 214 頁 (圖 2)](assets/illustrations/page_214_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney).</em></p>
 
 </div>
 
@@ -486,7 +486,7 @@ Thé-un-khì m̄-thang hō͘ gín-nā ka-kī ēng, á-sī put-séng-jîn-sū ê 
 Léng-sip-pò͘-pau-hoat (*Cold pack* tē 137, 138 tô͘) : Chiàu téng-bīn tióh jia-khàm lâi pó-hō͘ bîn-chhng, ēng iû-pò͘, thán-á chhu bîn-chhng-téng. Ēng chi̍t niá phē-toaⁿ chìm tī léng-chúi (65° F., 18.3° C.), chūn hō͘ i khah ta tām-pó̍h, chhu tī thán-á-téng. Pīⁿ-lâng ê saⁿ thǹg-liáu, tióh hō͘ i tó tī chit ê tâm phē-toaⁿ-téng ; ēng chit ê tâm
 
 > **【全漢對照】**
-> **[邊註：冷濕布包法]**
+> **［邊註：冷濕布包法］**
 > 冷濕布包法（*Cold pack* 第 137, 138 圖）：照頂面著遮蓋來保護眠床，用油布、毯仔鋪眠床頂。用一領被單浸佇冷水（65° F., 18.3° C.），扭予伊較焦淡薄，鋪佇毯仔頂。病人的衫褪了，著予伊倒佇此個澹被單頂；用此個澹
 
 ---
@@ -520,7 +520,7 @@ Tē 138 tô͘.—Léng-sip-pò͘-pau-hoat. Seng-khu pau ba̍t. Thâu-khak ū ēn
 phē-toaⁿ kā i pau seng-khu ta̍k ūi, thâu-khak í-gōa lóng tio̍h pau. Thâu-mn̂g tio̍h ēng lēng-gōa chi̍t tiâu léng koh tâm ê bīn-kun kā i pau. Pau hó-sè, tio̍h ēng chi̍t niá thán-á pau tī hit niá tâm phē-toaⁿ-téng. Án-ni tio̍h hō͘ pīⁿ-lâng tó 10 chì 15 hun-cheng-kú. Ēng chit ê hoat-tō͘, pīⁿ-lâng ê thé-un ē khah kē, iā i khah ē khùn-tit. Chhòng liáu tio̍h ōaⁿ phē-toaⁿ, thán-á hiah ê mi̍h, chhit hō͘ i ta, iā ēng ta ê phē-toaⁿ kā i kah.
 
 > **【全漢對照】**  
-> **【冷濕敷包法】** *(接前頁)*  
+> **【冷濕敷包法】** *（接前頁）*  
 > 被單共伊包身軀逐位，頭殼以外攏著包。頭毛著用另外一條冷閣淡的面巾共伊包。包好勢，著用一件毯仔包佇彼件淡被單頂。按呢著予病人倒 10 至 15 分鐘久。用這个法度，病人的體溫會較低，也伊較會睏得。創了著換被單、毯仔許个物，拭予伊焦，也用焦的被單共伊蓋。
 
 ---
@@ -576,7 +576,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chìn, m̄-thang lia̍h-chòe sió-k
 
 ![原書插圖 - 第 216 頁 (圖 1)](assets/illustrations/page_216_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 139 tô:—Kòa chhia-lûn ê ék-tháng. Ū-pī liáu ê bîn-chhñg, hō͘ hoān-chiá sóe-ék liáu thang koh tó-teh. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 139 tô:—Kòa chhia-lûn ê ék-tháng. Ū-pī liáu ê bîn-chhñg, hō͘ hoān-chiá sóe-ék liáu thang koh tó-teh. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -745,7 +745,7 @@ Pīⁿ-lâng nā kóng pheng-tòa siuⁿ ân, tio̍h liâm-piⁿ khì sūn khòa
 
 ![原書插圖 - 第 219 頁 (圖 1)](assets/illustrations/page_219_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 140 tô:—M̄-bián hian pīⁿ-lâng kā i sóe seng-khu (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 140 tô:—M̄-bián hian pīⁿ-lâng kā i sóe seng-khu (Sanders).</em></p>
 
 </div>
 
@@ -864,12 +864,12 @@ Lēng-gōa ū phi-lõ-ka-piān-ná chù-siā (*pilocarpine hypodermic*) ê hoat,
 
 ![原書插圖 - 第 221 頁 (圖 1)](assets/illustrations/page_221_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>141
+<p class="figure-caption"><em>141
 Tē 141 tô.—Cheng-khì-e̍k. Tio̍h ū koh pī-pān chi̍t ê kún-chúi-koàn.</em></p>
 
 ![原書插圖 - 第 221 頁 (圖 2)](assets/illustrations/page_221_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>142
+<p class="figure-caption"><em>142
 Tē 142 tô.—Cheng-khì-e̍k pīⁿ-lâng lóng ū-pī hó-sè (Stoney).</em></p>
 
 </div>
@@ -929,7 +929,7 @@ Tē 142 tô͘.—Cheng-khì-e̍k pīⁿ-lâng lóng ū-pī hó-sè (*Stoney*).
 Góa siat-sú chòe sian-ti bêng-pék lóng-chóng ê ò-biāu kap lóng-chóng ê chai-bat, koh siat-sú ū chiâu-pī ê sìn, kàu-gia̍h lâi î-soaⁿ, nā bô jîn-ài, góa chiū bōe sǹg chòe sī sím-mi̍h (I Ko-lîm-to 13 : 2).
 
 > **【全漢對照】**  
-> 我設使做先知明白攏總的奧妙佮攏總的知拔（知識），閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼（哥林多前書 13 : 2）。
+> 我設使做先知明白攏總的奧妙佮攏總的知拔（知識），閣設使有齊備的信，夠額來移山，若無仁愛，我就𣍐算做是甚麼（哥林多前書 13：2）。
 
 <!-- Page 221 End -->
 
@@ -1022,7 +1022,7 @@ Góa siat-sú chòe sian-ti bêng-pék lóng-chóng ê ò-biāu kap lóng-chóng
 
 ![原書插圖 - 第 223 頁 (圖 1)](assets/illustrations/page_223_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 143 tô.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital, Philadelphia).</em></p>
+<p class="figure-caption"><em>Tē 143 tô.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital, Philadelphia).</em></p>
 
 </div>
 
@@ -1095,7 +1095,7 @@ Tē 143 tô͘.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital
 
 ![原書插圖 - 第 224 頁 (圖 1)](assets/illustrations/page_224_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 144 tô.—Chō-e̍k (Bandler).</em></p>
+<p class="figure-caption"><em>Tē 144 tô.—Chō-e̍k (Bandler).</em></p>
 
 </div>
 
@@ -1135,9 +1135,9 @@ Chō-e̍k (坐浴, *Sitz bath*): Chiàu chit ê hoat-tō͘, sóe-e̍k tio̍h ū 
 *(Tē 144 tô͘.—Chō-e̍k (Bandler).)*
 
 > **【全漢對照】**
-> 坐浴 (坐浴, *Sitz bath*)：照這個法度，洗浴著有特別的浴桶（第 144 圖）。水著差不多 110° F. (44.3° C.) 燒。病人著坐在水裡遐浸。所浸的所在，是對腰到大腿。着用毯仔包圍病人的身軀，也閣一領包伊的跤。
+> 坐浴 （坐浴，*Sitz bath*）：照這個法度，洗浴著有特別的浴桶（第 144 圖）。水著差不多 110° F. (44.3° C.) 燒。病人著坐在水裡遐浸。所浸的所在，是對腰到大腿。着用毯仔包圍病人的身軀，也閣一領包伊的跤。
 > 
-> *(第 144 圖——坐浴 (Bandler))*
+> *（第 144 圖——坐浴 (Bandler）)*
 
 ---
 
@@ -1160,7 +1160,7 @@ Chō-e̍k (坐浴, *Sitz bath*): Chiàu chit ê hoat-tō͘, sóe-e̍k tio̍h ū 
 
 ![原書插圖 - 第 225 頁 (圖 1)](assets/illustrations/page_225_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 145 tô.—Súi-gûn-ėk. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 145 tô.—Súi-gûn-ėk. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -1188,7 +1188,7 @@ Súi-gûn-e̍k (*Mercurial bath*): Chit ê hoat-tō͘ ài ēng súi-gûn lūi ê
 
 > **【插圖說明】**  
 > Tē 145 tô͘.—Súi-gûn-e̍k. (From Woodward's “Medical Nursing,” Edward Arnold, publisher.)  
-> *(第 145 圖：水銀浴)*
+> *（第 145 圖：水銀浴）*
 
 ---
 

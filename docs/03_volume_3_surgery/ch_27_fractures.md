@@ -71,15 +71,15 @@ Kut-chih ê goân-in (原因, *Etiology*) :
 
 ![原書插圖 - 第 366 頁 (圖 1)](assets/illustrations/page_366_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)</em></p>
+<p class="figure-caption"><em>212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)</em></p>
 
 ![原書插圖 - 第 366 頁 (圖 2)](assets/illustrations/page_366_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders).</em></p>
+<p class="figure-caption"><em>213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders).</em></p>
 
 ![原書插圖 - 第 366 頁 (圖 3)](assets/illustrations/page_366_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”).</em></p>
+<p class="figure-caption"><em>214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”).</em></p>
 
 </div>
 
@@ -152,7 +152,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 
 ![原書插圖 - 第 367 頁 (圖 1)](assets/illustrations/page_367_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 215—217 tô:—Kut-chih ê lú-hảp : 215, chih-kut ê siang-thâu-bé saⁿ-óa hó-sè; 216 chih-kut ê siang-thâu-bé saⁿ-óa chit-pō-hūn ; 217, chih-kut ê siang-thâu-bé lóng bô saⁿ-óa, oai-oai-khì(Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 215—217 tô:—Kut-chih ê lú-hảp : 215, chih-kut ê siang-thâu-bé saⁿ-óa hó-sè; 216 chih-kut ê siang-thâu-bé saⁿ-óa chit-pō-hūn ; 217, chih-kut ê siang-thâu-bé lóng bô saⁿ-óa, oai-oai-khì(Rose and Carless).</em></p>
 
 </div>
 
@@ -197,11 +197,11 @@ Kut lú-ha̍p ê sî-ji̍t ê chē chió, chiū tióh khòaⁿ hit ê kut tōa s
 
 ![原書插圖 - 第 368 頁 (圖 1)](assets/illustrations/page_368_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa).</em></p>
+<p class="figure-caption"><em>Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa).</em></p>
 
 ![原書插圖 - 第 368 頁 (圖 2)](assets/illustrations/page_368_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa).</em></p>
+<p class="figure-caption"><em>Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa).</em></p>
 
 </div>
 
@@ -211,7 +211,7 @@ Kut-chi̍h ê só͘-chāi, ū-sî phê-nîh sui-jiân bē tōa hoāi-khì, chón
 
 > **【全漢對照】**
 > 骨折的所在，有時皮肉雖然𣍐大壞去，總是近彼枝骨的筋肉、結締質，的確攏受傷。有的對外面看，皮肉攏無稍許有損壞，毋過內面的骨已經斷，彼个筋肉、結締質，通知猶原受傷。這个緣故，有時互彼个折的骨的尾（第 219 圖）佇內面來磨來磨去，毋但受傷著筋肉、結締質，連血管、神經，及腫氣；這个理氣關係佇治療的法度，是不止要緊，毋通毋知。
-> *(側註：癒合的時日)*
+> *（側註：癒合的時日）*
 
 ---
 
@@ -231,13 +231,13 @@ Chèng-chōng:
 6. Ēng X-kng-sòaⁿ chiò, chiū ē chai chi̍h ê só͘-chāi (tē 220 tô͘).
 
 > **【全漢對照】**
-> *(側註：症狀)*
+> *（側註：症狀）*
 > 症狀：
 > 1. 傷。
 > 2. 骨較快振動。
 > 3. 若摸著佇骨尾有出相磨的聲。
-> 4. 不正的位置（不正位置, deformity）。
-> 5. 疼，及官能阻礙（官能阻礙, loss of function）。
+> 4. 不正的位置（不正位置，deformity）。
+> 5. 疼，及官能阻礙（官能阻礙，loss of function）。
 > 6. 用 X 光線照，就會知折的所在（第 220 圖）。
 
 ---
@@ -269,7 +269,7 @@ Chit só͘-chāi piàn i ê hêng-chōng, chhin-chhiūⁿ ū chi̍t só͘-chāi 
 
 ![原書插圖 - 第 369 頁 (圖 1)](assets/illustrations/page_369_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 220 tô:—Jiâu-kut, chhioh-kut chih tī ē-toan, X-kng-sòaⁿ ê siōng. Kut-chih ê só͘-chāi bô saⁿ-óa hó-sè (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 220 tô:—Jiâu-kut, chhioh-kut chih tī ē-toan, X-kng-sòaⁿ ê siōng. Kut-chih ê só͘-chāi bô saⁿ-óa hó-sè (Rose and Carless).</em></p>
 
 </div>
 
@@ -294,7 +294,7 @@ chhin-chhiūⁿ chhiú bōe kiah-khí-lâi, á-sī bōe kiâⁿ lō͘. Ài chai 
 Ū-sî siū-siong ê kut, chiap liáu bô ti̍t, hit ê iân-kò͘, in-ūi bô tú-hó ha̍p tī hit ê hoat-tō͘; ū-sî lóng chiap bô ha̍p (tē 217 tô͘); ū-sî chi̍h ê kut hit nn̄g thâu, sī ēng kiat-
 
 > **【全漢對照】**
-> ### [邊註：接骨無合式]
+> ### ［邊註：接骨無合式］
 > 有時受傷的骨，接了無直，彼個緣故，因為無拄好合佇彼個法度；有時攏接無合（第 217 圖）；有時折的骨彼兩頭，是用結-
 
 <!-- Page 369 End -->
@@ -321,7 +321,7 @@ Tī chia beh kóng-khí: 1. Kiù-kip-hoat, hō͘ tú-á kut-chíh ê pīⁿ-lân
 4. Tī-liâu-hoat, chiap-ha̍p chih-kut, kap tio̍h ēng sím-mi̍h khoán ê hù-bo̍k ê hoat.
 
 > **【全漢對照】**
-> **[治療及看護]**
+> **［治療及看護］**
 > 治療及看護的法：
 > 佇遮欲講起：1. 救急法，互拄仔骨折的病人，唔免互伊加損傷。
 > 2. 扛病人的法度。
@@ -334,7 +334,7 @@ Tī chia beh kóng-khí: 1. Kiù-kip-hoat, hō͘ tú-á kut-chíh ê pīⁿ-lân
 Nā khan á-sī chhah pīⁿ-lâng, bô chám-jiân sió-sim, ti̍h-siong hit só͘-chāi lāi-bīn ê kun-bah kap gōa-bīn ê phê lóng ōe hō͘ hit ki chih ê kut ê mî-kak lòe pháiⁿ-khì; koh nā bô sió-sim lâi kng, ōe hāi-tio̍h huih-kńg kap sîn-keng, lóng ōe īn-ūi án-ni sún-hoāi.
 
 > **【全漢對照】**
-> **[救急法]**
+> **［救急法］**
 > 若牽抑是插病人，無湛然小心，得傷彼所在內面的筋肉及外面的皮攏會互彼枝折的骨的微角（銳角）𫝛（磨）捽去；閣若無小心來扛，會害著血管及神經，攏會因為按呢損壞。
 
 ---
@@ -370,27 +370,27 @@ Pīⁿ-lâng ê i-chiûⁿ, tī kiù-kip ê sî, m̄-bián kā i ōaⁿ, kàu i-
 
 ![原書插圖 - 第 371 頁 (圖 1)](assets/illustrations/page_371_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>221
+<p class="figure-caption"><em>221
 Tē 221 tô.—Kēng-kut chih. Ēng nñg ki koáiⁿ-á kap saⁿ kā kah (Warwick and Tunstall).</em></p>
 
 ![原書插圖 - 第 371 頁 (圖 2)](assets/illustrations/page_371_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>223
+<p class="figure-caption"><em>223
 Tē 223 tô.—Tōa-thúi-kut-kēng chih-khì (Da Costa).</em></p>
 
 ![原書插圖 - 第 371 頁 (圖 3)](assets/illustrations/page_371_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>222
+<p class="figure-caption"><em>222
 Tē 222 tô.—Chit ki kha chih. Ēng hit ki hó-ê chòe hù-bo̍k (after A. S. Morrow).</em></p>
 
 ![原書插圖 - 第 371 頁 (圖 4)](assets/illustrations/page_371_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>224
+<p class="figure-caption"><em>224
 Tē 224 tô.—Tōa-thúi-kut chih. Ēng tng ê hù-bo̍k kā kah. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 ![原書插圖 - 第 371 頁 (圖 5)](assets/illustrations/page_371_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>225
+<p class="figure-caption"><em>225
 Tē 225 tô.—Tōa-thúi-kut chih. Ēng chit m̂g chhèng kā kah (Warwick and Tunstall).</em></p>
 
 </div>
@@ -454,7 +454,7 @@ Tē 225 tô͘:—Tōa-thúi-kut chih. Ēng chit m̂ng chhèng kā kah (Warwick a
 Nā-sī lâng ê chhiú-kut chi̍h-khì, khiok thang kā i chhah-teh, hō͘ i ka-kī kiâⁿ. Nā-sī kha-kut chi̍h-khì, tio̍h sia̍t-hoat lâi ēng kng-ê (tē 224–225 tô͘). Pīⁿ-lâng seng-khu-ē tio̍h ké hō͘ i pîⁿ, hō͘ i chāi, m̄-thang ēng ōe tín-tāng ê pang, á-sī bōe chū-chāi ê mi̍h; iā tio̍h hō͘ pīⁿ-lâng tó hō͘ pîⁿ chiah thò-tòng. Tio̍h kā siū-siong ê lâng kah hō͘ sio, bo̍h-tit hō͘ léng-tio̍h.
 
 > **【全漢對照】**
-> **[扛病人的法度]**
+> **［扛病人的法度］**
 > 若是人的手骨折去，卻通共伊插咧，予伊家己行。若是跤骨折去，著設法來用扛的（第 224–225 圖）。病人身軀下著墊予伊平，予伊在，毋通用會振動的枋，抑是袂自在的物；也著予病人倒予平才妥當。著共受傷的人蓋予燒，莫得予冷著。
 
 ---
@@ -466,7 +466,7 @@ Tio̍h chhòng bîn-chhâng hō͘ pîⁿ-tháⁿ, m̄-thang hō͘ ōe tín-tāng
 Kā pīⁿ-lâng thǹg saⁿ, tī i só͘ tó ê pang, á-sī tī pīⁿ-chhâng lóng ōe ēng-tit. Tio̍h tâi-seng tùi hit ê bô siū-siong ê chhiú á-sī kha lâi thǹg-khí-lâi, thǹg liáu tio̍h sòe-jī bān-bān kā hē bîn-chhâng. Tio̍h ū-pī chím-thâu, soa-tē-á kap hù-bo̍k.
 
 > **【全漢對照】**
-> **[骨折的眠床]**
+> **［骨折的眠床］**
 > 著創眠床予平坦，毋通用會振動。彼個近佇跤的所在，應該著比近頭殼的所在略仔較懸。佇褥仔下著下枋予伊自在。
 > 
 > 共病人褪衫，佇伊所倒的枋，抑是佇病床攏會用得。著代先對彼個無受傷的手抑是跤來褪起來，褪了著細膩慢慢共下眠床。著預備枕頭、沙袋仔佮附木。
@@ -480,7 +480,7 @@ Chéng-tùn ê hoat-tō͘, eng-kai tio̍h chiong siū-siong ê kut, chiàu-kū t
 Hù-bo̍k ū nñg khoán, chi̍t khoán sī ngē-ê, chi̍t khoán sī núg-ê. Ngī ê hù-bo̍k sī tēng ê mi̍h chòe-ê, thih kap chhâ ê lūi, ēng ha̍p-chhùi-ko-liâm-pò͘, kap pheng-tòa, pa̍k tī pīⁿ-lâng siū-siong ê só͘-chāi. Núg hù-bo̍k sī chi̍t khoán, ōe chiàu sin-thé ê hêng-chōng, hit hō hù-bo̍k. Phì-lūn kut-chi̍h ê só͘-chāi goân-pún sī bô pîⁿ, nā ēng ngī ê hù-bo̍k tiāⁿ-tio̍h sī bô ha̍p-sek. Hit ê kut-chi̍h ê só͘-chāi, chhiâu hó-sè liáu-āu, ēng núg ê hù-bo̍k, kóaⁿ-kín chiong siū-siong ê só͘-chāi khún pa̍k hō͘ hó-sè, hō͘ hit ê bô pīⁿ tio̍h-siong ê só͘-chāi ōe ha̍p chòe tùi, thèng-hāu i ta ê sî, ka-kī chiū ōe kian-ngī-lâi. Chit khoán ê hoat-tō͘, nā ēng tī seng-khu bô pîⁿ ê só͘-chāi, chiū-sī chhin-chhiūⁿ ēng chhiú kā i ngoéh-óa-lâi ê khoán.
 
 > **【全漢對照】**
-> **[附木]**
+> **［附木］**
 > 整頓的法度，應該著將受傷的骨，照舊對予合合，用附木來捆予好，予伊攏袂稍許振動徙開，彼個骨家己就會生長來癒合。醫治骨折的時，醫生有時予人鼻麻醉藥，按呢較快撨。
 > 
 > 附木有兩款，一款是硬的，一款是軟的。硬的附木是硬的物做的，鐵佮柴的類，用合口膏黏布佮繃帶，縛佇病人受傷的所在。軟附木是一款，會照身體的形狀，彼號附木。譬論骨折的所在原本是無平，若用硬的附木定著是無合適。彼個骨折的所在，撨好勢了後，用軟的附木，趕緊將受傷的所在捆縛予好勢，予彼個無並著傷的所在會合做對，聽候伊焦的時，家己就會堅硬來。這款的法度，若用佇身軀無平的所在，就是親像用手共伊夾倚來的款。
@@ -497,7 +497,7 @@ Hù-bo̍k ū nñg khoán, chi̍t khoán sī ngē-ê, chi̍t khoán sī núg-ê. 
 
 ![原書插圖 - 第 373 頁 (圖 1)](assets/illustrations/page_373_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 226 tô.— Gooch-sī ê hù-bók; ē-bīn-ê sī hoâiⁿ-tūg-bīn (Scuduer).</em></p>
+<p class="figure-caption"><em>Tē 226 tô.— Gooch-sī ê hù-bók; ē-bīn-ê sī hoâiⁿ-tūg-bīn (Scuduer).</em></p>
 
 </div>
 
@@ -629,7 +629,7 @@ Tit-tit ê hù-bo̍k (*Straight splint*, tē 228 tô͘): Ū-ê khah tn̂g, ū-ê
 Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6: 16-17).
 
 > **【全漢對照】**
-> 上帝怨恨驕傲的，佮嘴講奸詐的（箴言 6: 16-17）。
+> 上帝怨恨驕傲的，佮嘴講奸詐的（箴言 6：16-17）。
 
 <!-- Page 374 End -->
 
@@ -643,11 +643,11 @@ Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6:
 
 ![原書插圖 - 第 375 頁 (圖 1)](assets/illustrations/page_375_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)</em></p>
+<p class="figure-caption"><em>Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)</em></p>
 
 ![原書插圖 - 第 375 頁 (圖 2)](assets/illustrations/page_375_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney).</em></p>
+<p class="figure-caption"><em>Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney).</em></p>
 
 </div>
 
@@ -702,21 +702,21 @@ chì 6 chhùn. I ê chok-iōng sī kúi-nā khoán. Nā khah oe̍h khah té-ê, 
 
 ![原書插圖 - 第 376 頁 (圖 1)](assets/illustrations/page_376_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 229 tô· (Heath).</em></p>
+<p class="figure-caption"><em>Tē 229 tô· (Heath).</em></p>
 
 ![原書插圖 - 第 376 頁 (圖 2)](assets/illustrations/page_376_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>230
+<p class="figure-caption"><em>230
 Tē 230 tô·.—Ū-kak ê hù-bók.</em></p>
 
 ![原書插圖 - 第 376 頁 (圖 3)](assets/illustrations/page_376_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>231
+<p class="figure-caption"><em>231
 Tē 231 tô·.—Chiàⁿ-chhiú kah lāi-kak hù-bók (Sanders).</em></p>
 
 ![原書插圖 - 第 376 頁 (圖 4)](assets/illustrations/page_376_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 232 tô·.—Carr-sī ê hù-bók (Heath).</em></p>
+<p class="figure-caption"><em>Tē 232 tô·.—Carr-sī ê hù-bók (Heath).</em></p>
 
 </div>
 
@@ -852,17 +852,17 @@ Khan-ín-hoat (牽引法, _Extension_):
 
 ![原書插圖 - 第 378 頁 (圖 1)](assets/illustrations/page_378_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>233
+<p class="figure-caption"><em>233
 Tē 233 tô͘.—Kha khan-ín-hoat (Sanders).</em></p>
 
 ![原書插圖 - 第 378 頁 (圖 2)](assets/illustrations/page_378_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>234
+<p class="figure-caption"><em>234
 Tē 234 tô͘.—Kha khan-ín-hoat (Sanders).</em></p>
 
 ![原書插圖 - 第 378 頁 (圖 3)](assets/illustrations/page_378_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>235
+<p class="figure-caption"><em>235
 Tē 235 tô͘.—Kút-chhia, chòe khan-ín-hoat ê lō͘-ēng (Heath).</em></p>
 
 </div>
@@ -906,7 +906,7 @@ Tē 235 tô͘.—Kút-chhia, chòe khan-ín-hoat ê lō͘-ēng (Heath).
 Jîn-ài sī gâu khoan-iông, chû-pi; jîn-ài sī bô oàn-tò͘; jîn-ài bô khoa-kháu, bô phín-phóng (I Ko-lîm-to 13: 4).
 
 > **【全漢對照】**  
-> 仁愛是𠢕寬容，慈悲；仁愛是無怨妒；仁愛無誇口，無品磅（哥林多前書 13: 4）。
+> 仁愛是𠢕寬容，慈悲；仁愛是無怨妒；仁愛無誇口，無品磅（哥林多前書 13：4）。
 
 <!-- Page 378 End -->
 
@@ -947,7 +947,7 @@ Jîn-ài sī gâu khoan-iông, chû-pi; jîn-ài sī bô oàn-tò͘; jîn-ài b�
 12. Chiong hit ê kút-chhia (滑車, pulley) kap hō͘ i tiâu ê mih hē bîn-chhng-bé hit pêng.
 
 > **【全漢對照】**
-> 12. 將彼個滑車（滑車, pulley）佮予伊牢ê物放置眠床尾彼爿。
+> 12. 將彼個滑車（滑車，pulley）佮予伊牢ê物放置眠床尾彼爿。
 
 13. Bîn-chhng ê kha óa kha hit pêng, tióh khè koâiⁿ, hō͘ pīⁿ-lâng bōe lū-lo̍h-lâi.
 
@@ -992,11 +992,11 @@ Chù-ì: Chòe khan-ín-hoat ê sî, ū sì hāng iàu-kín tióh sòe-jī, chi�
 
 ![原書插圖 - 第 380 頁 (圖 1)](assets/illustrations/page_380_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder).</em></p>
+<p class="figure-caption"><em>Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder).</em></p>
 
 ![原書插圖 - 第 380 頁 (圖 2)](assets/illustrations/page_380_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders).</em></p>
+<p class="figure-caption"><em>Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders).</em></p>
 
 </div>
 
@@ -1047,7 +1047,7 @@ IV. Pīⁿ-lâng ê kha, m̄-thang hō͘ i chéng; á-sī hiah ê ha̍p-chhùi-k
 Jîn-ài bô khoài siū-khì (I Ko-lîm-to 13 : 5.)
 
 > **【全漢對照】**
-> 仁愛無快受氣 (I 哥林多 13 : 5.)
+> 仁愛無快受氣 (I 哥林多 13：5.)
 
 <!-- Page 380 End -->
 

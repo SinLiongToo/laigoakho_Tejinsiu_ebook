@@ -27,7 +27,7 @@ Phê-hu pau tī seng-khu ê gōa-bīn; i ê chok-iōng sī chiàu ē-tóe :
 5. Sī tiau-hô lâng seng-khu ê thé-un; chhin-chhiūⁿ nā thiⁿ-khì khah joa̍h ê sî, hiah ê hān-chôaⁿ-kńg ê bé-liu tiùⁿ koh khui, só͘-í kōaⁿ nā lâu-chhut-lâi, lâng chiū khah liâng-léng, khòaⁿ-oa̍h. Nā thiⁿ-khì khah léng ê sî, hiah ê kńg ōe khah kiu-oá, khah bô hoat kōaⁿ, iā hiah ê khah oá tī phê-hu ê huih-kńg, ōe kiu, jia̍t-khì chiū khah bōe tùi phê-hu lī-khui seng-khu, hoán-tńg, tòa tī seng-khu-lāi, só͘-í lâng chiū ōe sio-lō.
 
 > **【全漢對照】**
-> #### [皮膚的作用]
+> #### ［皮膚的作用］
 > 
 > 皮膚包佇身軀的外面；伊的作用是照下底：
 > 1. 是保護筋肉。
@@ -44,7 +44,7 @@ Phê-hu hun chòe nn̄g chân. Téng bīn chân kiò-chòe piáu-phê (表皮, *
 Tī chit nn̄g chân ê ē-tóe ū kiat-tè-chit, chit-ê kiò-chòe phê-ē-kiat-tè-chit (皮下結締織, *subcutaneous connective tissue*; tē 88 tô͘).
 
 > **【全漢對照】**
-> #### [皮膚兩層]
+> #### ［皮膚兩層］
 > 
 > 皮膚分做兩層。頂面層叫做表皮（表皮，*epidermis*）；第二叫做真皮（真皮，*dermis*）。
 > 佇這兩層的下底有結締質，這個叫做皮下結締質（皮下結締織，*subcutaneous connective tissue*；第 88 圖）。
@@ -61,7 +61,7 @@ Tī chit nn̄g chân ê ē-tóe ū kiat-tè-chit, chit-ê kiò-chòe phê-ē-kia
 
 ![原書插圖 - 第 127 頁 (圖 1)](assets/illustrations/page_127_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 88 tô.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê ; 2, chin-phê; 3, phê-ē-kiat-tè-chit ; 4, hān-chôaⁿ ; 5, hān-chôaⁿ-kńg ; 6, mûg-bú-êng-ióng-tōng-me̍h ; 7, mûg-bú ; 8, phê-chi-chôaⁿ ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu ; 12, mng ; 13, mng ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 88 tô.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê ; 2, chin-phê; 3, phê-ē-kiat-tè-chit ; 4, hān-chôaⁿ ; 5, hān-chôaⁿ-kńg ; 6, mûg-bú-êng-ióng-tōng-me̍h ; 7, mûg-bú ; 8, phê-chi-chôaⁿ ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu ; 12, mng ; 13, mng ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -72,7 +72,7 @@ Tī chit nn̄g chân ê ē-tóe ū kiat-tè-chit, chit-ê kiò-chòe phê-ē-kia
 Piáu-phê sī chiàu i ê miâ só͘ kóng, tī phê-hu ê chòe tē it gōa-kháu ê cho͘-chit, sī kúi-nā chân ê sòe-pau lâi chiâⁿ-ê.
 
 > **【全漢對照】**
-> **[表皮]**
+> **［表皮］**
 > 表皮是照伊的名所講，佇皮膚的做第一外口個組織，是幾若層的細胞來成的。
 
 Piáu-phê-lāi lóng bô huih-kńg; tī piáu-phê ê chòe tē i chhim chân ê sòe-pau ê tiong-kan, ū tē it sòe tiâu ê sîn-keng.
@@ -92,8 +92,8 @@ Piáu-phê iā siông-siông ū phí po̍h-phiⁿ po̍h-phiⁿ teh hiauh-khí-l�
 Chin-phê sī phê-hu cho͘-chit ê tē jī chân; chit-ê sī iù koh ba̍t ê cho͘-chit lâi chiâⁿ-ê. Chiap tī piáu-phê ē-bīn bô pîⁿ-pîⁿ, ū chin chōe lûi-ê, kiò-chòe leng-thâu (乳頭, *papilla*). Chiah ê leng-thâu chiū-sī m̂g-sòe-kńg, kap sîn-keng-bé teh tòa ê só͘-chāi. Chit ê sîn-keng-bé ê khì-kū, kiò-chòe
 
 > **【全漢對照】**
-> **[真皮]**
-> 真皮是皮膚組織的第二層；這個是幼閣密的組織來成的。接佇表皮下面無平平，有真多蕾的，叫做乳頭（乳頭, *papilla*）。諸個乳頭就是毛細管，及神經尾咧帶的所在。這個神經尾的器具，叫做……
+> **［真皮］**
+> 真皮是皮膚組織的第二層；這個是幼閣密的組織來成的。接佇表皮下面無平平，有真多蕾的，叫做乳頭（乳頭，*papilla*）。諸個乳頭就是毛細管，及神經尾咧帶的所在。這個神經尾的器具，叫做……
 
 ---
 
@@ -102,7 +102,7 @@ Chin-phê sī phê-hu cho͘-chit ê tē jī chân; chit-ê sī iù koh ba̍t ê 
 Tē 88 tô͘.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê; 2, chin-phê; 3, phê-ē-kiat-tè-chit; 4, hān-chôaⁿ; 5, hān-chôaⁿ-kńg; 6, mûg-bú-êng-ióng-tōng-me̍h; 7, m̂g-bú; 8, phê-chi-chôaⁿ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu; 12, m̂g; 13, m̂g ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> 第 88 圖。—皮膚，顯微鏡的：1, 表皮；2, 真皮；3, 皮下結締質；4, 汗腺；5, 汗腺管；6, 毛母營養動脈；7, 毛母；8, 皮脂腺；9, 10, 結締質，及結締質內的油；11, 乳頭；12, 毛；13, 毛的體質。(After Gray, by permission of Longmans, Green and Co., publishers.)
+> 第 88 圖。—皮膚，顯微鏡的：1，表皮；2，真皮；3，皮下結締質；4，汗腺；5，汗腺管；6，毛母營養動脈；7，毛母；8，皮脂腺；9, 10，結締質，及結締質內的油；11，乳頭；12，毛；13，毛的體質。(After Gray, by permission of Longmans, Green and Co., publishers.)
 
 ---
 
@@ -125,7 +125,7 @@ Tē 88 tô͘.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê; 2, chin-phê; 3, p
 
 ![原書插圖 - 第 128 頁 (圖 1)](assets/illustrations/page_128_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 89 tô.—Phê-hu, hián-bî-kiàⁿ 150 pē khok-tōa, chí-bêng chhiok-kak-sió-thé: 1, ū huih-kńg ê leng-thâu ; 2—6, piáu-phê ; 2, kak-chân ; 3, thàu-bêng-chân ; 4, sòe-lia̍p-chân ; 5, 6, liâm-e̍k-chân ; 7, chhiok-kak-sió-thé ; 8, huih-kńg kap sîn-keng (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 89 tô.—Phê-hu, hián-bî-kiàⁿ 150 pē khok-tōa, chí-bêng chhiok-kak-sió-thé: 1, ū huih-kńg ê leng-thâu ; 2—6, piáu-phê ; 2, kak-chân ; 3, thàu-bêng-chân ; 4, sòe-lia̍p-chân ; 5, 6, liâm-e̍k-chân ; 7, chhiok-kak-sió-thé ; 8, huih-kńg kap sîn-keng (Cunningham).</em></p>
 
 </div>
 
@@ -134,7 +134,7 @@ Tē 88 tô͘.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê; 2, chin-phê; 3, p
 chhiok-kak-sió-thé, (觸覺小體, *tactile corpuscles*; tē 89 tô͘). Chit ê chhiok-kak sī chai-iáⁿ kūn-oá ê bu̍t-thé ê piáu-bīn, kút-ti̍h á-sī chho͘-chho͘, koh-chài bu̍t-thé ê lâi, tun, tēng, nńg, ê hun-piat.
 
 > **【全漢對照】**
-> 觸覺小體，(觸覺小體, *tactile corpuscles*；第 89 圖)。這个觸覺是知影近倚的物體的表面，滑剔抑是粗粗，閣再物體的利、鈍、硬、軟，的分別。
+> 觸覺小體，（觸覺小體，*tactile corpuscles*；第 89 圖）。這个觸覺是知影近倚的物體的表面，滑剔抑是粗粗，閣再物體的利、鈍、硬、軟，的分別。
 
 ---
 
@@ -210,7 +210,7 @@ Chit-ê kōaⁿ chi̍t ji̍t só͘ lâu-ê, nā ōe lóng-chóng chū-chi̍p lâ
 Lán só͘ ti̍h kiâⁿ-ê bô pát-hāng, lâng kap lâng kóng-ōe ti̍h kóng sêng-si̍t, tī kong-tn̂g phòaⁿ-toàn, ti̍h ēng chin sêng hō͘ lâng saⁿ-hô (Sat-ka-lī-a 8 : 16).
 
 > **【全漢對照】**
-> 咱所著行的無別項，人佮人講話著講誠實，佇公堂判斷，著用真正予人相和（撒迦利亞 8 : 16）。
+> 咱所著行的無別項，人佮人講話著講誠實，佇公堂判斷，著用真正予人相和（撒迦利亞 8：16）。
 
 <!-- Page 129 End -->
 
@@ -256,7 +256,7 @@ Lâng ê phê-hu nā ū oân-choân, bong-tio̍h ū sòe-khún ê mi̍h bōe ji�
 Tī seng-khu ê phê-hu-nih ū m̂g chin chōe. Ta̍k ki ê m̂g-kńg ū tèng ji̍p tī phê ê lāi-bīn. M̂g-kńg ê thâu ū kun, só͘-í ōe hoat m̂g; hit ê kun nā bô-khì, chiū bōe koh hoat; phì-jū chhin-chhiūⁿ chháu-á, nā liàm i ê hio̍h, á-sī liàm ki ōe koh hoat, kun nā khau-khí-lâi, chiū lóng bōe hoat. Chiah ê m̂g ta̍k ki ū gōa-bīn tēng-tēng ê chho͘-chit, lāi-bīn khah núg-ê, kiò-chòe chhé-chit (髓質, medulla; tē 88 tô͘.) M̂g ê lāi-bīn bô sîn-keng, só͘-í chhut-chāi lâng chián, ia̍h bōe thiàⁿ; nā-sī phê ê lāi-bīn chiū ū, só͘-í chhoah-m̂g chiah ōe thiàⁿ.
 
 > **【全漢對照】**
-> 佇身軀的皮膚裡有毛真多。逐枝的毛管有釘入佇皮的內面。毛管的頭有根，所以會發毛；彼個根若無去，就袂閣發；譬如親像草仔，若捻伊的葉，抑是捻枝會閣發，根若薅起來，就攏袂發。諸個毛逐枝有外面硬硬的粗質，內面較軟的，叫做髓質（髓質, medulla; 第 88 圖。）毛的內面無神經，所以出在人剪，亦袂疼；若是皮的內面就有，所以拔毛才會疼。
+> 佇身軀的皮膚裡有毛真多。逐枝的毛管有釘入佇皮的內面。毛管的頭有根，所以會發毛；彼個根若無去，就袂閣發；譬如親像草仔，若捻伊的葉，抑是捻枝會閣發，根若薅起來，就攏袂發。諸個毛逐枝有外面硬硬的粗質，內面較軟的，叫做髓質（髓質，medulla；第 88 圖。）毛的內面無神經，所以出在人剪，亦袂疼；若是皮的內面就有，所以拔毛才會疼。
 
 ---
 
@@ -279,7 +279,7 @@ Tī chńg-thâu-á ê bé ū chńg-kah, sī chhin-chhiūⁿ kak ê lūi, chhah j
 
 ![原書插圖 - 第 131 頁 (圖 1)](assets/illustrations/page_131_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 90 tô.—Chńg-kah : A, chńg-kah ; B, chńg-kah ê hoâiⁿ-tng-bīn ; C, chńg-kah ê chhiòng-tng-bīn ; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chńg-kah kap phê sio-chiap ê bah hit téng-bīn ; 3, jiáu-poàn-goa̍t ; 4, jiáu ê iān-kîⁿ ; 5, jiáu-toan chiū-sī chńg-kah-bé ; 6, jiáu-chhng ; 7, jiáu-bú ; 8, chin-phê ê leng-thâu-pō·. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)</em></p>
+<p class="figure-caption"><em>Tē 90 tô.—Chńg-kah : A, chńg-kah ; B, chńg-kah ê hoâiⁿ-tng-bīn ; C, chńg-kah ê chhiòng-tng-bīn ; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chńg-kah kap phê sio-chiap ê bah hit téng-bīn ; 3, jiáu-poàn-goa̍t ; 4, jiáu ê iān-kîⁿ ; 5, jiáu-toan chiū-sī chńg-kah-bé ; 6, jiáu-chhng ; 7, jiáu-bú ; 8, chin-phê ê leng-thâu-pō·. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)</em></p>
 
 </div>
 
@@ -302,7 +302,7 @@ Chúg-kah sī soeh jip phê lāi-bīn ê khang-hûn, tùi jiáu-chhng kap jiáu-
 Jîn-ài bô kiû ka-kī ê lī-ek. (I Ko-lîm-to 13: 5).
 
 > **【全漢對照】**
-> 仁愛無求家己的利益。（I 哥林多 13: 5）。
+> 仁愛無求家己的利益。（I 哥林多 13：5）。
 
 <!-- Page 131 End -->
 

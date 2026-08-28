@@ -61,7 +61,7 @@ Tī-liâu-hoat: Tio̍h tó tī bîn-chhng hioh-khùn an-chēng-liâu-hoat; chia�
 Ok-sèng pe̍h-huih pīⁿ (惡性白血病, *Pernicious anæmia*): Chit ê pīⁿ sī chin lī-hāi. I ê goân-in iáu-bē chai, kiám-chhái sī in-ūi tī seng-khu-lāi ū sím-mih to̍k-chit, á-sī tī tng-lāi ū khip-siu sím-mih to̍k-chit, tì-kàu chit hō pīⁿ. I ê chèng-chōng sī chhin-chhiūⁿ téng-bīn í-keng kóng, kan-ta khah siong-tiōng. Lâm pí lú khah-siông tú-tio̍h, iā sī 30 hè í-siōng ê lâng. Siàu-liân lâng hán-tit. Bīn-sek pe̍h koh n̂g, chhin-chhiūⁿ khah pe̍h ê kiat-á hit hō. Me̍h-phok khah kín, soe-jio̍k, bô chiàu chhù-sū; ho͘-khip, khah kín koh té. Áu-thò͘. Lâng nā ū chit hō pīⁿ, khoài-khoài tùi phīⁿ-khang chhut-huih, á-sī chhut-huih tī ba̍k-chiu. Ok-sèng pe̍h-huih pīⁿ bōe táⁿ-tiap-tit; ū-sî ōe khah hó tām-po̍h, m̄-kú khah-siông tī chi̍t nî ê tiong-kan pīⁿ-lâng ōe kè-óng.
 
 > **【全漢對照】**
-> 惡性白血病（惡性白血病, *Pernicious anæmia*）：這个病是真利害。伊的原因猶未知，減採是因為佇身軀內有甚麼毒質，抑是佇腸內有吸收甚麼毒質，致到這號病。伊的症狀是親像頂面已經講，干焦較傷重。男比女較常抵著，抑是30歲以上的人。少年人罕得。面色白閣黃，親像較白的桔仔彼號。脈搏較緊，衰弱，無照秩序；呼吸，較緊閣短。嘔吐。人若有這號病，快快對鼻孔出血，抑是出血佇目珠。惡性白血病𣍐打疊得；有時會較好淡薄，毋過較常佇一年の中間病人會過往。
+> 惡性白血病（惡性白血病，*Pernicious anæmia*）：這个病是真利害。伊的原因猶未知，減採是因為佇身軀內有甚麼毒質，抑是佇腸內有吸收甚麼毒質，致到這號病。伊的症狀是親像頂面已經講，干焦較傷重。男比女較常抵著，抑是30歲以上的人。少年人罕得。面色白閣黃，親像較白的桔仔彼號。脈搏較緊，衰弱，無照秩序；呼吸，較緊閣短。嘔吐。人若有這號病，快快對鼻孔出血，抑是出血佇目珠。惡性白血病𣍐打疊得；有時會較好淡薄，毋過較常佇一年の中間病人會過往。
 
 ---
 
@@ -79,7 +79,7 @@ Tī-liâu: Pīⁿ-lâng tio̍h tó tī bîn-chhng, an-chēng-tī-liâu-hoat, bo�
 Hiat-iú pīⁿ (血友病, *Hæmophilia*): Lâng nā ū chit hō pīⁿ tùi sió-khóa ê in-toaⁿ khoài-khoài lâu huih, ū-sî bán chhùi-khí liáu-āu, huih tiāⁿ-tiāⁿ lâu oh-tit chí. Chiah ê pīⁿ-lâng khah-siông siàu-liân ê sî chiū kè-óng. Bô hoat-tō͘ thang táⁿ-tiap. Chit hō pīⁿ sī ûi-thoân ê pīⁿ, iā sī tùi hū-jîn-lâng lâi ûi-thoân. Phì-lūn lāu-bú nā ū hiat-iú pīⁿ, i ê ta-po͘ gín-ná ōe tú-tio̍h, chóng-sī cha-bó͘ gín-ná bōe, khah-siông sī án-ni. Nā ū só͘-chāi teh lâu huih, ēng *adrenalin chloride* (1 : 1,000) lâi chí, hō͘ i bōe lâu.
 
 > **【全漢對照】**
-> 血友病（血友病, *Hæmophilia*）：人若有這號病對小可的原因快快流血，有時拔嘴角（拔牙）了後，血常常流戇得（難得）止。諸個病人較常少年的時就過往。無法度通打疊。這號病是遺傳的病，抑是對婦人人來遺傳。比論老母若有血友病，伊的查埔囡仔會抵著，總是查某囡仔𣍐，較常是按呢。若有所在咧流血，用 *adrenalin chloride*（副腎素，1 : 1,000）來止，予伊𣍐流。
+> 血友病（血友病，*Hæmophilia*）：人若有這號病對小可的原因快快流血，有時拔嘴角（拔牙）了後，血常常流戇得（難得）止。諸個病人較常少年的時就過往。無法度通打疊。這號病是遺傳的病，抑是對婦人人來遺傳。比論老母若有血友病，伊的查埔囡仔會抵著，總是查某囡仔𣍐，較常是按呢。若有所在咧流血，用 *adrenalin chloride*（副腎素，1：1,000）來止，予伊𣍐流。
 
 <!-- Page 545 End -->
 
@@ -156,7 +156,7 @@ Nā bē chiong iòh hō͘ pīⁿ-lâng chia̍h, m̄-thang kóng ū chia̍h. Kan-
 Góa siat-sú ōe kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa chiū chiâⁿ-chòe hiáng ê tâng-khì, tân ê lâ-poah (I Ko-lîm-to 13: 1).
 
 > **【全漢對照】**
-> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器、鳴的喇叭（哥林多前書 13: 1）。
+> 我設使會講人佮天使的言語，若無仁愛，我就成做響的銅器、鳴的喇叭（哥林多前書 13：1）。
 
 <!-- Page 546 End -->
 
@@ -184,20 +184,20 @@ Hia̍p-sim chèng (狹心症, *Angina pectoris*).
 Tōng-me̍h-liû (動脈瘤, *Aneurysm*).
 
 > **【全漢對照】**
-> **[心臟病]**  
+> **［心臟病］**  
 > 佇遮欲約略講：  
-> 心囊炎（心囊炎, *Pericarditis*）。  
-> 心筋炎（心筋炎, *Myocarditis*）。  
-> 心臟擴張（心臟擴張, *Cardiac dilatation*）。  
-> 油心（脂心、脂肪心臟, *Fatty heart*）。  
-> 心臟內膜炎（心臟內膜炎, *Endocarditis*）。  
-> 心臟瓣膜炎（心臟瓣膜炎, *Valvular disease*）。  
-> 僧帽瓣閉鎖不全（僧帽瓣閉鎖不全, *Mitral regurgitation*）。  
-> 僧帽瓣狹窄（僧帽瓣狹窄, *Mitral stenosis*）。  
-> 大動脈疾病（大動脈疾病, *Aortic disease*）。  
-> 先天性心臟病（先天性心臟病, *Congenital heart disease*）。  
-> 狹心症（狹心症, *Angina pectoris*）。  
-> 動脈瘤（動脈瘤, *Aneurysm*）。
+> 心囊炎（心囊炎，*Pericarditis*）。  
+> 心筋炎（心筋炎，*Myocarditis*）。  
+> 心臟擴張（心臟擴張，*Cardiac dilatation*）。  
+> 油心（脂心、脂肪心臟，*Fatty heart*）。  
+> 心臟內膜炎（心臟內膜炎，*Endocarditis*）。  
+> 心臟瓣膜炎（心臟瓣膜炎，*Valvular disease*）。  
+> 僧帽瓣閉鎖不全（僧帽瓣閉鎖不全，*Mitral regurgitation*）。  
+> 僧帽瓣狹窄（僧帽瓣狹窄，*Mitral stenosis*）。  
+> 大動脈疾病（大動脈疾病，*Aortic disease*）。  
+> 先天性心臟病（先天性心臟病，*Congenital heart disease*）。  
+> 狹心症（狹心症，*Angina pectoris*）。  
+> 動脈瘤（動脈瘤，*Aneurysm*）。
 
 ---
 
@@ -214,11 +214,11 @@ Sim-lông-iām : Chit hō pīⁿ ê goân-in sī :
 Sim-lông goân-pún sī ku̍t-ku̍t ê liâm-mo̍h, chhin-
 
 > **【全漢對照】**  
-> **[心囊炎]**  
+> **［心囊炎］**  
 > 心囊炎：這號病的原因是：  
-> 1. 急性僂痲質斯（僂痲質斯, *rheumatism*），抑是僂痲質斯性扁桃腺炎（扁桃腺炎）。  
-> 2. 傳染病親像肺炎、猩紅熱（猩紅熱, *scarlet fever*）等項。  
-> 3. 產褥熱（產褥熱, *puerperal fever*）、敗血症（敗血症, *septicæmia*）、骨壞疽（骨壞疽）。  
+> 1. 急性僂痲質斯（僂痲質斯，*rheumatism*），抑是僂痲質斯性扁桃腺炎（扁桃腺炎）。  
+> 2. 傳染病親像肺炎、猩紅熱（猩紅熱，*scarlet fever*）等項。  
+> 3. 產褥熱（產褥熱，*puerperal fever*）、敗血症（敗血症，*septicæmia*）、骨壞疽（骨壞疽）。  
 > 4. 結核症（結核症）。  
 > 5. 慢性腎臟病（慢性腎臟病）。  
 > 6. 腐敗性心筋炎（腐敗性心筋炎）、潰瘍性心臟內膜炎（潰瘍性心臟內膜炎）。  
@@ -285,7 +285,7 @@ Sim-kun-iām: Chit ê pīⁿ sī sim ê kun-bah hoat-iām, ū hun kip-sèng-ê, 
 Koh só͘ ǹg-bāng tī koán-ke-ê, sī ài tit i chīn-tiong (I Ko-lîm-to 4: 3).
 
 > **【全漢對照】**
-> 閣所向望佇管家的，是愛得伊盡忠（哥林多前書 4: 3）。
+> 閣所向望佇管家的，是愛得伊盡忠（哥林多前書 4：3）。
 
 <!-- Page 548 End -->
 
@@ -317,7 +317,7 @@ Sim-chōng-khok-tiong chèng sī sim tiòng tōa. Lâng nā ū sim-chōng-piān-
 Iû-sim : Chit hō pīⁿ sī sim kun-bah ê tiong-ng ū khah-chōe iû-chit tī-teh, á-sī sim kun-bah pìⁿ-chiâⁿ iû-chit. Sim sī pí pêng-siông-sî khah tōa, khoài-khoài pìⁿ-chiâⁿ sim-khok-tiong chèng. Iû-sim (脂心) ê goân-in sī lāu lâng, bān-sèng pīⁿ, ok-e̍k chèng, pîn-hiat, chia̍h chiú, *phosphorus* kap *arsenicum* ê tiòng-to̍k, sim-lông-iām, sim-chōng-pûi-tōa (心臟肥大, cardiac hypertrophy).
 
 > **【全漢對照】**
-> 油心：此號病是心筋肉的中央有較多油脂佇咧，抑是心筋肉變成油脂。心是比平常時較大，快快變成心擴張症。油心（脂心）的原因是老人、慢性病、惡疫症（惡液質）、貧血、食酒、*phosphorus*（磷）及 *arsenicum*（砒霜）的中毒、心囊炎、心臟肥大（心臟肥大, cardiac hypertrophy）。
+> 油心：此號病是心筋肉的中央有較多油脂佇咧，抑是心筋肉變成油脂。心是比平常時較大，快快變成心擴張症。油心（脂心）的原因是老人、慢性病、惡疫症（惡液質）、貧血、食酒、*phosphorus*（磷）及 *arsenicum*（砒霜）的中毒、心囊炎、心臟肥大（心臟肥大，cardiac hypertrophy）。
 
 ---
 
@@ -367,7 +367,7 @@ Liông-sèng sim-chōng-lāi-mo̍h-iām ê goân-in khah-siông sī tùi lú-mâ
 ...tiōng ê pīⁿ, khah-siông lâng nā ū chit hō pīⁿ, bōe táⁿ-tiàp-tit. Ū-sî sim piān-mó͘h phòa-nōa, ū-sî piān-mó͘h sìⁿ chin chōe hoat-iām ê lia̍p-á kiò-chòe sim-piān-mó͘h-iām-lia̍p (*Sim-piān-mó͘h-iām-lia̍p*) (心瓣膜炎粒, *vegetations on heart valves*); ū-sî chit hō ê lia̍p-á sòaⁿ-sòaⁿ sì-kòe ū sòa jip tī tōng-me̍h-lāi, sūn-khoân kàu tī seng-khu ê chiòng-khì, tì-kàu chiòng-khì iā hoat-iām. Chiah ê hoat-iām ê lia̍p-á nā thoân kàu tī náu, hit ê lâng chiū ū poàn-sin-put-sūi ê chèng (poàn-sin-bâ-pì) ; nā kàu tī sīn-chōng chiū khí sīn-chōng-iām, jiō-lāi ōe ū huih ; nā kàu tī phî-chōng, phî-chōng ōe thàng-thiàⁿ chéng-tōa. Chit hō ùi-iông-sèng sim-chōng-lāi-mó͘h-iām, khah-siông nn̄g saⁿ jit khí, kàu la̍k lé-pài ûi-chí chiū sí.
 
 > **【全漢對照】**
-> （...重）的病，較常人若有這號病，袂抵接得（無法應付）。有時心瓣膜破爛，有時瓣膜生真多發炎的粒仔叫做心瓣膜炎粒（*心瓣膜炎粒*）（心瓣膜炎粒, *vegetations on heart valves*）；有時這號的粒仔散散四界，有續入佇動脈內，循環到佇身軀的瘴氣（器官），致到瘴氣亦發炎。遮的發炎的粒仔若傳到佇腦，彼個人就有半身不遂的症（半身麻痺）；若到佇腎臟就起腎臟炎，尿內會有血；若到佇脾臟，脾臟會痛疼腫大。這號潰瘍性心臟內膜炎，較常兩三日起，到六禮拜為止就死。
+> （...重）的病，較常人若有這號病，袂抵接得（無法應付）。有時心瓣膜破爛，有時瓣膜生真多發炎的粒仔叫做心瓣膜炎粒（*心瓣膜炎粒*）（心瓣膜炎粒，*vegetations on heart valves*）；有時這號的粒仔散散四界，有續入佇動脈內，循環到佇身軀的瘴氣（器官），致到瘴氣亦發炎。遮的發炎的粒仔若傳到佇腦，彼個人就有半身不遂的症（半身麻痺）；若到佇腎臟就起腎臟炎，尿內會有血；若到佇脾臟，脾臟會痛疼腫大。這號潰瘍性心臟內膜炎，較常兩三日起，到六禮拜為止就死。
 
 ---
 
@@ -385,7 +385,7 @@ Tī-liâu : Lâng nā ū chit hō pīⁿ tē it iàu-kín sī tióh an-chēng t�
 Sim-chōng-piān-mó͘h-iām : Tī téng-bīn kóng-khí sim-chōng-lāi-mó͘h-iām ê sî, ū kóng hit ê khah-siông ū liân-lūi tióh piān-mó͘h, án-ni khiok sī ū iàⁿ, chit hō sim-chōng-piān-mó͘h-iām khah-chōe sī tùi sim-chōng-lāi-mó͘h-iām chiah khí. Sim ê chó-pêng só͘ chòe ê kang sī pí iū-pêng ê kang khah-chōe, iā chó-pêng ê huih-ap (血壓, *blood pressure*) sī khah koâiⁿ, só͘-í piān-mó͘h-iām khah-siông sī tī chó-pêng ê piān-mó͘h, chiū-sī tāi-tōng-me̍h-piān (大動脈瓣, *aortic valve*), kap cheng-bō-piān (僧帽瓣, *mitral valve*). (*Sim-chōng-piān-mó͘h-iām*)
 
 > **【全漢對照】**
-> 心臟瓣膜炎：佇頂面講起心臟內膜炎的時，有講彼個較常有連累著瓣膜，按呢卻是有影，這號心臟瓣膜炎較多是對心臟內膜炎才起。心的左邊所做之工是比右邊的工較多，亦左邊的血壓（血壓, *blood pressure*）是較懸，所以瓣膜炎較常是佇左邊的瓣膜，就是大動脈瓣（大動脈瓣, *aortic valve*），及僧帽瓣（僧帽瓣, *mitral valve*）。（*心臟瓣膜炎*）
+> 心臟瓣膜炎：佇頂面講起心臟內膜炎的時，有講彼個較常有連累著瓣膜，按呢卻是有影，這號心臟瓣膜炎較多是對心臟內膜炎才起。心的左邊所做之工是比右邊的工較多，亦左邊的血壓（血壓，*blood pressure*）是較懸，所以瓣膜炎較常是佇左邊的瓣膜，就是大動脈瓣（大動脈瓣，*aortic valve*），及僧帽瓣（僧帽瓣，*mitral valve*）。（*心臟瓣膜炎*）
 
 ---
 
@@ -419,7 +419,7 @@ I-seng nā hoan-hù sím-mih tāi-chì m̄-thang iân-chhiān.
 lâu tò-tńg-lâi, che miâ kiò-chòe piān-mo̍h-pì-só-put-choân (瓣膜閉鎖不全, regurgitation).
 
 > **【全漢對照】**
-> 流倒轉來，這名叫做瓣膜閉鎖不全 (瓣膜閉鎖不全, regurgitation)。
+> 流倒轉來，這名叫做瓣膜閉鎖不全 （瓣膜閉鎖不全，regurgitation）。
 
 ---
 
@@ -428,7 +428,7 @@ lâu tò-tńg-lâi, che miâ kiò-chòe piān-mo̍h-pì-só-put-choân (瓣膜�
 2. Chiah ê piān-mo̍h só͘ siú ê khang ōe pìⁿ oe̍h, kiò-chòe piān-mo̍h-hia̍p-chek (瓣膜狹窄, stenosis).
 
 > **【全漢對照】**
-> 2. 諸個瓣膜所守的孔會變隘，叫做瓣膜狹窄 (瓣膜狹窄, stenosis)。
+> 2. 諸個瓣膜所守的孔會變隘，叫做瓣膜狹窄 （瓣膜狹窄，stenosis）。
 
 ---
 
@@ -439,9 +439,9 @@ Nā beh kóng bêng sim-chōng piān-mo̍h-iām ê khoán-sit, beh kéng cheng-b
 Kiám-chhái án-ni-siⁿ chiām-sî sim-chōng ōe hoat-tit, chiong huih sak chhut tī tāi-tōng-me̍h. Chóng-sī bô lōa-kú chó-pông bô hoat-tit-tâ-ôa, i sin ê kang siuⁿ kè-thâu, tì-kàu chó-pông-khok-tiong (左房擴張). Chó-pông-lāi ê huih bōe thang lóng ji̍p tī chó-sek, ū-ê thêng-chí, kiò-chòe huih-e̍k-ut-chek (血液鬱積, stagnation of blood).
 
 > **【全漢對照】**
-> 若欲講明心臟瓣膜炎的款式，欲揀僧帽瓣閉鎖不全 (僧帽瓣閉鎖不全, mitral regurgitation) 的病來說明。心搏動的時，彼個血有捒對右室到肺大動脈，也對左室到大動脈。設使僧帽瓣袂得關到密，左室內的血就會通流倒轉來到左房。若是血親像按呢流倒轉來欲按怎樣？左室無力通捒攏總的血入大動脈，所以左房著出較多力欲幫贊左室的無夠。對按呢左房若做工較多，伊的壁就是心筋肉，會較厚，叫做心臟肥大。
+> 若欲講明心臟瓣膜炎的款式，欲揀僧帽瓣閉鎖不全 （僧帽瓣閉鎖不全，mitral regurgitation） 的病來說明。心搏動的時，彼個血有捒對右室到肺大動脈，也對左室到大動脈。設使僧帽瓣袂得關到密，左室內的血就會通流倒轉來到左房。若是血親像按呢流倒轉來欲按怎樣？左室無力通捒攏總的血入大動脈，所以左房著出較多力欲幫贊左室的無夠。對按呢左房若做工較多，伊的壁就是心筋肉，會較厚，叫做心臟肥大。
 > 
-> 檢綵按呢生暫時心臟會發得，將血捒出佇大動脈。總是無偌久左房無法得奈何，伊身的神工傷過頭，致到左房擴張 (左房擴張)。左房內的血袂通攏入佇左室，有的停止，叫做血液鬱積 (血液鬱積, stagnation of blood)。
+> 檢綵按呢生暫時心臟會發得，將血捒出佇大動脈。總是無偌久左房無法得奈何，伊身的神工傷過頭，致到左房擴張 （左房擴張）。左房內的血袂通攏入佇左室，有的停止，叫做血液鬱積 （血液鬱積，stagnation of blood）。
 
 ---
 
@@ -450,7 +450,7 @@ Kiám-chhái án-ni-siⁿ chiām-sî sim-chōng ōe hoat-tit, chiong huih sak ch
 Ti̍h ōe-kì-tit, chó-pông ê huih sī tùi hì-chōng lâi, só͘-í bô lōa-kú hì-chōng-lāi ê huih ut-chek. Hì-chōng ê huih sī tùi iū-sek lâi, só͘-í hit ê iū-sek teh chhut la̍t khah-chōe ài khah-iâⁿ hì-chōng-lāi ê chó͘-tòng, ài sak huih hō͘ i ōe sûn-khoân tùi hì-chōng keng-kè. Án-ni iū-sek ōe pûi-tōa, iā bô lōa-kú i ê la̍t ōe kiám-chió, iā huih-e̍k-ut-chek kàu iū-pông. Chit-ê sī in-ūi saⁿ-chiam-piān ê khang ū piàn tōa, saⁿ-chiam-piān (三尖瓣) koaiⁿ bōe ba̍t, huih ū lâu tò-tńg-lâi kàu iū-pông; bô lōa-kú tī hā-tāi-chēng-me̍h iā huih-e̍k-ut-chek. Nā-sī án-ni bô lōa-kú, huih ut-chek tī chōng-khì, ūi, koaⁿ-chōng, pî-chōng, sīn-chōng,
 
 > **【全漢對照】**
-> 著會記得，左房的血是對肺臟來，所以無偌久肺臟內的血鬱積。肺臟的血是對右室來，所以彼個右室咧出力較多，愛較贏肺臟內的阻擋，愛捒血互（予）伊會循環對肺臟經過。按呢右室會肥大，也無偌久伊的力會減少，也血液鬱積到右房。這個是因為三尖瓣的孔有變大，三尖瓣 (三尖瓣) 關袂密，血有流倒轉來到右房；無偌久佇下大靜脈也血液鬱積。若是按呢無偌久，血鬱積佇臟器、胃、肝臟、脾臟、腎臟，
+> 著會記得，左房的血是對肺臟來，所以無偌久肺臟內的血鬱積。肺臟的血是對右室來，所以彼個右室咧出力較多，愛較贏肺臟內的阻擋，愛捒血互（予）伊會循環對肺臟經過。按呢右室會肥大，也無偌久伊的力會減少，也血液鬱積到右房。這個是因為三尖瓣的孔有變大，三尖瓣 （三尖瓣） 關袂密，血有流倒轉來到右房；無偌久佇下大靜脈也血液鬱積。若是按呢無偌久，血鬱積佇臟器、胃、肝臟、脾臟、腎臟，
 
 <!-- Page 551 End -->
 
@@ -531,7 +531,7 @@ Chèng-chōng: Sim-chōng-piān-mo̍h-iām ê chèng-chōng khiok sī chin chōe
 Sim-im: I-seng nā beh chín-toàn chit hō pīⁿ, i ēng thiaⁿ-chín-khì thiaⁿ-kìⁿ heng-khám kúi-nā só͘-chāi, tī hia ū thiaⁿ-kìⁿ sim ê im, thang chai sim ū oân-choân á-bô. Nā sim-chōng-piān-mo̍h-iām hit ê im ū koh-iūⁿ kiò-chòe cha̍p-im (雜音, *murmur*). Chit hō cha̍p-im sī tùi sim ê piān-mo̍h ū koh-iūⁿ, chhin-chhiūⁿ sim-chōng-piān-mo̍h-hia̍p-chek, huih kiâⁿ bōe pīⁿ-pāng.
 
 > **【全漢對照】**
-> 心音：醫生若欲診斷這號病，伊用聽診器聽見胸坎幾若所在，佇遐有聽見心的音，通知心有完全抑無。若心臟瓣膜炎彼個音有各樣叫做雜音（雜音, *murmur*）。這號雜音是對心的瓣膜有各樣，親像心臟瓣膜狹窄，血行𣍐平安。
+> 心音：醫生若欲診斷這號病，伊用聽診器聽見胸坎幾若所在，佇遐有聽見心的音，通知心有完全抑無。若心臟瓣膜炎彼個音有各樣叫做雜音（雜音，*murmur*）。這號雜音是對心的瓣膜有各樣，親像心臟瓣膜狹窄，血行𣍐平安。
 
 ---
 
@@ -645,7 +645,7 @@ Tāi-tōng-me̍h-chit-pēⁿ: Chit hō tāi-tōng-me̍h-chit-pīⁿ (大動脈�
 Sian-thian-sèng sim-chōng pīⁿ (先天性心臟病, *Congenital heart disease*): Chit hō chèng chiū-sī gín-ná iáu tī chú-kiong-lāi ê sî, teh tōa bōe tú-hó. Hit-ê bōe tú-hó, khah-siông sī nñg-îⁿ-khang (卵圓孔, *foramen ovale*) bô ba̍t, á-sī sim chó-iū-sek ê tiong-ng ê piah ū khang, á-sī hì-tāi-tōng-me̍h-hia̍p-chek (肺大動脈狹窄).
 
 > **【全漢對照】**
-> 先天性心臟病（先天性心臟病, *Congenital heart disease*）：此號症就是囡仔猶佇子宮內的時，咧大袂拄好。彼個袂拄好，較常是卵圓孔（卵圓孔, *foramen ovale*）無密，抑是心左右室的中央的壁有孔，抑是肺大動脈狹窄（肺大動脈狹窄）。
+> 先天性心臟病（先天性心臟病，*Congenital heart disease*）：此號症就是囡仔猶佇子宮內的時，咧大袂拄好。彼個袂拄好，較常是卵圓孔（卵圓孔，*foramen ovale*）無密，抑是心左右室的中央的壁有孔，抑是肺大動脈狹窄（肺大動脈狹窄）。
 
 ---
 
@@ -686,7 +686,7 @@ Hia̍p-sim chèng: Chit hō hia̍p-sim chèng (狹心症) sī sim thiàⁿ ê ch
 
 ![原書插圖 - 第 556 頁 (圖 1)](assets/illustrations/page_556_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 465a tô:—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 465a tô:—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).</em></p>
 
 </div>
 
@@ -713,7 +713,7 @@ Tē 465ª tô͘.—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).
 Tōng-me̍h-liû : Tōng-me̍h-liû (動脈瘤, aneurysm) sī tōng-me̍h ū chi̍t só͘-chāi hoat-iām, chéng-tiùⁿ-khí-lâi. Sī in-ūi tōng-me̍h ū chi̍t só͘-chāi khah po̍h khah lám (khah-chōe sī tùi mûi-to̍k-sèng tōng-me̍h-lāi-mo̍h-iām); huih nā kiâⁿ kàu hit tè, siū-tio̍h hit ê tōa ê ap-le̍k, só͘-í hit tè tiùⁿ tōa khí-lâi, tōng-me̍h hō͘ kek liáu khok-tōa chiū pìⁿ-chiâⁿ chit hō tōng-me̍h-liû. Hit sì-piⁿ ê só͘-chāi, kut á-sī chōng-khì, in-ūi án-ni hō͘ i teh-tio̍h, khoeh-tio̍h chiū khí pīⁿ. Nā khì-kńg hō͘ i teh-tio̍h, ho͘-khip chiū khah kan-lān. Siat-sú ū kut ê só͘-chāi hō͘ teh-tio̍h, nā kú hit ê kut ē siau-khì, iā ē thiàⁿ. Ū-sî chit hō liû ē phòa, huih lâu tùi lāi-bīn ji̍p-khì, á-sī lâu tùi gōa-bīn chhut-lâi ; nā bô kóaⁿ-kín chí huih, chiū bô kúi-hun-kú ē sí-khì.
 
 > **【全漢對照】**
-> 動脈瘤：動脈瘤（動脈瘤, aneurysm）是動脈有一所在發炎，腫脹起來。是因為動脈有一所在較薄較爛（較多是對梅毒性動脈內膜炎）；血若行到彼塊，受到彼個大的壓力，所以彼塊脹大起來，動脈予激了擴大就變成此號動脈瘤。彼四邊的所在，骨抑是臟器，因為按呢予伊壓著、𤲍著就起病。若氣管予伊壓著，呼吸就較艱難。設使有骨的所在予壓著，若久彼個骨會消去，也會痛。有時此號瘤會破，血流對內面入去，抑是流對外面出來；若無趕緊止血，就無幾分鐘會死去。
+> 動脈瘤：動脈瘤（動脈瘤，aneurysm）是動脈有一所在發炎，腫脹起來。是因為動脈有一所在較薄較爛（較多是對梅毒性動脈內膜炎）；血若行到彼塊，受到彼個大的壓力，所以彼塊脹大起來，動脈予激了擴大就變成此號動脈瘤。彼四邊的所在，骨抑是臟器，因為按呢予伊壓著、𤲍著就起病。若氣管予伊壓著，呼吸就較艱難。設使有骨的所在予壓著，若久彼個骨會消去，也會痛。有時此號瘤會破，血流對內面入去，抑是流對外面出來；若無趕緊止血，就無幾分鐘會死去。
 
 ---
 
@@ -722,7 +722,7 @@ Tōng-me̍h-liû : Tōng-me̍h-liû (動脈瘤, aneurysm) sī tōng-me̍h ū chi
 Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3 : 4).
 
 > **【全漢對照】**
-> 阮倚靠基督向上帝有此號的信（II 哥林多 3 : 4）。
+> 阮倚靠基督向上帝有此號的信（II 哥林多 3：4）。
 
 <!-- Page 556 End -->
 
@@ -736,11 +736,11 @@ Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3 : 4).
 
 ![原書插圖 - 第 557 頁 (圖 1)](assets/illustrations/page_557_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)</em></p>
+<p class="figure-caption"><em>Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)</em></p>
 
 ![原書插圖 - 第 557 頁 (圖 2)](assets/illustrations/page_557_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless).</em></p>
 
 </div>
 
@@ -770,7 +770,7 @@ Tē 465ᵇ tô͘.—Tōng-me̍h-liû: Ēng sòaⁿ (2) pa̍k tōng-me̍h. Ē-bī
 **Chēng-me̍h-iām**　　Chēng-me̍h-iām: Chit ê pīⁿ chiū-sī chēng-me̍h ê lāi-mó̍h-iām, ū hun chòe nn̄g khoán: tan-sûn-sèng chēng-me̍h-iām (單純性靜脈炎, *simple phlebitis*), hòa-lâng-sèng chēng-me̍h-iām (化膿性靜脈炎, *suppurative phlebitis*). Goân-in chiū-sī chēng-me̍h siū-tióh siong; á-sī hit ê tē jī khoán, sī tùi tī chēng-me̍h tòa ê só͘-chāi ū lâng-ióng, á-sī bô chheng-khì ê siong. Tùi chia bî-seng-bu̍t ū ji̍p tī
 
 > **【全漢對照】**
-> **靜脈炎**　　靜脈炎：此個病就是靜脈的內膜炎，有分做兩種：單純性靜脈炎（單純性靜脈炎, *simple phlebitis*），化膿性靜脈炎（化膿性靜脈炎, *suppurative phlebitis*）。原因就是靜脈受著傷；抑是彼個第二款，是對佇靜脈帶的所在有膿瘍，抑是無清潔ê傷。對遮微生物有入佇
+> **靜脈炎**　　靜脈炎：此個病就是靜脈的內膜炎，有分做兩種：單純性靜脈炎（單純性靜脈炎，*simple phlebitis*），化膿性靜脈炎（化膿性靜脈炎，*suppurative phlebitis*）。原因就是靜脈受著傷；抑是彼個第二款，是對佇靜脈帶的所在有膿瘍，抑是無清潔ê傷。對遮微生物有入佇
 
 ---
 
@@ -778,7 +778,7 @@ Tē 465ᵇ tô͘.—Tōng-me̍h-liû: Ēng sòaⁿ (2) pa̍k tōng-me̍h. Ē-bī
 Tē 466 tô͘.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-me̍h-lāi; B, chhoan-that lak-khí-lâi ji̍p huih-sûn-khoân (Rose and Carless).
 
 > **【全漢對照】**
-> 第 466 圖。—血栓佮栓塞：A, 血栓佇靜脈內；B, 栓塞落起來入血循環 (Rose and Carless)。
+> 第 466 圖。—血栓佮栓塞：A，血栓佇靜脈內；B，栓塞落起來入血循環 (Rose and Carless)。
 
 <!-- Page 557 End -->
 
@@ -792,7 +792,7 @@ Tē 466 tô͘.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-me̍h-l�
 chēng-me̍h, hō͘ i hoat-iām ū-sî chēng-me̍h-lāi ê huih pìⁿ-chiâⁿ huih-tè, kiò-chòe huih-chhoan pīⁿ (血栓病, *thrombosis*), iā hit tè huih kiò-chòe huih-chhoan (血栓, *thrombus*; tē 466 tô͘).
 
 > **【全漢對照】**
-> 靜脈，予伊發炎有時靜脈內的血變成血塊，叫做血栓病（血栓病, *thrombosis*），也彼塊血叫做血栓（血栓, *thrombus*；第 466 圖）。
+> 靜脈，予伊發炎有時靜脈內的血變成血塊，叫做血栓病（血栓病，*thrombosis*），也彼塊血叫做血栓（血栓，*thrombus*；第 466 圖）。
 
 ---
 
@@ -801,7 +801,7 @@ chēng-me̍h, hō͘ i hoat-iām ū-sî chēng-me̍h-lāi ê huih pìⁿ-chiâⁿ
 Chèng-chōng: Hit tiâu chēng-me̍h nā kā i bong sī chhin-chhiūⁿ chit tiâu soh-á, ū chéng. Téng-bīn ê phê-hu hoat âng, iā thiàⁿ. Hit ki kha á-sī chhiú khah-siông chéng--khí-lâi. Thé-un khah koâiⁿ. Nā-sī hòa-lâng-sèng-ê, chit hō pīⁿ sī gûi-hiám, ū-sî i ê chèng-chōng sī chhin-chhiūⁿ lâng-tók chèng (膿毒症, *pyæmia*).
 
 > **【全漢對照】**
-> 症狀：彼條靜脈若共伊摸是親像一條索仔，有腫。頂面的皮膚發紅，也痛。彼支跤抑是手較常腫起來。體溫較懸。若是化膿性的，此號病是危險，有時伊的症狀是親像膿毒症（膿毒症, *pyæmia*）。
+> 症狀：彼條靜脈若共伊摸是親像一條索仔，有腫。頂面的皮膚發紅，也痛。彼支跤抑是手較常腫起來。體溫較懸。若是化膿性的，此號病是危險，有時伊的症狀是親像膿毒症（膿毒症，*pyæmia*）。
 
 ---
 
@@ -810,7 +810,7 @@ Chèng-chōng: Hit tiâu chēng-me̍h nā kā i bong sī chhin-chhiūⁿ chit ti
 Tī-liâu: Pīⁿ-lâng tiòh tó tī bîn-chhng; hit ki kha lóng m̄-thang tín-tāng; tiòh ēng mî-hoe kā i pau, ēng āu-bīn ê hù-bók pák hō͘ hó-sè; hù-bók chhòng liáu kha tiòh khòa khah koâiⁿ. Ū-sî ēng boah kô-iòh ê hoat, á-sī *lotio plumbi cum opio* siau-iām-che. Ū-sî ēng *glycerinum* kap *belladonna* kā chhat hit ê hoat-iām ê só͘-chāi. Khàn-hō͘ tiòh chai chit hō pīⁿ sī put-chí iàu-kín tiòh an-chēng-tī-liâu khah kú. Nā bô sòe-jī, tùi hit ê huih-chhoan (血栓, *thrombus*) pun-lī chòe chi̍t tè, á-sī kúi-nā tè, chiàu huih-e̍k sûn-khoân kàu tī khah sòe tiâu huih-kńg, bōe thang kè ū chó͘-tòng ê só͘-chāi. Hit tè lak--khí-lâi, khì tī pa̍t ūi kiò-chòe chhoan-that (栓塞, *embolus*). Hit tè chhoan-that ū-sî kàu sim-nī, tì-kàu sim-chōng-lāi-mó̍h-iām, á-sī kàu hì hō͘ khí hì-iām, á-sī kàu náu hō͘ lâng poàn-sin-put-sūi. Só͘-í sī tē it iàu-kín tiòh sió-sim chiàu-kò͘. Nā tiòh kā i tín-tāng, tiòh sòe-jī, iā m̄-thang kā i kháp-tiòh. Nā-sī ū hòa-lâng-sèng chēng-me̍h-iām (化膿性靜脈炎) chit hō pīⁿ sī put-chí gûi-hiám, ū-sî nā beh kiù miā, tiòh chiong hit ki kha, kā i chhiat-tn̄g.
 
 > **【全漢對照】**
-> 治療：病人著倒佇眠床；彼支跤攏毋通震動；著用棉花共伊包，用後面的副木縛予好勢；副木創了跤著跨較懸。有時用抹膏藥的法，抑是 *lotio plumbi cum opio* 消炎劑。有時用 *glycerinum* 佮 *belladonna* 共擦彼个發炎的所在。看護著知此號病是不止要緊著安靜治療較久。若無細膩，對彼个血栓（血栓, *thrombus*）分離做一塊，抑是幾若塊，照血液循環到佇較細條血管，袂通過去有阻擋的所在。彼塊落起來，去佇別位叫做栓塞（栓塞, *embolus*）。彼塊栓塞有時到心耳，致到心臟內膜炎，抑是到肺予起肺炎，抑是到腦予人半身不遂。所以是第一要緊著小心照顧。若著共伊震動，著細膩，也毋通共伊磕著。若是有化膿性靜脈炎（化膿性靜脈炎）此號病是不止危險，有時若欲救命，著將彼支跤，共伊切斷。
+> 治療：病人著倒佇眠床；彼支跤攏毋通震動；著用棉花共伊包，用後面的副木縛予好勢；副木創了跤著跨較懸。有時用抹膏藥的法，抑是 *lotio plumbi cum opio* 消炎劑。有時用 *glycerinum* 佮 *belladonna* 共擦彼个發炎的所在。看護著知此號病是不止要緊著安靜治療較久。若無細膩，對彼个血栓（血栓，*thrombus*）分離做一塊，抑是幾若塊，照血液循環到佇較細條血管，袂通過去有阻擋的所在。彼塊落起來，去佇別位叫做栓塞（栓塞，*embolus*）。彼塊栓塞有時到心耳，致到心臟內膜炎，抑是到肺予起肺炎，抑是到腦予人半身不遂。所以是第一要緊著小心照顧。若著共伊震動，著細膩，也毋通共伊磕著。若是有化膿性靜脈炎（化膿性靜脈炎）此號病是不止危險，有時若欲救命，著將彼支跤，共伊切斷。
 
 ---
 
@@ -819,14 +819,14 @@ Tī-liâu: Pīⁿ-lâng tiòh tó tī bîn-chhng; hit ki kha lóng m̄-thang tí
 Chēng-me̍h-lō-tiong (靜脈怒張, *Varicose veins*): Chit hō pīⁿ chiū-sī chēng-me̍h-khok-tiong, hoat tōa bōe koh kiu-
 
 > **【全漢對照】**
-> 靜脈怒張（靜脈怒張, *Varicose veins*）：此號病就是靜脈擴張，發大袂閣縮——
+> 靜脈怒張（靜脈怒張，*Varicose veins*）：此號病就是靜脈擴張，發大袂閣縮——
 
 ---
 
 Péh-chhàt-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lu̍t-hoat (Si-phian 119: 163).
 
 > **【全漢對照】**
-> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119: 163）。
+> 白賊話我怨恨閣厭惡，總是有疼祢的律法（詩篇 119：163）。
 
 <!-- Page 558 End -->
 
@@ -840,7 +840,7 @@ Péh-chhàt-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lu̍t-
 
 ![原書插圖 - 第 559 頁 (圖 1)](assets/illustrations/page_559_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466a tô.—Kha ê chēng-me̍h-lō-tiong (Rose and Carless).</em></p>
+<p class="figure-caption"><em>Tē 466a tô.—Kha ê chēng-me̍h-lō-tiong (Rose and Carless).</em></p>
 
 </div>
 
@@ -853,12 +853,12 @@ Péh-chhàt-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lu̍t-
 khí-lâi ê ì-sù. Khah-siông tú-tio̍h ê só͘-chāi sī seng-khu khah kē ê ūi: chhin-chhiūⁿ kong-bûn ê lāi-bīn, tī hia kiò lāi-tī-hu̍t (內痔核, *internal piles*); kap hā-chi (tē 466ª tô͘). Tī chia beh kóng hā-chi ê goân-in sī in-ūi chēng-me̍h ê piah ū sian-thian-sèng ê soe-jio̍k; chit hāng sī tùi chhut-sì, i ê chēng-me̍h-piah sī khah lám. Nā-sī ū sím-mi̍h chó͘-tòng hō͘ huih khah oh-tit tò-tńg-khì sim-chōng, chhin-chhiūⁿ tēng-pî, án-ni chiah ê chēng-me̍h ōe khok-tiong. Á-sī lâng khiā tit-tit siuⁿ kú, á-sī taⁿ tāng tàⁿ, án-ni ū-sî ōe tì-kàu chit hō pīⁿ. Ū-sî gōa-bīn ê phê-hu ōe phòa, kiò-chòe chēng-me̍h-lō͘-tiong ê ùi-iông. Chiah ê chēng-me̍h ū-sî ōe phòa, tùi án-ni chhut-huih.
 
 > **【全漢對照】**
-> 起來的意思。較常接著的所在是身軀較低的位置：親像肛門的內面，佇遐叫內痔核 (內痔核, *internal piles*)；佮下肢（第 466ª 圖）。佇遮欲講下肢的原因是因為靜脈的壁有先天性的衰弱；這項是對出世，伊的靜脈壁是較荏。若是甚麼阻擋互血較僫得倒轉去心臟，親像硬脾，按呢遮的靜脈會擴張。抑是人徛直直傷久，抑是擔重擔，按呢有時會致到這號病。有時外面的皮膚會破，叫做靜脈路脹的潰瘍。遮的靜脈有時會破，對按呢出血。
+> 起來的意思。較常接著的所在是身軀較低的位置：親像肛門的內面，佇遐叫內痔核 （內痔核，*internal piles*）；佮下肢（第 466ª 圖）。佇遮欲講下肢的原因是因為靜脈的壁有先天性的衰弱；這項是對出世，伊的靜脈壁是較荏。若是甚麼阻擋互血較僫得倒轉去心臟，親像硬脾，按呢遮的靜脈會擴張。抑是人徛直直傷久，抑是擔重擔，按呢有時會致到這號病。有時外面的皮膚會破，叫做靜脈路脹的潰瘍。遮的靜脈有時會破，對按呢出血。
 
 ---
 
 > **【插圖圖說】**  
-> **Tē 466ª tô͘.—Kha ê chēng-me̍h-lō͘-tiong (Rose and Carless).**  
+> **Tē 466ª tô͘.—Kha ê chēng-me̍h-lō͘-tiong (Rose and Carless)。**  
 > **【全漢對照】** 第 466ª 圖。—跤的靜脈路脹 (Rose and Carless)。
 
 ---
