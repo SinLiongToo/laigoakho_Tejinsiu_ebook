@@ -51,6 +51,16 @@ graph TD
 }
 ```
 
+#### 📱 1.1 iOS / Safari (WebKit) 防亂碼與 Unicode NFC 正規化指南
+- **痛點**：白話字在 OCR 過程中若產生分離聲調（NFD Decomposed，如 `E` + `\u0304` 浮動長音符號），在 iOS Safari 上會顯示為浮動虛線圓圈 `◌̄` 或問號豆腐塊 `[?]`。
+- **解決方案**：在 Python 聚合流水線中對全書所有章節與圖題執行 **Unicode NFC** 預組字元正規化：
+  ```python
+  import unicodedata
+  normalized_text = unicodedata.normalize('NFC', raw_chapter_text)
+  ```
+- **WebKit CSS 規則**：`@font-face` 的 `src: local()` 必須指定實體系統字型名稱（如 `Helvetica Neue`），不可使用 `-apple-system` 關鍵字。
+- **台語擴展字支援**：將 `HanaMinA`、`HanaMinB`、`PingFang TC` 納入字型棧，確保 `𪜶`、`𣍐`、`𠢕` 等 Ext-B/C 台語漢字在 iPhone / iPad 正常顯示。
+
 ---
 
 ### 2. 🌓 極致對比深色模式引擎 (Ultra-High Contrast Dark Mode)

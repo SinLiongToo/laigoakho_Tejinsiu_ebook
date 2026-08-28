@@ -241,8 +241,10 @@ graph LR
 
 ### 1. 典藏字型與音標防缺字系統 (Typography & Diacritics)
 - **本地內嵌 芫荽體 (`Iansui-Regular.ttf`)**：保證全書台語漢字古典楷書美感與離線支援。
-- **白話字音標調號防護 (`POJ-Fallback`)**：鎖定 Unicode 區間 `U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F`，防止音標聲調符號缺字或破圖。
-- **字型優先棧**：`'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC'`。
+- **iOS / Safari WebKit 渲染防亂碼防護**：
+  - **全書 100% Unicode NFC 正規化**：全面將分離聲調（Decomposed Diacritics，如 `E` + `\u0304`）轉為標準單一預組字符（`unicodedata.normalize('NFC')`），徹底根除 iPhone/iPad 上的問號豆腐塊與浮動圓圈。
+  - **白話字音標調號防護 (`POJ-Fallback`)**：鎖定 Unicode 區間 `U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F`，以實體系統字型相容 WebKit 規範。
+- **跨平台字型優先棧**：`'POJ-Fallback', 'Iansui', 'HanaMinA', 'HanaMinB', 'HanaMin', 'Klee One', 'Noto Serif TC', 'PingFang TC', 'Heiti TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif`（全面相容 Windows、macOS、iOS 蘋方與 HanaMin 罕見 Ext-B/C 台語漢字）。
 
 ### 2. 極致對比深色模式引擎 (Ultra-High Contrast Dark Mode)
 - **雙模式記憶**：LocalStorage 記憶狀態 + 系統 OS `prefers-color-scheme` 智慧感知。
