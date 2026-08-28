@@ -222,41 +222,125 @@
       border: 1px solid #374151 !important;
     }
 
-    [data-theme="dark"] .markdown-section table td strong {
+    /* ==========================================================================
+       Coverpage Styling (Light & Dark Mode)
+       ========================================================================== */
+    section.cover {
+      background: linear-gradient(135deg, #f0fdf4 0%, #e0f2fe 50%, #f8fafc 100%) !important;
+      position: relative !important;
+    }
+    section.cover .cover-main {
+      color: #0f172a !important;
+      font-family: var(--font-zh) !important;
+    }
+    section.cover .cover-main h1 {
+      color: #0f172a !important;
+      font-weight: 800;
+    }
+    section.cover .cover-main blockquote,
+    section.cover .cover-main blockquote p {
+      color: #1e293b !important;
+      font-size: 16px;
+      line-height: 1.7;
+    }
+    section.cover .cover-main ul li {
+      color: #334155 !important;
+      text-align: left;
+      font-size: 15px;
+      margin-bottom: 6px;
+    }
+    section.cover .cover-main a.button {
+      background-color: var(--theme-color) !important;
+      color: #ffffff !important;
+      border: 1px solid var(--theme-color) !important;
+      font-weight: 600;
+      border-radius: 8px;
+    }
+    section.cover .cover-main a.button:last-child {
+      background-color: transparent !important;
+      color: var(--theme-color) !important;
+      border: 1.5px solid var(--theme-color) !important;
+    }
+
+    [data-theme="dark"] section.cover {
+      background: linear-gradient(135deg, #0b0f19 0%, #111827 50%, #0f172a 100%) !important;
+    }
+    [data-theme="dark"] section.cover .cover-main {
       color: #ffffff !important;
     }
+    [data-theme="dark"] section.cover .cover-main h1 {
+      color: #ffffff !important;
+      text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+    }
+    [data-theme="dark"] section.cover .cover-main blockquote,
+    [data-theme="dark"] section.cover .cover-main blockquote p {
+      color: #e2e8f0 !important;
+      background: rgba(19, 27, 46, 0.7) !important;
+      border-left: 4px solid #2dd4bf !important;
+    }
+    [data-theme="dark"] section.cover .cover-main ul li {
+      color: #cbd5e1 !important;
+    }
+    [data-theme="dark"] section.cover .cover-main a.button {
+      background-color: #2dd4bf !important;
+      color: #0b0f19 !important;
+      border: 1px solid #2dd4bf !important;
+      font-weight: 700;
+      box-shadow: 0 4px 14px rgba(45, 212, 191, 0.25);
+    }
+    [data-theme="dark"] section.cover .cover-main a.button:last-child {
+      background-color: #1e293b !important;
+      color: #f8fafc !important;
+      border: 1px solid #475569 !important;
+    }
 
     /* ==========================================================================
-       Responsive Illustrations & Figures
+       Dark Mode Universal Ultra-Contrast Typography Overrides
        ========================================================================== */
-    .markdown-section img {
-      max-width: 92% !important;
-      height: auto !important;
-      border-radius: 8px;
-      box-shadow: var(--card-shadow);
-      margin: 12px auto;
-      display: inline-block;
-      transition: transform 0.2s ease, filter 0.3s ease;
-      background-color: #ffffff;
-      padding: 6px;
+    [data-theme="dark"] .markdown-section {
+      color: #f8fafc !important;
     }
-
-    [data-theme="dark"] .markdown-section img {
-      filter: brightness(0.95) contrast(1.05);
-      background-color: #1e293b;
+    [data-theme="dark"] .markdown-section h1,
+    [data-theme="dark"] .markdown-section h2,
+    [data-theme="dark"] .markdown-section h3,
+    [data-theme="dark"] .markdown-section h4,
+    [data-theme="dark"] .markdown-section h5,
+    [data-theme="dark"] .markdown-section h6 {
+      color: #ffffff !important;
+      border-color: #374151 !important;
     }
-
-    .markdown-section hr {
-      border: 0;
-      border-top: 1px solid var(--border-color);
-      margin: 32px 0;
+    [data-theme="dark"] .markdown-section p,
+    [data-theme="dark"] .markdown-section li,
+    [data-theme="dark"] .markdown-section span,
+    [data-theme="dark"] .markdown-section strong,
+    [data-theme="dark"] .markdown-section em,
+    [data-theme="dark"] .markdown-section small,
+    [data-theme="dark"] .markdown-section div {
+      color: #f8fafc !important;
     }
-
-    /* ==========================================================================
-       Sidebar & Collapsible Navigation Styling (Wider & No Text Cut-Off)
-       ========================================================================== */
-    :root {
-      --sidebar-width: 360px;
+    [data-theme="dark"] .markdown-section strong {
+      color: #ffffff !important;
+      font-weight: 700 !important;
+    }
+    [data-theme="dark"] .markdown-section a {
+      color: #38bdf8 !important; /* Bright sky blue / cyan for dark mode */
+    }
+    [data-theme="dark"] .markdown-section a:hover {
+      color: #67e8f9 !important;
+      text-decoration: underline;
+    }
+    [data-theme="dark"] .markdown-section hr {
+      border-color: #374151 !important;
+    }
+    .author-title {
+      color: var(--text-secondary);
+    }
+    [data-theme="dark"] .author-title {
+      color: #cbd5e1 !important;
+    }
+    [data-theme="dark"] .figure-caption em,
+    [data-theme="dark"] .figure-caption {
+      color: #94a3b8 !important;
     }
 
     .sidebar {

@@ -3,7 +3,7 @@
 <div align="center" style="margin: 20px 0 30px 0;">
   <img src="assets/author_george_gushue_taylor.jpg" alt="戴仁壽醫師 (Dr. George Gushue-Taylor)" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 3px solid #2c7a7b; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
   <p style="font-size: 16px; margin-top: 10px; font-weight: 600;">原著者：戴仁壽 醫師 (Dr. George Gushue-Taylor, 1883–1954)</p>
-  <p style="font-size: 14px; color: #718096; margin-top: -6px;">英國皇家外科醫學院院士 (F.R.C.S.)｜台南新樓醫院院長｜台北馬偕紀念醫院院長｜樂山園創辦人</p>
+  <p class="author-title" style="font-size: 14px; margin-top: -6px;">英國皇家外科醫學院院士 (F.R.C.S.)｜台南新樓醫院院長｜台北馬偕紀念醫院院長｜樂山園創辦人</p>
 </div>
 
 歡迎閱讀由 **戴仁壽醫師（Dr. George Gushue-Taylor）** 主編、陳大鑼先生等台灣醫界前輩合編之 **《內外科看護學》（The Principles and Practice of Nursing / Lāi Gōa Kho Khàn-hō͘-ha̍k）** 現代化數位電子書。
