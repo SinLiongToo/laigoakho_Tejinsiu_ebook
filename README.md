@@ -221,3 +221,43 @@ python calculate_stats.py
    - Track 1：專注於文本 OCR 與翻譯快取。
    - Track 2：專注於視覺佈局分析與高解析度插圖裁切。
 4. **Docsify 靜態發布模板 (`build_book.py` + `index.html`)**：免編譯、即時渲染 Markdown、內建全文檢索與響應式雙語排版。
+
+---
+
+## 10. 現代化數位典藏電子書 UI 前端架構藍圖 (UI Architecture Blueprint)
+
+本專案將 Web 電子書閱讀體驗模組化封裝為獨立 Agent Skill：[`skills/digital_archive_ebook_ui/SKILL.md`](skills/digital_archive_ebook_ui/SKILL.md)，包含以下五大前端子系統：
+
+```mermaid
+graph LR
+    subgraph UI_Architecture ["Web 電子書 UI 核心架構"]
+        T["🔤 典藏字型與排版<br>(Iansui + POJ-Fallback)"]
+        D["🌓 極致對比深色模式<br>(LocalStorage + OS 偵測)"]
+        S["📂 可折疊目錄與工具列<br>(360px 寬側欄 + 11px 滑桿)"]
+        H["🔍 獨立搜尋與即時高亮<br>(mark.js + 懸浮面板)"]
+        I["🖼️ 防破圖路徑解析器<br>(Docsify Hook Plugin)"]
+    end
+```
+
+### 1. 典藏字型與音標防缺字系統 (Typography & Diacritics)
+- **本地內嵌 芫荽體 (`Iansui-Regular.ttf`)**：保證全書台語漢字古典楷書美感與離線支援。
+- **白話字音標調號防護 (`POJ-Fallback`)**：鎖定 Unicode 區間 `U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F`，防止音標聲調符號缺字或破圖。
+- **字型優先棧**：`'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC'`。
+
+### 2. 極致對比深色模式引擎 (Ultra-High Contrast Dark Mode)
+- **雙模式記憶**：LocalStorage 記憶狀態 + 系統 OS `prefers-color-scheme` 智慧感知。
+- **全元素超高對比覆寫**：段落、粗體、斜體標籤全面升級為 `#ffffff` / `#f8fafc`。
+- **表格交錯斑馬紋 (Zebra Striping)**：奇數行 `#0e1726`、偶數行 `#1e293b`、懸停 `#334155`，解決暗底文字撞色問題。
+
+### 3. 可折疊側邊目錄與一鍵控制工具列 (Collapsible Sidebar)
+- **目錄寬度擴展至 360px**：啟用 `word-break: break-word`，徹底解決長篇名與音標被邊框截斷。
+- **全站 11px 加粗高對比滑桿**：側邊欄、主文章、表格均配備圓角滑桿。
+- **一鍵全部展開 / 全部收合 (`#btn-collapse-all`)**：直接切換 DOM `.open` / `.collapse` 狀態類別。
+
+### 4. 智慧即時搜尋與主畫面高亮反白 (Smart Search & In-Content Highlighting)
+- **獨立懸浮結果面板 (`.results-panel`)**：搜尋結果與下方章節目錄徹底分離，不破壞目錄樹。
+- **主畫面即時關鍵字高亮 (In-Content Highlighting)**：整合 `mark.js`，搜尋或輸入時正文字詞即刻套用黃色/琥珀色反白徽章，點擊自動平滑滾動至目標位置。
+
+### 5. 動態相對路徑圖片解析器 (Bulletproof Image Resolver)
+- **Docsify 路由防破圖插件**：在 `hook.afterEach` 攔截所有 Markdown 圖片，將 `assets/illustrations/` 依據 GitHub Pages 站點路徑動態正規化為全域絕對路徑。
+
