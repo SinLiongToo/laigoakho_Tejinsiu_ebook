@@ -96,15 +96,15 @@ def build_chapters():
                     
                     # Embed illustrations if present on this page
                     if p_figs:
-                        f.write("\n<div align=\"center\" style=\"margin: 20px 0;\">\n\n")
+                        f.write("\n<div align=\"center\" style=\"margin: 24px 0;\">\n\n")
                         for idx, fig in enumerate(p_figs):
                             fig_fn = fig.get("saved_file") or f"page_{p_num:03d}_fig_{idx+1:02d}.png"
                             fig_rel = f"assets/illustrations/{fig_fn}"
                             caption = fig.get("caption", "").strip()
-                            clean_caption = caption.replace("\n", " ")
-                            f.write(f"![{clean_caption}]({fig_rel})\n\n")
+                            alt_label = f"原書插圖 - 第 {p_num} 頁 (圖 {idx+1})"
+                            f.write(f"![{alt_label}]({fig_rel})\n\n")
                             if caption:
-                                f.write(f"<p style=\"font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;\"><em>{caption}</em></p>\n\n")
+                                f.write(f"<p style=\"font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;\"><em>{caption}</em></p>\n\n")
                             total_illustrations_embedded += 1
                         f.write("</div>\n\n")
                         

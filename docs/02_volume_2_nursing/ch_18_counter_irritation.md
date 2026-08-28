@@ -220,11 +220,11 @@ Jîn-ài, hoān-sū jīm-siū, hoān-sū siong-sìn, hoān-sū ǹg-bāng, hoān-
 #### 📖 原書第 242 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.](assets/illustrations/page_242_fig_01.png)
+![原書插圖 - 第 242 頁 (圖 1)](assets/illustrations/page_242_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 154 tô:—Paquelin-sī peh-kim sio-chiok-khì.</em></p>
 
 </div>
 
@@ -271,11 +271,11 @@ Tē 154 tô͘.—Paquelin-sī pe̍h-kim sio-chiok-khì. (J.O)
 #### 📖 原書第 243 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_243_fig_01.png)
+![原書插圖 - 第 243 頁 (圖 1)](assets/illustrations/page_243_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 155 tô.—Khip-kak-liâu-hoat ê ke-sì : 1, khip-kak ; 2, mî-hoe ùn hé-chiú ; 3, hé-chiú-teng ; 4, gōa-kho-to. (Morrow, from “ Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -432,11 +432,11 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng hō͘ gô-khî teh suh ê sî-chūn tòng-bōe-
 #### 📖 原書第 246 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)](assets/illustrations/page_246_fig_01.png)
+![原書插圖 - 第 246 頁 (圖 1)](assets/illustrations/page_246_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 156 tô.—Khòaⁿ tē 231 bīn (From Cantlies' “Nursing Manual,” Cassell and Co., publishers.)</em></p>
 
 </div>
 

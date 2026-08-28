@@ -67,19 +67,19 @@ Kut-chih ê goân-in (原因, *Etiology*) :
 #### 📖 原書第 366 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)](assets/illustrations/page_366_fig_01.png)
+![原書插圖 - 第 366 頁 (圖 1)](assets/illustrations/page_366_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>212 Tē 212 tô:—Kēng-kut hok-cháp-sèng ê kut-chih (“ American Illustrated Medical Dictionary.”)</em></p>
 
-![213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders).](assets/illustrations/page_366_fig_02.png)
+![原書插圖 - 第 366 頁 (圖 2)](assets/illustrations/page_366_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>213 Tē 213 tô:—Jiâu-kut put-oân-choân ê kut-chih (Sanders).</em></p>
 
-![214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”).](assets/illustrations/page_366_fig_03.png)
+![原書插圖 - 第 366 頁 (圖 3)](assets/illustrations/page_366_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>214 Tē 214 tô:—Kēng-kut, hún-chhùi-kut-chih (“ International Text-Book of Surgery ”).</em></p>
 
 </div>
 
@@ -148,11 +148,11 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 #### 📖 原書第 367 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 215—217 tô:—Kut-chih ê lú-hảp : 215, chih-kut ê siang-thâu-bé saⁿ-óa hó-sè; 216 chih-kut ê siang-thâu-bé saⁿ-óa chit-pō-hūn ; 217, chih-kut ê siang-thâu-bé lóng bô saⁿ-óa, oai-oai-khì(Rose and Carless).](assets/illustrations/page_367_fig_01.png)
+![原書插圖 - 第 367 頁 (圖 1)](assets/illustrations/page_367_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 215—217 tô:—Kut-chih ê lú-hảp : 215, chih-kut ê siang-thâu-bé saⁿ-óa hó-sè; 216 chih-kut ê siang-thâu-bé saⁿ-óa chit-pō-hūn ; 217, chih-kut ê siang-thâu-bé lóng bô saⁿ-óa, oai-oai-khì(Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 215—217 tô:—Kut-chih ê lú-hảp : 215, chih-kut ê siang-thâu-bé saⁿ-óa hó-sè; 216 chih-kut ê siang-thâu-bé saⁿ-óa chit-pō-hūn ; 217, chih-kut ê siang-thâu-bé lóng bô saⁿ-óa, oai-oai-khì(Rose and Carless).</em></p>
 
 </div>
 
@@ -193,15 +193,15 @@ Kut lú-ha̍p ê sî-ji̍t ê chē chió, chiū tióh khòaⁿ hit ê kut tōa s
 #### 📖 原書第 368 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa).](assets/illustrations/page_368_fig_01.png)
+![原書插圖 - 第 368 頁 (圖 1)](assets/illustrations/page_368_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 218 tô:—Káu-á ê kut-chih-khì, 28 jit-kú. Chih-khì ê sì-piⁿ ū ké-kut. Chit ê ké-kut teh-beh pìⁿ-chiâⁿ tēng-kut (Da Costa).</em></p>
 
-![Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa).](assets/illustrations/page_368_fig_02.png)
+![原書插圖 - 第 368 頁 (圖 2)](assets/illustrations/page_368_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 219 tô:—Kut-chih ê hêng-chōng (Da Costa).</em></p>
 
 </div>
 
@@ -265,11 +265,11 @@ Chit só͘-chāi piàn i ê hêng-chōng, chhin-chhiūⁿ ū chi̍t só͘-chāi 
 #### 📖 原書第 369 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 220 tô:—Jiâu-kut, chhioh-kut chih tī ē-toan, X-kng-sòaⁿ ê siōng. Kut-chih ê só͘-chāi bô saⁿ-óa hó-sè (Rose and Carless).](assets/illustrations/page_369_fig_01.png)
+![原書插圖 - 第 369 頁 (圖 1)](assets/illustrations/page_369_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 220 tô:—Jiâu-kut, chhioh-kut chih tī ē-toan, X-kng-sòaⁿ ê siōng. Kut-chih ê só͘-chāi bô saⁿ-óa hó-sè (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 220 tô:—Jiâu-kut, chhioh-kut chih tī ē-toan, X-kng-sòaⁿ ê siōng. Kut-chih ê só͘-chāi bô saⁿ-óa hó-sè (Rose and Carless).</em></p>
 
 </div>
 
@@ -366,31 +366,31 @@ Pīⁿ-lâng ê i-chiûⁿ, tī kiù-kip ê sî, m̄-bián kā i ōaⁿ, kàu i-
 #### 📖 原書第 371 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![221 Tē 221 tô.—Kēng-kut chih. Ēng nñg ki koáiⁿ-á kap saⁿ kā kah (Warwick and Tunstall).](assets/illustrations/page_371_fig_01.png)
+![原書插圖 - 第 371 頁 (圖 1)](assets/illustrations/page_371_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>221
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>221
 Tē 221 tô.—Kēng-kut chih. Ēng nñg ki koáiⁿ-á kap saⁿ kā kah (Warwick and Tunstall).</em></p>
 
-![223 Tē 223 tô.—Tōa-thúi-kut-kēng chih-khì (Da Costa).](assets/illustrations/page_371_fig_02.png)
+![原書插圖 - 第 371 頁 (圖 2)](assets/illustrations/page_371_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>223
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>223
 Tē 223 tô.—Tōa-thúi-kut-kēng chih-khì (Da Costa).</em></p>
 
-![222 Tē 222 tô.—Chit ki kha chih. Ēng hit ki hó-ê chòe hù-bo̍k (after A. S. Morrow).](assets/illustrations/page_371_fig_03.png)
+![原書插圖 - 第 371 頁 (圖 3)](assets/illustrations/page_371_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>222
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>222
 Tē 222 tô.—Chit ki kha chih. Ēng hit ki hó-ê chòe hù-bo̍k (after A. S. Morrow).</em></p>
 
-![224 Tē 224 tô.—Tōa-thúi-kut chih. Ēng tng ê hù-bo̍k kā kah. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)](assets/illustrations/page_371_fig_04.png)
+![原書插圖 - 第 371 頁 (圖 4)](assets/illustrations/page_371_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>224
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>224
 Tē 224 tô.—Tōa-thúi-kut chih. Ēng tng ê hù-bo̍k kā kah. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
-![225 Tē 225 tô.—Tōa-thúi-kut chih. Ēng chit m̂g chhèng kā kah (Warwick and Tunstall).](assets/illustrations/page_371_fig_05.png)
+![原書插圖 - 第 371 頁 (圖 5)](assets/illustrations/page_371_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>225
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>225
 Tē 225 tô.—Tōa-thúi-kut chih. Ēng chit m̂g chhèng kā kah (Warwick and Tunstall).</em></p>
 
 </div>
@@ -493,11 +493,11 @@ Hù-bo̍k ū nñg khoán, chi̍t khoán sī ngē-ê, chi̍t khoán sī núg-ê. 
 #### 📖 原書第 373 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 226 tô.— Gooch-sī ê hù-bók; ē-bīn-ê sī hoâiⁿ-tūg-bīn (Scuduer).](assets/illustrations/page_373_fig_01.png)
+![原書插圖 - 第 373 頁 (圖 1)](assets/illustrations/page_373_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 226 tô.— Gooch-sī ê hù-bók; ē-bīn-ê sī hoâiⁿ-tūg-bīn (Scuduer).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 226 tô.— Gooch-sī ê hù-bók; ē-bīn-ê sī hoâiⁿ-tūg-bīn (Scuduer).</em></p>
 
 </div>
 
@@ -639,15 +639,15 @@ Siōng-tè oàn-hūn kiau-ngō͘-ê, kap chhùi kóng kan-chà-ê (Chim-giân 6:
 #### 📖 原書第 375 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)](assets/illustrations/page_375_fig_01.png)
+![原書插圖 - 第 375 頁 (圖 1)](assets/illustrations/page_375_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 227 tô:—(From Heath's 'Minor Surgery and Bandaging,' J. and A. Churchill, publishers.)</em></p>
 
-![Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney).](assets/illustrations/page_375_fig_02.png)
+![原書插圖 - 第 375 頁 (圖 2)](assets/illustrations/page_375_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 228 tô:—Chêng-bīn kap āu-bīn hù-bòk kah chhiú-nih (Stoney).</em></p>
 
 </div>
 
@@ -698,25 +698,25 @@ chì 6 chhùn. I ê chok-iōng sī kúi-nā khoán. Nā khah oe̍h khah té-ê, 
 #### 📖 原書第 376 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 229 tô· (Heath).](assets/illustrations/page_376_fig_01.png)
+![原書插圖 - 第 376 頁 (圖 1)](assets/illustrations/page_376_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 229 tô· (Heath).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 229 tô· (Heath).</em></p>
 
-![230 Tē 230 tô·.—Ū-kak ê hù-bók.](assets/illustrations/page_376_fig_02.png)
+![原書插圖 - 第 376 頁 (圖 2)](assets/illustrations/page_376_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>230
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>230
 Tē 230 tô·.—Ū-kak ê hù-bók.</em></p>
 
-![231 Tē 231 tô·.—Chiàⁿ-chhiú kah lāi-kak hù-bók (Sanders).](assets/illustrations/page_376_fig_03.png)
+![原書插圖 - 第 376 頁 (圖 3)](assets/illustrations/page_376_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>231
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>231
 Tē 231 tô·.—Chiàⁿ-chhiú kah lāi-kak hù-bók (Sanders).</em></p>
 
-![Tē 232 tô·.—Carr-sī ê hù-bók (Heath).](assets/illustrations/page_376_fig_04.png)
+![原書插圖 - 第 376 頁 (圖 4)](assets/illustrations/page_376_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 232 tô·.—Carr-sī ê hù-bók (Heath).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 232 tô·.—Carr-sī ê hù-bók (Heath).</em></p>
 
 </div>
 
@@ -848,21 +848,21 @@ Khan-ín-hoat (牽引法, _Extension_):
 #### 📖 原書第 378 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![233 Tē 233 tô͘.—Kha khan-ín-hoat (Sanders).](assets/illustrations/page_378_fig_01.png)
+![原書插圖 - 第 378 頁 (圖 1)](assets/illustrations/page_378_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>233
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>233
 Tē 233 tô͘.—Kha khan-ín-hoat (Sanders).</em></p>
 
-![234 Tē 234 tô͘.—Kha khan-ín-hoat (Sanders).](assets/illustrations/page_378_fig_02.png)
+![原書插圖 - 第 378 頁 (圖 2)](assets/illustrations/page_378_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>234
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>234
 Tē 234 tô͘.—Kha khan-ín-hoat (Sanders).</em></p>
 
-![235 Tē 235 tô͘.—Kút-chhia, chòe khan-ín-hoat ê lō͘-ēng (Heath).](assets/illustrations/page_378_fig_03.png)
+![原書插圖 - 第 378 頁 (圖 3)](assets/illustrations/page_378_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>235
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>235
 Tē 235 tô͘.—Kút-chhia, chòe khan-ín-hoat ê lō͘-ēng (Heath).</em></p>
 
 </div>
@@ -988,15 +988,15 @@ Chù-ì: Chòe khan-ín-hoat ê sî, ū sì hāng iàu-kín tióh sòe-jī, chi�
 #### 📖 原書第 380 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder).](assets/illustrations/page_380_fig_01.png)
+![原書插圖 - 第 380 頁 (圖 1)](assets/illustrations/page_380_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 236 tô.—Gín-ná tōa-thúi-kut chih, hû-bók khan-ín-hoat (Scudder).</em></p>
 
-![Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders).](assets/illustrations/page_380_fig_02.png)
+![原書插圖 - 第 380 頁 (圖 2)](assets/illustrations/page_380_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 237 tô.—Hā-gók-koan-chat-thoat-khū: Chit ê tô· jip tī chia beh hō͘ lâng khòaⁿ chit hō koan-chat-thoat-khū ê khoán-sìt (Sanders).</em></p>
 
 </div>
 

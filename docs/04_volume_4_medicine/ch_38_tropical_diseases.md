@@ -9,11 +9,11 @@
 #### 📖 原書第 626 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 481 tô:—Saⁿ khoán kàn-hat-jiảt ê thé-un-pió: Quotidian, tàk-jit-jiảt ; Tertian, saⁿ-jit-jiảt ; Quartan, sì-jit-jiảt (Clinical Methods).](assets/illustrations/page_626_fig_01.png)
+![原書插圖 - 第 626 頁 (圖 1)](assets/illustrations/page_626_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 481 tô:—Saⁿ khoán kàn-hat-jiảt ê thé-un-pió: Quotidian, tàk-jit-jiảt ; Tertian, saⁿ-jit-jiảt ; Quartan, sì-jit-jiảt (Clinical Methods).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 481 tô:—Saⁿ khoán kàn-hat-jiảt ê thé-un-pió: Quotidian, tàk-jit-jiảt ; Tertian, saⁿ-jit-jiảt ; Quartan, sì-jit-jiảt (Clinical Methods).</em></p>
 
 </div>
 
@@ -75,11 +75,11 @@ Chiah ê chèng tī jiȧt-tài ê kok, pí tī un-tài ê kok chám-jiān ke chi
 #### 📖 原書第 627 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 482 tô.—Malaria saⁿ-jit-jia̍t ê thé-un-pió. Chit-ê sī kàn-hat-jia̍t ê chit hāng (Paul).](assets/illustrations/page_627_fig_01.png)
+![原書插圖 - 第 627 頁 (圖 1)](assets/illustrations/page_627_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 482 tô.—Malaria saⁿ-jit-jia̍t ê thé-un-pió. Chit-ê sī kàn-hat-jia̍t ê chit hāng (Paul).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 482 tô.—Malaria saⁿ-jit-jia̍t ê thé-un-pió. Chit-ê sī kàn-hat-jia̍t ê chit hāng (Paul).</em></p>
 
 </div>
 
@@ -130,11 +130,11 @@ Goân-in: Ū chi̍t khoán tėk-piảt ê bî-seng-bu̍t kiò-chòe *malaria* ê
 #### 📖 原書第 628 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 483 tô:—Malaria goân-thâng hoat-io̍k tī huih-nih chōng-thài ê tô͘. (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)](assets/illustrations/page_628_fig_01.png)
+![原書插圖 - 第 628 頁 (圖 1)](assets/illustrations/page_628_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 483 tô:—Malaria goân-thâng hoat-io̍k tī huih-nih chōng-thài ê tô͘.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 483 tô:—Malaria goân-thâng hoat-io̍k tī huih-nih chōng-thài ê tô͘.
 (From Hutchison and Rainy's “Clinical Methods,” Cassell and Co., publishers.)</em></p>
 
 </div>
@@ -290,11 +290,11 @@ Jia̍t teh hoat-choh ê sî-kî, kap ok-hân ê kî, sī kap hit ê goân-thâng
 #### 📖 原書第 632 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 484 tô:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-sìt ; b, tī pùn-lāi ê khoán-sìt. Amœbic dysentery. a, amœba dysenteriæ fixed and stained (Councilman): b, amœba dysenteriæ in stools. (After Losch, Virchow's “Archiv,” Bd 65.)](assets/illustrations/page_632_fig_01.png)
+![原書插圖 - 第 632 頁 (圖 1)](assets/illustrations/page_632_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 484 tô:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-sìt ; b, tī pùn-lāi ê khoán-sìt.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 484 tô:—Amœba-sèng chhiah-lī: a, ēng ní-sek ní-liáu ê khoán-sìt ; b, tī pùn-lāi ê khoán-sìt.
 Amœbic dysentery. a, amœba dysenteriæ fixed and stained (Councilman): b, amœba dysenteriæ in stools. (After Losch, Virchow's “Archiv,” Bd 65.)</em></p>
 
 </div>
@@ -421,11 +421,11 @@ Khàn-hō͘ chit khoán ê pīⁿ tióh put-chí sió-sim. Tióh
 #### 📖 原書第 634 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 485 tô.—Pî-chōng-pûi-tōa (Clinical Methods).](assets/illustrations/page_634_fig_01.png)
+![原書插圖 - 第 634 頁 (圖 1)](assets/illustrations/page_634_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 485 tô.—Pî-chōng-pûi-tōa (Clinical Methods).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 485 tô.—Pî-chōng-pûi-tōa (Clinical Methods).</em></p>
 
 </div>
 
@@ -566,11 +566,11 @@ cháu, ōe kā-tio̍h lâng, chit hō chèng ê sòe-khún chiū ji̍p lâng sen
 #### 📖 原書第 636 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 486 tô.--Chảp-jī - chí - tńg - thâng, kang-ê, bú-ê, tāi goân-hêng.](assets/illustrations/page_636_fig_01.png)
+![原書插圖 - 第 636 頁 (圖 1)](assets/illustrations/page_636_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 486 tô.--Chảp-jī - chí - tńg - thâng, kang-ê, bú-ê, tāi goân-hêng.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 486 tô.--Chảp-jī - chí - tńg - thâng, kang-ê, bú-ê, tāi goân-hêng.</em></p>
 
 </div>
 
@@ -637,11 +637,11 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 #### 📖 原書第 637 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 487 tô.-Kang-ê cháp-jī-chí-tng-thâng, khok-tōa ê tô (Clinical Methods).](assets/illustrations/page_637_fig_01.png)
+![原書插圖 - 第 637 頁 (圖 1)](assets/illustrations/page_637_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 487 tô.-Kang-ê cháp-jī-chí-tng-thâng, khok-tōa ê tô (Clinical Methods).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 487 tô.-Kang-ê cháp-jī-chí-tng-thâng, khok-tōa ê tô (Clinical Methods).</em></p>
 
 </div>
 
@@ -781,11 +781,11 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 #### 📖 原書第 639 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 487a tô:-Thâm-lāi hì-thâng ê nñg khok-tōa ê tô (distoma pulmonale). [From "Clinical Methods."]](assets/illustrations/page_639_fig_01.png)
+![原書插圖 - 第 639 頁 (圖 1)](assets/illustrations/page_639_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 487a tô:-Thâm-lāi hì-thâng ê nñg khok-tōa ê tô (distoma pulmonale). [From "Clinical Methods."]</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 487a tô:-Thâm-lāi hì-thâng ê nñg khok-tōa ê tô (distoma pulmonale). [From "Clinical Methods."]</em></p>
 
 </div>
 

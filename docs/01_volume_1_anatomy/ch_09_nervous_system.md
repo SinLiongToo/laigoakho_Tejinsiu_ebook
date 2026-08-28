@@ -9,11 +9,11 @@
 #### 📖 原書第 132 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 91 tô:—Náu-chhé kap chek-chhé ê pō͘-ūi : A, tōa-náu ; B, sió-náu ; C, tiong-náu ; tī C ê ē-tóe sī iân-chhé ; DD, chek-chhé ; EE, chek-chhé-sîn-keng ; F, tē 7 kēng-chui-kut ; G, tē 12 heng-chui-kut ; H, tē 5 io-chui-kut ; I, chiàn-kut (Blackie and Son).](assets/illustrations/page_132_fig_01.png)
+![原書插圖 - 第 132 頁 (圖 1)](assets/illustrations/page_132_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 91 tô:—Náu-chhé kap chek-chhé ê pō͘-ūi : A, tōa-náu ; B, sió-náu ; C, tiong-náu ; tī C ê ē-tóe sī iân-chhé ; DD, chek-chhé ; EE, chek-chhé-sîn-keng ; F, tē 7 kēng-chui-kut ; G, tē 12 heng-chui-kut ; H, tē 5 io-chui-kut ; I, chiàn-kut (Blackie and Son).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 91 tô:—Náu-chhé kap chek-chhé ê pō͘-ūi : A, tōa-náu ; B, sió-náu ; C, tiong-náu ; tī C ê ē-tóe sī iân-chhé ; DD, chek-chhé ; EE, chek-chhé-sîn-keng ; F, tē 7 kēng-chui-kut ; G, tē 12 heng-chui-kut ; H, tē 5 io-chui-kut ; I, chiàn-kut (Blackie and Son).</em></p>
 
 </div>
 
@@ -77,11 +77,11 @@ Tē 91 tô͘:— Náu-chhé kap chek-chhé ê phō͘-ūi : A, tōa-náu ; B, si�
 #### 📖 原書第 133 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Fig 10.—NERVE CELL.  Tē 92 tô:—Sîn-keng-sòe-pau : 1, sîn-keng-chat-sòe-pau ê chhiū-ki-chōng-tút-khí-thé; 2, chhia-sìm-tút-khí ; 3, sîn-keng-siàu (chhin-chhiūⁿ to-siù ê khoán) ; 4, sîn-keng-bé-liu ; 5, sîn-keng-chhé-chit-sò͘ ; 6, sòe-pau-thé. (From Beggs' “Training in First-Aid and Nursing,” The Scientific Press, Ltd., publishers.)](assets/illustrations/page_133_fig_01.png)
+![原書插圖 - 第 133 頁 (圖 1)](assets/illustrations/page_133_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Fig 10.—NERVE CELL.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Fig 10.—NERVE CELL.
 
 Tē 92 tô:—Sîn-keng-sòe-pau : 1, sîn-keng-chat-sòe-pau ê chhiū-ki-chōng-tút-khí-thé; 2, chhia-sìm-tút-khí ; 3, sîn-keng-siàu (chhin-chhiūⁿ to-siù ê khoán) ; 4, sîn-keng-bé-liu ; 5, sîn-keng-chhé-chit-sò͘ ; 6, sòe-pau-thé. (From Beggs' “Training in First-Aid and Nursing,” The Scientific Press, Ltd., publishers.)</em></p>
 
@@ -160,11 +160,11 @@ Náu-chhé sī tī thâu-khak-khang-lāi ê ki-koan, téng-bīn sī phòng ê kh
 #### 📖 原書第 134 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 93 tô.—Sîn-keng hē-thóng ê tô, tùi āu-bīn khòaⁿ : C1, tōa-náu ; C2, sió-náu ; N, tē 7 tùi náu-sîn-keng ; M, iān-chhé ; S, chek-chhé, tùi chia ū pun sîn-keng kàu seng-khu kap sù-chí ; Sc, chō-kut-sîn-keng. (From Woodwark's “Medical Nursing,” Edward Arnold, publishers.)](assets/illustrations/page_134_fig_01.png)
+![原書插圖 - 第 134 頁 (圖 1)](assets/illustrations/page_134_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 93 tô.—Sîn-keng hē-thóng ê tô, tùi āu-bīn khòaⁿ : C1, tōa-náu ; C2, sió-náu ; N, tē 7 tùi náu-sîn-keng ; M, iān-chhé ; S, chek-chhé, tùi chia ū pun sîn-keng kàu seng-khu kap sù-chí ; Sc, chō-kut-sîn-keng. (From Woodwark's “Medical Nursing,” Edward Arnold, publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 93 tô.—Sîn-keng hē-thóng ê tô, tùi āu-bīn khòaⁿ : C1, tōa-náu ; C2, sió-náu ; N, tē 7 tùi náu-sîn-keng ; M, iān-chhé ; S, chek-chhé, tùi chia ū pun sîn-keng kàu seng-khu kap sù-chí ; Sc, chō-kut-sîn-keng. (From Woodwark's “Medical Nursing,” Edward Arnold, publishers.)</em></p>
 
 </div>
 
@@ -201,11 +201,11 @@ Tē jī têng sī ti-tu-mo̍͘h (蜘蛛膜, *arachnoid*). Chit têng sī chi̍t 
 #### 📖 原書第 135 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 94 tô:—Náu-mo̍h kap náu-chhé chhiat-tñg ê tô: 1, kēng-mo̍h; 2, kēng-mo̍h-ē-khang-tōng; 3, ti-tu-mo̍h; 4, me̍h-lo̍k-mo̍h; 5, tōa- náu ê phê-chit; 6, ti-tu-mo̍h-ē-khang-tōng; 7, chēng-me̍h (after Schwalbe).](assets/illustrations/page_135_fig_01.png)
+![原書插圖 - 第 135 頁 (圖 1)](assets/illustrations/page_135_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 94 tô:—Náu-mo̍h kap náu-chhé chhiat-tñg ê tô: 1, kēng-mo̍h; 2, kēng-mo̍h-ē-khang-tōng; 3, ti-tu-mo̍h; 4, me̍h-lo̍k-mo̍h; 5, tōa- náu ê phê-chit; 6, ti-tu-mo̍h-ē-khang-tōng; 7, chēng-me̍h (after Schwalbe).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 94 tô:—Náu-mo̍h kap náu-chhé chhiat-tñg ê tô: 1, kēng-mo̍h; 2, kēng-mo̍h-ē-khang-tōng; 3, ti-tu-mo̍h; 4, me̍h-lo̍k-mo̍h; 5, tōa- náu ê phê-chit; 6, ti-tu-mo̍h-ē-khang-tōng; 7, chēng-me̍h (after Schwalbe).</em></p>
 
 </div>
 
@@ -266,11 +266,11 @@ Pīⁿ-lâng tī e̍k-keng ê sî, khàn-hō͘ m̄-thang lī-khui i.
 #### 📖 原書第 136 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 95 tô.—Tùi chiàⁿ-pêng khòaⁿ ê náu : 1, tōa-náu ; 2, tōa-náu-kha ; 3, sì-thiap-thé-kha sī sió-náu téng-bīn ê kha ; 4, kiô-kha sī sió-náu tiong-ng ê kha ; 5, iân-chhé-kha sī sió-náu ē bīn ê kha ; 6, iân-chhé ; 7, sió-náu ; 8, tiong-náu (náu-kiô). (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_136_fig_01.png)
+![原書插圖 - 第 136 頁 (圖 1)](assets/illustrations/page_136_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 95 tô.—Tùi chiàⁿ-pêng khòaⁿ ê náu : 1, tōa-náu ; 2, tōa-náu-kha ; 3, sì-thiap-thé-kha sī sió-náu téng-bīn ê kha ; 4, kiô-kha sī sió-náu tiong-ng ê kha ; 5, iân-chhé-kha sī sió-náu ē bīn ê kha ; 6, iân-chhé ; 7, sió-náu ; 8, tiong-náu (náu-kiô). (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 95 tô.—Tùi chiàⁿ-pêng khòaⁿ ê náu : 1, tōa-náu ; 2, tōa-náu-kha ; 3, sì-thiap-thé-kha sī sió-náu téng-bīn ê kha ; 4, kiô-kha sī sió-náu tiong-ng ê kha ; 5, iân-chhé-kha sī sió-náu ē bīn ê kha ; 6, iân-chhé ; 7, sió-náu ; 8, tiong-náu (náu-kiô). (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -327,11 +327,11 @@ III. Sió-náu sī tī tōa-náu ê āu-bīn ê ē-pō͘, chó-iū ê sió-náu-
 #### 📖 原書第 137 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 96 tô:—Chek-chhé ê hoâiⁿ-tñg-bīn: 1, chêng-chhiòng-lia̍t; 2, chêng-kak; 3, chek-chhé-sîn-keng ê chêng-kun; 4, sîn-keng ê chêng-chi; 5, sîn-keng ê hō͘-chi; 6, sîn-keng-chat; 7, chek-chhé-sîn-keng ê āu-kun; 8, āu-kak; 9, āu-chhiòng-lia̍t. (After Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)](assets/illustrations/page_137_fig_01.png)
+![原書插圖 - 第 137 頁 (圖 1)](assets/illustrations/page_137_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 96 tô:—Chek-chhé ê hoâiⁿ-tñg-bīn: 1, chêng-chhiòng-lia̍t; 2, chêng-kak; 3, chek-chhé-sîn-keng ê chêng-kun; 4, sîn-keng ê chêng-chi; 5, sîn-keng ê hō͘-chi; 6, sîn-keng-chat; 7, chek-chhé-sîn-keng ê āu-kun; 8, āu-kak; 9, āu-chhiòng-lia̍t. (After Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 96 tô:—Chek-chhé ê hoâiⁿ-tñg-bīn: 1, chêng-chhiòng-lia̍t; 2, chêng-kak; 3, chek-chhé-sîn-keng ê chêng-kun; 4, sîn-keng ê chêng-chi; 5, sîn-keng ê hō͘-chi; 6, sîn-keng-chat; 7, chek-chhé-sîn-keng ê āu-kun; 8, āu-kak; 9, āu-chhiòng-lia̍t. (After Warwick and Tunstall's "First Aid," by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -399,11 +399,11 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 #### 📖 原書第 138 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 97 tô.—Chek-chhé-mơ̇h, kap chek-chhé-sîn-keng chhut-jip ê tô : 1, Sîn-keng ê chêng-chi ; 2, sîn-keng ê hơ̄-chi ; 3, kēng-mơ̇h ; 4, ti-tu-mơ̇h ; 5, mẻh-lơ̇k-mơ̇h ; 6, sîn-keng ê āu-kun ; 7, jīm-tài ; 8, sîn-keng ê chêng-kun ; 9, sîn-keng ê āu-kun, kap 10, chêng-kun ; 11, chêng-kun ; 12, jīm-tài ; 13, ti-tu-mơ̇h ; 14, mẻh-lơ̇k-mơ̇h ; 15, sîn-keng ê āu-kun ; 16, āu-kun ê sîn-keng-chat ; 17, sîn-keng ê hơ̄-chi ; 18, chêng-chi ; 19, sîn-keng ê chêng-kun ; 20, chek-chhé. (From Cunningham’s “ Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)](assets/illustrations/page_138_fig_01.png)
+![原書插圖 - 第 138 頁 (圖 1)](assets/illustrations/page_138_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 97 tô.—Chek-chhé-mơ̇h, kap chek-chhé-sîn-keng chhut-jip ê tô : 1, Sîn-keng ê chêng-chi ; 2, sîn-keng ê hơ̄-chi ; 3, kēng-mơ̇h ; 4, ti-tu-mơ̇h ; 5, mẻh-lơ̇k-mơ̇h ; 6, sîn-keng ê āu-kun ; 7, jīm-tài ; 8, sîn-keng ê chêng-kun ; 9, sîn-keng ê āu-kun, kap 10, chêng-kun ; 11, chêng-kun ; 12, jīm-tài ; 13, ti-tu-mơ̇h ; 14, mẻh-lơ̇k-mơ̇h ; 15, sîn-keng ê āu-kun ; 16, āu-kun ê sîn-keng-chat ; 17, sîn-keng ê hơ̄-chi ; 18, chêng-chi ; 19, sîn-keng ê chêng-kun ; 20, chek-chhé. (From Cunningham’s “ Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 97 tô.—Chek-chhé-mơ̇h, kap chek-chhé-sîn-keng chhut-jip ê tô : 1, Sîn-keng ê chêng-chi ; 2, sîn-keng ê hơ̄-chi ; 3, kēng-mơ̇h ; 4, ti-tu-mơ̇h ; 5, mẻh-lơ̇k-mơ̇h ; 6, sîn-keng ê āu-kun ; 7, jīm-tài ; 8, sîn-keng ê chêng-kun ; 9, sîn-keng ê āu-kun, kap 10, chêng-kun ; 11, chêng-kun ; 12, jīm-tài ; 13, ti-tu-mơ̇h ; 14, mẻh-lơ̇k-mơ̇h ; 15, sîn-keng ê āu-kun ; 16, āu-kun ê sîn-keng-chat ; 17, sîn-keng ê hơ̄-chi ; 18, chêng-chi ; 19, sîn-keng ê chêng-kun ; 20, chek-chhé. (From Cunningham’s “ Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
 
 </div>
 
@@ -464,11 +464,11 @@ Tē 97 tô͘.—Chek-chhé-mó̍h, kap chek-chhé-sîn-keng chhut-ji̍p ê tô͘
 #### 📖 原書第 139 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 98 tô:—Náu ê ki-tóe kap náu-sîn-keng : 1, chek-chhé hoâiⁿ-tūg-bīn ; 2, iân-chhé ê chit pō-hūn ; 3, tē 12 tiâu náu-sîn-keng ; 4, tē 6 tiâu ; 5, tōa-náu-kha ; 9, sī-sîn-keng kau-chhe ; 10, hiù-kiû ; 11, hiù-lō ; 12, sī-sîn-keng ; 16, tē saⁿ tiâu ; 17, tē sì tiâu ; 18, tē gō͘ tiâu ; 19, tē chhit tiâu ; 20, tē poeh tiâu ; 21,22, tē káu tiâu ; 23, tē cháp tiâu ; 24, tē cháp-it tiâu ; 25, tē cháp-jī tiâu sîn-keng. (From Cunningham's “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)](assets/illustrations/page_139_fig_01.png)
+![原書插圖 - 第 139 頁 (圖 1)](assets/illustrations/page_139_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 98 tô:—Náu ê ki-tóe kap náu-sîn-keng : 1, chek-chhé hoâiⁿ-tūg-bīn ; 2, iân-chhé ê chit pō-hūn ; 3, tē 12 tiâu náu-sîn-keng ; 4, tē 6 tiâu ; 5, tōa-náu-kha ; 9, sī-sîn-keng kau-chhe ; 10, hiù-kiû ; 11, hiù-lō ; 12, sī-sîn-keng ; 16, tē saⁿ tiâu ; 17, tē sì tiâu ; 18, tē gō͘ tiâu ; 19, tē chhit tiâu ; 20, tē poeh tiâu ; 21,22, tē káu tiâu ; 23, tē cháp tiâu ; 24, tē cháp-it tiâu ; 25, tē cháp-jī tiâu sîn-keng. (From Cunningham's “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 98 tô:—Náu ê ki-tóe kap náu-sîn-keng : 1, chek-chhé hoâiⁿ-tūg-bīn ; 2, iân-chhé ê chit pō-hūn ; 3, tē 12 tiâu náu-sîn-keng ; 4, tē 6 tiâu ; 5, tōa-náu-kha ; 9, sī-sîn-keng kau-chhe ; 10, hiù-kiû ; 11, hiù-lō ; 12, sī-sîn-keng ; 16, tē saⁿ tiâu ; 17, tē sì tiâu ; 18, tē gō͘ tiâu ; 19, tē chhit tiâu ; 20, tē poeh tiâu ; 21,22, tē káu tiâu ; 23, tē cháp tiâu ; 24, tē cháp-it tiâu ; 25, tē cháp-jī tiâu sîn-keng. (From Cunningham's “Anatomy,” Henry Frowde and Hodder and Stoughton, publishers.)</em></p>
 
 </div>
 
@@ -513,11 +513,11 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 #### 📖 原書第 140 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 99 tô.—Kēng-chek-chhé kap sîn-keng ê kun kúi-nā ê tô: A, chiū-sī tùi thâu-chêng kā i khòaⁿ, tī chia sîn-keng ê chêng-kun ū koah tng (chiàⁿ-pêng); B, tùi chiàⁿ-pêng-piⁿ kā i khòaⁿ; C, téng-bīn hoâiⁿ-tng-bīn; D, sîn-keng kun kap sîn-keng-chat tùi ē-bīn kā i khòaⁿ: 1, chêng-chhiòng-lia̍t; 2, āu-chhiòng-lia̍t; 3, chêng-kun teh chhut ê pō͘-ūi; 4, āu-kun teh jip ê pō͘-ūi; 5, chêng-kun; 5′, A, chêng-kun koah-tng; 6, āu-kun, i-ê chhiam-î teh jip 6′, chiū-sī sîn-keng-chat; 7, sîn-keng ê chêng-chi; 7′, sîn-keng ê hō͘-chi. (Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_140_fig_01.png)
+![原書插圖 - 第 140 頁 (圖 1)](assets/illustrations/page_140_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 99 tô.—Kēng-chek-chhé kap sîn-keng ê kun kúi-nā ê tô: A, chiū-sī tùi thâu-chêng kā i khòaⁿ, tī chia sîn-keng ê chêng-kun ū koah tng (chiàⁿ-pêng); B, tùi chiàⁿ-pêng-piⁿ kā i khòaⁿ; C, téng-bīn hoâiⁿ-tng-bīn; D, sîn-keng kun kap sîn-keng-chat tùi ē-bīn kā i khòaⁿ: 1, chêng-chhiòng-lia̍t; 2, āu-chhiòng-lia̍t; 3, chêng-kun teh chhut ê pō͘-ūi; 4, āu-kun teh jip ê pō͘-ūi; 5, chêng-kun; 5′, A, chêng-kun koah-tng; 6, āu-kun, i-ê chhiam-î teh jip 6′, chiū-sī sîn-keng-chat; 7, sîn-keng ê chêng-chi; 7′, sîn-keng ê hō͘-chi. (Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 99 tô.—Kēng-chek-chhé kap sîn-keng ê kun kúi-nā ê tô: A, chiū-sī tùi thâu-chêng kā i khòaⁿ, tī chia sîn-keng ê chêng-kun ū koah tng (chiàⁿ-pêng); B, tùi chiàⁿ-pêng-piⁿ kā i khòaⁿ; C, téng-bīn hoâiⁿ-tng-bīn; D, sîn-keng kun kap sîn-keng-chat tùi ē-bīn kā i khòaⁿ: 1, chêng-chhiòng-lia̍t; 2, āu-chhiòng-lia̍t; 3, chêng-kun teh chhut ê pō͘-ūi; 4, āu-kun teh jip ê pō͘-ūi; 5, chêng-kun; 5′, A, chêng-kun koah-tng; 6, āu-kun, i-ê chhiam-î teh jip 6′, chiū-sī sîn-keng-chat; 7, sîn-keng ê chêng-chi; 7′, sîn-keng ê hō͘-chi. (Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -712,11 +712,11 @@ Chek-chhé kap sîn-keng ê chok-iōng, chi̍t hāng sī teh thoân chhì-kek t�
 #### 📖 原書第 143 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 100 tô:—Ūn-tōng-sîn-keng, ti-kak-sîn-keng, só· tiòh keng-kè ê lō·; khòaⁿ tē 127 bīn. (From Watson’s “ Handbook for Nurses,” The Scientific Press, Ltd., publishers.)](assets/illustrations/page_143_fig_01.png)
+![原書插圖 - 第 143 頁 (圖 1)](assets/illustrations/page_143_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 100 tô:—Ūn-tōng-sîn-keng, ti-kak-sîn-keng, só· tiòh keng-kè ê lō·; khòaⁿ tē 127 bīn. (From Watson’s “ Handbook for Nurses,” The Scientific Press, Ltd., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 100 tô:—Ūn-tōng-sîn-keng, ti-kak-sîn-keng, só· tiòh keng-kè ê lō·; khòaⁿ tē 127 bīn. (From Watson’s “ Handbook for Nurses,” The Scientific Press, Ltd., publishers.)</em></p>
 
 </div>
 

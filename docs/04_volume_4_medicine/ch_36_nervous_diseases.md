@@ -402,11 +402,11 @@ Chit ê pīⁿ ê chèng-chōng chōe koh cha̍p, bē tit thang chiâu kóng-kh�
 #### 📖 原書第 593 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).](assets/illustrations/page_593_fig_01.png)
+![原書插圖 - 第 593 頁 (圖 1)](assets/illustrations/page_593_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 472a tô:—Chhì chhek-kài-kiān hoán-èng ê hoat-tō· (Clinical Methods).</em></p>
 
 </div>
 

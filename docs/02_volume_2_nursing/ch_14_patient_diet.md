@@ -95,11 +95,11 @@ Chhòng si̍t-bu̍t hō͘ pīⁿ-lâng chia̍h ê kui-kú :
 #### 📖 原書第 192 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 128 tô:—Chiàh-mih-pân.](assets/illustrations/page_192_fig_01.png)
+![原書插圖 - 第 192 頁 (圖 1)](assets/illustrations/page_192_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 128 tô:—Chiàh-mih-pân.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 128 tô:—Chiàh-mih-pân.</em></p>
 
 </div>
 
@@ -181,11 +181,11 @@ Tē 128 tô͘:—Chia̍h-mi̍h-pân.
 #### 📖 原書第 193 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)](assets/illustrations/page_193_fig_01.png)
+![原書插圖 - 第 193 頁 (圖 1)](assets/illustrations/page_193_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 129 tô.—Chhī pīⁿ-lâng ê sî chiong thâu-khak hû khah koâiⁿ tām-pòh. (From Cantlie's “British Red Cross Society Nursing Manual,” Cassell and Co., publishers.)</em></p>
 
 </div>
 

@@ -386,11 +386,11 @@ Hit ê leng-thâu ê khang m̄-thang siuⁿ tōa, in-ūi m̄-ài...
 #### 📖 原書第 652 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 488 tô.—Gín-ná ê chhī-leng-khì.](assets/illustrations/page_652_fig_01.png)
+![原書插圖 - 第 652 頁 (圖 1)](assets/illustrations/page_652_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 488 tô.—Gín-ná ê chhī-leng-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 488 tô.—Gín-ná ê chhī-leng-khì.</em></p>
 
 </div>
 
@@ -636,11 +636,11 @@ Iòh m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tiòh siu tī iòh-tû-nih.
 #### 📖 原書第 657 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 489 tô.—Jîn-kong-ho·-khip. Ho·-chhut. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)](assets/illustrations/page_657_fig_01.png)
+![原書插圖 - 第 657 頁 (圖 1)](assets/illustrations/page_657_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 489 tô.—Jîn-kong-ho·-khip. Ho·-chhut. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 489 tô.—Jîn-kong-ho·-khip. Ho·-chhut. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -683,11 +683,11 @@ Tē 489 tô͘.—Jîn-kong-ho͘-khip. Ho͘-chhut. (From Warwick and Tunstall's "
 #### 📖 原書第 658 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![* Tē 503 tô.—Jîn-kong-ho-khip. Khip-jip (Warwick and Tunstall).](assets/illustrations/page_658_fig_01.png)
+![原書插圖 - 第 658 頁 (圖 1)](assets/illustrations/page_658_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>* Tē 503 tô.—Jîn-kong-ho-khip. Khip-jip (Warwick and Tunstall).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>* Tē 503 tô.—Jîn-kong-ho-khip. Khip-jip (Warwick and Tunstall).</em></p>
 
 </div>
 

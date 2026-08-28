@@ -9,11 +9,11 @@
 #### 📖 原書第 46 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 23 tô.—Sûi-ì-kun: A, saⁿ tiâu kun-chiam-î, hián-bî-kiàⁿ khok-tōa ê tô; a, saⁿ tiâu kun-chhiam-î; b, sòe-pau-hu̍t ; c, ték-pia̍t ê kiat-tè-chit ; d, kun-goân-chhiam-î. B, kun-chhiam-î ê tô : a, bô bêng ê chân ; b, bêng chân ; e, kun-chhiam-î ê piah ; f, sòe-pau-hu̍t. C, a, bêng-chân, b, bô bêng ê chân ; c, ōe chhun-kiu ê chit. (Leroy, from Lewis' “ Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co.)](assets/illustrations/page_046_fig_01.png)
+![原書插圖 - 第 46 頁 (圖 1)](assets/illustrations/page_046_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 23 tô.—Sûi-ì-kun: A, saⁿ tiâu kun-chiam-î, hián-bî-kiàⁿ khok-tōa ê tô; a, saⁿ tiâu kun-chhiam-î; b, sòe-pau-hu̍t ; c, ték-pia̍t ê kiat-tè-chit ; d, kun-goân-chhiam-î. B, kun-chhiam-î ê tô : a, bô bêng ê chân ; b, bêng chân ; e, kun-chhiam-î ê piah ; f, sòe-pau-hu̍t. C, a, bêng-chân, b, bô bêng ê chân ; c, ōe chhun-kiu ê chit. (Leroy, from Lewis' “ Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 23 tô.—Sûi-ì-kun: A, saⁿ tiâu kun-chiam-î, hián-bî-kiàⁿ khok-tōa ê tô; a, saⁿ tiâu kun-chhiam-î; b, sòe-pau-hu̍t ; c, ték-pia̍t ê kiat-tè-chit ; d, kun-goân-chhiam-î. B, kun-chhiam-î ê tô : a, bô bêng ê chân ; b, bêng chân ; e, kun-chhiam-î ê piah ; f, sòe-pau-hu̍t. C, a, bêng-chân, b, bô bêng ê chân ; c, ōe chhun-kiu ê chit. (Leroy, from Lewis' “ Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co.)</em></p>
 
 </div>
 
@@ -65,11 +65,11 @@ Tiòh khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 #### 📖 原書第 47 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 24 tô:—Siōng-chì-kut, kap nñg-thâu-phok-kun : a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster’s “Physiology,” Macmillan and Co.)](assets/illustrations/page_047_fig_01.png)
+![原書插圖 - 第 47 頁 (圖 1)](assets/illustrations/page_047_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 24 tô:—Siōng-chì-kut, kap nñg-thâu-phok-kun : a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster’s “Physiology,” Macmillan and Co.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 24 tô:—Siōng-chì-kut, kap nñg-thâu-phok-kun : a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster’s “Physiology,” Macmillan and Co.)</em></p>
 
 </div>
 
@@ -134,11 +134,11 @@ Hit tiong-ng ê bah, kiò-chòe kun pak-tó͘ (筋腹, *belly of muscle*). Chhin
 #### 📖 原書第 48 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 25 tô.—Kun-bah ê kiān chhiòng-tñg-bīn, 270 pē khok-tōa : Tendon-cell, kiān-sòe-pau ; Tendon-fibres, kiān-chhiam-î. (Bohm and Davidoff, from Lewis' “ Anatomy and Physiology for Nurses.”)](assets/illustrations/page_048_fig_01.png)
+![原書插圖 - 第 48 頁 (圖 1)](assets/illustrations/page_048_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 25 tô.—Kun-bah ê kiān chhiòng-tñg-bīn, 270 pē khok-tōa : Tendon-cell, kiān-sòe-pau ; Tendon-fibres, kiān-chhiam-î. (Bohm and Davidoff, from Lewis' “ Anatomy and Physiology for Nurses.”)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 25 tô.—Kun-bah ê kiān chhiòng-tñg-bīn, 270 pē khok-tōa : Tendon-cell, kiān-sòe-pau ; Tendon-fibres, kiān-chhiam-î. (Bohm and Davidoff, from Lewis' “ Anatomy and Physiology for Nurses.”)</em></p>
 
 </div>
 
@@ -200,11 +200,11 @@ Lán só· tiòh kiàⁿ-ê bô pát-hāng, lâng kap lâng kóng-ōe tiòh kón
 #### 📖 原書第 49 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 26 tô:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mo̍h; 4, chhiam-î-lông. (From Gray’s “Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_049_fig_01.png)
+![原書插圖 - 第 49 頁 (圖 1)](assets/illustrations/page_049_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 26 tô:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mo̍h; 4, chhiam-î-lông. (From Gray’s “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 26 tô:—Khó-tōng-koan-chat chhiòng-tñg-bīn ê tô: 1, kut; 2, koan-chat-nńg-kut; 3, kút-e̍k-mo̍h; 4, chhiam-î-lông. (From Gray’s “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -281,11 +281,11 @@ Kut sī koan-chat ê ki-chhó͘ (基礎). Múi ki kut ê thâu beh tàu tī koan
 #### 📖 原書第 50 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 27 tô.—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ : 1, lông-chōng-jīm-tài ; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu ; 3, 5, 10, keng-kah-kut ; 4, 6, jīm-tài, 7, kun-bah kap siōng-phok-kut saⁿ-liân ; 8, nñg-thâu-phok-kun|ê kiān ; 9, siōng-phok-kut (Cunningham).](assets/illustrations/page_050_fig_01.png)
+![原書插圖 - 第 50 頁 (圖 1)](assets/illustrations/page_050_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 27 tô.—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ : 1, lông-chōng-jīm-tài ; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu ; 3, 5, 10, keng-kah-kut ; 4, 6, jīm-tài, 7, kun-bah kap siōng-phok-kut saⁿ-liân ; 8, nñg-thâu-phok-kun|ê kiān ; 9, siōng-phok-kut (Cunningham).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 27 tô.—Keng-kah-koan-chat, tùi thâu-chêng-bīn kā khòaⁿ : 1, lông-chōng-jīm-tài ; 2, tī chit lāi-bīn ū koan-chat khang-tōng, só͘ ōe khòaⁿ-ê sī siōng-phok-kut-thâu ; 3, 5, 10, keng-kah-kut ; 4, 6, jīm-tài, 7, kun-bah kap siōng-phok-kut saⁿ-liân ; 8, nñg-thâu-phok-kun|ê kiān ; 9, siōng-phok-kut (Cunningham).</em></p>
 
 </div>
 
@@ -337,11 +337,11 @@ Ka-kī ê chhiú tiòh sió-sim pó-hō͘, nā chhàk kui khang, tiòh liâm-pi�
 #### 📖 原書第 51 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 28 tô.—Pî-khū-koan-chat: 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê pīⁿ-á hō͘ khū-o khah chhìm ; 11, tng-kut (Cunningham).](assets/illustrations/page_051_fig_01.png)
+![原書插圖 - 第 51 頁 (圖 1)](assets/illustrations/page_051_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 28 tô.—Pî-khū-koan-chat: 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê pīⁿ-á hō͘ khū-o khah chhìm ; 11, tng-kut (Cunningham).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 28 tô.—Pî-khū-koan-chat: 1, tng-kut ê chêng-hā-kek, 2, 4, 6, 8, jīm-tài ; 3, tōa-thúi-kut ; 5, chō-kut ; 7, thí-kut ; 9, tōa-thúi-kut-thâu ; 10, khū-tûn-nńg-kut, chit-ê liân tī khū-o ê pīⁿ-á hō͘ khū-o khah chhìm ; 11, tng-kut (Cunningham).</em></p>
 
 </div>
 
@@ -399,11 +399,11 @@ Jîn-ài sī gâu khoan-iông chû-pi ; jîn-ài sī bô oàn-tò͘ ; jîn-ài b
 #### 📖 原書第 52 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 29 tô.—Chhiú-cháiⁿ-kut ê koan-chat : 1, chhiú-cháiⁿ tē it chat ; 2, tē jī chat ; 3, tē saⁿ chat ; 4, jīm-tài ; 5, chhiú-chiúⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_052_fig_01.png)
+![原書插圖 - 第 52 頁 (圖 1)](assets/illustrations/page_052_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 29 tô.—Chhiú-cháiⁿ-kut ê koan-chat : 1, chhiú-cháiⁿ tē it chat ; 2, tē jī chat ; 3, tē saⁿ chat ; 4, jīm-tài ; 5, chhiú-chiúⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 29 tô.—Chhiú-cháiⁿ-kut ê koan-chat : 1, chhiú-cháiⁿ tē it chat ; 2, tē jī chat ; 3, tē saⁿ chat ; 4, jīm-tài ; 5, chhiú-chiúⁿ-kut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -467,15 +467,15 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chē tō͘.
 #### 📖 原書第 53 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_053_fig_01.png)
+![原書插圖 - 第 53 頁 (圖 1)](assets/illustrations/page_053_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 30 tô.—Khí-chōng-tút-khí kap tē it kēng-chui-kut tiong-kan ê koan-chat: 1, chêng-keng; 2, koan-chat kap kút-ėk-mo·h; 3, khí-chōng-tút-khí; 4, siōng-koan-chat-o; 5, hoâin-jīm-tài; 6, chui-khang beh tóe chek-chhé kap chek-chhé-mo·h; 7, āu-keng; 8, hoâin-tút-khí. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
-![Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)](assets/illustrations/page_053_fig_02.png)
+![原書插圖 - 第 53 頁 (圖 2)](assets/illustrations/page_053_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 31 tô.—Tiú-koan-chat: 1, siōng-phok-kut; 2, kút-ėk-mo·h tiūn tōa thang khòaⁿ i ê tōa-sòe; 3, lûn-chōng-jīm-tài; 4, jiāu-kut; 5, chhioh-kut. (From Gray's “Anatomy,” by permission of Longman's, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -518,11 +518,11 @@ Sī chi̍t ê kut ê thâu tī siāng chit khoán ê sún-thâu-nih teh tńg. T�
 #### 📖 原書第 54 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).](assets/illustrations/page_054_fig_01.png)
+![原書插圖 - 第 54 頁 (圖 1)](assets/illustrations/page_054_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
 
 </div>
 
@@ -577,11 +577,11 @@ Thé-un-khì m̄-thang hō͘ gín-ná ka-kī ēng, á-sī put-séng-jîn-sū ê 
 #### 📖 原書第 55 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 33 tô.—Chiâⁿ-pêⁿ chhek-koan-chat, chêng-āu tit-tit-tǹg ê tô͘ : 1, tōa-thúi-kut ; 2, iû ê cho͘-chit ; 3, sì-thâu-kó͘-kun-kiān ê liâm-e̍k-lông ; 4, chhek-kài-kut ; 5, iû ê cho͘-chit ; 6, nńg-kut ; 7, chhek-kài-jīm-tài ; 8, kēng-kut kap chhek-kài-jīm-tài ê tiong-kan ê liâm-e̍k-lông ; 9, kēng-kut ; 10, nńg-kut ; 11, jīm-tài. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_055_fig_01.png)
+![原書插圖 - 第 55 頁 (圖 1)](assets/illustrations/page_055_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 33 tô.—Chiâⁿ-pêⁿ chhek-koan-chat, chêng-āu tit-tit-tǹg ê tô͘ : 1, tōa-thúi-kut ; 2, iû ê cho͘-chit ; 3, sì-thâu-kó͘-kun-kiān ê liâm-e̍k-lông ; 4, chhek-kài-kut ; 5, iû ê cho͘-chit ; 6, nńg-kut ; 7, chhek-kài-jīm-tài ; 8, kēng-kut kap chhek-kài-jīm-tài ê tiong-kan ê liâm-e̍k-lông ; 9, kēng-kut ; 10, nńg-kut ; 11, jīm-tài. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 33 tô.—Chiâⁿ-pêⁿ chhek-koan-chat, chêng-āu tit-tit-tǹg ê tô͘ : 1, tōa-thúi-kut ; 2, iû ê cho͘-chit ; 3, sì-thâu-kó͘-kun-kiān ê liâm-e̍k-lông ; 4, chhek-kài-kut ; 5, iû ê cho͘-chit ; 6, nńg-kut ; 7, chhek-kài-jīm-tài ; 8, kēng-kut kap chhek-kài-jīm-tài ê tiong-kan ê liâm-e̍k-lông ; 9, kēng-kut ; 10, nńg-kut ; 11, jīm-tài. (From Gray's “ Anatomy,” by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -609,11 +609,11 @@ Mî-sî tio̍h pan ê khàn-hō͘, m̄-thang the tī the-í-nih, kiaⁿ-liáu kh
 #### 📖 原書第 56 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 34 tô:.-Chui-kut-thiāu chit phō·-ūi ê chêng-bīn kap hia̍p-kut-chui-kut-koan-chat : 1, hia̍p-kut ; 2, 4, hia̍p-kut-chui-kut-koan-chat ê jīm-tài ; 3, chêng-chhiòng-jīm-tài (Cunningham).](assets/illustrations/page_056_fig_01.png)
+![原書插圖 - 第 56 頁 (圖 1)](assets/illustrations/page_056_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 34 tô:.-Chui-kut-thiāu chit phō·-ūi ê chêng-bīn kap hia̍p-kut-chui-kut-koan-chat : 1, hia̍p-kut ; 2, 4, hia̍p-kut-chui-kut-koan-chat ê jīm-tài ; 3, chêng-chhiòng-jīm-tài (Cunningham).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 34 tô:.-Chui-kut-thiāu chit phō·-ūi ê chêng-bīn kap hia̍p-kut-chui-kut-koan-chat : 1, hia̍p-kut ; 2, 4, hia̍p-kut-chui-kut-koan-chat ê jīm-tài ; 3, chêng-chhiòng-jīm-tài (Cunningham).</em></p>
 
 </div>
 

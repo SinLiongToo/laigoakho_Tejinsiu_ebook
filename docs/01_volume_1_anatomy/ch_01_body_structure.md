@@ -73,11 +73,11 @@ Lâng nā ū sè-kan ê châi-sìn, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kh
 #### 📖 原書第 18 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 1 tô:—Seng-khu chêng-āu tit-tit-tñg ê tô: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bút-sèng-kńg); c, pak-khang; p', heng-khang; d, hoâin-keh-mó͘h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tñg; l, koan-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_018_fig_01.png)
+![原書插圖 - 第 18 頁 (圖 1)](assets/illustrations/page_018_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 1 tô:—Seng-khu chêng-āu tit-tit-tñg ê tô: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bút-sèng-kńg); c, pak-khang; p', heng-khang; d, hoâin-keh-mó͘h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tñg; l, koan-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 1 tô:—Seng-khu chêng-āu tit-tit-tñg ê tô: VV, chek-chui-kut-thé, pun seng-khu chòe chêng-kńg, āu-kńg; a a', āu-kńg (tōng-bút-sèng-kńg); c, pak-khang; p', heng-khang; d, hoâin-keh-mó͘h; B, náu; Sp. c., chek-chhé; e, chia̍h-tō; S, ūi; T, tñg; l, koan-chōng; p, chūi-chōng; k, sīn-chōng; o, pông-kong; l', hì-chōng; h, sim-chōng; 1, phīⁿ-khang; 2, chhùi; 3, kong-bûn; 4, khì-kńg. (Brubaker, From Aikens' “Primary Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -214,11 +214,11 @@ Seng-khu nā khip-siu chu-ióng-liāu sī tùi i ê sòe-pau, chhin-chhiūⁿ ū
 #### 📖 原書第 20 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son).](assets/illustrations/page_020_fig_01.png)
+![原書插圖 - 第 20 頁 (圖 1)](assets/illustrations/page_020_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 2 tô:—Kúi-nā khoán ê sòe-pau hián-bî-kiàⁿ khok-tōa ê tô : 1, chhùi-lāi-liām-mo̍h-sòe-pau, 260 pē ; A, sòe-pau-hu̍t ; B, sòe-pau-piah, CH, goân-hêng-chit ; 2, kak-mo̍h-sòe-pau, T, sī khah óa thâu-chêng, CHH, sī khah chhīm ê sòe-pau ; 3, phīⁿ-liām-mo̍h-sòe-pau, 500-pē ; M, sòe-pau ê chin sòe kî mng ; 4, kut-sòe-pau, 1000 pē ; 5, tn̂g-liām-mo̍h-sòe-pau, 300 pē ; 6, sim-kun-bah-sòe-pau, 425 pē ; 7, bī-khì-sòe-pau, 600 pē (Schafer, and Blackie and Son).</em></p>
 
 </div>
 

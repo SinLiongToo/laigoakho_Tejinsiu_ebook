@@ -682,11 +682,11 @@ Hia̍p-sim chèng: Chit hō hia̍p-sim chèng (狹心症) sī sim thiàⁿ ê ch
 #### 📖 原書第 556 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 465a tô:—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).](assets/illustrations/page_556_fig_01.png)
+![原書插圖 - 第 556 頁 (圖 1)](assets/illustrations/page_556_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 465a tô:—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 465a tô:—Chhek-kok-tōng-me̍h ê tōng-me̍h-liû (Rose and Carless).</em></p>
 
 </div>
 
@@ -732,15 +732,15 @@ Goán óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3 : 4).
 #### 📖 原書第 557 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)](assets/illustrations/page_557_fig_01.png)
+![原書插圖 - 第 557 頁 (圖 1)](assets/illustrations/page_557_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 465b tô.—Tōng-mėh-liû: Ēng sòaⁿ (2) pák tōng-mėh. Ē-bīn-ê sī huih só· tióh kiâⁿ ê sin lō·. (From Russell Howard's Surgery, Edward Arnold, publisher.)</em></p>
 
-![Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless).](assets/illustrations/page_557_fig_02.png)
+![原書插圖 - 第 557 頁 (圖 2)](assets/illustrations/page_557_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466 tô.—Huih-chhoan kap chhoan-that: A, huih-chhoan tī chēng-mėh-lāi; B, chhoan-that lak-khí-lāi jip huih-sûn-khoân (Rose and Carless).</em></p>
 
 </div>
 
@@ -836,11 +836,11 @@ Péh-chhàt-ōe góa oàn-hūn koh iàm-òⁿ, chóng-sī thiàⁿ Lí ê lu̍t-
 #### 📖 原書第 559 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 466a tô.—Kha ê chēng-me̍h-lō-tiong (Rose and Carless).](assets/illustrations/page_559_fig_01.png)
+![原書插圖 - 第 559 頁 (圖 1)](assets/illustrations/page_559_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 466a tô.—Kha ê chēng-me̍h-lō-tiong (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466a tô.—Kha ê chēng-me̍h-lō-tiong (Rose and Carless).</em></p>
 
 </div>
 

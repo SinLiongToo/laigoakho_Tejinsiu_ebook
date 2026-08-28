@@ -403,11 +403,11 @@ Ko-lô-hong sú-iōng ê sî, kip-piàn-sū (急變事, *emergency*) ê tī-liâ
 #### 📖 原書第 405 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 255 tô.—Hā-gók-gû sak chìn-chêng (Stoney).](assets/illustrations/page_405_fig_01.png)
+![原書插圖 - 第 405 頁 (圖 1)](assets/illustrations/page_405_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 255 tô.—Hā-gók-gû sak chìn-chêng (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 255 tô.—Hā-gók-gû sak chìn-chêng (Stoney).</em></p>
 
 </div>
 
@@ -476,11 +476,11 @@ Tio̍h ū-pī chhiú-su̍t-sek kap chhiú-su̍t-tâi ê hoat, sī chiàu ē-bīn
 #### 📖 原書第 406 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 256 tô:—Chhiú-sùt-tâi.](assets/illustrations/page_406_fig_01.png)
+![原書插圖 - 第 406 頁 (圖 1)](assets/illustrations/page_406_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 256 tô:—Chhiú-sùt-tâi.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 256 tô:—Chhiú-sùt-tâi.</em></p>
 
 </div>
 
@@ -523,23 +523,23 @@ Chhiú-sùt-tâi tiòh ū 6 chhioh tn̂g, 2 chhioh khoah, 3 chhioh koâiⁿ. Ū-
 #### 📖 原書第 407 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 257 tô.—Bâ-chùi-io̍h chong-tì.](assets/illustrations/page_407_fig_01.png)
+![原書插圖 - 第 407 頁 (圖 1)](assets/illustrations/page_407_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 257 tô.—Bâ-chùi-io̍h chong-tì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 257 tô.—Bâ-chùi-io̍h chong-tì.</em></p>
 
-![Tē 258 tô.—Chih-khíⁿ.](assets/illustrations/page_407_fig_02.png)
+![原書插圖 - 第 407 頁 (圖 2)](assets/illustrations/page_407_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 258 tô.—Chih-khíⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 258 tô.—Chih-khíⁿ.</em></p>
 
-![Tē 259 tô.—Hái-jiông-khíⁿ.](assets/illustrations/page_407_fig_03.png)
+![原書插圖 - 第 407 頁 (圖 3)](assets/illustrations/page_407_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 259 tô.—Hái-jiông-khíⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 259 tô.—Hái-jiông-khíⁿ.</em></p>
 
-![Tē 260 tô.—Khui-chhùi-khì.](assets/illustrations/page_407_fig_04.png)
+![原書插圖 - 第 407 頁 (圖 4)](assets/illustrations/page_407_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 260 tô.—Khui-chhùi-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 260 tô.—Khui-chhùi-khì.</em></p>
 
 </div>
 
@@ -588,11 +588,11 @@ Chhiú-sùt-tâi tiòh ū 6 chhioh tn̂g, 2 chhioh khoah, 3 chhioh koâiⁿ. Ū-
 #### 📖 原書第 408 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 261 tô.—Hûi-chè siau-tòk-pôaⁿ, tóe ke-sì ê lō·-ēng.](assets/illustrations/page_408_fig_01.png)
+![原書插圖 - 第 408 頁 (圖 1)](assets/illustrations/page_408_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 261 tô.—Hûi-chè siau-tòk-pôaⁿ, tóe ke-sì ê lō·-ēng.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 261 tô.—Hûi-chè siau-tòk-pôaⁿ, tóe ke-sì ê lō·-ēng.</em></p>
 
 </div>
 
@@ -813,11 +813,11 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 #### 📖 原書第 411 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 262 tô:—Kòa lāu-pôan chú-kún-siau-tók-khì.](assets/illustrations/page_411_fig_01.png)
+![原書插圖 - 第 411 頁 (圖 1)](assets/illustrations/page_411_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 262 tô:—Kòa lāu-pôan chú-kún-siau-tók-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 262 tô:—Kòa lāu-pôan chú-kún-siau-tók-khì.</em></p>
 
 </div>
 
@@ -948,15 +948,15 @@ Tàk hāng sū ti̍h chīn-tiong.
 #### 📖 原書第 413 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì.](assets/illustrations/page_413_fig_01.png)
+![原書插圖 - 第 413 頁 (圖 1)](assets/illustrations/page_413_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 263 tô.—Koâin-ap-lék-cheng-khì-siau-tók-khì.</em></p>
 
-![Tē 264 tô.—Siau-tók-phín-thú-chô.](assets/illustrations/page_413_fig_02.png)
+![原書插圖 - 第 413 頁 (圖 2)](assets/illustrations/page_413_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 264 tô.—Siau-tók-phín-thú-chô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 264 tô.—Siau-tók-phín-thú-chô.</em></p>
 
 </div>
 
@@ -1437,11 +1437,11 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, ti̍oh khó-khìng i chia̍h.
 #### 📖 原書第 421 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 265 tô.—Chhiú-sùt liáu ê bîn-chhng lóng ū-pī (Sanders).](assets/illustrations/page_421_fig_01.png)
+![原書插圖 - 第 421 頁 (圖 1)](assets/illustrations/page_421_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 265 tô.—Chhiú-sùt liáu ê bîn-chhng lóng ū-pī (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 265 tô.—Chhiú-sùt liáu ê bîn-chhng lóng ū-pī (Sanders).</em></p>
 
 </div>
 
@@ -1489,11 +1489,11 @@ Nā chhiú-sùt liáu-āu pīⁿ-lâng lóng m̄-chai-lâng, chiàu i-seng ê b�
 #### 📖 原書第 422 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 266 tô.—Chhiú-sùt liáu ê bîn-chhn̂g-kha khè koâiⁿ (Sanders).](assets/illustrations/page_422_fig_01.png)
+![原書插圖 - 第 422 頁 (圖 1)](assets/illustrations/page_422_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 266 tô.—Chhiú-sùt liáu ê bîn-chhn̂g-kha khè koâiⁿ (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 266 tô.—Chhiú-sùt liáu ê bîn-chhn̂g-kha khè koâiⁿ (Sanders).</em></p>
 
 </div>
 
@@ -1646,11 +1646,11 @@ Nā ēng chi̍t-ê chím-thâu ké hit kha-oat-oan, hō͘ tōa-thúi ōe kiu-kh�
 #### 📖 原書第 424 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 267 tô.—Lī-phē-kè (Stoney).](assets/illustrations/page_424_fig_01.png)
+![原書插圖 - 第 424 頁 (圖 1)](assets/illustrations/page_424_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 267 tô.—Lī-phē-kè (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 267 tô.—Lī-phē-kè (Stoney).</em></p>
 
 </div>
 
@@ -1799,19 +1799,19 @@ Chhiú-sút liáu, thâu chi̍t pái ōaⁿ pau-siong-liāu, ti̍h chiàu kì t�
 #### 📖 原書第 426 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette).](assets/illustrations/page_426_fig_01.png)
+![原書插圖 - 第 426 頁 (圖 1)](assets/illustrations/page_426_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 268 tô.—Pōⁿ-kiat-hông-háp (Bernard and Huette).</em></p>
 
-![Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)](assets/illustrations/page_426_fig_02.png)
+![原書插圖 - 第 426 頁 (圖 2)](assets/illustrations/page_426_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 269 tô.—Sio̍k-hông-háp (Bernard and Huette.)</em></p>
 
-![Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant).](assets/illustrations/page_426_fig_03.png)
+![原書插圖 - 第 426 頁 (圖 3)](assets/illustrations/page_426_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 270 tô.—Iân-phîⁿ-hông-háp (Bryant).</em></p>
 
 </div>
 
@@ -1898,23 +1898,23 @@ Tio̍h ū-pī ê ke-si: N̄g ki gōa-kho-to, to-chhùi tio̍h n̄g chhùn tn̂g,
 #### 📖 原書第 427 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 271 tô:.-Gōa-kho-to.](assets/illustrations/page_427_fig_01.png)
+![原書插圖 - 第 427 頁 (圖 1)](assets/illustrations/page_427_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 271 tô:.-Gōa-kho-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 271 tô:.-Gōa-kho-to.</em></p>
 
-![Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ.](assets/illustrations/page_427_fig_02.png)
+![原書插圖 - 第 427 頁 (圖 2)](assets/illustrations/page_427_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 272 tô:.-Kocher-sī tông-mėh-khîⁿ.</em></p>
 
-![Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ.](assets/illustrations/page_427_fig_03.png)
+![原書插圖 - 第 427 頁 (圖 3)](assets/illustrations/page_427_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 273 tô:.-Spencer Wells-sī tông-mėh-khîⁿ.</em></p>
 
-![Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.](assets/illustrations/page_427_fig_04.png)
+![原書插圖 - 第 427 頁 (圖 4)](assets/illustrations/page_427_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 274 tô:.-Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.</em></p>
 
 </div>
 
@@ -1962,23 +1962,23 @@ Tē 274 tô͘:—Píⁿ-pîⁿ-khui-siong-tōa-tun-kau.
 #### 📖 原書第 428 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 275 tô.—Hoán-chián-to.](assets/illustrations/page_428_fig_01.png)
+![原書插圖 - 第 428 頁 (圖 1)](assets/illustrations/page_428_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 275 tô.—Hoán-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 275 tô.—Hoán-chián-to.</em></p>
 
-![Tē 276 tô:—Chiam-chián-to.](assets/illustrations/page_428_fig_02.png)
+![原書插圖 - 第 428 頁 (圖 2)](assets/illustrations/page_428_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 276 tô:—Chiam-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 276 tô:—Chiam-chián-to.</em></p>
 
-![Tē 277 tô:—Tit-chián-to.](assets/illustrations/page_428_fig_03.png)
+![原書插圖 - 第 428 頁 (圖 3)](assets/illustrations/page_428_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 277 tô:—Tit-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 277 tô:—Tit-chián-to.</em></p>
 
-![Tē 278 tô:—Gōa-kho-ngoeh-á.](assets/illustrations/page_428_fig_04.png)
+![原書插圖 - 第 428 頁 (圖 4)](assets/illustrations/page_428_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 278 tô:—Gōa-kho-ngoeh-á.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 278 tô:—Gōa-kho-ngoeh-á.</em></p>
 
 </div>
 
@@ -2020,15 +2020,15 @@ Tē 278 tô͘.—Gōa-kho-ngoeh-á.
 #### 📖 原書第 429 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 279 tô.--Kiông-oan-hông-háp-chiam.](assets/illustrations/page_429_fig_01.png)
+![原書插圖 - 第 429 頁 (圖 1)](assets/illustrations/page_429_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 279 tô.--Kiông-oan-hông-háp-chiam.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 279 tô.--Kiông-oan-hông-háp-chiam.</em></p>
 
-![Tē 280 tô:--Bīn-kun-khìⁿ.](assets/illustrations/page_429_fig_02.png)
+![原書插圖 - 第 429 頁 (圖 2)](assets/illustrations/page_429_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 280 tô:--Bīn-kun-khìⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 280 tô:--Bīn-kun-khìⁿ.</em></p>
 
 </div>
 
@@ -2143,11 +2143,11 @@ Nā-sī tñg-kńg-kó͘-tiòng (腸管鼓脹, khì-tiòng, *tympanites*) ê pī�
 #### 📖 原書第 431 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![281 281a Tē 281 tô:—Chú-kiong-thàm-khì tit-tit-ê. Tē 281a tô:—Chú-kiong-thàm-khì oan-ê.](assets/illustrations/page_431_fig_01.png)
+![原書插圖 - 第 431 頁 (圖 1)](assets/illustrations/page_431_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>281 281a Tē 281 tô:—Chú-kiong-thàm-khì tit-tit-ê. Tē 281a tô:—Chú-kiong-thàm-khì oan-ê.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>281 281a Tē 281 tô:—Chú-kiong-thàm-khì tit-tit-ê. Tē 281a tô:—Chú-kiong-thàm-khì oan-ê.</em></p>
 
 </div>
 
@@ -2239,15 +2239,15 @@ Ke-si: Khui-pak-su̍t-ê, í-kip
 #### 📖 原書第 432 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless).](assets/illustrations/page_432_fig_01.png)
+![原書插圖 - 第 432 頁 (圖 1)](assets/illustrations/page_432_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 282 tô.—Ūi-tng-bún-hàp tī ūi ê chêng-bīn chòe-ê. Tī hiu-būn ū gâm-chèng. A, hoâiⁿ-hêng-kiat-tng; B, khang-tng kap ūi bún-hàp ê só·-chāi (Rose and Carless).</em></p>
 
-![Tē 282a tô.—Doyen-sī ūi-khîⁿ.](assets/illustrations/page_432_fig_02.png)
+![原書插圖 - 第 432 頁 (圖 2)](assets/illustrations/page_432_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 282a tô.—Doyen-sī ūi-khîⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 282a tô.—Doyen-sī ūi-khîⁿ.</em></p>
 
 </div>
 
@@ -2473,11 +2473,11 @@ Mî-sî ti̍oh pan ê khàn-hō͘, m̄-thang the̍h tī the̍-í-nih, kiaⁿ-li�
 #### 📖 原書第 435 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 283 tô.—Thoat-tiông-tòa.](assets/illustrations/page_435_fig_01.png)
+![原書插圖 - 第 435 頁 (圖 1)](assets/illustrations/page_435_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 283 tô.—Thoat-tiông-tòa.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 283 tô.—Thoat-tiông-tòa.</em></p>
 
 </div>
 
@@ -2552,19 +2552,19 @@ Ke-si: Khui-pak-su̍t-ê, í-kip chiah-ê: n̄g ki toaⁿ-kau-khíⁿ; chi̍t ki
 #### 📖 原書第 436 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 284 tô:--Kong-sėk-sî.](assets/illustrations/page_436_fig_01.png)
+![原書插圖 - 第 436 頁 (圖 1)](assets/illustrations/page_436_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 284 tô:--Kong-sėk-sî.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 284 tô:--Kong-sėk-sî.</em></p>
 
-![Tē 285 tô:--Toan-kau-khîn.](assets/illustrations/page_436_fig_02.png)
+![原書插圖 - 第 436 頁 (圖 2)](assets/illustrations/page_436_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 285 tô:--Toan-kau-khîn.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 285 tô:--Toan-kau-khîn.</em></p>
 
-![Tē 286 tô:--Siang tun-kau.](assets/illustrations/page_436_fig_03.png)
+![原書插圖 - 第 436 頁 (圖 3)](assets/illustrations/page_436_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 286 tô:--Siang tun-kau.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 286 tô:--Siang tun-kau.</em></p>
 
 </div>
 
@@ -2741,17 +2741,17 @@ Beh ōaⁿ pau-siong-liāu ê sî, iàu-kín hit ê io̍h-sng tiòh ji̍p kàu s
 #### 📖 原書第 439 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 287 tô. Chhiat-tñg- to.](assets/illustrations/page_439_fig_01.png)
+![原書插圖 - 第 439 頁 (圖 1)](assets/illustrations/page_439_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 287 tô.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 287 tô.
 Chhiat-tñg-
 to.</em></p>
 
-![Tē 288 tô.—Chhiat- tñg-kù.](assets/illustrations/page_439_fig_02.png)
+![原書插圖 - 第 439 頁 (圖 2)](assets/illustrations/page_439_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 288 tô.—Chhiat-
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 288 tô.—Chhiat-
 tñg-kù.</em></p>
 
 </div>
@@ -2807,15 +2807,15 @@ Tióh ū kong-ek sim.（著有公益心。）
 #### 📖 原書第 440 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 289 tô.—Liān-kù.](assets/illustrations/page_440_fig_01.png)
+![原書插圖 - 第 440 頁 (圖 1)](assets/illustrations/page_440_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 289 tô.—Liān-kù.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 289 tô.—Liān-kù.</em></p>
 
-![Tē 290 tô.— Chhì-kù.](assets/illustrations/page_440_fig_02.png)
+![原書插圖 - 第 440 頁 (圖 2)](assets/illustrations/page_440_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 290 tô.— Chhì-kù.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 290 tô.— Chhì-kù.</em></p>
 
 </div>
 
@@ -2881,27 +2881,27 @@ Chhoan-lû-su̍t（穿顱術, *Trephine*）: Náu-lāi nā ū sìⁿ chéng-iôn
 #### 📖 原書第 441 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 291 tô:—Lāi-sî.](assets/illustrations/page_441_fig_01.png)
+![原書插圖 - 第 441 頁 (圖 1)](assets/illustrations/page_441_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 291 tô:—Lāi-sî.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 291 tô:—Lāi-sî.</em></p>
 
-![Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator).](assets/illustrations/page_441_fig_02.png)
+![原書插圖 - 第 441 頁 (圖 2)](assets/illustrations/page_441_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 292 tô:—Kut-mo̍h-pak-lī-khì (Langenbeck's Elevator).</em></p>
 
-![Tē 293 tô:—Chhoan-lû-îⁿ-kù.](assets/illustrations/page_441_fig_03.png)
+![原書插圖 - 第 441 頁 (圖 3)](assets/illustrations/page_441_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 293 tô:—Chhoan-lû-îⁿ-kù.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 293 tô:—Chhoan-lû-îⁿ-kù.</em></p>
 
-![Tē 294 tô:—Ko·-chōng-chhàk.](assets/illustrations/page_441_fig_04.png)
+![原書插圖 - 第 441 頁 (圖 4)](assets/illustrations/page_441_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 294 tô:—Ko·-chōng-chhàk.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 294 tô:—Ko·-chōng-chhàk.</em></p>
 
-![Tē 295 tô:—Pán-chōng-chhàk.](assets/illustrations/page_441_fig_05.png)
+![原書插圖 - 第 441 頁 (圖 5)](assets/illustrations/page_441_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 295 tô:—Pán-chōng-chhàk.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 295 tô:—Pán-chōng-chhàk.</em></p>
 
 </div>
 
@@ -3003,15 +3003,15 @@ Chit hō chhùi-lāi ê chhiú-su̍t liáu-āu, tiòh hō͘ chia̍h liû-tōng-s
 #### 📖 原書第 443 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 296 tô.—Kut-khîⁿ.](assets/illustrations/page_443_fig_01.png)
+![原書插圖 - 第 443 頁 (圖 1)](assets/illustrations/page_443_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 296 tô.—Kut-khîⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 296 tô.—Kut-khîⁿ.</em></p>
 
-![Tē 297 tô.—Kut-chián-to.](assets/illustrations/page_443_fig_02.png)
+![原書插圖 - 第 443 頁 (圖 2)](assets/illustrations/page_443_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 297 tô.—Kut-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 297 tô.—Kut-chián-to.</em></p>
 
 </div>
 
@@ -3144,11 +3144,11 @@ Nā ū sím-mih siong-chhùi chhin-chhiūⁿ chhiú-su̍t lâng-iông liáu-āu,
 #### 📖 原書第 445 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 298 tô:—Hók-súi-thò-kńg-chiam.](assets/illustrations/page_445_fig_01.png)
+![原書插圖 - 第 445 頁 (圖 1)](assets/illustrations/page_445_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 298 tô:—Hók-súi-thò-kńg-chiam.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 298 tô:—Hók-súi-thò-kńg-chiam.</em></p>
 
 </div>
 
@@ -3223,11 +3223,11 @@ Tē 298 tô͘:—Ho̍k-súi-thò-kńg-chiam.
 #### 📖 原書第 446 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 299 tô.—Nñg ki chiam lóng piān beh phê-ē-iâm-chúi-chù-jip-hoat (Morrow).](assets/illustrations/page_446_fig_01.png)
+![原書插圖 - 第 446 頁 (圖 1)](assets/illustrations/page_446_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 299 tô.—Nñg ki chiam lóng piān beh phê-ē-iâm-chúi-chù-jip-hoat (Morrow).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 299 tô.—Nñg ki chiam lóng piān beh phê-ē-iâm-chúi-chù-jip-hoat (Morrow).</em></p>
 
 </div>
 
@@ -3305,11 +3305,11 @@ Chit-ê chiū-sī ēng sio-siau-to̍k-chúi, á-sī sio-iâm-chúi, chù-jip ph�
 #### 📖 原書第 447 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 300 tô.—Iâm-chúi-chù-jip-hoat ê phê-ē pō-ūi : 1, leng-pông-ē ; 2, tē 12 ki hiap-kut kap tng-kut ê tiong-ng ; 3, koh-ē-khang ; 4, tōa-thúi ê lāi-bīn pêng (Morrow).](assets/illustrations/page_447_fig_01.png)
+![原書插圖 - 第 447 頁 (圖 1)](assets/illustrations/page_447_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 300 tô.—Iâm-chúi-chù-jip-hoat ê phê-ē pō-ūi : 1, leng-pông-ē ; 2, tē 12 ki hiap-kut kap tng-kut ê tiong-ng ; 3, koh-ē-khang ; 4, tōa-thúi ê lāi-bīn pêng (Morrow).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 300 tô.—Iâm-chúi-chù-jip-hoat ê phê-ē pō-ūi : 1, leng-pông-ē ; 2, tē 12 ki hiap-kut kap tng-kut ê tiong-ng ; 3, koh-ē-khang ; 4, tōa-thúi ê lāi-bīn pêng (Morrow).</em></p>
 
 </div>
 
@@ -3380,15 +3380,15 @@ Hō͘ iâm-chúi siā-ji̍p ê pō͘-ūi, khah-siông sī tùi heng-khám-piⁿ,
 #### 📖 原書第 448 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders).](assets/illustrations/page_448_fig_01.png)
+![原書插圖 - 第 448 頁 (圖 1)](assets/illustrations/page_448_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 301 tô:—Iâm-chúi chù-jip tī phê-ē (Sanders).</em></p>
 
-![(J.O) Tē 302 tô:—Iâm-chúi-chù-jip-khì.](assets/illustrations/page_448_fig_02.png)
+![原書插圖 - 第 448 頁 (圖 2)](assets/illustrations/page_448_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>(J.O)
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>(J.O)
 Tē 302 tô:—Iâm-chúi-chù-jip-khì.</em></p>
 
 </div>
@@ -3441,11 +3441,11 @@ Kó͘-chá ê sî chit ê hoat, chiū-sī ēng ióng-kiāⁿ bô pīⁿ ê lâng
 #### 📖 原書第 449 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 303 tô.-Chēng-mėh-lāi-chù-jip-hoat. Téng-bīn ū chit kī hó ēng ê chēng-mėh-tun-chiam; ē-bīn, chēng-mėh hông-háp-sòaⁿ pák ê hoat-tō (Rose and Carless).](assets/illustrations/page_449_fig_01.png)
+![原書插圖 - 第 449 頁 (圖 1)](assets/illustrations/page_449_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 303 tô.-Chēng-mėh-lāi-chù-jip-hoat. Téng-bīn ū chit kī hó ēng ê chēng-mėh-tun-chiam; ē-bīn, chēng-mėh hông-háp-sòaⁿ pák ê hoat-tō (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 303 tô.-Chēng-mėh-lāi-chù-jip-hoat. Téng-bīn ū chit kī hó ēng ê chēng-mėh-tun-chiam; ē-bīn, chēng-mėh hông-háp-sòaⁿ pák ê hoat-tō (Rose and Carless).</em></p>
 
 </div>
 

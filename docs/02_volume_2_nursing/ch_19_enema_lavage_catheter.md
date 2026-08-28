@@ -126,11 +126,11 @@ Sin-thé ióng-kiāⁿ, khah-iānⁿ chōe-chōe chíⁿ.
 #### 📖 原書第 250 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 157 tô:—Higginson-sī koàn-tng-khì.](assets/illustrations/page_250_fig_01.png)
+![原書插圖 - 第 250 頁 (圖 1)](assets/illustrations/page_250_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 157 tô:—Higginson-sī koàn-tng-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 157 tô:—Higginson-sī koàn-tng-khì.</em></p>
 
 </div>
 
@@ -249,15 +249,15 @@ I-seng sûn keng ê sî, khàn-hō͘ ti̍oh tè i, m̄-thang thèng-hāu i-seng 
 #### 📖 原書第 252 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.](assets/illustrations/page_252_fig_01.png)
+![原書插圖 - 第 252 頁 (圖 1)](assets/illustrations/page_252_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 158 tô.—A-phiàn koàn-tng-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.</em></p>
 
-![Tē 159 tô.—Glycerinum koàn-tng-khì.](assets/illustrations/page_252_fig_02.png)
+![原書插圖 - 第 252 頁 (圖 2)](assets/illustrations/page_252_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 159 tô.—Glycerinum koàn-tng-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 159 tô.—Glycerinum koàn-tng-khì.</em></p>
 
 </div>
 
@@ -331,11 +331,11 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 #### 📖 原書第 254 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 160 tô.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).](assets/illustrations/page_254_fig_01.png)
+![原書插圖 - 第 254 頁 (圖 1)](assets/illustrations/page_254_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 160 tô.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 160 tô.—Im-tō-koàn-khài-hoat ê khì-kū (Stoney).</em></p>
 
 </div>
 
@@ -731,11 +731,11 @@ Chi̍t tè pôaⁿ tóe *lotio hydrarg. perchlor.* 1-4,000, beh chòe sóe chhi�
 #### 📖 原書第 260 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 161 tô (Stoney).](assets/illustrations/page_260_fig_01.png)
+![原書插圖 - 第 260 頁 (圖 1)](assets/illustrations/page_260_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 161 tô (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 161 tô (Stoney).</em></p>
 
 </div>
 
@@ -862,11 +862,11 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 #### 📖 原書第 262 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 162 tô.](assets/illustrations/page_262_fig_01.png)
+![原書插圖 - 第 262 頁 (圖 1)](assets/illustrations/page_262_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 162 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 162 tô.</em></p>
 
 </div>
 
@@ -934,11 +934,11 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 #### 📖 原書第 263 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 163 tô:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kńg.](assets/illustrations/page_263_fig_01.png)
+![原書插圖 - 第 263 頁 (圖 1)](assets/illustrations/page_263_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 163 tô:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kńg.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 163 tô:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kńg.</em></p>
 
 </div>
 
@@ -1116,19 +1116,19 @@ Ióh-chúi tiám-ji̍p-hī-khang-lāi ê hoat: 1. Só͘ beh ēng ê ióh, tióh 
 #### 📖 原書第 265 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām.](assets/illustrations/page_265_fig_01.png)
+![原書插圖 - 第 265 頁 (圖 1)](assets/illustrations/page_265_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>164 Tē 164 tô:--Sòe-ūi ê hoat-tō͘, tē it chām.</em></p>
 
-![165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih.](assets/illustrations/page_265_fig_02.png)
+![原書插圖 - 第 265 頁 (圖 2)](assets/illustrations/page_265_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>165 Tē 165 tô:--Tē jī chām. Chhùn-leng-kńg í-keng tī ūi-lāi; sòe-ūi ê ioh-chúi teh phùn jīp tī lâu-tâu-nih.</em></p>
 
-![166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon).](assets/illustrations/page_265_fig_03.png)
+![原書插圖 - 第 265 頁 (圖 3)](assets/illustrations/page_265_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>166 Tē 166 tô:--Tē saⁿ chām. Chiong ūi-nih kiaⁿ-lâng ê mi̍h sòe-chhut-lâi (Crandon).</em></p>
 
 </div>
 
@@ -1165,11 +1165,11 @@ Tē 166 tô͘:—Tē saⁿ chām. Chiong ūi-nih kàⁿ-lâng ê mi̍h sóe-chhu
 #### 📖 原書第 266 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 167 tô:—Hī-khang-koàn-khài-sùt (Sanders).](assets/illustrations/page_266_fig_01.png)
+![原書插圖 - 第 266 頁 (圖 1)](assets/illustrations/page_266_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 167 tô:—Hī-khang-koàn-khài-sùt (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 167 tô:—Hī-khang-koàn-khài-sùt (Sanders).</em></p>
 
 </div>
 
@@ -1235,15 +1235,15 @@ Hī-khang-koàn-khài-hoat (tē 167 tô͘) : 1. Hō͘ pīⁿ-lâng chē í, ū p
 #### 📖 原書第 267 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 168 tô:.-Tiám-gán-khì.](assets/illustrations/page_267_fig_01.png)
+![原書插圖 - 第 267 頁 (圖 1)](assets/illustrations/page_267_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 168 tô:.-Tiám-gán-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 168 tô:.-Tiám-gán-khì.</em></p>
 
-![Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi.](assets/illustrations/page_267_fig_02.png)
+![原書插圖 - 第 267 頁 (圖 2)](assets/illustrations/page_267_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 169 tô:.- Tiám-gán-khì jip tī kan-lāi.</em></p>
 
 </div>
 
@@ -1312,11 +1312,11 @@ Tē 169 tô͘:—Tiám-gán-khì ji̍p tī kan-lāi.
 #### 📖 原書第 268 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![170 Tē 170 tô.—Sóe-gán-pân.](assets/illustrations/page_268_fig_01.png)
+![原書插圖 - 第 268 頁 (圖 1)](assets/illustrations/page_268_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>170
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>170
 Tē 170 tô.—Sóe-gán-pân.</em></p>
 
 </div>
@@ -1448,15 +1448,15 @@ Sóe pīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘;
 #### 📖 原書第 270 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)](assets/illustrations/page_270_fig_01.png)
+![原書插圖 - 第 270 頁 (圖 1)](assets/illustrations/page_270_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 171 tô.—Péng-gán-kiám-hoat. (From Manhattan Eye, Ear, Nose and Throat, Nursing Book.)</em></p>
 
-![Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle).](assets/illustrations/page_270_fig_02.png)
+![原書插圖 - 第 270 頁 (圖 2)](assets/illustrations/page_270_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 172 tô.—Bȧk-chiu-nih eng-tiỏh soa (Pyle).</em></p>
 
 </div>
 
@@ -1514,11 +1514,11 @@ Phīⁿ-khang-koàn-khài-hoat (*Nasal douche*): Sò͘ ēng ê koàn-khài-koàn
 #### 📖 原書第 271 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 173 tô:—Phīⁿ-khang-koàn-khài-sùt (Sanders).](assets/illustrations/page_271_fig_01.png)
+![原書插圖 - 第 271 頁 (圖 1)](assets/illustrations/page_271_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 173 tô:—Phīⁿ-khang-koàn-khài-sùt (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 173 tô:—Phīⁿ-khang-koàn-khài-sùt (Sanders).</em></p>
 
 </div>
 

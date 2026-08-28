@@ -64,9 +64,9 @@ Sin lâi jip īⁿ ê pīⁿ-lâng tio̍h khòaⁿ i ōe tit tiàm e̍k-keng só
 #### 📖 原書第 208 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![](assets/illustrations/page_208_fig_01.png)
+![原書插圖 - 第 208 頁 (圖 1)](assets/illustrations/page_208_fig_01.png)
 
 </div>
 
@@ -196,11 +196,11 @@ Io̍h m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tio̍h siu tī io̍h-tû-ni
 #### 📖 原書第 210 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 134 tô:—Chit niá iû-pò͘ chòe ê chô, chòe sóe-ék ê lō͘-ēng (Sanders).](assets/illustrations/page_210_fig_01.png)
+![原書插圖 - 第 210 頁 (圖 1)](assets/illustrations/page_210_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 134 tô:—Chit niá iû-pò͘ chòe ê chô, chòe sóe-ék ê lō͘-ēng (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 134 tô:—Chit niá iû-pò͘ chòe ê chô, chòe sóe-ék ê lō͘-ēng (Sanders).</em></p>
 
 </div>
 
@@ -244,11 +244,11 @@ Nā sóe liáu beh chiong chúi piàⁿ-chhut, chiong iû-pò͘ óa kha hit pên
 #### 📖 原書第 211 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 135 tô.—Hoe-phùn sóe-ėk-hoat. (Kellog, from Aikens' “ Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_211_fig_01.png)
+![原書插圖 - 第 211 頁 (圖 1)](assets/illustrations/page_211_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 135 tô.—Hoe-phùn sóe-ėk-hoat. (Kellog, from Aikens' “ Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 135 tô.—Hoe-phùn sóe-ėk-hoat. (Kellog, from Aikens' “ Clinical Studies for Nurses,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -311,11 +311,11 @@ Tiòh ū-pī chiah ê mi̍h :
 #### 📖 原書第 212 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 136 tô:—Léng-chúi chhit seng-khu. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_212_fig_01.png)
+![原書插圖 - 第 212 頁 (圖 1)](assets/illustrations/page_212_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 136 tô:—Léng-chúi chhit seng-khu. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 136 tô:—Léng-chúi chhit seng-khu. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -459,15 +459,15 @@ Thé-un-khì m̄-thang hō͘ gín-nā ka-kī ēng, á-sī put-séng-jîn-sū ê 
 #### 📖 原書第 214 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's "Practical Points in Nursing," by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_214_fig_01.png)
+![原書插圖 - 第 214 頁 (圖 1)](assets/illustrations/page_214_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's "Practical Points in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 137 tô:—Léng-sip-pò·-pau-hoat. Teh chiong phē-toaⁿ seh ji̍p tī chhiú kap seng-khu ê tiong-ng. (From Stoney's "Practical Points in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
 
-![Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney).](assets/illustrations/page_214_fig_02.png)
+![原書插圖 - 第 214 頁 (圖 2)](assets/illustrations/page_214_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 138 tô:—Léng-sip-pò·-pau-hoat. Seng-khu pau bat. Thâu-khak ū ēng chit tiâu léng koh tâm ê bîn-kun kā i pau (Stoney).</em></p>
 
 </div>
 
@@ -572,11 +572,11 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chìn, m̄-thang lia̍h-chòe sió-k
 #### 📖 原書第 216 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 139 tô:—Kòa chhia-lûn ê ék-tháng. Ū-pī liáu ê bîn-chhñg, hō͘ hoān-chiá sóe-ék liáu thang koh tó-teh. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_216_fig_01.png)
+![原書插圖 - 第 216 頁 (圖 1)](assets/illustrations/page_216_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 139 tô:—Kòa chhia-lûn ê ék-tháng. Ū-pī liáu ê bîn-chhñg, hō͘ hoān-chiá sóe-ék liáu thang koh tó-teh. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 139 tô:—Kòa chhia-lûn ê ék-tháng. Ū-pī liáu ê bîn-chhñg, hō͘ hoān-chiá sóe-ék liáu thang koh tó-teh. (From Sanders' “Modern Methods in Nursing,” by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -741,11 +741,11 @@ Pīⁿ-lâng nā kóng pheng-tòa siuⁿ ân, tio̍h liâm-piⁿ khì sūn khòa
 #### 📖 原書第 219 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 140 tô:—M̄-bián hian pīⁿ-lâng kā i sóe seng-khu (Sanders).](assets/illustrations/page_219_fig_01.png)
+![原書插圖 - 第 219 頁 (圖 1)](assets/illustrations/page_219_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 140 tô:—M̄-bián hian pīⁿ-lâng kā i sóe seng-khu (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 140 tô:—M̄-bián hian pīⁿ-lâng kā i sóe seng-khu (Sanders).</em></p>
 
 </div>
 
@@ -860,16 +860,16 @@ Lēng-gōa ū phi-lõ-ka-piān-ná chù-siā (*pilocarpine hypodermic*) ê hoat,
 #### 📖 原書第 221 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![141 Tē 141 tô.—Cheng-khì-e̍k. Tio̍h ū koh pī-pān chi̍t ê kún-chúi-koàn.](assets/illustrations/page_221_fig_01.png)
+![原書插圖 - 第 221 頁 (圖 1)](assets/illustrations/page_221_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>141
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>141
 Tē 141 tô.—Cheng-khì-e̍k. Tio̍h ū koh pī-pān chi̍t ê kún-chúi-koàn.</em></p>
 
-![142 Tē 142 tô.—Cheng-khì-e̍k pīⁿ-lâng lóng ū-pī hó-sè (Stoney).](assets/illustrations/page_221_fig_02.png)
+![原書插圖 - 第 221 頁 (圖 2)](assets/illustrations/page_221_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>142
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>142
 Tē 142 tô.—Cheng-khì-e̍k pīⁿ-lâng lóng ū-pī hó-sè (Stoney).</em></p>
 
 </div>
@@ -1018,11 +1018,11 @@ Góa siat-sú chòe sian-ti bêng-pék lóng-chóng ê ò-biāu kap lóng-chóng
 #### 📖 原書第 223 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 143 tô.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital, Philadelphia).](assets/illustrations/page_223_fig_01.png)
+![原書插圖 - 第 223 頁 (圖 1)](assets/illustrations/page_223_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 143 tô.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital, Philadelphia).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 143 tô.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital, Philadelphia).</em></p>
 
 </div>
 
@@ -1091,11 +1091,11 @@ Tē 143 tô͘.—Tiān-phok-á chòe ta ê jia̍t-khì-e̍k (Polyclinic Hospital
 #### 📖 原書第 224 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 144 tô.—Chō-e̍k (Bandler).](assets/illustrations/page_224_fig_01.png)
+![原書插圖 - 第 224 頁 (圖 1)](assets/illustrations/page_224_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 144 tô.—Chō-e̍k (Bandler).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 144 tô.—Chō-e̍k (Bandler).</em></p>
 
 </div>
 
@@ -1156,11 +1156,11 @@ Chō-e̍k (坐浴, *Sitz bath*): Chiàu chit ê hoat-tō͘, sóe-e̍k tio̍h ū 
 #### 📖 原書第 225 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 145 tô.—Súi-gûn-ėk. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)](assets/illustrations/page_225_fig_01.png)
+![原書插圖 - 第 225 頁 (圖 1)](assets/illustrations/page_225_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 145 tô.—Súi-gûn-ėk. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 145 tô.—Súi-gûn-ėk. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 

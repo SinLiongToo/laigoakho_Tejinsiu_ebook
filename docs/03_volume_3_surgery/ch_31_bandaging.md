@@ -9,19 +9,19 @@
 #### 📖 原書第 452 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Pheng-tòa bé Tē 304 tô.](assets/illustrations/page_452_fig_01.png)
+![原書插圖 - 第 452 頁 (圖 1)](assets/illustrations/page_452_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Pheng-tòa bé Tē 304 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Pheng-tòa bé Tē 304 tô.</em></p>
 
-![Tē 305 tô.](assets/illustrations/page_452_fig_02.png)
+![原書插圖 - 第 452 頁 (圖 2)](assets/illustrations/page_452_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 305 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 305 tô.</em></p>
 
-![Tē 306 tô.](assets/illustrations/page_452_fig_03.png)
+![原書插圖 - 第 452 頁 (圖 3)](assets/illustrations/page_452_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 306 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 306 tô.</em></p>
 
 </div>
 
@@ -157,15 +157,15 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 #### 📖 原書第 454 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 307 tô.](assets/illustrations/page_454_fig_01.png)
+![原書插圖 - 第 454 頁 (圖 1)](assets/illustrations/page_454_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 307 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 307 tô.</em></p>
 
-![Tē 308 tô.](assets/illustrations/page_454_fig_02.png)
+![原書插圖 - 第 454 頁 (圖 2)](assets/illustrations/page_454_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 308 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 308 tô.</em></p>
 
 </div>
 
@@ -199,15 +199,15 @@ Téng-bīn--ê sī tāi-khài pêng-kun sǹg chiàu Ji̍t-pún chhùn-chhioh.
 #### 📖 原書第 455 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 309 tô.](assets/illustrations/page_455_fig_01.png)
+![原書插圖 - 第 455 頁 (圖 1)](assets/illustrations/page_455_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 309 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 309 tô.</em></p>
 
-![Tē 310 tô.](assets/illustrations/page_455_fig_02.png)
+![原書插圖 - 第 455 頁 (圖 2)](assets/illustrations/page_455_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 310 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 310 tô.</em></p>
 
 </div>
 
@@ -322,11 +322,11 @@ Iâ-so͘ kóng Lín tióh saⁿ-thiàⁿ chhin-chhiūⁿ góa thiàⁿ lín, che
 #### 📖 原書第 457 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).](assets/illustrations/page_457_fig_01.png)
+![原書插圖 - 第 457 頁 (圖 1)](assets/illustrations/page_457_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 312, 313 tô.—Sip-jī-kat (Warwick and Tunstall).</em></p>
 
 </div>
 
@@ -393,15 +393,15 @@ Phah hong-kat ê hoat-tō͘, tióh chiàu ē-bīn: Chiong pheng-tòa siang-chhi�
 #### 📖 原書第 458 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 314, 315 tô:—Hong-kat.](assets/illustrations/page_458_fig_01.png)
+![原書插圖 - 第 458 頁 (圖 1)](assets/illustrations/page_458_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 314, 315 tô:—Hong-kat.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 314, 315 tô:—Hong-kat.</em></p>
 
-![Tē 316 tô.](assets/illustrations/page_458_fig_02.png)
+![原書插圖 - 第 458 頁 (圖 2)](assets/illustrations/page_458_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 316 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 316 tô.</em></p>
 
 </div>
 
@@ -471,11 +471,11 @@ Pèh-chha̍t-ōe góa oàn-hūn koh iàm-ò͘ⁿ, chóng-sī thiàⁿ Lí ê lu�
 #### 📖 原書第 459 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 317 tô.](assets/illustrations/page_459_fig_01.png)
+![原書插圖 - 第 459 頁 (圖 1)](assets/illustrations/page_459_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 317 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 317 tô.</em></p>
 
 </div>
 
@@ -516,15 +516,15 @@ The̍h chit khûn chhit hun khoah, 3 chhioh tng ê pheng-tòa, khí tîⁿ tī j
 #### 📖 原書第 460 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 318 tô.](assets/illustrations/page_460_fig_01.png)
+![原書插圖 - 第 460 頁 (圖 1)](assets/illustrations/page_460_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 318 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 318 tô.</em></p>
 
-![Tē 319 tô.](assets/illustrations/page_460_fig_02.png)
+![原書插圖 - 第 460 頁 (圖 2)](assets/illustrations/page_460_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 319 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 319 tô.</em></p>
 
 </div>
 
@@ -561,19 +561,19 @@ Tē 319 tô͘.
 #### 📖 原書第 461 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 320 tô.](assets/illustrations/page_461_fig_01.png)
+![原書插圖 - 第 461 頁 (圖 1)](assets/illustrations/page_461_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 320 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 320 tô.</em></p>
 
-![Tē 321 tô.](assets/illustrations/page_461_fig_02.png)
+![原書插圖 - 第 461 頁 (圖 2)](assets/illustrations/page_461_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 321 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 321 tô.</em></p>
 
-![Tē 322 tô.](assets/illustrations/page_461_fig_03.png)
+![原書插圖 - 第 461 頁 (圖 3)](assets/illustrations/page_461_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 322 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 322 tô.</em></p>
 
 </div>
 
@@ -607,23 +607,23 @@ chi̍t hūn (tē 323 tô͘). Tîⁿ kàu chíng-thâu-á ê thâu-chat, pheng-t�
 #### 📖 原書第 462 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 323 tô.](assets/illustrations/page_462_fig_01.png)
+![原書插圖 - 第 462 頁 (圖 1)](assets/illustrations/page_462_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 323 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 323 tô.</em></p>
 
-![Tē 324 tô.](assets/illustrations/page_462_fig_02.png)
+![原書插圖 - 第 462 頁 (圖 2)](assets/illustrations/page_462_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 324 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 324 tô.</em></p>
 
-![Tē 325 tô.](assets/illustrations/page_462_fig_03.png)
+![原書插圖 - 第 462 頁 (圖 3)](assets/illustrations/page_462_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 325 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 325 tô.</em></p>
 
-![Tē 326 tô· (Heath).](assets/illustrations/page_462_fig_04.png)
+![原書插圖 - 第 462 頁 (圖 4)](assets/illustrations/page_462_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 326 tô· (Heath).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 326 tô· (Heath).</em></p>
 
 </div>
 
@@ -660,15 +660,15 @@ Siat-sú beh tîⁿ 2, 3 ki chúng-thâu-á, tiòh seng tîⁿ tī óa bé-chái
 #### 📖 原書第 463 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 327 tô.](assets/illustrations/page_463_fig_01.png)
+![原書插圖 - 第 463 頁 (圖 1)](assets/illustrations/page_463_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 327 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 327 tô.</em></p>
 
-![Tē 328 tô.](assets/illustrations/page_463_fig_02.png)
+![原書插圖 - 第 463 頁 (圖 2)](assets/illustrations/page_463_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 328 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 328 tô.</em></p>
 
 </div>
 
@@ -700,15 +700,15 @@ Tāi-, siáu-piān liáu, piān-khì tióh liâm-piⁿ phâng chhut pīⁿ-sek-g
 #### 📖 原書第 464 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 329 tô.](assets/illustrations/page_464_fig_01.png)
+![原書插圖 - 第 464 頁 (圖 1)](assets/illustrations/page_464_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 329 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 329 tô.</em></p>
 
-![Tē 330 tô.](assets/illustrations/page_464_fig_02.png)
+![原書插圖 - 第 464 頁 (圖 2)](assets/illustrations/page_464_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 330 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 330 tô.</em></p>
 
 </div>
 
@@ -747,19 +747,19 @@ chhòng chhin-chhiūⁿ tē 324, 325 tô͘ í-keng kóng-khí-ê phah chi̍t-ê 
 #### 📖 原書第 465 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 331 tô.](assets/illustrations/page_465_fig_01.png)
+![原書插圖 - 第 465 頁 (圖 1)](assets/illustrations/page_465_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 331 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 331 tô.</em></p>
 
-![Tē 332 tô.](assets/illustrations/page_465_fig_02.png)
+![原書插圖 - 第 465 頁 (圖 2)](assets/illustrations/page_465_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 332 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 332 tô.</em></p>
 
-![Tē 333 tô.](assets/illustrations/page_465_fig_03.png)
+![原書插圖 - 第 465 頁 (圖 3)](assets/illustrations/page_465_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 333 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 333 tô.</em></p>
 
 </div>
 
@@ -799,15 +799,15 @@ Tē 333 tô͘.
 #### 📖 原書第 466 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 334 tô.](assets/illustrations/page_466_fig_01.png)
+![原書插圖 - 第 466 頁 (圖 1)](assets/illustrations/page_466_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 334 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 334 tô.</em></p>
 
-![Tē 335 tô.](assets/illustrations/page_466_fig_02.png)
+![原書插圖 - 第 466 頁 (圖 2)](assets/illustrations/page_466_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 335 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 335 tô.</em></p>
 
 </div>
 
@@ -857,15 +857,15 @@ lê-hêng ê hoat tîⁿ chi̍t lùn, chíng-kah m̄-thang khàm ba̍t. Tùi chi
 #### 📖 原書第 467 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 336 tô.](assets/illustrations/page_467_fig_01.png)
+![原書插圖 - 第 467 頁 (圖 1)](assets/illustrations/page_467_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 336 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 336 tô.</em></p>
 
-![Tē 337 tô.](assets/illustrations/page_467_fig_02.png)
+![原書插圖 - 第 467 頁 (圖 2)](assets/illustrations/page_467_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 337 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 337 tô.</em></p>
 
 </div>
 
@@ -960,15 +960,15 @@ bīn, koh ke tîⁿ chi̍t lìn tī jiâu-óaⁿ-koan-chat, hō͘ pheng-tòa ōe
 #### 📖 原書第 469 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 340 tô.](assets/illustrations/page_469_fig_01.png)
+![原書插圖 - 第 469 頁 (圖 1)](assets/illustrations/page_469_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 340 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 340 tô.</em></p>
 
-![Tē 341 tô.](assets/illustrations/page_469_fig_02.png)
+![原書插圖 - 第 469 頁 (圖 2)](assets/illustrations/page_469_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 341 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 341 tô.</em></p>
 
 </div>
 
@@ -1009,15 +1009,15 @@ The̍h chi̍t khûn nn̄g chhùn khoah, chi̍t tn̄g tn̂g ê pheng-
 #### 📖 原書第 470 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 342 tô.](assets/illustrations/page_470_fig_01.png)
+![原書插圖 - 第 470 頁 (圖 1)](assets/illustrations/page_470_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 342 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 342 tô.</em></p>
 
-![Tē 343 tô.](assets/illustrations/page_470_fig_02.png)
+![原書插圖 - 第 470 頁 (圖 2)](assets/illustrations/page_470_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 343 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 343 tô.</em></p>
 
 </div>
 
@@ -1051,15 +1051,15 @@ thâu-á ê āu-bīn kàu bé-cháiⁿ (tē 342 tô͘ 2). Tio̍h koh tîⁿ chi�
 #### 📖 原書第 471 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 344 tô.](assets/illustrations/page_471_fig_01.png)
+![原書插圖 - 第 471 頁 (圖 1)](assets/illustrations/page_471_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 344 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 344 tô.</em></p>
 
-![Tē 345 tô.](assets/illustrations/page_471_fig_02.png)
+![原書插圖 - 第 471 頁 (圖 2)](assets/illustrations/page_471_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 345 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 345 tô.</em></p>
 
 </div>
 
@@ -1140,15 +1140,15 @@ kàu bé-cháiⁿ ê thâu-chat (tē 346 tô͘ 1) ; tùi chia tîⁿ kè chhiú-
 #### 📖 原書第 473 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 348 tô.](assets/illustrations/page_473_fig_01.png)
+![原書插圖 - 第 473 頁 (圖 1)](assets/illustrations/page_473_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 348 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 348 tô.</em></p>
 
-![Tē 349 tô.](assets/illustrations/page_473_fig_02.png)
+![原書插圖 - 第 473 頁 (圖 2)](assets/illustrations/page_473_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 349 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 349 tô.</em></p>
 
 </div>
 
@@ -1192,19 +1192,19 @@ siông-sè kóng. Tióh án-ni chiap-sòa lâi tîⁿ kàu beh kàu tiú-koan-ch
 #### 📖 原書第 474 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 350 tô.](assets/illustrations/page_474_fig_01.png)
+![原書插圖 - 第 474 頁 (圖 1)](assets/illustrations/page_474_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 350 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 350 tô.</em></p>
 
-![Tē 351 tô.](assets/illustrations/page_474_fig_02.png)
+![原書插圖 - 第 474 頁 (圖 2)](assets/illustrations/page_474_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 351 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 351 tô.</em></p>
 
-![Tē 352 tô.](assets/illustrations/page_474_fig_03.png)
+![原書插圖 - 第 474 頁 (圖 3)](assets/illustrations/page_474_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 352 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 352 tô.</em></p>
 
 </div>
 
@@ -1260,15 +1260,15 @@ Tiú-koan-chat tio̍h kiu-khí-lâi, chiah the̍h chi̍t khûn n̄g chhùn khoah
 #### 📖 原書第 475 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 353 tô.](assets/illustrations/page_475_fig_01.png)
+![原書插圖 - 第 475 頁 (圖 1)](assets/illustrations/page_475_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 353 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 353 tô.</em></p>
 
-![Tē 354 tô.](assets/illustrations/page_475_fig_02.png)
+![原書插圖 - 第 475 頁 (圖 2)](assets/illustrations/page_475_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 354 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 354 tô.</em></p>
 
 </div>
 
@@ -1308,15 +1308,15 @@ Tē 354 tô͘.
 #### 📖 原書第 476 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 355 tô.](assets/illustrations/page_476_fig_01.png)
+![原書插圖 - 第 476 頁 (圖 1)](assets/illustrations/page_476_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 355 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 355 tô.</em></p>
 
-![Tē 356 tô.](assets/illustrations/page_476_fig_02.png)
+![原書插圖 - 第 476 頁 (圖 2)](assets/illustrations/page_476_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 356 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 356 tô.</em></p>
 
 </div>
 
@@ -1362,19 +1362,19 @@ Pheng-tòa tîⁿ tiū-sūi-hêng tī keng-thâu ê tîⁿ-hoat (*Spica bandage 
 #### 📖 原書第 477 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 357 tô.](assets/illustrations/page_477_fig_01.png)
+![原書插圖 - 第 477 頁 (圖 1)](assets/illustrations/page_477_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 357 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 357 tô.</em></p>
 
-![Tē 358 tô.](assets/illustrations/page_477_fig_02.png)
+![原書插圖 - 第 477 頁 (圖 2)](assets/illustrations/page_477_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 358 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 358 tô.</em></p>
 
-![Tē 359 tô.](assets/illustrations/page_477_fig_03.png)
+![原書插圖 - 第 477 頁 (圖 3)](assets/illustrations/page_477_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 359 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 359 tô.</em></p>
 
 </div>
 
@@ -1406,23 +1406,23 @@ tîⁿ chi̍t lìn kè chhiú, chi̍t lìn tio̍h pí tī siōng-phok ê tiong-n
 #### 📖 原書第 478 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 360 tô.](assets/illustrations/page_478_fig_01.png)
+![原書插圖 - 第 478 頁 (圖 1)](assets/illustrations/page_478_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 360 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 360 tô.</em></p>
 
-![Tē 361 tô.](assets/illustrations/page_478_fig_02.png)
+![原書插圖 - 第 478 頁 (圖 2)](assets/illustrations/page_478_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 361 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 361 tô.</em></p>
 
-![Tē 362 tô.](assets/illustrations/page_478_fig_03.png)
+![原書插圖 - 第 478 頁 (圖 3)](assets/illustrations/page_478_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 362 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 362 tô.</em></p>
 
-![Tē 363 tô.](assets/illustrations/page_478_fig_04.png)
+![原書插圖 - 第 478 頁 (圖 4)](assets/illustrations/page_478_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 363 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 363 tô.</em></p>
 
 </div>
 
@@ -1470,11 +1470,11 @@ Tē 363 tô͘.
 #### 📖 原書第 479 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 364 tô.](assets/illustrations/page_479_fig_01.png)
+![原書插圖 - 第 479 頁 (圖 1)](assets/illustrations/page_479_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 364 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 364 tô.</em></p>
 
 </div>
 
@@ -1508,15 +1508,15 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 #### 📖 原書第 480 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 365 tô.](assets/illustrations/page_480_fig_01.png)
+![原書插圖 - 第 480 頁 (圖 1)](assets/illustrations/page_480_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 365 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 365 tô.</em></p>
 
-![Tē 366 tô.](assets/illustrations/page_480_fig_02.png)
+![原書插圖 - 第 480 頁 (圖 2)](assets/illustrations/page_480_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 366 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 366 tô.</em></p>
 
 </div>
 
@@ -1554,11 +1554,11 @@ Hit ki chhiú tióh kiu-khí-lâi hōaⁿ tī heng-chêng, chhiú ê chńg-thâu
 #### 📖 原書第 481 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 367 tô.](assets/illustrations/page_481_fig_01.png)
+![原書插圖 - 第 481 頁 (圖 1)](assets/illustrations/page_481_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 367 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 367 tô.</em></p>
 
 </div>
 
@@ -1590,23 +1590,23 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 #### 📖 原書第 482 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 368 tô.](assets/illustrations/page_482_fig_01.png)
+![原書插圖 - 第 482 頁 (圖 1)](assets/illustrations/page_482_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 368 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 368 tô.</em></p>
 
-![Tē 369 tô.](assets/illustrations/page_482_fig_02.png)
+![原書插圖 - 第 482 頁 (圖 2)](assets/illustrations/page_482_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 369 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 369 tô.</em></p>
 
-![Tē 370 tô.](assets/illustrations/page_482_fig_03.png)
+![原書插圖 - 第 482 頁 (圖 3)](assets/illustrations/page_482_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 370 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 370 tô.</em></p>
 
-![Tē 371 tô.](assets/illustrations/page_482_fig_04.png)
+![原書插圖 - 第 482 頁 (圖 4)](assets/illustrations/page_482_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 371 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 371 tô.</em></p>
 
 </div>
 
@@ -1683,15 +1683,15 @@ Ka-kī ê chhiú tio̍h sió-sim pó-hō͘, nā chha̍k kui khang, tio̍h liâm-
 #### 📖 原書第 483 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 372 tô.](assets/illustrations/page_483_fig_01.png)
+![原書插圖 - 第 483 頁 (圖 1)](assets/illustrations/page_483_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 372 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 372 tô.</em></p>
 
-![Tē 373 tô.](assets/illustrations/page_483_fig_02.png)
+![原書插圖 - 第 483 頁 (圖 2)](assets/illustrations/page_483_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 373 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 373 tô.</em></p>
 
 </div>
 
@@ -1723,15 +1723,15 @@ Chiong chi̍t khûn saⁿ chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, khí tî�
 #### 📖 原書第 484 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 374 tô.](assets/illustrations/page_484_fig_01.png)
+![原書插圖 - 第 484 頁 (圖 1)](assets/illustrations/page_484_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 374 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 374 tô.</em></p>
 
-![Tē 375 tô.](assets/illustrations/page_484_fig_02.png)
+![原書插圖 - 第 484 頁 (圖 2)](assets/illustrations/page_484_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 375 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 375 tô.</em></p>
 
 </div>
 
@@ -1766,15 +1766,15 @@ Tē 375 tô͘.
 #### 📖 原書第 485 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 376 tô.](assets/illustrations/page_485_fig_01.png)
+![原書插圖 - 第 485 頁 (圖 1)](assets/illustrations/page_485_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 376 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 376 tô.</em></p>
 
-![Tē 377 tô.](assets/illustrations/page_485_fig_02.png)
+![原書插圖 - 第 485 頁 (圖 2)](assets/illustrations/page_485_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 377 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 377 tô.</em></p>
 
 </div>
 
@@ -1862,11 +1862,11 @@ Jîn-ài bô khoài siu-khì (I Ko-lîm-to 13 : 5.)
 #### 📖 原書第 487 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 380 tô.](assets/illustrations/page_487_fig_01.png)
+![原書插圖 - 第 487 頁 (圖 1)](assets/illustrations/page_487_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 380 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 380 tô.</em></p>
 
 </div>
 
@@ -1905,19 +1905,19 @@ Tē it khoài ê hoat-tō͘ sī hoâiⁿ-hêng tîⁿ tùi āu-khok kè thâu-hi
 #### 📖 原書第 488 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 381 tô. (Heath).](assets/illustrations/page_488_fig_01.png)
+![原書插圖 - 第 488 頁 (圖 1)](assets/illustrations/page_488_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 381 tô. (Heath).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 381 tô. (Heath).</em></p>
 
-![Tē 382 tô.](assets/illustrations/page_488_fig_02.png)
+![原書插圖 - 第 488 頁 (圖 2)](assets/illustrations/page_488_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 382 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 382 tô.</em></p>
 
-![Tē 383 tô.](assets/illustrations/page_488_fig_03.png)
+![原書插圖 - 第 488 頁 (圖 3)](assets/illustrations/page_488_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 383 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 383 tô.</em></p>
 
 </div>
 
@@ -1953,31 +1953,31 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 #### 📖 原書第 489 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 384 tô.](assets/illustrations/page_489_fig_01.png)
+![原書插圖 - 第 489 頁 (圖 1)](assets/illustrations/page_489_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 384 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 384 tô.</em></p>
 
-![Tē 385 tô.](assets/illustrations/page_489_fig_02.png)
+![原書插圖 - 第 489 頁 (圖 2)](assets/illustrations/page_489_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 385 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 385 tô.</em></p>
 
-![Tē 386 tô.](assets/illustrations/page_489_fig_03.png)
+![原書插圖 - 第 489 頁 (圖 3)](assets/illustrations/page_489_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 386 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 386 tô.</em></p>
 
-![Tē 387 tô.](assets/illustrations/page_489_fig_04.png)
+![原書插圖 - 第 489 頁 (圖 4)](assets/illustrations/page_489_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 387 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 387 tô.</em></p>
 
-![Tē 388 tô.](assets/illustrations/page_489_fig_05.png)
+![原書插圖 - 第 489 頁 (圖 5)](assets/illustrations/page_489_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 388 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 388 tô.</em></p>
 
-![Tē 389 tô.](assets/illustrations/page_489_fig_06.png)
+![原書插圖 - 第 489 頁 (圖 6)](assets/illustrations/page_489_fig_06.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 389 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 389 tô.</em></p>
 
 </div>
 
@@ -2018,19 +2018,19 @@ phoah siang-chhe (tē 385 tô͘); tùi chit ê ē-bīn hit tiâu tòa sî-siông
 #### 📖 原書第 490 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 390 tô.](assets/illustrations/page_490_fig_01.png)
+![原書插圖 - 第 490 頁 (圖 1)](assets/illustrations/page_490_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 390 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 390 tô.</em></p>
 
-![Tē 391 tô.](assets/illustrations/page_490_fig_02.png)
+![原書插圖 - 第 490 頁 (圖 2)](assets/illustrations/page_490_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 391 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 391 tô.</em></p>
 
-![Tē 392 tô.](assets/illustrations/page_490_fig_03.png)
+![原書插圖 - 第 490 頁 (圖 3)](assets/illustrations/page_490_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 392 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 392 tô.</em></p>
 
 </div>
 
@@ -2068,19 +2068,19 @@ lóng-chóng ê thâu-khak-phê, khòaⁿ (tē 390 chì 395 tô͘). Beh chhòng 
 #### 📖 原書第 491 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 393 tô.](assets/illustrations/page_491_fig_01.png)
+![原書插圖 - 第 491 頁 (圖 1)](assets/illustrations/page_491_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 393 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 393 tô.</em></p>
 
-![Tē 394 tô.](assets/illustrations/page_491_fig_02.png)
+![原書插圖 - 第 491 頁 (圖 2)](assets/illustrations/page_491_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 394 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 394 tô.</em></p>
 
-![Tē 395 tô.](assets/illustrations/page_491_fig_03.png)
+![原書插圖 - 第 491 頁 (圖 3)](assets/illustrations/page_491_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 395 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 395 tô.</em></p>
 
 </div>
 
@@ -2137,31 +2137,31 @@ The̍h chi̍t tiâu tòa 3 chhioh tn̂g, 6 chhùn khoah, ēng ka-to lâi ka khui
 #### 📖 原書第 492 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 396 tô.](assets/illustrations/page_492_fig_01.png)
+![原書插圖 - 第 492 頁 (圖 1)](assets/illustrations/page_492_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 396 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 396 tô.</em></p>
 
-![Tē 397 tô.](assets/illustrations/page_492_fig_02.png)
+![原書插圖 - 第 492 頁 (圖 2)](assets/illustrations/page_492_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 397 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 397 tô.</em></p>
 
-![Tē 398 tô.](assets/illustrations/page_492_fig_03.png)
+![原書插圖 - 第 492 頁 (圖 3)](assets/illustrations/page_492_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 398 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 398 tô.</em></p>
 
-![Tē 399 tô.](assets/illustrations/page_492_fig_04.png)
+![原書插圖 - 第 492 頁 (圖 4)](assets/illustrations/page_492_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 399 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 399 tô.</em></p>
 
-![Tē 400 tô.](assets/illustrations/page_492_fig_05.png)
+![原書插圖 - 第 492 頁 (圖 5)](assets/illustrations/page_492_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 400 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 400 tô.</em></p>
 
-![Tē 401 tô.](assets/illustrations/page_492_fig_06.png)
+![原書插圖 - 第 492 頁 (圖 6)](assets/illustrations/page_492_fig_06.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 401 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 401 tô.</em></p>
 
 </div>
 
@@ -2220,11 +2220,11 @@ Oāⁿ pau-siong-liāu ê tāi-seng, tióh ták hāng ū-pī.
 #### 📖 原書第 493 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 402 tô.](assets/illustrations/page_493_fig_01.png)
+![原書插圖 - 第 493 頁 (圖 1)](assets/illustrations/page_493_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 402 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 402 tô.</em></p>
 
 </div>
 
@@ -2268,15 +2268,15 @@ The̍h pheng-tòa 15 chhioh tn̂g, 2 chhùn khoah. Tāi-seng chiong pheng-tòa �
 #### 📖 原書第 494 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 403 tô. (After Heath.)](assets/illustrations/page_494_fig_01.png)
+![原書插圖 - 第 494 頁 (圖 1)](assets/illustrations/page_494_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 403 tô. (After Heath.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 403 tô. (After Heath.)</em></p>
 
-![Tē 404 tô.](assets/illustrations/page_494_fig_02.png)
+![原書插圖 - 第 494 頁 (圖 2)](assets/illustrations/page_494_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 404 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 404 tô.</em></p>
 
 </div>
 
@@ -2313,15 +2313,15 @@ tîⁿ chiūⁿ thâu-khak-téng, tîⁿ lo̍h kàu tò-pêng hī-á-āu, tī ch
 #### 📖 原書第 495 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 405 tô.](assets/illustrations/page_495_fig_01.png)
+![原書插圖 - 第 495 頁 (圖 1)](assets/illustrations/page_495_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 405 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 405 tô.</em></p>
 
-![Tē 406 tô.](assets/illustrations/page_495_fig_02.png)
+![原書插圖 - 第 495 頁 (圖 2)](assets/illustrations/page_495_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 406 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 406 tô.</em></p>
 
 </div>
 
@@ -2367,15 +2367,15 @@ Théh chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tng ê pheng-tòa, khí 
 #### 📖 原書第 496 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 407 tô.](assets/illustrations/page_496_fig_01.png)
+![原書插圖 - 第 496 頁 (圖 1)](assets/illustrations/page_496_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 407 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 407 tô.</em></p>
 
-![Tē 408 tô.](assets/illustrations/page_496_fig_02.png)
+![原書插圖 - 第 496 頁 (圖 2)](assets/illustrations/page_496_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 408 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 408 tô.</em></p>
 
 </div>
 
@@ -2428,15 +2428,15 @@ Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 #### 📖 原書第 497 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 409 tô.](assets/illustrations/page_497_fig_01.png)
+![原書插圖 - 第 497 頁 (圖 1)](assets/illustrations/page_497_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 409 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 409 tô.</em></p>
 
-![Tē 410 tô.](assets/illustrations/page_497_fig_02.png)
+![原書插圖 - 第 497 頁 (圖 2)](assets/illustrations/page_497_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 410 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 410 tô.</em></p>
 
 </div>
 
@@ -2484,15 +2484,15 @@ The̍h chi̍t khûn nñg chhùn pòaⁿ khoah, 12 chhioh tn̂g ê pheng-tòa, kh
 #### 📖 原書第 498 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 411 tô.](assets/illustrations/page_498_fig_01.png)
+![原書插圖 - 第 498 頁 (圖 1)](assets/illustrations/page_498_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 411 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 411 tô.</em></p>
 
-![Tē 412 tô.](assets/illustrations/page_498_fig_02.png)
+![原書插圖 - 第 498 頁 (圖 2)](assets/illustrations/page_498_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 412 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 412 tô.</em></p>
 
 </div>
 
@@ -2532,15 +2532,15 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 #### 📖 原書第 499 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 413 tô:](assets/illustrations/page_499_fig_01.png)
+![原書插圖 - 第 499 頁 (圖 1)](assets/illustrations/page_499_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 413 tô:</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 413 tô:</em></p>
 
-![Tē 414 tô:](assets/illustrations/page_499_fig_02.png)
+![原書插圖 - 第 499 頁 (圖 2)](assets/illustrations/page_499_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 414 tô:</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 414 tô:</em></p>
 
 </div>
 
@@ -2588,15 +2588,15 @@ koan-chat ê lāi-bīn pêng tîⁿ kè kha-pôaⁿ, kàu kha ê gōa-bīn pêng
 #### 📖 原書第 500 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 415 tô.](assets/illustrations/page_500_fig_01.png)
+![原書插圖 - 第 500 頁 (圖 1)](assets/illustrations/page_500_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 415 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 415 tô.</em></p>
 
-![Tē 416 tô.](assets/illustrations/page_500_fig_02.png)
+![原書插圖 - 第 500 頁 (圖 2)](assets/illustrations/page_500_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 416 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 416 tô.</em></p>
 
 </div>
 
@@ -2643,15 +2643,15 @@ Sóe pīⁿ-lâng ê sî, chúi tióh chiàu i-seng só͘ hoan-hù ê un-tō͘, 
 #### 📖 原書第 501 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 417 tô.](assets/illustrations/page_501_fig_01.png)
+![原書插圖 - 第 501 頁 (圖 1)](assets/illustrations/page_501_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 417 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 417 tô.</em></p>
 
-![Tē 418 tô.](assets/illustrations/page_501_fig_02.png)
+![原書插圖 - 第 501 頁 (圖 2)](assets/illustrations/page_501_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 418 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 418 tô.</em></p>
 
 </div>
 
@@ -2693,15 +2693,15 @@ lī-piān. The̍h chi̍t khûn 2½ chhùn khoah, 18 chhioh tn̂g ê pheng-tòa, 
 #### 📖 原書第 502 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 419 tô.](assets/illustrations/page_502_fig_01.png)
+![原書插圖 - 第 502 頁 (圖 1)](assets/illustrations/page_502_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 419 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 419 tô.</em></p>
 
-![Tē 420 tô.](assets/illustrations/page_502_fig_02.png)
+![原書插圖 - 第 502 頁 (圖 2)](assets/illustrations/page_502_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 420 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 420 tô.</em></p>
 
 </div>
 
@@ -2734,11 +2734,11 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hē-teh.
 #### 📖 原書第 503 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![](assets/illustrations/page_503_fig_01.png)
+![原書插圖 - 第 503 頁 (圖 1)](assets/illustrations/page_503_fig_01.png)
 
-![](assets/illustrations/page_503_fig_02.png)
+![原書插圖 - 第 503 頁 (圖 2)](assets/illustrations/page_503_fig_02.png)
 
 </div>
 
@@ -2770,15 +2770,15 @@ Tióh ēng chi̍t khûn 3 chhùn khoah 24 chhioh tn̂g ê pheng-tòa. Chit ê ho
 #### 📖 原書第 504 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 423 tô.](assets/illustrations/page_504_fig_01.png)
+![原書插圖 - 第 504 頁 (圖 1)](assets/illustrations/page_504_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 423 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 423 tô.</em></p>
 
-![Tē 424 tô.](assets/illustrations/page_504_fig_02.png)
+![原書插圖 - 第 504 頁 (圖 2)](assets/illustrations/page_504_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 424 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 424 tô.</em></p>
 
 </div>
 
@@ -2816,19 +2816,19 @@ Tio̍h the̍h chi̍t khûn 3 chhùn khoah, 24 chhioh tn̂g ê pheng-tòa, chiàu
 #### 📖 原書第 505 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 425 tô.](assets/illustrations/page_505_fig_01.png)
+![原書插圖 - 第 505 頁 (圖 1)](assets/illustrations/page_505_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 425 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 425 tô.</em></p>
 
-![Tē 426 tô.](assets/illustrations/page_505_fig_02.png)
+![原書插圖 - 第 505 頁 (圖 2)](assets/illustrations/page_505_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 426 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 426 tô.</em></p>
 
-![Tē 427 tô.](assets/illustrations/page_505_fig_03.png)
+![原書插圖 - 第 505 頁 (圖 3)](assets/illustrations/page_505_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 427 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 427 tô.</em></p>
 
 </div>
 
@@ -2874,11 +2874,11 @@ Tē 427 tô͘.
 #### 📖 原書第 506 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 428 tô.](assets/illustrations/page_506_fig_01.png)
+![原書插圖 - 第 506 頁 (圖 1)](assets/illustrations/page_506_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 428 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 428 tô.</em></p>
 
 </div>
 
@@ -2932,15 +2932,15 @@ Tio̍h khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 #### 📖 原書第 507 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 429 tô.](assets/illustrations/page_507_fig_01.png)
+![原書插圖 - 第 507 頁 (圖 1)](assets/illustrations/page_507_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 429 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 429 tô.</em></p>
 
-![Tē 430 tô.](assets/illustrations/page_507_fig_02.png)
+![原書插圖 - 第 507 頁 (圖 2)](assets/illustrations/page_507_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 430 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 430 tô.</em></p>
 
 </div>
 
@@ -2981,15 +2981,15 @@ T-jī pheng-tòa ê chok-iōng sī beh tîⁿ tī kong-bûn, hōe-im, kap gōa-i
 #### 📖 原書第 508 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 431 tô.](assets/illustrations/page_508_fig_01.png)
+![原書插圖 - 第 508 頁 (圖 1)](assets/illustrations/page_508_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 431 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 431 tô.</em></p>
 
-![Tē 432 tô.](assets/illustrations/page_508_fig_02.png)
+![原書插圖 - 第 508 頁 (圖 2)](assets/illustrations/page_508_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 432 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 432 tô.</em></p>
 
 </div>
 
@@ -3027,23 +3027,23 @@ Tîⁿ ê sî chiah ê thán-ti̍t-ê kè gōa-im-pō͘ tōa-thúi-tiong, pák t
 #### 📖 原書第 509 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 433 tô.](assets/illustrations/page_509_fig_01.png)
+![原書插圖 - 第 509 頁 (圖 1)](assets/illustrations/page_509_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 433 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 433 tô.</em></p>
 
-![Tē 434 tô.](assets/illustrations/page_509_fig_02.png)
+![原書插圖 - 第 509 頁 (圖 2)](assets/illustrations/page_509_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 434 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 434 tô.</em></p>
 
-![Tē 434a tô.](assets/illustrations/page_509_fig_03.png)
+![原書插圖 - 第 509 頁 (圖 3)](assets/illustrations/page_509_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 434a tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 434a tô.</em></p>
 
-![Tē 435 tô.](assets/illustrations/page_509_fig_04.png)
+![原書插圖 - 第 509 頁 (圖 4)](assets/illustrations/page_509_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 435 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 435 tô.</em></p>
 
 </div>
 
@@ -3069,11 +3069,11 @@ The̍h chi̍t tiâu tòa 6 chhùn khoah, 3 chhioh tn̂g, chhu thán-ti̍t tī to
 #### 📖 原書第 510 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 436 tô.](assets/illustrations/page_510_fig_01.png)
+![原書插圖 - 第 510 頁 (圖 1)](assets/illustrations/page_510_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 436 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 436 tô.</em></p>
 
 </div>
 
@@ -3124,15 +3124,15 @@ Nā ū sím-mih mi̍h phah-phòa, á-sī phah-m̄-kìⁿ tio̍h liâm-piⁿ thon
 #### 📖 原書第 511 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 437 tô.](assets/illustrations/page_511_fig_01.png)
+![原書插圖 - 第 511 頁 (圖 1)](assets/illustrations/page_511_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 437 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 437 tô.</em></p>
 
-![Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.](assets/illustrations/page_511_fig_02.png)
+![原書插圖 - 第 511 頁 (圖 2)](assets/illustrations/page_511_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 438 tô.—Saⁿ-kak-tòa : A, téng-tiám ; B, tí-kak ; BC, kì-sòaⁿ.</em></p>
 
 </div>
 
@@ -3182,19 +3182,19 @@ Saⁿ-kak hêng ê kò͘-chō tio̍h khòaⁿ tē 438 tô͘. Chiong saⁿ-kak-t�
 #### 📖 原書第 512 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 439 tô.](assets/illustrations/page_512_fig_01.png)
+![原書插圖 - 第 512 頁 (圖 1)](assets/illustrations/page_512_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 439 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 439 tô.</em></p>
 
-![Tē 440 tô.](assets/illustrations/page_512_fig_02.png)
+![原書插圖 - 第 512 頁 (圖 2)](assets/illustrations/page_512_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 440 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 440 tô.</em></p>
 
-![Tē 441 tô.](assets/illustrations/page_512_fig_03.png)
+![原書插圖 - 第 512 頁 (圖 3)](assets/illustrations/page_512_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 441 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 441 tô.</em></p>
 
 </div>
 
@@ -3241,19 +3241,19 @@ hōaⁿ tī bô siong ê keng-thâu-téng (tē 442 tô͘). Chiong ē-tóe hit th
 #### 📖 原書第 513 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 442 tô.](assets/illustrations/page_513_fig_01.png)
+![原書插圖 - 第 513 頁 (圖 1)](assets/illustrations/page_513_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 442 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 442 tô.</em></p>
 
-![Tē 443 tô.](assets/illustrations/page_513_fig_02.png)
+![原書插圖 - 第 513 頁 (圖 2)](assets/illustrations/page_513_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 443 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 443 tô.</em></p>
 
-![Tē 444 tô.](assets/illustrations/page_513_fig_03.png)
+![原書插圖 - 第 513 頁 (圖 3)](assets/illustrations/page_513_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 444 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 444 tô.</em></p>
 
 </div>
 
@@ -3291,15 +3291,15 @@ Tāi-seng chiong saⁿ-kak-tòa ê téng-tiám áu-ji̍p tī ki-sòaⁿ (基線,
 #### 📖 原書第 514 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 445 tô.](assets/illustrations/page_514_fig_01.png)
+![原書插圖 - 第 514 頁 (圖 1)](assets/illustrations/page_514_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 445 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 445 tô.</em></p>
 
-![Tē 446 tô.](assets/illustrations/page_514_fig_02.png)
+![原書插圖 - 第 514 頁 (圖 2)](assets/illustrations/page_514_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 446 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 446 tô.</em></p>
 
 </div>
 
@@ -3357,11 +3357,11 @@ Kah hù-bo̍k liáu, ti̍h sūn chńg-thâu-á ê sek, á-sī ū chéng bô.
 #### 📖 原書第 515 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 447 tô.](assets/illustrations/page_515_fig_01.png)
+![原書插圖 - 第 515 頁 (圖 1)](assets/illustrations/page_515_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 447 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 447 tô.</em></p>
 
 </div>
 
@@ -3505,15 +3505,15 @@ Pheng-tòa the̍h-khí-lâi, chūn hō͘ i lióh-á ta, chiah tìⁿ chiàu lē-
 #### 📖 原書第 517 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.](assets/illustrations/page_517_fig_01.png)
+![原書插圖 - 第 517 頁 (圖 1)](assets/illustrations/page_517_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 448 tô.—Esmarch-sī chiòh-ko-pheng-tòa-to.</em></p>
 
-![Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.](assets/illustrations/page_517_fig_02.png)
+![原書插圖 - 第 517 頁 (圖 2)](assets/illustrations/page_517_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 449 tô.—Engel-sī chiòh-ko-pheng-tòa-kù-á.</em></p>
 
 </div>
 
@@ -3559,15 +3559,15 @@ Chiòh-ko-hù-bo̍k làng-khang ê hoat: Só́ tîⁿ ê só͘-chāi, nā ū sio
 #### 📖 原書第 518 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.](assets/illustrations/page_518_fig_01.png)
+![原書插圖 - 第 518 頁 (圖 1)](assets/illustrations/page_518_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 450 tô:—Zoichin-sī chióh-ko-pheng-tòa-chián-to.</em></p>
 
-![Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).](assets/illustrations/page_518_fig_02.png)
+![原書插圖 - 第 518 頁 (圖 2)](assets/illustrations/page_518_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 451 tô:—Chióh-ko-hù-bók làng-khang ê hoat (Da Costa).</em></p>
 
 </div>
 
@@ -3625,15 +3625,15 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, tàk lâng kap i ê chhù-piⁿ kóng ch
 #### 📖 原書第 519 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).](assets/illustrations/page_519_fig_01.png)
+![原書插圖 - 第 519 頁 (圖 1)](assets/illustrations/page_519_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 452 tô:—Chhēng chiòh-ko-kòa ê hoat (Sayre).</em></p>
 
-![Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).](assets/illustrations/page_519_fig_02.png)
+![原書插圖 - 第 519 頁 (圖 2)](assets/illustrations/page_519_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 353 tô:—Sayre-sī chiòh-ko-kòa āu-piah ê thih-pán, chòe i-tī keng-chui-kut-kiat-hu̍t chèng ê lō͘-ēng (Rose and Carless).</em></p>
 
 </div>
 

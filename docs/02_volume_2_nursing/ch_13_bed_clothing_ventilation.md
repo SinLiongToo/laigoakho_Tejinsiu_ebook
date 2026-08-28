@@ -86,11 +86,11 @@ I-seng mñg pīⁿ-lâng ê sū, nā m̄-chai, tióh kóng m̄-chai, m̄-thang p
 #### 📖 原書第 174 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 115 tô.—Ōaⁿ ē-bīn phē-toaⁿ ê hoat. (From Sanders' “ Modern Methods in Nursing,’ by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_174_fig_01.png)
+![原書插圖 - 第 174 頁 (圖 1)](assets/illustrations/page_174_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 115 tô.—Ōaⁿ ē-bīn phē-toaⁿ ê hoat. (From Sanders' “ Modern Methods in Nursing,’ by permission of W. B. Saunders Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 115 tô.—Ōaⁿ ē-bīn phē-toaⁿ ê hoat. (From Sanders' “ Modern Methods in Nursing,’ by permission of W. B. Saunders Co., publishers.)</em></p>
 
 </div>
 
@@ -206,11 +206,11 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 #### 📖 原書第 176 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 116 tô:—Pīⁿ-lâng iáu tī bîn-chhng, hian jiỏk-á ê hoat (Sanders).](assets/illustrations/page_176_fig_01.png)
+![原書插圖 - 第 176 頁 (圖 1)](assets/illustrations/page_176_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 116 tô:—Pīⁿ-lâng iáu tī bîn-chhng, hian jiỏk-á ê hoat (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 116 tô:—Pīⁿ-lâng iáu tī bîn-chhng, hian jiỏk-á ê hoat (Sanders).</em></p>
 
 </div>
 
@@ -320,11 +320,11 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13: 5).
 #### 📖 原書第 178 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 117 tô.—Sim-chōng pīⁿ ê lâng phak-teh ê kí-toh (E. Band).](assets/illustrations/page_178_fig_01.png)
+![原書插圖 - 第 178 頁 (圖 1)](assets/illustrations/page_178_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 117 tô.—Sim-chōng pīⁿ ê lâng phak-teh ê kí-toh (E. Band).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 117 tô.—Sim-chōng pīⁿ ê lâng phak-teh ê kí-toh (E. Band).</em></p>
 
 </div>
 
@@ -374,11 +374,11 @@ Nā pīⁿ-lâng kóng, i seng-khu ū só͘-chāi ōe thiàⁿ, chiū
 #### 📖 原書第 179 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 118 tô:—Ēng pò· chòe ê tōa, hō· lâng bōe chhù-lỏh-khì bîn-chhñg-nih (Sanders).](assets/illustrations/page_179_fig_01.png)
+![原書插圖 - 第 179 頁 (圖 1)](assets/illustrations/page_179_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 118 tô:—Ēng pò· chòe ê tōa, hō· lâng bōe chhù-lỏh-khì bîn-chhñg-nih (Sanders).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 118 tô:—Ēng pò· chòe ê tōa, hō· lâng bōe chhù-lỏh-khì bîn-chhñg-nih (Sanders).</em></p>
 
 </div>
 
@@ -501,11 +501,11 @@ $$\left.
 #### 📖 原書第 181 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 119 tô.—Kha-āu-tiⁿ tiām. (From Stoney's “Practical Points in Nursing,” by permission W. B. Saunders Co., publishers.)](assets/illustrations/page_181_fig_01.png)
+![原書插圖 - 第 181 頁 (圖 1)](assets/illustrations/page_181_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 119 tô.—Kha-āu-tiⁿ tiām.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 119 tô.—Kha-āu-tiⁿ tiām.
 (From Stoney's “Practical Points in Nursing,” by permission W. B. Saunders Co., publishers.)</em></p>
 
 </div>
@@ -564,11 +564,11 @@ Só͘-í tióh tû-khì péh-chha̍t, ták lâng kap i ê chhù-piⁿ kóng chin
 #### 📖 原書第 182 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 120 tô. — Hû-chhah pīⁿ-lâng ê hoat-tō͘. (Woodwark's “Medical Nursing,” Edward Arnold, publisher.)](assets/illustrations/page_182_fig_01.png)
+![原書插圖 - 第 182 頁 (圖 1)](assets/illustrations/page_182_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 120 tô. — Hû-chhah pīⁿ-lâng ê hoat-tō͘. (Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 120 tô. — Hû-chhah pīⁿ-lâng ê hoat-tō͘. (Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -642,11 +642,11 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 #### 📖 原書第 183 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 121 tô:—Hû-chhah pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)](assets/illustrations/page_183_fig_01.png)
+![原書插圖 - 第 183 頁 (圖 1)](assets/illustrations/page_183_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 121 tô:—Hû-chhah pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 121 tô:—Hû-chhah pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -719,19 +719,19 @@ Nā khàn-hō͘ khòaⁿ phê-hu túg âng, chhin-chhiūⁿ beh khí jiók-siong
 #### 📖 原書第 184 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 122 tô:—Hûi-chè ê piān-khì.](assets/illustrations/page_184_fig_01.png)
+![原書插圖 - 第 184 頁 (圖 1)](assets/illustrations/page_184_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 122 tô:—Hûi-chè ê piān-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 122 tô:—Hûi-chè ê piān-khì.</em></p>
 
-![Tē 123 tô:—Lâm ê siū-jiō-khì.](assets/illustrations/page_184_fig_02.png)
+![原書插圖 - 第 184 頁 (圖 2)](assets/illustrations/page_184_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 123 tô:—Lâm ê siū-jiō-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 123 tô:—Lâm ê siū-jiō-khì.</em></p>
 
-![Tē 124 tô:—Lú ê siū-jiō-khì.](assets/illustrations/page_184_fig_03.png)
+![原書插圖 - 第 184 頁 (圖 3)](assets/illustrations/page_184_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 124 tô:—Lú ê siū-jiō-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 124 tô:—Lú ê siū-jiō-khì.</em></p>
 
 </div>
 
@@ -800,11 +800,11 @@ Tē 124 tô͘:—Lú ê siū-jiō-khì.
 #### 📖 原書第 185 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 125 tô.—Sóe chhùi ê pôaⁿ kap ū-pī mih. (From Sanders “Methods in Nur-sing,” by permission W. B. Saunders and Co., publishers.)](assets/illustrations/page_185_fig_01.png)
+![原書插圖 - 第 185 頁 (圖 1)](assets/illustrations/page_185_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 125 tô.—Sóe chhùi ê pôaⁿ kap ū-pī mih. (From Sanders “Methods in Nur-sing,” by permission W. B. Saunders and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 125 tô.—Sóe chhùi ê pôaⁿ kap ū-pī mih. (From Sanders “Methods in Nur-sing,” by permission W. B. Saunders and Co., publishers.)</em></p>
 
 </div>
 
@@ -881,11 +881,11 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tióh khó-khǹg i chia̍h.
 #### 📖 原書第 186 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 126 tô:—Sóe lú hoān-chiá ê thâu-môg. (From Sanders' “ Modern Methods in Nursing.”)](assets/illustrations/page_186_fig_01.png)
+![原書插圖 - 第 186 頁 (圖 1)](assets/illustrations/page_186_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 126 tô:—Sóe lú hoān-chiá ê thâu-môg. (From Sanders' “ Modern Methods in Nursing.”)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 126 tô:—Sóe lú hoān-chiá ê thâu-môg. (From Sanders' “ Modern Methods in Nursing.”)</em></p>
 
 </div>
 
@@ -1004,11 +1004,11 @@ Koh tī pa̍t-ê pèng bô chín-kiù ; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa
 #### 📖 原書第 188 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 127 tô.―Tuì siang-tó· ê thang-á-mn̂g thong khong-khì (Stoney).](assets/illustrations/page_188_fig_01.png)
+![原書插圖 - 第 188 頁 (圖 1)](assets/illustrations/page_188_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 127 tô.―Tuì siang-tó· ê thang-á-mn̂g thong khong-khì (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 127 tô.―Tuì siang-tó· ê thang-á-mn̂g thong khong-khì (Stoney).</em></p>
 
 </div>
 

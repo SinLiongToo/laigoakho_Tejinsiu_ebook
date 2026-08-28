@@ -49,11 +49,11 @@ Lâng nā ū sè-kan ê châi-sán, khòaⁿ-kìⁿ i ê hiaⁿ-tī ū khiàm-kh
 #### 📖 原書第 273 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 174 tô.—Phó·-thong ê thé-un-pió : C, chá-khí-sî ; E, ê-hng-sî.](assets/illustrations/page_273_fig_01.png)
+![原書插圖 - 第 273 頁 (圖 1)](assets/illustrations/page_273_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 174 tô.—Phó·-thong ê thé-un-pió : C, chá-khí-sî ; E, ê-hng-sî.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 174 tô.—Phó·-thong ê thé-un-pió : C, chá-khí-sî ; E, ê-hng-sî.</em></p>
 
 </div>
 
@@ -330,11 +330,11 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó-khǹg i chia̍h.
 #### 📖 原書第 276 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 176 tô:—Bong méh ê hoat-tō. (From Woodwark's " Medical Nursing," Edward Arnold, publisher.)](assets/illustrations/page_276_fig_01.png)
+![原書插圖 - 第 276 頁 (圖 1)](assets/illustrations/page_276_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 176 tô:—Bong méh ê hoat-tō. (From Woodwark's " Medical Nursing," Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 176 tô:—Bong méh ê hoat-tō. (From Woodwark's " Medical Nursing," Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -585,15 +585,15 @@ Jîn-ài bô kiàⁿ kiàn-siàu ê sū (I[Ko-lîm-to 13: 5).
 #### 📖 原書第 279 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)](assets/illustrations/page_279_fig_01.png)
+![原書插圖 - 第 279 頁 (圖 1)](assets/illustrations/page_279_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 177 tô:—Hoat-lūn thé-un-khì; súi-gûn tī 95.4° F. (Pyle's “Personal Hygiene.”)</em></p>
 
-![Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C.](assets/illustrations/page_279_fig_02.png)
+![原書插圖 - 第 279 頁 (圖 2)](assets/illustrations/page_279_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 178 tô:—Pah-tō͘ thé-un-khì; súi-gûn tī 37° C.</em></p>
 
 </div>
 
@@ -857,15 +857,15 @@ Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng,
 #### 📖 原書第 283 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 179 tô.―Hûi-chè ê thâm-koàn.](assets/illustrations/page_283_fig_01.png)
+![原書插圖 - 第 283 頁 (圖 1)](assets/illustrations/page_283_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 179 tô.―Hûi-chè ê thâm-koàn.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 179 tô.―Hûi-chè ê thâm-koàn.</em></p>
 
-![Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney).](assets/illustrations/page_283_fig_02.png)
+![原書插圖 - 第 283 頁 (圖 2)](assets/illustrations/page_283_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 180 tô.―Thâm-koàn, ēng chóa keh-teh : A, thâm-koàn ; B, keh thâm-koàn ê chóa (Stoney).</em></p>
 
 </div>
 

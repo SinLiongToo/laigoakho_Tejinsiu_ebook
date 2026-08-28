@@ -130,11 +130,11 @@ Góa siat-sú ē kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa c
 #### 📖 原書第 337 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)](assets/illustrations/page_337_fig_01.png)
+![原書插圖 - 第 337 頁 (圖 1)](assets/illustrations/page_337_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 191 tô:—Chhòng-siong teh lú-háp. (From Cantlie's “Nursing Manual,” Cassell Co., publishers.)</em></p>
 
 </div>
 

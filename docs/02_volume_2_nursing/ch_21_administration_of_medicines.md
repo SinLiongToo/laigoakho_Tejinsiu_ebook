@@ -347,15 +347,15 @@ Min., minim ; fl. dr., fluid drachm ; fl. oz., fluid ounce ; gr., grain ; oz. ou
 #### 📖 原書第 299 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.](assets/illustrations/page_299_fig_01.png)
+![原書插圖 - 第 299 頁 (圖 1)](assets/illustrations/page_299_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>A. — Eng-kok-pōng kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
 
-![B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.](assets/illustrations/page_299_fig_02.png)
+![原書插圖 - 第 299 頁 (圖 2)](assets/illustrations/page_299_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>B. — Eng-kok-chhioh kap chap-chìn-hoat ê tùi-chiò-pió.</em></p>
 
 </div>
 
@@ -958,11 +958,11 @@ Pīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tióh khoán-thāi siāng chi̍t kho
 #### 📖 原書第 307 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.](assets/illustrations/page_307_fig_01.png)
+![原書插圖 - 第 307 頁 (圖 1)](assets/illustrations/page_307_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 181 tô.—Phê-ē chù-siā-khì, kap nñg ki chiam.</em></p>
 
 </div>
 
@@ -1024,11 +1024,11 @@ Koh chi̍t hāng, chit ê chù-siā ióh-oân beh hō͘ i sòaⁿ ê hoat, ū k�
 #### 📖 原書第 308 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).](assets/illustrations/page_308_fig_01.png)
+![原書插圖 - 第 308 頁 (圖 1)](assets/illustrations/page_308_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 182 tô.—Phê-ē chù-siā-hoat (Thornton).</em></p>
 
 </div>
 
@@ -1144,11 +1144,11 @@ Nā ūi bōe-kham-tit chia̍h súi-gûn, i-seng ēng chit ê hoat-tō͘. Koh chi
 #### 📖 原書第 310 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 183 tô.—Khip-jip-koàn.](assets/illustrations/page_310_fig_01.png)
+![原書插圖 - 第 310 頁 (圖 1)](assets/illustrations/page_310_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 183 tô.—Khip-jip-koàn.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 183 tô.—Khip-jip-koàn.</em></p>
 
 </div>
 
@@ -1220,11 +1220,11 @@ Góan óa-khò Ki-tok ǹg Siōng-tè ū chit hō ê sìn (II Ko-lîm-to 3: 4).
 #### 📖 原書第 311 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).](assets/illustrations/page_311_fig_01.png)
+![原書插圖 - 第 311 頁 (圖 1)](assets/illustrations/page_311_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 184 tô:—Ték-piát ê kún-chúi-koàn (J.P.C. Griffith).</em></p>
 
 </div>
 
@@ -2004,11 +2004,11 @@ Gín-ná nā háu, m̄-thang liâm-piⁿ hō͘ i chia̍h leng.
 #### 📖 原書第 320 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)](assets/illustrations/page_320_fig_01.png)
+![原書插圖 - 第 320 頁 (圖 1)](assets/illustrations/page_320_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 185 tô.—Bî-seng-bu̍t, hián-bî-kiàⁿ khòaⁿ-ê. Ní-sek ê miâ ū kì tī Eng-gú. (From Hutchison and Rainy's "Clinical Methods," Cassell and Co., publishers.)</em></p>
 
 </div>
 

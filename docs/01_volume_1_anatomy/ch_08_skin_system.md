@@ -57,11 +57,11 @@ Tī chit nn̄g chân ê ē-tóe ū kiat-tè-chit, chit-ê kiò-chòe phê-ē-kia
 #### 📖 原書第 127 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 88 tô.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê ; 2, chin-phê; 3, phê-ē-kiat-tè-chit ; 4, hān-chôaⁿ ; 5, hān-chôaⁿ-kńg ; 6, mûg-bú-êng-ióng-tōng-me̍h ; 7, mûg-bú ; 8, phê-chi-chôaⁿ ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu ; 12, mng ; 13, mng ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)](assets/illustrations/page_127_fig_01.png)
+![原書插圖 - 第 127 頁 (圖 1)](assets/illustrations/page_127_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 88 tô.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê ; 2, chin-phê; 3, phê-ē-kiat-tè-chit ; 4, hān-chôaⁿ ; 5, hān-chôaⁿ-kńg ; 6, mûg-bú-êng-ióng-tōng-me̍h ; 7, mûg-bú ; 8, phê-chi-chôaⁿ ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu ; 12, mng ; 13, mng ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 88 tô.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê ; 2, chin-phê; 3, phê-ē-kiat-tè-chit ; 4, hān-chôaⁿ ; 5, hān-chôaⁿ-kńg ; 6, mûg-bú-êng-ióng-tōng-me̍h ; 7, mûg-bú ; 8, phê-chi-chôaⁿ ; 9, 10, kiat-tè-chit, kap kiat-tè-chit-lāi ê iû; 11, leng-thâu ; 12, mng ; 13, mng ê chhé-chit. (After Gray, by permission of Longmans, Green and Co., publishers.)</em></p>
 
 </div>
 
@@ -121,11 +121,11 @@ Tē 88 tô͘.—Phê-hu, hián-bî-kiàⁿ-ê: 1, piáu-phê; 2, chin-phê; 3, p
 #### 📖 原書第 128 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 89 tô.—Phê-hu, hián-bî-kiàⁿ 150 pē khok-tōa, chí-bêng chhiok-kak-sió-thé: 1, ū huih-kńg ê leng-thâu ; 2—6, piáu-phê ; 2, kak-chân ; 3, thàu-bêng-chân ; 4, sòe-lia̍p-chân ; 5, 6, liâm-e̍k-chân ; 7, chhiok-kak-sió-thé ; 8, huih-kńg kap sîn-keng (Cunningham).](assets/illustrations/page_128_fig_01.png)
+![原書插圖 - 第 128 頁 (圖 1)](assets/illustrations/page_128_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 89 tô.—Phê-hu, hián-bî-kiàⁿ 150 pē khok-tōa, chí-bêng chhiok-kak-sió-thé: 1, ū huih-kńg ê leng-thâu ; 2—6, piáu-phê ; 2, kak-chân ; 3, thàu-bêng-chân ; 4, sòe-lia̍p-chân ; 5, 6, liâm-e̍k-chân ; 7, chhiok-kak-sió-thé ; 8, huih-kńg kap sîn-keng (Cunningham).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 89 tô.—Phê-hu, hián-bî-kiàⁿ 150 pē khok-tōa, chí-bêng chhiok-kak-sió-thé: 1, ū huih-kńg ê leng-thâu ; 2—6, piáu-phê ; 2, kak-chân ; 3, thàu-bêng-chân ; 4, sòe-lia̍p-chân ; 5, 6, liâm-e̍k-chân ; 7, chhiok-kak-sió-thé ; 8, huih-kńg kap sîn-keng (Cunningham).</em></p>
 
 </div>
 
@@ -275,11 +275,11 @@ Tī chńg-thâu-á ê bé ū chńg-kah, sī chhin-chhiūⁿ kak ê lūi, chhah j
 #### 📖 原書第 131 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 90 tô.—Chńg-kah : A, chńg-kah ; B, chńg-kah ê hoâiⁿ-tng-bīn ; C, chńg-kah ê chhiòng-tng-bīn ; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chńg-kah kap phê sio-chiap ê bah hit téng-bīn ; 3, jiáu-poàn-goa̍t ; 4, jiáu ê iān-kîⁿ ; 5, jiáu-toan chiū-sī chńg-kah-bé ; 6, jiáu-chhng ; 7, jiáu-bú ; 8, chin-phê ê leng-thâu-pō·. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)](assets/illustrations/page_131_fig_01.png)
+![原書插圖 - 第 131 頁 (圖 1)](assets/illustrations/page_131_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 90 tô.—Chńg-kah : A, chńg-kah ; B, chńg-kah ê hoâiⁿ-tng-bīn ; C, chńg-kah ê chhiòng-tng-bīn ; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chńg-kah kap phê sio-chiap ê bah hit téng-bīn ; 3, jiáu-poàn-goa̍t ; 4, jiáu ê iān-kîⁿ ; 5, jiáu-toan chiū-sī chńg-kah-bé ; 6, jiáu-chhng ; 7, jiáu-bú ; 8, chin-phê ê leng-thâu-pō·. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 90 tô.—Chńg-kah : A, chńg-kah ; B, chńg-kah ê hoâiⁿ-tng-bīn ; C, chńg-kah ê chhiòng-tng-bīn ; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chńg-kah kap phê sio-chiap ê bah hit téng-bīn ; 3, jiáu-poàn-goa̍t ; 4, jiáu ê iān-kîⁿ ; 5, jiáu-toan chiū-sī chńg-kah-bé ; 6, jiáu-chhng ; 7, jiáu-bú ; 8, chin-phê ê leng-thâu-pō·. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)</em></p>
 
 </div>
 

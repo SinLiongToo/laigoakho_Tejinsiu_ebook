@@ -577,11 +577,11 @@ Chèng-chōng: Tē it chá ê chèng-chōng sī ùi-kôaⁿ, ū-sî khéh-khéh-
 #### 📖 原書第 568 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 467 tô.—Siau-hòⁿ-ji̍at; hì-kiat-hu̍t chèng (Sahli and Potter).](assets/illustrations/page_568_fig_01.png)
+![原書插圖 - 第 568 頁 (圖 1)](assets/illustrations/page_568_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 467 tô.—Siau-hòⁿ-ji̍at; hì-kiat-hu̍t chèng (Sahli and Potter).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 467 tô.—Siau-hòⁿ-ji̍at; hì-kiat-hu̍t chèng (Sahli and Potter).</em></p>
 
 </div>
 
@@ -651,11 +651,11 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó͘-khǹg i chia̍h.
 #### 📖 原書第 569 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 468 tô:—Khip-ín-khì.](assets/illustrations/page_569_fig_01.png)
+![原書插圖 - 第 569 頁 (圖 1)](assets/illustrations/page_569_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 468 tô:—Khip-ín-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 468 tô:—Khip-ín-khì.</em></p>
 
 </div>
 
@@ -784,11 +784,11 @@ Nā iáu-bē sìng mèh-phok, m̄-thang kì chha-put-to kúi-ē.
 #### 📖 原書第 571 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 469 tô:—Heng-khám-liām-háp-chhùi-ko-pò͘-hoat (after A.S. Morrow).](assets/illustrations/page_571_fig_01.png)
+![原書插圖 - 第 571 頁 (圖 1)](assets/illustrations/page_571_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 469 tô:—Heng-khám-liām-háp-chhùi-ko-pò͘-hoat (after A.S. Morrow).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 469 tô:—Heng-khám-liām-háp-chhùi-ko-pò͘-hoat (after A.S. Morrow).</em></p>
 
 </div>
 
@@ -958,16 +958,16 @@ Nā ōe hō͘ pīⁿ-lâng khah hoaⁿ-hí, an-sim, sī lán tio̍h tì-ì.
 #### 📖 原書第 573 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![470 Tē 470 tô:—Hì-hiỏh-iām hoān-chiá hun-lī ê thé-un-pió (Clinical Methods).](assets/illustrations/page_573_fig_01.png)
+![原書插圖 - 第 573 頁 (圖 1)](assets/illustrations/page_573_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>470
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>470
 Tē 470 tô:—Hì-hiỏh-iām hoān-chiá hun-lī ê thé-un-pió (Clinical Methods).</em></p>
 
-![471 Tē 471 tô:—Khì-kńg-chi-hì-iām hoān-chiá sàn-hoàn ê thé-un-pió (Clinical Methods).](assets/illustrations/page_573_fig_02.png)
+![原書插圖 - 第 573 頁 (圖 2)](assets/illustrations/page_573_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>471
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>471
 Tē 471 tô:—Khì-kńg-chi-hì-iām hoān-chiá sàn-hoàn ê thé-un-pió (Clinical Methods).</em></p>
 
 </div>
@@ -1214,11 +1214,11 @@ Chèng-chōng: 1. Goân-hoat-sèng-ê (原發性, *primary*): Hut-jiân khí tā
 #### 📖 原書第 577 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 471ª tô.—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho͘-chit (單力組織, elastic tissue). [From "Clinical Methods."]](assets/illustrations/page_577_fig_01.png)
+![原書插圖 - 第 577 頁 (圖 1)](assets/illustrations/page_577_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 471ª tô.—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho͘-chit (單力組織, elastic tissue). [From "Clinical Methods."]</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 471ª tô.—Hoān-tio̍h hì-kiat-hu̍t chèng só͘ khak-chhut thâm-lāi ê tan-le̍k-cho͘-chit (單力組織, elastic tissue). [From "Clinical Methods."]</em></p>
 
 </div>
 
@@ -1279,11 +1279,11 @@ Nā-sī hì-chōng ū jiám-tio̍h kiat-hu̍t, tāi-seng khí ê ūi sī téng-p
 #### 📖 原書第 578 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 472 tô.—Hì-chōng-lāi ê kiat-hut-khang. Téng-bīn ū chit-ê tōa khang ; ē-bīn ê hì ê cho·-chit ū pìⁿ-chiâⁿ téng (Mc Farland).](assets/illustrations/page_578_fig_01.png)
+![原書插圖 - 第 578 頁 (圖 1)](assets/illustrations/page_578_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 472 tô.—Hì-chōng-lāi ê kiat-hut-khang. Téng-bīn ū chit-ê tōa khang ; ē-bīn ê hì ê cho·-chit ū pìⁿ-chiâⁿ téng (Mc Farland).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 472 tô.—Hì-chōng-lāi ê kiat-hut-khang. Téng-bīn ū chit-ê tōa khang ; ē-bīn ê hì ê cho·-chit ū pìⁿ-chiâⁿ téng (Mc Farland).</em></p>
 
 </div>
 
@@ -1510,11 +1510,11 @@ Mî-sî lâu chhìn-kōaⁿ : Pīⁿ-lâng só͘ khip-ji̍p ê khong-khì nā kh
 #### 📖 原書第 582 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 466b tô:--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só· khak-chhut ê bô·. (From “Clinical Methods.”)](assets/illustrations/page_582_fig_01.png)
+![原書插圖 - 第 582 頁 (圖 1)](assets/illustrations/page_582_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 466b tô:--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só· khak-chhut ê bô·.
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 466b tô:--Chhiam-î-sèng khì-kńg-chi-īam pīⁿ-lâng só· khak-chhut ê bô·.
 (From “Clinical Methods.”)</em></p>
 
 </div>

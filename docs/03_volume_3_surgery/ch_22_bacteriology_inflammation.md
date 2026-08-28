@@ -9,11 +9,11 @@
 #### 📖 原書第 322 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 186 tô:—Chòe pôe-iúⁿ-hoat ê ke-sì : 1, chiú-teng ; 2, ngoeh-á ; 3, siau-tók-chhit-pò͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.](assets/illustrations/page_322_fig_01.png)
+![原書插圖 - 第 322 頁 (圖 1)](assets/illustrations/page_322_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 186 tô:—Chòe pôe-iúⁿ-hoat ê ke-sì : 1, chiú-teng ; 2, ngoeh-á ; 3, siau-tók-chhit-pò͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 186 tô:—Chòe pôe-iúⁿ-hoat ê ke-sì : 1, chiú-teng ; 2, ngoeh-á ; 3, siau-tók-chhit-pò͘ ; 4, pôe-iúⁿ-hoat-kńg ; 5, pe̍h-kim-chiam.</em></p>
 
 </div>
 
@@ -75,16 +75,16 @@ Nā tio̍h ōaⁿ pau-siong-liāu chi̍t ji̍t nn̄g pái, m̄-thang phah-sǹg c
 #### 📖 原書第 323 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![187 Tē 187 tô.—Chhit ian-thâu chòe pôe-iúⁿ-hoat. (Morrow, from Sanders' "Modern Methods in Nursing," by permission of W. B. Saunders Co., publishers.)](assets/illustrations/page_323_fig_01.png)
+![原書插圖 - 第 323 頁 (圖 1)](assets/illustrations/page_323_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>187
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>187
 Tē 187 tô.—Chhit ian-thâu chòe pôe-iúⁿ-hoat. (Morrow, from Sanders' "Modern Methods in Nursing," by permission of W. B. Saunders Co., publishers.)</em></p>
 
-![Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow).](assets/illustrations/page_323_fig_02.png)
+![原書插圖 - 第 323 頁 (圖 2)](assets/illustrations/page_323_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 188 tô.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-giām-kńg-lāi ê pôe-iúⁿ-hoat ê mih-nih (Morrow).</em></p>
 
 </div>
 
@@ -145,11 +145,11 @@ Tē 188 tô͘.—Tùi ū pīⁿ ê só͘-chāi chiong sòe-khún chai tī chhì-
 #### 📖 原書第 324 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 189 tô.—Kúi-nā khoán ê bî-seng-bút hián-bî-kiàⁿ khòaⁿ-ê chha-put-to 1,000 pē khok-tōa : 1, liân-só-chōng-kiû-khún ; 2, phû-tô-chōng-kiû-khún ; 3, hì-iām-siang-kiû-khún ; 4, lîm-pīⁿ-siang-kiû-khún ; 5, sit-hû-tek-lí-a-sòe-khún ; 6, sió-tng-jia̍t-sòe-khún ; 7, kiat-hu̍t-sòe-khún ; 8, mûi-to̍k-lê-soān-khún.](assets/illustrations/page_324_fig_01.png)
+![原書插圖 - 第 324 頁 (圖 1)](assets/illustrations/page_324_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 189 tô.—Kúi-nā khoán ê bî-seng-bút hián-bî-kiàⁿ khòaⁿ-ê chha-put-to 1,000 pē khok-tōa : 1, liân-só-chōng-kiû-khún ; 2, phû-tô-chōng-kiû-khún ; 3, hì-iām-siang-kiû-khún ; 4, lîm-pīⁿ-siang-kiû-khún ; 5, sit-hû-tek-lí-a-sòe-khún ; 6, sió-tng-jia̍t-sòe-khún ; 7, kiat-hu̍t-sòe-khún ; 8, mûi-to̍k-lê-soān-khún.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 189 tô.—Kúi-nā khoán ê bî-seng-bút hián-bî-kiàⁿ khòaⁿ-ê chha-put-to 1,000 pē khok-tōa : 1, liân-só-chōng-kiû-khún ; 2, phû-tô-chōng-kiû-khún ; 3, hì-iām-siang-kiû-khún ; 4, lîm-pīⁿ-siang-kiû-khún ; 5, sit-hû-tek-lí-a-sòe-khún ; 6, sió-tng-jia̍t-sòe-khún ; 7, kiat-hu̍t-sòe-khún ; 8, mûi-to̍k-lê-soān-khún.</em></p>
 
 </div>
 
@@ -636,11 +636,11 @@ Iām-chèng ê sî, huih-nih ê huih-chiuⁿ tùi m̂ng-sòe-huih-kńg siàm-chh
 #### 📖 原書第 331 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 190 tô.—Chiàh-khún-sòe-pau teh chiàh kiat-hu̍t-khún, kā i phah-biát (Rose and Carless).](assets/illustrations/page_331_fig_01.png)
+![原書插圖 - 第 331 頁 (圖 1)](assets/illustrations/page_331_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 190 tô.—Chiàh-khún-sòe-pau teh chiàh kiat-hu̍t-khún, kā i phah-biát (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 190 tô.—Chiàh-khún-sòe-pau teh chiàh kiat-hu̍t-khún, kā i phah-biát (Rose and Carless).</em></p>
 
 </div>
 

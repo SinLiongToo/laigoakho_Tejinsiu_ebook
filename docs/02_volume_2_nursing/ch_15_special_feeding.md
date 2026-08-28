@@ -9,11 +9,11 @@
 #### 📖 原書第 200 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)](assets/illustrations/page_200_fig_01.png)
+![原書插圖 - 第 200 頁 (圖 1)](assets/illustrations/page_200_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 130 tô.—Tùi phīⁿ-khang chhī pīⁿ-lâng ê hoat-tō͘. (From Woodwark's “Medical Nursing,” Edward Arnold, publisher.)</em></p>
 
 </div>
 
@@ -348,11 +348,11 @@ Chō-iòh: Ū-sî ēng chi̍t lia̍p iòh-oân, that-jip kong-bûn-lāi, im-tō 
 #### 📖 原書第 205 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).](assets/illustrations/page_205_fig_01.png)
+![原書插圖 - 第 205 頁 (圖 1)](assets/illustrations/page_205_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 132 tô.—Kúi-nā khoán ê chō-ióh: 1, im-tō-chō-ióh; 2–5, tit-tng-chō-ióh; 6, jiō-tō-chō-ióh (Thornton).</em></p>
 
 </div>
 
@@ -399,11 +399,11 @@ Ióh-kan m̄-thang hē tī ióh-toaⁿ-téng.
 #### 📖 原書第 206 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).](assets/illustrations/page_206_fig_01.png)
+![原書插圖 - 第 206 頁 (圖 1)](assets/illustrations/page_206_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 132a tô.—Ūi-lú-khui-kháu-sùt liáu tàu chhiū-leng-kúg chhī pīⁿ-lâng: Tô· sī lâng heng-khám kap pak-tó· ê tò-pêng. Hiah-ê khah-o· ê chōa, sī hiap-kut; ē-tóe tiong-ng o·-tiám sī tō·-châi; siong-chhùi í-keng háp hó-sè; chhiū-leng-kńg tī siong-chhùi ê téng-bīn pō·-ūi (Rose and Carless).</em></p>
 
 </div>
 

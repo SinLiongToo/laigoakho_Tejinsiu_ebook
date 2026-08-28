@@ -62,11 +62,11 @@ Nā ēng mî-hoe, ēng liáu chiū kā sio-khì; nā ēng bīn-kun, ēng liáu t
 #### 📖 原書第 392 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 244 tô.-Trachoma (Nettleship).](assets/illustrations/page_392_fig_01.png)
+![原書插圖 - 第 392 頁 (圖 1)](assets/illustrations/page_392_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 244 tô.-Trachoma
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 244 tô.-Trachoma
 (Nettleship).</em></p>
 
 </div>
@@ -144,15 +144,15 @@ Siōng-tè bô kah lâng tiòh gâu, sī kiò lâng tiòh chīn-tiong.
 #### 📖 原書第 393 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.](assets/illustrations/page_393_fig_01.png)
+![原書插圖 - 第 393 頁 (圖 1)](assets/illustrations/page_393_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 245 tô.—Kak-mó͘h-ùi-iông, chhiòng-tñg-bīn : 1, ùi-iông teh chìn-chêng tī kak-mó͘h-tiong; 2, kak-mó͘h ê thâu-chêng-bīn ; 3, ùi-iông ; 4, kak-mó͘h ê āu-bīn.</em></p>
 
-![Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).](assets/illustrations/page_393_fig_02.png)
+![原書插圖 - 第 393 頁 (圖 2)](assets/illustrations/page_393_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 246 tô.—Chiân-pông-thiok-lâng-chèng ê tô : a-b, ùi-iông teh chìn-chêng ê iān-kîⁿ ; b-c, ùi-iông ê bīn ; c ê téng-bīn chōa kap a ê téng-bīn chōa sī hông-chhái-kîⁿ ; d, lâng chek-chū tī chiân-pông ê téng-bīn kîⁿ (Parsons).</em></p>
 
 </div>
 
@@ -203,11 +203,11 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 #### 📖 原書第 394 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 247 tô.](assets/illustrations/page_394_fig_01.png)
+![原書插圖 - 第 394 頁 (圖 1)](assets/illustrations/page_394_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 247 tô.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 247 tô.</em></p>
 
 </div>
 
@@ -279,11 +279,11 @@ Chiân-phông-thiok-lâng (前房蓄膿, *Hypopyon*) : Ū-sî ba̍k-chiu ê kak-
 #### 📖 原書第 395 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).](assets/illustrations/page_395_fig_01.png)
+![原書插圖 - 第 395 頁 (圖 1)](assets/illustrations/page_395_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 248 tô.—Sī hông-chhái-chhiat-tû-sùt kiàh ka-to ê hoat; tī chia ka-to tú-tú beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ (半徑線, radially); tē 249 tô beh ka tī hông-chhái pòaⁿ-kēng-sòaⁿ ê tit-kak (直角, right angles to the previous position). Chhêng ê ka-hoat só͘ chhòng ê hông-chhái-khoat (虹彩缺, coloboma) sī khah oeh (Parsons).</em></p>
 
 </div>
 
@@ -353,27 +353,27 @@ Péh-lāi-chiàng sī in-ūi chúi-chiⁿ-thé túg lô, lâng chiū chhiⁿ-mî
 #### 📖 原書第 396 頁
 
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 24px 0;">
 
-![Tē 250 tô:—Hông-chhái-ngoeh-á.](assets/illustrations/page_396_fig_01.png)
+![原書插圖 - 第 396 頁 (圖 1)](assets/illustrations/page_396_fig_01.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 250 tô:—Hông-chhái-ngoeh-á.</em></p>
 
-![Tē 251 tô:—Hông-chhái-chián-to.](assets/illustrations/page_396_fig_02.png)
+![原書插圖 - 第 396 頁 (圖 2)](assets/illustrations/page_396_fig_02.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 251 tô:—Hông-chhái-chián-to.</em></p>
 
-![Tē 252 tô:—Khui-kiám-khì.](assets/illustrations/page_396_fig_03.png)
+![原書插圖 - 第 396 頁 (圖 3)](assets/illustrations/page_396_fig_03.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 252 tô:—Khui-kiám-khì.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 252 tô:—Khui-kiám-khì.</em></p>
 
-![Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.](assets/illustrations/page_396_fig_04.png)
+![原書插圖 - 第 396 頁 (圖 4)](assets/illustrations/page_396_fig_04.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 254 tô:—Gán-kiû-kò͘-tēng-ngoeh-á.</em></p>
 
-![Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.](assets/illustrations/page_396_fig_05.png)
+![原書插圖 - 第 396 頁 (圖 5)](assets/illustrations/page_396_fig_05.png)
 
-<p style="font-size: 14.5px; color: #4a5568; margin-top: 6px; margin-bottom: 18px;"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></p>
+<p style="font-size: 14.5px; color: #4a5568; margin-top: 8px; margin-bottom: 20px;"><em>Tē 253 tô:—Gán-kiû-tiah-chhut-chián-to.</em></p>
 
 </div>
 
