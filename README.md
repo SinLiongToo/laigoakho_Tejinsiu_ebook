@@ -125,25 +125,52 @@ Laigoakho_Tennjinsiu_OCR_MD/
 
 ---
 
-## 5. 操作手冊與指令指南 (CLI Guide)
+## 5. 快速上手與操作手冊 (Quick Start & CLI Guide)
 
-### 🚀 一鍵端到端執行
-```powershell
-python run_full_process.py
-```
+### ⚙️ 環境安裝與 API Key 設定 (Prerequisites)
 
-### 🖼️ 執行全書插圖自動偵測與裁切
-```powershell
-python src/extract_all_illustrations.py
-```
+若您 **Fork 或 Clone** 本專案欲在本地執行或處理其他古籍文獻：
 
-### 🔨 重新編譯生成 docs/ 電子書 (隨時可執行)
-```powershell
+1. **安裝 Python 依賴套件**：
+   ```bash
+   pip install google-genai pillow pymupdf tenacity
+   ```
+
+2. **設定您的 Gemini API Key (安全環境變數)**：
+   本專案遵循最佳安全實踐，絕不硬編碼任何私密金鑰。請透過系統環境變數設定您專屬的 API Key（可至 [Google AI Studio](https://aistudio.google.com/app/apikey) 免費申請）：
+   - **Windows (PowerShell)**：
+     ```powershell
+     $env:GEMINI_API_KEY = "您的_GEMINI_API_KEY"
+     ```
+   - **Linux / macOS (Bash / Zsh)**：
+     ```bash
+     export GEMINI_API_KEY="您的_GEMINI_API_KEY"
+     ```
+   - *(亦可在專案根目錄建立 `.env` 檔案填入 `GEMINI_API_KEY=your_key`，專案已配置 `.gitignore` 自動防護，絕不會被推上 GitHub)*
+
+---
+
+### 🚀 執行指令 (Execution Commands)
+
+#### 📖 情境 A：重新聚合現有電子書 (無需 API Key，完全免費)
+若您僅修改了排版樣式、字體或個別章節 Markdown 內容，可直接在本地重新聚合生成：
+```bash
 python src/build_book.py
 ```
 
-### 📊 查看目前字數、進度與 API 費用統計
-```powershell
+#### ⚡ 情境 B：執行端到端完整數位典藏流水線 (需設定 API Key)
+一鍵執行高清轉圖、Gemini 3.7 Flash 深度視覺辨識、逐段台漢對照、插圖自動偵測裁切與 Docsify 電子書聚合：
+```bash
+python run_full_process.py
+```
+
+#### 🖼️ 獨立執行插圖自動偵測與裁切：
+```bash
+python src/extract_all_illustrations.py
+```
+
+#### 📊 即時查看字數、完成進度與 API 費用統計：
+```bash
 python calculate_stats.py
 ```
 
