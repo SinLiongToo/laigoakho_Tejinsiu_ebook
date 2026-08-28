@@ -60,20 +60,20 @@
     }
 
     [data-theme="dark"] {
-      /* Dark Mode Variables */
-      --bg-primary: #0f172a;
-      --bg-secondary: #1e293b;
-      --bg-sidebar: #1e293b;
-      --text-primary: #f1f5f9;
-      --text-secondary: #cbd5e1;
-      --text-muted: #94a3b8;
-      --border-color: #334155;
-      --blockquote-bg: #1e293b;
-      --blockquote-border: #38b2ac;
-      --table-th-bg: #334155;
-      --card-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
-      --code-bg: #1e293b;
-      --sidebar-toggle-bg: #1e293b;
+      /* Dark Mode Variables - Ultra Crisp Contrast & Legibility */
+      --bg-primary: #0b0f19;
+      --bg-secondary: #131b2e;
+      --bg-sidebar: #111827;
+      --text-primary: #ffffff;
+      --text-secondary: #f3f4f6;
+      --text-muted: #d1d5db;
+      --border-color: #374151;
+      --blockquote-bg: #131c2e;
+      --blockquote-border: #2dd4bf;
+      --table-th-bg: #1f2937;
+      --card-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
+      --code-bg: #1f2937;
+      --sidebar-toggle-bg: #1f2937;
     }
 
     /* ==========================================================================
@@ -94,6 +94,11 @@
       padding: 30px 24px 80px 24px !important;
       color: var(--text-primary) !important;
       font-family: var(--font-zh) !important;
+    }
+
+    .markdown-section p, 
+    .markdown-section li {
+      color: var(--text-primary) !important;
     }
 
     .markdown-section h1, 
@@ -136,7 +141,8 @@
       font-family: var(--font-zh) !important;
     }
 
-    .markdown-section blockquote p {
+    .markdown-section blockquote p,
+    .markdown-section blockquote strong {
       margin: 6px 0;
       color: var(--text-primary) !important;
     }
@@ -188,7 +194,7 @@
     }
 
     [data-theme="dark"] .markdown-section img {
-      filter: brightness(0.92) contrast(1.05);
+      filter: brightness(0.95) contrast(1.05);
       background-color: #1e293b;
     }
 
@@ -226,6 +232,12 @@
       font-weight: 600;
     }
 
+    [data-theme="dark"] .sidebar ul li.active > a {
+      color: #2dd4bf !important;
+      background-color: #1f2937 !important;
+      font-weight: 700;
+    }
+
     .sidebar .folder {
       cursor: pointer;
       font-weight: 700;
@@ -235,14 +247,46 @@
       user-select: none;
     }
 
+    /* One-Click Collapse / Expand Toolbar */
+    .sidebar-collapse-toolbar {
+      padding: 4px 14px 10px 14px;
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 6px;
+    }
+
+    .collapse-all-btn {
+      width: 100%;
+      padding: 7px 10px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      font-size: 13.5px;
+      font-family: var(--font-zh);
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .collapse-all-btn:hover {
+      border-color: var(--theme-color);
+      background-color: var(--blockquote-bg);
+      color: var(--theme-color);
+    }
+
     /* ==========================================================================
        Dedicated Search Panel (Separated from Sidebar Chapters Tree)
        ========================================================================== */
     .sidebar .search {
       position: relative;
-      border-bottom: 2px solid var(--border-color) !important;
-      padding: 12px 14px;
-      margin-bottom: 8px;
+      border-bottom: 1px solid var(--border-color) !important;
+      padding: 12px 14px 8px 14px;
+      margin-bottom: 4px;
     }
 
     .sidebar .search input {
@@ -320,8 +364,8 @@
 
     [data-theme="dark"] mark.search-keyword-highlight,
     [data-theme="dark"] .search-keyword-highlight {
-      background-color: #a16207 !important;
-      color: #fef9c3 !important;
+      background-color: #ca8a04 !important;
+      color: #0b0f19 !important;
       border-bottom: 2px solid #facc15 !important;
     }
 
@@ -438,6 +482,51 @@
     });
 
     // --------------------------------------------------------------------------
+    // One-Click Sidebar Collapse / Expand Functionality (左側一鍵全部收合/展開)
+    // --------------------------------------------------------------------------
+    let isAllExpanded = false;
+    function toggleAllSidebarChapters() {
+      const folderSpans = document.querySelectorAll('.sidebar-nav .folder, .sidebar-nav li.collapse > span, .sidebar-nav li.open > span');
+      isAllExpanded = !isAllExpanded;
+      
+      folderSpans.forEach(span => {
+        const parentLi = span.closest('li');
+        if (parentLi) {
+          if (isAllExpanded && parentLi.classList.contains('collapse')) {
+            span.click();
+          } else if (!isAllExpanded && parentLi.classList.contains('open')) {
+            span.click();
+          }
+        }
+      });
+      
+      const icon = document.getElementById('collapse-icon');
+      const text = document.getElementById('collapse-text');
+      if (icon && text) {
+        icon.textContent = isAllExpanded ? '📁' : '📂';
+        text.textContent = isAllExpanded ? '一鍵全部收合' : '一鍵全部展開';
+      }
+    }
+
+    function injectSidebarCollapseButton() {
+      const searchBox = document.querySelector('.sidebar .search');
+      if (searchBox && !document.querySelector('.sidebar-collapse-toolbar')) {
+        const toolbar = document.createElement('div');
+        toolbar.className = 'sidebar-collapse-toolbar';
+        toolbar.innerHTML = `
+          <button id="btn-collapse-all" class="collapse-all-btn" title="一鍵全部展開 / 全部收合所有篇章">
+            <span id="collapse-icon">📂</span> <span id="collapse-text">一鍵全部展開</span>
+          </button>
+        `;
+        searchBox.insertAdjacentElement('afterend', toolbar);
+        const btn = document.getElementById('btn-collapse-all');
+        if (btn) {
+          btn.addEventListener('click', toggleAllSidebarChapters);
+        }
+      }
+    }
+
+    // --------------------------------------------------------------------------
     // Keyword Highlighting in Main Content Area
     // --------------------------------------------------------------------------
     function applyKeywordHighlight() {
@@ -517,6 +606,7 @@
           });
 
           hook.doneEach(function() {
+            injectSidebarCollapseButton();
             applyKeywordHighlight();
             
             // Listen for search input typing to highlight keywords in real time
