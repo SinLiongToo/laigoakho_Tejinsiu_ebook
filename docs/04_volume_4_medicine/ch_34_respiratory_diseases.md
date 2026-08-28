@@ -445,7 +445,7 @@ Khì-kńg-chi-khok-tiong. Chit ê pīⁿ khah-siông sī in-ūi khah kú ū sàu
 #### [氣管枝擴張 (續)] `[邊註: Khì-kúng-chi-khok-tiong]`
 
 mî-sî hiah ê thâm chek-chū tī khì-kúng-lāi; chá-khí khí-lâi ê sî, hit ê thâm ōe sió-khóa ōaⁿ-ūi, án-ni pīⁿ-lâng liâm-piⁿ sàu, thâm chin chōe chiū chhut-lâi. Ū-sî tī chi̍t ji̍t ê tiong-kan ū thò͘ thâm 100.0 c.c. chì 1,000.0 c.c., chin m̄-hó bī, ū-sî chhàu-sng. Phùi tī thâm-koàn ê sî pīⁿ-chiāⁿ saⁿ iān:
-1. Téng-bīn iān phéh-phéh chhiah-nĝ-sek.
+1. Téng-bīn iān phéh-phéh chhiah-nĝ-sek.
 2. Tiong-ng chúi-chúi liâm-liâm.
 3. Ē-bīn chhin-chhiūⁿ bô chheng-khì hé-hu-sek ê lâng chi̍t iūⁿ.
 

@@ -1279,7 +1279,7 @@ Tē saⁿ kî tióh ēng sio ê bīn-kun, tī thán-á-ē kā i chhit ta. Nā l�
 
 ### Ge̍h-keng（月經）
 
-Tióh chai ge̍h-keng lâi ê sî-kî ū chiàu chhù-sū á-bô, sī chìn-chêng, á-sī thè-āu, iā hit ê cheng-chha kúi ji̍t. Pak-tó ōe thiàⁿ bōe? thiàⁿ sī chìn-chêng thiàⁿ, á-sī teh lâi ê sî thiàⁿ? thiàⁿ sī kúi-tiám-cheng-kú, á-sī kúi-nā-ji̍t? Iā tióh chai thiàⁿ ê ūi-tì, kap i ê khoán-sit. Huih chōe á-sī chió? sek-tī cháiⁿ-iūⁿ? khì-bī, ōe pháiⁿ-bī bōe? ū gêng-teh ê huih bô? Ū pe̍h-tài bô? i ê khoán-sit sī cháiⁿ-iūⁿ? sī pe̍h-pe̍h, nĝ-nĝ liâm-liâm, chōe á-sī chió? Tióh lóng chim-chiok chhâ.
+Tióh chai ge̍h-keng lâi ê sî-kî ū chiàu chhù-sū á-bô, sī chìn-chêng, á-sī thè-āu, iā hit ê cheng-chha kúi ji̍t. Pak-tó ōe thiàⁿ bōe? thiàⁿ sī chìn-chêng thiàⁿ, á-sī teh lâi ê sî thiàⁿ? thiàⁿ sī kúi-tiám-cheng-kú, á-sī kúi-nā-ji̍t? Iā tióh chai thiàⁿ ê ūi-tì, kap i ê khoán-sit. Huih chōe á-sī chió? sek-tī cháiⁿ-iūⁿ? khì-bī, ōe pháiⁿ-bī bōe? ū gêng-teh ê huih bô? Ū pe̍h-tài bô? i ê khoán-sit sī cháiⁿ-iūⁿ? sī pe̍h-pe̍h, nĝ-nĝ liâm-liâm, chōe á-sī chió? Tióh lóng chim-chiok chhâ.
 
 > **【全漢對照】**
 > 著正月經來的時期有照秩序抑無，是進前，抑是退後，也彼個相差幾日。腹肚會疼𣍐？疼是進前疼，抑是咧來的時疼？疼是幾點鐘久，抑是幾若日？也著知疼的位置，佮伊的款式。血濟抑是少？色緻怎樣？氣味，會歹味𣍐？有凝咧的血無？有白帶無？伊的款式是怎樣？是白白、黃黃黏黏，濟抑是少？著攏斟酌查。
@@ -1311,7 +1311,7 @@ I-seng nā hoan-hù sím-mi̍h tāi-chì m̄-thang iān-chhiân.
 
 i ê seng-khu khah tāng, chhin-chhiūⁿ bîn-chhng̀ chài i bōe tiâu ê khoán, che sī gûi-hiám ê chèng-hāu.
 
-Nā pīⁿ-lâng hut-jiân bô siūⁿ ài lim chia̍h, á-sī tāi-, siáu-piān ka-kī m̄-chai, iā sī gûi-hiám ê chèng-hāu. M̄-kú kín-kip ê chèng, chhin-chhiūⁿ sió-tnĝ-jia̍t ê pīⁿ, nā bô ài lim chia̍h, khiok bô sím-mih iàu-kín.
+Nā pīⁿ-lâng hut-jiân bô siūⁿ ài lim chia̍h, á-sī tāi-, siáu-piān ka-kī m̄-chai, iā sī gûi-hiám ê chèng-hāu. M̄-kú kín-kip ê chèng, chhin-chhiūⁿ sió-tnĝ-jia̍t ê pīⁿ, nā bô ài lim chia̍h, khiok bô sím-mih iàu-kín.
 
 > **【全漢對照】**
 > 274　查看出病者的事情
@@ -1354,7 +1354,7 @@ Nā ū sim-chōng pīⁿ ê lâng, i ê khoán-sit, chhin-chhiūⁿ chin kip-sò
 
 ### [Put-séng-jîn-sū / 不省人事]
 
-Pīⁿ-lâng nā m̄-chai-lâng (put-séng-jîn-sū) iā sī pháiⁿ-tiāu-sè, ū-sî chhin-chhiūⁿ sió-tnĝ-jia̍t m̄-chai-lâng lām-sám kóng. M̄-kú iā ū chiú-chùi hoat-kông ê hun-bê, kap chit hō sī bô sio-siāng.
+Pīⁿ-lâng nā m̄-chai-lâng (put-séng-jîn-sū) iā sī pháiⁿ-tiāu-sè, ū-sî chhin-chhiūⁿ sió-tnĝ-jia̍t m̄-chai-lâng lām-sám kóng. M̄-kú iā ū chiú-chùi hoat-kông ê hun-bê, kap chit hō sī bô sio-siāng.
 
 Iā ū koh chi̍t khoán ê m̄-chai-lâng chiū-sī ū náu-chhut-huih ê chèng, á-sī náu siⁿ chéng-iông (náu siⁿ liû). Lâng nā ū chit hō chèng, i ê pīⁿ-chōng bô sio-siāng, iā bô tiāⁿ-tio̍h. Ū-sî pīⁿ-lâng ài lām-sám ka-kī tín-tāng, ū-sî i ê khoán-sit sī tîm-tāng-ê; ū-sî lóng tiām-tiām bē kóng ōe, bē tín-tāng, lóng m̄-chai-lâng. Nā ū chit hō chèng-chōng, lóng sī m̄-hó ê tiāu-sè.
 

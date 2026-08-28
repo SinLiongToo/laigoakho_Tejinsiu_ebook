@@ -37,17 +37,17 @@ graph TD
   font-display: swap;
 }
 
-/* 2. POJ 羅馬字音標與調號安全防護 (覆蓋 Basic Latin, Latin-1, Ext-A/B, Diacritics, Superscripts) */
+/* 2. POJ 羅馬字音標與調號安全防護 (相容 iOS WebKit，覆蓋 Basic Latin, Latin-1, Ext-A/B, Diacritics, Superscripts) */
 @font-face {
   font-family: 'POJ-Fallback';
-  src: local('-apple-system'), local('Roboto'), local('Segoe UI'), local('Arial'), local('Helvetica Neue');
+  src: local('Helvetica Neue'), local('Helvetica'), local('Arial'), local('Roboto'), local('Segoe UI');
   unicode-range: U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F;
 }
 
-/* 3. 最佳字型優先棧 (Font Stack) */
+/* 3. 最佳字型優先棧 (Font Stack，相容 iOS 蘋方與 HanaMin 罕見字) */
 :root {
-  --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --font-zh: 'POJ-Fallback', 'Iansui', 'HanaMinA', 'HanaMinB', 'HanaMin', 'Klee One', 'Noto Serif TC', 'PingFang TC', 'Heiti TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
+  --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
 ```
 

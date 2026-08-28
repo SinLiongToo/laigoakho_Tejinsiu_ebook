@@ -479,9 +479,9 @@ Chiah ê chēng-mėh, ū-ê ū piān-mó͘h (瓣膜) tī lāi-bīn; i ê chok-i�
 
 ---
 
-### [Mnĝ-sòe-huih-kúng]
+### [Mnĝ-sòe-huih-kúng]
 
-3. Tē saⁿ sī tē it sòe ê huih-kúng kiò mnĝ-sòe-huih-kúng (毛細血管, *capillaries*). Tī chit lāi-bīn huih ê ap-le̍k sī kē, sûn-khoân pīⁿ-pīⁿ ǹg-óa sim hit bīn (tē 54, 55, 56 tô͘).
+3. Tē saⁿ sī tē it sòe ê huih-kúng kiò mnĝ-sòe-huih-kúng (毛細血管, *capillaries*). Tī chit lāi-bīn huih ê ap-le̍k sī kē, sûn-khoân pīⁿ-pīⁿ ǹg-óa sim hit bīn (tē 54, 55, 56 tô͘).
 
 Lán ti̍h ōe-kì-tit tī hì-tōng-mėh ê lāi-bīn sī ù-òe ê huih, iā tī hì-chēng-mėh, sui-bóng sī chēng-mėh, m̄-kú ū chheng-khì ê huih. Chit-ê sī lē-gōa, in-ūi seng-khu-lāi ê chēng-mėh-lāi ū ù-òe ê huih, kan-ta hì-chēng-mėh-lāi ê huih sī chheng-khì.
 
@@ -493,7 +493,7 @@ Lán ti̍h ōe-kì-tit tī hì-tōng-mėh ê lāi-bīn sī ù-òe ê huih, iā t
 
 ---
 
-> **Tē 54 tô͘.**—Mnĝ-sòe-huih-kúng 2, lâi saⁿ-liân tōng-mėh 1, kap chēng-mėh 3. Chìⁿ ū chí-bêng huih-sûn-khoân ê hong-hiòng. (From Warwick and Tunstall’s “First Aid.”)
+> **Tē 54 tô͘.**—Mnĝ-sòe-huih-kúng 2, lâi saⁿ-liân tōng-mėh 1, kap chēng-mėh 3. Chìⁿ ū chí-bêng huih-sûn-khoân ê hong-hiòng. (From Warwick and Tunstall’s “First Aid.”)
 > 
 > **【全漢對照】**
 > **第 54 圖。**——毛細血管 2，來相連動脈 1，佮靜脈 3。箭有指明血循環ê方向。（From Warwick and Tunstall’s “First Aid.”）
@@ -965,7 +965,7 @@ tōng-me̍h iáu-bē kàu kut-pôaⁿ, ū tōng-me̍h-chi pun-khui thàu tī ūi
 
 ---
 
-Tī kun-bah-lāi, kap seng-khu ta̍k só͘-chāi, koh pun kàu chin sòe tiâu, miâ kiò mnĝ-sòe-huih-kńg (毛...
+Tī kun-bah-lāi, kap seng-khu ta̍k só͘-chāi, koh pun kàu chin sòe tiâu, miâ kiò mnĝ-sòe-huih-kńg (毛...
 
 > **【全漢對照】**
 > 【毛細血管】

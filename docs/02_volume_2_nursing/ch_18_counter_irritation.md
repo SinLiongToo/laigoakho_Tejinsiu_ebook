@@ -82,7 +82,7 @@ Nā-sī ū bóe piān ê kài-loảh-ko chòe kui phìⁿ, chit-ê thang ùn lé
 
 **[Chhat-io̍h]**
 
-Ū-sî ēng chhat-iòh chòe chhì-kek, á-sī ín-chhiah ê lō͘-ēng. Ū-sî ēng *tinctura iodi*, á-sī *linimentum iodi*, kā chhat. Nā chhat saⁿ sì pái, kiám-chháih phê-hu ōe chhớ-chhớ; nā án-ni liù-phê m̄-thang koh chhat.
+Ū-sî ēng chhat-iòh chòe chhì-kek, á-sī ín-chhiah ê lō͘-ēng. Ū-sî ēng *tinctura iodi*, á-sī *linimentum iodi*, kā chhat. Nā chhat saⁿ sì pái, kiám-chháih phê-hu ōe chhớ-chhớ; nā án-ni liù-phê m̄-thang koh chhat.
 
 > **【全漢對照】**
 > **［搽藥］**

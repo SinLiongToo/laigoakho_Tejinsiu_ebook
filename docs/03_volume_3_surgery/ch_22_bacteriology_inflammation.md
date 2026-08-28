@@ -790,7 +790,7 @@ Tio̍h khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 <!-- Page 333 Start -->
 #### 📖 原書第 333 頁
 
-### SÒE-KHÚN-HÁK, BIÁN-ĖK, IĀM-CHÈNG
+### SÒE-KHÚN-HÁK, BIÁN-ĖK, IĀM-CHÈNG
 
 tāng. Ū-sî kiám-chhái chi̍t lâng ê seng-khu, ū nñg liáp ê tōa lâng-iông (膿瘍, *abscess*), hit ê lâng iā bōe sím-mi̍h bô sóng-khoài; nā ū chéng-khí-lâi, hoat kiat-tè-chit-iām-chèng, i ê seng-khu tiāⁿ-tio̍h sī bô sóng-khoài; hit ê hoat-jia̍t iā chin tāng.
 

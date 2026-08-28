@@ -74,7 +74,7 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 
 ![原書插圖 - 第 24 頁 (圖 2)](assets/illustrations/page_024_fig_02.png)
 
-<p class="figure-caption"><em>Tē 4 tô̇. — Tnĝ-kut ê chhiòng-tn̄g-bīn : tuì 1, kàu gōa-bīn pîⁿ sī kian-kò͘-chit ; 2, lāi-bīn hái-mî-chit.</em></p>
+<p class="figure-caption"><em>Tē 4 tô̇. — Tnĝ-kut ê chhiòng-tn̄g-bīn : tuì 1, kàu gōa-bīn pîⁿ sī kian-kò͘-chit ; 2, lāi-bīn hái-mî-chit.</em></p>
 
 </div>
 

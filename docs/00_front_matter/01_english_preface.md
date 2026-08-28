@@ -29,7 +29,7 @@ AMOY VERNACULAR CHINESE
 
 > **［台文對照］** （台語漢字 + 白話字）
 > 專門為閱讀廈門白話字（閩南語白話字）的看護人員所編寫  
-> (*Choan-bûn ūi oa̍t-tho̍k Ē-mn̂g Pe̍h-ōe-jī ［Bân-lâm-gí Pe̍h-ōe-jī］ ê khàn-hō͘ jîn-oân só͘ phian-siá*)
+> (*Choan-bûn ūi oa̍t-tho̍k Ē-mn̂g Pe̍h-ōe-jī ［Bân-lâm-gí Pe̍h-ōe-jī］ ê khàn-hō͘ jîn-oân só͘ phian-siá*)
 > 
 > **［華語對照］**
 > 專為閱讀廈門白話字（閩南語羅馬字）之護理人員編撰

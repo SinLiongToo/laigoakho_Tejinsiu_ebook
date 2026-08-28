@@ -1738,7 +1738,7 @@ lâu-ba̍k-iû, nâ-âu thiàⁿ, chhin-chhiūⁿ kám-tio̍h ê khoán. Hoat-ch
 
 ---
 
-*Santoninum*: Chia̍h kè-thâu, khòaⁿ mi̍h sī nĝ-sek, jiō tāi-seng pìⁿ nĝ sek, āu-lâi o͘-sek. Hán-tit khòaⁿ áu-thò͘, sià-pak, chiam-bōng kap náu-le̍k-thoat-sit.
+*Santoninum*: Chia̍h kè-thâu, khòaⁿ mi̍h sī nĝ-sek, jiō tāi-seng pìⁿ nĝ sek, āu-lâi o͘-sek. Hán-tit khòaⁿ áu-thò͘, sià-pak, chiam-bōng kap náu-le̍k-thoat-sit.
 
 > **【全漢對照】**
 > *Santoninum*（山道年）：食過頭，看物是黃色，尿代先變黃色，後來烏色。罕得看嘔吐、瀉腹、譫妄佮腦力脫失。

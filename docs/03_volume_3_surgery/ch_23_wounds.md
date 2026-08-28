@@ -12,7 +12,7 @@
 ### CHHÒNG-SIONG
 
 **[Chhò-siong]**
-Tī chit chiuⁿ ê lāi-bīn beh kóng-khí bô-tiuⁿ-tî tú-tio̍h ê siong, í-ki̍p i-seng chhiú-su̍t ê siong. Lâng nā poa̍h-tó, á-sī hō͘ lâng phah-tio̍h, hit ê siū-siong ê só͘-chāi, nā phê-hu bô phòa, kiò-chòe chhò-siong (挫傷, *contusion*). Tī phê-ē ê kiat-tè-chit-lāi ū mn̂g-sòe-huih-kńg, chiah-ê ōe chhoah-tnḡ, chhut tām-po̍h huih tī phê-ē. Chit ê huih nā khah chōe kiò-chòe huih-chéng (血腫, *haematoma*). Nā-sī khah chió, hit ê phê ê sek-tī tāi-seng sī o͘, kàu chiah-khún-sòe-pau khip-siu tī huih-nih, hit ê sek chiū pìⁿ-chiâⁿ n̂g; koh bô kú ōe chiàu-goân. Chit-ê kiò-chòe phê-ē-ek-huih (皮下溢血, *echymosis*).
+Tī chit chiuⁿ ê lāi-bīn beh kóng-khí bô-tiuⁿ-tî tú-tio̍h ê siong, í-ki̍p i-seng chhiú-su̍t ê siong. Lâng nā poa̍h-tó, á-sī hō͘ lâng phah-tio̍h, hit ê siū-siong ê só͘-chāi, nā phê-hu bô phòa, kiò-chòe chhò-siong (挫傷, *contusion*). Tī phê-ē ê kiat-tè-chit-lāi ū mn̂g-sòe-huih-kńg, chiah-ê ōe chhoah-tnḡ, chhut tām-po̍h huih tī phê-ē. Chit ê huih nā khah chōe kiò-chòe huih-chéng (血腫, *haematoma*). Nā-sī khah chió, hit ê phê ê sek-tī tāi-seng sī o͘, kàu chiah-khún-sòe-pau khip-siu tī huih-nih, hit ê sek chiū pìⁿ-chiâⁿ n̂g; koh bô kú ōe chiàu-goân. Chit-ê kiò-chòe phê-ē-ek-huih (皮下溢血, *echymosis*).
 
 > **【全漢對照】**
 > **［挫傷］**
@@ -39,7 +39,7 @@ Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 ---
 
 **[Chhò-lih-siong]**
-2. Tē jī chiū-sī chhò-lih-siong (挫裂傷, *lacerated wounds*). Siong-chhùi lóng bô chôe-cháⁿ, chhin-chhiūⁿ hit hō hō͘ ki-khì phah-tio̍h, á-sī teh-tio̍h, hit khoán. Phê-hu kap tī piⁿ-á ê cho͘-chit siū-tio̍h siong, tāi-khài hoat-iām iā sī khah tāng. Bô sím-mi̍h chhut-huih, in-ūi huih-kńg sī chhoah-tnḡ, m̄-sī koah-tnḡ, só͘-í huih-kńg ê lāi-bīn-mo̍h ōe kiu-khì, huih chiū khah bô lâu chhut phê-gōa, m̄-kú chin chōe huih lâu-ji̍p kiat-tè-chit ê lāi-bīn.
+2. Tē jī chiū-sī chhò-lih-siong (挫裂傷, *lacerated wounds*). Siong-chhùi lóng bô chôe-cháⁿ, chhin-chhiūⁿ hit hō hō͘ ki-khì phah-tio̍h, á-sī teh-tio̍h, hit khoán. Phê-hu kap tī piⁿ-á ê cho͘-chit siū-tio̍h siong, tāi-khài hoat-iām iā sī khah tāng. Bô sím-mi̍h chhut-huih, in-ūi huih-kńg sī chhoah-tnḡ, m̄-sī koah-tnḡ, só͘-í huih-kńg ê lāi-bīn-mo̍h ōe kiu-khì, huih chiū khah bô lâu chhut phê-gōa, m̄-kú chin chōe huih lâu-ji̍p kiat-tè-chit ê lāi-bīn.
 
 > **【全漢對照】**
 > **［挫裂傷］**

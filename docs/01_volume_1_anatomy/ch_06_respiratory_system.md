@@ -13,7 +13,7 @@
 
 ![原書插圖 - 第 101 頁 (圖 1)](assets/illustrations/page_101_fig_01.png)
 
-<p class="figure-caption"><em>Tē 71, 72 tô.—Ho·-khip ê sî hoâiⁿ-mớ·h àn-cháiⁿ-iūⁿ piàn-ōaⁿ i ê pō·-ūi : Ū chat ê chōa sī heng-khám, hoâiⁿ-keh-mớ·h, kap pak-tó· piah, khip-jip ê sî só· ū ê pō·-ūi ; 1, hoâiⁿ-keh-mớ·h, khip-jip ê sî; 2, hoâiⁿ-keh-mớ·h ho·-chhut ê sî. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
+<p class="figure-caption"><em>Tē 71, 72 tô.—Ho·-khip ê sî hoâiⁿ-mớ·h àn-cháiⁿ-iūⁿ piàn-ōaⁿ i ê pō·-ūi : Ū chat ê chōa sī heng-khám, hoâiⁿ-keh-mớ·h, kap pak-tó· piah, khip-jip ê sî só· ū ê pō·-ūi ; 1, hoâiⁿ-keh-mớ·h, khip-jip ê sî; 2, hoâiⁿ-keh-mớ·h ho·-chhut ê sî. (From Warwick and Tunstall's “First Aid,” by permission of John Wright and Sons, Ltd., publishers.)</em></p>
 
 </div>
 
@@ -425,9 +425,9 @@ Sòe pīⁿ-lâng ê sî, chúi tio̍h chiàu i-seng só͘ hoan-hù ê un-tō͘,
 
 ## 92 HO͘-KHIP-KHÌ HĒ-THÓNG
 
-### [Mnĝ-sòe-khì-kńg-chi]
+### [Mnĝ-sòe-khì-kńg-chi]
 
-tiâu ê kńg; tùi sòe tiâu ê kńg, koh pun chòe chōe-chōe mnĝ-sòe-khì-kńg-chi, tit-tit hun kàu sòe ia̍p ê só͘-chāi. Hit ê só͘ pun khui ê kńg, ná pun ná sòe, pun kàu bô khòaⁿ-kìⁿ nńg-kut.
+tiâu ê kńg; tùi sòe tiâu ê kńg, koh pun chòe chōe-chōe mnĝ-sòe-khì-kńg-chi, tit-tit hun kàu sòe ia̍p ê só͘-chāi. Hit ê só͘ pun khui ê kńg, ná pun ná sòe, pun kàu bô khòaⁿ-kìⁿ nńg-kut.
 
 > **【全漢對照】**
 > **【毛細氣管枝】**

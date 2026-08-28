@@ -1129,7 +1129,7 @@
 | Pīⁿ-lâng ê sū, thong-ti chhùn-lâng | 病人的病情通知家屬 | 276, 277 |
 | Pīⁿ-lâng ê thâm | 病人的痰 | 265, 267 |
 | Pīⁿ-lâng ê thâm-koàn | 病人的痰罐 | 154, 266 |
-| Pīⁿ-lâng ê thâu-mnĝ | 病人的頭髮 | 170 |
+| Pīⁿ-lâng ê thâu-mnĝ | 病人的頭髮 | 170 |
 | Pīⁿ-lâng, hō͘ gō-khì suh | 病人吸入蒸氣 | 228, 229 |
 | Pīⁿ-lâng, hû chhah | 病人扶持攙扶 | 167 |
 | Pīⁿ-lâng, hut-jiān m̄-hó | 病人突發惡化 | 155 |
@@ -1157,7 +1157,7 @@
 | Pīⁿ-lâng, siong-tiōng, ōaⁿ phē-toaⁿ | 重症病人更換被單 | 158, 159 |
 | Pīⁿ-lâng, sìt-bút | 病人植物人狀態（或食餌） | 179, 267 |
 | Pīⁿ-lâng, tāi-piān | 病人大便 | 269, 270 |
-| Pīⁿ-lâng, tàk jị̄t ná tāng | 病人日漸加重 | 273 |
+| Pīⁿ-lâng, tàk jị̄t ná tāng | 病人日漸加重 | 273 |
 | Pīⁿ-lâng, tėk-piȧt chhī ê hoat | 病人特殊餵食法 | 184 |
 | Pīⁿ-lâng, tiỏh an-ùi | 病人應當安慰 | 396 |
 | Pīⁿ-lâng, tó ê hoat | 病人臥床之法 | 161 |

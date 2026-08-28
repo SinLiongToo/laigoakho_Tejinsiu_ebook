@@ -292,7 +292,7 @@ Chúg-kah sī soeh jip phê lāi-bīn ê khang-hûn, tùi jiáu-chhng kap jiáu-
 
 ---
 
-**Tē 90 tô͘.**—Chúg-kah: A, chúg-kah; B, chúg-kah ê hoâiⁿ-tnḡ-bīn; C, chúg-kah ê chhiòng-tnḡ-bīn; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chúg-kah kap phê sio-chiap ê bah hit téng-bīn; 3, jiáu-poàn-goa̍t; 4, jiáu ê iān-kīⁿ; 5, jiáu-toan chiū-sī chúg-kah-bé; 6, jiáu-chhng; 7, jiáu-bú; 8, chin-phê ê leng-thâu-pō͘. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)
+**Tē 90 tô͘.**—Chúg-kah: A, chúg-kah; B, chúg-kah ê hoâiⁿ-tnḡ-bīn; C, chúg-kah ê chhiòng-tnḡ-bīn; 1, jiáu-thé, 2, jiáu-kok, chiū-sī chúg-kah kap phê sio-chiap ê bah hit téng-bīn; 3, jiáu-poàn-goa̍t; 4, jiáu ê iān-kīⁿ; 5, jiáu-toan chiū-sī chúg-kah-bé; 6, jiáu-chhng; 7, jiáu-bú; 8, chin-phê ê leng-thâu-pō͘. (From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.)
 
 > **【全漢對照】**
 > **第 90 圖。**——指甲：A，指甲；B，指甲的橫斷面；C，指甲的縱斷面；1，爪體；2，爪谷，就是指甲佮皮相接的肉彼頂面；3，爪半月；4，爪的沿墘；5，爪端就是指甲尾；6，爪床；7，爪母；8，真皮的乳頭部。（From Imada's Text-Book of Anatomy, Tokyo Insatsu Kabushiki Kaisha.）

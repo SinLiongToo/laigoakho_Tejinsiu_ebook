@@ -57,7 +57,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
 
     @font-face {
       font-family: 'POJ-Fallback';
-      src: local('-apple-system'), local('Roboto'), local('Segoe UI'), local('Arial'), local('Helvetica Neue');
+      src: local('Helvetica Neue'), local('Helvetica'), local('Arial'), local('Roboto'), local('Segoe UI');
       unicode-range: U+0020-007F, U+00A0-024F, U+0300-036F, U+2070-209F;
     }
 
@@ -65,7 +65,7 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
        CSS Variables & Themes (Light / Dark)
        ========================================================================== */
     :root {
-      --font-zh: 'POJ-Fallback', 'Iansui', 'Klee One', 'HanaMin', 'Noto Serif TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-zh: 'POJ-Fallback', 'Iansui', 'HanaMinA', 'HanaMinB', 'HanaMin', 'Klee One', 'Noto Serif TC', 'PingFang TC', 'Heiti TC', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
       --font-en: 'POJ-Fallback', 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       
       --theme-color: #2c7a7b;
@@ -834,12 +834,18 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 import re
+import unicodedata
 
 def normalize_han_punctuation(text: str) -> str:
     """
-    Normalizes half-width punctuation in Taiwanese Han-ji translation blockquotes
+    Normalizes text to standard Unicode NFC (precomposed) to prevent
+    combining diacritic rendering anomalies/tofu on iOS/WebKit,
+    and normalizes half-width punctuation in Taiwanese Han-ji translation blockquotes
     into standard full-width punctuation marks (全形標點符號).
     """
+    # 1. Normalize all decomposed Unicode characters to NFC
+    text = unicodedata.normalize('NFC', text)
+    
     lines = text.split("\n")
     out_lines = []
     
@@ -949,37 +955,42 @@ def build_chapters():
         
         if chapter_pages:
             total_pages_included += len(chapter_pages)
-            with open(target_path, "w", encoding="utf-8") as f:
-                # Chapter header
-                f.write(f"# {sec_title}\n\n")
-                if "volume_title" in sec:
-                    f.write(f"> **所屬篇章**：{sec['volume_title']}\n")
-                f.write(f"> **原書頁碼**：第 {start_p} 頁 ～ 第 {end_p} 頁 (已收錄 {len(chapter_pages)}/{end_p - start_p + 1} 頁)\n\n")
-                f.write("---\n\n")
+            chapter_chunks = []
+            
+            # Chapter header
+            chapter_chunks.append(f"# {sec_title}\n\n")
+            if "volume_title" in sec:
+                chapter_chunks.append(f"> **所屬篇章**：{sec['volume_title']}\n")
+            chapter_chunks.append(f"> **原書頁碼**：第 {start_p} 頁 ～ 第 {end_p} 頁 (已收錄 {len(chapter_pages)}/{end_p - start_p + 1} 頁)\n\n")
+            chapter_chunks.append("---\n\n")
+            
+            for p_num, p_text, p_figs in chapter_pages:
+                chapter_chunks.append(f"<!-- Page {p_num:03d} Start -->\n")
+                chapter_chunks.append(f"#### 📖 原書第 {p_num} 頁\n\n")
                 
-                for p_num, p_text, p_figs in chapter_pages:
-                    f.write(f"<!-- Page {p_num:03d} Start -->\n")
-                    f.write(f"#### 📖 原書第 {p_num} 頁\n\n")
+                # Embed illustrations if present on this page
+                if p_figs:
+                    chapter_chunks.append("\n<div align=\"center\" style=\"margin: 24px 0;\">\n\n")
+                    for idx, fig in enumerate(p_figs):
+                        fig_fn = fig.get("saved_file") or f"page_{p_num:03d}_fig_{idx+1:02d}.png"
+                        fig_rel = f"assets/illustrations/{fig_fn}"
+                        caption = fig.get("caption", "").strip()
+                        alt_label = f"原書插圖 - 第 {p_num} 頁 (圖 {idx+1})"
+                        chapter_chunks.append(f"![{alt_label}]({fig_rel})\n\n")
+                        if caption:
+                            chapter_chunks.append(f"<p class=\"figure-caption\"><em>{caption}</em></p>\n\n")
+                        total_illustrations_embedded += 1
+                    chapter_chunks.append("</div>\n\n")
                     
-                    # Embed illustrations if present on this page
-                    if p_figs:
-                        f.write("\n<div align=\"center\" style=\"margin: 24px 0;\">\n\n")
-                        for idx, fig in enumerate(p_figs):
-                            fig_fn = fig.get("saved_file") or f"page_{p_num:03d}_fig_{idx+1:02d}.png"
-                            fig_rel = f"assets/illustrations/{fig_fn}"
-                            caption = fig.get("caption", "").strip()
-                            alt_label = f"原書插圖 - 第 {p_num} 頁 (圖 {idx+1})"
-                            f.write(f"![{alt_label}]({fig_rel})\n\n")
-                            if caption:
-                                f.write(f"<p class=\"figure-caption\"><em>{caption}</em></p>\n\n")
-                            total_illustrations_embedded += 1
-                        f.write("</div>\n\n")
-                        
-                    p_text_norm = normalize_han_punctuation(p_text)
-                    f.write(p_text_norm.strip())
-                    f.write(f"\n\n<!-- Page {p_num:03d} End -->\n\n---\n\n")
-                    total_words += len(p_text_norm)
-                    
+                p_text_norm = normalize_han_punctuation(p_text)
+                chapter_chunks.append(p_text_norm.strip())
+                chapter_chunks.append(f"\n\n<!-- Page {p_num:03d} End -->\n\n---\n\n")
+                total_words += len(p_text_norm)
+                
+            full_chapter_text = unicodedata.normalize('NFC', "".join(chapter_chunks))
+            with open(target_path, "w", encoding="utf-8") as f:
+                f.write(full_chapter_text)
+                
             print(f"  📄 [{len(chapter_pages):02d} 頁] -> {target_file}")
             sidebar_groups[vol_label].append((sec_title, target_file))
         else:

@@ -63,7 +63,7 @@ Sīn-kiat-chio̍h (腎結石, *Renal calculus*).
 
 ### [Chèng-chōng]
 
-**Chèng-chōng**: Tī só͘ kóng ê thoân-jiám pīⁿ ê keng-kè, khí jia̍t, hoat tiō, jia̍t 101 tō chī 103 tō F. (38.3°—39.4° C.), io thiàⁿ; bīn kūi-chúi (chúi-chéng), āu-lâi kha kap seng-khu kūi-chúi; áu-thò͘, thâu-khak thiàⁿ, m̄-chai-lâng. Nā ū chit khoán ê chèng-chōng chiū thang chai ū hoat kip-sèng sīn-chōng-iām. I ê jiō sī chió, pí-tāng khah koâiⁿ (1,025), sek o-âng, lô, ū nn̄g-pe̍h-chit. Nā ēng hián-bî-kiàⁿ lâi khòaⁿ i ê tîm-tiān-bu̍t, ū sīn-chōng ê mnĝ-sòe-jiō-kńg ê sòe-pau tī-teh. Nā gín-ná tùi chit hō seng-
+**Chèng-chōng**: Tī só͘ kóng ê thoân-jiám pīⁿ ê keng-kè, khí jia̍t, hoat tiō, jia̍t 101 tō chī 103 tō F. (38.3°—39.4° C.), io thiàⁿ; bīn kūi-chúi (chúi-chéng), āu-lâi kha kap seng-khu kūi-chúi; áu-thò͘, thâu-khak thiàⁿ, m̄-chai-lâng. Nā ū chit khoán ê chèng-chōng chiū thang chai ū hoat kip-sèng sīn-chōng-iām. I ê jiō sī chió, pí-tāng khah koâiⁿ (1,025), sek o-âng, lô, ū nn̄g-pe̍h-chit. Nā ēng hián-bî-kiàⁿ lâi khòaⁿ i ê tîm-tiān-bu̍t, ū sīn-chōng ê mnĝ-sòe-jiō-kńg ê sòe-pau tī-teh. Nā gín-ná tùi chit hō seng-
 
 > **【全漢對照】**
 > **【症狀】**

@@ -924,7 +924,7 @@ Chek-sò͘ (N) sī chi̍t chéng iàu-kín ê goân-sò͘, tī sin-thé ê bah �
 
 ### Iâm (鹽)
 
-Iâm ê lāi-bīn ū *natrium* (*sodium*) kap *chlorine*. *Natrium* chiū-sī tok ê goân-sò͘, lâng nā chia̍h ē sí. *Chlorine* iā sī put-chí tok ê khì, nĝ-sek, lâng khip-ji̍p tī hì-chōng, hì ē hoat iām, nā choan khip-ji̍p chit hō khì bô kúi hun-kú chiū ē sí-khì. Tī chiàn-tiûⁿ ū ēng chit hō khì lâi tok sí kau-chiàn ê peng. Tī chia ū chin kî-koài ê hòa-ha̍p, chiū-sī nā *natrium* kap *chlorine* sio-ha̍p pìⁿ-chiâⁿ iâm, ē iúⁿ-chhī lâng ê sin-thé.
+Iâm ê lāi-bīn ū *natrium* (*sodium*) kap *chlorine*. *Natrium* chiū-sī tok ê goân-sò͘, lâng nā chia̍h ē sí. *Chlorine* iā sī put-chí tok ê khì, nĝ-sek, lâng khip-ji̍p tī hì-chōng, hì ē hoat iām, nā choan khip-ji̍p chit hō khì bô kúi hun-kú chiū ē sí-khì. Tī chiàn-tiûⁿ ū ēng chit hō khì lâi tok sí kau-chiàn ê peng. Tī chia ū chin kî-koài ê hòa-ha̍p, chiū-sī nā *natrium* kap *chlorine* sio-ha̍p pìⁿ-chiâⁿ iâm, ē iúⁿ-chhī lâng ê sin-thé.
 
 > **【全漢對照】**
 > 鹽的內面有 *natrium* （*sodium* / 鈉） 佮 *chlorine* （氯）。*Natrium* 就是毒的元素，人若食會死。*Chlorine* 也是不止毒的氣，黃色，人吸入佇肺臟，肺會發炎，若專吸入這號氣無幾分久就會死去。佇戰場有用這號氣來毒死交戰的兵。佇遮有真奇怪的化合，就是若 *natrium* 佮 *chlorine* 相合變成鹽，會養飼人的身體。

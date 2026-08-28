@@ -293,7 +293,7 @@ Siōng-tè bô kah lâng tióh gâu, sī kiò lâng tióh chīn-tiong.
 
 ![原書插圖 - 第 150 頁 (圖 1)](assets/illustrations/page_150_fig_01.png)
 
-<p class="figure-caption"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></p>
+<p class="figure-caption"><em>Tē 104 tô.—Hī chiàⁿ-pêng chhiat-tūg-bīn ê tô : A, hī-sit ; G, gōa-thèng-tō; T, kṓ-mò̇h - P, tiong-hī; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis’ “Anatomy and physiology for Nurses,”by permission of W. B. Saunders Co., publishers)</em></p>
 
 </div>
 
@@ -308,7 +308,7 @@ Tī gōa-hī kap tiong-hī ê tiong-ng ū chi̍t tēng mō͘h chah-teh, kiò-ch�
 
 ---
 
-Tē 104 tô͘.—Hī chiàⁿ-pêng chhiat-tnḡ-bīn ê tô͘ : A, hī-sit ; G, gōa-thèng-tō ; T, kó͘-mō͘h ; P, tiong-hī ; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers)
+Tē 104 tô͘.—Hī chiàⁿ-pêng chhiat-tnḡ-bīn ê tô͘ : A, hī-sit ; G, gōa-thèng-tō ; T, kó͘-mō͘h ; P, tiong-hī ; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers)
 
 > **【全漢對照】**
 > 第 104 圖。—耳正邊切斷面的圖：A，耳室；G，外聽道；T，鼓膜；P，中耳；E，尤氏管；r、o，兩個孔透到內耳；B，半規管；S，蝸牛殼；Pt、Vt，蝸牛殼內的管；8，聽神經。（Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers）

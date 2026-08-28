@@ -263,9 +263,9 @@ I-seng sûn keng ê sî, khàn-hō͘ ti̍oh tè i, m̄-thang thèng-hāu i-seng 
 
 236 KOÀN-KHÀI-HOAT, TÉNG-TÉNG
 
-### Glycerinum koàn-tnĝ (Glycerinum 灌腸)
+### Glycerinum koàn-tnĝ (Glycerinum 灌腸)
 
-*Glycerinum* koàn-tnĝ-hoat : Ēng *glycerinum*, nā-sī gín-ná ēng 3.5 c.c., tōa-lâng 10.0 c.c.; chham tām-póh chúi 5.0 kàu 20.0 c.c., lā hō͘ chiâu, chiah koàn-ji̍p, án-ni ōe khah bōe thiàⁿ. Tio̍h ēng it-tēng ê *glycerinum* koàn-tnĝ-khì (tē 159 tô͘).
+*Glycerinum* koàn-tnĝ-hoat : Ēng *glycerinum*, nā-sī gín-ná ēng 3.5 c.c., tōa-lâng 10.0 c.c.; chham tām-póh chúi 5.0 kàu 20.0 c.c., lā hō͘ chiâu, chiah koàn-ji̍p, án-ni ōe khah bōe thiàⁿ. Tio̍h ēng it-tēng ê *glycerinum* koàn-tnĝ-khì (tē 159 tô͘).
 
 > **【全漢對照】**
 > *Glycerinum*（甘油）灌腸法：用 *glycerinum*，若是囡仔用 3.5 c.c.，大人 10.0 c.c.；參淡薄水 5.0 到 20.0 c.c.，攪予勻，才灌入，按呢會較袂疼。著用一定的 *glycerinum* 灌腸器（第 159 圖）。
@@ -274,8 +274,8 @@ I-seng sûn keng ê sî, khàn-hō͘ ti̍oh tè i, m̄-thang thèng-hāu i-seng 
 
 ### [圖說]
 
-Tē 158 tô͘.—A-phiàn koàn-tnĝ-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.  
-Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
+Tē 158 tô͘.—A-phiàn koàn-tnĝ-hoat : A, ám ; B, a-phiàn ; Ch, ám ; D, khip-koáiⁿ.  
+Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 
 > **【全漢對照】**
 > 第 158 圖。—鴉片灌腸法：A，泔；B，鴉片；Ch，泔；D，吸管。  
@@ -290,14 +290,14 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 
 ### KONG-BÛN-LĀI-CHÍN, IM-TŌ-KOÀN-KHÀI-HOAT (237)
 
-**Tùi kong-bûn lāi-chín (內診)** : I-seng chín-chhat pīⁿ-lâng kong-bûn-lāi, nā sî-kan khah liâu-lēng eng-kai kā pīⁿ-lâng tāi-seng ēng sat-bûn-chúi sóe-tnĝ, hō͘ tāi-piān thong-thàu; koh kah pīⁿ-lâng tiòh siáu-piān. Pīⁿ-lâng tó ê khoán-sit tiòh thàn i-seng ê ōe, tó chiàⁿ-pêng, á-sī tò-pêng sī bô it-tēng. Kā i-seng pī-pān beh ēng ê mi̍h chiū-sī bīn-kun, sat-bûn, sio-chúi, mî-hoe, *vaseline*, chhiū-leng-lông, á-sī chhiū-leng ê chúg-thâu-á-lông, kap te̍k-pia̍t ê ti̍t-tnĝ-kiàⁿ.
+**Tùi kong-bûn lāi-chín (內診)** : I-seng chín-chhat pīⁿ-lâng kong-bûn-lāi, nā sî-kan khah liâu-lēng eng-kai kā pīⁿ-lâng tāi-seng ēng sat-bûn-chúi sóe-tnĝ, hō͘ tāi-piān thong-thàu; koh kah pīⁿ-lâng tiòh siáu-piān. Pīⁿ-lâng tó ê khoán-sit tiòh thàn i-seng ê ōe, tó chiàⁿ-pêng, á-sī tò-pêng sī bô it-tēng. Kā i-seng pī-pān beh ēng ê mi̍h chiū-sī bīn-kun, sat-bûn, sio-chúi, mî-hoe, *vaseline*, chhiū-leng-lông, á-sī chhiū-leng ê chúg-thâu-á-lông, kap te̍k-pia̍t ê ti̍t-tnĝ-kiàⁿ.
 
 > **【全漢對照】**
 > **對肛門內診（內診）**：醫生診察病人肛門內，若時間較悠稜（寬裕），應該共病人代先用撒文水洗腸，予大便通透；閣甲病人著小便。病人倒的款式著順醫生的話，倒正爿、抑是倒爿是無一定。共醫生備辦欲用的物就是面巾、撒文、熱水、棉花、*vaseline*（凡士林）、樹奶囊（橡皮手套）、抑是樹奶的指頭仔囊，佮特別的直腸鏡。
 
 ---
 
-**Ti̍t-tnĝ-tō-khì-kúg (*Rectal tube*)** : Ēng chit ê hoat-tō͘, thang chiong chit ki ti̍t-tnĝ-tō-khì-kúg. Seng chiong hit ki kúg, hē tī sio-chúi-ni̍h, kúg ê thâu boah *vaseline*, chiah chhng-ji̍p-khì kong-bûn-lāi, 6 chhùn á-sī 8 chhùn. Chit thâu hē tī chi̍t ê sòe ê phûn, tóe siau-to̍k-iòh-chúi tī lāi-bīn, chiū ē chai ū khì chhut-lâi á-bô. Ēng chit ê hoat, sī tī khui-pak liáu-āu hoat-tiùⁿ. Thang hē hit ti̍t-tnĝ-lāi 10 hun-cheng, á-sī 20 hun-cheng-kú.
+**Ti̍t-tnĝ-tō-khì-kúg (*Rectal tube*)** : Ēng chit ê hoat-tō͘, thang chiong chit ki ti̍t-tnĝ-tō-khì-kúg. Seng chiong hit ki kúg, hē tī sio-chúi-ni̍h, kúg ê thâu boah *vaseline*, chiah chhng-ji̍p-khì kong-bûn-lāi, 6 chhùn á-sī 8 chhùn. Chit thâu hē tī chi̍t ê sòe ê phûn, tóe siau-to̍k-iòh-chúi tī lāi-bīn, chiū ē chai ū khì chhut-lâi á-bô. Ēng chit ê hoat, sī tī khui-pak liáu-āu hoat-tiùⁿ. Thang hē hit ti̍t-tnĝ-lāi 10 hun-cheng, á-sī 20 hun-cheng-kú.
 
 > **【全漢對照】**
 > **直腸導氣管（*Rectal tube*）**：用這个法度，通將一支直腸導氣管。先將彼支管，下佇熱水裡，管的頭抹 *vaseline*，才穿入去肛門內，6 寸抑是 8 寸。這頭下佇一个細的盆，貯消毒藥水佇內面，就會知有氣出來抑無。用這个法，是佇開腹了後發脹。通下彼直腸內 10 分鐘，抑是 20 分鐘久。
@@ -311,7 +311,7 @@ Tē 159 tô͘.—*Glycerinum* koàn-tnĝ-khì.
 
 ---
 
-**Im-tō-koàn-khài-hoat** : Im-tō, chiàu i ê miâ kóng, sī chi̍t tiâu lō͘, tùi chú-kiong-kēng (chiū-sī gōa-chú-kiong-kháu ê só͘-chāi) khí, kàu im-bûn ûi-chí. I ê pō͘-ūi sī tī thâu-chêng pông-kong kap jiō-tō, kap āu-bīn ti̍t-tnĝ ê tiong-ng. Im-tō ê tnĝ, chiàu i ê thâu-chêng piah sī chha-put-to 4 chhùn. Tī im-tō téng-bīn pō͘-ūi, hit ê chú-kiong-kēng ū
+**Im-tō-koàn-khài-hoat** : Im-tō, chiàu i ê miâ kóng, sī chi̍t tiâu lō͘, tùi chú-kiong-kēng (chiū-sī gōa-chú-kiong-kháu ê só͘-chāi) khí, kàu im-bûn ûi-chí. I ê pō͘-ūi sī tī thâu-chêng pông-kong kap jiō-tō, kap āu-bīn ti̍t-tnĝ ê tiong-ng. Im-tō ê tnĝ, chiàu i ê thâu-chêng piah sī chha-put-to 4 chhùn. Tī im-tō téng-bīn pō͘-ūi, hit ê chú-kiong-kēng ū
 
 > **【全漢對照】**
 > **陰道灌溉法**：陰道，照伊的名講，是一條路，對子宮頸（就是外子宮口的所在）起，到陰門為止。伊的部位是佇頭前膀胱佮尿道，佮後面直腸的中央。陰道的長，照伊的頭前壁是差不多 4 寸。佇陰道頂面部位，彼个子宮頸有

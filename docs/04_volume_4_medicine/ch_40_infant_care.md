@@ -176,7 +176,7 @@ Gín-ná iáu-bē hoat-khí ê sî, bē siau-hòa gō͘-kak ê si̍t-bu̍t, só�
 
 ---
 
-Gín-ná ê tāi-piān chhut-sì liáu-āu, keh saⁿ sì ji̍t, hit-ê pùn ê sek sī o͘-ê, āu-lâi chiām-chiām piàn-ōaⁿ, chhin-chhiūⁿ kiáu koe-nn̄g ê khoán-sit. Thâu chit lé-pài ta̍k ji̍t tāi-piān n̄g saⁿ pái. Āu-lâi hit-ê pùn ê sek sī nĝ-gâm, iā khah bē kà-kà, kàu tē cháp-jī ge̍h-ji̍t ê sî, ta̍k ji̍t tāi-piān, chi̍t n̄g pái. Nā ū pīⁿ ê sî, tāi-piān chiúⁿ pīⁿ chhiⁿ-sek ê pùn, iā lóng chúi-chúi kà-kà, koh chin chhàu, pùn-nih ū bē siau-hòa ê mi̍h, iā ū-sî ē kâⁿ huih chhut-lâi.
+Gín-ná ê tāi-piān chhut-sì liáu-āu, keh saⁿ sì ji̍t, hit-ê pùn ê sek sī o͘-ê, āu-lâi chiām-chiām piàn-ōaⁿ, chhin-chhiūⁿ kiáu koe-nn̄g ê khoán-sit. Thâu chit lé-pài ta̍k ji̍t tāi-piān n̄g saⁿ pái. Āu-lâi hit-ê pùn ê sek sī nĝ-gâm, iā khah bē kà-kà, kàu tē cháp-jī ge̍h-ji̍t ê sî, ta̍k ji̍t tāi-piān, chi̍t n̄g pái. Nā ū pīⁿ ê sî, tāi-piān chiúⁿ pīⁿ chhiⁿ-sek ê pùn, iā lóng chúi-chúi kà-kà, koh chin chhàu, pùn-nih ū bē siau-hòa ê mi̍h, iā ū-sî ē kâⁿ huih chhut-lâi.
 
 > **【全漢對照】**
 > 囡仔的大便出世了後，隔三四日，彼個糞的色是烏的，後來漸漸變換，親像攪雞卵的款式。頭一禮拜逐日大便兩三擺。後來彼個糞的色是黃含，也較袂酵酵，到第十二個月的時，逐日大便，一兩擺。若有病的時，大便像變青色的糞，也攏水水酵酵，閣真臭，糞裡有袂消化的物，也有時會含血出來。

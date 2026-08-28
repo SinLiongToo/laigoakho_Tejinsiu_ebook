@@ -522,7 +522,7 @@ Sī chi̍t ê kut ê thâu tī siāng chit khoán ê sún-thâu-nih teh tńg. T�
 
 ![原書插圖 - 第 54 頁 (圖 1)](assets/illustrations/page_054_fig_01.png)
 
-<p class="figure-caption"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
+<p class="figure-caption"><em>Tē 32 tô.—Jiâu-óaⁿ-koan-chat, chhiú-koan-chat, khīa-tit tùi gōa-bīn-piⁿ kàu lāi-bīn-piⁿ chhiat-tnḡ-bīn: 1—7 chhiú-óaⁿ-kut; 8 chhiam-î-nńg-kut; 9, hā-jiâu-chhioh-koan-chat-lāi; 10, óaⁿ-kut, chiúⁿ-kut, tiong-kan ê koan-chat (Cunningham).</em></p>
 
 </div>
 

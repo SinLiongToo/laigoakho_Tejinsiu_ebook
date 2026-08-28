@@ -70,7 +70,7 @@ Sin lâi jip īⁿ ê pīⁿ-lâng tio̍h khòaⁿ i ōe tit tiàm e̍k-keng só
 
 </div>
 
-192 SÓE-ĖK, PHÓ-THONG KAP TĖK-PIA̍T Ê HOAT
+192 SÓE-ĖK, PHÓ-THONG KAP TĖK-PIA̍T Ê HOAT
 
 ### [Sim-chōng pīⁿ-ê]
 
@@ -92,8 +92,8 @@ Nā ū thoân-jiám pīⁿ ê lâng, á-sī seng-khu ū sat-bú-ê, in nā sóe-
 
 ---
 
-![Tē 133 tô͘.—Sóe-ėk ê hân-loán-kè.](image_placeholder)
-*Tē 133 tô͘.—Sóe-ėk ê hân-loán-kè.*
+![Tē 133 tô͘.—Sóe-ėk ê hân-loán-kè.](image_placeholder)
+*Tē 133 tô͘.—Sóe-ėk ê hân-loán-kè.*
 （第 133 圖.—洗浴的寒暖計。）
 
 ---
@@ -108,7 +108,7 @@ Tio̍h pī-pān hân-loán-kè, chòe sóe-e̍k ê lō͘-ēng (tē 133 tô͘). T
 
 ---
 
-### [Ėk-keng mn̂g m̄-thang só]
+### [Ėk-keng mn̂g m̄-thang só]
 
 Pīⁿ-lâng e̍k-keng ê mn̂g m̄-thang chhòan, in-ūi pīⁿ-lâng ê khùi-la̍t khah lám, ū-sî thâu-khak o͘-àm-hîn, náu-pîn-hiat, á-sī khí keng-loân (痙攣, *convulsions*); chit ê sî-chūn i bē tit thang kā lí khui mn̂g, khàn-hō͘ cháiⁿ-iūⁿⁿ ē tit ji̍p-khì chiàu-kò͘ i leh?
 
@@ -118,7 +118,7 @@ Pīⁿ-lâng e̍k-keng ê mn̂g m̄-thang chhòan, in-ūi pīⁿ-lâng ê khùi-
 
 ---
 
-### [Sóe-ėk ê hun-pia̍t]
+### [Sóe-ėk ê hun-pia̍t]
 
 Tāi-khài lâi kóng:  
 Léng-chúi-e̍k: 60°F. chì 70°F. (15.6°—21.1°C.)  
@@ -136,7 +136,7 @@ Chin-sio-chúi-e̍k: 100°F. chì 106°F. (37.8°—41.1°C.) á-sī khah koâi�
 
 ---
 
-### [Léng-chúi-ėk]
+### [Léng-chúi-ėk]
 
 Sóe léng-chúi-e̍k sī tī hoat-jia̍t ê pīⁿ, chhin-chhiūⁿ sió-tn̂g-jia̍t pīⁿ (*enteric fever*) á-sī hì-iām, hiah ê chèng. Pīⁿ-lâng sóe léng-chúi-e̍k, sī in-ūi hit ê chèng ê jia̍t chin tāng, ài hō͘ i lo̍h kē. I-seng chit-sî iā tio̍h saⁿ-kap tàu chiàu-kò͘,
 
@@ -619,7 +619,7 @@ Nā pīⁿ tāng ê lâng, ka-kī bô lāt thang sóe-e̍k, khàn-hō͘ tio̍h c
 <!-- Page 217 Start -->
 #### 📖 原書第 217 頁
 
-## SÓE-ĖK Ê KUI-KÚ（201）
+## SÓE-ĖK Ê KUI-KÚ（201）
 
 ### [Pī-pān bîn-chhûng / 備辦眠床]
 
