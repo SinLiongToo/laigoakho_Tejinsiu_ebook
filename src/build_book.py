@@ -24,6 +24,385 @@ CACHE_DIR = "cache/raw_pages"
 ILLUSTRATION_CACHE_DIR = "cache/illustrations"
 DOCS_DIR = "docs"
 
+INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>1917 內外科看護學 - 台語白話字與全漢字數位電子書</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="1917 內外科看護學 (Lāi Gōa Kho Khàn-hō͘-ha̍k) 全書台語白話字 AI OCR、全漢字逐段對照與原書解剖插圖電子書">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+  
+  <!-- Docsify Theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <style>
+    /* ==========================================================================
+       CSS Variables & Themes (Light / Dark)
+       ========================================================================== */
+    :root {
+      --theme-color: #2c7a7b;
+      --theme-accent: #319795;
+      
+      /* Light Mode Variables */
+      --bg-primary: #ffffff;
+      --bg-secondary: #f8fafc;
+      --bg-sidebar: #f8fafc;
+      --text-primary: #1a202c;
+      --text-secondary: #4a5568;
+      --text-muted: #718096;
+      --border-color: #e2e8f0;
+      --blockquote-bg: #f0fdf4;
+      --blockquote-border: #2c7a7b;
+      --table-th-bg: #edf2f7;
+      --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+      --code-bg: #f1f5f9;
+      --sidebar-toggle-bg: #ffffff;
+    }
+
+    [data-theme="dark"] {
+      /* Dark Mode Variables */
+      --bg-primary: #0f172a;
+      --bg-secondary: #1e293b;
+      --bg-sidebar: #1e293b;
+      --text-primary: #f1f5f9;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border-color: #334155;
+      --blockquote-bg: #1e293b;
+      --blockquote-border: #38b2ac;
+      --table-th-bg: #334155;
+      --card-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
+      --code-bg: #1e293b;
+      --sidebar-toggle-bg: #1e293b;
+    }
+
+    /* ==========================================================================
+       Base Typography & Smooth Transitions
+       ========================================================================== */
+    body {
+      background-color: var(--bg-primary) !important;
+      color: var(--text-primary) !important;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
+      font-size: 16.5px;
+      line-height: 1.85;
+      transition: background-color 0.3s ease, color 0.3s ease;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .markdown-section {
+      max-width: 900px;
+      padding: 30px 24px 80px 24px !important;
+      color: var(--text-primary) !important;
+    }
+
+    .markdown-section h1, 
+    .markdown-section h2, 
+    .markdown-section h3, 
+    .markdown-section h4 {
+      color: var(--text-primary) !important;
+      font-weight: 700;
+    }
+
+    .markdown-section h1 {
+      border-bottom: 2px solid var(--border-color);
+      padding-bottom: 12px;
+      margin-top: 10px;
+    }
+
+    .markdown-section a {
+      color: var(--theme-color);
+      font-weight: 500;
+      text-decoration: none;
+    }
+    .markdown-section a:hover {
+      text-decoration: underline;
+    }
+
+    /* ==========================================================================
+       Blockquotes (Taiwanese Han-ji & Translations)
+       ========================================================================== */
+    .markdown-section blockquote {
+      background-color: var(--blockquote-bg) !important;
+      border-left: 4px solid var(--blockquote-border) !important;
+      color: var(--text-primary) !important;
+      padding: 14px 20px;
+      margin: 16px 0 24px 0;
+      border-radius: 0 8px 8px 0;
+      box-shadow: var(--card-shadow);
+      font-size: 16px;
+      line-height: 1.8;
+    }
+
+    .markdown-section blockquote p {
+      margin: 6px 0;
+      color: var(--text-primary) !important;
+    }
+
+    /* ==========================================================================
+       Responsive Tables
+       ========================================================================== */
+    .markdown-section table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+    }
+
+    .markdown-section table th {
+      background-color: var(--table-th-bg) !important;
+      color: var(--text-primary) !important;
+      font-weight: 600;
+      padding: 12px 14px;
+      border: 1px solid var(--border-color);
+      white-space: nowrap;
+    }
+
+    .markdown-section table td {
+      padding: 10px 14px;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary) !important;
+    }
+
+    /* ==========================================================================
+       Responsive Illustrations & Figures
+       ========================================================================== */
+    .markdown-section img {
+      max-width: 92% !important;
+      height: auto !important;
+      border-radius: 8px;
+      box-shadow: var(--card-shadow);
+      margin: 12px auto;
+      display: inline-block;
+      transition: transform 0.2s ease, filter 0.3s ease;
+      background-color: #ffffff;
+      padding: 6px;
+    }
+
+    [data-theme="dark"] .markdown-section img {
+      filter: brightness(0.92) contrast(1.05);
+      background-color: #1e293b;
+    }
+
+    .markdown-section hr {
+      border: 0;
+      border-top: 1px solid var(--border-color);
+      margin: 32px 0;
+    }
+
+    /* ==========================================================================
+       Sidebar & Navigation Styling
+       ========================================================================== */
+    .sidebar {
+      background-color: var(--bg-sidebar) !important;
+      border-right: 1px solid var(--border-color) !important;
+      color: var(--text-primary) !important;
+      font-size: 14.5px;
+      transition: all 0.3s ease;
+    }
+
+    .sidebar ul li a {
+      color: var(--text-secondary) !important;
+      padding: 6px 12px;
+      border-radius: 6px;
+      display: block;
+    }
+
+    .sidebar ul li.active > a,
+    .sidebar ul li a:hover {
+      color: var(--theme-color) !important;
+      background-color: var(--border-color);
+      font-weight: 600;
+    }
+
+    .sidebar .search {
+      border-bottom: 1px solid var(--border-color) !important;
+      padding: 12px 16px;
+    }
+
+    .sidebar .search input {
+      background-color: var(--bg-primary) !important;
+      color: var(--text-primary) !important;
+      border: 1px solid var(--border-color) !important;
+      border-radius: 6px;
+      padding: 8px 12px;
+      width: 100%;
+    }
+
+    /* ==========================================================================
+       Floating Dark Mode Switcher Button
+       ========================================================================== */
+    #theme-toggle-btn {
+      position: fixed;
+      top: 14px;
+      right: 18px;
+      z-index: 1000;
+      background-color: var(--bg-secondary);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      border-radius: 50%;
+      width: 42px;
+      height: 42px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+      transition: all 0.25s ease;
+      font-size: 19px;
+      user-select: none;
+    }
+
+    #theme-toggle-btn:hover {
+      transform: scale(1.08);
+      border-color: var(--theme-color);
+    }
+
+    /* ==========================================================================
+       Mobile & Tablet Responsive Adjustments (RWD)
+       ========================================================================== */
+    @media screen and (max-width: 768px) {
+      .markdown-section {
+        padding: 20px 16px 60px 16px !important;
+        font-size: 15.5px;
+      }
+      
+      .markdown-section blockquote {
+        padding: 12px 14px;
+        margin: 14px 0;
+        font-size: 15px;
+      }
+
+      #theme-toggle-btn {
+        top: 10px;
+        right: 12px;
+        width: 36px;
+        height: 36px;
+        font-size: 16px;
+      }
+
+      .sidebar-toggle {
+        background-color: var(--sidebar-toggle-bg) !important;
+        bottom: 20px;
+        left: 20px;
+        border-radius: 50%;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        padding: 10px;
+        width: 30px;
+        height: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Dark Mode Toggle Button -->
+  <button id="theme-toggle-btn" title="切換深色/淺色模式" aria-label="Toggle Dark Mode">🌙</button>
+
+  <div id="app">正在載入《內外科看護學》圖文電子書...</div>
+
+  <script>
+    // --------------------------------------------------------------------------
+    // Theme Management (Dark Mode / Light Mode with LocalStorage & OS detection)
+    // --------------------------------------------------------------------------
+    function initTheme() {
+      const savedTheme = localStorage.getItem('site_theme');
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const currentTheme = savedTheme || (prefersDark ? 'dark' : 'light');
+      
+      document.documentElement.setAttribute('data-theme', currentTheme);
+      updateToggleBtn(currentTheme);
+    }
+
+    function toggleTheme() {
+      const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      
+      document.documentElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('site_theme', newTheme);
+      updateToggleBtn(newTheme);
+    }
+
+    function updateToggleBtn(theme) {
+      const btn = document.getElementById('theme-toggle-btn');
+      if (btn) {
+        btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+      }
+    }
+
+    initTheme();
+    document.addEventListener('DOMContentLoaded', () => {
+      const btn = document.getElementById('theme-toggle-btn');
+      if (btn) {
+        btn.addEventListener('click', toggleTheme);
+      }
+    });
+
+    // --------------------------------------------------------------------------
+    // Docsify Configuration
+    // --------------------------------------------------------------------------
+    window.$docsify = {
+      name: '1917 內外科看護學',
+      repo: 'https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      coverpage: true,
+      homepage: 'README.md',
+      auto2top: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜尋書中白話字、漢字或英文詞彙...',
+        noData: '查無符合內容',
+        depth: 4
+      },
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true
+      },
+      copyCode: {
+        buttonText: '複製',
+        errorText: '錯誤',
+        successText: '已複製'
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.afterEach(function(html, next) {
+            // Bulletproof Image Resolver Plugin
+            // Automatically fixes relative illustration paths across all routes
+            var basePath = window.location.pathname.replace(/\\/$/, '');
+            var tempDiv = document.createElement('div');
+            tempDiv.innerHTML = html;
+            
+            var images = tempDiv.querySelectorAll('img');
+            images.forEach(function(img) {
+              var src = img.getAttribute('src');
+              if (src && src.indexOf('assets/illustrations/') !== -1 && !src.startsWith('http')) {
+                var filename = src.substring(src.indexOf('assets/illustrations/'));
+                img.src = basePath + '/' + filename;
+              }
+            });
+            next(tempDiv.innerHTML);
+          });
+        }
+      ]
+    };
+  </script>
+
+  <!-- Docsify v4 Core & Essential Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+</body>
+</html>
+"""
+
 def load_book_structure():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -59,10 +438,6 @@ def build_chapters():
         target_path = os.path.join(DOCS_DIR, target_file)
         
         os.makedirs(os.path.dirname(target_path), exist_ok=True)
-        
-        # Calculate relative path from chapter directory to docs/assets/
-        depth = target_file.count("/")
-        rel_assets_prefix = "../" * depth + "assets/illustrations/"
         
         start_p = sec["start_page"]
         end_p = sec["end_page"]
@@ -140,14 +515,14 @@ def build_chapters():
         f.write("""# 1917 內外科看護學 <small>1.0</small>
 
 > Lāi Gōa Kho Khàn-hō͘-ha̍k
-> 全書台語白話字 (Pe̍h-ōe-jī) 現代 AI 視覺辨識與全漢字對照電子書 (含全書插圖)
+> 全書台語白話字 (Pe̍h-ōe-jī) 現代 AI 視覺辨識與全漢字對照電子書 (含 475 張原書插圖)
 
 - 台灣長老教會早期現代醫學經典
 - 705 頁全書完整收錄：英文題辭序言、白話字正文 40 章、原書解剖插圖、三語語彙表與索引
 - 採用 Gemini 3.7 Flash 深度多模態視覺佈局辨識與精密校注
 
 [開始閱讀 (Get Started)](README.md)
-[GitHub 專案庫](https://github.com/)
+[GitHub 專案庫](https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook)
 """)
     print(f"✅ 封面頁已生成: {coverpage_path}")
 
@@ -166,9 +541,9 @@ def build_chapters():
 
 1. **三語前言完整收錄**：包含蘭大衛醫師等人的英文序言、台文漢字與白話字對照、現代華語翻譯。
 2. **正文 40 章逐段對照**：全書 705 頁高精度白話字（POJ）與台語全漢字逐段並列。
-3. **醫學插圖與圖解完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
+3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
-5. **現代化電子書閱讀體驗**：支援手機與電腦響應式排版、字級調整、全文搜尋與目錄導覽。
+5. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、全文搜尋與目錄導覽。
 
 ---
 
@@ -209,105 +584,10 @@ def build_chapters():
 """)
     print(f"✅ 首頁 README.md 已生成: {readme_path}")
 
-    # Generate docs/index.html (Docsify SPA with search, theme, styling)
+    # Generate docs/index.html with full Dark Mode and Bulletproof Image Resolver Plugin
     index_html_path = os.path.join(DOCS_DIR, "index.html")
     with open(index_html_path, "w", encoding="utf-8") as f:
-        f.write("""<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <title>1917 內外科看護學 - 台語白話字與全漢字數位電子書</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="1917 內外科看護學 (Lāi Gōa Kho Khàn-hō͘-ha̍k) 台語白話字 AI OCR 與全漢字逐段對照電子書">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <style>
-    :root {
-      --theme-color: #2c7a7b;
-    }
-    .markdown-section {
-      max-width: 880px;
-      font-size: 16.5px;
-      line-height: 1.8;
-    }
-    blockquote {
-      background: #f7fafc;
-      border-left: 4px solid #2c7a7b;
-      padding: 12px 18px;
-      margin: 14px 0;
-      color: #2d3748;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1.5em 0;
-    }
-    table th {
-      background-color: #edf2f7;
-      color: #1a202c;
-    }
-    table th, table td {
-      padding: 10px 14px;
-      border: 1px solid #e2e8f0;
-    }
-    .sidebar {
-      font-size: 14.5px;
-    }
-    figure {
-      text-align: center;
-      margin: 20px auto;
-    }
-    figure img {
-      max-width: 100%;
-      height: auto;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
-      border-radius: 6px;
-    }
-    figcaption {
-      font-size: 14px;
-      color: #4a5568;
-      margin-top: 8px;
-    }
-  </style>
-</head>
-<body>
-  <div id="app">正在載入《內外科看護學》電子書...</div>
-  <script>
-    window.$docsify = {
-      name: '1917 內外科看護學',
-      repo: '',
-      loadSidebar: true,
-      subMaxLevel: 3,
-      coverpage: true,
-      auto2top: true,
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: '搜尋書中白話字、漢字或英文詞彙...',
-        noData: '查無符合內容',
-        depth: 4
-      },
-      pagination: {
-        previousText: '上一篇',
-        nextText: '下一篇',
-        crossChapter: true
-      },
-      copyCode: {
-        buttonText: '複製',
-        errorText: '錯誤',
-        successText: '已複製'
-      }
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-</body>
-</html>
-""")
+        f.write(INDEX_HTML_TEMPLATE.strip())
     print(f"✅ Docsify Web 站點已更新: {index_html_path}")
 
 if __name__ == "__main__":
