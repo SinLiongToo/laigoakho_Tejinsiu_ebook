@@ -9,8 +9,6 @@ import time
 from google import genai
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception
 
-FALLBACK_API_KEY = "YOUR_GEMINI_API_KEY"
-
 def is_transient_error(exception: BaseException) -> bool:
     """Check if the error is retryable."""
     err_str = str(exception).lower()
@@ -21,7 +19,9 @@ def is_transient_error(exception: BaseException) -> bool:
 
 class GeminiOCREngine:
     def __init__(self, api_key: str = None, model: str = "gemini-3.7-flash"):
-        self.api_key = api_key or os.getenv("GEMINI_API_KEY") or FALLBACK_API_KEY
+        self.api_key = api_key or os.getenv("GEMINI_API_KEY")
+        if not self.api_key:
+            raise ValueError("GEMINI_API_KEY environment variable is missing.")
         self.model = model
         self.client = genai.Client(api_key=self.api_key)
 

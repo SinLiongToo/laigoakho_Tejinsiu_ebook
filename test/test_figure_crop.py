@@ -22,7 +22,10 @@ pix = page.get_pixmap(dpi=200)
 test_img_path = "cache/test_p25.png"
 pix.save(test_img_path)
 
-client = genai.Client(api_key="YOUR_GEMINI_API_KEY")
+api_key = os.getenv("GEMINI_API_KEY")
+if not api_key:
+    raise ValueError("GEMINI_API_KEY environment variable is required")
+client = genai.Client(api_key=api_key)
 myfile = client.files.upload(file=test_img_path)
 
 prompt = """
