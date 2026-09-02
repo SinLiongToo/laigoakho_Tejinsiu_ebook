@@ -569,21 +569,28 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       display: block;
     }
 
+    /* Force hide other sidebar elements when searching */
+    .app-name.hide,
+    .sidebar-nav.hide,
+    .sidebar.is-searching .app-name,
+    .sidebar.is-searching .sidebar-nav,
+    .sidebar.is-searching .sidebar-collapse-toolbar,
+    .sidebar:has(.results-panel.show) .app-name,
+    .sidebar:has(.results-panel.show) .sidebar-nav,
+    .sidebar:has(.results-panel.show) .sidebar-collapse-toolbar {
+      display: none !important;
+    }
+
     /* Search Results Window taking over the sidebar for maximum clarity */
     .sidebar .results-panel {
       display: none;
-      padding: 10px 6px;
+      padding: 10px 4px;
       margin-top: 8px;
     }
 
-    .sidebar .results-panel.show {
+    .sidebar .results-panel.show,
+    .sidebar.is-searching .results-panel {
       display: block !important;
-    }
-
-    /* Hide collapse toolbar while search results are active */
-    .sidebar-nav.hide ~ .sidebar-collapse-toolbar,
-    .sidebar:has(.results-panel.show) .sidebar-collapse-toolbar {
-      display: none !important;
     }
 
     .sidebar .results-panel .matching-post {
@@ -904,8 +911,55 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
       auto2top: true,
       search: {
         maxAge: 86400000,
-        paths: 'auto',
-        placeholder: '🔍 搜尋白話字、全漢字或英文 (如: kut, 骨)...',
+        paths: [
+          '/',
+          '/00_front_matter/01_english_preface',
+          '/00_front_matter/02_thau_su',
+          '/00_front_matter/03_contents_and_rules',
+          '/01_volume_1_anatomy/ch_01_body_structure',
+          '/01_volume_1_anatomy/ch_02_skeletal_system',
+          '/01_volume_1_anatomy/ch_03_muscular_and_joints',
+          '/01_volume_1_anatomy/ch_04_digestive_system',
+          '/01_volume_1_anatomy/ch_05_circulatory_system',
+          '/01_volume_1_anatomy/ch_06_respiratory_system',
+          '/01_volume_1_anatomy/ch_07_urinary_system',
+          '/01_volume_1_anatomy/ch_08_skin_system',
+          '/01_volume_1_anatomy/ch_09_nervous_system',
+          '/01_volume_1_anatomy/ch_10_sensory_organs',
+          '/02_volume_2_nursing/ch_11_nursing_duties_intro',
+          '/02_volume_2_nursing/ch_12_ward_management',
+          '/02_volume_2_nursing/ch_13_bed_clothing_ventilation',
+          '/02_volume_2_nursing/ch_14_patient_diet',
+          '/02_volume_2_nursing/ch_15_special_feeding',
+          '/02_volume_2_nursing/ch_16_baths_and_cleansing',
+          '/02_volume_2_nursing/ch_17_hot_cold_applications',
+          '/02_volume_2_nursing/ch_18_counter_irritation',
+          '/02_volume_2_nursing/ch_19_enema_lavage_catheter',
+          '/02_volume_2_nursing/ch_20_observation_of_symptoms',
+          '/02_volume_2_nursing/ch_21_administration_of_medicines',
+          '/03_volume_3_surgery/ch_22_bacteriology_inflammation',
+          '/03_volume_3_surgery/ch_23_wounds',
+          '/03_volume_3_surgery/ch_24_venereal_diseases',
+          '/03_volume_3_surgery/ch_25_hemorrhage',
+          '/03_volume_3_surgery/ch_26_burns_and_ulcers',
+          '/03_volume_3_surgery/ch_27_fractures',
+          '/03_volume_3_surgery/ch_28_surgical_tuberculosis',
+          '/03_volume_3_surgery/ch_29_eye_diseases',
+          '/03_volume_3_surgery/ch_30_anesthesia_and_operations',
+          '/03_volume_3_surgery/ch_31_bandaging',
+          '/04_volume_4_medicine/ch_32_digestive_diseases',
+          '/04_volume_4_medicine/ch_33_circulatory_diseases',
+          '/04_volume_4_medicine/ch_34_respiratory_diseases',
+          '/04_volume_4_medicine/ch_35_kidney_diseases',
+          '/04_volume_4_medicine/ch_36_nervous_diseases',
+          '/04_volume_4_medicine/ch_37_infectious_diseases',
+          '/04_volume_4_medicine/ch_38_tropical_diseases',
+          '/04_volume_4_medicine/ch_39_obstetrics_nursing',
+          '/04_volume_4_medicine/ch_40_infant_care',
+          '/05_glossary/medical_glossary',
+          '/06_index/general_index'
+        ],
+        placeholder: '🔍 搜尋白話字、全漢字或英文 (如: kut, 骨, 魚)...',
         noData: '查無相符結果',
         depth: 6,
         hideOtherSidebarContent: true
@@ -943,12 +997,37 @@ INDEX_HTML_TEMPLATE = """<!DOCTYPE html>
             injectSidebarCollapseButton();
             applyKeywordHighlight();
             
-            // Listen for search input typing to highlight keywords in real time
+            // Listen for search input typing to toggle search mode and highlight keywords
             const searchInput = document.querySelector('.sidebar .search input');
             if (searchInput && !searchInput.dataset.hasHighlightListener) {
               searchInput.dataset.hasHighlightListener = 'true';
-              searchInput.addEventListener('input', () => {
+              searchInput.addEventListener('input', (e) => {
+                const val = e.target.value.trim();
+                const sidebar = document.querySelector('.sidebar');
+                const toolbar = document.querySelector('.sidebar-collapse-toolbar');
+                if (sidebar) {
+                  if (val.length > 0) {
+                    sidebar.classList.add('is-searching');
+                    if (toolbar) toolbar.style.display = 'none';
+                  } else {
+                    sidebar.classList.remove('is-searching');
+                    if (toolbar) toolbar.style.display = '';
+                  }
+                }
                 setTimeout(applyKeywordHighlight, 200);
+              });
+            }
+
+            const clearBtn = document.querySelector('.sidebar .search .clear-button');
+            if (clearBtn && !clearBtn.dataset.hasClearListener) {
+              clearBtn.dataset.hasClearListener = 'true';
+              clearBtn.addEventListener('click', () => {
+                const sidebar = document.querySelector('.sidebar');
+                const toolbar = document.querySelector('.sidebar-collapse-toolbar');
+                if (sidebar) {
+                  sidebar.classList.remove('is-searching');
+                  if (toolbar) toolbar.style.display = '';
+                }
               });
             }
           });
