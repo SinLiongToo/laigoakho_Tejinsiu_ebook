@@ -498,13 +498,19 @@
     }
 
     /* ==========================================================================
-       Dedicated Search Panel (Separated from Sidebar Chapters Tree)
+       Dedicated Search Panel & Full Sidebar Search Results Window
        ========================================================================== */
     .sidebar .search {
       position: relative;
       border-bottom: 1px solid var(--border-color) !important;
       padding: 12px 14px 8px 14px;
       margin-bottom: 4px;
+    }
+
+    .sidebar .search .input-wrap {
+      display: flex;
+      align-items: center;
+      position: relative;
     }
 
     .sidebar .search input {
@@ -526,64 +532,44 @@
       outline: none;
     }
 
-    /* Dedicated Search Results Panel with High-Visibility Scrollbar */
-    .results-panel,
-    .sidebar .results-panel,
-    .sidebar .search .results-panel {
-      background-color: var(--bg-primary) !important;
-      border: 1.5px solid var(--theme-color) !important;
-      border-radius: 8px !important;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25) !important;
-      max-height: 420px !important;
-      overflow-y: scroll !important;
-      overflow-x: hidden !important;
-      padding: 8px 10px !important;
-      margin: 8px 0 12px 0 !important;
-      scrollbar-width: thin !important;
-      scrollbar-color: #0284c7 var(--bg-secondary) !important;
+    .sidebar .search .clear-button {
+      cursor: pointer;
+      position: absolute;
+      right: 8px;
+      display: none;
     }
 
-    .results-panel.hide,
-    .sidebar .results-panel:empty {
-      display: none !important;
+    .sidebar .search .clear-button.show {
+      display: block;
     }
 
-    /* Search Results Scrollbar (11px wide, vivid cyan/teal thumb) */
-    .results-panel::-webkit-scrollbar,
-    .sidebar .results-panel::-webkit-scrollbar {
-      width: 11px !important;
-      height: 11px !important;
+    /* Search Results Window taking over the sidebar for maximum clarity */
+    .sidebar .results-panel {
+      display: none;
+      padding: 10px 6px;
+      margin-top: 8px;
+    }
+
+    .sidebar .results-panel.show {
       display: block !important;
     }
 
-    .results-panel::-webkit-scrollbar-track,
-    .sidebar .results-panel::-webkit-scrollbar-track {
-      background: var(--bg-secondary) !important;
-      border-radius: 6px !important;
-    }
-
-    .results-panel::-webkit-scrollbar-thumb,
-    .sidebar .results-panel::-webkit-scrollbar-thumb {
-      background: #0284c7 !important;
-      border-radius: 6px !important;
-      border: 2px solid var(--bg-secondary) !important;
-    }
-
-    .results-panel::-webkit-scrollbar-thumb:hover,
-    .sidebar .results-panel::-webkit-scrollbar-thumb:hover {
-      background: #0369a1 !important;
-    }
-
-    [data-theme="dark"] .results-panel::-webkit-scrollbar-thumb,
-    [data-theme="dark"] .sidebar .results-panel::-webkit-scrollbar-thumb {
-      background: #38bdf8 !important;
-      border-color: #111827 !important;
+    /* Hide collapse toolbar while search results are active */
+    .sidebar-nav.hide ~ .sidebar-collapse-toolbar,
+    .sidebar:has(.results-panel.show) .sidebar-collapse-toolbar {
+      display: none !important;
     }
 
     .sidebar .results-panel .matching-post {
       border-bottom: 1px solid var(--border-color);
-      padding: 8px 4px;
-      margin-bottom: 6px;
+      padding: 10px 8px;
+      margin-bottom: 8px;
+      border-radius: 6px;
+      transition: background-color 0.2s ease;
+    }
+
+    .sidebar .results-panel .matching-post:hover {
+      background-color: var(--blockquote-bg);
     }
 
     .sidebar .results-panel .matching-post:last-child {
@@ -593,15 +579,30 @@
     .sidebar .results-panel h2 {
       font-size: 14.5px;
       color: var(--theme-color) !important;
-      margin: 2px 0 4px 0;
+      margin: 2px 0 6px 0;
       font-weight: 700;
+    }
+
+    [data-theme="dark"] .sidebar .results-panel h2 {
+      color: #38bdf8 !important;
     }
 
     .sidebar .results-panel p {
       font-size: 13px;
       color: var(--text-secondary) !important;
-      line-height: 1.5;
+      line-height: 1.6;
       margin: 0;
+    }
+
+    [data-theme="dark"] .sidebar .results-panel p {
+      color: #cbd5e1 !important;
+    }
+
+    .sidebar .results-panel p.empty {
+      text-align: center;
+      padding: 24px 0;
+      color: var(--text-muted) !important;
+      font-size: 14px;
     }
 
     /* ==========================================================================
@@ -881,7 +882,7 @@
         placeholder: '🔍 搜尋白話字、全漢字或英文 (如: kut, 骨)...',
         noData: '查無相符結果',
         depth: 6,
-        hideOtherSidebarContent: false // Keep sidebar chapter tree intact and separated!
+        hideOtherSidebarContent: true
       },
       pagination: {
         previousText: '上一篇',
