@@ -9,6 +9,7 @@ import os
 import sys
 import json
 import glob
+from datetime import datetime
 from collections import defaultdict
 
 # Ensure UTF-8 console output on Windows
@@ -1164,10 +1165,12 @@ def build_chapters():
         
     print(f"✅ 可折疊側邊導航已生成: {sidebar_path}")
 
+    today_str = datetime.now().strftime("%Y-%m-%d")
+
     # Generate _coverpage.md
     coverpage_path = os.path.join(DOCS_DIR, "_coverpage.md")
     with open(coverpage_path, "w", encoding="utf-8") as f:
-        f.write("""<div align="center">
+        f.write(f"""<div align="center">
 <img src="assets/author_george_gushue_taylor.jpg" alt="戴仁壽醫師 (Dr. George Gushue-Taylor)" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #2c7a7b; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
@@ -1182,7 +1185,7 @@ def build_chapters():
 - 705 頁全書收錄：英文題辭序言、白話字正文 40 章、475 張原書醫學插圖、三語辭彙表與總索引
 - 採用 Iansui 芫荽體與台文專屬字型組排版
 - 採用 Gemini 3.7 Flash 深度視覺佈局辨識與逐段台漢對照
-- 數位典藏建置：2026 年 @Tō͘ Sìn-liông
+- 數位典藏建置：2026 年 @Tō͘ Sìn-liông（最後更新：{today_str}）
 
 [開始閱讀 (Get Started)](README.md)
 [GitHub 專案庫](https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook)
@@ -1221,7 +1224,7 @@ def build_chapters():
 3. **475 張醫學插圖完整嵌入**：自動裁切並高解析度還原人體解剖圖、外科器械與包紮繃帶插圖。
 4. **醫學語彙辭典 (GÚ-LŪI)**：收錄書末珍貴的台語白話字、台語漢字與英語醫學專用術語三語辭典。
 5. **台語典藏最佳化字型**：採用 **Iansui 芫荽體**、**HanaMin**、**Klee One** 與 **Noto Serif TC**，完美呈現白話字調號與漢字。
-6. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響應式排版 (RWD)、側邊欄各篇折疊展開 (Collapsible Sidebar)、全文搜尋與目錄導覽。
+6. **現代化電子書閱讀體驗**：支援深色模式 (Dark Mode)、手機電腦響性式排版 (RWD)、側邊欄各篇折疊展開 (Collapsible Sidebar)、全文搜尋與目錄導覽。
 
 ---
 
@@ -1258,7 +1261,7 @@ def build_chapters():
 - [總索引 (SEK-ÍN)](06_index/general_index.md)
 
 ---
-*數位典藏建置年份：2026 年 @Tō͘ Sìn-liông*
+*數位典藏建置：2026 年 @Tō͘ Sìn-liông ｜ 最後更新日期：{today_str}*
 """)
     print(f"✅ 首頁 README.md 已生成: {readme_path}")
 

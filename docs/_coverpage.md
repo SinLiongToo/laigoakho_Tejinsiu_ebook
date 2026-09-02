@@ -13,7 +13,7 @@
 - 705 頁全書收錄：英文題辭序言、白話字正文 40 章、475 張原書醫學插圖、三語辭彙表與總索引
 - 採用 Iansui 芫荽體與台文專屬字型組排版
 - 採用 Gemini 3.7 Flash 深度視覺佈局辨識與逐段台漢對照
-- 數位典藏建置：2026 年 @Tō͘ Sìn-liông
+- 數位典藏建置：2026 年 @Tō͘ Sìn-liông（最後更新：2026-09-03）
 
 [開始閱讀 (Get Started)](README.md)
 [GitHub 專案庫](https://github.com/SinLiongToo/laigoakho_Tejinsiu_ebook)
