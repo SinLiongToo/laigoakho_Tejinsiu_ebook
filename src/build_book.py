@@ -1240,7 +1240,8 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
     </div>
   </div>
 
-  <!-- Load Compiled Dictionary Data -->
+  <!-- Inline Dictionary Data for Instant 0ms Load -->
+  <script id="dict-data" type="application/json">__DICT_JSON_DATA__</script>
   <script src="assets/dictionary_data.js"></script>
 
   <script>
@@ -1333,8 +1334,17 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
     const DICT_PAGE_SIZE = 90;
 
     function initDictionary() {
-      if (window.LAIGOAKHO_DICT_DATA && Array.isArray(window.LAIGOAKHO_DICT_DATA)) {
-        dictAllEntries = window.LAIGOAKHO_DICT_DATA;
+      if (dictAllEntries.length === 0) {
+        try {
+          const dataEl = document.getElementById('dict-data');
+          if (dataEl && dataEl.textContent.trim()) {
+            dictAllEntries = JSON.parse(dataEl.textContent);
+          } else if (window.LAIGOAKHO_DICT_DATA && Array.isArray(window.LAIGOAKHO_DICT_DATA)) {
+            dictAllEntries = window.LAIGOAKHO_DICT_DATA;
+          }
+        } catch(e) {
+          console.error('Failed to parse dictionary data:', e);
+        }
       }
       
       // Update scope counts
@@ -1804,12 +1814,18 @@ def clean_tone(text):
     return text.lower().replace('o͘', 'o').replace('o\u0358', 'o').replace('-', ' ').replace(',', ' ').strip()
 
 def get_first_letter(poj):
-    p = poj.strip().upper()
-    for prefix in ['CHH', 'CH', 'KH', 'PH', 'TH', 'NG', 'O͘', 'O\u0358']:
-        if p.startswith(prefix):
+    p = poj.strip()
+    p_upper = p.upper()
+    for prefix in ['CHH', 'CH', 'KH', 'PH', 'TH', 'NG']:
+        if p_upper.startswith(prefix):
             return prefix
-    if p and p[0].isalpha():
-        return p[0]
+    if p.startswith('O͘') or p.startswith('o͘') or p.startswith('O\u0358') or p.startswith('o\u0358') or p_upper.startswith('O·'):
+        return 'O͘'
+    c = p[0]
+    c_norm = unicodedata.normalize('NFD', c)
+    c_clean = ''.join(ch for ch in c_norm if unicodedata.category(ch) != 'Mn').upper()
+    if c_clean.isalpha():
+        return c_clean
     return '#'
 
 def generate_dictionary_dataset():
@@ -1911,6 +1927,7 @@ def generate_dictionary_dataset():
     with open(dict_js_path, "w", encoding="utf-8") as f:
         f.write("window.LAIGOAKHO_DICT_DATA = " + json.dumps(entries, ensure_ascii=False) + ";")
     print(f"✅ 醫學台語辭典資料集已生成: {dict_js_path} (共 {len(entries)} 筆詞條)")
+    return entries
 
 def build_chapters():
     book_structure = load_book_structure()
@@ -2123,12 +2140,14 @@ def build_chapters():
     print(f"✅ 首頁 README.md 已生成: {readme_path}")
 
     # Generate Dictionary Dataset
-    generate_dictionary_dataset()
+    dict_entries = generate_dictionary_dataset()
 
-    # Generate docs/index.html
+    # Generate docs/index.html with inline dictionary JSON
     index_html_path = os.path.join(DOCS_DIR, "index.html")
+    dict_json_str = json.dumps(dict_entries, ensure_ascii=False)
+    final_html = INDEX_HTML_TEMPLATE.replace("__DICT_JSON_DATA__", dict_json_str)
     with open(index_html_path, "w", encoding="utf-8") as f:
-        f.write(INDEX_HTML_TEMPLATE.strip())
+        f.write(final_html.strip())
     print(f"✅ 雙模式 Docsify Web 與 醫學台語辭典 站點已更新: {index_html_path}")
 
 if __name__ == "__main__":
