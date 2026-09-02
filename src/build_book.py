@@ -707,7 +707,6 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       height: 100vh;
       background-color: var(--bg-primary);
       z-index: 999;
-      display: flex;
     }
 
     .dict-sidebar {
@@ -1715,7 +1714,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
           });
 
           hook.afterEach(function(html, next) {
-            var basePath = window.location.pathname.replace(/\\/$/, '');
+            var basePath = window.location.pathname.replace(/\/$/, '');
             var tempDiv = document.createElement('div');
             tempDiv.innerHTML = html;
             
