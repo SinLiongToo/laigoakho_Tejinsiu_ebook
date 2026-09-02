@@ -308,6 +308,44 @@ hook.afterEach(function(html, next) {
 
 ---
 
+### 6. 🔀 雙模式切換架構（電子書模式 📖 ⇋ 醫學台語辭典模式 📚）
+
+為文獻典藏站點提供雙重視角體驗：
+- **頂部常駐切換列（Mode Switcher）**：
+  ```html
+  <div class="site-mode-switcher">
+    <button id="mode-btn-ebook" class="mode-tab-btn active">📖 電子書模式</button>
+    <button id="mode-btn-dict" class="mode-tab-btn">📚 字典模式</button>
+  </div>
+  ```
+- **視圖隔離與狀態切換**：
+  - 電子書模式：顯示 Docsify 閱讀器（`#ebook-container`），隱藏辭典介面（`#dict-app`）。
+  - 辭典模式：隱藏 Docsify 閱讀器，全螢幕展示辭典專屬雙欄檢索 SPA（`#dict-app`）。
+  - 路由自動切換：當 URL hash 為 `#/dict` 時自動啟動字典模式；從字典卡片點擊「📖 閱讀原書第 X 頁」時，自動切換至電子書模式並直達章節。
+
+---
+
+### 7. 📚 醫學台語三語辭典檢索引擎 (Medical Dictionary SPA)
+
+- **0 毫秒極速同步內嵌資料（Inline Dataset）**：
+  將結構化詞條資料直接內嵌於 `<script id="dict-data" type="application/json">`，徹底根除外部靜態檔下載延遲或 CORS 權限問題。
+- **四向即時篩選（4-Way Instant Filter）**：
+  - 同時比對「台語漢字」、「白話字 POJ / 台羅」、「去調號模糊字串（NFD normalized）」、「英文醫學名詞」與「原書頁碼」。
+- **字母快速跳轉（Letter Grid）**：
+  - 支援 `ALL`, `A`, `B`, `CH`, `CHH`, `E`, `G`, `H`, `I`, `J`, `K`, `KH`, `L`, `M`, `N`, `NG`, `O`, `O͘`, `P`, `PH`, `S`, `T`, `TH`, `U`。
+- **分頁切片渲染（Slice Rendering）**：
+  - 預設首屏渲染 90 筆卡片，搭配「載入更多」按鈕，保持高格率滑順度。
+
+---
+
+### 8. 📖 內嵌雙語使用手冊（Bilingual User Manual）
+
+辭典專屬使用手冊具備雙語即時切換：
+- **🇹🇼 全漢版使用手冊**：針對華語/台語漢字讀者提供體例說明、四向檢索技巧、聲調音標規則與章節導讀。
+- **📜 Choân Pe̍h-ōe-jī Chhiú-chheh**：以道地台語白話字撰寫，詳述 GÚ-LŪI（語彙）與 SEK-ÍN（索引）之歷史源流與檢索體例。
+
+---
+
 ## 🎯 快速重用方式
 
-當需要在新專案中啟用本 UI 架構時，只需將本專案 `src/build_book.py` 內的 `INDEX_HTML_TEMPLATE` 模板複製至新專案的電子書組裝腳本中即可！
+當需要在新專案中啟用本 UI 架構時，只需將本專案 `src/build_book.py` 內的 `INDEX_HTML_TEMPLATE` 模板與 `generate_dictionary_dataset()` 整合至新專案的組裝腳本中即可！
