@@ -1109,21 +1109,14 @@
       
       <div class="dict-mode-tabs">
         <button id="dict-tab-search-btn" class="dict-tab-btn active">🔍 詞典檢索</button>
-        <button id="dict-tab-help-btn" class="dict-tab-btn">📖 使用手冊</button>
-      </div>
-
-      <div id="dict-search-controls">
-        <input type="text" id="dict-search-input" class="dict-search-box" placeholder="🔍 搜尋 漢字 / 白話字 / 英文 / 頁碼..." />
-        <div class="dict-search-tips">💡 支援：漢字 (喉頭)、白話字 (âu-thâu, kut)、英文 (Larynx)、原書頁碼 (378)</div>
-        
-        <div class="dict-filter-pills">
+        <button id="dict-tab-help-btn" class="dict                <div class="dict-filter-pills">
           <button class="filter-pill active" data-scope="all">全部 <span id="pill-count-all">(0)</span></button>
-          <button class="filter-pill" data-scope="s1">一語 (單字) <span id="pill-count-s1">(0)</span></button>
-          <button class="filter-pill" data-scope="s2">二語 (雙字詞) <span id="pill-count-s2">(0)</span></button>
-          <button class="filter-pill" data-scope="s3">三語 (三字詞) <span id="pill-count-s3">(0)</span></button>
-          <button class="filter-pill" data-scope="s4">四語 (四字詞) <span id="pill-count-s4">(0)</span></button>
-          <button class="filter-pill" data-scope="glossary">三語語彙 <span id="pill-count-glossary">(0)</span></button>
-          <button class="filter-pill" data-scope="index">總索引 <span id="pill-count-index">(0)</span></button>
+          <button class="filter-pill" data-scope="s1">一字詞 (單字) <span id="pill-count-s1">(0)</span></button>
+          <button class="filter-pill" data-scope="s2">二字詞 (雙字) <span id="pill-count-s2">(0)</span></button>
+          <button class="filter-pill" data-scope="s3">三字詞 (三字) <span id="pill-count-s3">(0)</span></button>
+          <button class="filter-pill" data-scope="s4">四字詞 (四字) <span id="pill-count-s4">(0)</span></button>
+          <button class="filter-pill" data-scope="glossary">三語辭彙 (台英漢) <span id="pill-count-glossary">(0)</span></button>
+          <button class="filter-pill" data-scope="index">總索引 (原書) <span id="pill-count-index">(0)</span></button>
         </div>
 
         <div class="dict-stat-line">
@@ -1145,7 +1138,7 @@
           </div>
         </div>
 
-        <!-- Dictionary User Manual View -->
+        <!-- Dictionary User Manual (Help View) -->
         <div id="dict-help-view" style="display: none;">
           <div class="manual-lang-tabs">
             <button id="manual-btn-han" class="manual-lang-btn active">🇹🇼 全漢使用手冊</button>
@@ -1154,12 +1147,49 @@
 
           <!-- Han-ji Manual -->
           <div id="manual-content-han">
+            <div class="manual-section" style="border-left-color: #ea580c; background-color: rgba(234, 88, 12, 0.05);">
+              <h2 style="color: #ea580c;">💡「三字詞（三語詞）」與「三語辭彙（GÚ-LŪI）」的差別說明</h2>
+              <p>在台語文獻與本辭典中，「<strong>三字詞（三語）</strong>」與「<strong>三語辭彙（GÚ-LŪI）</strong>」代表完全不同維度的概念，特此說明區別：</p>
+              <table style="width: 100%; margin-top: 10px; border-collapse: collapse; font-size: 0.92em;">
+                <thead>
+                  <tr style="background-color: var(--bg-secondary); text-align: left;">
+                    <th style="padding: 8px 12px; border: 1px solid var(--border-color);">比較項目</th>
+                    <th style="padding: 8px 12px; border: 1px solid var(--border-color); color: #ea580c;">🔤 三字詞 (三語詞 · 3-Syllable Term)</th>
+                    <th style="padding: 8px 12px; border: 1px solid var(--border-color); color: var(--theme-color);">📚 醫學三語辭彙 (GÚ-LŪI · 3-Language Glossary)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color); font-weight: 700;">定義依據</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);"><strong>音節數量（長度）</strong>：由 3 個音節（連字號連接）組成的詞彙。</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);"><strong>語言種類（多語對照）</strong>：由 3 種語言（台羅POJ、台漢、英文）對照之專業辭彙。</td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color); font-weight: 700;">對應分類</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);">與「一字詞（單字）」、「二字詞（雙字）」、「四字詞（四字）」相對應。</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);">與附錄二「總索引（SEK-ÍN）」相對應。</td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color); font-weight: 700;">收錄範圍</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);">全書 705 頁所有 3 音節詞（共 2,619 條）。</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);">原書第 664～694 頁附錄一專業醫學辭典（共 1,468 條）。</td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color); font-weight: 700;">代表範例</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);"><span class="manual-code">kái-phò͘-ha̍k</span> (解剖學)、<span class="manual-code">chù-siā-chiam</span> (注射針)、<span class="manual-code">chio̍h-thòaⁿ-sng</span> (石炭酸)</td>
+                    <td style="padding: 8px 12px; border: 1px solid var(--border-color);"><span class="manual-code">âu-thâu</span> ↔ 喉頭 ↔ Larynx<br><span class="manual-code">kut-chiat</span> ↔ 骨折 ↔ Fracture</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+
             <div class="manual-section">
               <h2>📖 1917《內外科看護學》醫學詞典緣起與體例</h2>
-              <p>本書詞典資料庫完整收錄自 1917 年戴仁壽醫師（Dr. George Gushue-Taylor）編著之《內外科看護學》書末兩大珍貴附錄：</p>
+              <p>本書詞典資料庫收錄 1917 年戴仁壽醫師（Dr. George Gushue-Taylor）編著之《內外科看護學》全書 705 頁完整語料庫，共計 <strong>12,863 條詞目</strong>：</p>
               <ul>
-                <li><strong>附錄一：醫學三語辭彙表（GÚ-LŪI）</strong>：收錄 1,019 條專業醫學辭彙，並列「台語白話字（POJ）」、「台語全漢字」與「英文專業醫學術語（English Medical Terms）」。</li>
-                <li><strong>附錄二：總索引目錄（SEK-ÍN）</strong>：收錄 1,606 條臨床名詞與原書詳細對應頁碼，完整貫串全書 40 章臨床解剖與護理技術。</li>
+                <li><strong>全書 705 頁語料庫</strong>：涵蓋一字詞（3,715 條）、二字詞（5,116 條）、三字詞（2,619 條）、四字詞（896 條）。</li>
+                <li><strong>附錄一：醫學三語辭彙表（GÚ-LŪI）</strong>：收錄 1,468 條專業醫學辭彙，並列「台語白話字（POJ）」、「台語全漢字」與「英文專業醫學術語（English Medical Terms）」。</li>
+                <li><strong>附錄二：總索引目錄（SEK-ÍN）</strong>：收錄 2,053 條臨床名詞與原書詳細對應頁碼，完整貫串全書 40 章臨床解剖與護理技術。</li>
               </ul>
             </div>
 
@@ -1176,11 +1206,11 @@
             </div>
 
             <div class="manual-section">
-              <h2>🔤 字母快速導覽與範圍篩選</h2>
+              <h2>🔤 字母快速導覽、分類篩選與三種排序</h2>
               <ul>
+                <li><strong>分類篩選標籤</strong>：可隨時切換【全部】、【一字詞】、【二字詞】、【三字詞】、【四字詞】、【三語辭彙】與【總索引】。</li>
                 <li><strong>字母快捷鍵</strong>：點擊左側字母列（如 <span class="manual-code">A</span>、<span class="manual-code">CH</span>、<span class="manual-code">K</span>、<span class="manual-code">O͘</span>、<span class="manual-code">PH</span>），即可依白話字開頭字母快速篩選詞條。</li>
-                <li><strong>範圍標籤</strong>：可切換【全部】、【三語語彙】與【總索引】三個資料集。</li>
-                <li><strong>排序切換</strong>：點擊「依字母排序」或「依頁碼排序」，方便按字母順序或書籍篇章順序瀏覽。</li>
+                <li><strong>三種排序切換</strong>：點擊「🔥 依頻率排序」、「🔤 依字母排序」或「📄 依頁碼排序」自由循環切換。</li>
               </ul>
             </div>
 
@@ -1192,12 +1222,22 @@
 
           <!-- POJ Manual -->
           <div id="manual-content-poj" style="display: none;">
+            <div class="manual-section" style="border-left-color: #ea580c; background-color: rgba(234, 88, 12, 0.05);">
+              <h2 style="color: #ea580c;">💡 "Saⁿ-jī-sû (3音節詞)" kap "Saⁿ-gí Gú-lūi (3種語言辭彙)" ê Chha-pia̍t Soat-bêng</h2>
+              <p>Tī Tâi-gí bûn-hiàn kap pún sû-tián tiong, "<strong>Saⁿ-jī-sû (Saⁿ-gí)</strong>" kap "<strong>Saⁿ-gí Gú-lūi (GÚ-LŪI)</strong>" sī uân-choân bô-kâng ê khài-liām：</p>
+              <ul>
+                <li><strong>🔤 Saⁿ-jī-sû (3-Syllable Term / 三字詞)</strong>: Chiàu <strong>im-chiat sò͘-liōng (tiông-tō͘)</strong> lâi hun-lūi, iû 3 ê im-chiat liân-jī-hō só͘ cho͘-sêng ê sû (pí-jû <span class="manual-code">kái-phò͘-ha̍k</span> 解剖學, <span class="manual-code">chù-siā-chiam</span> 注射針). Kap "Chi̍t-jī-sû (單字)", "Nn̄g-jī-sû (雙字詞)" siong-tùi.</li>
+                <li><strong>📚 Saⁿ-gí Gú-lūi (3-Language Glossary / 三語辭彙)</strong>: Chiàu <strong>gí-giân chióng-lūi (to-gí tùi-chiàu)</strong> lâi hun-lūi, sī 1917 nî goân-chheh tē 664~694 ia̍h Hù-lio̍k I só͘ siu-lio̍k ê choan-gia̍p i-ha̍k sû-tián, pēng-lia̍t <strong>Pe̍h-ōe-jī (POJ), Choân Hàn-jī kap Eng-bûn (English Medical Terms)</strong> saⁿ chióng gí-giân.</li>
+              </ul>
+            </div>
+
             <div class="manual-section">
               <h2>📖 1917 Lāi-gōa-kho Khàn-hō͘-ha̍k I-ha̍k Sû-tián Goân-iû</h2>
-              <p>Pún sû-tián chu-liāu-khò͘ sī uì 1917 nî Tè Jîn-siū I-seng (Dr. George Gushue-Taylor) só͘ pian-tì ê 《Lāi Gōa Kho Khàn-hō͘-ha̍k》 chheh-bóe nn̄g hāng tiōng-iàu hù-lio̍k só͘ chè-chō：</p>
+              <p>Pún sû-tián chu-liāu-khò͘ siu-lio̍k 1917 nî Tè Jîn-siū I-seng (Dr. George Gushue-Taylor) só͘ pian-tì ê 《Lāi Gōa Kho Khàn-hō͘-ha̍k》 choân-chheh 705 ia̍h gí-liāu-khò͘, lóng-chóng <strong>12,863 tiâu sû-bo̍k</strong>：</p>
               <ul>
-                <li><strong>Hù-lio̍k I: I-ha̍k Saⁿ-gí Gú-lūi (GÚ-LŪI)</strong>: Siu-lio̍k 1,019 tiâu choan-gia̍p i-ha̍k sû-lūi, pēng-lia̍t Pe̍h-ōe-jī (POJ), Choân Hàn-jī kap Eng-bûn (English Medical Terms).</li>
-                <li><strong>Hù-lio̍k II: Chóng Sek-ín Bo̍k-lio̍k (SEK-ÍN)</strong>: Siu-lio̍k 1,606 tiâu lîm-tshn̂g bêng-sû kap goân-chheh ia̍h-bé, thàu-kòe choân-chheh 40 chiuⁿ ê kái-phò͘ kap khàn-hō͘ ki-sut.</li>
+                <li><strong>Choân-chheh 705 Ia̍h Gí-liāu</strong>: Pau-koat Chi̍t-jī-sû (3,715 tiâu), Nn̄g-jī-sû (5,116 tiâu), Saⁿ-jī-sû (2,619 tiâu), Sì-jī-sû (896 tiâu).</li>
+                <li><strong>Hù-lio̍k I: I-ha̍k Saⁿ-gí Gú-lūi (GÚ-LŪI)</strong>: Siu-lio̍k 1,468 tiâu choan-gia̍p i-ha̍k sû-lūi, pēng-lia̍t Pe̍h-ōe-jī (POJ), Choân Hàn-jī kap Eng-bûn (English Medical Terms).</li>
+                <li><strong>Hù-lio̍k II: Chóng Sek-ín Bo̍k-lio̍k (SEK-ÍN)</strong>: Siu-lio̍k 2,053 tiâu lîm-tshn̂g bêng-sû kap goân-chheh ia̍h-bé, thàu-kòe choân-chheh 40 chiuⁿ ê kái-phò͘ kap khàn-hō͘ ki-sut.</li>
               </ul>
             </div>
 
@@ -1216,9 +1256,9 @@
             <div class="manual-section">
               <h2>🔤 Jī-bó Khoài-sú Kòe-lī kap Pâi-lia̍t</h2>
               <ul>
+                <li><strong>Hun-lūi Piau-chhiam</strong>: Ē-sái chhiat-oaⁿ 【Choân-pō͘】, 【Chi̍t-jī-sû】, 【Nn̄g-jī-sû】, 【Saⁿ-jī-sû】, 【Sì-jī-sû】, 【Saⁿ-gí Gú-lūi】 kap 【Chóng Sek-ín】.</li>
                 <li><strong>Jī-bó Khoài-chia̍t-kiān</strong>: Tiám tò-pêng jī-bó (pí-jû <span class="manual-code">A</span>, <span class="manual-code">CH</span>, <span class="manual-code">K</span>, <span class="manual-code">O͘</span>, <span class="manual-code">PH</span>), tō ē-sái khoài-sú kòe-lī sû-tiâu.</li>
-                <li><strong>Hoān-uî Piau-chhiam</strong>: Ē-sái chhiat-oaⁿ 【Choân-pō͘】, 【Saⁿ-gí Gú-lūi】 kap 【Chóng Sek-ín】.</li>
-                <li><strong>Pâi-lia̍t Chhiat-oaⁿ</strong>: Tiám "I-chiàu Jī-bó" he̍k "I-chiàu Ia̍h-bé" lâi sūn-sū liú-lám.</li>
+                <li><strong>Pâi-lia̍t Chhiat-oaⁿ</strong>: Tiám "🔥 Pîn-lu̍t", "🔤 Jī-bó" he̍k "📄 Ia̍h-bé" lâi sūn-sū liú-lám.</li>
               </ul>
             </div>
 
@@ -1228,8 +1268,6 @@
             </div>
           </div>
         </div>
-      </div>
-    </div>
   </div>
 
   <!-- Inline Dictionary Data for Instant 0ms Load -->
