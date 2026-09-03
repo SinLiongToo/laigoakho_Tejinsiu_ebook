@@ -696,7 +696,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       border-bottom: 2px solid #facc15 !important;
     }
 
-    /* ==========================================================================
+        /* ==========================================================================
        Medical Dictionary SPA Layout (#dict-app)
        ========================================================================== */
     #dict-app {
@@ -707,6 +707,23 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       height: 100vh;
       background-color: var(--bg-primary);
       z-index: 999;
+    }
+
+    body.mode-dict #dict-app {
+      display: flex !important;
+    }
+
+    body.mode-dict > main,
+    body.mode-dict .sidebar,
+    body.mode-dict .sidebar-toggle,
+    body.mode-dict .content,
+    body.mode-dict section.cover,
+    body.mode-dict #ebook-container {
+      display: none !important;
+    }
+
+    body.mode-ebook #dict-app {
+      display: none !important;
     }
 
     .dict-sidebar {
@@ -1126,7 +1143,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
     <button id="theme-toggle-btn" title="切換深色/淺色模式" aria-label="Toggle Dark Mode">🌙</button>
   </div>
 
-  <!-- eBook Container (Docsify Mount) -->
+    <!-- eBook Container (Docsify Mount) -->
   <div id="ebook-container">
     <div id="app">正在載入《內外科看護學》圖文電子書...</div>
   </div>
@@ -1139,7 +1156,14 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       
       <div class="dict-mode-tabs">
         <button id="dict-tab-search-btn" class="dict-tab-btn active">🔍 詞典檢索</button>
-        <button id="dict-tab-help-btn" class="dict                <div class="dict-filter-pills">
+        <button id="dict-tab-help-btn" class="dict-tab-btn">📖 使用手冊</button>
+      </div>
+
+      <div id="dict-search-controls">
+        <input type="text" id="dict-search-input" class="dict-search-box" placeholder="🔍 搜尋 漢字 / 白話字 / 英文 / 頁碼..." />
+        <div class="dict-search-tips">💡 支援：漢字 (喉頭)、白話字 (âu-thâu, kut)、英文 (Larynx)、原書頁碼 (378)</div>
+        
+        <div class="dict-filter-pills">
           <button class="filter-pill active" data-scope="all">全部 <span id="pill-count-all">(0)</span></button>
           <button class="filter-pill" data-scope="s1">一字詞 (單字) <span id="pill-count-s1">(0)</span></button>
           <button class="filter-pill" data-scope="s2">二字詞 (雙字) <span id="pill-count-s2">(0)</span></button>
@@ -1298,6 +1322,8 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
             </div>
           </div>
         </div>
+      </div>
+    </div>
   </div>
 
   <!-- Inline Dictionary Data for Instant 0ms Load -->
@@ -1341,7 +1367,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       }
     });
 
-    // --------------------------------------------------------------------------
+        // --------------------------------------------------------------------------
     // Dual Site Mode Switching: eBook Mode 📖 ⇋ Dictionary Mode 📚
     // --------------------------------------------------------------------------
     let currentSiteMode = 'ebook';
@@ -1354,12 +1380,16 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       const dictApp = document.getElementById('dict-app');
 
       if (mode === 'dict') {
+        document.body.classList.remove('mode-ebook');
+        document.body.classList.add('mode-dict');
         if (btnEbook) btnEbook.classList.remove('active');
         if (btnDict) btnDict.classList.add('active');
         if (ebookContainer) ebookContainer.style.display = 'none';
         if (dictApp) dictApp.style.display = 'flex';
         renderDictionary();
       } else {
+        document.body.classList.remove('mode-dict');
+        document.body.classList.add('mode-ebook');
         if (btnDict) btnDict.classList.remove('active');
         if (btnEbook) btnEbook.classList.add('active');
         if (dictApp) dictApp.style.display = 'none';
