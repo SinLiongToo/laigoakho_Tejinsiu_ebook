@@ -1932,6 +1932,50 @@ def get_page_illustrations(page_num: int) -> list:
             pass
     return []
 
+def load_corrections():
+    """Loads Han-ji -> Canonical POJ correction mapping from correction_lmj.xlsx / .xls."""
+    corrections = {}
+    for fn in ["correction_lmj.xlsx", "correction_lmj.xls", "config/correction_lmj.xlsx"]:
+        if os.path.exists(fn):
+            try:
+                import pandas as pd
+                df = pd.read_excel(fn)
+                for _, row in df.iterrows():
+                    han = str(row.get("漢字", "")).strip()
+                    poj = str(row.get("羅馬字", "")).strip()
+                    if han and poj and han != "nan" and poj != "nan":
+                        corrections[han] = unicodedata.normalize('NFC', poj)
+            except Exception as e:
+                print(f"⚠️ 讀取勘誤表 {fn} 失敗: {e}")
+    return corrections
+
+def normalize_poj_word(w, corrections):
+    """Normalizes POJ OCR misrecognitions according to correction mapping."""
+    if not corrections or not w:
+        return unicodedata.normalize('NFC', w) if w else w
+    w_norm = unicodedata.normalize('NFC', w)
+    w_clean = clean_tone(w_norm)
+    for han, canonical_poj in corrections.items():
+        can_norm = unicodedata.normalize('NFC', canonical_poj)
+        can_clean = clean_tone(can_norm)
+        if w_clean == can_clean or (can_clean == 'mui tok' and w_clean in ['mu tok', 'mui tok']):
+            is_cap = w[0].isupper() if w else False
+            return can_norm[0].upper() + can_norm[1:] if is_cap else can_norm[0].lower() + can_norm[1:]
+        elif w_clean.endswith(' ' + can_clean) or (can_clean == 'mui tok' and (w_clean.endswith(' mu tok') or w_clean.endswith(' mui tok'))):
+            prefix = w_norm.rsplit('-', 2)[0]
+            return prefix + '-' + can_norm
+    return w_norm
+
+def apply_text_corrections(text, corrections):
+    """Applies word-level corrections across a text string."""
+    if not corrections or not text:
+        return text
+    def _repl(m):
+        w = m.group(0)
+        return normalize_poj_word(w, corrections)
+    poj_pattern = re.compile(r"[a-zA-ZÀ-ɏ̀-ͯḀ-ỿⁿ·͘]+(?:-[a-zA-ZÀ-ɏ̀-ͯḀ-ỿⁿ·͘]+)*")
+    return poj_pattern.sub(_repl, text)
+
 def clean_tone(text):
     text = unicodedata.normalize('NFD', text)
     text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
@@ -1955,6 +1999,9 @@ def get_first_letter(poj):
 def generate_dictionary_dataset():
     """Extracts all vocabulary from the entire 705-page corpus + GÚ-LŪI + SEK-ÍN into a structured JSON dataset."""
     print("📚 正在編譯全書 705 頁全語料庫大辭典（含一語、二語、三語、四語與附錄語彙/索引）...")
+    corrections = load_corrections()
+    if corrections:
+        print(f"  📝 已套用 {len(corrections)} 組羅馬字勘誤規則: {corrections}")
     book_structure = load_book_structure()
     page_map = {}
     for sec in book_structure["sections"]:
@@ -1978,7 +2025,12 @@ def generate_dictionary_dataset():
                 if "|" in line and not line.strip().startswith("| :") and not "白話字" in line:
                     cols = [c.strip() for c in line.split("|")[1:-1]]
                     if len(cols) >= 3 and cols[0]:
-                        poj = cols[0].rstrip(",").strip()
+                        poj = apply_text_corrections(cols[0].rstrip(",").strip(), corrections)
+                        han = cols[1].strip()
+                        if han in corrections:
+                            poj = corrections[han]
+                        if han in corrections:
+                            poj = corrections[han]
                         han = cols[1].strip()
                         eng = cols[2].rstrip(".").strip()
                         notes = cols[3].strip() if len(cols) > 3 else ""
@@ -2010,7 +2062,12 @@ def generate_dictionary_dataset():
                 if "|" in line and not line.strip().startswith("| :") and not "索引詞條" in line:
                     cols = [c.strip() for c in line.split("|")[1:-1]]
                     if len(cols) >= 3 and cols[0]:
-                        poj = cols[0].rstrip(",").strip()
+                        poj = apply_text_corrections(cols[0].rstrip(",").strip(), corrections)
+                        han = cols[1].strip()
+                        if han in corrections:
+                            poj = corrections[han]
+                        if han in corrections:
+                            poj = corrections[han]
                         han = cols[1].strip()
                         p_str = cols[2].strip()
                         clean_k = clean_tone(poj)
@@ -2054,7 +2111,10 @@ def generate_dictionary_dataset():
                         continue
                     words = poj_pattern.findall(line_str)
                     for w in words:
-                        w_norm = unicodedata.normalize("NFC", w.strip(".,;:!?\"'()[]"))
+                        w_clean_str = w.strip(".,;:!?\"'()[]")
+                        if not w_clean_str:
+                            continue
+                        w_norm = normalize_poj_word(w_clean_str, corrections)
                         if len(w_norm) >= 1 and not w_norm.isdigit() and not w_norm.startswith("http"):
                             lower_k = w_norm.lower()
                             word_counts[lower_k] += 1

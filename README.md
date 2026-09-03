@@ -73,26 +73,35 @@ flowchart TD
         Crop --> SaveFigIndex["💾 儲存插圖索引 (illustrations_index.json)"]
     end
 
-    subgraph Build_Phase ["階段三：雙模式電子書與辭典發布"]
-        SaveRaw & SaveFigIndex --> Builder["🔨 python src/build_book.py"]
-        Builder --> Docs["docs/ (40 章 Markdown + 2,625 條辭典資料庫)"]
+    subgraph Build_Phase ["階段三：雙模式電子書與大辭典發布"]
+        CorrectionTable["📝 羅馬字勘誤表<br>(correction_lmj.xlsx)"]
+        SaveRaw & SaveFigIndex & CorrectionTable --> Builder["🔨 python src/build_book.py"]
+        Builder --> Docs["docs/ (40 章 Markdown + 12,857 條全語料大辭典)"]
         Docs --> GHPages["🌐 GitHub Pages 線上雙模式 SPA"]
     end
 ```
 
 ---
 
-## 3. 醫學台語三語辭典系統 (Medical Dictionary SPA)
+## 3. 全語料醫學台語大辭典系統 (Medical Dictionary SPA)
 
-### 3.1 辭典資料庫組成
-| 資料來源 | 篇幅 | 收錄詞條數 | 欄位特色 |
+### 3.1 辭典資料庫組成 (12,857 條詞目)
+| 資料維度 | 詞條分類 | 收錄數量 | 說明與範例 |
 | :--- | :--- | :--- | :--- |
-| **附錄一：醫學三語辭彙表 (GÚ-LŪI)** | 第 664～694 頁 (31 頁) | **1,019 條** | 台語白話字、台語漢字、英文醫學名詞、說明備註 |
-| **附錄二：總索引目錄 (SEK-ÍN)** | 第 695～705 頁 (11 頁) | **1,606 條** | 白話字索引詞、漢字華語名詞、全書原書對應頁碼 |
-| **全書合計** | 共 42 頁 | **2,625 條** | 完整涵蓋人體解剖學、病理學、外科器械、護理技術名詞 |
+| **音節長度維度** | **一字詞 (單音節)** | **3,715 條** | 單音節高頻字詞（如 `kut` 骨、`sim` 心、`huih` 血、`bah` 肉、`io̍h` 藥） |
+| | **二字詞 (雙音節)** | **5,116 條** | 臨床醫學與日常雙字詞（如 `pīⁿ-lâng` 病人、`kái-phò͘` 解剖、`khàn-hō͘` 看護、`mûi-to̍k` 梅毒） |
+| | **三字詞 (三音節)** | **2,619 條** | 三音節學術詞彙（如 `kái-phò͘-ha̍k` 解剖學、`chù-siā-chiam` 注射針、`chio̍h-thòaⁿ-sng` 石炭酸） |
+| | **四字詞 (四音節)** | **896 條** | 複合醫學術語（如 `chù-siā-liāu-hoat` 注射療法、`cháp-jī-chí-tn̂g` 十二指腸） |
+| **附錄對照維度** | **三語辭彙 (GÚ-LŪI)** | **1,468 條** | 原書附錄一：台羅 POJ ↔ 台語漢字 ↔ 英文醫學名詞三語對照與臨床備註 |
+| | **總索引 (SEK-ÍN)** | **2,053 條** | 原書附錄二：全書 40 章臨床解剖與技術名詞之精確對應頁碼索引 |
 
-### 3.2 0 毫秒同步載入架構 (Inline Data Engine)
-為徹底杜絕跨網域請求延遲與瀏覽器安全性阻擋，建置腳本直接將 2,625 筆結構化資料內嵌於 `<script id="dict-data" type="application/json">`，在任何網路環境或本機離線環境下均能瞬間載入。
+### 3.2 📝 羅馬字動態勘誤引擎 (`correction_lmj.xlsx`)
+歷史文獻經 OCR 辨識時，常因印刷墨漬產生變異（如同一詞「梅毒」出現 `mû-to̍k`、`Múi-tók`、`mûi-tòk` 等情況）：
+- **外部勘誤表**：根目錄 `correction_lmj.xlsx` 持續維護 `漢字 ⇋ 羅馬字`（如 `梅毒 ⇋ mûi-to̍k`）。
+- **全自動校準與合併**：建置時自動校正電子書正文，並將辭典中所有拼寫變體自動合併至標準條目下（累計全書頻率與出處頁碼）。
+
+### 3.3 0 毫秒同步載入架構 (Inline Data Engine)
+為徹底杜絕跨網域請求延遲與瀏覽器安全性阻擋，建置腳本直接將 12,857 筆結構化資料內嵌於 `<script id="dict-data" type="application/json">`，在任何網路環境或本機離線環境下均能瞬間載入。
 
 ---
 
@@ -126,13 +135,14 @@ Laigoakho_Tennjinsiu_OCR_MD/
 │       └── deploy.yml            # GitHub Pages 自動部署 Actions 工作流
 ├── config/
 │   └── book_structure.json       # 705 頁全書篇章結構與頁碼對照定義檔
+├── correction_lmj.xlsx           # 羅馬字動態勘誤對照表 (漢字 ⇋ 羅馬字)
 ├── docs/                         # GitHub Pages 發布目錄 / Web SPA 根目錄
 │   ├── index.html                # 雙模式（電子書 📖 ⇋ 醫學辭典 📚）SPA 引擎
 │   ├── _coverpage.md             # 電子書封面
 │   ├── _sidebar.md               # 側邊欄可折疊章節目錄
 │   ├── README.md                 # 電子書首頁導讀
 │   ├── assets/
-│   │   ├── dictionary_data.js    # 醫學三語辭典資料集 (2,625 條)
+│   │   ├── dictionary_data.js    # 12,857 條全語料大辭典資料集
 │   │   ├── fonts/                # 芫荽體與典藏字型
 │   │   └── illustrations/        # 475 張原書裁切插圖
 │   ├── 00_front_matter/          # 英文序言、白話字頭序、目錄凡例
@@ -145,7 +155,7 @@ Laigoakho_Tennjinsiu_OCR_MD/
 ├── skills/
 │   └── digital_archive_ebook_ui/ # 通用數位典藏電子書 UI 與辭典架構 Skill
 ├── src/
-│   ├── build_book.py             # 全書章節聚合、辭典編譯與 HTML 生成程式
+│   ├── build_book.py             # 全書章節聚合、勘誤校正、辭典編譯與 HTML 生成程式
 │   ├── extract_illustrations.py  # AI 插圖偵測與裁切管線
 │   ├── ocr_pipeline.py           # Gemini 3.7 Flash OCR 與對照流水線
 │   └── prompt_templates.py       # 多語 OCR 與對照 Prompt 模板
