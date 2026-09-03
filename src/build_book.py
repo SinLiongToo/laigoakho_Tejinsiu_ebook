@@ -13,7 +13,7 @@ import glob
 import re
 import unicodedata
 from datetime import datetime
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 # Ensure UTF-8 console output on Windows
 if sys.platform == "win32":
@@ -791,14 +791,16 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
 
     .dict-filter-pills {
       display: flex;
-      gap: 6px;
+      flex-wrap: wrap;
+      gap: 5px;
       margin-bottom: 12px;
     }
 
     .filter-pill {
-      flex: 1;
+      flex: 1 1 calc(33.33% - 5px);
+      min-width: 68px;
       padding: 5px 2px;
-      font-size: 0.76em;
+      font-size: 0.74em;
       font-weight: 600;
       border-radius: 6px;
       border: 1px solid var(--border-color);
@@ -813,6 +815,23 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       background-color: var(--theme-accent);
       color: #ffffff;
       border-color: var(--theme-accent);
+    }
+
+    .dict-freq-badge {
+      font-size: 0.72em;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 12px;
+      background-color: rgba(234, 88, 12, 0.12);
+      color: #ea580c;
+      border: 1px solid rgba(234, 88, 12, 0.3);
+      white-space: nowrap;
+    }
+
+    [data-theme="dark"] .dict-freq-badge {
+      background-color: rgba(251, 146, 60, 0.15);
+      color: #fb923c;
+      border-color: rgba(251, 146, 60, 0.35);
     }
 
     .dict-stat-line {
@@ -1129,13 +1148,17 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
         
         <div class="dict-filter-pills">
           <button class="filter-pill active" data-scope="all">全部 <span id="pill-count-all">(0)</span></button>
+          <button class="filter-pill" data-scope="s1">一語 (單字) <span id="pill-count-s1">(0)</span></button>
+          <button class="filter-pill" data-scope="s2">二語 (雙字詞) <span id="pill-count-s2">(0)</span></button>
+          <button class="filter-pill" data-scope="s3">三語 (三字詞) <span id="pill-count-s3">(0)</span></button>
+          <button class="filter-pill" data-scope="s4">四語 (四字詞) <span id="pill-count-s4">(0)</span></button>
           <button class="filter-pill" data-scope="glossary">三語語彙 <span id="pill-count-glossary">(0)</span></button>
           <button class="filter-pill" data-scope="index">總索引 <span id="pill-count-index">(0)</span></button>
         </div>
 
         <div class="dict-stat-line">
           <span id="dict-stat-count">正在載入詞條...</span>
-          <button id="dict-sort-toggle" class="dict-sort-btn">🔤 依字母排序</button>
+          <button id="dict-sort-toggle" class="dict-sort-btn">🔥 依頻率排序</button>
         </div>
 
         <div class="letter-grid" id="dict-letter-grid"></div>
@@ -1328,7 +1351,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
     let dictFilteredEntries = [];
     let dictSelectedScope = 'all';
     let dictSelectedLetter = 'ALL';
-    let dictSortMode = 'letter'; // 'letter' | 'page'
+    let dictSortMode = 'freq'; // 'freq' | 'letter' | 'page'
     let dictCurrentPage = 1;
     const DICT_PAGE_SIZE = 90;
 
@@ -1348,13 +1371,25 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       
       // Update scope counts
       const countAll = dictAllEntries.length;
-      const countGlossary = dictAllEntries.filter(e => e.type === 'glossary').length;
-      const countIndex = dictAllEntries.filter(e => e.type === 'index').length;
+      const countS1 = dictAllEntries.filter(e => e.type === 's1').length;
+      const countS2 = dictAllEntries.filter(e => e.type === 's2').length;
+      const countS3 = dictAllEntries.filter(e => e.type === 's3').length;
+      const countS4 = dictAllEntries.filter(e => e.type === 's4').length;
+      const countGlossary = dictAllEntries.filter(e => e.is_glossary).length;
+      const countIndex = dictAllEntries.filter(e => e.is_index).length;
       
       const elAll = document.getElementById('pill-count-all');
+      const elS1 = document.getElementById('pill-count-s1');
+      const elS2 = document.getElementById('pill-count-s2');
+      const elS3 = document.getElementById('pill-count-s3');
+      const elS4 = document.getElementById('pill-count-s4');
       const elGlo = document.getElementById('pill-count-glossary');
       const elIdx = document.getElementById('pill-count-index');
       if (elAll) elAll.textContent = '(' + countAll.toLocaleString() + ')';
+      if (elS1) elS1.textContent = '(' + countS1.toLocaleString() + ')';
+      if (elS2) elS2.textContent = '(' + countS2.toLocaleString() + ')';
+      if (elS3) elS3.textContent = '(' + countS3.toLocaleString() + ')';
+      if (elS4) elS4.textContent = '(' + countS4.toLocaleString() + ')';
       if (elGlo) elGlo.textContent = '(' + countGlossary.toLocaleString() + ')';
       if (elIdx) elIdx.textContent = '(' + countIndex.toLocaleString() + ')';
 
@@ -1385,8 +1420,16 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       const sortBtn = document.getElementById('dict-sort-toggle');
       if (sortBtn) {
         sortBtn.addEventListener('click', () => {
-          dictSortMode = dictSortMode === 'letter' ? 'page' : 'letter';
-          sortBtn.textContent = dictSortMode === 'letter' ? '🔤 依字母排序' : '📄 依頁碼排序';
+          if (dictSortMode === 'freq') {
+            dictSortMode = 'letter';
+            sortBtn.textContent = '🔤 依字母排序';
+          } else if (dictSortMode === 'letter') {
+            dictSortMode = 'page';
+            sortBtn.textContent = '📄 依頁碼排序';
+          } else {
+            dictSortMode = 'freq';
+            sortBtn.textContent = '🔥 依頻率排序';
+          }
           dictCurrentPage = 1;
           applyDictFilter();
         });
@@ -1482,8 +1525,12 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
 
       dictFilteredEntries = dictAllEntries.filter(item => {
         // Scope filter
-        if (dictSelectedScope === 'glossary' && item.type !== 'glossary') return false;
-        if (dictSelectedScope === 'index' && item.type !== 'index') return false;
+        if (dictSelectedScope === 's1' && item.type !== 's1') return false;
+        if (dictSelectedScope === 's2' && item.type !== 's2') return false;
+        if (dictSelectedScope === 's3' && item.type !== 's3') return false;
+        if (dictSelectedScope === 's4' && item.type !== 's4') return false;
+        if (dictSelectedScope === 'glossary' && !item.is_glossary) return false;
+        if (dictSelectedScope === 'index' && !item.is_index) return false;
 
         // Letter filter
         if (dictSelectedLetter !== 'ALL') {
@@ -1495,8 +1542,9 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
           const matchPoj = cleanDiacritics(item.poj).includes(cleanQ);
           const matchHan = item.han && item.han.includes(rawQuery);
           const matchEng = item.eng && cleanDiacritics(item.eng).includes(cleanQ);
+          const matchNotes = item.notes && item.notes.includes(rawQuery);
           const matchPage = String(item.page) === rawQuery || (item.refs && item.refs.some(r => String(r.page) === rawQuery));
-          if (!matchPoj && !matchHan && !matchEng && !matchPage) {
+          if (!matchPoj && !matchHan && !matchEng && !matchNotes && !matchPage) {
             return false;
           }
         }
@@ -1505,8 +1553,10 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
       });
 
       // Sort
-      if (dictSortMode === 'page') {
-        dictFilteredEntries.sort((a, b) => a.page - b.page);
+      if (dictSortMode === 'freq') {
+        dictFilteredEntries.sort((a, b) => (b.freq || 1) - (a.freq || 1) || a.clean.localeCompare(b.clean));
+      } else if (dictSortMode === 'page') {
+        dictFilteredEntries.sort((a, b) => a.page - b.page || (b.freq || 1) - (a.freq || 1));
       } else {
         dictFilteredEntries.sort((a, b) => a.clean.localeCompare(b.clean));
       }
@@ -1533,7 +1583,7 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
           <div style="grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--text-muted);">
             <div style="font-size: 2.5em; margin-bottom: 10px;">🔍</div>
             <div style="font-size: 1.1em; font-weight: 700;">查無相符的醫學詞目</div>
-            <div style="font-size: 0.9em; margin-top: 6px;">請嘗試切換字母分組、擴大搜尋詞彙或清除篩選條件。</div>
+            <div style="font-size: 0.9em; margin-top: 6px;">請嘗試切換篩選分類、字母分組或擴大搜尋條件。</div>
           </div>
         `;
         if (loadMoreDiv) loadMoreDiv.style.display = 'none';
@@ -1542,23 +1592,30 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
 
       const cardsHtml = slice.map(item => {
         const refPages = item.refs && item.refs.length > 0
-          ? item.refs.map(r => `<a href="javascript:void(0)" onclick="jumpToEbook('${r.target}', ${r.page})" class="dict-jump-btn" title="跳轉至原書第 ${r.page} 頁">📖 第 ${r.page} 頁</a>`).join(' ')
+          ? item.refs.slice(0, 6).map(r => `<a href="javascript:void(0)" onclick="jumpToEbook('${r.target}', ${r.page})" class="dict-jump-btn" title="跳轉至原書第 ${r.page} 頁">📖 第 ${r.page} 頁</a>`).join(' ')
           : `<a href="javascript:void(0)" onclick="jumpToEbook('${item.target}', ${item.page})" class="dict-jump-btn" title="跳轉至原書第 ${item.page} 頁">📖 第 ${item.page} 頁</a>`;
+
+        const freqBadge = (item.freq && item.freq > 1)
+          ? `<span class="dict-freq-badge" title="全書出現 ${item.freq} 次，涵蓋 ${item.page_count || 1} 頁">🔥 ${item.freq.toLocaleString()} 次 (${item.page_count || 1} 頁)</span>`
+          : '';
 
         return `
           <div class="dict-card">
             <div>
               <div class="dict-card-header">
                 <div class="dict-card-poj">${item.poj}</div>
-                <span class="dict-badge">${item.type_name}</span>
+                <div style="display: flex; gap: 5px; align-items: center; flex-wrap: wrap; justify-content: flex-end;">
+                  ${freqBadge}
+                  <span class="dict-badge">${item.type_name}</span>
+                </div>
               </div>
               ${item.han ? `<div class="dict-card-han">${item.han}</div>` : ''}
               ${item.eng ? `<div class="dict-card-eng">${item.eng}</div>` : ''}
               ${item.notes ? `<div class="dict-card-notes">${item.notes}</div>` : ''}
             </div>
             <div class="dict-card-footer">
-              <span class="dict-page-ref">原書對應：</span>
-              <div>${refPages}</div>
+              <span class="dict-page-ref">原書出處：</span>
+              <div style="display: flex; flex-wrap: wrap; gap: 4px;">${refPages}</div>
             </div>
           </div>
         `;
@@ -1828,8 +1885,8 @@ def get_first_letter(poj):
     return '#'
 
 def generate_dictionary_dataset():
-    """Extracts terms from medical glossary and general index into a structured JSON dataset."""
-    print("📚 正在編譯《醫學三語辭彙》與《總索引》字典資料庫...")
+    """Extracts all vocabulary from the entire 705-page corpus + GÚ-LŪI + SEK-ÍN into a structured JSON dataset."""
+    print("📚 正在編譯全書 705 頁全語料庫大辭典（含一語、二語、三語、四語與附錄語彙/索引）...")
     book_structure = load_book_structure()
     page_map = {}
     for sec in book_structure["sections"]:
@@ -1839,10 +1896,9 @@ def generate_dictionary_dataset():
                 "title": sec["title"]
             }
 
-    entries = []
-    eid = 1
-
-    # 1. Parse Glossary
+    # 1. Parse Glossary (GÚ-LŪI)
+    glossary_map = {}
+    glossary_entries = []
     glossary_path = os.path.join(DOCS_DIR, "05_glossary/medical_glossary.md")
     if os.path.exists(glossary_path):
         with open(glossary_path, "r", encoding="utf-8") as f:
@@ -1858,26 +1914,23 @@ def generate_dictionary_dataset():
                         han = cols[1].strip()
                         eng = cols[2].rstrip(".").strip()
                         notes = cols[3].strip() if len(cols) > 3 else ""
-                        if poj and (han or eng):
-                            pm = page_map.get(cur_p, {"target": "05_glossary/medical_glossary", "title": "語彙 GÚ-LŪI"})
-                            entries.append({
-                                "id": eid,
-                                "poj": poj,
-                                "clean": clean_tone(poj),
-                                "han": han,
-                                "eng": eng,
-                                "notes": notes,
-                                "page": cur_p,
-                                "type": "glossary",
-                                "type_name": "三語辭彙",
-                                "letter": get_first_letter(poj),
-                                "target": pm["target"],
-                                "ch_title": pm["title"],
-                                "refs": []
-                            })
-                            eid += 1
+                        clean_k = clean_tone(poj)
+                        item = {
+                            "poj": poj,
+                            "han": han,
+                            "eng": eng,
+                            "notes": notes,
+                            "page": cur_p,
+                            "type": "glossary",
+                            "type_name": "三語辭彙"
+                        }
+                        glossary_entries.append(item)
+                        if clean_k and clean_k not in glossary_map:
+                            glossary_map[clean_k] = item
 
-    # 2. Parse General Index
+    # 2. Parse General Index (SEK-ÍN)
+    index_map = {}
+    index_entries = []
     index_path = os.path.join(DOCS_DIR, "06_index/general_index.md")
     if os.path.exists(index_path):
         with open(index_path, "r", encoding="utf-8") as f:
@@ -1892,40 +1945,181 @@ def generate_dictionary_dataset():
                         poj = cols[0].rstrip(",").strip()
                         han = cols[1].strip()
                         p_str = cols[2].strip()
-                        if poj and (han or p_str):
-                            refs = []
-                            for num_m in re.finditer(r"\d+", p_str):
-                                p_num = int(num_m.group(0))
-                                pm = page_map.get(p_num, {"target": "README", "title": ""})
-                                refs.append({
-                                    "page": p_num,
-                                    "target": pm["target"],
-                                    "ch_title": pm["title"]
-                                })
-                            pm_self = page_map.get(cur_p, {"target": "06_index/general_index", "title": "總索引 SEK-ÍN"})
-                            entries.append({
-                                "id": eid,
-                                "poj": poj,
-                                "clean": clean_tone(poj),
-                                "han": han,
-                                "eng": "",
-                                "notes": "",
-                                "page": cur_p,
-                                "type": "index",
-                                "type_name": "總索引",
-                                "letter": get_first_letter(poj),
-                                "target": pm_self["target"],
-                                "ch_title": pm_self["title"],
-                                "refs": refs
-                            })
-                            eid += 1
+                        clean_k = clean_tone(poj)
+                        refs = []
+                        for num_m in re.finditer(r"\d+", p_str):
+                            p_num = int(num_m.group(0))
+                            pm = page_map.get(p_num, {"target": "README", "title": ""})
+                            refs.append({"page": p_num, "target": pm["target"]})
+                        item = {
+                            "poj": poj,
+                            "han": han,
+                            "page": cur_p,
+                            "type": "index",
+                            "type_name": "總索引",
+                            "refs": refs
+                        }
+                        index_entries.append(item)
+                        if clean_k and clean_k not in index_map:
+                            index_map[clean_k] = item
+
+    # 3. Extract all POJ tokens from 705 pages cache
+    poj_pattern = re.compile(r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F\u00B7\u0358]+(?:-[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F\u00B7\u0358]+)*")
+
+    word_counts = Counter()
+    word_pages = defaultdict(set)
+    word_case_variants = defaultdict(Counter)
+
+    cache_files = glob.glob(os.path.join(CACHE_DIR, "page_*.json"))
+    for fpath in cache_files:
+        m = re.search(r"page_(\d+)", fpath)
+        if not m:
+            continue
+        p_num = int(m.group(1))
+        with open(fpath, "r", encoding="utf-8") as f:
+            try:
+                data = json.load(f)
+                text = data.get("text", "")
+                for line in text.split("\n"):
+                    line_str = line.strip()
+                    if not line_str or line_str.startswith(">") or line_str.startswith("#"):
+                        continue
+                    words = poj_pattern.findall(line_str)
+                    for w in words:
+                        w_norm = unicodedata.normalize("NFC", w.strip(".,;:!?\"'()[]"))
+                        if len(w_norm) >= 1 and not w_norm.isdigit() and not w_norm.startswith("http"):
+                            lower_k = w_norm.lower()
+                            word_counts[lower_k] += 1
+                            word_pages[lower_k].add(p_num)
+                            word_case_variants[lower_k][w_norm] += 1
+            except Exception:
+                pass
+
+    # 4. Assemble Unified Vocabulary Entries
+    entries = []
+    eid = 1
+    seen_keys = set()
+
+    for lower_k, count in word_counts.most_common():
+        best_variant = word_case_variants[lower_k].most_common(1)[0][0]
+        clean_k = clean_tone(lower_k)
+        s_count = len(lower_k.split("-"))
+        
+        syllable_type = "s1" if s_count == 1 else "s2" if s_count == 2 else "s3" if s_count == 3 else "s4" if s_count == 4 else "s_multi"
+        syllable_name = "一語" if s_count == 1 else "二語" if s_count == 2 else "三語" if s_count == 3 else "四語" if s_count == 4 else f"{s_count}語"
+
+        g_info = glossary_map.get(clean_k)
+        i_info = index_map.get(clean_k)
+        
+        han = g_info["han"] if g_info else (i_info["han"] if i_info else "")
+        eng = g_info["eng"] if g_info else ""
+        notes = g_info["notes"] if g_info else ""
+        
+        pages_list = sorted(list(word_pages[lower_k]))
+        first_p = pages_list[0] if pages_list else 1
+        pm = page_map.get(first_p, {"target": "README", "title": ""})
+        
+        refs = []
+        for p_num in pages_list[:8]:
+            p_info = page_map.get(p_num, {"target": "README", "title": ""})
+            refs.append({"page": p_num, "target": p_info["target"]})
+
+        type_name = syllable_name
+        if g_info and i_info:
+            type_name = f"{syllable_name} · 語彙/索引"
+        elif g_info:
+            type_name = f"{syllable_name} · 三語語彙"
+        elif i_info:
+            type_name = f"{syllable_name} · 總索引"
+
+        entries.append({
+            "id": eid,
+            "poj": best_variant,
+            "clean": clean_k,
+            "han": han,
+            "eng": eng,
+            "notes": notes,
+            "page": first_p,
+            "freq": count,
+            "page_count": len(pages_list),
+            "type": syllable_type,
+            "is_glossary": g_info is not None,
+            "is_index": i_info is not None,
+            "type_name": type_name,
+            "letter": get_first_letter(best_variant),
+            "target": pm["target"],
+            "ch_title": pm["title"],
+            "refs": refs
+        })
+        seen_keys.add(clean_k)
+        eid += 1
+
+    # Add remaining GÚ-LŪI terms
+    for g in glossary_entries:
+        clean_k = clean_tone(g["poj"])
+        if clean_k not in seen_keys:
+            s_count = len(g["poj"].split("-"))
+            syllable_type = "s1" if s_count == 1 else "s2" if s_count == 2 else "s3" if s_count == 3 else "s4" if s_count == 4 else "s_multi"
+            syllable_name = "一語" if s_count == 1 else "二語" if s_count == 2 else "三語" if s_count == 3 else "四語" if s_count == 4 else f"{s_count}語"
+            pm = page_map.get(g["page"], {"target": "05_glossary/medical_glossary", "title": "語彙 GÚ-LŪI"})
+            entries.append({
+                "id": eid,
+                "poj": g["poj"],
+                "clean": clean_k,
+                "han": g["han"],
+                "eng": g["eng"],
+                "notes": g["notes"],
+                "page": g["page"],
+                "freq": 1,
+                "page_count": 1,
+                "type": syllable_type,
+                "is_glossary": True,
+                "is_index": False,
+                "type_name": f"{syllable_name} · 三語語彙",
+                "letter": get_first_letter(g["poj"]),
+                "target": pm["target"],
+                "ch_title": pm["title"],
+                "refs": [{"page": g["page"], "target": pm["target"]}]
+            })
+            seen_keys.add(clean_k)
+            eid += 1
+
+    # Add remaining SEK-ÍN terms
+    for idx_item in index_entries:
+        clean_k = clean_tone(idx_item["poj"])
+        if clean_k not in seen_keys:
+            s_count = len(idx_item["poj"].split("-"))
+            syllable_type = "s1" if s_count == 1 else "s2" if s_count == 2 else "s3" if s_count == 3 else "s4" if s_count == 4 else "s_multi"
+            syllable_name = "一語" if s_count == 1 else "二語" if s_count == 2 else "三語" if s_count == 3 else "四語" if s_count == 4 else f"{s_count}語"
+            pm = page_map.get(idx_item["page"], {"target": "06_index/general_index", "title": "總索引 SEK-ÍN"})
+            entries.append({
+                "id": eid,
+                "poj": idx_item["poj"],
+                "clean": clean_k,
+                "han": idx_item["han"],
+                "eng": "",
+                "notes": "",
+                "page": idx_item["page"],
+                "freq": 1,
+                "page_count": len(idx_item.get("refs", [])) or 1,
+                "type": syllable_type,
+                "is_glossary": False,
+                "is_index": True,
+                "type_name": f"{syllable_name} · 總索引",
+                "letter": get_first_letter(idx_item["poj"]),
+                "target": pm["target"],
+                "ch_title": pm["title"],
+                "refs": idx_item.get("refs", [])
+            })
+            seen_keys.add(clean_k)
+            eid += 1
 
     assets_dir = os.path.join(DOCS_DIR, "assets")
     os.makedirs(assets_dir, exist_ok=True)
     dict_js_path = os.path.join(assets_dir, "dictionary_data.js")
     with open(dict_js_path, "w", encoding="utf-8") as f:
         f.write("window.LAIGOAKHO_DICT_DATA = " + json.dumps(entries, ensure_ascii=False) + ";")
-    print(f"✅ 醫學台語辭典資料集已生成: {dict_js_path} (共 {len(entries)} 筆詞條)")
+    print(f"✅ 全語料醫學台語大辭典資料集已生成: {dict_js_path} (共 {len(entries):,} 筆詞條)")
     return entries
 
 def build_chapters():
