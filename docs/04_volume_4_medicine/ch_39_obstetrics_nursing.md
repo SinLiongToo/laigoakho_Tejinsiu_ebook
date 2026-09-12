@@ -90,7 +90,7 @@ Chheng-khì ê bín-á, kap sat-bûn.
 Lāu-bú kap gín-ná só͘ beh ēng ê mi̍h-kiāⁿ, ke-si lóng tio̍h tāi-seng pī-pān hō͘ chiâu-chng, in-ūi kiaⁿ-liáu gín-ná beh chhut-sì ê sî, bô êng thang lâi pī-pān. Tio̍h ū-pī tōa niá iû-pò͘, nā bô tōa niá, chit tiâu chiū hó ; siau-to̍k ê chhit-pò͘, mî-hoe, hâ pak-tó́ ê pò͘, an-jiân-pín-chiam, sio ê khùn-saⁿ. Kúi-nā tiâu chheng-khì ê bīn-kun, tāi-, siáu-piān ê khì-kū. Chi̍t-ê khang ê phûn hē bîn-chhng-ē, thang lok kiaⁿ-lâng ê mi̍h. Koh pī-pān khah-chōe kún-chúi hō͘ i sió-khóa hê.
 
 > **【全漢對照】**  
-> 老母及囡仔所欲用的物件、器具攏著代先備辦予齊全，因為驚了囡仔欲出世的時，無閒通來備辦。著預備大領油布，若無大領，一條就好；消毒的拭布、棉花、合腹肚的布（束腹帶）、安全Pin針（別針）、燒的睏衫。幾若條清氣的面巾，大、小便的器具。一個空的盆下眠床下，通漉驚人的物（接污物）。閣備辦較儕滾水予伊稍可退（微溫）。
+> 老母及囡仔所欲用的物件、器具攏著代先備辦予齊全，因為驚了囡仔欲出世的時，無閒通來備辦。著預備大領油布，若無大領，一條就好；消毒的拭布、棉花、合腹肚的布（束腹帶）、安全Pin針（別針）、燒的睏衫。幾若條清氣的面巾，大、小便的器具。一个空的盆下眠床下，通漉驚人的物（接污物）。閣備辦較儕滾水予伊稍可退（微溫）。
 
 ---
 
@@ -141,7 +141,7 @@ chhu kut-pôaⁿ-ē. Kî-û ti̍oh chhu chhin-chhiūⁿ pêng-siông bîn-chhng 
 Pī-pān sán-hū: Sán-hū ti̍oh chai chi̍t-ê seng-sán ê sū sī chū-jiân-ê, m̄-bián kiaⁿ. Nā sán-hū chai i ê sî-kan teh-beh kàu, eng-kai ti̍oh tàk ji̍t sóe sio-chúi-e̍k hō͘ seng-khu lóng chheng-khì. Iā tàk ji̍t ti̍oh ū tāi-piān. Nā bô tāi-piān, khàn-hō͘ ti̍oh pī-pān sat-bûn-chúi ê *enema* koàn-tǹg. Siáu-piān iā ti̍oh thong, nā bô, ti̍oh chiong chhiū-leng *catheter* kā i tō-jiō-su̍t. Sī chòe iàu-kín ti̍oh chheng-khì, nā bô, kiaⁿ-liáu pông-kong ē hoat-iām (tē 244 bīn).
 
 > **【全漢對照】**
-> 備辦產婦：產婦著知這個生產的事是自然的，毋免驚。若產婦知伊的時間欲到，應該著逐日洗熱水浴予身軀攏清潔。也逐日著有大便。若無大便，看護著備辦撒問水（雪文水）的 *enema*（灌腸劑）灌腸。小便也著通，若無，著將樹奶 *catheter*（導尿管）共伊導尿術。是最要緊著清潔，若無，恐驚膀胱會發炎（第 244 面）。
+> 備辦產婦：產婦著知這个生產的事是自然的，毋免驚。若產婦知伊的時間欲到，應該著逐日洗熱水浴予身軀攏清潔。也逐日著有大便。若無大便，看護著備辦撒問水（雪文水）的 *enema*（灌腸劑）灌腸。小便也著通，若無，著將樹奶 *catheter*（導尿管）共伊導尿術。是最要緊著清潔，若無，恐驚膀胱會發炎（第 244 面）。
 
 ---
 
@@ -296,7 +296,7 @@ Chiàu téng-bīn só͘ kì ê pió hit ê sēng-hoat sī tùi ló͘-bó gėh-ke
 (From Wellcome's "Medical Diary.")
 
 > **【全漢對照】**
-> 照頂面所記的表彼個算法是對老母月經的頭一日算起。親像老母的月經的頭一日若正月初 1，生產的日有期佇下表（下對應之處），就是第 10 月初 8；抑是老母的月經的頭一日若第 6 月 13 日，生產的日就是佇 3 月 20 日。  
+> 照頂面所記的表彼个算法是對老母月經的頭一日算起。親像老母的月經的頭一日若正月初 1，生產的日有期佇下表（下對應之處），就是第 10 月初 8；抑是老母的月經的頭一日若第 6 月 13 日，生產的日就是佇 3 月 20 日。  
 > (From Wellcome's "Medical Diary.")
 
 <!-- Page 644 End -->
@@ -315,14 +315,14 @@ Chiàu téng-bīn só͘ kì ê pió hit ê sēng-hoat sī tùi ló͘-bó gėh-ke
 ...chheng-khì ta-lī, bók-tit hō͘ to̍k-chit tùi hia ji̍p-khì. Āu-lâi sóe seng-khu ê sî, châi-tòa m̄-thang sóe khah hó, kan-ta ēng sin ê io̍h-hún kap pò͘, chiū hó. Châi-tòa koh gō͘ la̍k ji̍t ōe ka-kī lak-khí-lâi. Koh chi̍t gėh-ji̍t-kú, tióh ēng chi̍t tè chheng-khì ê mî-hoe hē tō͘-châi-gōa, hâ-tòa hâ hō͘ ân, tî-hông khí thoat-tiông.
 
 > **【全漢對照】**  
-> （前文接續）……清氣焦俐，莫得予毒質對遐入去。後來洗身軀的時，臍帶毋通洗較好，干焦用新的藥粉佮布，就好。臍帶閣五六日會家己落起來。閣一個月日久，著用一塊清氣的棉花下佇肚臍外，縛帶縛予絚，提防起脫腸。
+> （前文接續）……清氣焦俐，莫得予毒質對遐入去。後來洗身軀的時，臍帶毋通洗較好，干焦用新的藥粉佮布，就好。臍帶閣五六日會家己落起來。閣一个月日久，著用一塊清氣的棉花下佇肚臍外，縛帶縛予絚，提防起脫腸。
 
 ---
 
 Châi-tòa chhòng hó tióh ēng hit ê hâ pak-tó́ ê tòa hâ hō͘ tiâu. Chit ê tòa tióh kā i thīⁿ, pí ēng pín-chiam khah hó. Āu-lâi kā i chhēng saⁿ. I ê saⁿ tióh ōe sio, khin, iā m̄-thang ân.
 
 > **【全漢對照】**  
-> 臍帶創好著用彼個縛腹肚的帶縛予牢。此個帶著共伊紩，比用別針較好。後來共伊著衫。伊的衫著會燒、輕，也毋通絚。
+> 臍帶創好著用彼个縛腹肚的帶縛予牢。此个帶著共伊紩，比用別針較好。後來共伊著衫。伊的衫著會燒、輕，也毋通絚。
 
 ---
 

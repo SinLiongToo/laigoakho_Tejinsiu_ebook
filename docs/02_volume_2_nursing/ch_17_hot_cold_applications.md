@@ -24,7 +24,7 @@
 Ēng léng ê hoat-tō͘ ù pīⁿ-lâng hoat-iām ê só͘-chāi, ōe hō͘ hit ūi ê huih-kńg sok-sòe. Tùi án-ni ū-sî ōe thè-iām, á-sī hō͘ hit ê iām-chèng hòa bô-khì.
 
 > **【全漢對照】**
-> 用冷的方法罨病人發炎的所在，會予彼位的血管縮細。對按呢有時會退炎，抑是予彼個炎症化無去。
+> 用冷的方法罨病人發炎的所在，會予彼位的血管縮細。對按呢有時會退炎，抑是予彼个炎症化無去。
 
 ---
 
@@ -36,7 +36,7 @@
 > **【全漢對照】**
 > **罨冷**
 > 
-> 1. 用一條面巾，抑是一塊水呢布，浸佇冷水裡，撙予焦，才捘佇炎症的所在。著用一個離被架，予眠床的毯仔，袂壓著澹布。毋通用繃帶共伊縛。
+> 1. 用一條面巾，抑是一塊水呢布，浸佇冷水裡，撙予焦，才捘佇炎症的所在。著用一个離被架，予眠床的毯仔，袂壓著澹布。毋通用繃帶共伊縛。
 > 2. 若愛較冷，通將冰下水裡。
 
 ---
@@ -66,7 +66,7 @@
 Ēng chǹg-á, lâi chha̍k peng, pí ēng thih-thûi lâi kòng, sī khah hó, in-ūi ēng chǹg-á lâi chha̍k ōe chhut-chāi lâng ê ì-sù, hō͘ hit ê peng tōa á sòe, iā koh khah khoài, m̄-bián
 
 > **【全漢對照】**
-> 用鑽仔來鑿冰，比用鐵鎚來𢯄，是較好，因為用鑽仔來鑿會出在人的意思，予彼個冰大抑細，亦閣較快，毋免……
+> 用鑽仔來鑿冰，比用鐵鎚來𢯄，是較好，因為用鑽仔來鑿會出在人的意思，予彼个冰大抑細，亦閣較快，毋免……
 
 ---
 
@@ -100,7 +100,7 @@
 **[Peng-lông ù-léng]** phah-sńg kang. Lâng ê seng-khu, tû-khì thâu-khak, hē peng-lông í-gōa, pa̍t só͘-chāi lóng tio̍h ēng pò͘ lâi pau. Koh nā hē peng tī lâng ê seng-khu, m̄-thang kui-ê kā i teh-leh, in-ūi peng-lông siuⁿ tāng, khàn-hō͘ tio̍h siat-hoat chiong peng-lông kā i tiàu-leh, á-sī lok tī pīⁿ-lâng ê sin-piⁿ, hō͘ i óa i ê sin-thé. Sui-jiân bô ù-tio̍h lâng ê seng-khu, chóng-sī hah hit ê liâng-léng ê khì iā hó. Thiⁿ-khì khah liâng ê sî, múi nn̄g tiám-cheng thiⁿ peng chi̍t pái; thiⁿ-khì nā khah joa̍h, tio̍h siông-siông thiⁿ peng. Peng nā iûⁿ-khì, hit ê chúi tio̍h piàⁿ-chhut-lâi. Khàn-hō͘ tio̍h chai chit ê hoat-tō͘ sī beh hō͘ peng chhiâng-chāi bōe iûⁿ-khì, pīⁿ-lâng ōe siông-siông tit-tio̍h liâng ê khì. Siat-sú chit sî ēng peng, kòe chi̍t tiám-cheng ēng sio-chúi, án-ni hut-jiân léng, hut-jiân sio, tek-khak bô kong-hāu. Peng-lông iáu-bē choan pa̍t ê tāi-seng, tio̍h chhi̍h hō͘ khong-khì chiâu chhut (tē 146 tô͘).
 
 > **【全漢對照】**  
-> **【冰囊熨冷】**拍損工。人的身軀，除去頭殼，下冰囊以外，別所在攏著用布來包。閣若下冰佇人的身軀，毋通規個共伊壓咧，因為冰囊傷重，看護著設法將冰囊共伊吊咧，抑是落佇病人的身邊，予伊倚伊的身體。雖然無熨著人的身軀，總是合彼個涼冷的氣亦好。天氣較涼的時，每兩點鐘添冰一擺；天氣若較熱，著常常添冰。冰若烊去，彼個水著傾出嚟。看護著知此個法度是欲予冰長在袂烊去，病人會常常得著涼的氣。設使這時用冰，過一點鐘用熱水，按呢忽然冷、忽然熱，的確無功效。冰囊猶未旋峇的代先，著揤予空氣齊出（第 146 圖）。
+> **【冰囊熨冷】**拍損工。人的身軀，除去頭殼，下冰囊以外，別所在攏著用布來包。閣若下冰佇人的身軀，毋通規个共伊壓咧，因為冰囊傷重，看護著設法將冰囊共伊吊咧，抑是落佇病人的身邊，予伊倚伊的身體。雖然無熨著人的身軀，總是合彼个涼冷的氣亦好。天氣較涼的時，每兩點鐘添冰一擺；天氣若較熱，著常常添冰。冰若烊去，彼个水著傾出嚟。看護著知此个法度是欲予冰長在袂烊去，病人會常常得著涼的氣。設使這時用冰，過一點鐘用熱水，按呢忽然冷、忽然熱，的確無功效。冰囊猶未旋峇的代先，著揤予空氣齊出（第 146 圖）。
 
 ---
 
@@ -120,7 +120,7 @@ Tē 146 tô͘:—Ēng peng-lông ù-léng: (a) sī m̄-tio̍h, (b) sī tio̍h ê
 2. Chóa ê téng-bīn chiah chhu bî.
 
 > **【全漢對照】**  
-> **【冰爬布】**做冰爬布（Ice poultice）：此個法所用的物，就是下底諸個：特別的油紙、鹽、冰、米。  
+> **【冰爬布】**做冰爬布（Ice poultice）：此个法所用的物，就是下底諸个：特別的油紙、鹽、冰、米。  
 > 1. 用油紙兩張，周圍著比袋仔較大一寸。用一張油紙鋪底下底。  
 > 2. 紙的頂面才鋪米。
 
@@ -200,7 +200,7 @@ Koh chi̍t ê ù-léng ê hoat-tō͘, sī ēng _Leiter_-sī ê iân-kńg, á-sī
 > **【全漢對照】**
 > 人的身軀，彼位有病的所有在；然後才將冷的袋仔跨下頂面。
 > 
-> 閣一個蕰冷的方法，是用 Leiter 氏的鉛管，抑是樹乳管（橡膠管）。是頂面冷水會對管流落下面。看第 147、148 圖就知。
+> 閣一个蕰冷的方法，是用 Leiter 氏的鉛管，抑是樹乳管（橡膠管）。是頂面冷水會對管流落下面。看第 147、148 圖就知。
 
 ---
 
@@ -209,7 +209,7 @@ Koh chi̍t ê ù-léng ê hoat-tō͘, sī ēng _Leiter_-sī ê iân-kńg, á-sī
 Ù-sio ê hoat : Ù-sio ē hō͘ hit ūi ê huih-kńg khok-tōa. Nā seng-khu-lāi ū só͘-chāi hoat-iām, sui-sî kā i ù-sio, ū-sî hit ê hoat chhut ê huih-chiuⁿ, ē koh khip-siu ji̍p seng-khu-lāi; án-ni chiū thè-iām, bōe hùn lâng. Chit-ê sī in-ūi huih-kńg khok-tōa ê sî, khah chōe chheng-khì ê huih ē tùi hia keng-kè, ē pang-chān hit ê khip-siu ê chok-iōng. Nā hit ê hoat-iām khah kú, chiong ù-sio ê hoat, ē hō͘ huih-chiuⁿ kap pe̍h-huih-kiû ná chōe, thang hō͘ lāng-iông-lāi ê lâng khah khoài óa phê-hu.
 
 > **【全漢對照】**
-> **【蕰熱的法】**：蕰熱會互（使）彼位的血管擴大。若身軀內有所載發炎，隨時共伊蕰熱，有時彼個發出的血漿，會閣吸收入身軀內；按呢就退炎，袂暈（擴散）人。這個是因為血管擴大的時，較多清氣的血會對遐經過，會幫贊彼個吸收的作用。若彼個發炎較久，將蕰熱的法，會互血漿及白血球那多，通互釀膿內的膿較快倚皮膚。
+> **【蕰熱的法】**：蕰熱會互（使）彼位的血管擴大。若身軀內有所載發炎，隨時共伊蕰熱，有時彼个發出的血漿，會閣吸收入身軀內；按呢就退炎，袂暈（擴散）人。這个是因為血管擴大的時，較多清氣的血會對遐經過，會幫贊彼个吸收的作用。若彼个發炎較久，將蕰熱的法，會互血漿及白血球那多，通互釀膿內的膿較快倚皮膚。
 
 ---
 
@@ -227,7 +227,7 @@ Koh chi̍t ê ù-léng ê hoat-tō͘, sī ēng _Leiter_-sī ê iân-kńg, á-sī
 Ù-sio ta ê hoat : Tóe sio-chúi ê khì-kū, sī chiàu-kò͘ pīⁿ-lâng chòe iàu-kín ê mi̍h; ū chhiū-leng-ê, ū chù-ê, iā ū hûi-ê. Chù-ê khah khoài siⁿ sian, chiū khah khoài lâu; chhiū-leng-ê chòe ha̍p-sek, in-ūi chhìn-chhhái ē hē tī pīⁿ-lâng ê ta̍k só͘-chāi; chóng-sī hit-ê sio bô thang chhin-chhiūⁿ hûi-ê hiah-nih-kú; kè-chîⁿ iā khah kùi.
 
 > **【全漢對照】**
-> **【燥的法】**：貯熱水的器具，是照顧病人做要緊的物；有樹乳的（橡膠製），有鑄的（金屬鑄造），亦有瓷的。鑄的較快生蘚（生鏽），就較快漏；樹乳的做合適，因為凊彩（隨意）會下佇病人的逐所在；總彼個熱無通親像瓷的遐呢久；價錢亦較貴。
+> **【燥的法】**：貯熱水的器具，是照顧病人做要緊的物；有樹乳的（橡膠製），有鑄的（金屬鑄造），亦有瓷的。鑄的較快生蘚（生鏽），就較快漏；樹乳的做合適，因為凊彩（隨意）會下佇病人的逐所在；總彼个熱無通親像瓷的遐呢久；價錢亦較貴。
 
 ---
 
@@ -240,7 +240,7 @@ Beh ēng tio̍h sòe-jī, bô lūn ēng sím-mih khoán ê sio-chúi-koàn, gōa
 > **【全漢對照】**
 > **【熱水罐著套呢的袋仔】**：入佇罐內的熱水，毋通大熱（太燙），驚了罐破熨著（燙傷）病人。若是樹乳的，著貯水一半淕（滿）；亦袋仔內的空氣，著揤互伊出來，然後熱水袋仔嘴，著鑽互絚（旋緊）。
 > 
-> 欲用著細膩，無論用甚麼款的熱水罐，外沿攏著套一個呢的袋仔（毛氈布袋）；若無此號袋仔，毋通互病人用。若是病人吸入麻醉藥了，抑是病症重，到不省人事（昏迷）的時，看護毋通提熱水罐，去下身邊，著用呢毯來隔咧。亦看護毋——
+> 欲用著細膩，無論用甚麼款的熱水罐，外沿攏著套一个呢的袋仔（毛氈布袋）；若無此號袋仔，毋通互病人用。若是病人吸入麻醉藥了，抑是病症重，到不省人事（昏迷）的時，看護毋通提熱水罐，去下身邊，著用呢毯來隔咧。亦看護毋——
 
 <!-- Page 230 End -->
 
@@ -359,7 +359,7 @@ Iā tio̍h ū nñg ki ê chhâ-thûi chhiok poeh tng, chi̍t chhùn kāu, chhihn
 4. Chiong chúi-nî-pò͘ the̍h-chhut-lâi, pōaⁿ chi̍t-ē, kiaⁿ-liáu thng-tio̍h pīⁿ-lâng. Ûn-ûn-á hē tī pīⁿ-lâng ū pīⁿ ê só͘-chāi.
 
 > **【全漢對照】**  
-> 4. 將水呢布提個人來，拌一下，驚了燙著病人。勻勻仔下佇病人有病的所在。
+> 4. 將水呢布提个人來，拌一下，驚了燙著病人。勻勻仔下佇病人有病的所在。
 
 5. Ēng iû-chóa lâi khàm, chiah ēng mî-hoe hē hit téng-bīn.
 
@@ -469,7 +469,7 @@ Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang 
 A-phiàn-un-sip-pò͘: Hit ê chúi-nî-pò͘ chìm tī kún-chúi-nih, chūn liáu-āu, tióh ēng 1.0 c.c. *tinctura opii* tih tī chúi-nî-pò͘-lāi. Chit hō khin-tāng ê hun-siāⁿ tióh sòe-jī; i-seng bēng-lēng tióh ēng lōa-chōe, tióh thàn, m̄-thang ēng siuⁿ chōe.
 
 > **【全漢對照】**
-> 阿片溫濕布：彼個水泥布浸佇滾水裡，捘了後，著用 1.0 c.c. *tinctura opii*（阿片酒）滴佇水泥布內。這號輕重的分量著細膩；醫生命令著用偌贅，著趁，毋通用傷贅。
+> 阿片溫濕布：彼个水泥布浸佇滾水裡，捘了後，著用 1.0 c.c. *tinctura opii*（阿片酒）滴佇水泥布內。這號輕重的分量著細膩；醫生命令著用偌贅，著趁，毋通用傷贅。
 
 ---
 
@@ -478,7 +478,7 @@ A-phiàn-un-sip-pò͘: Hit ê chúi-nî-pò͘ chìm tī kún-chúi-nih, chūn li
 Nā ēng *lotio hydrarg. perchlor.* chòe un-sip-pò͘, tióh 1—5,000. Nā *acidum carbolicum* tióh 1—100. Nā ēng *acidum carbolicum* a-sī *hydrarg. perchlor.*, tióh sió-sim khòaⁿ pīⁿ-lâng ê chêng-hêng, in-ūi chiah ê ióh khoài-khoài khip-siu tī seng-khu-lāi tiòng-tók.
 
 > **【全漢對照】**
-> 若用 *lotio hydrarg. perchlor.*（昇汞水）做溫濕布，著 1—5,000。若 *acidum carbolicum*（石炭酸）著 1—100。若用 *acidum carbolicum* 抑是 *hydrarg. perchlor.*，著小心看病人的情形，因為諸個藥快快吸收佇身軀內中毒。
+> 若用 *lotio hydrarg. perchlor.*（昇汞水）做溫濕布，著 1—5,000。若 *acidum carbolicum*（石炭酸）著 1—100。若用 *acidum carbolicum* 抑是 *hydrarg. perchlor.*，著小心看病人的情形，因為諸个藥快快吸收佇身軀內中毒。
 
 ---
 
@@ -487,7 +487,7 @@ Nā ēng *lotio hydrarg. perchlor.* chòe un-sip-pò͘, tióh 1—5,000. Nā *ac
 Pâ-pò͘ (琶布, Poultice) : Chit ê hoat-tō͘ sī ēng ióh, pè á-sī pau tī pò͘ ê lāi-bīn, chiah hē ū pīⁿ ê só͘-chāi. Ū-sî bô lóng pau, kan-ta kô͘ chi̍t pêng, iā hē ū pīⁿ ê só͘-chāi.
 
 > **【全漢對照】**
-> 爬布（琶布，Poultice）：這個法度是用藥，被抑是包佇布的內面，才下有病的所在。有時無攏包，干焦糊一旁，也下有病的所在。
+> 爬布（琶布，Poultice）：這个法度是用藥，被抑是包佇布的內面，才下有病的所在。有時無攏包，干焦糊一旁，也下有病的所在。
 
 ---
 
@@ -503,7 +503,7 @@ Pâ-pò͘ ê lō͘-ēng, sī hō͘ ū pīⁿ ê só͘-chāi, khah sio iā khah s
 Chho͘-khng-pâ-pò͘: Chiong chi̍t tè môa-pò͘ chòe tē-á, i ê tōa-sòe sī chiàu beh ù ê só͘-chāi. Ēng chho͘-khng chi̍t kun, á-sī pòaⁿ-kun, chiàu beh ēng ê liōng-sò͘, hē tī pōaⁿ-lāi, hang hō͘ sio. Môa-pò͘ tē-á iā tióh hang hō͘ sio. Ēng tām-po̍h kún-chúi, piàⁿ tī chho͘-khng-nih (m̄-thang siuⁿ chōe, hō͘ i tâm-tâm chiū hó), ēng thng-sî, á-sī ióh-to, lâ hō͘ chiâu. Kóaⁿ-kín piàⁿ tī tē-á-lāi, tē-á-chhùi pák, chhòng hō͘ pîⁿ, hē ū pīⁿ ê só͘-chāi, chiah ēng bīn-kun khàm, pheng-tòa pák hō͘ hó-sè. Nā léng, thang koh chhòng hō͘ sio, koh ēng; chóng-sī sī khah hó tióh ēng sin ê chho͘-khng. Koan-chat nā thiàⁿ, á-sī kha-chhiú, heng-khám ū thiàⁿ, ù-sio chho͘-khng ōe chí thiàⁿ. Chit ê tē-á the̍h-khí-lâi ê sî, tióh ēng sio ê mî-hoe, pau ū pīⁿ ê só͘-chāi, tî-hông kám-tióh; á-sī ēng sio *oleum olivae* kā i
 
 > **【全漢對照】**
-> 粗糠爬布：將一塊麻布做袋仔，伊的大細是照欲熨的所在。用粗糠一斤，抑是半斤，照欲用的量數，下佇缽內，烘互熱。麻布袋仔也著烘互熱。用淡薄滾水，傾佇粗糠裡（毋通用傷贅，互伊濕濕就好），用湯匙，抑是藥刀，攄互齊。趕緊傾佇袋仔內，袋仔嘴縛，創互平，下有病的所在，才用面巾蓋，繃帶縛互好勢。若冷，通閣創互熱，閣用；總是較好著用新的粗糠。關節若痛，抑是跤手、胸坎有痛，熨熱粗糠會止痛。這個袋仔提起來的時，著用熱的棉花，包有病的所在，提防感著；抑是用熱 *oleum olivae*（橄欖油）共伊
+> 粗糠爬布：將一塊麻布做袋仔，伊的大細是照欲熨的所在。用粗糠一斤，抑是半斤，照欲用的量數，下佇缽內，烘互熱。麻布袋仔也著烘互熱。用淡薄滾水，傾佇粗糠裡（毋通用傷贅，互伊濕濕就好），用湯匙，抑是藥刀，攄互齊。趕緊傾佇袋仔內，袋仔嘴縛，創互平，下有病的所在，才用面巾蓋，繃帶縛互好勢。若冷，通閣創互熱，閣用；總是較好著用新的粗糠。關節若痛，抑是跤手、胸坎有痛，熨熱粗糠會止痛。這个袋仔提起來的時，著用熱的棉花，包有病的所在，提防感著；抑是用熱 *oleum olivae*（橄欖油）共伊
 
 <!-- Page 234 End -->
 
@@ -526,7 +526,7 @@ thui, chiah chiong hang sio ê nî-pò kā i khàm-teh, pheng-tòa pák hō͘ h�
 Môa-chí-pâ-pò (*Linseed poultice*): Tio̍h ū-pī chiah ê mih: chit-ê chúi-koàn tóe kún-chúi, chúi-lāi hē chi̍t ki tun ê to (io̍h-to); hang sio ê pôaⁿ; môa-pò; *oleum olivae*; chi̍t tè pang; môa-chí-bo̍ah (*linseed meal*).
 
 > **【全漢對照】**
-> 麻子爬布（*Linseed poultice*，亞麻子敷劑）：著預備諸個物：一個水罐貯滾水，水內下那一枝鈍的刀（藥刀）；烘燒的盤；麻布；*oleum olivae*（橄欖油）；一塊板；麻子末（*linseed meal*，亞麻子粉）。
+> 麻子爬布（*Linseed poultice*，亞麻子敷劑）：著預備諸个物：一个水罐貯滾水，水內下那一枝鈍的刀（藥刀）；烘燒的盤；麻布；*oleum olivae*（橄欖油）；一塊板；麻子末（*linseed meal*，亞麻子粉）。
 
 1. Chiong môa-pò ê hoâiⁿ-ti̍t, sòa chhu hō͘ pîⁿ tī pang ê téng-bīn, Chit tè môa-pò sì piⁿ tio̍h khah tōa tām-po̍h, chha-put-to liōng n̄g-chhùn thang áu-ji̍p-lâi.
 
@@ -563,7 +563,7 @@ Môa-chí-pâ-pò (*Linseed poultice*): Tio̍h ū-pī chiah ê mih: chit-ê chú
 Tī pīⁿ-lâng ê heng-chêng, á-sī pak-tó-téng, beh ēng chit ê io̍h lâi kô, sī m̄-thang siuⁿ kāu; in-ūi pīⁿ-lâng hì-chōng ho͘-khip ê la̍t khah lám, nā koh ēng khah tāng ê io̍h, ōe gāi-tio̍h i ê ho͘-khip.
 
 > **【全漢對照】**
-> 佇病人的胸前，抑是腹肚頂，欲用這個藥來糊，是毋通傷厚；因為病人肺臟呼吸的力較荏，若閣用較重的藥，會礙著伊的呼吸。
+> 佇病人的胸前，抑是腹肚頂，欲用這个藥來糊，是毋通傷厚；因為病人肺臟呼吸的力較荏，若閣用較重的藥，會礙著伊的呼吸。
 
 Ài chai khàn-hō͘ só͘ chòe chit khoán ê io̍h, hó á m̄-hó, nā khòaⁿ só͘ oaⁿ-khí-lâi ê io̍h, bōe liâm pīⁿ-lâng ê phê-hu, iā só͘ chòe ê io̍h-phìⁿ bô sòaⁿ, chiū chai sī hó.
 

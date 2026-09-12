@@ -17,7 +17,7 @@ Siau-hòa-khì (消化器, *the alimentary system*), sī siau-hòa chia̍h-mi̍h
 > ### 第 4 章
 > ### 論消化器系統
 > 
-> 消化器（消化器，*the alimentary system*），是消化食物的用處，是一條的膜管，佮嘴齒、涎泉（唾腺，*salivary glands*），佮兩個泉體，攏排列佇下底（第 35 圖）：
+> 消化器（消化器，*the alimentary system*），是消化食物的用處，是一條的膜管，佮嘴齒、涎泉（唾腺，*salivary glands*），佮兩个泉體，攏排列佇下底（第 35 圖）：
 
 ---
 
@@ -214,7 +214,7 @@ Kú-sèng-khí:
 Tē 36 tô͘.—Leng-khí tò-pêng ê chhùi-khí : A, tē it mn̂g-khí ; B, tē jī mn̂g-khí ; CH, káu-khí; CHH, tē it sió-khū-khí; E, tē jī sió-khū-khí. Chiah ê sò͘-jī ê hō-thâu sī chí sím-mi̍h ge̍h hoat-chhut. (From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.)
 
 > **【全漢對照】**
-> 第 36 圖。——乳齒倒爿的齒：A，第一門齒；B，第二門齒；CH，狗齒；CHH，第一小臼齒；E，第二小臼齒。諸個數字的號頭是指甚麼月發出。（From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.）
+> 第 36 圖。——乳齒倒爿的齒：A，第一門齒；B，第二門齒；CH，狗齒；CHH，第一小臼齒；E，第二小臼齒。諸个數字的號頭是指甚麼月發出。（From Gray's “Anatomy,” by permission of Longmans, Green and Co., publishers.）
 
 ---
 
@@ -359,7 +359,7 @@ Ióh-tû tióh só, bô só, m̄-thang khì pàt-ūi.
 
 > **【全漢對照】**  
 > **［吞食物］**  
-> *diaphragm*〔橫膈膜〕），才接連佇胃（第 41 圖）。吞食物的時，用伊的筋肉縮的力，將食物共揤落去；就是若欲吞落去，彼個食道的筋肉有縮，來揤佇食物，以及佇食物的頂面。拄拄彼時，佇食物下，彼個筋肉有伸。按呢佇食物頂筋肉有縮，佇食物下筋肉有伸；對此兩項，食物就會漸漸落去入胃。
+> *diaphragm*〔橫膈膜〕），才接連佇胃（第 41 圖）。吞食物的時，用伊的筋肉縮的力，將食物共揤落去；就是若欲吞落去，彼个食道的筋肉有縮，來揤佇食物，以及佇食物的頂面。拄拄彼時，佇食物下，彼个筋肉有伸。按呢佇食物頂筋肉有縮，佇食物下筋肉有伸；對此兩項，食物就會漸漸落去入胃。
 
 ---
 
@@ -378,7 +378,7 @@ Tī hoâiⁿ-keh-mo̍h ê ē-tóe tò-pêng tām-po̍h, tī koaⁿ ê ē-bīn, �
 
 > **【全漢對照】**  
 > **［胃］**  
-> 佇橫膈膜的底下倒爿淡薄，佇肝的下面，有一個胃。胃的形狀是梨仔款的膜囊。倒爿較膨大，叫做胃底（胃底，*fundus*）；正爿小寡膨，有胃出口部，叫做幽門部（幽門部，*pylorus*）。頂面有一個孔連佇食道，就是胃入口，叫做噴門（噴門，*cardiac orifice*，第 41 圖 5 號）。
+> 佇橫膈膜的底下倒爿淡薄，佇肝的下面，有一个胃。胃的形狀是梨仔款的膜囊。倒爿較膨大，叫做胃底（胃底，*fundus*）；正爿小寡膨，有胃出口部，叫做幽門部（幽門部，*pylorus*）。頂面有一个孔連佇食道，就是胃入口，叫做噴門（噴門，*cardiac orifice*，第 41 圖 5 號）。
 
 ---
 
@@ -507,7 +507,7 @@ bé-tôe thih, ûi-khoân tī chūi-chōng (膵臟; tiⁿ-hut) ê gōa-bīn. I �
 Khang-tng tī cha̍p-jī-chí-tng chiap-sòa í-hā kàu tī hôe-tng chí. Chit-ê in-ūi sí-thé kái-phò lâi khòaⁿ, khah siông sī khang-khang, só-í chiah kiò-chòe khang-tng, sī chha-put-to 8 chhioh ê tn̂g (tē 41 tô 10).
 
 > **【全漢對照】**
-> 空腸佇十二指腸接續以下到佇迴腸止。此個因為死體解剖來看，較常是空空，所以才叫做空腸，是差不多 8 尺的長（第 41 圖 10）。
+> 空腸佇十二指腸接續以下到佇迴腸止。此个因為死體解剖來看，較常是空空，所以才叫做空腸，是差不多 8 尺的長（第 41 圖 10）。
 
 ---
 
@@ -534,7 +534,7 @@ Tē 42 tô:—Ūi chhiat-tn̄g-bīn ê tô thang khòaⁿ lāi-bīn ê liām-mo�
 Tōa-tng sī chha-put-to 5 chhioh tn̂g, tùi hôe-tng ê bé-á khí, kàu kong-bûn ûi-chí. I ê piah sī kāu koh ióng, chin tōa khâm-khiat bô pîⁿ. Chit-ê tùi chiàⁿ-pêng ê kut-phôaⁿ (pelvis) khí, seh chit lìn, kàu kong-bûn chí; chit-ê hun-piat bông-tng, kiat-tng (結腸), kap ti̍t-tng. Kiat-tng hun-piat siōng-hêng-kiat-tng, hoâiⁿ-hêng-kiat-tng, hā-hêng-kiat-tng.
 
 > **【全漢對照】**
-> 大腸是差不多 5 尺長，對迴腸的尾仔起，到肛門為止。伊的壁是厚閣勇，真大嵌扤無平。此個對正邊的骨盆（pelvis）起，踅一輾，到肛門止；此個分別盲腸、結腸（結腸）、及直腸。結腸分別上行結腸、橫行結腸、下行結腸。
+> 大腸是差不多 5 尺長，對迴腸的尾仔起，到肛門為止。伊的壁是厚閣勇，真大嵌扤無平。此个對正邊的骨盆（pelvis）起，踅一輾，到肛門止；此个分別盲腸、結腸（結腸）、及直腸。結腸分別上行結腸、橫行結腸、下行結腸。
 
 ---
 
@@ -543,7 +543,7 @@ Tōa-tng sī chha-put-to 5 chhioh tn̂g, tùi hôe-tng ê bé-á khí, kàu kong
 Siōng-hêng-kiat-tng ê khí-thâu ū chit ê phòng tōa ê só-chāi, kiò-chòe bông-tng. Tī bông-tng ê āu-bīn ê ē-tóe, ū chit tiâu sòe tiâu ê mo̍h-kńg kiò-chòe thâng-iūⁿ-sûi
 
 > **【全漢對照】**
-> 上行結腸的起頭有一個膨大的所在，叫做盲腸。佇盲腸的後面的下底，有一條細條的膜管叫做蟲樣垂
+> 上行結腸的起頭有一个膨大的所在，叫做盲腸。佇盲腸的後面的下底，有一條細條的膜管叫做蟲樣垂
 
 ---
 
@@ -552,7 +552,7 @@ Siōng-hêng-kiat-tng ê khí-thâu ū chit ê phòng tōa ê só-chāi, kiò-ch
 Koh tī pa̍t-ê pêng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個旁無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
+> 閣佇別个旁無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 064 End -->
 
@@ -651,7 +651,7 @@ Nā iáu-bē sǹg me̍h-phok, m̄-thang kì chha-put-to kúi-ē.
 pêng ê sīn-chōng. Tī chia̍hⁿ-pêng ê ē-tóe ū chi̍t ê táⁿ-lông, lāi-bīn ū táⁿ-chiap. Chit ê táⁿ-lông ū kńg, chiap tī koaⁿ-kńg, hō͘ koaⁿ-chiap tùi koaⁿ-kńg lâu kàu táⁿ-lông chek-chū. Iā ū chi̍t tiâu kńg, kiò-chòe táⁿ-kńg, kiâⁿ tùi táⁿ-lông, kàu cha̍p-jī-chí-tng lâi chhut (tē 41 tô 19, tē 42 tô 4).
 
 > **【全漢對照】**
-> 爿的腎臟。佇正爿的下底有一個膽囊，內面有膽汁。這個膽囊有管，接佇肝管，互肝汁對肝管流到膽囊積聚。亦有一條管，叫做膽管，行對膽囊，到十二指腸來出（第 41 圖 19，第 42 圖 4）。
+> 爿的腎臟。佇正爿的下底有一个膽囊，內面有膽汁。這个膽囊有管，接佇肝管，互肝汁對肝管流到膽囊積聚。亦有一條管，叫做膽管，行對膽囊，到十二指腸來出（第 41 圖 19，第 42 圖 4）。
 
 ---
 
@@ -660,7 +660,7 @@ pêng ê sīn-chōng. Tī chia̍hⁿ-pêng ê ē-tóe ū chi̍t ê táⁿ-lông,
 Iā ū koh chi̍t ê chôaⁿ-thé, chòe siau-hòa ê lō͘-ēng, kiò-chòe chūi-chōng (tiⁿ-hút), tī ūi ê āu-bīn ê ē-tóe (tē 41 tô 33). I ê thâu tī cha̍p-jī-chí-tng ê oan-khiok ê lāi-bīn. I ê bé kàu tī pî. I ê kńg ū kap táⁿ-kńg chòe chi̍t-ē ji̍p tī cha̍p-jī-chí-tng ê āu-bīn (tē 42 tô 3).
 
 > **【全漢對照】**
-> 亦有閣一個泉體，做消化的路用，叫做膵臟（甜核），佇胃的後面的下底（第 41 圖 33）。伊的頭佇十二指腸的彎曲的內面。伊的尾到佇脾。伊的管有及膽管做一下入佇十二指腸的後面（第 42 圖 3）。
+> 亦有閣一个泉體，做消化的路用，叫做膵臟（甜核），佇胃的後面的下底（第 41 圖 33）。伊的頭佇十二指腸的彎曲的內面。伊的尾到佇脾。伊的管有及膽管做一下入佇十二指腸的後面（第 42 圖 3）。
 
 ---
 
@@ -669,14 +669,14 @@ Iā ū koh chi̍t ê chôaⁿ-thé, chòe siau-hòa ê lō͘-ēng, kiò-chòe ch
 Siau-hòa-khì ê liâm-mo̍h sî-siông hún-âng koh sip-lūn sī cháiⁿ-iūⁿ? Liâm-mo̍h sī po̍h-po̍h, tī i ê ē-tóe ū chin chōe huih-kńg, m̂g-sòe-huih-kńg; iā in ê huih sī âng; chit ê sek ōe chiò-kè-lâi, iā chiah ê huih-kńg-lāi huih ê chiap ōe tò-kè-lâi, kàu liâm-mo̍h ê téng-bīn. Tī liâm-mo̍h ê lāi-bīn ta̍k ūi ū chôaⁿ-thé, sòe-sòe-ê, put-sî teh chhut liâm-e̍k.
 
 > **【全漢對照】**
-> 消化器的黏膜時常粉紅閣濕潤是怎樣？黏膜是薄薄，佇伊的下底有真多血管、毛細血管；亦（亻因）的血是紅；這個色會照過來，亦諸個血管內血的汁會透（倒）過來，到黏膜的頂面。佇黏膜的內面逐位有泉體，細細個，不時咧出黏液。
+> 消化器的黏膜時常粉紅閣濕潤是怎樣？黏膜是薄薄，佇伊的下底有真多血管、毛細血管；亦（亻因）的血是紅；這个色會照過來，亦諸个血管內血的汁會透（倒）過來，到黏膜的頂面。佇黏膜的內面逐位有泉體，細細个，不時咧出黏液。
 
 ---
 
 Chit ê siau-hòa-khì sī chi̍t tiâu tn̂g ê mo̍h-kńg, ū só͘-chāi oeh-oeh, ū só͘-chāi chhin-chhiūⁿ ūi khah khoah. Bô lūn sím-mi̍h só͘-chāi, i ê khoán-sit sī lāi-bīn ū liâm-mo̍h (tē 45 tô 4), gōa-bīn ū kun-bah (45 tô 2). Chit ê kun-bah kap kha-chhiú ê kun-bah ū koh-iūⁿ, m̄-kú iū-goân ōe chhun kiu, iā teh chhiah kńg-lāi ê si̍t-bu̍t, hō͘ in ōe kiâⁿ. Chiah ê kun-bah kap liâm-mo̍h ê lāi-bīn ū tông-chēⁿ-me̍h, sîn-keng, lîm-pa-kńg tī-teh (tē 45 tô 3).
 
 > **【全漢對照】**
-> 這個消化器是一條長的膜管，有所在狹狹，有所在親像胃較闊。無論甚麼所在，伊的款式是內面有黏膜（第 45 圖 4），外面有筋肉（45 圖 2）。這個筋肉及腳手的筋肉有各樣，毋過依然會伸縮，亦咧（齒戚）管內的食物，互（亻因）會行。諸個筋肉及黏膜的內面有動靜脈、神經、淋巴管佇咧（第 45 圖 3）。
+> 這个消化器是一條長的膜管，有所在狹狹，有所在親像胃較闊。無論甚麼所在，伊的款式是內面有黏膜（第 45 圖 4），外面有筋肉（45 圖 2）。這个筋肉及腳手的筋肉有各樣，毋過依然會伸縮，亦咧（齒戚）管內的食物，互（亻因）會行。諸个筋肉及黏膜的內面有動靜脈、神經、淋巴管佇咧（第 45 圖 3）。
 
 ---
 
@@ -716,7 +716,7 @@ Sió-tn̂g ê liâm-mo̍h khòaⁿ sī chhin-chhiūⁿ jiông (tē 45...
 tô͘), nā ēng hián-bî-kiàⁿ lâi khòaⁿ, sī chhin-chhiūⁿ mng-mng ê chhì (tē 46 tô͘ 6). Hit ê liâm-mo̍h chi̍t chhùn sù-hong ū chhì, iok-lio̍k chi̍t bān ê chōe. Ta̍k ki chhì ê lāi-bīn ū tōng-me̍h, chēng-me̍h, kap lîm-pa-kńg (淋巴管, *lacteal*) lâi khip-siu hit ê leng-bê (乳糜, *chyle*), hō͘ i āu-lâi thang chham huih sì-kè liû-hêng, lâi iúⁿ-chhī seng-khu.
 
 > **【全漢對照】**
-> 圖），若用顯微鏡來看，是親像毿毿（mng-mng）的刺（第 46 圖 6）。彼個黏膜一寸四方有刺，約略一萬的濟。逐支刺的內面有動脈、靜脈，佮淋巴管（淋巴管，*lacteal*）來吸收彼個乳糜（乳糜，*chyle*），互伊後來通參血四界流行，來養飼身軀。
+> 圖），若用顯微鏡來看，是親像毿毿（mng-mng）的刺（第 46 圖 6）。彼个黏膜一寸四方有刺，約略一萬的濟。逐支刺的內面有動脈、靜脈，佮淋巴管（淋巴管，*lacteal*）來吸收彼个乳糜（乳糜，*chyle*），互伊後來通參血四界流行，來養飼身軀。
 
 ---
 
@@ -725,7 +725,7 @@ tô͘), nā ēng hián-bî-kiàⁿ lâi khòaⁿ, sī chhin-chhiūⁿ mng-mng ê
 Tī tn̂g-lāi ū chin chōe e̍k-choâⁿ, ū iù-iù ê kńg thàu kàu liâm-mo̍h ê lāi-bīn, hō͘ choâⁿ ê chiap thang ji̍p tn̂g-á-lāi (tē 46 tô͘ 5). Chiah ê choâⁿ ê piah sī pỏh-pỏh, hō͘ mng-sè-huih-kńg pau-teh. Chiah ê mng-sè-kuih-kńg ê piah sī chin pỏh, só͘-í i ê chiap ē khoài-khoài thàu-kè. Chiah ê choâⁿ bô lóng siāng khoán, ta̍k ūi só͘ chhut ê choâⁿ-e̍k lóng ū hun-piat, chhùi hoān chhùi-ê, ūi hoān ūi-ê, tn̂g-á hoān tn̂g-á-ê.
 
 > **【全漢對照】**
-> 佇腸內有真濟液泉，有幼幼的管透到黏膜的內面，互泉的汁通入腸仔內（第 46 圖 5）。諸個泉的壁是薄薄，互微細血管包咧。諸個微細血管的壁是真薄，所以伊的汁會快快透過。諸個泉無攏仝款，逐位所出的泉液攏有分別，嘴凡嘴的，胃凡胃的，腸仔凡腸仔的。
+> 佇腸內有真濟液泉，有幼幼的管透到黏膜的內面，互泉的汁通入腸仔內（第 46 圖 5）。諸个泉的壁是薄薄，互微細血管包咧。諸个微細血管的壁是真薄，所以伊的汁會快快透過。諸个泉無攏仝款，逐位所出的泉液攏有分別，嘴凡嘴的，胃凡胃的，腸仔凡腸仔的。
 
 ---
 
@@ -755,7 +755,7 @@ Chiah ê hun-pì-mi̍h (hun-pì-mi̍h chiū-sī chóng miâ,
 > 3. 對十二指腸佮小腸有出腸液（*intestinal secretion*）。
 > 4. 對肝臟有出膽汁（*bile*）。
 > 5. 對胰臟有出胰液（*pancreatic juice*）。
-> 諸個分泌物（分泌物就是總名，
+> 諸个分泌物（分泌物就是總名，
 
 ---
 
@@ -795,7 +795,7 @@ Tióh chheng-khì.
 ì-sù chiū-sī e̍k, á-sī chiap, tùi hiah ê chôaⁿ-thé hun-pì á-sī lâu-chhut-lâi) lóng sī beh hō͘ lâng ê sit-bu̍t siau-hòa ê lō͘-ēng. Lán tióh chai tī seng-khu-lāi ták ūi ū mỏh tī-teh, chin chōe khoán, tī huih-kńg-lāi ū chi̍t khoán, tī lîm-pa-kńg-lāi chi̍t khoán, pák-tó-lāi iā ū, tī náu-lāi, tng-á-lāi iā ū liâm-mỏh. Chiah ê mỏh sui-bóng bảt-bảt, m̄-kú seng-khu ê chiap ōe thàu-kè; chit-ê sī cháiⁿ-iūⁿ? Phì-jū lâi kóng, nā the̍h chi̍t chiah ti ê pông-kong, tī lāi-bīn hē thn̂g-chúi, iā i ê khang-chhùi pák bảt-bảt, lóng chìm tī tháng-á ê chúi-nih; bô lōa-kú, pông-kong-lāi ê thn̂g ōe thàu-kè cháu-chhut tī gōa-bīn ê chúi-nih, kàu lóng chiâu ū thn̂g-chúi. Nā ēng iâm iā sī án-ni ōe khoài-khoài thàu-kè pông-kong ê mỏh. M̄-kú nā chiong chiuⁿ-chúi hē pông-kong-lāi, iā khang-chhùi lâi pák, koh chìm, hit ê chiuⁿ bōe thàu chhut tī gōa-bīn ê chúi. Chóng-sī nā tāi-seng tùi oa̍h-oa̍h ê káu-á, khioh-khí-lâi ê nōa-e̍k, chham chiuⁿ lâi lā hō͘ chiâu, hit ê chiuⁿ bô lōa-kú ōe pìⁿ-chiâⁿ thn̂g, chiah ōe thàu-kè pông-kong ê mỏh. Nā chiong bah á-sī iûⁿ-bah hē pông-kong-lāi, hit hō lūi iā bōe kè-lâi.
 
 > **【全漢對照】**  
-> 意思就是液，抑是汁，對遐的腺體分泌抑是流出來）攏是欲予人的食物消化的路用。咱著知佇身軀內逐位有膜佇咧，真多款，佇血管內有一款，佇淋巴管內一款，腹肚內亦有，佇腦內、腸仔內亦有粘膜。諸個膜雖罔密密，毋過身軀的汁會透過；這個是怎樣？譬喻來講，若提一隻豬的膀胱，佇內面下糖水，亦伊的孔嘴縛密密，攏浸佇桶仔的水裡；無偌久，膀胱內的糖會透過走出佇外面的水裡，到攏齊有糖水。若用鹽亦是按呢會快快透過膀胱的膜。毋過若將漿水下膀胱內，亦孔嘴來縛，閣浸，彼個漿袂透出佇外面的水。總若是代先對活活的狗仔，拾起來的涶液，參漿來攄予齊，彼個漿無偌久會變成糖，才會透過膀胱的膜。若將肉抑是羊肉下膀胱內，彼類亦袂過來。
+> 意思就是液，抑是汁，對遐的腺體分泌抑是流出來）攏是欲予人的食物消化的路用。咱著知佇身軀內逐位有膜佇咧，真多款，佇血管內有一款，佇淋巴管內一款，腹肚內亦有，佇腦內、腸仔內亦有粘膜。諸个膜雖罔密密，毋過身軀的汁會透過；這个是怎樣？譬喻來講，若提一隻豬的膀胱，佇內面下糖水，亦伊的孔嘴縛密密，攏浸佇桶仔的水裡；無偌久，膀胱內的糖會透過走出佇外面的水裡，到攏齊有糖水。若用鹽亦是按呢會快快透過膀胱的膜。毋過若將漿水下膀胱內，亦孔嘴來縛，閣浸，彼个漿袂透出佇外面的水。總若是代先對活活的狗仔，拾起來的涶液，參漿來攄予齊，彼个漿無偌久會變成糖，才會透過膀胱的膜。若將肉抑是羊肉下膀胱內，彼類亦袂過來。
 
 ---
 
@@ -845,7 +845,7 @@ Sī tùi chit hō kau-liû-chok-iōng, êng-ióng-e̍k (營養液, nutriment) ō
 
 > **【全漢對照】**
 > ［邊注：營養液會養飼身軀］
-> 是對這號交流作用，營養液（營養液，nutriment）會對胃抑是腸，過來到淋巴管內，才到血管內。彼个營養液對血行到身軀逐位的所在來養飼。親像胃咧備辦物欲養飼身軀，毋過胃依然家己著受到養飼。也佇血管有無路用的物著對腎臟、皮膚、肺臟，排出。諸個物會出去，較多是倚靠身軀內的膜，有這个交流作用的關係。因為身軀的膜有這號作用，所以血時常咧養飼身軀；也是對這號作用，血家己會得到清氣。
+> 是對這號交流作用，營養液（營養液，nutriment）會對胃抑是腸，過來到淋巴管內，才到血管內。彼个營養液對血行到身軀逐位的所在來養飼。親像胃咧備辦物欲養飼身軀，毋過胃依然家己著受到養飼。也佇血管有無路用的物著對腎臟、皮膚、肺臟，排出。諸个物會出去，較多是倚靠身軀內的膜，有這个交流作用的關係。因為身軀的膜有這號作用，所以血時常咧養飼身軀；也是對這號作用，血家己會得到清氣。
 
 ---
 
@@ -854,7 +854,7 @@ Lâng ê sin-thé sī chōe-chōe hāng chit lâi ha̍p-chiâⁿ--ê, chiū-sī 
 
 > **【全漢對照】**
 > ［邊注：元素］
-> 人的身體是贅贅項質來合成的，就是筋肉、筋、骨、血管、神經，諸個類。諸個物質攏是照化學的元素（元素，也叫原質，element）來合成的。化學的元素就是用一項物將化學的法度來分開諸個逐項的質，分到袂閣分得，就是叫做元素。照化學的理氣攏總分做 78 種。
+> 人的身體是贅贅項質來合成的，就是筋肉、筋、骨、血管、神經，諸个類。諸个物質攏是照化學的元素（元素，也叫原質，element）來合成的。化學的元素就是用一項物將化學的法度來分開諸个逐項的質，分到袂閣分得，就是叫做元素。照化學的理氣攏總分做 78 種。
 
 ---
 
@@ -863,14 +863,14 @@ Lâng seng-khu ê cho͘-chit, kiōng ū 12 hāng goân-sò͘. Chiah-ê sī iàu-
 
 > **【全漢對照】**
 > ［邊注：身軀組織有 12 項元素］
-> 人身軀的組織，共有 12 項元素。諸個是要緊的，猶久佇身軀內有時有三四款別項的元素佇咧。諸個 12 个，就是酸素，（酸素，oxygen）、水素（水素，hydrogen）、炭素（炭素，carbon）、窒素（窒素，nitrogen）、硫黃（硫黃，sulphur,）、燐（燐，phosphorus）、鹽素（鹽素，chlorine）、potassium、sodium、calcium、magnesium、iron。
+> 人身軀的組織，共有 12 項元素。諸个是要緊的，猶久佇身軀內有時有三四款別項的元素佇咧。諸个 12 个，就是酸素，（酸素，oxygen）、水素（水素，hydrogen）、炭素（炭素，carbon）、窒素（窒素，nitrogen）、硫黃（硫黃，sulphur,）、燐（燐，phosphorus）、鹽素（鹽素，chlorine）、potassium、sodium、calcium、magnesium、iron。
 
 ---
 
 Lâng nā m̄-bat tha̍k hòa-ha̍k, sī bōe hiáu-tit chiah ê
 
 > **【全漢對照】**
-> 人若毋捌讀化學，是袂曉得諸個
+> 人若毋捌讀化學，是袂曉得諸个
 
 ---
 
@@ -957,7 +957,7 @@ Siōng-tè bô kah lâng tiòh gâu, sī kiò lâng tiòh chīn-tiong.
 Tī seng-khu-lāi ê sng-sò͘ siông-siông ū teh sng-hòa tàk ūi ê cho͘-chit, só͘-í tiòh sî-siông ke-thiⁿ seng-khu-lāi ê chu-ióng-hun (*nutriment*). Lâng ê lim-chiàh ē pìⁿ-chiâⁿ chu-ióng-hun lâi kiong-kip sin-thé tàk-pō͘-ūi. Tiòh chai hit ê m̄-hó khì, bô lō͘-ēng ê mi̍h, ū lōa-chōe, chiū tiòh ke-thiⁿ lōa-chōe lâi pó͘ i.
 
 > **【全漢對照】**
-> 佇身軀內的酸素常常有咧酸化逐位的組織，所以著時常加添身軀內的滋養分（*nutriment*）。人的飲食會變成滋養分來供給身體逐部位。著知彼個唔好氣、無路用的物，有偌濟，就著加添偌濟來補伊。
+> 佇身軀內的酸素常常有咧酸化逐位的組織，所以著時常加添身軀內的滋養分（*nutriment*）。人的飲食會變成滋養分來供給身體逐部位。著知彼个唔好氣、無路用的物，有偌濟，就著加添偌濟來補伊。
 
 ---
 
@@ -970,7 +970,7 @@ Chit khoán bô lō͘-ēng ê mi̍h sī tùi hì-chōng, phê-hu, tōa-tn̂g, s�
 4. Tùi tōa-tn̂g pâi-chhut-ê, sī chúi, *ammonia* ê lūi, iâm ê lūi, kap kúi-nā hāng bē siau-hòa bô lō͘-ēng ê mi̍h.
 
 > **【全漢對照】**
-> 此款無路用的物是對肺臟、皮膚、大腸、腎臟，諸個所在排出。
+> 此款無路用的物是對肺臟、皮膚、大腸、腎臟，諸个所在排出。
 > 1. 對肺臟排出的，就是水氣佮炭酸（CO₂）。
 > 2. 對皮膚排出的，就是水佮別物的鹽。
 > 3. 對腎臟帶尿排出的，就是水佮 *ammonia*（阿摩尼亞/氨）、尿酸鹽的類。
@@ -1078,7 +1078,7 @@ Leng ê lāi-bīn, ū kúi-nā hāng ê chit tī-teh, put-chí ha̍p seng-khu ê
 > 
 > 牛乳的比重是 1029 以上。
 > 
-> 乳的內面，有幾若項的質佇咧，不止合軀體的路用；設使人若焗不得已著干單食這項物，乳就是比別號的物較好。通看細漢的嬰仔，久久干單食乳，猶久會𤱊大（健壯長大）。卵也是好，通養飼軀體，總是若煮傷熟，卵清就惡（無法度/僫）消化。米第一白的，伊的功用猶唔值著較糙的；因為若舂傷白，會將彼個會養飼神經的質，紲舂落來佇米糠裡。果子咁好（剛好）熟，是合人的路用；若傷青抑是過分（過熟），就唔通食，是會損害予人下痢。
+> 乳的內面，有幾若項的質佇咧，不止合軀體的路用；設使人若焗不得已著干單食這項物，乳就是比別號的物較好。通看細漢的嬰仔，久久干單食乳，猶久會𤱊大（健壯長大）。卵也是好，通養飼軀體，總是若煮傷熟，卵清就惡（無法度/僫）消化。米第一白的，伊的功用猶唔值著較糙的；因為若舂傷白，會將彼个會養飼神經的質，紲舂落來佇米糠裡。果子咁好（剛好）熟，是合人的路用；若傷青抑是過分（過熟），就唔通食，是會損害予人下痢。
 
 ---
 
@@ -1116,7 +1116,7 @@ Mi̍h ji̍p chhùi tio̍h pō͘ ; chi̍t hāng sī beh hō͘ i iù-iù, chiah ē
 chham nōa-e̍k, chiū hit ê chiuⁿ ê chit, ōe pìⁿ-chiâⁿ thng, án-ni khah khoài khip-siu kè ūi-tng ê liâm-mo̍h, thang iúⁿ-chhī seng-khu.
 
 > **【全漢對照】**
-> 參（摻）唾液，就彼個漿的質，會變成糖，按呢較快吸收過胃腸的黏膜，通養飼身軀。
+> 參（摻）唾液，就彼个漿的質，會變成糖，按呢較快吸收過胃腸的黏膜，通養飼身軀。
 
 ---
 
@@ -1125,7 +1125,7 @@ chham nōa-e̍k, chiū hit ê chiuⁿ ê chit, ōe pìⁿ-chiâⁿ thng, án-ni 
 Tī ūi-nih ê siau-hòa, tē it iàu-kín chiū-sī nñg-pe̍h-chit ê lūi. Nā chia̍h bah lo̍h-khì, chit ê bah nā chham ūi-e̍k lâi chìm, bô lōa-kú bah ōe sòaⁿ-khì khah khoài khip-siu tī seng-khu-lāi. Ūi iā ū tín-tāng lâi chhėk ūi-lāi ê mi̍h, hō͘ i kap ūi-e̍k ōe khah chiâu, án-ni khah-khoài siau-hòa. Siau liáu chiū pìⁿ-chiâⁿ phú-sek ê mi̍h; lóng-chóng iû ê chit, iûⁿ-khì, pìⁿ-chiâⁿ iù-iù sòe-sòe lia̍p chhin-chhiūⁿ gû-leng, kiò-chòe leng-kiû, m̄-kú iû bô siau-hòa, kan-ta chhòng khah sòe nā-tiāⁿ. Tī ūi-nih í-keng siau-hòa ê si̍t-bu̍t (*chyme*) chiū ji̍p sió-tng, tī cha̍p-jī-chí-tng, tit-tio̍h koaⁿ só͘ chhut ê táⁿ-chiap, chūi-chōng só͘ chhut ê chūi-e̍k, iā tī sió-tng tit-tio̍h sió-tng-e̍k.
 
 > **【全漢對照】**
-> 佇胃裡的消化，第一要緊就是卵白質的類。若食肉落去，這個肉若參胃液來浸，無偌久肉會散去較快吸收佇身軀內。胃亦有振動來築胃內之物，互（予）伊及胃液會較齊，按呢較快消化。消了就變成腐色（灰白色）的物；攏總油的質，融去，變成幼幼細細粒親像牛奶，叫做乳球，毋過油無消化，干單創較細若定。佇胃裡已經消化的食物（*chyme*，食糜）就入小腸，佇十二指腸，得著肝所出的膽汁，膵臟（胰臟）所出的膵液，亦佇小腸得著小腸液。
+> 佇胃裡的消化，第一要緊就是卵白質的類。若食肉落去，這个肉若參胃液來浸，無偌久肉會散去較快吸收佇身軀內。胃亦有振動來築胃內之物，互（予）伊及胃液會較齊，按呢較快消化。消了就變成腐色（灰白色）的物；攏總油的質，融去，變成幼幼細細粒親像牛奶，叫做乳球，毋過油無消化，干單創較細若定。佇胃裡已經消化的食物（*chyme*，食糜）就入小腸，佇十二指腸，得著肝所出的膽汁，膵臟（胰臟）所出的膵液，亦佇小腸得著小腸液。
 
 ---
 

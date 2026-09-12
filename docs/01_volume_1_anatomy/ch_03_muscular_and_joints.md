@@ -99,7 +99,7 @@ Kun ōe chhun, ōe kiu, chiah hō͘ seng-khu ōe tín-tāng. Chhiú chi̍t-ē ch
 Kun-bah ū thâu-bé, chi̍t pêng liân tī chi̍t tè kut, chi̍t pêng liân tī pa̍t tè kut. Nā beh hō͘ seng-khu ōe tín-tāng, tióh ū chi̍t thâu tiāⁿ-tióh, iā chi̍t thâu ōe tín-tāng. Hit ê khah tiāⁿ-tióh ê ūi, kiò-chòe kun-bah ê khí-sí (起始, *origin*) ; hit pêng teh tín-tāng ê ūi, kiò-chòe thêng-chí (停止, *insertion*). *(Thâu-bé / Khí-sí / Thêng-chí)*
 
 > **【全漢對照】**  
-> 筋肉有頭尾，一旁連佇一塊骨，一旁連佇別塊骨。若欲予身軀會振動，著有一頭定著，也一頭會振動。彼個較定著的位，叫做筋肉的起始（起始，*origin*）；彼旁咧振動的位，叫做停止（停止，*insertion*）。 *（頭尾 / 起始 / 停止）*
+> 筋肉有頭尾，一旁連佇一塊骨，一旁連佇別塊骨。若欲予身軀會振動，著有一頭定著，也一頭會振動。彼个較定著的位，叫做筋肉的起始（起始，*origin*）；彼旁咧振動的位，叫做停止（停止，*insertion*）。 *（頭尾 / 起始 / 停止）*
 
 ---
 
@@ -115,7 +115,7 @@ Hit tiong-ng ê bah, kiò-chòe kun pak-tó͘ (筋腹, *belly of muscle*). Chhin
 **Tē 24 tô͘:—Siōng-chì-kut, kap nñg-thâu-phok-kun:** a, b, téng-bīn nñg thâu ê khí-sí chiū-sī tī keng-kah-kut ; P, sī kun-thêng-chí chiū-sī tī jiâu-kut; chit-ê sī lėk-tiám ; F, siōng-phok-kut ê hā-toan, sī jiâu-kut kap chhioh-kut ê siōng-toan tín-tāng ê pō͘-ūi ; chit-ê sī chi-tiám ; W, chhiú, chiū-sī tiōng-tiám. (From Foster's “Physiology,” Macmillan and Co.)
 
 > **【全漢對照】**  
-> **第 24 圖：——上肢骨，及兩頭搏筋：** a, b，頂面兩頭的起始就是佇肩胛骨；P，是筋停止就是佇橈骨；這個是力點；F，上膊骨的下端，是橈骨及尺骨的頂端振動的部位；這個是支點；W，手，就是重點。(From Foster's “Physiology,” Macmillan and Co.)
+> **第 24 圖：——上肢骨，及兩頭搏筋：** a, b，頂面兩頭的起始就是佇肩胛骨；P，是筋停止就是佇橈骨；這个是力點；F，上膊骨的下端，是橈骨及尺骨的頂端振動的部位；這个是支點；W，手，就是重點。(From Foster's “Physiology,” Macmillan and Co.)
 
 ---
 
@@ -152,7 +152,7 @@ Kun-bah kap kut saⁿ-liân ê ūi, ū kun ê kiān (腱, *tendon*) tī-teh. Chi
 
 > **【全漢對照】**  
 > **【腱】**  
-> 筋肉佮骨相連的位，有筋的腱（腱，*tendon*）佇咧。諸個腱是真多條腱纖維（腱纖維，*tendon fibres*）牽來做一條，來成的；有長的；有扁的（第 25 圖）。腱的路用是來連絡筋肉佮用力的所在。伊所佔的地位真少，親像手指頭仔，意思是互筋肉的力到位骨（第 62 圖）。
+> 筋肉佮骨相連的位，有筋的腱（腱，*tendon*）佇咧。諸个腱是真多條腱纖維（腱纖維，*tendon fibres*）牽來做一條，來成的；有長的；有扁的（第 25 圖）。腱的路用是來連絡筋肉佮用力的所在。伊所佔的地位真少，親像手指頭仔，意思是互筋肉的力到位骨（第 62 圖）。
 
 ---
 
@@ -171,7 +171,7 @@ Kun-bah ōe kiu, sī hō͘ tn̂g ê kun-bah pìⁿ khah tóe, khah kāu koh tēn
 
 > **【全漢對照】**  
 > **【筋肉會縮】**  
-> 筋肉會縮，是互長的筋肉變較短、較厚閣硬。筋肉會厚，是因為長的筋縮倒轉來。筋肉伸縮的力是神經咧管轄，這個是對傳導器到位筋肉內。親像病人的面若歪一旁，伊的緣故就是這一旁的面神經麻痺，所以面筋肉無力，彼旁筋的力，是平常大，所以較贏伊。
+> 筋肉會縮，是互長的筋肉變較短、較厚閣硬。筋肉會厚，是因為長的筋縮倒轉來。筋肉伸縮的力是神經咧管轄，這个是對傳導器到位筋肉內。親像病人的面若歪一旁，伊的緣故就是這一旁的面神經麻痺，所以面筋肉無力，彼旁筋的力，是平常大，所以較贏伊。
 
 ---
 
@@ -231,7 +231,7 @@ Lâng ài chiàu-kò͘ i ê seng-khu khah ióng m̄-thang tiāⁿ-tiāⁿ chē. 
 Lâng put-lūn só͘ chòe lóng tióh ēng chiah ê kun; chhin-chhiūⁿ kóng ōe, tióh ēng chhùi-tûn, chih, nâ-âu, chiah ê kun; á-sī siá jī, tióh ēng chhiú ê kun. Khí-thâu beh chòe sím-mih, éng sī khah bān khah oh, nā-sī liān kàu se̍k chiū put-chí khoài. Gín-ná beh siá jī, khí-thâu ûn-ûn-á lâi uih, ûn-ûn-á liān, kàu āu-lâi tōa-hàn, chiū siá put-chí se̍k.
 
 > **【全漢對照】**
-> 人不論所做攏著用諸個筋；親像講話，著用嘴唇、舌、頷頸，諸個筋；抑是寫字，著用手的筋。起頭欲做甚物，永是較慢較惡，若是練到熟就不止快。囡仔欲寫字，起頭勻勻仔來劃，勻勻仔練，到後來大漢，就寫不止熟。
+> 人不論所做攏著用諸个筋；親像講話，著用嘴唇、舌、頷頸，諸个筋；抑是寫字，著用手的筋。起頭欲做甚物，永是較慢較惡，若是練到熟就不止快。囡仔欲寫字，起頭勻勻仔來劃，勻勻仔練，到後來大漢，就寫不止熟。
 
 ---
 
@@ -264,7 +264,7 @@ Koan-chat sī kut-keh ê kut saⁿ-liân ê só͘-chāi (tē 26 tô͘). Chòe ch
 Kut sī koan-chat ê ki-chhó͘ (基礎). Múi ki kut ê thâu beh tàu tī koan-chat ê só͘-chāi lóng ū póh-póh pîⁿ-pîⁿ ê nńg-kut lâi pau tī nñg pêng, phòe-khì chin tú-hó. Chí nñg pêng ê thâu, ū chi̍t ê cho͘-chit chhin-chhiūⁿ kiû, á-sī lông ê khoán, lâi pau-teh, hō͘ i bē lī hit ê
 
 > **【全漢對照】**
-> 骨是關節的基礎（基礎）。每枝骨的頭欲湊佇關節的所在攏有薄薄平平的軟骨來包佇兩便，配合真拄好。只兩便的頭，有一個組織親像球，抑是囊的款，來包咧，予伊袂離彼個
+> 骨是關節的基礎（基礎）。每枝骨的頭欲湊佇關節的所在攏有薄薄平平的軟骨來包佇兩便，配合真拄好。只兩便的頭，有一个組織親像球，抑是囊的款，來包咧，予伊袂離彼个
 
 ---
 
@@ -419,7 +419,7 @@ Chhin-chhiūⁿ keng-kah-koan-chat (*shoulder-joint*), á-sī pī-khū-koan-chat
 
 > **【全漢對照】**  
 > （a.）舂臼關節：  
-> 親像肩胛關節 (*shoulder-joint*)，抑是髀臼關節（髀臼，*hip-joint*），彼個運動的方向真濟。這個關節，有一頭是圓，鬥佇關節窩（關節窩，*cup-like cavity*）的內面，所以會活動。肩胛骨的關節窩較淺，所以較𠢕運動。佇遐上膊頭鬥佇彼個肩胛骨的關節窩。這個關節窩，雖然是淺，毋過四邊有軟骨叫做臼唇軟骨，互關節窩較深；外面亦有筋肉來保護，就較𣍐脫去（第 27 圖）。
+> 親像肩胛關節 (*shoulder-joint*)，抑是髀臼關節（髀臼，*hip-joint*），彼个運動的方向真濟。這个關節，有一頭是圓，鬥佇關節窩（關節窩，*cup-like cavity*）的內面，所以會活動。肩胛骨的關節窩較淺，所以較𠢕運動。佇遐上膊頭鬥佇彼个肩胛骨的關節窩。這个關節窩，雖然是淺，毋過四邊有軟骨叫做臼唇軟骨，互關節窩較深；外面亦有筋肉來保護，就較𣍐脫去（第 27 圖）。
 
 ---
 
@@ -439,7 +439,7 @@ Chiàu chit ê miâ kā i siūⁿ, chiū thang chai chí-ū ē ǹg nñg bīn o̍
 
 > **【全漢對照】**  
 > （b.）蝴蝶關節：  
-> 照這個名共伊想，就通知只有會向兩面活動。肘關節（肘關節，*elbow*）只有會伸縮，𣍐運-
+> 照這个名共伊想，就通知只有會向兩面活動。肘關節（肘關節，*elbow*）只有會伸縮，𣍐運-
 
 ---
 
@@ -501,7 +501,7 @@ Sī chi̍t ê kut ê thâu tī siāng chit khoán ê sún-thâu-nih teh tńg. T�
 
 > **【全漢對照】**
 > **（ch.）門樞關節（車軸關節）：**
-> 是一個骨的頭佇相仝這款的榫頭裡咧轉。第一頸椎骨佮第二頸椎骨的中間，有這款的關節。第二頸椎骨的頂面旁，有一個齒狀突起（齒狀突起，odontoid process），是圓圓。佇第一頸椎骨有一個硬閣韌的韌帶，坦橫來連佇第一頸椎骨的兩旁，按呢分第一頸椎……
+> 是一个骨的頭佇相仝這款的榫頭裡咧轉。第一頸椎骨佮第二頸椎骨的中間，有這款的關節。第二頸椎骨的頂面旁，有一个齒狀突起（齒狀突起，odontoid process），是圓圓。佇第一頸椎骨有一个硬閣韌的韌帶，坦橫來連佇第一頸椎骨的兩旁，按呢分第一頸椎……
 
 ---
 
@@ -558,7 +558,7 @@ Tī chhiú-óaⁿ-kut ê tiong-kan, kap chek-kut ê tiong-kan ū kúi-nā ê koa
 
 > **【全漢對照】**
 > **（chh.）微動關節：**
-> 佇手腕骨的中間，佮脊骨的中間有幾若个關節。諸個骨是細塊，伊的運動是淡薄爾定（第 32 圖）。
+> 佇手腕骨的中間，佮脊骨的中間有幾若个關節。諸个骨是細塊，伊的運動是淡薄爾定（第 32 圖）。
 
 ---
 
@@ -624,7 +624,7 @@ Koh kán-séng kì saⁿ ê koan-chat ê kò͘-chō :
 > **【全漢對照】**
 > **40　筋肉系統及關節**
 > 
-> 閣簡省記三個關節的構造：
+> 閣簡省記三个關節的構造：
 
 ---
 
@@ -642,7 +642,7 @@ Koh kán-séng kì saⁿ ê koan-chat ê kò͘-chō :
 **Chhek-koan-chat** (膝關節, *Knee-joint*): Tī kēng-kut ê téng-toan ū n̄g ê koan-chat-o, kap tōa-thúi-kut lāi-gōa koan-chat-khò, saⁿ kau-chiap, chòe chhek-koan-chat (tē 33 tô͘).
 
 > **【全漢對照】**
-> **膝關節**（膝關節，*Knee-joint*）：佇脛骨的頂端有兩個關節窩，及大腿骨內外關節窠，相交接，做膝關節（第 33 圖）。
+> **膝關節**（膝關節，*Knee-joint*）：佇脛骨的頂端有兩个關節窩，及大腿骨內外關節窠，相交接，做膝關節（第 33 圖）。
 
 ---
 

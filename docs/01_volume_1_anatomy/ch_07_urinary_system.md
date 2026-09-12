@@ -39,7 +39,7 @@ Sīn-chōng ū nñg lia̍p, i ê pō͘-ūi sī tī pak-tó͘-āu, chek-chui-kut 
 
 > **【全漢對照】**
 > ### ［腎臟］
-> 腎臟有兩粒，伊的部位是佇腹肚後，脊椎骨的左右彼雙爿，各有蜀粒。長，四寸；闊，兩寸；厚，蜀寸半。蜀粒的重有 225 grms。伊的色是赤紅。外面有蜀重硬閣韌的膜來包咧。內面有動脈、靜脈、神經、微細血管、細尿管，佮特別的絲毬體（絲毬體）叫做 Ma-lu-phi-gi 的小體（第 83 圖）。諸個小體的路用是對血，收無路用的排泄物（排泄物，*excretion*），就是尿。諸個 Ma-lu-phi-gi 的小體，一爿接佇細尿管，一爿是予血管出——
+> 腎臟有兩粒，伊的部位是佇腹肚後，脊椎骨的左右彼雙爿，各有蜀粒。長，四寸；闊，兩寸；厚，蜀寸半。蜀粒的重有 225 grms。伊的色是赤紅。外面有蜀重硬閣韌的膜來包咧。內面有動脈、靜脈、神經、微細血管、細尿管，佮特別的絲毬體（絲毬體）叫做 Ma-lu-phi-gi 的小體（第 83 圖）。諸个小體的路用是對血，收無路用的排泄物（排泄物，*excretion*），就是尿。諸个 Ma-lu-phi-gi 的小體，一爿接佇細尿管，一爿是予血管出——
 
 ---
 
@@ -75,7 +75,7 @@ Tē 82 tô͘.—Pì-jiō-khì ê pō͘-ūi : A, Pak-pō͘-tāi-tōng-me̍h ; V, 
 ji̍p tī sió-thé ê lāi-bīn pìⁿ-chiâⁿ chin chōe ê mn̂g-sòe-huih-kúng, lâi chiâⁿ chòe si-kiû-chōng-huih-kúng (絲毬狀血管, *glomerulus*). Tùi chia, huih pâi-siat jiō, keng-kè sòe-jiō-kúng. Chiah ê sòe-jiō-kúng, āu-lâi sio-ha̍p chòe chi̍p-ha̍p-kúng (集合管, *collecting tubes*); chiah-ê āu-lâi ū piàⁿ-chhut i ê jiō tī sīn-mn̂g (腎門, *hilus of kidney*). Chit ê sīn-mn̂g chiū-sī su-jiō-kúng ê thâu (tē 84, 85 tô͘).
 
 > **【全漢對照】**
-> 入佇小體的內面變成真多的毛細血管，來成做絲毬狀血管（絲毬狀血管，*glomerulus*）。對遮，血排泄尿，經過細尿管。諸個細尿管，後來相合做集合管（集合管，*collecting tubes*）；諸個後來有傾出伊的尿佇腎門（腎門，*hilus of kidney*）。此個腎門就是輸尿管的頭（第 84、85 圖）。
+> 入佇小體的內面變成真多的毛細血管，來成做絲毬狀血管（絲毬狀血管，*glomerulus*）。對遮，血排泄尿，經過細尿管。諸个細尿管，後來相合做集合管（集合管，*collecting tubes*）；諸个後來有傾出伊的尿佇腎門（腎門，*hilus of kidney*）。此个腎門就是輸尿管的頭（第 84、85 圖）。
 
 ---
 
@@ -98,7 +98,7 @@ ji̍p tī sió-thé ê lāi-bīn pìⁿ-chiâⁿ chin chōe ê mn̂g-sòe-huih-k
 Chit ê su-jiō-kúng ū nn̄g tiâu, kok tiâu 12 chhùn chì 16 chhùn tn̂g. Hit ê hêng-chōng chhin-chhiūⁿ gô-si̍t-mn̂g-kúng ê tōa. Chit tiâu kúng tī bô lâu jiō ê tiong-kan, i ê liâm-mo̍h lóng-chóng kiu-óa. Jiō put-sî tùi chiah ê kúng lâu kàu pông-kong-lāi, thèng-hāu hā-chhut.
 
 > **【全漢對照】**
-> 此個輸尿管有兩條，各條 12 寸至 16 寸長。彼個形狀親像鵝翼毛管的大。此條管佇無流尿的中間，伊的粘膜攏總鳩倚。尿不時對諸個管流到膀胱內，聽候下出。
+> 此个輸尿管有兩條，各條 12 寸至 16 寸長。彼个形狀親像鵝翼毛管的大。此條管佇無流尿的中間，伊的粘膜攏總鳩倚。尿不時對諸个管流到膀胱內，聽候下出。
 
 ---
 
@@ -149,7 +149,7 @@ Jiō-tō chiū-sī tùi phông-kong khí, kàu jiō-tō-kháu chí, chit-ê sī 
 
 > **【全漢對照】**
 > **［尿道］**
-> 尿道就是對膀胱起，到尿道口止，這個是膀胱內積聚的尿，欲排出身軀外，所經過的路。女的尿道差不多寸半長，男的差不多八九寸。
+> 尿道就是對膀胱起，到尿道口止，這个是膀胱內積聚的尿，欲排出身軀外，所經過的路。女的尿道差不多寸半長，男的差不多八九寸。
 
 ---
 
@@ -159,7 +159,7 @@ Lūn bô pīⁿ ê lâng ê jiō: Lâng nā bô phòa-pīⁿ, hit ê jiō chiū 
 
 > **【全漢對照】**
 > **［論尿 / 比重］**
-> 論無病的人的尿：人若無破病，彼個尿就較清，色緻黃黃，味會酸，伊的比重（比重，*specific gravity*）有 1015 至 1025。水的重才只有 1000，尿的比重，比水較懸，是因為有彼號幾若款的尿酸鹽類佇咧。平常無病的人的尿佇 1000 *grms.* 的內面有
+> 論無病的人的尿：人若無破病，彼个尿就較清，色緻黃黃，味會酸，伊的比重（比重，*specific gravity*）有 1015 至 1025。水的重才只有 1000，尿的比重，比水較懸，是因為有彼號幾若款的尿酸鹽類佇咧。平常無病的人的尿佇 1000 *grms.* 的內面有
 
 ---
 
@@ -168,7 +168,7 @@ Lūn bô pīⁿ ê lâng ê jiō: Lâng nā bô phòa-pīⁿ, hit ê jiō chiū 
 Tē 85 tô͘.—Chit ê tô͘ sī teh chí-bêng sīn-chōng-lāi ê huih-kńg, kap sè-jiō-kńg : C, phê-chit ê pō͘-ūi, M, chhé-chit ê pō͘-ūi ; B, phê-chit, chhé-chit tiong-kan ê pō͘-ūi. Tô͘ ê chiàⁿ-pêng,—1, sī sè-jiō-kńg-bé, lāi-bīn ū chit lia̍p si-kiû-chōng-huih-kńg ; tùi chia só͘ keng-kè ê lō͘ sī 3, 4, 5, 6, 7, 8-jī sī chip-ha̍p-kńg ; 9, sī jiō jip sīn-mn̂g ê só͘-chāi, chiū-sī tī 84 tô͘ M-jī teh chí-bêng ê pō͘-ūi. Tô͘ ê tò-pêng ū chí-bêng huih-kńg kap sè-jiō-kńg chhin-jia̍t ê kan-sia̍p : ar, sī tōng-me̍h tùi sīn-tōng-me̍h lâi ê chi ; tùi ar, ū hun chi (a) jip sè-jiō-kńg ê bé-liu, tī hia chòe si-kiû-chōng-huih-kńg ; e, sī chēng-me̍h m̂g-sè-huih-kńg, chiah-ê āu-lâi jip V, chiū-sī sīn-chēng-me̍h ê chi (Blackie and Son).
 
 > **【全漢對照】**
-> 第 85 圖。——這個圖是在指明腎臟內的血管，佮細尿管：C，皮質的部位；M，髓質的部位；B，皮質、髓質中間的部位。圖的正手爿，——1，是細尿管尾，內面有一粒絲球狀血管；對遮所經過的路是 3, 4, 5, 6, 7，8 字是集合管；9，是尿入腎門的所在，就是佇 84 圖 M 字在指明的部位。圖的倒手爿有指明血管佮細尿管親熱的干涉：ar，是動脈對腎動脈來的枝；對 ar，有分枝 (a) 入細尿管的尾溜，佇遐做絲球狀血管；e，是靜脈網細血管，諸個後來入 V，就是腎靜脈的枝（Blackie and Son）。
+> 第 85 圖。——這个圖是在指明腎臟內的血管，佮細尿管：C，皮質的部位；M，髓質的部位；B，皮質、髓質中間的部位。圖的正手爿，——1，是細尿管尾，內面有一粒絲球狀血管；對遮所經過的路是 3, 4, 5, 6, 7，8 字是集合管；9，是尿入腎門的所在，就是佇 84 圖 M 字在指明的部位。圖的倒手爿有指明血管佮細尿管親熱的干涉：ar，是動脈對腎動脈來的枝；對 ar，有分枝 (a) 入細尿管的尾溜，佇遐做絲球狀血管；e，是靜脈網細血管，諸个後來入 V，就是腎靜脈的枝（Blackie and Son）。
 
 <!-- Page 118 End -->
 
@@ -211,12 +211,12 @@ Chhut-sì liáu-āu sǹg-khí:
 > 
 > | 時期 | 尿量 |
 > | :--- | :--- |
-> | 頭一個 60 點鐘久。.. | 60 c.c. |
+> | 頭一个 60 點鐘久。.. | 60 c.c. |
 > | 24 點至 48 點。.. | 85 c.c. |
 > | 3 日至 6 日。.. | 150 c.c. |
-> | 7 日至 2 個月日。.. | 150-390 c.c. |
-> | 2 個月日至 6 個月日。.. | 210-480 c.c. |
-> | 6 個月日至 2 年。.. | 240-600 c.c. |
+> | 7 日至 2 个月日。.. | 150-390 c.c. |
+> | 2 个月日至 6 个月日。.. | 210-480 c.c. |
+> | 6 个月日至 2 年。.. | 240-600 c.c. |
 > | 2 年至 5 年。.. | 480-880 c.c. |
 > | 5 年至 8 年。.. | 600-1200 c.c. |
 > | 8 年至 14 年。.. | 900-1440 c.c. |
@@ -228,7 +228,7 @@ Chhut-sì liáu-āu sǹg-khí:
 Jiō ûn-ûn-á chek-chū tī pông-kong-lāi, nā teh-beh chhiong-móa pông-kong-lāi ê ap-le̍k khah tōa; chit ê ap-le̍k chòe chhì-kek (刺戟, *stimulus*); chiah ê chhì-kek kiâⁿ tùi ti-kak-sîn-keng kàu náu. Tùi náu ū chhut nñg hāng ê bēng-lēng, chit hāng sī kàu jiō-tō kap pông-kong ê koat-iok-kun (括約筋, *sphincter*), hō͘ i chhun, chiū-sī khui pông-kong kap jiō-tō ê mn̂g; koh chit hāng sī kàu pông-kong ê kun-bah kah i kiu, hō͘ jiō chhut jiō-tō. Hā liáu, jiō-tō kap pông-kong ê koat-iok-kun ōe kiu, chiū koaiⁿ pông-kong ê mn̂g. Chit ê koat-iok-kun sī pé-siú pông-kong kap jiō-tō tiong-kan ê mn̂g chhun-kiu ê kun.
 
 > **【全漢對照】**
-> 尿勻勻仔積聚佇膀胱內，若欲滿膀胱內的壓力較大；這个壓力做刺戟（*stimulus*）；諸個刺戟行對知覺神經到腦。對腦有出兩項的命令，一項是到尿道佮膀胱的括約筋（*sphincter*），互伊伸，就是開膀胱佮尿道的門；閣一項是到膀胱的筋肉咬（教）伊縮，互尿出尿道。下了，尿道佮膀胱的括約筋會縮，就關膀胱的門。這个括約筋是把守膀胱佮尿道中間的門伸縮的筋。
+> 尿勻勻仔積聚佇膀胱內，若欲滿膀胱內的壓力較大；這个壓力做刺戟（*stimulus*）；諸个刺戟行對知覺神經到腦。對腦有出兩項的命令，一項是到尿道佮膀胱的括約筋（*sphincter*），互伊伸，就是開膀胱佮尿道的門；閣一項是到膀胱的筋肉咬（教）伊縮，互尿出尿道。下了，尿道佮膀胱的括約筋會縮，就關膀胱的門。這个括約筋是把守膀胱佮尿道中間的門伸縮的筋。
 
 ---
 
@@ -300,7 +300,7 @@ Nā khah jo̍ah, chiū pâi-siat jiō khah chió, in-ūi ū chúi tùi lâu kōa
 Jiō ê sek iā ōe piàn khoán. Nā-sī bān-sèng sīn-chōng-iām ê chèng, á-sī thn̂g-jiō-pīⁿ, hit ê sek-tī put-chí chiáⁿ. Kâu ê jiō, sek-tī sī chhim n̂g. Nā jiō-lāi ū huih, sek chiū put-chí âng, á-sī chí-sek. Nā-sī jiō-lāi ū táⁿ ê chit, chiū ōe ū le̍k-sek á-sī chí-sek. Ū ê i̍h iā ōe hō͘ jiō pìⁿ khoán. Lâng nā siū-tio̍h *acidum carbolicum* tiòng-to̍k, jiō chiū pìⁿ o͘ ê sek; nā siū-tio̍h *santonin* ê tiòng-to̍k, jiō chiū tńg put-chí n̂g, chhin-chhiūⁿ kiat-á phê ê sek. Jiō-lāi nā ū lâng, jiō-tóe ōe pe̍h-pe̍h chhin-chhiūⁿ gû-leng.
 
 > **【全漢對照】**
-> 尿的色亦會變款。若是慢性腎臟炎的症，抑是糖尿病，彼個色緻不止汫。稠的尿，色緻是深黃。若尿內有血，色就不止紅，抑是紫色。若是尿內有膽的質，就會有綠色抑是紫色。有的藥亦會互尿變款。人若受到 *acidum carbolicum* 中毒，尿就變烏的色；若受到 *santonin* 的中毒，尿就轉不止黃，親像桔仔皮的色。尿內若有膿，尿底會白白親像牛奶。
+> 尿的色亦會變款。若是慢性腎臟炎的症，抑是糖尿病，彼个色緻不止汫。稠的尿，色緻是深黃。若尿內有血，色就不止紅，抑是紫色。若是尿內有膽的質，就會有綠色抑是紫色。有的藥亦會互尿變款。人若受到 *acidum carbolicum* 中毒，尿就變烏的色；若受到 *santonin* 的中毒，尿就轉不止黃，親像桔仔皮的色。尿內若有膿，尿底會白白親像牛奶。
 
 ---
 
@@ -515,7 +515,7 @@ Góa siat-sú chòe sian-ti bêng-pe̍k lóng-chóng ê ò-biāu kap lóng-chón
 sek pe̍h-pe̍h. Nā chiong jiō hang hō͘ jia̍t, á-sī ke *ether*, á-sī *alcohol*, hit ê pe̍h-sek chiū hòa-khì, chóng-sī nñg-pe̍h-chit bōe hòa-khì. Nā-sī ū lâng tī jiō-lāi, ū chi̍t chōa chí-sek ê sòaⁿ keh-teh.
 
 > **【全漢對照】**
-> 色白白。若將尿烘互熱，抑是加 *ether*，抑是 *alcohol*，彼個白色就化去，總是卵蛋白質袂化去。若是有人佇尿內，有一捾紫色的線隔咧。
+> 色白白。若將尿烘互熱，抑是加 *ether*，抑是 *alcohol*，彼个白色就化去，總是卵蛋白質袂化去。若是有人佇尿內，有一捾紫色的線隔咧。
 
 ---
 
@@ -551,7 +551,7 @@ sek pe̍h-pe̍h. Nā chiong jiō hang hō͘ jia̍t, á-sī ke *ether*, á-sī *a
 5. Chhì-giām-kńg ti̍oh kia̍h hō͘ chhiâ-chhiâ, chiong jiō ê téng-bīn hang hō͘ kún. Nā-sī ū thng-chit tī-teh,
 
 > **【全漢對照】**
-> ### 閣一個試糖的法就是 *Trommer's test*（特羅默爾氏試驗）：
+> ### 閣一个試糖的法就是 *Trommer's test*（特羅默爾氏試驗）：
 > **〔旁註：Trommer氏法〕**
 > 1. 將尿貯佇試驗管內，有兩寸的高。
 > 2. 佇尿的頂面傾三分的 *caustic potash*。
@@ -615,7 +615,7 @@ Kiám jiō-lāi lâng ê hoat :
 > 驗尿內膿的法：  
 > 1. 傾尿佇試驗管內有一寸的高。  
 > 2. 若是有膿佇咧，加添 *tincture guaiaci* 的時，有綠色佇咧；烘互燒就會化去。  
-> 3. 若有膿佇咧會沉下底。頂面的尿著傾拺閣。用彼個猶久佇試驗管內的尿來驗。加添 *liquor potassae*（氫氧化鉀液），若管內的尿變黏黏就是有膿佇咧。
+> 3. 若有膿佇咧會沉下底。頂面的尿著傾拺閣。用彼个猶久佇試驗管內的尿來驗。加添 *liquor potassae*（氫氧化鉀液），若管內的尿變黏黏就是有膿佇咧。
 
 ---
 
@@ -664,7 +664,7 @@ Jiō-tóe khòaⁿ ōe ti̍h ê mi̍h hún-âng sek, chiū-sī jiō-sng-iâm (�
 > 檢尿酸鹽的法：  
 > 尿底看會著的物粉紅色，就是尿酸鹽（尿酸鹽，*urates*）。佇厚的尿內較常看見。  
 > 1. 傾尿佇管內有兩寸的高。  
-> 2. 烘予燒。彼個紅若化無去會通光，就是尿酸鹽（*urates*）。  
+> 2. 烘予燒。彼个紅若化無去會通光，就是尿酸鹽（*urates*）。  
 
 ---
 

@@ -45,7 +45,7 @@ Huih sī sin-thé-lāi chòe iàu-kín ê e̍k, in-ūi chit hō sī pôe-iúⁿ 
 5. Huih ē pôe-iúⁿ sin-thé ê chôaⁿ-thé (腺體, glands). Chiah ê chôaⁿ-thé ū-ê siⁿ hun-pì-mi̍h (分泌物, secretion) lâi pang-chān si̍t-bu̍t siau-hòa ; ū-ê hun-pì pa̍t khoán ê hun-pì-mi̍h.
 
 > **【全漢對照】**
-> 5. 血會培養身體的腺體（腺體，glands）。諸個腺體有的生分泌物（分泌物，secretion）來幫助食物消化；有的分泌別款的分泌物。
+> 5. 血會培養身體的腺體（腺體，glands）。諸个腺體有的生分泌物（分泌物，secretion）來幫助食物消化；有的分泌別款的分泌物。
 
 ---
 
@@ -114,7 +114,7 @@ Tē 49 tô͘.—1, huih-chiuⁿ; 2, pe̍h-huih-kiû; 3, chhiah-huih-kiû. Tio̍h
 Chiong huih ēng hián-bî-kiàⁿ lâi khòaⁿ, chiū chai huih-lāi ū chin chōe ê huih-kiû (血球, *blood corpuscles*), kap hit hō khah chheng ê chiap, kiò-chòe huih-chiuⁿ (血漿), á-sī huih-chiap (*blood plasma*). Huih-kiû ū nñg chéng, chi̍t chéng chhiah-sek, chi̍t chéng pe̍h-sek (tē 50 tô͘). Chiah ê huih-kiû sī put-chí sòe ê mi̍h, îⁿ-îⁿ píⁿ-píⁿ, chhiah-ê tiong-ng khah thap. Chhiah-kiû ê tōa, ti̍t-kèng sī 0.0075 *cubic millimeters*. Siat-sú hiah ê kiû ōe pâi chòe chi̍t chōa, kàu ū Eng-kok chi̍t chhùn tn̂g, tio̍h 3,200 lia̍p kiû. Chi̍t tih-á huih iok-liók ū chi̍t pah bān lia̍p huih-kiû.
 
 > **【全漢對照】**
-> 將血用顯微鏡來看，就知道血內有真多的血球（血球，*blood corpuscles*），及彼號較清的汁，叫做血漿（血漿），抑是血汁（*blood plasma*）。血球有兩種，一種赤色，一種白色（第 50 圖）。諸個血球是不止細的物，圓圓扁扁，赤的中央較塌。赤球的大，直徑是 0.0075 *cubic millimeters*。設使彼個球會排做一條，到有英國一寸長，著 3,200 粒球。一點仔血約略有一百萬粒血球。
+> 將血用顯微鏡來看，就知道血內有真多的血球（血球，*blood corpuscles*），及彼號較清的汁，叫做血漿（血漿），抑是血汁（*blood plasma*）。血球有兩種，一種赤色，一種白色（第 50 圖）。諸个血球是不止細的物，圓圓扁扁，赤的中央較塌。赤球的大，直徑是 0.0075 *cubic millimeters*。設使彼个球會排做一條，到有英國一寸長，著 3,200 粒球。一點仔血約略有一百萬粒血球。
 
 ---
 
@@ -156,7 +156,7 @@ Tē 50 tô͘.—Huih, hián-bî-kiàⁿ 350 pē khok-tōa : a, chhiah-huih-kiû,
 Khàn-hō͘ sî-siông chù-ì khòaⁿ ōe ke-thiⁿ kiàn-sek.
 
 > **【全漢對照】**
-> 看護時常注意看會加添見識。
+> 看護時常注意看會加添見色。
 
 <!-- Page 076 End -->
 
@@ -203,7 +203,7 @@ Huih ū nn̄g khoán. Hit hō huih tùi sim ê chó-sek chhut tī tāi-tōng-me�
 *(邊欄：Huih ū nn̄g khoán / Tōng-me̍h-huih / Chēng-me̍h-huih)*
 
 > **【全漢對照】**
-> 血有兩種。彼號血對心兮左室出佇大動脈流行到身軀，是清氣兮血，有酸素佇伊兮內面；此號血叫做動脈血。也血若已經有養飼身軀，欲倒轉來到心及肺臟，是污穢兮血，叫做靜脈血。此個是紫色兮血，因為有炭酸佇內面。  
+> 血有兩種。彼號血對心兮左室出佇大動脈流行到身軀，是清氣兮血，有酸素佇伊兮內面；此號血叫做動脈血。也血若已經有養飼身軀，欲倒轉來到心及肺臟，是污穢兮血，叫做靜脈血。此个是紫色兮血，因為有炭酸佇內面。  
 > *（邊欄：血有兩種 / 動脈血 / 靜脈血）*
 
 ---
@@ -221,7 +221,7 @@ Huih nā lâu-chhut seng-khu ê gōa-bīn, chiū chiām-chiām gêng chiâⁿ ku
 *(邊欄：Huih-tè / Chhiam-î-sò͘ / Huih-chheng)*
 
 > **【全漢對照】**
-> 血若流出身軀兮外面，就漸漸凝成歸塊；是因為血漿內有纖維素（*fibrin*）佇咧（第 51 圖），——離身軀就變結成歸塊，叫做血塊。所賰兮親像水，叫做血清（血清，*serum*）。此個血塊是真要緊兮用處；就是人若受傷兮時，血流出見著空氣，就變成血塊，來塞血管，予伊袂流；若無，雖然傷喙是細，伊兮血若不時流，就致到死。  
+> 血若流出身軀兮外面，就漸漸凝成歸塊；是因為血漿內有纖維素（*fibrin*）佇咧（第 51 圖），——離身軀就變結成歸塊，叫做血塊。所賰兮親像水，叫做血清（血清，*serum*）。此个血塊是真要緊兮用處；就是人若受傷兮時，血流出見著空氣，就變成血塊，來塞血管，予伊袂流；若無，雖然傷喙是細，伊兮血若不時流，就致到死。  
 > *（邊欄：血塊 / 纖維素 / 血清）*
 
 ---
@@ -291,10 +291,10 @@ Hō͘ huih bōe-ōe gêng kui tè, hit ê goân-in chhin-chhiūⁿ ē-bīn :
 > **【全漢對照】**
 > #### ［邊註：血袂凝規塊的原因］
 > 
-> 予血袂會凝規塊，彼個原因親像下面：
+> 予血袂會凝規塊，彼个原因親像下面：
 > 1. 血拄著冷。
 > 2. 血囥佇活的血管。
-> 3. 血參特別的鹽來做堆，親像 *sodii sulphas* 抑是平常的鹽，彼個血較袂凝咧。血恬恬凝咧的款式，有排列佇下底：
+> 3. 血參特別的鹽來做堆，親像 *sodii sulphas* 抑是平常的鹽，彼个血較袂凝咧。血恬恬凝咧的款式，有排列佇下底：
 
 ---
 
@@ -429,7 +429,7 @@ Huih-kúng ū saⁿ khoán :
 Tē 52 tô͘.—Tōng-me̍h kap chēng-me̍h-kúng hoâiⁿ-tūg-bīn, 350 pē khok-tōa : a, tōng-me̍h ; e, ū sòe-pau-hu̍t ê lāi-mo̍͘h ; ch, tân-le̍k-cho͘-chit ; m, tiong-mo̍͘h chiū-sī put-sūi-ì-kun cho͘-chit ; chh, sòe-pau-hu̍t ; a, gōa-mo̍͘h ; chit ê gōa-mo̍͘h sī kiat-tè-chit, kap chēng-me̍h, tōng-me̍h-tiong ê kiat-tè-chit a, saⁿ-liân ; n, kiat-tè-chit-sòe-pau-hu̍t ; V, chēng-me̍h, khah po̍h ê lāi-mo̍͘h-ê ; m, tiong-mo̍͘h, chiū-sī khah po̍h, kúi-nā tiâu put-sūi-ì-kun-cho͘-chit. (After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
 
 > **【全漢對照】**
-> 第 52 圖。——動脈及靜脈管橫斷面，350 倍擴大：a，動脈；e，有細胞核的內膜；ch，彈力組織；m，中膜就是不隨意筋組織；chh，細胞核；a，外膜；這個外膜是結締織，及靜脈、動脈中的結締織 a，相連；n，結締織細胞核；V，靜脈，較薄的內膜的；m，中膜，就是較薄，幾若條不隨意筋組織。(After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
+> 第 52 圖。——動脈及靜脈管橫斷面，350 倍擴大：a，動脈；e，有細胞核的內膜；ch，彈力組織；m，中膜就是不隨意筋組織；chh，細胞核；a，外膜；這个外膜是結締織，及靜脈、動脈中的結締織 a，相連；n，結締織細胞核；V，靜脈，較薄的內膜的；m，中膜，就是較薄，幾若條不隨意筋組織。(After Klein & Noble Smith, from Gray's “ Anatomy,” by permission of Longmans, Green & Co., publishers.)
 
 ---
 
@@ -468,7 +468,7 @@ Chiah ê chēng-mėh, ū-ê ū piān-mó͘h (瓣膜) tī lāi-bīn; i ê chok-i�
 
 > **【全漢對照】**
 > **［靜脈瓣］**
-> 諸個靜脈，有的有瓣膜（瓣膜）佇內面；它的作用是欲幫贊靜脈血欲上來歸心ê時，予它自己的重𣍐墜落，也予血𣍐退去。這個膜叫做靜脈瓣（靜脈瓣，*valves in veins*；第 53 圖）。
+> 諸个靜脈，有的有瓣膜（瓣膜）佇內面；它的作用是欲幫贊靜脈血欲上來歸心ê時，予它自己的重𣍐墜落，也予血𣍐退去。這个膜叫做靜脈瓣（靜脈瓣，*valves in veins*；第 53 圖）。
 
 ---
 
@@ -489,7 +489,7 @@ Lán ti̍h ōe-kì-tit tī hì-tōng-mėh ê lāi-bīn sī ù-òe ê huih, iā t
 > **［毛細血管］**
 > 3. 第三是第一細ê血管叫毛細血管（毛細血管，*capillaries*）。佇這內面血ê壓力是低，循環平平向倚心彼面（第 54, 55, 56 圖）。
 > 
-> 咱著會記得佇肺動脈ê內面是污穢ê血，也佇肺靜脈，雖罔是靜脈，唔過有清氣ê血。這個是例外，因為身軀內ê靜脈內有污穢ê血，干焦肺靜脈內ê血是清氣。
+> 咱著會記得佇肺動脈ê內面是污穢ê血，也佇肺靜脈，雖罔是靜脈，唔過有清氣ê血。這个是例外，因為身軀內ê靜脈內有污穢ê血，干焦肺靜脈內ê血是清氣。
 
 ---
 
@@ -560,14 +560,14 @@ Ta-pó-lâng ê sim, sêng-teng ê sî-chūn, tāng ū 300.0 grms., cha-bó-lân
 Sim ê thé chiū-sī put-sûi-ì-kun (不隨意筋) só͘ chiâⁿ-ê. [Sim-kun-bah] Put-sûi-ì-kun chiū-sī lâng só͘ bōe-ōe koán-hat-tit ê kun-bah. Sim ê kun-bah hit tiong-ng ū chi̍t têng khiā piah, [Khiā-piah] chiong sim hun chòe chó-iū nn̄g pêng; iā ū thán-hoâiⁿ ê piah, [Thán-hoâiⁿ-piah] chiong sim hun chòe téng-ē. Chit téng-bīn ê só͘-chāi kiò-chòe pông (房, *auricle*), [Pông] ē-bīn-ê kiò-chòe sek (室, *ventricle*). [Sek] Só͘-í sim-lāi ū pông, kap sek, miâ kiò chó-pông, chó-sek, iū-pông, iū-sek (tē 57 tô͘). Chó-pông, chó-sek ōe saⁿ thong, iū-pông, iū-sek iā saⁿ thong, m̄-kú chó-iū bô saⁿ thong. Iū-pông sī chiap tī siōng-tāi-chēng-me̍h kap hā-tāi-chēng-me̍h ê só͘-chāi. Chiah ê siōng-hā tāi-chēng-me̍h ê huih sī tùi thong seng-khu ūn-hêng lâi-ê.
 
 > **【全漢對照】**
-> 心的體就是不隨意筋（不隨意筋）所成的。〔心筋肉〕不隨意筋就是人所袂會管轄得的筋肉。心的筋肉彼中間有一層豎壁，〔豎壁〕將心分做左右兩爿；亦有誕橫的壁，〔誕橫壁〕將心分做等下。這頂面的所在叫做房（房，*auricle*），〔房〕下面的叫做室（室，*ventricle*）。〔室〕所以心內有房，佮室，名叫左房、左室、右房、右室（第 57 圖）。左房、左室會相通，右房、右室亦相通，毋過左右無相通。右房是接佇上大靜脈佮下大靜脈的所在。諸個上下大靜脈的血是對通身軀運行來的。
+> 心的體就是不隨意筋（不隨意筋）所成的。〔心筋肉〕不隨意筋就是人所袂會管轄得的筋肉。心的筋肉彼中間有一層豎壁，〔豎壁〕將心分做左右兩爿；亦有誕橫的壁，〔誕橫壁〕將心分做等下。這頂面的所在叫做房（房，*auricle*），〔房〕下面的叫做室（室，*ventricle*）。〔室〕所以心內有房，佮室，名叫左房、左室、右房、右室（第 57 圖）。左房、左室會相通，右房、右室亦相通，毋過左右無相通。右房是接佇上大靜脈佮下大靜脈的所在。諸个上下大靜脈的血是對通身軀運行來的。
 
 ---
 
 Iū-pông kap iū-sek ê tiong-kan ū chi̍t ê sè-sòe ê khang sio-thàu-teh. [Iū-pông iū-sek] Ū saⁿ ia̍p ê mo̍h, chhin-chhiūⁿ mn̂g
 
 > **【全漢對照】**
-> 右房佮右室的中間有一個細細的空相透咧。〔右房右室〕有三葉的膜，親像門
+> 右房佮右室的中間有一个細細的空相透咧。〔右房右室〕有三葉的膜，親像門
 
 ---
 
@@ -597,7 +597,7 @@ Pīⁿ-lâng nā put-séng-jîn-sū, tiòh chim-chiok sūn khoàⁿ pông-kng ū
 lâi chòe-chiâⁿ--ê. Ta̍k ê mn̂g ē-tóe ū kúi-nā tiâu ê kun, pa̍k liân tī sim-sek (心室) ê piah (tē 57 tô͘). Hiah ê kun
 
 > **【全漢對照】**
-> 來做成--ê。逐個門下底有幾若條的筋，縛連佇心室（心室）的壁（第 57 圖）。遐的筋
+> 來做成--ê。逐个門下底有幾若條的筋，縛連佇心室（心室）的壁（第 57 圖）。遐的筋
 
 ---
 
@@ -616,7 +616,7 @@ lâi chòe-chiâⁿ--ê. Ta̍k ê mn̂g ē-tóe ū kúi-nā tiâu ê kun, pa̍k 
 
 > **【全漢對照】**
 > **［三尖瓣孔佮三尖瓣］**  
-> 的路用，是欲互諸個三葉關咁好。這個孔叫做三尖瓣孔，也諸個咧開關的葉，叫做三尖瓣（三尖瓣，*tricuspid valve*）。血若是對右房入右室，彼個三尖瓣就開。右室一下縮，彼個三尖瓣就
+> 的路用，是欲互諸个三葉關咁好。這个孔叫做三尖瓣孔，也諸个咧開關的葉，叫做三尖瓣（三尖瓣，*tricuspid valve*）。血若是對右房入右室，彼个三尖瓣就開。右室一下縮，彼个三尖瓣就
 
 ---
 
@@ -648,7 +648,7 @@ Pīⁿ-lâng nā m̄-chia̍h mi̍h, tio̍h khó͘-khǹg i chia̍h.
 koaiⁿ, só͘-í huih bōe koh lâu tò-tńg-khì. Iū-sek ū koh chi̍t ê khang, miâ kiò hì-tāi-tōng-me̍h-khang. Iū-sek nā chi̍t-ē kiu, chiong huih sak ji̍p hì-tāi-tōng-me̍h, tùi hì-tāi-tōng-me̍h pun chòe nn̄g tiâu ji̍p tī hì (tē 58 tô͘). Iū-sek ê huih ji̍p hì-tāi-tōng-me̍h, iā bōe-ōe lâu tò-tńg-khì, in-ūi tī hì-tāi-tōng-me̍h-khang ê só͘-chāi ū saⁿ ia̍p po̍h-po̍h ê mo̍h chhin-chhiūⁿ pòaⁿ ge̍h ê khoán, kiò-chòe hì-tāi-tōng-me̍h- poàn-goa̍t-piān (半月瓣, semilunar valves). I ê khoán-sit sī chhin-chhiūⁿ saⁿ ê lak-tē-á.
 
 > **【全漢對照】**
-> 關，所以血袂閣流倒轉去。右室有閣一个孔，名叫肺大動脈孔。右室若一下縮，將血捒入肺大動脈，對肺大動脈分做兩條入佇肺（第 58 圖）。右室的血入肺大動脈，也袂會流倒轉去，因為佇肺大動脈孔的所在有三葉薄薄的膜親像半月的款，叫做肺大動脈半月瓣（半月瓣，semilunar valves）。伊的款式是親像三個橐袋仔。
+> 關，所以血袂閣流倒轉去。右室有閣一个孔，名叫肺大動脈孔。右室若一下縮，將血捒入肺大動脈，對肺大動脈分做兩條入佇肺（第 58 圖）。右室的血入肺大動脈，也袂會流倒轉去，因為佇肺大動脈孔的所在有三葉薄薄的膜親像半月的款，叫做肺大動脈半月瓣（半月瓣，semilunar valves）。伊的款式是親像三个橐袋仔。
 
 ---
 
@@ -665,7 +665,7 @@ HTCM, hā-tāi-chēng-me̍h; STCM, siōng-tāi-chēng-me̍h; IP, iū-pông; 4, s
 Chó-pông ê huih sī tùi hì lâi. Chó-pông kap chó-sek sio-thàu. Tī chit ê khang ū mn̂g, nn̄g ia̍p ê mo̍h, lâi chòe-chiâⁿ-ê. Ta̍k-ê mn̂g-ē-tóe ū kun, pa̍k liân tī sim-sek ê piah, chhin-chhiūⁿ tī iū-pêng. Chit ê khang kiò-chòe cheng-bō-piān-khang; iā chiah ê ia̍p kiò-chòe nn̄g-chiam-piān, á-sī cheng-bō-piān (僧帽瓣, mitral valve).
 
 > **【全漢對照】**
-> 左房的血是對肺來。左房佮左室相透。佇这个孔有門，兩葉的膜，來做成的。逐个門下底有筋，縛連佇心室的壁，親像佇右爿。这个孔叫做僧帽瓣孔；也諸個葉叫做兩尖瓣，抑是僧帽瓣（僧帽瓣，mitral valve）。
+> 左房的血是對肺來。左房佮左室相透。佇这个孔有門，兩葉的膜，來做成的。逐个門下底有筋，縛連佇心室的壁，親像佇右爿。这个孔叫做僧帽瓣孔；也諸个葉叫做兩尖瓣，抑是僧帽瓣（僧帽瓣，mitral valve）。
 
 ---
 
@@ -760,7 +760,7 @@ Huih tùi hì jip sim ê chó-pông, kè chó-sek, koh chhut tāi-tōng-me̍h s�
 > **【全漢對照】**
 > 血咧流行有分做三段：*（邊註：血循環三段）*
 > 一、第一，是通身軀的血運行。
-> 血對肺入心的左房，過左室，閣出大動脈續運行佇身體逐所在，後來過毛細管，才入靜脈，到心的右房，過右室。這個號做全身循環（全身循環，systemic circulation），抑是大循環。*（邊註：全身循環）*
+> 血對肺入心的左房，過左室，閣出大動脈續運行佇身體逐所在，後來過毛細管，才入靜脈，到心的右房，過右室。這个號做全身循環（全身循環，systemic circulation），抑是大循環。*（邊註：全身循環）*
 
 ---
 
@@ -769,7 +769,7 @@ Huih tùi sim ê iū-sek chhut hì-tāi-tōng-me̍h, chiah tùi hì-chēng-me̍h
 
 > **【全漢對照】**
 > 二、第二，是肺血運行。
-> 血對心的右室出肺大動脈，才對肺靜脈閣入心的左房，號做肺循環（肺循環，pulmonary circulation），抑是小循環。較詳細來講：肺大動脈是對心右室起分做兩杈，入佇左右的肺內。佇肺的內面閣分做真多細條杈，諸個閣分做閣較細條，成做毛細血管。諸個毛細管閣相合變成分靜脈，閣合成做肺靜脈（肺靜脈，pulmonary veins），左邊兩條，右邊亦兩條，才將血送到佇心的左房。*（邊註：肺循環）*
+> 血對心的右室出肺大動脈，才對肺靜脈閣入心的左房，號做肺循環（肺循環，pulmonary circulation），抑是小循環。較詳細來講：肺大動脈是對心右室起分做兩杈，入佇左右的肺內。佇肺的內面閣分做真多細條杈，諸个閣分做閣較細條，成做毛細血管。諸个毛細管閣相合變成分靜脈，閣合成做肺靜脈（肺靜脈，pulmonary veins），左邊兩條，右邊亦兩條，才將血送到佇心的左房。*（邊註：肺循環）*
 
 ---
 
@@ -783,7 +783,7 @@ III. Tē saⁿ, sī pak-tó-lāi ê chēng-me̍h-huih keng-kè koaⁿ-chōng ê 
 Tùi pak-pō͘-tōng-me̍h hun chi kàu ūi, pî, tńg, koaⁿ, chôaⁿ-thé, chiah ê tōng-me̍h pun chòe m̂g-sòe-huih-kńg ; chit kúi-nā ūi ê huih, tāi-seng keng-kè i só͘ beh iúⁿ-chhī ê só͘-chāi ; āu-lâi tùi m̂g-sòe-huih-kńg thong kè sió-chēng-me̍h, chiah ê chèng sió-chēng-me̍h kap chòe chi̍t-ê, chiah...
 
 > **【全漢對照】**
-> 對腹部動脈分支到胃、脾、腸、肝、腺體，諸個動脈分做毛細血管；這幾若位的血，代先經過伊所欲養飼的所在；後來對毛細血管通過小靜脈，諸個眾小靜脈合做一個，才……
+> 對腹部動脈分支到胃、脾、腸、肝、腺體，諸个動脈分做毛細血管；這幾若位的血，代先經過伊所欲養飼的所在；後來對毛細血管通過小靜脈，諸个眾小靜脈合做一个，才……
 
 ---
 
@@ -1011,7 +1011,7 @@ Tē 62 tô͘.—Chêng-phok-tōng-me̍h kái-phò tô͘ : Âng-sek-ê lóng sī 
 Chēng-me̍h pí tông-me̍h sī khah chōe koh tōa. Nā-sī chēng-me̍h siū-siong phòa--lih, huih lâu sī bān-bān. Siat-sú tông-me̍h siū-siong, hit ê huih chiū chhì-chhì chōaⁿ, tit-ti̍t lâu--chhut-lâi. Tē 63 tô͘ sī chiàⁿ-chhiú chêng bīn ê phê-ē-chēng-me̍h.
 
 > **【全漢對照】**
-> 靜脈比動脈是較多閣大。若是靜脈受傷破--哩，血流是慢慢。設使動脈受傷，彼個血就刺刺湶，直直流--出來。第 63 圖是正手前面（前側）的皮下靜脈。
+> 靜脈比動脈是較多閣大。若是靜脈受傷破--哩，血流是慢慢。設使動脈受傷，彼个血就刺刺湶，直直流--出來。第 63 圖是正手前面（前側）的皮下靜脈。
 
 ---
 
@@ -1043,7 +1043,7 @@ Lūn sim-chōng ūn-tōng, sim-chiam phok-tōng: Sim kiu ê sî hoat-chhut sim-c
 Sim-chōng siông-siông teh chhun kiu. Tùi chhut-sì kàu sí, sim put-sî teh phok, lóng bô thêng chi̍t-khek-á-kú; sim nā hioh, lâng chiū sí. Sim teh tín-tāng ê hoat-tō͘ sī tiāⁿ-tio̍h; nn̄g ê phong tāi-seng kiu chi̍t-ē, jiân-āu nn̄g-ê sek chiah kiu, chiū hioh-khùn chi̍t-tiap-á-kú, sûi-sî chiū koh kiu chi̍t-ē; iu-goân sī tùi phong tāi-seng, jiāu-ān tùi sek. Sim lióng pêng ê phong kiu-óa ê sî, piān-mó̍h khui, chiū chiong huih sak ji̍p chó-iū ê sek. Sim chó-phong ê huih sī tùi siang pêng ê hì lâi; sim iū-phong ê huih, sī tùi seng-khu ta̍k só͘-chāi lâi. Sim lióng pêng ê sek iā kiu-óa ê sî, iū-sek ê saⁿ-chiam-piān (三尖瓣) chó-sek ê cheng-bō-piān (僧帽瓣) chiū koaiⁿ óa-lâi, hō͘ huih bē koh lâu tò-tńg-khì. Só͘-í iū-sek ê huih hō͘ i sak chhut ji̍p tī hì-tāi-tōng-me̍h, chó-sek ê huih iā hō͘ i sak chhut ji̍p tī tāi-tōng-me̍h. Huih í-keng chhut chit nn̄g só͘-chāi, tāi-tōng-me̍h kap hì-tāi-tōng-me̍h, ê poàn-goa̍t-piān chiū koaiⁿ, hō͘ hiah-ê huih bē koh lâu tò-tńg-khì; jiân-āu tōng-me̍h iā kiu-óa, sak hit ê huih hō͘ i kiâⁿ chìn-chêng.
 
 > **【全漢對照】**  
-> 心臟常常咧伸搐。對出世到死，心不時咧搏，攏無停一刻仔久；心若歇，人就死。心咧振動的法度是定著；兩個房代先搐一下，然後兩個室才搐，就歇睏一霎仔久，隨時就閣搐一下；依然是對房代先，然後對室。心兩爿的房搐倚的時，瓣膜開，就將血捒入左右的室。心左房的血是對雙爿的肺來；心右房的血，是對身軀逐所在來。心兩爿的室也搐倚的時，右室的三尖瓣、左室的僧帽瓣就關倚來，互血袂閣流倒轉去。所以右室的血互伊捒出入佇肺大動脈，左室的血也互伊捒出入佇大動脈。血已經出此兩所在，大動脈佮肺大動脈，的半月瓣就關，互遐的血袂閣流倒轉去；然後動脈也搐倚，捒彼個血互伊行進前。
+> 心臟常常咧伸搐。對出世到死，心不時咧搏，攏無停一刻仔久；心若歇，人就死。心咧振動的法度是定著；兩个房代先搐一下，然後兩个室才搐，就歇睏一霎仔久，隨時就閣搐一下；依然是對房代先，然後對室。心兩爿的房搐倚的時，瓣膜開，就將血捒入左右的室。心左房的血是對雙爿的肺來；心右房的血，是對身軀逐所在來。心兩爿的室也搐倚的時，右室的三尖瓣、左室的僧帽瓣就關倚來，互血袂閣流倒轉去。所以右室的血互伊捒出入佇肺大動脈，左室的血也互伊捒出入佇大動脈。血已經出此兩所在，大動脈佮肺大動脈，的半月瓣就關，互遐的血袂閣流倒轉去；然後動脈也搐倚，捒彼个血互伊行進前。
 
 ---
 
@@ -1102,7 +1102,7 @@ chiū-sī chēng-me̍h-huih, in-ūi ū thòaⁿ-sng; chit hō thòaⁿ-sng sī t
 **Me̍h-phok**　Lūn me̍h: Tng sim-sek kiu hit-sî liáu-āu, piàn seng-khu ê tōng-me̍h ū huih chhiong-móa, só͘-í sio-sòa tín-tāng, i ê kín-bān sī kap sim ê tín-tāng sìo-tâng. Ū só͘-chāi hit-ê tōng-me̍h phû khah chhut tī phê ē-tóe, hit só͘-chāi nā bong ōe chai teh khí-lo̍h, teh tín-tāng. Chhiú-óaⁿ ê piⁿ, tī jiâu-kut ē-toan ê só͘-chāi kap pìn-piⁿ, ōe bong me̍h, chai i ê khí-lo̍h sī kap sim ê chhun kiu saⁿ chiap-sòa chòe. Me̍h khah kūn tī sim, chiū khah tāi-seng tè i khí-lo̍h, lī sim khah hñg, chiū khah lō-bé tè i khí-lo̍h.
 
 > **【全漢對照】**
-> **脈搏**　論脈：當心室縮彼時了後，遍身軀的動脈有血充滿，所以相續振動，伊的緊慢是佮心的振動相同。有所在彼個動脈浮較出佇皮下底，彼所在若摸會知佇咧起落，佇咧振動。手腕的邊，佇橈骨下端的所在佮鬢邊，會摸脈，知伊的起落是佮心的伸縮相接續做。脈較近佇心，就較代先綴伊起落，離心較遠，就較落尾綴伊起落。
+> **脈搏**　論脈：當心室縮彼時了後，遍身軀的動脈有血充滿，所以相續振動，伊的緊慢是佮心的振動相同。有所在彼个動脈浮較出佇皮下底，彼所在若摸會知佇咧起落，佇咧振動。手腕的邊，佇橈骨下端的所在佮鬢邊，會摸脈，知伊的起落是佮心的伸縮相接續做。脈較近佇心，就較代先綴伊起落，離心較遠，就較落尾綴伊起落。
 
 ---
 
@@ -1120,7 +1120,7 @@ chiū-sī chēng-me̍h-huih, in-ūi ū thòaⁿ-sng; chit hō thòaⁿ-sng sī t
 Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，通入你的主人的快樂（馬太 25：21）。
+> 好閣盡忠的奴僕，你佇少个已經盡忠，通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 092 End -->
 
@@ -1135,7 +1135,7 @@ Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong, thang 
 khoàⁿ sim teh phok, sui-jiân ū kín-bān ê hun-piat, iáu-kú lóng bô thêng. Siat-sú chi̍t lâng ê sim tín-tāng, chi̍t hun ê tiong-kan sī phok 70 pái, chiū-sī chi̍t ji̍t 10,0800 pái, ta̍k nî chiū phok 3679,2000 pái. Sûi-jiân phok kàu hiah chōe pái, iáu-kú lóng bô siān.
 
 > **【全漢對照】**  
-> 看心咧撲，雖然有緊慢的分別，猶久攏無停。設使一個人的心振動，一分的中間是撲 70 擺，就是一日 100,800 擺，逐年就撲 36,792,000 擺。雖然撲到遐儕擺，猶久攏無倦。
+> 看心咧撲，雖然有緊慢的分別，猶久攏無停。設使一个人的心振動，一分的中間是撲 70 擺，就是一日 100,800 擺，逐年就撲 36,792,000 擺。雖然撲到遐儕擺，猶久攏無倦。
 
 ---
 
@@ -1144,7 +1144,7 @@ khoàⁿ sim teh phok, sui-jiân ū kín-bān ê hun-piat, iáu-kú lóng bô th
 Ū-sî lâng kóng, sim lóng bô hioh-khùn; chit ê tāi-chì nā siông-sè lâi kóng-khí, iā ē chai sim ū iáⁿ ū hioh-khùn ê sî-chūn.
 
 > **【全漢對照】**  
-> 有時人講，心攏無歇睏；此個代誌若詳細來講起，亦會知心有影有歇睏的時陣。
+> 有時人講，心攏無歇睏；此个代誌若詳細來講起，亦會知心有影有歇睏的時陣。
 
 ---
 
@@ -1159,7 +1159,7 @@ Sim-sûn-khoân ê sî-kî sī chiàu ē-tóe :
 Tī $\frac{8}{10}$ biáu ê tiong-kan pông ū hioh chi̍t pòaⁿ khah ke, sek ū hioh chi̍t pòaⁿ, só͘-í tī 60 biáu ê tiong-kan, sim ū hioh 30 biáu khah ke. Tī chi̍t tiám-cheng-kú, sim ū hioh 30 hun khah ke, tī kui ji̍t, sim ū hioh 12 tiám-cheng-kú khah ke. Só͘-í tùi án-ni lâi khoàⁿ, sim ū chòe kang, iā ū hioh-khùn.
 
 > **【全漢對照】**  
-> 心咧撲，對房縮，到第二擺縮，算是心的循環。此個循環一擺的時間是一秒的十分八的久。  
+> 心咧撲，對房縮，到第二擺縮，算是心的循環。此个循環一擺的時間是一秒的十分八的久。  
 > 心循環的時期是照下底：  
 > &emsp；&emsp；心的循環 ． ． $\frac{8}{10}$ 秒  
 > &emsp；&emsp；房縮 ． ． ． $\frac{1}{10}$ 〃  
@@ -1179,7 +1179,7 @@ Tī chia beh kán-séng lâi kóng-khí thai-jî huih-e̍k ê sûn-khoân (tē 6
 > **【全漢對照】**  
 > 佇遮欲簡省來講起胎兒血液的循環（第 64, 65 圖）。有幾若項著會記得：  
 > 1. 胎兒得到養飼，是對胎盤內的血，就是對老母的血才來。  
-> 2. 此個胎盤的作用，是對老母的血將滋養料佮酸素，運送到胎兒，互伊得到養飼。  
+> 2. 此个胎盤的作用，是對老母的血將滋養料佮酸素，運送到胎兒，互伊得到養飼。  
 > 3. 胎兒的肺臟猶未受到空氣的充滿，所欲用的血，是咧做養飼肺臟的路用，互伊會生成若定。
 
 ---
@@ -1237,14 +1237,14 @@ Tē 64 tô͘:—Thai-jî huih-e̍k ê sûn-khoân : 1, iū-pêng kēng-tōng-me�
 4. Iū-pông kap chó-pông ū saⁿ thàu, chit ê khang kiò-chòe nñg-îⁿ-khang (卵圓孔, *foramen ovale*); chhut-sì liáu-āu, cha̍p-só-ji̍t chiū koaiⁿ; koaiⁿ liáu, hit ê khoân kiò-chòe nñg-îⁿ-o (卵圓窩, *fossa ovalis*; tē 57 tô͘).
 
 > **【全漢對照】**  
-> 4. 右房佮左房有相透，此個孔叫做卵圓孔（卵圓孔，*foramen ovale*）；出世了後，十數日就關；關了，彼個痕叫做卵圓窩（卵圓窩，*fossa ovalis*；第 57 圖）。
+> 4. 右房佮左房有相透，此个孔叫做卵圓孔（卵圓孔，*foramen ovale*）；出世了後，十數日就關；關了，彼个痕叫做卵圓窩（卵圓窩，*fossa ovalis*；第 57 圖）。
 
 ---
 
 Huih tùi thai-pôaⁿ kiâⁿ ji̍p châi-chēng-me̍h. Tī châi-tòa ū chi̍t-tiâu chēng-me̍h, kiò-chòe châi-chēng-me̍h, nñg-tiâu tōng-me̍h kiò-chòe châi-tōng-me̍h. Chit tiâu châi-chēng-me̍h, chiū tùi tō-châi ji̍p thai-jî ê pak-tó-lāi, kiâⁿ kàu hā-tāi-chēng-me̍h, iā chit tiâu ji̍p sim ê iū-pông. Ji̍p iū-pông liáu, chit ê huih bô ji̍p iū-sek, chóng-sī tùi nñg-îⁿ-khang, ji̍p chó-pông, chiah ji̍p chó-sek, tùi chó-sek chhut tī tāi-tōng-me̍h kàu tī seng-khu, m̄-kú khah chōe kiâⁿ kàu thâu-khak kap siōng-chi.
 
 > **【全漢對照】**  
-> 血對胎盤行入臍靜脈。佇臍帶有一條靜脈，叫做臍靜脈，兩條動脈叫做臍動脈。這條臍靜脈，就對肚臍入胎兒的腹肚內，行到下大靜脈，亦這條入心的右房。入右房了，這個血無入右室，總是對卵圓孔，入左房，才入左室，對左室出佇大動脈到佇身軀，毋過較多行到頭殼佮上肢。
+> 血對胎盤行入臍靜脈。佇臍帶有一條靜脈，叫做臍靜脈，兩條動脈叫做臍動脈。這條臍靜脈，就對肚臍入胎兒的腹肚內，行到下大靜脈，亦這條入心的右房。入右房了，這个血無入右室，總是對卵圓孔，入左房，才入左室，對左室出佇大動脈到佇身軀，毋過較多行到頭殼佮上肢。
 
 ---
 
@@ -1291,7 +1291,7 @@ Tāi-tōng-me̍h-kèng                          Iū-sek
 Hit ê chēng-me̍h-huih, tùi thâu-khak kap siōng-chi, kiâⁿ tùi siōng-tāi-chēng-me̍h ji̍p iū-pông. Iā chit hō huih sòa-ji̍p iū-sek, hì-...
 
 > **【全漢對照】**  
-> 彼個靜脈血，對頭殼佮上肢，行對上大靜脈入右房。亦這號血續入右室，肺……
+> 彼个靜脈血，對頭殼佮上肢，行對上大靜脈入右房。亦這號血續入右室，肺……
 
 ---
 
@@ -1326,7 +1326,7 @@ tāi-tōng-me̍h. Hì-tāi-tōng-me̍h ê huih, tām-po̍h ū ji̍p hì-chōng i
 
 > **【全漢對照】**
 > #### 【動脈管】
-> 大動脈。肺大動脈的血，淡薄有入肺臟養飼怹，也對肺臟入肺靜脈，也續入左房。總是由肺大動脈的血較多行對特別的動脈管，入大動脈弓。此個特別的動脈管（*ductus arteriosus*），是猶未出世才有，出世了後就關無去。今血已經有對左室佮肺大動脈來到大動脈弓，對遮流行到下行大動脈、腹部大動脈佮下肢。總是由腹部大動脈較多行對臍動脈，對胎兒的肚臍出去，佇臍帶入老母的胎盤。佇第 65、66 圖有記諸個圖予人看猶未出世、出世了，的循環是怎樣。
+> 大動脈。肺大動脈的血，淡薄有入肺臟養飼怹，也對肺臟入肺靜脈，也續入左房。總是由肺大動脈的血較多行對特別的動脈管，入大動脈弓。此个特別的動脈管（*ductus arteriosus*），是猶未出世才有，出世了後就關無去。今血已經有對左室佮肺大動脈來到大動脈弓，對遮流行到下行大動脈、腹部大動脈佮下肢。總是由腹部大動脈較多行對臍動脈，對胎兒的肚臍出去，佇臍帶入老母的胎盤。佇第 65、66 圖有記諸个圖予人看猶未出世、出世了，的循環是怎樣。
 
 ---
 
@@ -1417,7 +1417,7 @@ Lîm-pa-kńg tiong-ng chōe-chōe só͘-chāi ū khip-hu̍t, i ê tōa-sòe bô 
 Lîm-pa-kńg lāi-bīn só͘ lâu ê e̍k, sī chheng-chheng chha-put-to chhin-chhiūⁿ huih-chiap. Chiah ê lîm-pa-kńg, khah chōe sio-liân ha̍p chòe chóng-lîm-pa-
 
 > **【全漢對照】**
-> 淋巴管內面所流的液，是清清差不多親像血汁。諸個淋巴管，較贅（較濟）相連合做總淋巴——
+> 淋巴管內面所流的液，是清清差不多親像血汁。諸个淋巴管，較贅（較濟）相連合做總淋巴——
 
 ---
 
@@ -1459,7 +1459,7 @@ Tī pak-tó͘-lāi ia̍h ū lîm-pa-kńg chōe-chōe-ê, kiò tn̂g ê...
 
 > **【全漢對照】**
 > **【腹內淋巴管】**
-> 佇腹肚內亦有淋巴管多多個，叫腸的……
+> 佇腹肚內亦有淋巴管多多个，叫腸的……
 
 ---
 
@@ -1517,7 +1517,7 @@ Só͘-í tio̍h tû-khì pe̍h-chha̍t, ta̍k lâng kap i ê chhù-piⁿ kóng c
 *[邊註：Leng-bê-kúng]*
 
 > **【全漢對照】**
-> ……淋巴管。腸仔的黏膜毋是光光，是親像絨毛的款式，有刺刺幼幼。佇絨毛的內面有毛細血管，以及毛細淋巴管（第 44–46 圖）。諸個淋巴管是對腸，來吸收已經消化的油，到佇管內親像奶的白白、稠稠，所以有時才叫做乳糜管（乳糜管，lacteal；第 48 圖）。
+> ……淋巴管。腸仔的黏膜毋是光光，是親像絨毛的款式，有刺刺幼幼。佇絨毛的內面有毛細血管，以及毛細淋巴管（第 44–46 圖）。諸个淋巴管是對腸，來吸收已經消化的油，到佇管內親像奶的白白、稠稠，所以有時才叫做乳糜管（乳糜管，lacteal；第 48 圖）。
 > 
 > *［邊註：乳糜管］*
 
@@ -1528,7 +1528,7 @@ Chiah ê leng-bê-kúng sio-ha̍p chòe khah tōa ê lîm-pa-kúng ; chit-ê ki�
 *[邊註：Heng-kúng]*
 
 > **【全漢對照】**
-> 諸個乳糜管試合做較大的淋巴管；這個行上去經過胸坎到頷頸，入佇頷頸的靜脈。對遮彼個淋巴液（乳糜液，lymph）出佇靜脈血。對頷頸這條靜脈行到胸坎下，佮別條靜脈試合，做……
+> 諸个乳糜管試合做較大的淋巴管；這个行上去經過胸坎到頷頸，入佇頷頸的靜脈。對遮彼个淋巴液（乳糜液，lymph）出佇靜脈血。對頷頸這條靜脈行到胸坎下，佮別條靜脈試合，做……
 > 
 > *［邊註：胸管］*
 
@@ -1571,7 +1571,7 @@ siōng-tāi-chēng-me̍h ; iā chit tiâu sòa jip tī iū-pông, chiah keng-kè
 Lîm-pa-chôaⁿ ê lō͘-ēng chi̍t-hāng sī teh kò͘ seng-khu ê khùi-la̍t. Siat-sú nā ū sím-mi̍h sòe-khún (細菌, *bacteria*) ji̍p tī seng-khu-lāi, bô kú ōe ji̍p tī lîm-pa-kńg, iā tióh kè lîm-pa-chôaⁿ. Teh kè ê sî, chiah ê lîm-pa-chôaⁿ ū khùi-la̍t thang thāu-sí hiah ê sòe-khún. Nā-sī hit ê lîm-pa-chôaⁿ ê khùi-la̍t bô kàu, sòe-khún ōe koh kiâⁿ, koh thòaⁿ, á-sī lîm-pa-chôaⁿ ōe siⁿ lâng-iông. Che sùg sī lîm-pa-chôaⁿ su. Nā chńg-thâu-á ū siⁿ thiàⁿ, hit ê siⁿ thiàⁿ ê to̍k-khì ōe ji̍p tī lîm-pa-kńg-bé, tùi chia kiâⁿ kàu lîm-pa-chôaⁿ ê só͘-chāi. Thâu chi̍t-ê chiū-sī tiú-koan-chat ê lāi-pêng ê lîm-pa-chôaⁿ; tē jī sī koh-ē-khang ê lîm-pa-chôaⁿ. I só͘ kiâⁿ ê lō͘ ōe hián-chhut tī phê-hu, kui chōa âng-âng. Chit-ê chiū-sī tùi lîm-pa-kńg hoat iām. Hoat iām ê sî chhiú ōe thiàⁿ, koh-ē-khang ê lîm-pa-chôaⁿ iā ōe thiàⁿ (tē 68–70 tô͘).
 
 > **【全漢對照】**
-> 淋巴泉的路用一項是咧顧身軀的氣力。設使若有甚麼細菌（細菌，*bacteria*）入佇身軀內，無久會入佇淋巴管，也著過淋巴泉。咧過的時，諸個淋巴泉有氣力通敨死遐的細菌。若是彼個淋巴泉的氣力無夠，細菌會閣行，閣湠，抑是淋巴泉會生膿瘍。這算是淋巴泉輸。若指頭仔有生痛，彼個生痛的毒氣會入佇淋巴管尾，對遮行到淋巴泉的所在。頭一個就是肘關節的內爿的淋巴泉；第二是𡰪下空的淋巴泉。伊所行的路會顯出佇皮膚，規條紅紅。這個就是對淋巴管發炎。發炎的時手會痛，𡰪下空的淋巴泉也會痛（第 68–70 圖）。
+> 淋巴泉的路用一項是咧顧身軀的氣力。設使若有甚麼細菌（細菌，*bacteria*）入佇身軀內，無久會入佇淋巴管，也著過淋巴泉。咧過的時，諸个淋巴泉有氣力通敨死遐的細菌。若是彼个淋巴泉的氣力無夠，細菌會閣行，閣湠，抑是淋巴泉會生膿瘍。這算是淋巴泉輸。若指頭仔有生痛，彼个生痛的毒氣會入佇淋巴管尾，對遮行到淋巴泉的所在。頭一个就是肘關節的內爿的淋巴泉；第二是𡰪下空的淋巴泉。伊所行的路會顯出佇皮膚，規條紅紅。這个就是對淋巴管發炎。發炎的時手會痛，𡰪下空的淋巴泉也會痛（第 68–70 圖）。
 
 ---
 

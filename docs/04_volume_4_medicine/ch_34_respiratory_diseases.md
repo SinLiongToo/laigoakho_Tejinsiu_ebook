@@ -65,7 +65,7 @@ Tī chia beh iok-lio̍k kóng-khí ho͘-khip-khì pīⁿ, chiàu kī tī ē-tóe
 I ê goân-in sī te̍k-……
 
 > **【全漢對照】**
-> **定義：**此個病就是呼吸器頂面部位的粘膜發炎。平常叫做感冒，就是鼻內的粘膜發炎。
+> **定義：**此个病就是呼吸器頂面部位的粘膜發炎。平常叫做感冒，就是鼻內的粘膜發炎。
 > 
 > *〔原因〕*
 > 伊的原因是特……
@@ -108,7 +108,7 @@ Chèng-chōng: Kám-mō͘ ê chèng-chōng sī pīⁿ-lâng ùi-kôaⁿ, seng-kh
 Tī-liâu: Lâng siat-sú tú-tio̍h kám-mō͘ ê chiân-tiâu, nā liâm-piⁿ chia̍h *quinina* kap *spiritus ammoniæ aromaticus* ū-sî ē hō͘ i bōe hoat-choh. Nā í-keng ū kám-mō͘ tī chho͘-khí ê sî, tio̍h sóe sio-chúi-e̍k hō͘ lâu kōaⁿ, iā tio̍h ēng sio-chúi-koàn, khì tó tī bîn-chhng kah hō͘ sio. Nā án-ni chòe hit ê pīⁿ ē khah khin.
 
 > **【全漢對照】**  
-> 治療：人設使抵著感冒的前兆，若連鞭食 *quinina*（規那/奎寧）及 *spiritus ammoniæ aromaticus*（芳香氨醑）有時會予伊袂發作。若已經有感冒佇初期彼時，著洗熱水浴予流汗，也著用熱水罐，去倒佇眠床蓋予燒。若按呢做彼個病會較輕。
+> 治療：人設使抵著感冒的前兆，若連鞭食 *quinina*（規那/奎寧）及 *spiritus ammoniæ aromaticus*（芳香氨醑）有時會予伊袂發作。若已經有感冒佇初期彼時，著洗熱水浴予流汗，也著用熱水罐，去倒佇眠床蓋予燒。若按呢做彼个病會較輕。
 
 ---
 
@@ -117,7 +117,7 @@ Tī-liâu: Lâng siat-sú tú-tio̍h kám-mō͘ ê chiân-tiâu, nā liâm-piⁿ
 Ta-chháu-jia̍t: Tēng-gī: Chit-ê sī ho͘-khip-khì téng-bīn ê chit pō͘-ūi ê liâm-mo̍h, tùi ta-chháu lâi hoat-iām (ka-tap-jī).
 
 > **【全漢對照】**  
-> 乾草熱：定義：這個是呼吸器頂面的一部位的黏膜，對乾草來發炎（カタ儿 / 膜炎）。
+> 乾草熱：定義：這个是呼吸器頂面的一部位的黏膜，對乾草來發炎（カタ儿 / 膜炎）。
 
 ---
 
@@ -203,7 +203,7 @@ Chèng-chōng: Nâ-âu àng-àng bô siaⁿ; kóng ōe bōe chhut siaⁿ; nâ-â
 Tī-liâu: Tio̍h hioh-khùn; m̄-thang kóng ōe, m̄-thang chia̍h sek-hun (tobacco). Nā khah siong-tiōng tio̍h tó tī bîn-chhng. Pīⁿ-lâng teh tòa ê chhù, hit ê un-tō͘ tio̍h ū tú-hó ha̍h, iā tio̍h ēng chit-ê kún-chúi-koàn, chúi chhòng hō͘ chhiâng-chāi kún, hē tī pīⁿ-lâng ê bîn-chhng-piⁿ, hō͘ khong-khì ē sip-lūn bōe ta-sò. Tī kún-chúi-lāi ēng *tinctura benzoini co.*, án-ni khip-ji̍p chit ê khì ē khah hó (tē 293 bīn). Ū-sî hō͘ i *pulv. Doveri* ē hō͘ i hó khùn. Tāi-piān tio̍h chù-ì. Tio̍h kéng liû-tōng chu-ióng ê sit-bu̍t. Ū-sî ēng peng-lông he ām-kún ê só͘-chāi, iā ē khah khòaⁿ-oa̍h.
 
 > **【全漢對照】**
-> 治療：著歇睏；唔通講話，唔通食熟煙（tobacco）。若較嚴重著倒佇眠床。病人咧戴的厝，彼個溫度著有堵好合，也著用一個滾水罐，水創予長在滾，下佇病人的眠床邊，予空氣會濕潤袂乾燥。佇滾水內用 *tinctura benzoini co.*，按呢吸入此個氣會較好（第 293 面）。有時予伊 *pulv. Doveri* 會予伊好睏。大便著注意。著揀流動滋養的食物。有時用冰囊下頷頸的所在，也會較快活。
+> 治療：著歇睏；唔通講話，唔通食熟煙（tobacco）。若較嚴重著倒佇眠床。病人咧戴的厝，彼个溫度著有堵好合，也著用一个滾水罐，水創予長在滾，下佇病人的眠床邊，予空氣會濕潤袂乾燥。佇滾水內用 *tinctura benzoini co.*，按呢吸入此个氣會較好（第 293 面）。有時予伊 *pulv. Doveri* 會予伊好睏。大便著注意。著揀流動滋養的食物。有時用冰囊下頷頸的所在，也會較快活。
 
 ---
 
@@ -237,7 +237,7 @@ I-seng mn̄g pīⁿ-lâng ê sū, nā m̄-chai, tio̍h kóng m̄-chai, m̄-thang
 Goân-in : Chiū-sī sîn-keng pīⁿ ê chi̍t-ê, âu-thâu kun-bah kiu ê chèng, gín-ná saⁿ ge̍h ji̍t khí, kàu saⁿ hè ûi-chí. Hit khoán ê gín-ná khah ōe tú-tio̍h chit hō pīⁿ, chiū-sī kut núg, kap khah bô thang lîm-chia̍h-ê. Gín-ná khí-chho͘ hoat chhùi-khí ê sî iā ōe tú-tio̍h chit hō chèng.
 
 > **【全漢對照】**
-> 原因：就是神經病的一個，喉頭肌肉搐的症，囡仔三個月日起，到三歲為止。彼款的囡仔較會抵著此號病，就是骨軟，佮較無通飲食的。囡仔起初發齒的時候亦會抵著此號症。
+> 原因：就是神經病的一个，喉頭肌肉搐的症，囡仔三个月日起，到三歲為止。彼款的囡仔較會抵著此號病，就是骨軟，佮較無通飲食的。囡仔起初發齒的時候亦會抵著此號症。
 
 ---
 
@@ -246,7 +246,7 @@ Goân-in : Chiū-sī sîn-keng pīⁿ ê chi̍t-ê, âu-thâu kun-bah kiu ê ch�
 Chèng-chōng : Ho͘-khip chiām-sî thêng-chí, gín-ná teh chhut-la̍t chhin-chhiūⁿ ài chhoán ê khoán, bīn-sek túg chhiⁿ-lâm-sek, heng-khám bô khoàⁿ-kìⁿ tín-tāng. Hit ê keng-loân nā kè, khong-khì chiū ji̍p âu-thâu-lāi, iā ū kî-koài ê siaⁿ-im, chhin-chhiūⁿ teh thî ê khoán.
 
 > **【全漢對照】**
-> 症狀：呼吸暫時停止，囡仔咧出力親像愛喘的款，面色轉青藍色，胸坎無看見振動。彼個痙攣若過，空氣就入喉頭內，亦有奇怪的聲音，親像咧啼的款。
+> 症狀：呼吸暫時停止，囡仔咧出力親像愛喘的款，面色轉青藍色，胸坎無看見振動。彼个痙攣若過，空氣就入喉頭內，亦有奇怪的聲音，親像咧啼的款。
 
 ---
 
@@ -264,7 +264,7 @@ Tī-liâu : Beh i-tī chit hō pīⁿ tio̍h chù-ì tāi-piān. Tio̍h kéng li
 Âu-thâu-pì-that (喉頭閉塞, *Laryngeal obstruction*): Chit ê pīⁿ sī âu-thâu that-teh bē thong, á-sī tām-po̍h thong nā-tiāⁿ.
 
 > **【全漢對照】**
-> 喉頭閉塞（喉頭閉塞，*Laryngeal obstruction*）：此個病是喉頭塞咧袂通，抑是淡薄通爾定。
+> 喉頭閉塞（喉頭閉塞，*Laryngeal obstruction*）：此个病是喉頭塞咧袂通，抑是淡薄通爾定。
 
 ---
 
@@ -344,7 +344,7 @@ Kip-sèng khì-kúng-chi-iām, chiū-sī khì-kúng-chi siōng kap tiong ê tōa
 Goân-in : Gín-ná kap lāu lâng, khip-ji̍p bô chheng-khì ê khong-khì, siông-siông chòe tîn-ai ê kang, kôaⁿ-tīⁿ ê sî, seng-khu bô ióng-kiāⁿ, án-ni chiah-ê lóng ōe tì-kàu khì-kúng-chi-iām. Lâng ū sió-tng-jia̍t, môa-chín, pah-ji̍t-sàu, sim-chōng pīⁿ, sit-hû-tek-lí-a, phīⁿ ka-tap-jî, ian-thâu-iām, hit khoán ê pīⁿ, chiū ōe khah khoài tú-tióh khì-kúng-chi-iām.
 
 > **【全漢對照】**
-> 原因：囡仔佮老人，吸入無清氣的空氣，常常做塵埃的工，寒冷（寒凊）的時，身軀無勇健，按呢諸個攏會致到氣管枝炎。人有小腸熱、麻疹、百日嗽、心臟病、白喉（sit-hû-tek-lí-a / Diphtheria）、鼻加答兒（phīⁿ ka-tap-jî）、咽頭炎，彼款的病，就會較快抵著氣管枝炎。
+> 原因：囡仔佮老人，吸入無清氣的空氣，常常做塵埃的工，寒冷（寒凊）的時，身軀無勇健，按呢諸个攏會致到氣管枝炎。人有小腸熱、麻疹、百日嗽、心臟病、白喉（sit-hû-tek-lí-a / Diphtheria）、鼻加答兒（phīⁿ ka-tap-jî）、咽頭炎，彼款的病，就會較快抵著氣管枝炎。
 
 ---
 
@@ -356,8 +356,8 @@ Chit ê pīⁿ ū-sî ōe pìⁿ-chiâⁿ bān-sèng khì-kúng-chi-iām.
 Koh chit hāng gín-ná á-sī lāu lâng nā ū chit hō pīⁿ
 
 > **【全漢對照】**
-> 症狀：較常此個病的代先有鼻加答兒，抑是咽頭炎，胸內窒窒緊緊；胸骨的底下會痛，也有嗽，乾嗽，頭殼痛。體溫較懸，101° F. 至 103° F.（38.3° 至 39.4° C.）。痰代先黏黏，色致白白閣無偌濟；後來變成黃色也較濟。較常過十日會好。  
-> 此個病有時會變成慢性氣管枝炎。  
+> 症狀：較常此个病的代先有鼻加答兒，抑是咽頭炎，胸內窒窒緊緊；胸骨的底下會痛，也有嗽，乾嗽，頭殼痛。體溫較懸，101° F. 至 103° F.（38.3° 至 39.4° C.）。痰代先黏黏，色致白白閣無偌濟；後來變成黃色也較濟。較常過十日會好。  
+> 此个病有時會變成慢性氣管枝炎。  
 > 閣一項囡仔抑是老人若有此號病……
 
 ---
@@ -390,7 +390,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 Tī-liâu : Tó tī bîn-chhñg hioh-khùn, sóe sio-chúi-e̍k, lim sio-kún-chúi, chiong sio-chúi-koàn hō͘ i ù-sio, kah khah-chōe níá nî-thán, á-sī mî-phē, hō͘ i lâu kōaⁿ. Tāi-piān ti̍oh chù-ì. Khip-ji̍p-hoat, tī 500.0 c.c. kún-chúi-lāi hē *tinctura benzoini co.* 3.5 c.c. (tē 293 bīn). Pīⁿ-sek-lāi ê khong-khì ti̍oh siat-hoat hō͘ sî-siông sip-lūn. Ū-sî ēng kài-lo̍ah-pâ-pò͘, á-sī sio ê chhò͘-khng kā i kah tī heng-chêng á-sī heng-khám-āu, ōe khah an-ún-tit. Ū-sî ēng sio ê mî-hoe lâi khàm-khám. Só͘ ēng ê ióh sī *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*, a-phiàn, *potasii iodidum*. Nā-sī gín-ná ê thâm siuⁿ liām, khak bōe tit chhut-lâi, chiong *vinum ipecacuanhæ* thò͘-che hō͘ i thò͘, hit ê thâm ōe sòa chhut-lâi. Nā bô án-ni, gín-ná ê thâm ōe thun-lo̍h-khì.
 
 > **【全漢對照】**
-> 治療：倒佇眠床歇困，洗燒水浴，啉燒滾水，將燒水罐予伊煨燒，蓋較多領呢毯，抑是棉被，予伊流汗。大便著注意。吸入法，佇 500.0 c.c. 滾水內下 *tinctura benzoini co.* 3.5 c.c.（第 293 面）。病室內的空氣著設法予時常濕潤。有時用芥辣爬布（芥末泥敷布），抑是燒的粗糠共伊蓋佇胸前抑是胸坎後，會較安穩得。有時用燒的棉花來蓋蓋。所用的藥是 *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*，鴉片，*potasii iodidum*。若是囡仔的痰傷黏，咯袂得出夾，將 *vinum ipecacuanhæ* 吐劑予伊吐，彼個痰會紲出來。若無按呢，囡仔的痰會吞落去。
+> 治療：倒佇眠床歇困，洗燒水浴，啉燒滾水，將燒水罐予伊煨燒，蓋較多領呢毯，抑是棉被，予伊流汗。大便著注意。吸入法，佇 500.0 c.c. 滾水內下 *tinctura benzoini co.* 3.5 c.c.（第 293 面）。病室內的空氣著設法予時常濕潤。有時用芥辣爬布（芥末泥敷布），抑是燒的粗糠共伊蓋佇胸前抑是胸坎後，會較安穩得。有時用燒的棉花來蓋蓋。所用的藥是 *ammonii carbonas, vinum antimonialis, spiritus ætheris nitrosi, ipecacuanha, scilla*，鴉片，*potasii iodidum*。若是囡仔的痰傷黏，咯袂得出夾，將 *vinum ipecacuanhæ* 吐劑予伊吐，彼个痰會紲出來。若無按呢，囡仔的痰會吞落去。
 
 ---
 
@@ -431,7 +431,7 @@ Bān-sèng khì-kńg-chi-iām, sī khah-siông saⁿ-cha̍p-gō͘ hè í-siōng 
 Khì-kńg-chi-khok-tiong. Chit ê pīⁿ khah-siông sī in-ūi khah kú ū sàu, tùi tiāⁿ-tiāⁿ teh sàu hiah ê khì-kńg ū pīⁿ tōa, kiò-chòe khok-tiong. Pīⁿ-lâng tī chá-khí-sî tú-á khí-lâi chiū thò͘ thâm chin chōe, in-ūi khì-kńg-khok-tiong,
 
 > **【全漢對照】**
-> 氣管支擴張。這個病較常是因為較久有嗽，對定定咧嗽遐的氣管有變大，叫做擴張。病人在早起時拄仔起來就吐痰真多，因為氣管擴張，
+> 氣管支擴張。這个病較常是因為較久有嗽，對定定咧嗽遐的氣管有變大，叫做擴張。病人在早起時拄仔起來就吐痰真多，因為氣管擴張，
 
 <!-- Page 565 End -->
 
@@ -450,7 +450,7 @@ mî-sî hiah ê thâm chek-chū tī khì-kúng-lāi; chá-khí khí-lâi ê sî,
 3. Ē-bīn chhin-chhiūⁿ bô chheng-khì hé-hu-sek ê lâng chi̍t iūⁿ.
 
 > **【全漢對照】**
-> 暝時遐的痰積聚佇氣管內；早起起來的時，彼個痰會小可換位，按呢病人連鞭嗽，痰真濟就出來。有時佇一日的中間有吐痰 100.0 c.c. 至 1,000.0 c.c.，真唔好味，有時臭酸。呸佇痰罐的時病成三樣（層）：
+> 暝時遐的痰積聚佇氣管內；早起起來的時，彼个痰會小可換位，按呢病人連鞭嗽，痰真濟就出來。有時佇一日的中間有吐痰 100.0 c.c. 至 1,000.0 c.c.，真唔好味，有時臭酸。呸佇痰罐的時病成三樣（層）：
 > 1. 頂面樣沬沬赤黃色。
 > 2. 中央水水黏黏。
 > 3. 下面親像無淸氣灰膚色的膿一樣。
@@ -540,7 +540,7 @@ Pīⁿ-lâng nā kóng pheng-tòa siuⁿ ān, tio̍h liâm-piⁿ khì sùn khòa
 Heng-mo̍h-iām (胸膜炎, *Pleurisy*); Siang pêng nñg ia̍p hì-thé ê gōa-bīn, lóng ū heng-mo̍h; tī heng ê lāi-bīn ū nñg chân sio kūn, chi̍t chân liân tī hia̍p-kut-lāi ê kun-bah, chi̍t chân teh pau-ûi hì-chōng. Chit ê heng-mo̍h nā hoat-iām, pīⁿ-miâ kiò heng-mo̍h-iām. Nñg chân heng-mo̍h ê tiong-ng ū heng-mo̍h-e̍k. Chit ê heng-mo̍h-e̍k hō͘ heng-mo̍h saⁿ-bôa hó-sè, iā bōe thiàⁿ; nā hoat-iām hiah ê mo̍h saⁿ-bôa chin thiàⁿ. Heng-mo̍h-iām ū hun kúi-nā khoán, tī chia kan-ta beh kóng kúi khoán-ê, chiū-sī ta-sèng heng-mo̍h-iām, chúi-sèng heng-mo̍h-iām.
 
 > **【全漢對照】**  
-> 胸膜炎（胸膜炎，*Pleurisy*）；雙爿兩葉肺體的外面板，攏有胸膜；佇胸的內面有兩層相近，一層連佇脅骨內的筋肉，一層佇咧包圍肺臟。這個胸膜若發炎，病名叫胸膜炎。兩層胸膜的中央有胸膜液。這個胸膜液互胸膜相磨好勢，也袂疼；若發炎遐的膜相磨真疼。胸膜炎有分幾若款，佇遮干單卜講幾款的，就是乾性胸膜炎、水性胸膜炎。
+> 胸膜炎（胸膜炎，*Pleurisy*）；雙爿兩葉肺體的外面板，攏有胸膜；佇胸的內面有兩層相近，一層連佇脅骨內的筋肉，一層佇咧包圍肺臟。這个胸膜若發炎，病名叫胸膜炎。兩層胸膜的中央有胸膜液。這个胸膜液互胸膜相磨好勢，也袂疼；若發炎遐的膜相磨真疼。胸膜炎有分幾若款，佇遮干單卜講幾款的，就是乾性胸膜炎、水性胸膜炎。
 
 ---
 
@@ -549,7 +549,7 @@ Heng-mo̍h-iām (胸膜炎, *Pleurisy*); Siang pêng nñg ia̍p hì-thé ê gōa
 Hit ê ta-sèng heng-mo̍h-iām, ì-sù sī heng-mo̍h-lāi bô chhut khah-chē heng-mo̍h-e̍k. Hit ê chúi-sèng-ê, ì-sù sī chhut tâm ê e̍k; chit-ê ū-sî sī chhin-chhiūⁿ huih, kiò-chòe chhut-huih-sèng heng-mo̍h-iām; ū-sî sī lāng, kiò-chòe hòa-lāng-sèng heng-mo̍h-iām (化膿性胸膜炎, *empyæma*).
 
 > **【全漢對照】**  
-> 彼個乾性胸膜炎，意思是胸膜內無出較多胸膜液。彼個水性的，意思是出澹的液；這個有時是親像血，叫做出血性胸膜炎；有時是膿，叫做化膿性胸膜炎（化膿性胸膜炎，*empyæma*）。
+> 彼个乾性胸膜炎，意思是胸膜內無出較多胸膜液。彼个水性的，意思是出澹的液；這个有時是親像血，叫做出血性胸膜炎；有時是膿，叫做化膿性胸膜炎（化膿性胸膜炎，*empyæma*）。
 
 ---
 
@@ -567,7 +567,7 @@ Goân-in: Chit hō heng-mo̍h-iām ê goân-in sī tùi kám-mō͘, kôaⁿ-tio�
 Chèng-chōng: Tē it chá ê chèng-chōng sī ùi-kôaⁿ, ū-sî khéh-khéh-tiō, heng-khám-piⁿ chin thiàⁿ, ná chhin-chhiūⁿ chi̍t ki to teh chha̍k. Nā tín-tāng, á-sī ho͘-khip khah chhim, ōe khah thiàⁿ. Ho͘-khip khah kín, koh chhián. Me̍h-phok khah kín. Sàu ê siaⁿ chiū khah té khah kín. Thé-un khah koân 102° F.—103° F. (38.9°—39.4° C.). Nā-sī heng-mo̍h-khang ū chúi, nñg chân ê heng-mo̍h bōe sio-bôa, án-ni bōe thiàⁿ. Hit ê heng-mo̍h-e̍k nā bô lōa-chōe, ōe chiām-chiām khip-siu, m̄-kú khah-siōng chit-ê sī bān-bān; ū-sî i-seng tio̍h chhng-heng-su̍t (穿胸術) chiong lāi-bīn ê heng-mo̍h-e̍k thiu-chhut-lâi.
 
 > **【全漢對照】**  
-> 症狀：第一早的症狀是畏寒，有時劇劇跳（發抖），胸坎邊真疼，若親像一支刀佇咧插。若振動，抑是呼吸較深，會較疼。呼吸較緊，閣淺。脈搏較緊。嗽的聲就較短較緊。體溫較懸 102° F.—103° F.（38.9°—39.4° C.）。若是胸膜腔有水，兩層的胸膜袂相磨，按呢袂疼。彼個胸膜液若無偌多，會漸漸吸收，毋過較常這個是慢慢；有時醫生著穿胸術（穿胸術）將內面的胸膜液抽出嚟。
+> 症狀：第一早的症狀是畏寒，有時劇劇跳（發抖），胸坎邊真疼，若親像一支刀佇咧插。若振動，抑是呼吸較深，會較疼。呼吸較緊，閣淺。脈搏較緊。嗽的聲就較短較緊。體溫較懸 102° F.—103° F.（38.9°—39.4° C.）。若是胸膜腔有水，兩層的胸膜袂相磨，按呢袂疼。彼个胸膜液若無偌多，會漸漸吸收，毋過較常這个是慢慢；有時醫生著穿胸術（穿胸術）將內面的胸膜液抽出嚟。
 
 <!-- Page 567 End -->
 
@@ -595,7 +595,7 @@ Hòa-lâng-sèng heng-mo̍h-iām, iā kiò-chòe lâng-heng, chiū-sī nn̄g ch�
 
 > **【全漢對照】**  
 > **膿胸**  
-> 化膿性胸膜炎，也叫做膿胸，就是兩層胸膜的中央有化膿。這個病是比頂面講的較嚴重。
+> 化膿性胸膜炎，也叫做膿胸，就是兩層胸膜的中央有化膿。這个病是比頂面講的較嚴重。
 
 ---
 
@@ -624,7 +624,7 @@ jia̍t, kiò-chòe siau-hòⁿ-jia̍t (消耗熱, *hectic fever*), ì-sù sī k�
 > *（圖 467：消耗熱；肺結核症）*  
 > 
 > **消耗熱**  
-> 熱，叫做消耗熱（消耗熱，*hectic fever*），意思是指久長的熱，抑是彼款的熱，親像肺癆病的人，流戰汗（冷汗）彼號。這個熱是下晡時較懸，早起時落低（第 467 圖）。有時醫生若愛知佇胸腔有排洩傷多胸膜液，抑是膿，伊欲用一支注射器，來穿刺術，看有抑無。
+> 熱，叫做消耗熱（消耗熱，*hectic fever*），意思是指久長的熱，抑是彼款的熱，親像肺癆病的人，流戰汗（冷汗）彼號。這个熱是下晡時較懸，早起時落低（第 467 圖）。有時醫生若愛知佇胸腔有排洩傷多胸膜液，抑是膿，伊欲用一支注射器，來穿刺術，看有抑無。
 
 ---
 
@@ -707,7 +707,7 @@ khì (吸引器, *aspirator*) hó ēng, á-sī pháiⁿ-khì (tē 468 tô). Tio�
 
 > **【全漢對照】**
 > （穿胸術）
-> 器（吸引器，*aspirator*）好用，抑是歹器（第 468 圖）。著鬥好勢；對罐抽空氣予起來。試看彼個真空有夠額通對一塊碗抽水予起來抑無，若有，就會對胸腔抽胸膜液。真空（真空，*vacuum*）的意思，是裏面攏無空氣。
+> 器（吸引器，*aspirator*）好用，抑是歹器（第 468 圖）。著鬥好勢；對罐抽空氣予起來。試看彼个真空有夠額通對一塊碗抽水予起來抑無，若有，就會對胸腔抽胸膜液。真空（真空，*vacuum*）的意思，是裏面攏無空氣。
 
 ---
 
@@ -738,7 +738,7 @@ khì (吸引器, *aspirator*) hó ēng, á-sī pháiⁿ-khì (tē 468 tô). Tio�
 > (e) 粘布，一尺長，一寸闊，六條。
 > (g) 皮下注射器佮 *strychnina* 攏備，抵防欲用。
 > (h) *Lotio acidi carbolici* 1—40。
-> (i) 兩塊碗抵防欲傾彼個抽出來的液。
+> (i) 兩塊碗抵防欲傾彼个抽出來的液。
 > (j) 消毒面巾。
 
 ---
@@ -753,7 +753,7 @@ khì (吸引器, *aspirator*) hó ēng, á-sī pháiⁿ-khì (tē 468 tô). Tio�
 5. Pīⁿ-lâng nā tī bīn-chhng, i ê mî-phē tio̍h hian-khí-lâi, tio̍h thǹg i ê saⁿ, ēng *tinctura iodi* chhat beh chhiú-su̍t ê só͘-chāi. Kah chi̍t-ê í-keng sóe chhiú ê lâng, chiong siau-to̍k ê bīn-kun chhu heng-khám. Ēng thán-á chiām-sî kah pīⁿ-lâng.
 
 > **【全漢對照】**
-> 5. 病人若佇眠床，伊的棉被著掀起來，著褪伊的衫，用 *tinctura iodi* 搽欲手術的所在。教一個已經洗手的人，將消毒的面巾遮胸坎。用毯仔暫時蓋病人。
+> 5. 病人若佇眠床，伊的棉被著掀起來，著褪伊的衫，用 *tinctura iodi* 搽欲手術的所在。教一个已經洗手的人，將消毒的面巾遮胸坎。用毯仔暫時蓋病人。
 
 ---
 
@@ -767,7 +767,7 @@ khì (吸引器, *aspirator*) hó ēng, á-sī pháiⁿ-khì (tē 468 tô). Tio�
 7. I-seng nā piān, kiò chi̍t-ê chō-chhiú, chiong hit niá thán-á tùi heng-khám hian-khí-lâi, hit tiâu bīn-kun soà the̍h-khí-lâi. Tio̍h koh chi̍t pái kā chhat *tinct. iodi*.
 
 > **【全漢對照】**
-> 7. 醫生若備，叫一個助手，將彼領毯仔對胸坎掀起來，彼條面巾續提起來。著閣一擺共伊搽 *tinct. iodi*。
+> 7. 醫生若備，叫一个助手，將彼領毯仔對胸坎掀起來，彼條面巾續提起來。著閣一擺共伊搽 *tinct. iodi*。
 
 ---
 
@@ -823,7 +823,7 @@ Nā iáu-bē sìng mèh-phok, m̄-thang kì chha-put-to kúi-ē.
 11. Hit ê tn̂g ê liâm-pò͘ tio̍h liâm tī hit pêng phòa-pīⁿ ê ūi, tùi heng-āu kàu heng-chêng, iā kè tiong-ng heng-kut ê só͘-chāi. Chit-ê sī beh hō͘ hit pêng chēng-chēng, pang-chān khip-siu, iā hō͘ i khah bōe thiàⁿ (tē 469 tô͘).
 
 > **【全漢對照】**  
-> 11. 彼個長的全黏布著黏佇彼旁破病的位，對胸後到胸前，也過中央胸骨的所在。這個是欲予彼旁靜靜，幫贊吸收，也予伊較𣍐痛（第 469 圖）。
+> 11. 彼个長的全黏布著黏佇彼旁破病的位，對胸後到胸前，也過中央胸骨的所在。這个是欲予彼旁靜靜，幫贊吸收，也予伊較𣍐痛（第 469 圖）。
 
 ---
 
@@ -859,7 +859,7 @@ Nā iáu-bē sìng mèh-phok, m̄-thang kì chha-put-to kúi-ē.
 15. Hit ê khong-khì ê *pump* m̄-thang sáh, iā m̄-thang thiu chúi tī i ê lāi-bīn.
 
 > **【全漢對照】**  
-> 15. 彼個空氣的 *pump* 毋通煠，也毋通抽水佇伊的內面。
+> 15. 彼个空氣的 *pump* 毋通煠，也毋通抽水佇伊的內面。
 
 ---
 
@@ -875,7 +875,7 @@ Chin iàu-kín m̄-thang hō͘ khong-khì ji̍p heng-mo̍h-khang-lāi.
 Lâng-heng ê tī-liâu-hoat : Nā heng-mo̍h-khang-lāi ū chek-chū lâng, hit ê lâng tio̍h tû-khì. Só͘ ēng ê chhiú-su̍t sī hia̍p-kut-chhiat-tû-su̍t, tī tē 422 bīn ū kóng-khí. Nā lâng í-keng lâu-chhut-lâi, hit pêng ê hì-chōng ū-sî khah oh-tit
 
 > **【全漢對照】**  
-> 膿胸的治療法：若胸膜腔內有積聚膿，彼個膿著除去。所用的手術是肋骨切除術，佇第 422 面有講起。若膿已經流出來，彼旁的肺臟有時較惡得
+> 膿胸的治療法：若胸膜腔內有積聚膿，彼个膿著除去。所用的手術是肋骨切除術，佇第 422 面有講起。若膿已經流出來，彼旁的肺臟有時較惡得
 
 <!-- Page 571 End -->
 
@@ -891,7 +891,7 @@ phòng chhut-lâi. Ū ēng pûn khùi ê hoat-tō͘ sī chin ū kong-hāu. Chhò
 
 > **【全漢對照】**  
 > **【膿胸治療】**  
-> 膨出來。有用吹氣的法度是真有功效。做兩支玻璃罐 4,000.0 c.c. 的大，用三連的玻璃管佮樹奶管插佇此兩支罐的中間。這罐內面貯水，這罐空空。著教病人用力將這罐的水，吹到彼個空罐，才閣將彼罐的水，吹倒轉來這罐。這個法度若是教囡仔按呢做，𪜶真歡喜，若親像𨑨迌的款。理氣是吹的時，肺內的壓力上較懸，對按呢肺臟就膨出來，較快互膿瘍孔密密。
+> 膨出來。有用吹氣的法度是真有功效。做兩支玻璃罐 4,000.0 c.c. 的大，用三連的玻璃管佮樹奶管插佇此兩支罐的中間。這罐內面貯水，這罐空空。著教病人用力將這罐的水，吹到彼个空罐，才閣將彼罐的水，吹倒轉來這罐。這个法度若是教囡仔按呢做，𪜶真歡喜，若親像𨑨迌的款。理氣是吹的時，肺內的壓力上較懸，對按呢肺臟就膨出來，較快互膿瘍孔密密。
 
 ---
 
@@ -917,7 +917,7 @@ Hì-hio̍h-iām : Chit hō pīⁿ sī hì ê hio̍h pīⁿ tēng, ū-sî chit hi
 
 > **【全漢對照】**  
 > **【肺葉炎】**  
-> 肺葉炎：這號病是肺的葉變硬，有時一葉，有時兩三葉。肺葉炎的部位，攏硬若親像肝狀的款。肺小胞（肺小胞）內面攏無空氣，這個就是因為肺管佮肺胞，滲出炎症性的滲出物（*inflammatory exudate*）。
+> 肺葉炎：這號病是肺的葉變硬，有時一葉，有時兩三葉。肺葉炎的部位，攏硬若親像肝狀的款。肺小胞（肺小胞）內面攏無空氣，這个就是因為肺管佮肺胞，滲出炎症性的滲出物（*inflammatory exudate*）。
 
 ---
 
@@ -1041,7 +1041,7 @@ Hì-hio̍h-īam ê hun-lī, khah-siông sī tē 7 ji̍t; ū-sî bô chiàu án-n
 sî-chūn, pīⁿ-lâng ê chèng-chōng sui-bóng sī khah hó, m̄-kú hì-chōng iáu-kú tēng. Tio̍h sió-sim chiàu-kò͘, thèng-hāu hit ê tēng ê chit khip-siu, á-sī sàu-chhut-lâi, hō͘ hì pīⁿ-chiāⁿ nńg; jiân-āu hì-pau khui hō͘ khong-khì ōe ji̍p, chiū ōe hó.
 
 > **【全漢對照】**
-> 時陣，病人的症狀雖罔是較好，毋過肺臟猶久硬。著小心照顧，聽候彼個硬的質吸收，抑是嗽出嚟，互肺變正軟；然後肺泡開互空氣會入，就會好。
+> 時陣，病人的症狀雖罔是較好，毋過肺臟猶久硬。著小心照顧，聽候彼个硬的質吸收，抑是嗽出嚟，互肺變正軟；然後肺泡開互空氣會入，就會好。
 
 ---
 
@@ -1120,7 +1120,7 @@ seng-khu tio̍h hioh-khùn, sim-sîn tio̍h pêng-an, m̄-thang koh lô-hoân.
 Pīⁿ-sek m̄-thang siuⁿ léng, iā m̄-thang siuⁿ sio; kôaⁿ-thîⁿ ê ūi tio̍h 65° F. (18.3° C.), joa̍h-thîⁿ ê ūi tio̍h 70° F. (21.1° C.). Nā-sī bōe siuⁿ kôaⁿ, pīⁿ-lâng ê bîn-chhng tī gōa-bīn khah ū khong-khì ê só͘-chāi khah ū lī-ek. Nā ū cháu-bé-lâu, hō͘ i hia tó khah hó. Thang-á-mn̂g tio̍h khui, hō͘ khong-khì thang ji̍p. Tī pīⁿ-sek m̄-thang ū chin chōe lâng, chi̍t nn̄g-ê ū kàu-gia̍h; nā khah-chōe, in teh khip-ji̍p pīⁿ-lâng khiàm-ēng ê khong-khì. Nā-sī kôaⁿ-thîⁿ tio̍h ēng mî-phē kàu-gia̍h thang hō͘ i ē sio, chóng-sī m̄-thang siuⁿ chōe, siuⁿ tāng. Tī kha ê só͘-chāi tio̍h ēng sio-chúi-koàn. Chiàu tē it gâu i-seng ê hoat-tō͘, tio̍h chiong léng-chúi sóe-e̍k chhin-chhiūⁿ i-tī sió-tn̂g-jia̍t saⁿ tâng. I ê jia̍t nā-sī khah koâiⁿ 102° F. (38.9° C.), tio̍h ēng léng-chúi 80° F. (26.7° C.) lâi sóe-e̍k (tē 193 bīn). Ēng hái-jiông ùn léng-chúi chhit seng-khu. Bô lūn pīⁿ khin tāng tio̍h ta̍k ji̍t ēng lâ-lûn-sio-chúi sóe seng-khu. Sóe ê sî m̄-thang kiáu-jiáu i. Nā oaⁿ ūi ê sî khàn-hō͘ tio̍h pang-chān i. Chhùi kap phīⁿ-khang tio̍h sóe hō͘ chheng-khì.
 
 > **【全漢對照】**  
-> 病室毋通相冷，也毋通相燒；寒天的位著 65° F. (18.3° C.)，熱天的位著 70° F. (21.1° C.)。若是袂相寒，病人的眠床佇外面較有空氣的所在較有利益。若有走馬樓，予伊遐倒較好。窗仔門著開，予空氣通入。佇病室毋通有真濟人，一兩個有夠額；若較濟，𪜶咧吸入病人欠用的空氣。若是寒天著用棉被夠額通予伊會燒，總是毋通相濟、相重。佇腳的所在著用燒水罐。照第一𠢕醫生ê法度，著將冷水洗浴親像醫治小腸熱相同。伊的熱若是較懸 102° F. (38.9° C.)，著用冷水 80° F. (26.7° C.) 來洗浴（第 193 面）。用海絨搵冷水拭身軀。無論病輕重著逐日用微溫燒水洗身軀。洗的時毋通攪擾伊。若換位的時看護著幫贊伊。嘴佮鼻孔著洗予清氣。
+> 病室毋通相冷，也毋通相燒；寒天的位著 65° F. (18.3° C.)，熱天的位著 70° F. (21.1° C.)。若是袂相寒，病人的眠床佇外面較有空氣的所在較有利益。若有走馬樓，予伊遐倒較好。窗仔門著開，予空氣通入。佇病室毋通有真濟人，一兩个有夠額；若較濟，𪜶咧吸入病人欠用的空氣。若是寒天著用棉被夠額通予伊會燒，總是毋通相濟、相重。佇腳的所在著用燒水罐。照第一𠢕醫生ê法度，著將冷水洗浴親像醫治小腸熱相同。伊的熱若是較懸 102° F. (38.9° C.)，著用冷水 80° F. (26.7° C.) 來洗浴（第 193 面）。用海絨搵冷水拭身軀。無論病輕重著逐日用微溫燒水洗身軀。洗的時毋通攪擾伊。若換位的時看護著幫贊伊。嘴佮鼻孔著洗予清氣。
 
 ---
 
@@ -1269,7 +1269,7 @@ Hì-kiat-hu̍t chèng: Tī tē 360 bīn ū kóng-khí kiat-hu̍t chèng ê sò͘
 Nā-sī hì-chōng ū jiám-tio̍h kiat-hu̍t, tāi-seng khí ê ūi sī téng-pīn ê hì-chiam óa tī só-kut ê só͘-chāi. Hit-tia̍p hì-lāi ū chin chōe kiat-hu̍t, chha-put-to chit ki pín-chiam-thâu ê tōa; chiah ê kiat-hu̍t ná-kú ná-tōa, kúi-nā lia̍p sio-ha̍p, kiò-chòe kiat-hu̍t-kiat-chat (結核結節, *tubercular nodule*). Chit só͘-chāi ê hì-chōng ōe pìⁿ khah tēng, tī hiah ê kiat-chat tiong-ng ê hì-cho-chit ū bān-sèng-iām. Āu-lâi chiah ê kiat-chat ê tiong-ng ū pìⁿ-chiâⁿ khah...
 
 > **【全漢對照】**
-> 若是肺臟有染著結核，起先起的位置是頂面的肺尖倚佇鎖骨的所在。彼霎肺內有真濟結核，差不多一支大頭針頭的大；諸個結核愈久愈大，幾若粒相合，叫做結核結節（結核結節，*tubercular nodule*）。此所在的肺臟會變較硬，佇遐的結節中央的肺組織有慢性炎。後來諸個結節的中央有變成較……
+> 若是肺臟有染著結核，起先起的位置是頂面的肺尖倚佇鎖骨的所在。彼霎肺內有真濟結核，差不多一支大頭針頭的大；諸个結核愈久愈大，幾若粒相合，叫做結核結節（結核結節，*tubercular nodule*）。此所在的肺臟會變較硬，佇遐的結節中央的肺組織有慢性炎。後來諸个結節的中央有變成較……
 
 <!-- Page 577 End -->
 
@@ -1295,7 +1295,7 @@ nńg, pe̍h-pe̍h ê mih chhin-chhiūⁿ gû-leng-piáⁿ. Chit ê mih nā nōa,
 
 > **【全漢對照】**
 > **［邊註：結核症 / 結核孔］**
-> 軟、白白之物親像牛乳餅（起司）。此個物若爛，到後來親像膿之款；若是此號物，會入氣管內，對遐會嗽出去。本然塊生（發）之所在有一孔一孔。病若到遐，若欲閣生湠，彼個結核性之膿，抑是痰，會去佇肺臟之別位，到後來，肺臟內幾若所在有結核孔（第 472 圖）。有時此個病若已經行到肺結核孔，猶原會停止。若是按呢，是真佳哉，也彼個孔會縮較細，有時會變成石（鈣化）；若無閣再起，彼個人死了後，伊之肺臟早前有結核之所在會親像一個傷痕若定。較常無按呢之好，反轉愈久愈嚴重，遐之孔洞變較……
+> 軟、白白之物親像牛乳餅（起司）。此个物若爛，到後來親像膿之款；若是此號物，會入氣管內，對遐會嗽出去。本然塊生（發）之所在有一孔一孔。病若到遐，若欲閣生湠，彼个結核性之膿，抑是痰，會去佇肺臟之別位，到後來，肺臟內幾若所在有結核孔（第 472 圖）。有時此个病若已經行到肺結核孔，猶原會停止。若是按呢，是真佳哉，也彼个孔會縮較細，有時會變成石（鈣化）；若無閣再起，彼个人死了後，伊之肺臟早前有結核之所在會親像一个傷痕若定。較常無按呢之好，反轉愈久愈嚴重，遐之孔洞變較……
 
 ---
 
@@ -1304,7 +1304,7 @@ nńg, pe̍h-pe̍h ê mih chhin-chhiūⁿ gû-leng-piáⁿ. Chit ê mih nā nōa,
 Tē 472 tô͘.—Hì-chōng-lāi ê kiat-hút-khang. Téng-bīn ū chi̍t-ê tōa khang; ē-bīn ê hì ê cho͘-chit ū pìⁿ-chiâⁿ tēng (Mc Farland).
 
 > **【全漢對照】**
-> 第 472 圖。——肺臟內之結核孔。頂面有一個大孔；下面之肺之組織有變成硬（Mc Farland）。
+> 第 472 圖。——肺臟內之結核孔。頂面有一个大孔；下面之肺之組織有變成硬（Mc Farland）。
 
 ---
 
@@ -1389,7 +1389,7 @@ Hit ê kiat-hùt-sòe-khún khah-siông tùi khong-khì ji̍p khì-kńg á-sī k
 
 > **【全漢對照】**
 > **【結核菌】**
-> 彼個結核細菌較常對空氣入氣管，抑是佮食物入腸裡。人若有肺癆也在咧呸痰涎，彼個痰內有細菌；若是已經有嗽的別（其他）人來吸入，按呢驚了會染著。對按呢來看，肺癆症的痰著消滅。來滅細菌的法度，第一好就是加熱（燒熱）。肺癆病人的物件，應該著消毒，親像痰罐、面巾、手巾、眠床的毯仔佮被。
+> 彼个結核細菌較常對空氣入氣管，抑是佮食物入腸裡。人若有肺癆也在咧呸痰涎，彼个痰內有細菌；若是已經有嗽的別（其他）人來吸入，按呢驚了會染著。對按呢來看，肺癆症的痰著消滅。來滅細菌的法度，第一好就是加熱（燒熱）。肺癆病人的物件，應該著消毒，親像痰罐、面巾、手巾、眠床的毯仔佮被。
 
 ---
 
@@ -1401,9 +1401,9 @@ Pīⁿ-sek iáu-bē sàu-tè, tiòh ēng chhò *carbolic* phùn tī thô͘-kha, 
 
 > **【全漢對照】**
 > **【痰／病室】**
-> 若呸痰，著用痰罐，罐內著 *lotio acidi carbolici* 1—40，抑是醋 *carbolic*（石炭酸）。彼個痰攏著拺佇火爐燒，按呢較妥當。
+> 若呸痰，著用痰罐，罐內著 *lotio acidi carbolici* 1—40，抑是醋 *carbolic*（石炭酸）。彼个痰攏著拺佇火爐燒，按呢較妥當。
 > 
-> 病室猶未掃地，著用醋 *carbolic* 噴佇塗跤，抑是地板，掃了後著將彼個糞埽拺佇火爐通燒了去。
+> 病室猶未掃地，著用醋 *carbolic* 噴佇塗跤，抑是地板，掃了後著將彼个糞埽拺佇火爐通燒了去。
 
 ---
 
@@ -1415,7 +1415,7 @@ Hì-lô pīⁿ-lâng khah-siông sī sòng-hiong lâng, tùi án-ni thang chai s
 
 > **【全漢對照】**
 > **【喪鄉人】**
-> 病人已經有染著，猶原毋通餒志，著佮彼個病交戰到死。
+> 病人已經有染著，猶原毋通餒志，著佮彼个病交戰到死。
 > 
 > 肺癆病人較常是喪鄉（貧窮）人，對按呢通知是較惡得（難以）醫治，抑是預防，因為𪜶無……
 
@@ -1471,9 +1471,9 @@ Khip-ji̍p-hoat : Ū-sî ēng io̍h ê khì khip-ji̍p tī hì-chōng-lāi iā s
 Ū-sî chit ê pīⁿ sī chin oh-tit liāu-lí, m̄-kú i-seng kap khàn-hō͘ tiòh sî-siông ēng hoat-tō͘ hō͘ i khah khòaⁿ-o̍ah.
 
 > **【全漢對照】**
-> 吸入法：有時用藥的氣吸入佇肺臟內也是好的法度。所用的藥就是 *creosotum, acidum carbolicum, eucalyptus, tinctura benzoini co.*。這個藥的氣會互嗽較輕，也旁贊（幫助）病人呸痰互伊出來。
+> 吸入法：有時用藥的氣吸入佇肺臟內也是好的法度。所用的藥就是 *creosotum, acidum carbolicum, eucalyptus, tinctura benzoini co.*。這个藥的氣會互嗽較輕，也旁贊（幫助）病人呸痰互伊出來。
 > 
-> 有時這個病是真惡得料理，毋過醫生佮看護著時常用法度互伊較快活。
+> 有時這个病是真惡得料理，毋過醫生佮看護著時常用法度互伊較快活。
 
 ---
 

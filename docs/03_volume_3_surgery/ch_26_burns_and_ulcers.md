@@ -33,7 +33,7 @@ Hé-siong ê hun-piat sī chiàu kì tī ē-tóe :
 
 > **【全漢對照】**  
 > **【六度】**  
-> 火傷有分做六度，是看受傷的所在，深抑淺；總是干單掠這個深淺來分別，是無夠額。彼個傷喙若細，狹狹閣深，檢採𣍐致到傷著性命，毋過若著傷的所在不止闊，雖罔是淺會予人的腦忽然間衰濫，來失落性命。只有燒著要緊的血管，抑是神經，卻毋是按呢講。
+> 火傷有分做六度，是看受傷的所在，深抑淺；總是干單掠這个深淺來分別，是無夠額。彼个傷喙若細，狹狹閣深，檢採𣍐致到傷著性命，毋過若著傷的所在不止闊，雖罔是淺會予人的腦忽然間衰濫，來失落性命。只有燒著要緊的血管，抑是神經，卻毋是按呢講。
 > 
 > 火傷的分別是照記佇下底：
 
@@ -71,7 +71,7 @@ Tē it chām, chiū-sī chín-tōng (震盪 shock). Chit-ê chiū-sī lâng ê s
 
 > **【全漢對照】**  
 > **【震盪】**  
-> 第一站，就是震盪（震盪 shock）。這個就是人的神經系統對受傷的原因較衰濫，較無力，有時若傷重，致到失落性命。
+> 第一站，就是震盪（震盪 shock）。這个就是人的神經系統對受傷的原因較衰濫，較無力，有時若傷重，致到失落性命。
 
 <!-- Page 361 End -->
 
@@ -155,14 +155,14 @@ I-seng sûn keng ê sî, khàn-hō͘ tio̍h tè i, m̄-thang thèng-hāu i-seng 
 Saⁿ-á-khò͘ thǹg-khí-lâi ê sî tiòh put-chí sió-sim, m̄-thang hō͘ tōa tín-tāng. Nā khah lī-piān tiòh ēng ka-to lâi ká i ê saⁿ-á-khò͘, iā tiòh ûn-ûn-á thǹg-khí-lâi. Nā-sī sòe-hàn gín-ná, ū-sî hē tī e̍k-tháng-lāi ê sio-chúi, tī hia thǹg saⁿ sī khah bē thiàⁿ. Chit ê chúi ê un-tō͘ m̄-thang kè 95 tō͘ F. (35.5° C.). Tī chit hō chúi-ni̍h kok 1,000.0 c.c., tiòh chham *acidum boricum* 3 grms.
 
 > **【全漢對照】**
-> 衫仔褲褪起來的時著不止小心，毋通予大振動。若較利便著用鋏刀（剪刀）來絞伊的衫仔褲，也著勻勻仔褪起來。若是細漢囡仔，有時下佇浴桶內的燒水，佇遐褪衫是較袂疼。這個水的溫度毋通過 95 度 F. (35.5° C.)。佇這號水裡各 1,000.0 c.c.，著參 *acidum boricum*（硼酸）3 grms.。
+> 衫仔褲褪起來的時著不止小心，毋通予大振動。若較利便著用鋏刀（剪刀）來絞伊的衫仔褲，也著勻勻仔褪起來。若是細漢囡仔，有時下佇浴桶內的燒水，佇遐褪衫是較袂疼。這个水的溫度毋通過 95 度 F. (35.5° C.)。佇這號水裡各 1,000.0 c.c.，著參 *acidum boricum*（硼酸）3 grms.。
 
 ---
 
 Tiòh tāi-seng pī-pān só͘ beh ēng ê iòh, mî-hoe kap pheng-tòa. Chit-ê sī chòe iàu-kín, in-ūi nā bô tāi-seng pī-pān, ōe ke-thiⁿ i ê kan-khó͘.
 
 > **【全漢對照】**
-> 著代先備辦所欲用的藥、棉花佮繃帶。這個是做要緊，因為若無代先備辦，會加添伊的艱苦。
+> 著代先備辦所欲用的藥、棉花佮繃帶。這个是做要緊，因為若無代先備辦，會加添伊的艱苦。
 
 ---
 
@@ -194,7 +194,7 @@ Iā ū kúi-nā hāng ê iòh, chhin-chhiūⁿ *acidum picricum*, *sodii bicarbo
 Nā-sī tē jī tō͘ ê hé-siong, tiòh ēng kè-sáh chheng-khì ê ka-to, ka khui hit ê phā ê phîⁿ-á, chiah ēng mî-hoe lâi suh hit ê lâu-chhut-lâi ê chúi. Koh chiong chi̍t tè chúi-nî-pò͘, á-sī sím-mi̍h núg-núg ê pò͘, ùn *carron oil* á-sī *linimentum calcis*, ùn hō͘ chiâu tâm, chiah koh sió-khóa chūn, lâi tah-teh. Chit-ê ê téng-bīn tiòh ēng mî-hoe am-teh, nā ū iû-chóa lâi pau sī khah hó; jiân-āu chiah ēng pheng-tòa kā i pàk tiâu-teh.
 
 > **【全漢對照】**
-> 若是第二度的火傷，著用過煠清氣的鋏刀，鋏開彼個泡的皮仔，才用棉花來欶（吸）彼個流出來的水。閣將一塊水呢布（法蘭絨布），抑是甚麼軟軟的布，搵 *carron oil* 抑是 *linimentum calcis*，搵予齊澹，才閣稍許撙（擰乾一點），來貼咧。這個的頂面著用棉花罨咧，若有油紙來包是較好；然後才用繃帶共伊縛牢咧。
+> 若是第二度的火傷，著用過煠清氣的鋏刀，鋏開彼个泡的皮仔，才用棉花來欶（吸）彼个流出來的水。閣將一塊水呢布（法蘭絨布），抑是甚麼軟軟的布，搵 *carron oil* 抑是 *linimentum calcis*，搵予齊澹，才閣稍許撙（擰乾一點），來貼咧。這个的頂面著用棉花罨咧，若有油紙來包是較好；然後才用繃帶共伊縛牢咧。
 
 ---
 
@@ -254,7 +254,7 @@ Hé-siong-tióh ê sî, nā bô pa̍t-mih tī-teh, ēng mī-hún lâi kô iā õ
 Nā-sī siū-tióh chúi-cheng-khì lâi siong-tióh khì-kńg, chit-ê sī gûi-hiám ê chèng. Gōa-bīn tiòh ēng peng lâi hē ām-kún ê só͘-chāi; ū-sî i-seng tiòh chòe khì-kńg-chhiat-khui-su̍t.
 
 > **【全漢對照】**
-> 若是受著水蒸氣來傷著氣管，這個是危險的症。外面著用冰來下頷頸的所在；有時醫生著做氣管切開術。
+> 若是受著水蒸氣來傷著氣管，這个是危險的症。外面著用冰來下頷頸的所在；有時醫生著做氣管切開術。
 
 ---
 
@@ -272,7 +272,7 @@ Nā-sī ūi-tióh sng ê lūi, lâi tióh-siong-ê, tiòh ēng kiⁿ sèng ê i�
 Ōaⁿ pau-siong-liāu ê sî, chiū-sī chin thiàⁿ, só͘-í tiòh sió-sim sòe-jī; tiòh n̄g-ê khàn-hō͘ tàu pang-chān. Tiòh ûn-ûn-á ōaⁿ. Nā-sī siong-chhùi khoah, m̄-bián chòe chit-ē ōaⁿ, phì-lūn lâi kóng, nā n̄g ki kha siong-tióh, chá-khí lâi ōaⁿ chit ki, ē-po͘ ōaⁿ pa̍t ki. Nā õe ēng-tit tiòh ōaⁿ pau-siong-liāu chi̍t ji̍t n̄g pái, m̄-kú nā tōa thiàⁿ, chi̍t pái chiū kàu-gia̍h. Ōaⁿ liáu, tiòh chhòng kiông-sim-che hō͘ chia̍h (chiàu i-seng ê bēng-lēng), gû-leng á-sī ko-phi-tê. Siong-chhùi nā bô tōa kiaⁿ-lâng, chiàu i-seng ê bēng-lēng, pau-siong-liāu, n̄g saⁿ ji̍t ōaⁿ chi̍t pái chiū kàu-gia̍h.
 
 > **【全漢對照】**
-> 換包傷料的時，就是真痛，所以著小心細膩；著兩個看護鬥幫贊。著勻勻仔換。若傷喙闊，毋免做一下換，譬論來講，若兩支跤傷著，早起來源換一支，下晡換別支。若會用得著換包傷料一日兩擺，毋過若大痛，一擺就夠額。換了，著創強心劑互食（照醫生的命令），牛奶抑是咖啡茶。傷喙若無大驚人，照醫生的命令，包傷料，兩三日換一擺就夠額。
+> 換包傷料的時，就是真痛，所以著小心細膩；著兩个看護鬥幫贊。著勻勻仔換。若傷喙闊，毋免做一下換，譬論來講，若兩支跤傷著，早起來源換一支，下晡換別支。若會用得著換包傷料一日兩擺，毋過若大痛，一擺就夠額。換了，著創強心劑互食（照醫生的命令），牛奶抑是咖啡茶。傷喙若無大驚人，照醫生的命令，包傷料，兩三日換一擺就夠額。
 
 <!-- Page 364 End -->
 

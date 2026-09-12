@@ -1884,12 +1884,66 @@ INDEX_HTML_TEMPLATE = r"""<!DOCTYPE html>
 </html>
 """
 
-def normalize_han_punctuation(text: str) -> str:
+def load_hanzi_corrections():
+    """
+    Loads Wrong_Hanzi -> Correct_Hanzi correction mapping from correction_漢字.xlsx / .xls.
+    Returns a dict mapping wrong -> correct, sorted by length of wrong string descending.
+    """
+    corrections = {}
+    candidate_files = [
+        "correction_漢字.xlsx", "correction_漢字.xls",
+        "correction_hanzi.xlsx", "correction_hanzi.xls",
+        "config/correction_漢字.xlsx", "config/correction_hanzi.xlsx"
+    ]
+    for fn in candidate_files:
+        if os.path.exists(fn):
+            try:
+                import pandas as pd
+                df = pd.read_excel(fn)
+                wrong_col = None
+                correct_col = None
+                for col in df.columns:
+                    col_str = str(col).strip()
+                    if col_str in ["錯誤漢字", "錯誤", "原漢字", "Wrong", "Wrong_Hanzi", "錯誤詞"]:
+                        wrong_col = col
+                    elif col_str in ["正確漢字", "正確", "正字", "Correct", "Correct_Hanzi", "正確認字"]:
+                        correct_col = col
+                if not wrong_col or not correct_col:
+                    if len(df.columns) >= 2:
+                        wrong_col = df.columns[0]
+                        correct_col = df.columns[1]
+                
+                if wrong_col and correct_col:
+                    for _, row in df.iterrows():
+                        wrong = str(row.get(wrong_col, "")).strip()
+                        correct = str(row.get(correct_col, "")).strip()
+                        if wrong and correct and wrong != "nan" and correct != "nan":
+                            corrections[wrong] = unicodedata.normalize('NFC', correct)
+            except Exception as e:
+                print(f"⚠️ 讀取漢字勘誤表 {fn} 失敗: {e}")
+    # Sort keys by length descending so longer phrases are matched before single characters
+    sorted_corrections = dict(sorted(corrections.items(), key=lambda item: len(item[0]), reverse=True))
+    return sorted_corrections
+
+def apply_hanzi_corrections(text: str, hanzi_corrections: dict) -> str:
+    """Applies Hanzi corrections across a text string."""
+    if not hanzi_corrections or not text:
+        return text
+    result = text
+    for wrong, correct in hanzi_corrections.items():
+        if wrong in result:
+            result = result.replace(wrong, correct)
+    return result
+
+def normalize_han_punctuation(text: str, hanzi_corrections: dict = None) -> str:
     """
     Normalizes text to standard Unicode NFC (precomposed) and converts
     half-width punctuation to standard full-width punctuation marks.
+    Also applies Hanzi corrections to translation blockquotes and annotations.
     """
     text = unicodedata.normalize('NFC', text)
+    if hanzi_corrections:
+        text = apply_hanzi_corrections(text, hanzi_corrections)
     lines = text.split("\n")
     out_lines = []
     
@@ -2000,8 +2054,11 @@ def generate_dictionary_dataset():
     """Extracts all vocabulary from the entire 705-page corpus + GÚ-LŪI + SEK-ÍN into a structured JSON dataset."""
     print("📚 正在編譯全書 705 頁全語料庫大辭典（含一語、二語、三語、四語與附錄語彙/索引）...")
     corrections = load_corrections()
+    hanzi_corrections = load_hanzi_corrections()
     if corrections:
         print(f"  📝 已套用 {len(corrections)} 組羅馬字勘誤規則: {corrections}")
+    if hanzi_corrections:
+        print(f"  📝 已套用 {len(hanzi_corrections)} 組漢字勘誤規則: {hanzi_corrections}")
     book_structure = load_book_structure()
     page_map = {}
     for sec in book_structure["sections"]:
@@ -2026,12 +2083,9 @@ def generate_dictionary_dataset():
                     cols = [c.strip() for c in line.split("|")[1:-1]]
                     if len(cols) >= 3 and cols[0]:
                         poj = apply_text_corrections(cols[0].rstrip(",").strip(), corrections)
-                        han = cols[1].strip()
+                        han = apply_hanzi_corrections(cols[1].strip(), hanzi_corrections)
                         if han in corrections:
                             poj = corrections[han]
-                        if han in corrections:
-                            poj = corrections[han]
-                        han = cols[1].strip()
                         eng = cols[2].rstrip(".").strip()
                         notes = cols[3].strip() if len(cols) > 3 else ""
                         clean_k = clean_tone(poj)
@@ -2063,12 +2117,9 @@ def generate_dictionary_dataset():
                     cols = [c.strip() for c in line.split("|")[1:-1]]
                     if len(cols) >= 3 and cols[0]:
                         poj = apply_text_corrections(cols[0].rstrip(",").strip(), corrections)
-                        han = cols[1].strip()
+                        han = apply_hanzi_corrections(cols[1].strip(), hanzi_corrections)
                         if han in corrections:
                             poj = corrections[han]
-                        if han in corrections:
-                            poj = corrections[han]
-                        han = cols[1].strip()
                         p_str = cols[2].strip()
                         clean_k = clean_tone(poj)
                         refs = []
@@ -2140,6 +2191,8 @@ def generate_dictionary_dataset():
         i_info = index_map.get(clean_k)
         
         han = g_info["han"] if g_info else (i_info["han"] if i_info else "")
+        if han:
+            han = apply_hanzi_corrections(han, hanzi_corrections)
         eng = g_info["eng"] if g_info else ""
         notes = g_info["notes"] if g_info else ""
         
@@ -2163,98 +2216,93 @@ def generate_dictionary_dataset():
         entries.append({
             "id": eid,
             "poj": best_variant,
-            "clean": clean_k,
             "han": han,
             "eng": eng,
             "notes": notes,
-            "page": first_p,
-            "freq": count,
-            "page_count": len(pages_list),
             "type": syllable_type,
-            "is_glossary": g_info is not None,
-            "is_index": i_info is not None,
             "type_name": type_name,
-            "letter": get_first_letter(best_variant),
+            "first_letter": get_first_letter(best_variant),
+            "clean": clean_k,
+            "count": count,
+            "page": first_p,
             "target": pm["target"],
-            "ch_title": pm["title"],
             "refs": refs
         })
-        seen_keys.add(clean_k)
         eid += 1
+        seen_keys.add(clean_k)
 
-    # Add remaining GÚ-LŪI terms
-    for g in glossary_entries:
-        clean_k = clean_tone(g["poj"])
+    # 5. Append standalone Glossary Entries not matched in corpus
+    for g_item in glossary_entries:
+        clean_k = clean_tone(g_item["poj"])
         if clean_k not in seen_keys:
-            s_count = len(g["poj"].split("-"))
-            syllable_type = "s1" if s_count == 1 else "s2" if s_count == 2 else "s3" if s_count == 3 else "s4" if s_count == 4 else "s_multi"
-            syllable_name = "一語" if s_count == 1 else "二語" if s_count == 2 else "三語" if s_count == 3 else "四語" if s_count == 4 else f"{s_count}語"
-            pm = page_map.get(g["page"], {"target": "05_glossary/medical_glossary", "title": "語彙 GÚ-LŪI"})
+            pm = page_map.get(g_item["page"], {"target": "README", "title": ""})
             entries.append({
                 "id": eid,
-                "poj": g["poj"],
+                "poj": g_item["poj"],
+                "han": apply_hanzi_corrections(g_item["han"], hanzi_corrections),
+                "eng": g_item["eng"],
+                "notes": g_item["notes"],
+                "type": "glossary",
+                "type_name": "三語辭彙",
+                "first_letter": get_first_letter(g_item["poj"]),
                 "clean": clean_k,
-                "han": g["han"],
-                "eng": g["eng"],
-                "notes": g["notes"],
-                "page": g["page"],
-                "freq": 1,
-                "page_count": 1,
-                "type": syllable_type,
-                "is_glossary": True,
-                "is_index": False,
-                "type_name": f"{syllable_name} · 三語語彙",
-                "letter": get_first_letter(g["poj"]),
+                "count": 1,
+                "page": g_item["page"],
                 "target": pm["target"],
-                "ch_title": pm["title"],
-                "refs": [{"page": g["page"], "target": pm["target"]}]
+                "refs": [{"page": g_item["page"], "target": pm["target"]}]
             })
-            seen_keys.add(clean_k)
             eid += 1
+            seen_keys.add(clean_k)
 
-    # Add remaining SEK-ÍN terms
-    for idx_item in index_entries:
-        clean_k = clean_tone(idx_item["poj"])
+    # 6. Append standalone Index Entries not matched in corpus
+    for i_item in index_entries:
+        clean_k = clean_tone(i_item["poj"])
         if clean_k not in seen_keys:
-            s_count = len(idx_item["poj"].split("-"))
-            syllable_type = "s1" if s_count == 1 else "s2" if s_count == 2 else "s3" if s_count == 3 else "s4" if s_count == 4 else "s_multi"
-            syllable_name = "一語" if s_count == 1 else "二語" if s_count == 2 else "三語" if s_count == 3 else "四語" if s_count == 4 else f"{s_count}語"
-            pm = page_map.get(idx_item["page"], {"target": "06_index/general_index", "title": "總索引 SEK-ÍN"})
+            pm = page_map.get(i_item["page"], {"target": "README", "title": ""})
             entries.append({
                 "id": eid,
-                "poj": idx_item["poj"],
-                "clean": clean_k,
-                "han": idx_item["han"],
+                "poj": i_item["poj"],
+                "han": apply_hanzi_corrections(i_item["han"], hanzi_corrections),
                 "eng": "",
                 "notes": "",
-                "page": idx_item["page"],
-                "freq": 1,
-                "page_count": len(idx_item.get("refs", [])) or 1,
-                "type": syllable_type,
-                "is_glossary": False,
-                "is_index": True,
-                "type_name": f"{syllable_name} · 總索引",
-                "letter": get_first_letter(idx_item["poj"]),
+                "type": "index",
+                "type_name": "總索引",
+                "first_letter": get_first_letter(i_item["poj"]),
+                "clean": clean_k,
+                "count": len(i_item["refs"]),
+                "page": i_item["page"],
                 "target": pm["target"],
-                "ch_title": pm["title"],
-                "refs": idx_item.get("refs", [])
+                "refs": i_item["refs"]
             })
-            seen_keys.add(clean_k)
             eid += 1
+            seen_keys.add(clean_k)
 
-    assets_dir = os.path.join(DOCS_DIR, "assets")
-    os.makedirs(assets_dir, exist_ok=True)
-    dict_js_path = os.path.join(assets_dir, "dictionary_data.js")
+    # Sort entries by POJ (clean tone)
+    entries.sort(key=lambda x: clean_tone(x["poj"]))
+    # Re-index id
+    for idx, e in enumerate(entries):
+        e["id"] = idx + 1
+
+    # Output dictionary dataset JS
+    dict_js_path = os.path.join(DOCS_DIR, "assets/dictionary_data.js")
+    os.makedirs(os.path.dirname(dict_js_path), exist_ok=True)
     with open(dict_js_path, "w", encoding="utf-8") as f:
-        f.write("window.LAIGOAKHO_DICT_DATA = " + json.dumps(entries, ensure_ascii=False) + ";")
+        f.write("window.LAIGOAKHO_DICTIONARY = " + json.dumps(entries, ensure_ascii=False, indent=2) + ";\n")
+
     print(f"✅ 全語料醫學台語大辭典資料集已生成: {dict_js_path} (共 {len(entries):,} 筆詞條)")
     return entries
 
 def build_chapters():
     book_structure = load_book_structure()
     sections = book_structure["sections"]
+    corrections = load_corrections()
+    hanzi_corrections = load_hanzi_corrections()
     
     print("🔨 開始聚合章節 Markdown 文件至 docs/...")
+    if hanzi_corrections:
+        print(f"  📝 已載入 {len(hanzi_corrections)} 組漢字勘誤規則: {hanzi_corrections}")
+    if corrections:
+        print(f"  📝 已載入 {len(corrections)} 組羅馬字勘誤規則: {corrections}")
     
     vol_display_names = {
         "00_Front_Matter": "📖 前言與凡例 (Front Matter)",
@@ -2332,7 +2380,7 @@ def build_chapters():
                         total_illustrations_embedded += 1
                     chapter_chunks.append("</div>\n\n")
                     
-                p_text_norm = normalize_han_punctuation(p_text)
+                p_text_norm = normalize_han_punctuation(p_text, hanzi_corrections)
                 chapter_chunks.append(p_text_norm.strip())
                 chapter_chunks.append(f"\n\n<!-- Page {p_num:03d} End -->\n\n---\n\n")
                 total_words += len(p_text_norm)

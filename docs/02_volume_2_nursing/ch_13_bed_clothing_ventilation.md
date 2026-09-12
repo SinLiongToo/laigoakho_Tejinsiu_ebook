@@ -108,7 +108,7 @@ chiàu-kò͘ pīⁿ-lâng, m̄-thang hō͘ i chhe-tio̍h hong koh kám-tio̍h.
 Pīⁿ tāng ê lâng bōe tit lo̍h bîn-chhîng, khàn-hō͘ ti̍h chiàu i-īⁿ ê kui-kú, ta̍k lé-pài kā pīⁿ-lâng ōaⁿ n̄g pái bîn-chhîng. Hit-ê hoat-tō͘ ti̍h lēng-gōa chiong chi̍t tiuⁿ bîn-chhîng chhu hó-sè, ēng sì ê lâng, chiong pīⁿ-lâng khin-khin sóa kè sin chhòng ê bîn-chhîng ; nā-sī pīⁿ-lâng siong-tiōng, tek-khak ti̍h cha̍p-hun sió-sim.
 
 > **【全漢對照】**
-> 病重的人袂得落眠床，看護著照醫院的規矩，逐禮拜共病人換兩擺眠床。彼個法度著另外將一張眠床鋪好勢，用四個人，將病人輕輕徙過新創的眠床；若是病人傷重，的確著十分小心。
+> 病重的人袂得落眠床，看護著照醫院的規矩，逐禮拜共病人換兩擺眠床。彼个法度著另外將一張眠床鋪好勢，用四个人，將病人輕輕徙過新創的眠床；若是病人傷重，的確著十分小心。
 
 ---
 
@@ -170,8 +170,8 @@ Hian jiòk-á ê hoat-tō͘ :
 > 掀褥仔的法度：  
 > 1. 棉被佮毯仔提起來下佇一塊椅頂。用被單鋪佇病人，兩旁抾來揱佇伊身軀下。枕頭著提起來下邊仔。  
 > 2. 將病人扛佇褥仔的邊仔。  
-> 3. 看護著將褥仔拖到眠床邊；彼霎鐵做的褥仔已經掀。（這個是咧講外國款的眠床）。  
-> 4. 用三個枕頭下佇鐵做的褥仔頂；扛病人到遐。  
+> 3. 看護著將褥仔拖到眠床邊；彼霎鐵做的褥仔已經掀。（這个是咧講外國款的眠床）。  
+> 4. 用三个枕頭下佇鐵做的褥仔頂；扛病人到遐。  
 > 5. 褥仔著對頭掀。用清氣的被單鋪，佮清氣細領被單亦好。扛病人佇褥仔頂，才勻勻仔拖到原位（第 116 圖）。
 
 ---
@@ -189,7 +189,7 @@ Nā tī piⁿ-á ū lēng-gōa koh chi̍t tiuⁿ bîn-chhng lâi ēng kng pīⁿ
 Pīⁿ-lâng ê kut-chi̍h, hit-ê chháu chòe ê jiòk-á-ē, tio̍h ké n̄g tè chhâ pang ; chhian-bān m̄-thang hō͘ bîn-chhng ōe iô-tāng, in-ūi chit khoán ê pīⁿ kài khí-khek bîn-chhng teh iô-tāng.
 
 > **【全漢對照】**
-> 病人的骨折，彼個草做的褥仔下，著加兩塊柴板；千萬毋通予眠床會搖動，因為這款的病極忌諱眠床咧搖動。
+> 病人的骨折，彼个草做的褥仔下，著加兩塊柴板；千萬毋通予眠床會搖動，因為這款的病極忌諱眠床咧搖動。
 
 ---
 
@@ -237,7 +237,7 @@ Nā bô jîn-ài, lán ê kang kui tī khang-khang.
 Ū hit hō m̄-sī kui seng-khu ū pīⁿ-ê, thang ēng chi̍t pòaⁿ ê chhiū-leng jiók-á, á-sī ēng chi̍t-ê chhiū-leng chím-thâu chiū kàu-gia̍h; m̄-bián ēng kàu siuⁿ tōa-ê.
 
 > **【全漢對照】**  
-> 有彼號毋是規身軀有病的，通用一半的樹奶褥仔，抑是用一個樹奶枕頭就夠額；毋免用到傷大的。
+> 有彼號毋是規身軀有病的，通用一半的樹奶褥仔，抑是用一个樹奶枕頭就夠額；毋免用到傷大的。
 
 ---
 
@@ -407,7 +407,7 @@ Khàn-hō͘ tio̍h chai jio̍k-siong m̄-tān-nā óa tēng kut ê só͘-chāi �
 
 > **【全漢對照】**
 > *（側標：預防褥傷的方法）*
-> 看護著知褥傷毋但倚硬骨的所在會生爾定。尻脊的脊椎骨、肩胛骨、肘關節後、大腿骨、跤後跟骨、囡仔的後硞，諸個所在攏會生褥傷。也跤盤及跤指頭仔，會予彼號蓋的被壓著，到疼。
+> 看護著知褥傷毋但倚硬骨的所在會生爾定。尻脊的脊椎骨、肩胛骨、肘關節後、大腿骨、跤後跟骨、囡仔的後硞，諸个所在攏會生褥傷。也跤盤及跤指頭仔，會予彼號蓋的被壓著，到疼。
 
 ---
 
@@ -452,7 +452,7 @@ Chòe tāng ê jio̍k-siong, chiū-sī sin ji̍p īⁿ ê pīⁿ-lâng, in-ūi i
 3. Nā chiong pīⁿ-lâng ê phê-hu khah khoài lòe-tióh ê só͘-chāi, hō͘ i ōe kian-kò͘, chiū khah bōe siⁿ jiók-siong. Chhin-chhiūⁿ kā pīⁿ-lâng sóe-e̍k, chhit hō͘ ta, siông-siông hō͘ i ê sin-thé ōe oa̍h-tāng. _Alcohol_ (hé-chiú) kài ōe hō͘ lâng phê-bah kian-kò͘. Nā kan-ta ēng chiú, hit ê la̍t bô kah lōa tōa, tióh chiong chiú ùn chiú chhut la̍t lù nn̄g saⁿ hun-cheng-kú, chiong huih-kńg lù hō͘ i ōe oa̍h, chiah ū kong-hāu. Nā kan-ta ēng chiú kā boah hit phê-nih, sī lóng bô lō͘-ēng, pe̍h-pe̍h liáu chiú nā-tiāⁿ. Ēng phû-tô-chiú lâi lù, iā hó. Nā ēng hó ê sat-bûn ùn tâm boah hē phê-hu-nih, ēng chhiú tōa la̍t kā i thut, iā sī ōe tī-hông jiók-siong ê hoat-tō͘.
 
 > **【全漢對照】**
-> 3. 若將病人的皮膚較快擂著的所在，予伊會堅固，就較𣍐生褥傷。親像共病人洗浴，拭予乾，常常予伊的身體會活動。_Alcohol_（火酒）蓋會予人皮肉堅固。若單單用酒，彼個力無合偌大，著將手搵酒出力捤兩三分鐘久，將血管捤予伊會活，才有功效。若單單用酒共抹彼皮nih，是攏無路用，白白了酒若定。用葡萄酒來捤，也好。若用好的雪文搵澹抹下皮膚nih，用手大力共伊褪，也是會預防褥傷的法度。
+> 3. 若將病人的皮膚較快擂著的所在，予伊會堅固，就較𣍐生褥傷。親像共病人洗浴，拭予乾，常常予伊的身體會活動。_Alcohol_（火酒）蓋會予人皮肉堅固。若單單用酒，彼个力無合偌大，著將手搵酒出力捤兩三分鐘久，將血管捤予伊會活，才有功效。若單單用酒共抹彼皮nih，是攏無路用，白白了酒若定。用葡萄酒來捤，也好。若用好的雪文搵澹抹下皮膚nih，用手大力共伊褪，也是會預防褥傷的法度。
 
 ---
 
@@ -515,14 +515,14 @@ $$\left.
 chit tè mî-hoe lâi khè kha-āu-tiⁿ téng-bīn hit tiâu tōa tiâu kun (*Tendo Achilis*). Á-sī ēng mî, pheng-tòa, chòe chit ê îⁿ-khoân lâi khè tī kha-āu-tiⁿ (tē 119 tô͘).
 
 > **【全漢對照】**  
-> 一塊棉花來硩腳後腱頂面彼條大條筋（*Tendo Achilis*，阿基里斯腱）。抑是用棉、繃帶，做一個圓環來硩佇腳後腱（第 119 圖）。
+> 一塊棉花來硩腳後腱頂面彼條大條筋（*Tendo Achilis*，阿基里斯腱）。抑是用棉、繃帶，做一个圓環來硩佇腳後腱（第 119 圖）。
 
 ---
 
 6. Kái-piⁿ, ē-sin, koh-ē-khang, leng-phông-ē (乳房, *breasts*), chiah ê só͘-chāi ōe khah khoài tâm-sip, tióh sî-siông chhit hō͘ i ta, sòa so ióh-hún.
 
 > **【全漢對照】**  
-> 6. 䘥邊（胯下）、下身、夾下空（腋下）、乳房下（乳房，*breasts*），諸個所在會較快湛濕，著時常拭予伊焦，續挲藥粉。
+> 6. 䘥邊（胯下）、下身、夾下空（腋下）、乳房下（乳房，*breasts*），諸个所在會較快湛濕，著時常拭予伊焦，續挲藥粉。
 
 ---
 
@@ -539,7 +539,7 @@ chit tè mî-hoe lâi khè kha-āu-tiⁿ téng-bīn hit tiâu tōa tiâu kun (*T
 7. Pīⁿ-lâng nā tāi-piān á-sī siáu-piān sit kìm, tióh sî-siông ēng siū-jiō-khì. Tióh ēng mî kap pheng-tòa lâi khè-teh, m̄-thang hō͘ pīⁿ-lâng ê phê-hu khè-tióh siū-jiō-khì, in-ūi khoài-khoài sīⁿ jiók-siong. Tióh put-sî sóe chheng-khì, chhit ta, sòa so ióh-hún. Nā pīⁿ-lâng siông-siông kaùh-kaùh-ngiàuh, siū-jiō-khì khah bōe thang tiāⁿ-tiāⁿ hē tī hia. Tióh ēng pát khoán ê hoat-tō͘. Chhin-chhiūⁿ ēng chho͘ mî, á-sī ēng pheng-tòa lâi pau kù-sut-hu, chiah sîn tī tāi-, siáu-piān ê só͘-chāi. Chit-ê nā kiaⁿ-lâng tióh sûi-sî ōaⁿ chheng-khì-ê. Nā-sī thoân-jiám pīⁿ, kù-sut-hu tióh sòa sio-lio-khì. Hit sî, pīⁿ-lâng bak-tióh kiaⁿ-lâng ê só͘-chāi, tióh sòa sóe, chhit ta, ēng hé-chiú lù, so ióh-hún, chiah ōe ēng-tit. Koh ēng iû-pò͘ á-sī iû-chóa chū tī ē-tóe, jiók-á khah bōe kè tâm. Ū-sî ēng *zinci oxidum* iû boah hiah ê tâm-sip ê só͘-chāi ; chóng-sī iû-goân tióh chheng-khì. Boah iû ê só͘-chai m̄-thang so ióh-hún in-ūi ōe liâm, sòa kiān kui-pa, tì-kàu khí jiók-siong.
 
 > **【全漢對照】**  
-> 7. 病人若大便抑是小便失禁，著時常用受尿器（便器/尿壺）。著用棉佮繃帶夾硩咧，毋通用病人的皮膚硩著受尿器，因為快快生褥傷。著不時洗清氣，拭焦，續挲藥粉。若病人常常反動掣（亂動輾轉），受尿器較袂通定定下佇遐。著用別款的法度。親像用粗棉，抑是用繃帶包樹膠布（*gutta-percha*），才墊佇大、小便的所在。這個若染穢（見穢）著隨時換清氣的。若是傳染病，樹膠布著續燒了去。彼時，病人溽著穢污的所在，著續洗，拭焦，用火酒（酒精）擂，挲藥粉，才會用得。閣用油布抑是油紙墊佇下底，褥仔較袂過濕。有時用 *zinci oxidum*（氧化鋅）油抹遐的湛濕的所在；總是猶原著清氣。抹油的所在毋通挲藥粉因為會黏，續結歸葩（團聚成塊），致到起褥傷。
+> 7. 病人若大便抑是小便失禁，著時常用受尿器（便器/尿壺）。著用棉佮繃帶夾硩咧，毋通用病人的皮膚硩著受尿器，因為快快生褥傷。著不時洗清氣，拭焦，續挲藥粉。若病人常常反動掣（亂動輾轉），受尿器較袂通定定下佇遐。著用別款的法度。親像用粗棉，抑是用繃帶包樹膠布（*gutta-percha*），才墊佇大、小便的所在。這个若染穢（見穢）著隨時換清氣的。若是傳染病，樹膠布著續燒了去。彼時，病人溽著穢污的所在，著續洗，拭焦，用火酒（酒精）擂，挲藥粉，才會用得。閣用油布抑是油紙墊佇下底，褥仔較袂過濕。有時用 *zinci oxidum*（氧化鋅）油抹遐的湛濕的所在；總是猶原著清氣。抹油的所在毋通挲藥粉因為會黏，續結歸葩（團聚成塊），致到起褥傷。
 
 ---
 
@@ -598,7 +598,7 @@ Jiók-siong tī-liâu-hoat sī i-seng ê koan-hē, chóng-sī ū-sî i-seng kah 
 
 > **【全漢對照】**
 > ### 皮已經破
-> 1. 皮膚若已經破，彼個火酒毋通嚕倚破孔的所在。著一日兩擺用撒汶及水洗清潔，閣拭焦。用 *zinci oxidum*（氧化鋅）油抹傷喙，及佇邊仔的皮膚。較無倚傷喙的皮膚，猶原用火酒共嚕。
+> 1. 皮膚若已經破，彼个火酒毋通嚕倚破孔的所在。著一日兩擺用撒汶及水洗清潔，閣拭焦。用 *zinci oxidum*（氧化鋅）油抹傷喙，及佇邊仔的皮膚。較無倚傷喙的皮膚，猶原用火酒共嚕。
 > 2. 照頂面的法度，設法互身軀無壓著傷喙。
 
 ---
@@ -820,7 +820,7 @@ Tē 124 tô͘:—Lú ê siū-jiō-khì.
 7. Sió-tng-jia̍t, á-sī pa̍t khoán thoân-jiám pīⁿ, hit ê chiàu-kò͘ ê hoat-tō͘, ū kì tī tē 37 chiuⁿ.
 
 > **【全漢對照】**
-> 7. 傷寒熱，抑是別款傳染病，彼個照顧的法度，有記佇第 37 章。
+> 7. 傷寒熱，抑是別款傳染病，彼个照顧的法度，有記佇第 37 章。
 
 ---
 
@@ -864,7 +864,7 @@ Sóe chhùi ê hoat : 1. Pīⁿ-lâng nā kàu-gia̍h ióng, tióh chi̍t ji̍t 
 5. Siat-sú nā pīⁿ-lâng m̄-chai-lâng, bô ài lâng kā i chhit chhùi, tióh kiò pa̍t ê khàn-hō͘ kā i tàu kha-chhiú. Nā tióh ēng khui-chhùi-khì, tióh ēng chhiū-leng ê that-á, á-sī kim-kim bô siuⁿ tēng ê chhâ. Hit ê bé-liu tióh chǹg
 
 > **【全漢對照】**
-> 5. 設使若病人毋知人，無愛人共伊拭喙，著叫別的看護共伊湊跤手。若著用開喙器，著用樹乳的塞仔，抑是金金無傷硬的柴。彼個尾溜著鑽……
+> 5. 設使若病人毋知人，無愛人共伊拭喙，著叫別的看護共伊湊跤手。若著用開喙器，著用樹乳的塞仔，抑是金金無傷硬的柴。彼个尾溜著鑽……
 
 ---
 
@@ -985,7 +985,7 @@ Tāi-seng ēng sat-bûn ùn sio-chúi khí-lâi, lù thâu-khak hō͘ i chiâu t
 Thong khong-khì ê hoat-tō͘, m̄-nā ūi-tióh pīⁿ-lâng ê lī-ek, khàn-hō͘ iā sī ū lī-ek, chóng-sī gō͘-cha̍p ê pīⁿ-lâng ê tiong-kan, tāi-khài bô chi̍t-ê hoaⁿ-hí beh khui thang-á, tek-khak tio̍h ēng hó ê ōe lâi khó͘-khǹg in ; tio̍h chai chhù-lāi tek-khak tio̍h ū sin ê khong-khì, lâi ōaⁿ-khì chiah ê ù-òe ê khì. Chit tiâu lí bô lūn phòa-pīⁿ-lâng àn-cháiⁿ kóng, khàn-hō͘ tio̍h it-khài m̄-thang thiaⁿ. Ji̍t--sî khui thang-á ê sî-chūn, tang-thiⁿ hē-thiⁿ sī siāng chi̍t-iūⁿ, nā-sī thiⁿ-khì khah sio-joa̍h, mî-sî iā thang chiàu chū-kí ê ì-sù lâi khui thang-á. Chóng-sī iàu-kín tio̍h sío-sim. Pīⁿ-lâng ê
 
 > **【全漢對照】**
-> 通空氣的法度，毋但為著病人的利益，看護也是有利益，總是五十個病人的中間，大概無一個歡喜欲開窗仔，的確著用好的話來苦勸𪜶；著知厝內的確著有新的空氣，來換去諸個污穢的氣。這條理無論破病人按怎講，看護著一概毋通聽。日時開窗仔的時陣，冬天夏天是成一樣，若是天氣較燒熱，暝時也通照自己的意思來開窗仔。總是要緊著小心。病人的……
+> 通空氣的法度，毋但為著病人的利益，看護也是有利益，總是五十个病人的中間，大概無一个歡喜欲開窗仔，的確著用好的話來苦勸𪜶；著知厝內的確著有新的空氣，來換去諸个污穢的氣。這條理無論破病人按怎講，看護著一概毋通聽。日時開窗仔的時陣，冬天夏天是成一樣，若是天氣較燒熱，暝時也通照自己的意思來開窗仔。總是要緊著小心。病人的……
 
 ---
 
@@ -994,7 +994,7 @@ Thong khong-khì ê hoat-tō͘, m̄-nā ūi-tióh pīⁿ-lâng ê lī-ek, khàn-
 Koh tī pa̍t-ê pèng bô chín-kiù ; in-ūi tī thiⁿ-ē, bô siúⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ Hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
+> 閣佇別个並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 187 End -->
 
@@ -1019,7 +1019,7 @@ bîn-chhîng, nā kó-jiân ē chhiong-tio̍h hong, khàn-hō͘ tio̍h ēng ûi-
 
 > **【全漢對照】**
 > **［通空氣］**
-> 眠床，若果然會衝著風，看護著用圍屏來遮則好。大概來講，看護著會明白天氣的寒熱，照彼個坎站來開來關的理氣，這是佇恁的學問、見識看怎樣啦；親像天氣若太冷，抑是著開窗仔予通氣，不過著加給病人著衫，及蓋被，就無要緊；聽候空氣換了就連鞭通閣關。閣一項毋通為著一個人的緣故，來給𪜶開關，這就是高等看護的代誌。
+> 眠床，若果然會衝著風，看護著用圍屏來遮則好。大概來講，看護著會明白天氣的寒熱，照彼个坎站來開來關的理氣，這是佇恁的學問、見色看怎樣啦；親像天氣若太冷，抑是著開窗仔予通氣，不過著加給病人著衫，及蓋被，就無要緊；聽候空氣換了就連鞭通閣關。閣一項毋通為著一个人的緣故，來給𪜶開關，這就是高等看護的代誌。
 
 ---
 
@@ -1047,9 +1047,9 @@ Tāi-khài lâi kóng, thong khong-khì ê hoat-tō͘, tio̍h siông-siông hō�
 
 > **【全漢對照】**
 > **［開窗仔］**
-> 病室的頂面著有窗仔，卡通透諸個驚人的氣，因為唔好的氣，較多佇頂面；若袂會佇房頂開窗仔，的確著開門楣抑是開窗仔。
+> 病室的頂面著有窗仔，卡通透諸个驚人的氣，因為唔好的氣，較多佇頂面；若袂會佇房頂開窗仔，的確著開門楣抑是開窗仔。
 > 
-> 大概來講，通空氣的法度，著常常予伊拄好，暝及日同一樣；若日時有咧換空氣，暝時就緊關，按呢起頭是好，毋過後來油原是無路用。佇第 127 圖彼個窗仔通空氣的法，就是有雙堵……
+> 大概來講，通空氣的法度，著常常予伊拄好，暝及日同一樣；若日時有咧換空氣，暝時就緊關，按呢起頭是好，毋過後來油原是無路用。佇第 127 圖彼个窗仔通空氣的法，就是有雙堵……
 
 <!-- Page 188 End -->
 

@@ -40,7 +40,7 @@ Lūn sîn-keng pīⁿ khiok sī chin chōe, tī chia só kóng-ê sī khah-siôn
 Náu-chhut-huih : Goân-in : Nî-hè : Lâng ná-lāu ná-khoài tú-tio̍h chit hō pīⁿ. Lâng nā khah pûi, ām-kún té khah khoài tú-tio̍h. Sīn-chōng pīⁿ. Sim-khok-tiong. Ta-pó͘-lâng khah-chōe. Tōng-me̍h pīⁿ, chiū-sī tōng-me̍h piàn-tēng á-sī piàn-nōa. Tōng-me̍h pīⁿ ê goân-in chiū-sī chia̍h chiú, kè ím, kè lô, mûi-to̍k ; chiah-ê iû-goân sī náu-chhut-huih ê goân-in.
 
 > **【全漢對照】**  
-> 腦出血：原因：年歲：人愈老愈快抵著這號病。人若較肥，頷頸短較快抵著。腎臟病。心擴張。查甫人較多。動脈病，就是動脈變硬抑是變爛。動脈病的原因就是食酒、過飲、過勞、梅毒；諸個猶原是腦出血的原因。
+> 腦出血：原因：年歲：人愈老愈快抵著這號病。人若較肥，頷頸短較快抵著。腎臟病。心擴張。查甫人較多。動脈病，就是動脈變硬抑是變爛。動脈病的原因就是食酒、過飲、過勞、梅毒；諸个猶原是腦出血的原因。
 
 ---
 
@@ -92,7 +92,7 @@ bé khip-siu, pīⁿ chit-ê siong-hûn (瘢痕, scar). Tio̍h chai chit hō sī
 **Goân-in**： Ū chi̍t khoán tiāⁿ-tio̍h ê sòe-khún ōe thoân-jiám. Thoân-jiám-tio̍h chit khoán ê sòe-khún ê tāi-pō͘-hūn, sī gín-ná, kap siàu-liân lâng. Chit-ê kiò-chòe liû-hêng-sèng (流行性, epidemic) náu-chek-chhé-mo̍h-iām. Hì-iām-khún, kiat-hu̍t-khún, liân-só-chiōng-kiû-khún kap phû-tô-chiōng-kiû-khún. Thoân-jiám pīⁿ chhin-chhiūⁿ sió-tng-jia̍t, si̍t-hû-tek-lí-a, tiong-hī-iām, choân-gán-kiû-iām, gōa-siong. Téng-bīn só͘ kì-ê lóng ōe chòe náu-mo̍h-iām ê goân-in.
 
 > **【全漢對照】**
-> **原因**：有一款定著的細菌會傳染。傳染著這款的細菌的大部分，是囡仔，佮少年人。這個號做流行性（流行性，epidemic）腦脊髓膜炎。肺炎菌、結核菌、連鎖狀球菌佮葡萄狀球菌。傳染病親像小腸熱、實扶的里亞（diphtheria，白喉）、中耳炎、全眼球炎、外傷。頂面所記的攏會做腦膜炎的原因。
+> **原因**：有一款定著的細菌會傳染。傳染著這款的細菌的大部分，是囡仔，佮少年人。這个號做流行性（流行性，epidemic）腦脊髓膜炎。肺炎菌、結核菌、連鎖狀球菌佮葡萄狀球菌。傳染病親像小腸熱、實扶的里亞（diphtheria，白喉）、中耳炎、全眼球炎、外傷。頂面所記的攏會做腦膜炎的原因。
 
 ---
 
@@ -170,7 +170,7 @@ Iûⁿ-hîn : Tēng-gī : Chiū-sī sîn-keng ê pīⁿ. I ê khoán-sit sī chi
 Goân-in : Nî-hè : Khah-chōe khí pīⁿ ê sî, sī iáu-bē jī-cha̍p hè ê tāi-seng. Ū-sî kàu lāu chiah hoat chit hō iûⁿ-hîn. Lâm-lú bô sím-mi̍h cheng-chha.
 
 > **【全漢對照】**
-> 原因：年歲：較多起病個時，是猶未二十歲的代先。有時到老才發這號羊癇。男女無甚麼菁差（差異）。
+> 原因：年歲：較多起病个時，是猶未二十歲的代先。有時到老才發這號羊癇。男女無甚麼菁差（差異）。
 
 ---
 
@@ -197,7 +197,7 @@ Hoán-siā-sèng iûⁿ-hîn (Epilepsy due to reflex causes): Chhin-chhiūⁿ ba
 Chèng-chōng : Chiah-ê chèng-chōng sī chin chōe, tī chia bōe bián-tit tio̍h kán-séng kóng. Ū-sî pīⁿ-lâng tāi-seng chai tù lóng bōe tiâu, chiū chai sī beh keng-loân. Ū-sî chhiú keng-loân, ū-sî ba̍k-chiu bōe khòaⁿ--kìⁿ, ū-sî ka-kī chai ū hit hō chin kî-koài ê khì-bī, á-sī khòaⁿ-kìⁿ kî-koài ê hêng-siōng.
 
 > **【全漢對照】**
-> 症狀：諸個症狀是真多，佇遮未免得著簡省講。有時病人代先知蹅攏袂牢，就知道是要痙攣。有時手痙攣，有時目睭未看見，有時自己知有彼號真奇怪的氣味，抑是看見奇怪的形像。
+> 症狀：諸个症狀是真多，佇遮未免得著簡省講。有時病人代先知蹅攏袂牢，就知道是要痙攣。有時手痙攣，有時目睭未看見，有時自己知有彼號真奇怪的氣味，抑是看見奇怪的形像。
 
 ---
 
@@ -338,7 +338,7 @@ kiông-chòng-che chhin-chhiūⁿ thih-ê, *ferrum* kap *arsenicum* ê io̍h-ch�
 **Tēng-gī**: Chit ê pīⁿ sī tōa-náu phê-chit koan-lêng ê phòa-pīⁿ; chiū-sī cheng-sîn ê sîn-keng pīⁿ, chiū-sī kám-kak (感覺, sensation), kám-chêng (感情, emotion), kap seng-khu ūn-tōng kap hun-pì ê chok-iōng (運動分泌作用, motor and secretory functions), siū-tio̍h chó͘-gāi.
 
 > **【全漢對照】**
-> **定義**：此個病是大腦皮質官能的破病；就是精神的神經病，就是感覺（sensation）、感情（emotion），佮身軀運動佮分泌的作用（motor and secretory functions），受著阻礙。
+> **定義**：此个病是大腦皮質官能的破病；就是精神的神經病，就是感覺（sensation）、感情（emotion），佮身軀運動佮分泌的作用（motor and secretory functions），受著阻礙。
 
 ---
 
@@ -360,8 +360,8 @@ Chit ê pīⁿ ê chèng-chōng chōe koh cha̍p, bē tit thang chiâu kóng-kh�
 3. Pīⁿ-lâng khoài kám-kak gōa-lāi ê chhì-kek, háu, lâu-ba̍k-sái, hoaⁿ-hí, siū-khì, ai-siong, bô chiàu-siông.
 
 > **【全漢對照】**
-> 此個病的症狀濟閣雜，袂得通齊講起。第一要緊的份做三個：
-> 1. 感覺阻礙：此個就是家己知佇身軀有時痛、抑是麻痺，毋過醫生來講求，看無病佇咧。
+> 此个病的症狀濟閣雜，袂得通齊講起。第一要緊的份做三个：
+> 1. 感覺阻礙：此个就是家己知佇身軀有時痛、抑是麻痺，毋過醫生來講求，看無病佇咧。
 > 2. 運動阻礙：有時痙攣，毋過較濟是愛得著別人的體貼，抑是愛互別人看本身的艱苦；有時是親像半身不遂（偏遂）。
 > 3. 病人快感覺外來的刺激，吼、流目屎、歡喜、受氣、哀傷，無照常。
 
@@ -450,7 +450,7 @@ Pīⁿ-lâng nā ū sîn-keng pīⁿ, i-seng sî-siông kiám-giām chhek-kài-k
 
 > **【全漢對照】**
 > **膝蓋腱反應**
-> 病人若有神經病，醫生時常檢驗膝蓋腱反應。下便的圖有表明一個試驗法（也看第 128 面）。
+> 病人若有神經病，醫生時常檢驗膝蓋腱反應。下便的圖有表明一个試驗法（也看第 128 面）。
 
 ---
 

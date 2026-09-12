@@ -32,7 +32,7 @@ Phê-hu pau tī seng-khu ê gōa-bīn; i ê chok-iōng sī chiàu ē-tóe :
 > 皮膚包佇身軀的外面；伊的作用是照下底：
 > 1. 是保護筋肉。
 > 2. 有觸覺的作用，就是摸著外位就知兮款色。是因為皮膚有觸覺小體；伊的內面有神經的尾溜。觸覺（觸覺，*touch sense*），遐的兮第一𠢕的所在，就是手指頭仔、舌的尾溜、嘴唇。
-> 3. 皮是排泄器的一個；伊的作用是出汗。汗是水兮質。汗，一百份的內面，兩份是汗酸的鹽份，佮油。
+> 3. 皮是排泄器的一个；伊的作用是出汗。汗是水兮質。汗，一百份的內面，兩份是汗酸的鹽份，佮油。
 > 4. 皮有吸收的氣力，親像水銀類的藥，會吸入佇皮膚內。
 > 5. 是調和人身軀的體溫；親像若天氣較熱的時，遐的汗泉管的尾溜脹閣開，所以汗若流出來，人就較涼冷、快活。若天氣較冷的時，遐的管會較摎倚，較無法出汗，也遐的較倚佇皮膚的血管，會摎，熱氣就較𣍐對皮膚離開身軀，反轉，蹛佇身軀內，所以人就會燒烙。
 
@@ -47,7 +47,7 @@ Tī chit nn̄g chân ê ē-tóe ū kiat-tè-chit, chit-ê kiò-chòe phê-ē-kia
 > #### ［皮膚兩層］
 > 
 > 皮膚分做兩層。頂面層叫做表皮（表皮，*epidermis*）；第二叫做真皮（真皮，*dermis*）。
-> 佇這兩層的下底有結締質，這個叫做皮下結締質（皮下結締織，*subcutaneous connective tissue*；第 88 圖）。
+> 佇這兩層的下底有結締質，這个叫做皮下結締質（皮下結締織，*subcutaneous connective tissue*；第 88 圖）。
 
 <!-- Page 126 End -->
 
@@ -73,7 +73,7 @@ Piáu-phê sī chiàu i ê miâ só͘ kóng, tī phê-hu ê chòe tē it gōa-kh
 
 > **【全漢對照】**
 > **［表皮］**
-> 表皮是照伊的名所講，佇皮膚的做第一外口個組織，是幾若層的細胞來成的。
+> 表皮是照伊的名所講，佇皮膚的做第一外口个組織，是幾若層的細胞來成的。
 
 Piáu-phê-lāi lóng bô huih-kńg; tī piáu-phê ê chòe tē i chhim chân ê sòe-pau ê tiong-kan, ū tē it sòe tiâu ê sîn-keng.
 
@@ -93,7 +93,7 @@ Chin-phê sī phê-hu cho͘-chit ê tē jī chân; chit-ê sī iù koh ba̍t ê 
 
 > **【全漢對照】**
 > **［真皮］**
-> 真皮是皮膚組織的第二層；這個是幼閣密的組織來成的。接佇表皮下面無平平，有真多蕾的，叫做乳頭（乳頭，*papilla*）。諸個乳頭就是毛細管，及神經尾咧帶的所在。這個神經尾的器具，叫做……
+> 真皮是皮膚組織的第二層；這个是幼閣密的組織來成的。接佇表皮下面無平平，有真多蕾的，叫做乳頭（乳頭，*papilla*）。諸个乳頭就是毛細管，及神經尾咧帶的所在。這个神經尾的器具，叫做……
 
 ---
 
@@ -177,7 +177,7 @@ Nā seng-khu sím-mi̍h só͘-chāi khah siông ēng, hit ê phê chiū chiām-c
 Phê ê sek-tī bô sio-tâng; ū-ê o͘, ū-ê âng, ū-ê ̂ng, ū-ê pe̍h; che m̄-sī phê ū hit hō ê sek, sī piáu-phê ê liâm-e̍k-chân sòe-pau-lāi ū iù-iù ê lia̍p. Hit ê lia̍p nā o͘, phê khòaⁿ iā sī o͘, lia̍p nā ̂ng, phê khòaⁿ iā sī ̂ng, kî-û put-lūn sím-mi̍h sek, lóng sī án-ni. Hit ê iù-iù ê lia̍p nā kìⁿ ji̍t, chiū ōe pìⁿ khah o͘, só͘-í lâng khah siông phák ji̍t, i ê bīn-sek chiū ōe khah o͘; siông-siông tiàm chhù-lāi, bīn-sek chiū ōe khah pe̍h.
 
 > **【全漢對照】**
-> 皮的色緻無相同；有的烏，有的紅，有的黃，有的白；這伓是皮有彼號的色，是表皮的黏液層細胞內有幼幼的粒。彼個粒若烏，皮看也是烏，粒若黃，皮看也是黃，其餘不論甚麼色，攏是按呢。彼個幼幼的粒若見日，就會變較烏，所以人較常曝日，伊的面色就會較烏；常常踮厝內，面色就會較白。
+> 皮的色緻無相同；有的烏，有的紅，有的黃，有的白；這伓是皮有彼號的色，是表皮的黏液層細胞內有幼幼的粒。彼个粒若烏，皮看也是烏，粒若黃，皮看也是黃，其餘不論甚麼色，攏是按呢。彼个幼幼的粒若見日，就會變較烏，所以人較常曝日，伊的面色就會較烏；常常踮厝內，面色就會較白。
 
 ---
 
@@ -195,14 +195,14 @@ Chin-phê ê lāi-bīn, m̄-nā ū mn̂g-sòe-huih-kńg kap sîn-keng; ia̍h ū 
 Hān-chôaⁿ ōe pâi-siat kōaⁿ; khoán-sit sī chhin-chhiūⁿ iù-iù ê kńg, thàu kàu phê-hu ê gōa-bīn, ē-tóe kńg-lê; siat-sú nā ōe thiu ti̍t, chiū iok-lio̍k nn̄g saⁿ hun ê tn̂g. Seng-khu-nih iok-lio̍k ū 238 bān ê chōe; siat-sú nā ōe chiap chòe chi̍t tiâu, chiū ū nn̄g saⁿ phò͘ lō͘ ê hn̄g. Phê ê lāi-bīn ta̍k só͘-chāi, ū chin chōe hān-chôaⁿ, chóng-sī chōe chió bô saⁿ-tâng. Chhiú-chiúⁿ-nih hit só͘-chāi chi̍t chhùn ê sù-hong ū 2800-ê; ia̍h ū pát só͘-chāi put-chí khah chió, chi̍t chhùn sù-hong, chí-ū 400-ê nā-tiāⁿ. Teh chòe kang ê sî, á-sī joa̍h thiⁿ ê sî, ū lâu kōaⁿ; chiū ōe khòaⁿ-kìⁿ chin bêng; chi̍t hō kiò-chòe hoat kōaⁿ; chóng-sī pêng-siông put-sî thong seng-khu ia̍h ū teh lâu kōaⁿ, nā-sī bōe khòaⁿ-kìⁿ; chi̍t hō kiò-chòe chúi-hun-cheng-hoat (水分蒸發, insensible perspiration). Phì-jū lâng nî-saⁿ tī tek-ko, ûn-ûn-á ta-khì, bōe khòaⁿ-kìⁿ hit ê chúi-khì, àn-cháiⁿ-iūⁿ bô-khì; lâng pêng-siông só͘ lâu m̄-chai ê kōaⁿ, ia̍h sī án-ni.
 
 > **【全漢對照】**
-> 汗腺會排泄汗；款式是親像幼幼的管，透到皮膚的外面，底下捲螺；設使若會抽直，成就約略兩三分的長。身軀裡約略有 238 萬的儕；設使若會接做一條，就有兩三舖路的話。皮的內面逐所在，有真儕汗腺，總是儕少無相同。手掌裡彼所在一寸的四方有 2800 個；亦有別所在不止較少，一寸四方，只有 400 個若定。咧做工的時，抑是熱天的時，有流汗；就會看見真明；這號叫做發汗；總是平常不時通身軀亦有咧流汗，若是袂看見；這號叫做水分蒸發（水分蒸發，insensible perspiration）。譬喻人領衫佇竹篙，勻勻仔燥去，袂看見彼個水氣，按怎樣無去；人平常所流不知的汗，亦是按呢。
+> 汗腺會排泄汗；款式是親像幼幼的管，透到皮膚的外面，底下捲螺；設使若會抽直，成就約略兩三分的長。身軀裡約略有 238 萬的儕；設使若會接做一條，就有兩三舖路的話。皮的內面逐所在，有真儕汗腺，總是儕少無相同。手掌裡彼所在一寸的四方有 2800 个；亦有別所在不止較少，一寸四方，只有 400 个若定。咧做工的時，抑是熱天的時，有流汗；就會看見真明；這號叫做發汗；總是平常不時通身軀亦有咧流汗，若是袂看見；這號叫做水分蒸發（水分蒸發，insensible perspiration）。譬喻人領衫佇竹篙，勻勻仔燥去，袂看見彼个水氣，按怎樣無去；人平常所流不知的汗，亦是按呢。
 
 ---
 
 Chit-ê kōaⁿ chi̍t ji̍t só͘ lâu-ê, nā ōe lóng-chóng chū-chi̍p lâi niû, tāi-khài ū kun-pòaⁿ ê tāng. Khó-kiàn lāi-saⁿ
 
 > **【全漢對照】**
-> 這個汗一日所流的，若會攏總聚集來量，大概有一斤半的重。可見內衫……
+> 這个汗一日所流的，若會攏總聚集來量，大概有一斤半的重。可見內衫……
 
 ---
 
@@ -247,7 +247,7 @@ Tē it hó ê hoat-tō͘, chiū-sī chá-khí sî khùn-khí-lâi, thong seng-kh
 Lâng ê phê-hu nā ū oân-choân, bong-tio̍h ū sòe-khún ê mi̍h bōe jiám-tio̍h; chóng-sī nā siū-siong, put-lūn ba̍k-chiu bōe khòaⁿ-kìⁿ-ê, nā bong-tio̍h chit khoán ê mi̍h, chiū hit ê to̍k khoài-khoài khip-siu tī huih-nih. Tùi chi̍t ê sió-khóa ê goân-in, bat ū i-seng kap khàn-hō͘ sit-lo̍h sìⁿ-miā.
 
 > **【全漢對照】**
-> 人的皮膚若有完全，摸著有細菌的物袂染著；總若是受傷，不論目睭袂看見的，若摸著這款的物，就彼個毒快快吸收佇血裡。對一個小可的原因，曾有醫生佮看護失落性命。
+> 人的皮膚若有完全，摸著有細菌的物袂染著；總若是受傷，不論目睭袂看見的，若摸著這款的物，就彼个毒快快吸收佇血裡。對一个小可的原因，曾有醫生佮看護失落性命。
 
 ---
 
@@ -256,7 +256,7 @@ Lâng ê phê-hu nā ū oân-choân, bong-tio̍h ū sòe-khún ê mi̍h bōe ji�
 Tī seng-khu ê phê-hu-nih ū m̂g chin chōe. Ta̍k ki ê m̂g-kńg ū tèng ji̍p tī phê ê lāi-bīn. M̂g-kńg ê thâu ū kun, só͘-í ōe hoat m̂g; hit ê kun nā bô-khì, chiū bōe koh hoat; phì-jū chhin-chhiūⁿ chháu-á, nā liàm i ê hio̍h, á-sī liàm ki ōe koh hoat, kun nā khau-khí-lâi, chiū lóng bōe hoat. Chiah ê m̂g ta̍k ki ū gōa-bīn tēng-tēng ê chho͘-chit, lāi-bīn khah núg-ê, kiò-chòe chhé-chit (髓質, medulla; tē 88 tô͘.) M̂g ê lāi-bīn bô sîn-keng, só͘-í chhut-chāi lâng chián, ia̍h bōe thiàⁿ; nā-sī phê ê lāi-bīn chiū ū, só͘-í chhoah-m̂g chiah ōe thiàⁿ.
 
 > **【全漢對照】**
-> 佇身軀的皮膚裡有毛真多。逐枝的毛管有釘入佇皮的內面。毛管的頭有根，所以會發毛；彼個根若無去，就袂閣發；譬如親像草仔，若捻伊的葉，抑是捻枝會閣發，根若薅起來，就攏袂發。諸個毛逐枝有外面硬硬的粗質，內面較軟的，叫做髓質（髓質，medulla；第 88 圖。）毛的內面無神經，所以出在人剪，亦袂疼；若是皮的內面就有，所以拔毛才會疼。
+> 佇身軀的皮膚裡有毛真多。逐枝的毛管有釘入佇皮的內面。毛管的頭有根，所以會發毛；彼个根若無去，就袂閣發；譬如親像草仔，若捻伊的葉，抑是捻枝會閣發，根若薅起來，就攏袂發。諸个毛逐枝有外面硬硬的粗質，內面較軟的，叫做髓質（髓質，medulla；第 88 圖。）毛的內面無神經，所以出在人剪，亦袂疼；若是皮的內面就有，所以拔毛才會疼。
 
 ---
 
@@ -288,7 +288,7 @@ Tī chńg-thâu-á ê bé ū chńg-kah, sī chhin-chhiūⁿ kak ê lūi, chhah j
 Chúg-kah sī soeh jip phê lāi-bīn ê khang-hûn, tùi jiáu-chhng kap jiáu-bú tit-tio̍h iúⁿ-chhī, chiū chiām-chiām khah tn̂g. Ū-sī chúg-kah siū-siong thǹg kah, hit ê jiáu-bú, nā bô pháiⁿ--khì, chiū ōe koh hoat; jiáu-bú nā phah-pháiⁿ, chiū bōe koh hoat. Beh chai chúg-kah ê kái-phò, tio̍h khòaⁿ tē 90 tô͘.
 
 > **【全漢對照】**
-> 指甲是楔入皮裡面的孔痕，對爪床佮爪母得著養成，就漸漸較長。有時指甲受傷褪甲，彼個爪母，若無歹去，就會閣發；爪母若拍歹，就𣍐閣發。欲知指甲的解剖，著看第 90 圖。
+> 指甲是楔入皮裡面的孔痕，對爪床佮爪母得著養成，就漸漸較長。有時指甲受傷褪甲，彼个爪母，若無歹去，就會閣發；爪母若拍歹，就𣍐閣發。欲知指甲的解剖，著看第 90 圖。
 
 ---
 

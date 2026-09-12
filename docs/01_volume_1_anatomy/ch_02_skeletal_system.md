@@ -36,7 +36,7 @@ Thong seng-khu ê lāi-bīn iok-lio̍k ū 200 gōa ki ê kut. Chiah ê kut-thâu
 > **【全漢對照】**
 > **［骨格］**
 > 
-> 通軀佮的內面約略有 200 外枝的骨。諸個骨頭相食稱來做一個骨格：譬喻親像糊紙的人代先縛一尊的骨，後來用紙糊佇外面。人活的時亦是按呢；骨通算是親像做架，伊的外面有皮膚佮筋肉以及別項的組織來包、蓋諸個骨，對按呢成做一個軀佮拄拄合人的路用。
+> 通軀佮的內面約略有 200 外枝的骨。諸个骨頭相食稱來做一个骨格：譬喻親像糊紙的人代先縛一尊的骨，後來用紙糊佇外面。人活的時亦是按呢；骨通算是親像做架，伊的外面有皮膚佮筋肉以及別項的組織來包、蓋諸个骨，對按呢成做一个軀佮拄拄合人的路用。
 
 ---
 
@@ -47,7 +47,7 @@ Kut sī nñg hō ê chit lâi ha̍p chiâⁿ-ê, chi̍t hō sī iú-ki-sêng-hun
 > **【全漢對照】**
 > **［骨是兩號的質，有機成分、無機成分］**
 > 
-> 骨是兩號的質來合成的，一號是有機成分（有機成分，organic substance），一號是無機成分（無機成分，inorganic substance）。設使骨來熬到忝，會得著彼個有機成分就是膠。抑是骨落佇火來烰，有機成分就攏總燒去，所留咧是彼個無機成分若定，就是親像灰的款式。人佇細漢的時，此兩號的質是對半，按呢囡仔的骨是較軟，所以若跋倒就無大傷害。到
+> 骨是兩號的質來合成的，一號是有機成分（有機成分，organic substance），一號是無機成分（無機成分，inorganic substance）。設使骨來熬到忝，會得著彼个有機成分就是膠。抑是骨落佇火來烰，有機成分就攏總燒去，所留咧是彼个無機成分若定，就是親像灰的款式。人佇細漢的時，此兩號的質是對半，按呢囡仔的骨是較軟，所以若跋倒就無大傷害。到
 
 ---
 
@@ -90,7 +90,7 @@ tiong-liân iú-ki-sêng-hun ū chi̍t hūn, bû-ki-sêng-hun ū nn̄g hūn, só
 Nā chiong chi̍t ki tn̂g kut, chhin-chhiūⁿ iûⁿ-á ê hia̍p-kut lâi chìm tī iâm-sng kúi-nā ji̍t kú, hit hō bû-ki-sêng-hun ōe kái-iûⁿ, lâu iú-ki-sêng-hun. Só́ lâu-teh ê iú-ki-sêng-hun sī núg koh jūn, ōe ēng chit hō phah chi̍t ê kat chhin-chhiūⁿ tī tē 3 tô͘.
 
 > **【全漢對照】**
-> 若將一支長骨，親像羊仔的脅骨來浸佇鹽酸幾若日久，彼號無機成分會解烊，留有機成分。所留咧的有機成分是軟閣韌，會用這號拍一個結親像佇第 3 圖。
+> 若將一支長骨，親像羊仔的脅骨來浸佇鹽酸幾若日久，彼號無機成分會解烊，留有機成分。所留咧的有機成分是軟閣韌，會用這號拍一个結親像佇第 3 圖。
 
 ---
 
@@ -189,7 +189,7 @@ khóan, gōa-bīn-ê sī kian-kò͘-chit (硬固質, *compact tissue*), lāi-bī
 *(邊註：Kut-chhé-khang)*
 
 > **【全漢對照】**
-> 3. 長骨的中央有一個孔叫做出骨髓腔（骨髓腔）。此個孔照骨的長短、大小。彼個孔有貯骨髓（*medulla*；第 6 圖），就是黃色及赤色的兩種；佇內面有血管、淋巴管（淋巴管，*lymphatics*）、神經（神經，*nerves*）佇咧，咧營養骨。
+> 3. 長骨的中央有一个孔叫做出骨髓腔（骨髓腔）。此个孔照骨的長短、大小。彼个孔有貯骨髓（*medulla*；第 6 圖），就是黃色及赤色的兩種；佇內面有血管、淋巴管（淋巴管，*lymphatics*）、神經（神經，*nerves*）佇咧，咧營養骨。
 > *（邊註：骨髓腔）*
 
 ---
@@ -244,7 +244,7 @@ Kut ê lō͘-ēng ū kúi-nā khóan, só͘-í kut gōa-bīn ê hêng-chōng m̄
 *(邊註：Tn̂g kut)*
 
 > **【全漢對照】**
-> 1. 長骨的款式有上端（上端，*upper extremity*）、下端，及中央有一個體。長骨
+> 1. 長骨的款式有上端（上端，*upper extremity*）、下端，及中央有一个體。長骨
 > *（邊註：長骨）*
 
 ---
@@ -501,7 +501,7 @@ CHEK-CHUI-KUT 13
 Chek-chui-kut tī seng-khu ê tiong-ng chhin-chhiūⁿ thiāu-á tit-tit khiā-teh (tē 8 tô͘), siang pêng liân tī hia̍p-kut, téng-bīn chiap tī thâu-nih. Chó-iū ū nñg ki chiū-sī chhiú-kut, ē-bīn ū nñg ki chiū-sī kha-kut. Chek-chui-kut ū 26 lûn (chiàn-kut kap bí-lû-kut sǹg chāi-lāi), kî-tiong ē-tóe bē tín-tāng-ê, chiū-sī chiàn-kut kap bí-lû-kut. Chit ê chiàn-kut sòe-hàn ê sî ū hun chòe 5 tè, chóng-sī iáu-bē sêng-teng (成丁) ê sî ū ha̍p-chiâⁿ chòe chi̍t tè; bí-lû-kut sòe-hàn ê sî ū hun chòe 4 tè, chiah-ê iā ha̍p-chiâⁿ chòe chi̍t tè, só͘-í chiah ê kut nā sǹg sī 9 tè, hiah ê chek-chui-kut chóng-kiōng thang sǹg sī 33 lûn.
 
 > **【全漢對照】**
-> 脊椎骨佇身軀的中央親像柱仔直直徛咧（第 8 圖），雙爿聯佇脅骨，頂面接佇頭裡。左右有兩枝就是手骨，下面有兩枝就是跤骨。脊椎骨有 26 輪（薦骨佮尾閭骨算在內），其中下底袂振動的，就是薦骨佮尾閭骨。此個薦骨細漢的時有分做 5 塊，總是猶未成丁（成丁）的時有合成做一塊；尾閭骨細漢的時有分做 4 塊，諸個亦合成做一塊，所以諸個骨若算是 9 塊，遐的脊椎骨總共通算是 33 輪。
+> 脊椎骨佇身軀的中央親像柱仔直直徛咧（第 8 圖），雙爿聯佇脅骨，頂面接佇頭裡。左右有兩枝就是手骨，下面有兩枝就是跤骨。脊椎骨有 26 輪（薦骨佮尾閭骨算在內），其中下底袂振動的，就是薦骨佮尾閭骨。此个薦骨細漢的時有分做 5 塊，總是猶未成丁（成丁）的時有合成做一塊；尾閭骨細漢的時有分做 4 塊，諸个亦合成做一塊，所以諸个骨若算是 9 塊，遐的脊椎骨總共通算是 33 輪。
 
 ---
 
@@ -525,7 +525,7 @@ Siông-sè kóng iáu ū nñg tōaⁿ chiū-sī chiàn-kut, kap bí-lû-kut (tē
 Chui-kut: Ta̍k lûn ê tiong-kan ū nńg-kut lâi pho͘-teh chòe tiām. Chit ê nńg-kut m̄-sī kut iā m̄-sī bah, sī nńg
 
 > **【全漢對照】**
-> 椎骨：逐輪的中間有軟骨來鋪咧做墊。此個軟骨毋是骨亦毋是肉，是軟
+> 椎骨：逐輪的中間有軟骨來鋪咧做墊。此个軟骨毋是骨亦毋是肉，是軟
 
 ---
 
@@ -566,7 +566,7 @@ koh jūn, khah chhin-chhiūⁿ kun ê khoán-sit. I ê lō͘-ēng sī hō͘ kut 
 Thâu-kòa kap chek-chui-kut kau-chiap ê só͘-chāi ū n̄g tè kut, téng-bīn-ê kiò-chòe tē it kēng-chui-kut (atlas), ē-tóe-ê kiò-chòe tē jī kēng-chui-kut (axis); ē-tóe ū sún-thâu, téng-bīn-ê ū sún-kheng; chí n̄g tè saⁿ chhēng. Tē it kēng-chui-kut ê téng-bīn siang pêng lî-lî-á lap-u kiò-chòe siōng-koan-chat-o (上關節窩); thâu-kòa-tóe ê āu-thâu-kut khòa tī tē it kēng-chui-kut ê só͘-chāi, siang pêng lî-lî-á khah thóng, lâi thap tī chí n̄g ê lap-u ê só͘-chāi; chiah ê kau-kài ê só͘-chāi lóng ū kút-e̍k hō͘ i kút-kút, án-ni-siⁿ chiah ōe thìm thâu, ōe kia̍h thâu, thâu-khak ia̍h ōe oat-lâi oat-khì (tē 11 tô͘).
 
 > **【全漢對照】**  
-> 頭蓋及脊椎骨交接的所在有兩塊骨，頂面的叫做第一頸椎骨（atlas），底下的叫做第二頸椎骨（axis）；底下有榫頭，頂面的有榫框；此兩塊相穿。第一頸椎骨的頂面雙爿微微仔凹凹叫做上關節窩（上關節窩）；頭蓋底的後頭骨跨佇第一頸椎骨的所在，雙爿微微仔較凸，來插佇此兩個凹凹的所在；諸個交界的所在攏有滑液互伊滑滑，按呢生才會䪴頭，會攑頭，頭殼亦會越來越去（第 11 圖）。
+> 頭蓋及脊椎骨交接的所在有兩塊骨，頂面的叫做第一頸椎骨（atlas），底下的叫做第二頸椎骨（axis）；底下有榫頭，頂面的有榫框；此兩塊相穿。第一頸椎骨的頂面雙爿微微仔凹凹叫做上關節窩（上關節窩）；頭蓋底的後頭骨跨佇第一頸椎骨的所在，雙爿微微仔較凸，來插佇此兩个凹凹的所在；諸个交界的所在攏有滑液互伊滑滑，按呢生才會䪴頭，會攑頭，頭殼亦會越來越去（第 11 圖）。
 
 ---
 
@@ -604,7 +604,7 @@ Tē 8 tô͘.—Chek-thiāu tùi āu-bīn khòaⁿ ti̍t-ti̍t: 1, kēng-chui-kut
 Tē jī kēng-chui-kut sī chek-chui-kut ê tē jī lûn. I ê hêng-chōng ū koh-iūⁿ, chiū-sī ū chit ê khí-chōng-tút-khí (齒狀突起, odontoid process). Chit ê khí-chōng-tút-khí sī îⁿ-îⁿ chhin-chhiūⁿ îⁿ ê chúg-á khóan, lâi kap tē it kēng-chui-kut liân-ha̍p chòe ték-pia̍t ê koan-chat (tē 12 tô͘).
 
 > **【全漢對照】**
-> 第二頸椎骨是脊椎骨的第二輪。伊的形狀有各樣，就是有一個齒狀突起（齒狀突起，odontoid process）。這个齒狀突起是圓圓親像圓的樁仔款，來及第一頸椎骨聯合做特別的關節（第 12 圖）。
+> 第二頸椎骨是脊椎骨的第二輪。伊的形狀有各樣，就是有一个齒狀突起（齒狀突起，odontoid process）。這个齒狀突起是圓圓親像圓的樁仔款，來及第一頸椎骨聯合做特別的關節（第 12 圖）。
 
 ---
 
@@ -644,7 +644,7 @@ Kut-keh cháiⁿ-iūⁿ lâi liân-lo̍k? Tē it,—ū jīm-tài lâi liân-lo̍
 
 ---
 
-#### [Sì ê oan-khiau / 四個彎曲]
+#### [Sì ê oan-khiau / 四个彎曲]
 
 Chek-chui-kut ū sì ūi ê oan-khiau (tē 13 tô͘):
 1. Kēng-chui-kut oan tùi bīn-chêng lâi.
@@ -696,8 +696,8 @@ Tē sì . . . . . nah-ji̍p-khì.
 > **【全漢對照】**
 > 3. 腰椎骨閣彎對頭前來。
 > 4. 薦骨閣彎對後面去。
-> 第一個彎曲，伊的頭前是膨出來。
-> 第二個 ．．．．． 凹入去。
+> 第一个彎曲，伊的頭前是膨出來。
+> 第二个 ．．．．． 凹入去。
 > 第三 ．．．．． 膨出來。
 > 第四 ．．．．． 凹入去。
 
@@ -709,7 +709,7 @@ Ta̍k tè ê chui-kut ê chek-chhé-khang ê nñg pêng-piⁿ ū khang, kiò-ch�
 
 > **【全漢對照】**
 > **［椎間孔］**
-> 逐塊的椎骨的脊髓孔的兩旁邊有孔，叫做椎間孔（椎間孔，*intervertebral foramen*）；脊髓神經（*spinal nerves*）對諸個孔過來布佇身軀逐所在。佇脊椎骨的外面有筋肉貼連咧，來保護骨，互伊𣍐越對左右歪斜去。諸個筋肉若無力，彼個人的肩胛骨佮脅骨會歪斜。
+> 逐塊的椎骨的脊髓孔的兩旁邊有孔，叫做椎間孔（椎間孔，*intervertebral foramen*）；脊髓神經（*spinal nerves*）對諸个孔過來布佇身軀逐所在。佇脊椎骨的外面有筋肉貼連咧，來保護骨，互伊𣍐越對左右歪斜去。諸个筋肉若無力，彼个人的肩胛骨佮脅骨會歪斜。
 
 ---
 
@@ -717,7 +717,7 @@ Ta̍k tè ê chui-kut ê chek-chhé-khang ê nñg pêng-piⁿ ū khang, kiò-ch�
 Tē 11 tô͘.—2. Tē it kēng-chui-kut téng-bīn pêng: a, chêng-keng; e, āu-koan-chat-o, chit-ê sī kap tē 2 kēng-chui-kut ê khí-chōng-tu̍t-khí lâi chòe koan-chat; f, hoâiⁿ-tu̍t-khí-khang; g, siōng-koan-chat-o; k, chí-bêng hoâiⁿ-jīm-tài, liân ê só͘-chāi; l, chui-khang (Blackie and Son).
 
 > **【全漢對照】**
-> 第 11 圖。—2. 第一頸椎骨頂面平：a，前弓；e，後關節窩，這個是佮第 2 頸椎骨的齒狀突起來做關節；f，橫突起孔；g，上關節窩；k，指明橫韌帶，連的所在；l，椎孔 (Blackie and Son)。
+> 第 11 圖。—2. 第一頸椎骨頂面平：a，前弓；e，後關節窩，這个是佮第 2 頸椎骨的齒狀突起來做關節；f，橫突起孔；g，上關節窩；k，指明橫韌帶，連的所在；l，椎孔 (Blackie and Son)。
 
 ---
 
@@ -782,7 +782,7 @@ Tī chí sió-khóa ê sū chīn-tiong--ê, tī tōa--ê iā chīn-tiong, tī si
 Thâu-kòa-tóe sī chêng-thâu-kut, āu-thâu-kut kap jiap-su-kut (顳顬骨, *temporal*) ê chit pō͘-hūn, í-kip ô͘-tia̍p-kut (蝴蝶骨, *sphenoid*), su-kut (篩骨, *ethmoid*) lâi chiâⁿ (tē 15 tô͘). Chiah ê thâu-kòa-kut lāi-gōa ū n̄g bīn.
 
 > **【全漢對照】**
-> 頭蓋底是前頭骨、後頭骨佮顳顬骨（顳顬骨，*temporal*）的一部份，以及蝴蝶骨（蝴蝶骨，*sphenoid*）、篩骨（篩骨，*ethmoid*）來成（第 15 圖）。諸個頭蓋骨內外有兩面。
+> 頭蓋底是前頭骨、後頭骨佮顳顬骨（顳顬骨，*temporal*）的一部份，以及蝴蝶骨（蝴蝶骨，*sphenoid*）、篩骨（篩骨，*ethmoid*）來成（第 15 圖）。諸个頭蓋骨內外有兩面。
 
 ---
 
@@ -802,7 +802,7 @@ Phīⁿ-kut ū n̄g tè sòe tè chòe phīⁿ-niû.
 Siōng-go̍k-kut (上顎骨, *superior maxilla*), ū 2 tè chòe ba̍k-chiu-o ê ē-tóe chit pō͘-hūn. Lāi-bīn ū chi̍t ê khang-tōng (腔洞, *antrum of Highmore*), ū kńg thàu tī phīⁿ-khang-lāi; chit ê khang-tōng ū-sî hoat iām, kàu bé chek lâng. Tī chí n̄g tè kut ê ē-tóe, ū tàu téng-bīn lia̍t ê chhùi-khí.
 
 > **【全漢對照】**
-> 上顎骨（上顎骨，*superior maxilla*），有 2 塊做目睭窩的下底這一部份。內面有一個腔洞（腔洞，*antrum of Highmore*），有管透佇鼻孔內；這個腔洞有時發炎，到尾積膿。佇此兩塊骨的下底，有鬥頂面列的喙齒。
+> 上顎骨（上顎骨，*superior maxilla*），有 2 塊做目睭窩的下底這一部份。內面有一个腔洞（腔洞，*antrum of Highmore*），有管透佇鼻孔內；這个腔洞有時發炎，到尾積膿。佇此兩塊骨的下底，有鬥頂面列的喙齒。
 
 ---
 
@@ -941,7 +941,7 @@ Thû-kut (鋤骨, *vomer*) tī phīⁿ-khang ê tiong-ng ê ē-tóe, lâi chòe 
 Hā-go̍k-kut, (*inferior maxilla*): Gân-bīn-thâu-kòa tē it tōa ê kut tī gân-bīn ê ē-pō chhin-chhiūⁿ bé-tôe-thih ê khoán-sit, kiò-chòe hā-go̍k-kut. Chiap-liân tī jiap-su-kut (*temporal*) chòe khó-tōng-koan-chat. Tī chit ê kut ê téng iân ū tàu ē lia̍t ê chhùi-khí. Tī hā-go̍k-kut ê ē-bīn ê āu-bīn pêng lióng pêng ū chi̍t ê kak, kiò-chòe hā-go̍k-gû (下顎隅, *angle of inferior maxilla*, tē 14 tô 8).
 
 > **【全漢對照】**
-> 下顎骨，(*inferior maxilla*)：顏面頭蓋第一大的骨佇顏面的下部親像馬蹄鐵的款式，叫做下顎骨。接連佇鑷顳骨 (*temporal*) 做可動關節。佇此個骨的頂沿有鬥下列的喙齒。佇下顎骨的下面ê後面旁兩旁有一個角，叫做下顎隅 （下顎隅，*angle of inferior maxilla*，第 14 圖 8）。
+> 下顎骨，(*inferior maxilla*)：顏面頭蓋第一大的骨佇顏面的下部親像馬蹄鐵的款式，叫做下顎骨。接連佇鑷顳骨 (*temporal*) 做可動關節。佇此个骨的頂沿有鬥下列的喙齒。佇下顎骨的下面ê後面旁兩旁有一个角，叫做下顎隅 （下顎隅，*angle of inferior maxilla*，第 14 圖 8）。
 
 ---
 
@@ -1021,7 +1021,7 @@ Hiàp-kut 12 tùi ; ta̍k ki hun chòe chi̍t thé, nn̄g toan, chiū-sī āu-to
 
 > **【全漢對照】**
 > ### 脅骨
-> 脅骨 12 對；逐枝分做一體、兩端，就是後端、前端。後端有佮胸椎骨相連。前端有一個窩，就是佮脅軟骨相連。諸個脅軟骨頂面 7 對有
+> 脅骨 12 對；逐枝分做一體、兩端，就是後端、前端。後端有佮胸椎骨相連。前端有一个窩，就是佮脅軟骨相連。諸个脅軟骨頂面 7 對有
 
 ---
 
@@ -1064,7 +1064,7 @@ Só-kut sī hoan-e̍k Lô-má miâ, ū kiò án-ni, sī in-ūi chit ê kut sī l
 
 > **【全漢對照】**  
 > **【邊註：鎖骨】**  
-> 鎖骨是翻譯羅馬名，有叫按呢，是因為此個骨是略仔親像早前的鎖匙。鎖骨有一體兩端（*a shaft and two extremities*）。內端合胸骨相連；對遐坦橫透到肩頭。佇肩頭的所在鎖骨的外端有合同樣爿的肩胛骨相連。鎖骨是長骨，也差不多中指的厚（第 18 圖）。
+> 鎖骨是翻譯羅馬名，有叫按呢，是因為此个骨是略仔親像早前的鎖匙。鎖骨有一體兩端（*a shaft and two extremities*）。內端合胸骨相連；對遐坦橫透到肩頭。佇肩頭的所在鎖骨的外端有合同樣爿的肩胛骨相連。鎖骨是長骨，也差不多中指的厚（第 18 圖）。
 
 ---
 
@@ -1075,7 +1075,7 @@ Tī heng-khám ê āu-bīn pêng óa keng-thâu sī keng-kah-kut, ta̍k pêng ū
 
 > **【全漢對照】**  
 > **【邊註：肩胛骨】**  
-> 佇胸坎的後面爿倚肩頭是肩胛骨，逐爿有一塊。此個骨是三角的，閣薄。佇伊的外面爿倚頂面有一個凹窩淺淺，叫做關節窠，欲合上膊頭相連（第 18 圖）。
+> 佇胸坎的後面爿倚肩頭是肩胛骨，逐爿有一塊。此个骨是三角的，閣薄。佇伊的外面爿倚頂面有一个凹窩淺淺，叫做關節窠，欲合上膊頭相連（第 18 圖）。
 
 ---
 
@@ -1086,7 +1086,7 @@ Chhiú ê téng-chatⁿ ū chi̍t tè tn̂g ê kut miâ kiò siōng-phok-kut (*h
 
 > **【全漢對照】**  
 > **【邊註：上膊骨】**  
-> 手的頂節有一塊長骨名叫上膊骨（*humerus*），有一體，兩端。頂面的頭有一個大球的款，叫做上膊頭（*head of humerus*），來穿佇肩胛骨關節窠的所在。上膊骨的下端有合橈骨（*radius*）合尺骨（*ulna*）相交接做肘關節。
+> 手的頂節有一塊長骨名叫上膊骨（*humerus*），有一體，兩端。頂面的頭有一个大球的款，叫做上膊頭（*head of humerus*），來穿佇肩胛骨關節窠的所在。上膊骨的下端有合橈骨（*radius*）合尺骨（*ulna*）相交接做肘關節。
 
 ---
 
@@ -1275,7 +1275,7 @@ Ta̍k hāng sū tiòh chīn-tiong.
 Tē saⁿ pō͘, sī tī ē-tóe thâu-chêng bīn-ê, kiò-chòe thí-kut (耻骨, *pubis*). Nñg ê chó-iū thí-kut ê thâu-chêng ū chit ê thí-kut-nńg-kut lâi saⁿ-liân (*symphysis pubis*; tē 19 tô).
 
 > **【全漢對照】**
-> 第三部，是佇下底頭前面ê，叫做恥骨（耻骨，*pubis*）。兩個左右恥骨ê頭前有一個恥骨軟骨來相連（*symphysis pubis*；第19圖）。
+> 第三部，是佇下底頭前面ê，叫做恥骨（耻骨，*pubis*）。兩个左右恥骨ê頭前有一个恥骨軟骨來相連（*symphysis pubis*；第19圖）。
 
 ---
 
@@ -1284,7 +1284,7 @@ Tē saⁿ pō͘, sī tī ē-tóe thâu-chêng bīn-ê, kiò-chòe thí-kut (耻�
 Nñg tè bô-miâ-kut tī thâu-chêng ū saⁿ-liân tī pak-tó͘ bé ê só͘-chāi, chhin-chhiūⁿ tú-á teh kóng. Tī āu-bīn lióng pêng ê tiong-kan ū chiàn-kut (*sacrum*) kap bô-miâ-kut saⁿ-liân, lóng chòe kut-pôaⁿ (骨盤). Chit ê só͘-chāi sī tóe tng-á, pông-kong, tōa-tng ê ē-tóe, kap chú-kiong. Chit ê kut-pôaⁿ sī put-chí iàu-kín ê só͘-chāi, in-ūi seng-sán ê sî-chūn, gín-ná tiòh tùi hia kè. Lâm-lú ê kut-pôaⁿ ū chha, pâi tī ē-tóe:
 
 > **【全漢對照】**
-> 兩塊無名骨佇頭前有相連佇腹肚尾ê所在，親像拄仔咧講。佇後面兩邊ê中間有薦骨（*sacrum*）佮無名骨相連，攏做骨盤（骨盤）。此個所在是底腸仔、膀胱、大腸ê下底，佮子宮。此個骨盤是不止要緊ê所在，因為生產ê時陣，囡仔著對遐過。男女ê骨盤有差，排佇下底：
+> 兩塊無名骨佇頭前有相連佇腹肚尾ê所在，親像拄仔咧講。佇後面兩邊ê中間有薦骨（*sacrum*）佮無名骨相連，攏做骨盤（骨盤）。此个所在是底腸仔、膀胱、大腸ê下底，佮子宮。此个骨盤是不止要緊ê所在，因為生產ê時陣，囡仔著對遐過。男女ê骨盤有差，排佇下底：
 
 ---
 
@@ -1318,7 +1318,7 @@ Nñg tè bô-miâ-kut tī thâu-chêng ū saⁿ-liân tī pak-tó͘ bé ê só͘
 Chiah ê kut kap tōa-thúi-kut saⁿ kau-chiap. Ū chit só͘-chāi chhim-chhim chhin-chhiūⁿ cheng-khū, kiò-chòe khū-o; tōa-thúi-kut-thâu tàu tī khū-o ê só͘-chāi kàu chhim-chhim, chiah put-lūn khû-teh, khiā-teh, á-sī kiâⁿ lō͘, put-chí kian-kò͘.
 
 > **【全漢對照】**
-> 諸個骨佮大腿骨相交接。有一所在深深親像舂臼，叫做臼窩；大腿骨頭鬥佇臼窩ê所在到深深，才不論踞咧、徛咧、抑是行路，不止堅固。
+> 諸个骨佮大腿骨相交接。有一所在深深親像舂臼，叫做臼窩；大腿骨頭鬥佇臼窩ê所在到深深，才不論踞咧、徛咧、抑是行路，不止堅固。
 
 ---
 
@@ -1327,7 +1327,7 @@ Chiah ê kut kap tōa-thúi-kut saⁿ kau-chiap. Ū chit só͘-chāi chhim-chhim
 Tōa-thúi-kut (*femur*) sǹg sī thong seng-khu tē it tōa, tē it ióng-ê. Tōa-thúi-kut hun chit thé, nñg toan. Téng-bīn ū chit ê chhin-chhiūⁿ kiû ê khóan, thó͘-chhut tī téng-bīn
 
 > **【全漢對照】**
-> 大腿骨（*femur*）算是通身軀第一大，第一勇ê。大腿骨分一體，兩端。頂面有一個親像球ê款，突出佇頂面……
+> 大腿骨（*femur*）算是通身軀第一大，第一勇ê。大腿骨分一體，兩端。頂面有一个親像球ê款，突出佇頂面……
 
 ---
 
@@ -1363,7 +1363,7 @@ Iòh m̄-thang pàng-hē pīⁿ-lâng ê sin-piⁿ, tiòh siu tī iòh-tû-nih.
 ê lāi-bīn pêng, kiò-chòe tōa-thúi-kut-thâu. Chit ê kut-thâu tàu tī bô-miâ-kut ê khū-o. Tōa-thúi-kut ê ē-toan lāi-gōa ū nn̄g ê tút-khí, lâi kap kēng-kut chòe koan-chat, chit-ê kiò-chòe lāi kap gōa koan-chat-khò (內及外關節髁, *inner and outer condyles of femur*). Tī chí nn̄g ê lāi-gōa-koan-chat-khò ê thâu-chêng bīn, ū chi̍t ê lap-u, kiò-chòe chhek-kài-o (膝蓋窩); tī-chia kap chhek-kài-kut (*patella*) saⁿ-liân (tē 20 tô͘).
 
 > **【全漢對照】**
-> 的內面爿，叫做大腿骨頭。這个骨頭鬥佇無名骨的臼窩。大腿骨的下端內外有兩個突出，來佮脛骨做關節，這个叫做內及外關節髁（內及外關節髁，*inner and outer condyles of femur*）。佇此兩個內外關節髁的頭前面，有一個凹窩，叫做膝蓋窩（膝蓋窩）；佇遮佮膝蓋骨（*patella*）相連（第 20 圖）。
+> 的內面爿，叫做大腿骨頭。這个骨頭鬥佇無名骨的臼窩。大腿骨的下端內外有兩个突出，來佮脛骨做關節，這个叫做內及外關節髁（內及外關節髁，*inner and outer condyles of femur*）。佇此兩个內外關節髁的頭前面，有一个凹窩，叫做膝蓋窩（膝蓋窩）；佇遮佮膝蓋骨（*patella*）相連（第 20 圖）。
 
 ---
 
@@ -1411,7 +1411,7 @@ Tī tōa-thúi ê ē-tóe ū n̄g ki kut kiò-chòe hā-thúi-kut. Chit ê hā-t
 *(旁註：Kēng-kut / Hūi-kut)*
 
 > **【全漢對照】**  
-> 佇大腿的下底有兩枝骨叫做下腿骨。這个下腿骨有兩枝長的骨，佇外面較細枝叫做腓骨（腓骨，*fibula*），佇內面較大叫做脛骨（脛骨，*tibia*）。諸个骨分做逐枝一體、兩端。佇脛骨的頂端有兩個關節窩，與大腿骨內外關節髁相交接，做膝關節（膝關節，*knee-joint*）。佇脛骨頂端的外面朋，有與腓骨的頂端相連。脛骨的下端有一個塌的關節面。佇下端的外面朋邊仔，有與腓骨相連（第 20 圖）。
+> 佇大腿的下底有兩枝骨叫做下腿骨。這个下腿骨有兩枝長的骨，佇外面較細枝叫做腓骨（腓骨，*fibula*），佇內面較大叫做脛骨（脛骨，*tibia*）。諸个骨分做逐枝一體、兩端。佇脛骨的頂端有兩个關節窩，與大腿骨內外關節髁相交接，做膝關節（膝關節，*knee-joint*）。佇脛骨頂端的外面朋，有與腓骨的頂端相連。脛骨的下端有一个塌的關節面。佇下端的外面朋邊仔，有與腓骨相連（第 20 圖）。
 *(旁註：脛骨 / 腓骨)*
 
 ---
@@ -1437,7 +1437,7 @@ Kēng-kut ē-toan lāi-bīn piⁿ-á phok-chhut-lâi tī phê-ē ê só͘-chāi,
 Kēng-kut kap hūi-kut ē-toan ū chi̍t ê lap-u, kap kha ê hū-kut (跗骨, *tarsus*) saⁿ tàu, lâi chòe koan-chat.
 
 > **【全漢對照】**  
-> 脛骨與腓骨下端有一個凹塢，與腳的跗骨（跗骨，*tarsus*）相湊，來做關節。
+> 脛骨與腓骨下端有一个凹塢，與腳的跗骨（跗骨，*tarsus*）相湊，來做關節。
 
 ---
 
@@ -1490,7 +1490,7 @@ Iòh-kan m̄-thang hē tī iòh-toaⁿ-téng.
 Tī chiah ê kut ê chêng-bīn ū 4 tè pâi-lia̍t chòe chi̍t chōa, kap chek-kut saⁿ-liân (tē 20 tô͘).
 
 > **【全漢對照】**
-> 佇諸個骨的前面有 4 塊排列做一帶，佮蹠骨相連（第 20 圖）。
+> 佇諸个骨的前面有 4 塊排列做一帶，佮蹠骨相連（第 20 圖）。
 
 ---
 
@@ -1512,7 +1512,7 @@ Chek-kut ū 5 ki kap chhiú-chiúⁿ-kut saⁿ pí; iā tī i ê chêng-bīn ū 
 Chiah ê sè tè ê kut ha̍p-chia̍p-ê, khoán-sit chin kî, téng-bīn phòng-khí-lâi, ē-tóe lap-lo̍h-khì. Kha-kut ê hêng-chōng sī án-ni, hō͘ lâng tōng-chok chin ha̍p-gî. Kha sī chhin-chhiūⁿ ún-ku-kiô ê khoán-sit, āu-bīn sī kun-kut ta̍h tī tōe-nih, chêng-bīn sī chí-kut iā ta̍h tī tōe-nih. Khòaⁿ hit ê 21 tô͘ chiū chai. Nā kha sit-lo̍h i ê hêng-chōng hit ê pīⁿ miâ kiò-chòe pīⁿ-pīⁿ-kha (扁平足, *flat foot*; tē 22 tô͘).
 
 > **【全漢對照】**
-> 諸個細塊的骨合接的，款式真奇，頂面膨起來，下底凹落去。跤骨的形狀是按呢，予人動作真合宜。跤是親像伛佝橋的款式，後面是跟骨踏佇地裡，前面是指骨也踏佇地裡。看彼個 21 圖就知。若跤失落伊的形狀彼個病名叫做扁扁跤（扁平足，*flat foot*；第 22 圖）。
+> 諸个細塊的骨合接的，款式真奇，頂面膨起來，下底凹落去。跤骨的形狀是按呢，予人動作真合宜。跤是親像伛佝橋的款式，後面是跟骨踏佇地裡，前面是指骨也踏佇地裡。看彼个 21 圖就知。若跤失落伊的形狀彼个病名叫做扁扁跤（扁平足，*flat foot*；第 22 圖）。
 
 ---
 
@@ -1525,7 +1525,7 @@ Chiah ê sè tè ê kut ha̍p-chia̍p-ê, khoán-sit chin kî, téng-bīn phòng
 Chiah ê 26 tè kut saⁿ chia̍h-chhēⁿ ha̍p chòe chi̍t ki...
 
 > **【全漢對照】**
-> 諸個 26 塊骨相食喙合作一支……
+> 諸个 26 塊骨相食喙合作一支……
 
 ---
 

@@ -96,7 +96,7 @@ Tī-liâu: Tio̍h tó tī bîn-chhng, m̄-thang tōa tín-tāng, m̄-thang kôa�
 Si̍t-bu̍t: Tio̍h ēng liû-tōng ê si̍t-bu̍t, chhin-chhiūⁿ gû-leng kap kún-chúi, be̍h-gê-chúi. Chiah-ê ōe hō͘ jiō khah-chōe, iā ōe sóe chheng-khì sīn-chōng-lāi, iā bōe chhì-kek sīn-chōng. Hoān-nā ōe chhì-kek sīn-chōng ê mi̍h, chiū-sī lo̍ah, bah, chhài, thng hit hō lūi, chiū m̄-thang chia̍h.
 
 > **【全漢對照】**
-> 食物：著用流動的食物，親像牛奶佮滾水、麥芽水。諸個會予尿較濟，亦會洗天氣腎臟內，亦袂刺激腎臟。凡若會刺激腎臟的物，就是辣、肉、菜、湯彼號類，就毋通食。
+> 食物：著用流動的食物，親像牛奶佮滾水、麥芽水。諸个會予尿較濟，亦會洗天氣腎臟內，亦袂刺激腎臟。凡若會刺激腎臟的物，就是辣、肉、菜、湯彼號類，就毋通食。
 
 ---
 
@@ -218,7 +218,7 @@ Jiō-to̍k chèng: Tēng-gī: Chit ê pīⁿ chiū-sī sím-mih
 tòk ji̍p tī huih-nih. Só͘ jiám-tio̍h ê pīⁿ-lâng ū sīn-chōng-iām. Hit ê tòk sī tú-tú sím-mi̍h khoán, iáu-bē tiāⁿ-tio̍h chai.
 
 > **【全漢對照】**  
-> 毒入佇血裡。所染著的病人有腎臟炎。彼個毒是抵抵甚麼款，猶未定著知。
+> 毒入佇血裡。所染著的病人有腎臟炎。彼个毒是抵抵甚麼款，猶未定著知。
 
 ---
 
@@ -227,7 +227,7 @@ tòk ji̍p tī huih-nih. Só͘ jiám-tio̍h ê pīⁿ-lâng ū sīn-chōng-iām.
 Chèng-chōng : Lūn chit ê pīⁿ ê hoat-choh sī chiām-chiām khí, á-sī hut-jiân khí. Thâu-khak thiàⁿ, áu-thò͘. hā-lī, ho͘-khip-khùn-lân, ū-sî hoat-kông á-sī m̄-chai-lâng. Siáu-piān sī chhin-chhiūⁿ ū sīn-chōng-iām ê pīⁿ-ê.
 
 > **【全漢對照】**  
-> 症狀：論這個病的發作是漸漸起，抑是忽然起。頭殼疼，嘔吐，下痢，呼吸困難，有時發狂抑是不知人。小便親像有腎臟炎的病者。
+> 症狀：論這个病的發作是漸漸起，抑是忽然起。頭殼疼，嘔吐，下痢，呼吸困難，有時發狂抑是不知人。小便親像有腎臟炎的病者。
 
 ---
 
@@ -236,7 +236,7 @@ Chèng-chōng : Lūn chit ê pīⁿ ê hoat-choh sī chiām-chiām khí, á-sī 
 Tī-liâu : Kap i-tī sīn-chōng-iām saⁿ-tâng. Tio̍h chai chit-ê sī gûi-hiám ê chèng-thâu.
 
 > **【全漢對照】**  
-> 治療：佮醫治腎臟炎相同。著知這個是危險的症頭。
+> 治療：佮醫治腎臟炎相同。著知這个是危險的症頭。
 
 ---
 
@@ -245,7 +245,7 @@ Tī-liâu : Kap i-tī sīn-chōng-iām saⁿ-tâng. Tio̍h chai chit-ê sī gûi
 Sīn-chio̍h : Tēng-gī : Chit ê pīⁿ chiū-sī tī sīn-chōng, á-sī tī sīn-m̂g (腎門), jiō-lāi ê iâm-lūi ū kiat tēng pīⁿ-chiâⁿ kuí lia̍p chio̍h.
 
 > **【全漢對照】**  
-> 腎石：定義：這個病就是佇腎臟，抑是佇腎門 （腎門），尿內的鹽類有結硬變成幾粒石。
+> 腎石：定義：這个病就是佇腎臟，抑是佇腎門 （腎門），尿內的鹽類有結硬變成幾粒石。
 
 ---
 
@@ -263,7 +263,7 @@ Goân-in : Bô lūn siàu-liân á-sī lāu, lóng ū. Ûi-thoân ê pīⁿ. Ch�
 Chèng-chōng : Io thiàⁿ, jiō-nih kâⁿ huih, á-sī lâng. Chit ê chio̍h nā keng-kè su-jiō-kńg (輸尿管), sī chin thiàⁿ; hit ê thiàⁿ sī tī tōa-thúi ê lāi pêng, kiò-chòe sīn-chio̍h sàn-thiàⁿ (腎石疝痛). Pīⁿ-lâng ōe lâu kōaⁿ, bīn ōe tńg pe̍h, áu-thò͘, ū-sî kôaⁿ-chia̍t kàu ōe tiō. Thiàⁿ liáu-āu siáu-piān khah-chōe.
 
 > **【全漢對照】**  
-> 症狀：腰疼，尿裡含血，抑是膿。這個石若經過輸尿管 （輸尿管），是真疼；彼個疼是佇大腿的內旁，叫做腎石疝痛 （腎石疝痛）。病人會流汗，面會轉白，嘔吐，有時寒掣到會跳。疼了後小便較多。
+> 症狀：腰疼，尿裡含血，抑是膿。這个石若經過輸尿管 （輸尿管），是真疼；彼个疼是佇大腿的內旁，叫做腎石疝痛 （腎石疝痛）。病人會流汗，面會轉白，嘔吐，有時寒掣到會跳。疼了後小便較多。
 
 ---
 
@@ -315,7 +315,7 @@ Goân-in: Kôaⁿ-tio̍h; to̍k ê ióh; chhiú-su̍t ê sî hō͘ bî-seng-bu̍
 
 > **【全漢對照】**
 > **原因**
-> 原因：寒著；毒的藥；手術的時互微生物入去；導尿術的時傢俬無清潔；淋病（淋病，*gonorrhoea*，就是澁症）；有時因為婦人人肛門的驚人（蛔蟲）觸著尿道。諸個攏會變成急性膀胱炎。慢性的原因，就是膀胱內結石；腎腫癰；尿道狹窄（尿道狹窄）；神經病；結核症。
+> 原因：寒著；毒的藥；手術的時互微生物入去；導尿術的時傢俬無清潔；淋病（淋病，*gonorrhoea*，就是澁症）；有時因為婦人人肛門的驚人（蛔蟲）觸著尿道。諸个攏會變成急性膀胱炎。慢性的原因，就是膀胱內結石；腎腫癰；尿道狹窄（尿道狹窄）；神經病；結核症。
 
 ---
 
@@ -375,7 +375,7 @@ Tī-liâu: Tióh chhiú-su̍t, chiong hit lia̍p chio̍h the̍h-khí-lâi (tē 4
 
 > **【全漢對照】**
 > **旁贊伊小便**
-> 有時病人小水無利便，下袂得出嚟，看護著替伊設法。小便的時互伊身軀仆咧（病人若袂通起來，毋通互伊仆咧），抑是用綿的袋仔烘互伊燒，抑是溫濕布，放置病人的膀胱的所在，抑是用熱水放置受尿器內，亦通旁贊伊小便；總是用此個落尾記的法度無甚麼妥當，因為曾燙著病人，過幾若禮拜久袂好。
+> 有時病人小水無利便，下袂得出嚟，看護著替伊設法。小便的時互伊身軀仆咧（病人若袂通起來，毋通互伊仆咧），抑是用綿的袋仔烘互伊燒，抑是溫濕布，放置病人的膀胱的所在，抑是用熱水放置受尿器內，亦通旁贊伊小便；總是用此个落尾記的法度無甚麼妥當，因為曾燙著病人，過幾若禮拜久袂好。
 
 <!-- Page 587 End -->
 

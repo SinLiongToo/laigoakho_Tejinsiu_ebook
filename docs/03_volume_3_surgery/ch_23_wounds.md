@@ -16,7 +16,7 @@ Tī chit chiuⁿ ê lāi-bīn beh kóng-khí bô-tiuⁿ-tî tú-tio̍h ê siong,
 
 > **【全漢對照】**
 > **［挫傷］**
-> 佇此章的內面欲提起無張遲抵著的傷，以及醫生手術的傷。人若跋倒，抑是互人拍著，彼個受傷的所在，若皮膚無破，號做挫傷（挫傷，*contusion*）。佇皮下的結締質內有毛細血管，諸個會掣斷，出淡薄血佇皮下。此個血若較濟號做血腫（血腫，*haematoma*）。若是較少，彼個皮的色緻代先是烏，到赤菌細胞吸收佇血裡，彼個色就變成黃；閣無久會照原。此個號做皮下溢血（皮下溢血，*echymosis*）。
+> 佇此章的內面欲提起無張遲抵著的傷，以及醫生手術的傷。人若跋倒，抑是互人拍著，彼个受傷的所在，若皮膚無破，號做挫傷（挫傷，*contusion*）。佇皮下的結締質內有毛細血管，諸个會掣斷，出淡薄血佇皮下。此个血若較濟號做血腫（血腫，*haematoma*）。若是較少，彼个皮的色緻代先是烏，到赤菌細胞吸收佇血裡，彼个色就變成黃；閣無久會照原。此个號做皮下溢血（皮下溢血，*echymosis*）。
 
 ---
 
@@ -34,7 +34,7 @@ Chhòng-siong (創傷, *wounds*) khah-siông hūn chòe sì khoán:
 
 > **【全漢對照】**
 > **［割傷］**
-> 1. 第一是割傷（*incised wounds*）。彼個傷佮刀割著的相親像，就是彼號手術的。傷喙齊整，開開，𠢕出血。
+> 1. 第一是割傷（*incised wounds*）。彼个傷佮刀割著的相親像，就是彼號手術的。傷喙齊整，開開，𠢕出血。
 
 ---
 
@@ -93,7 +93,7 @@ Iā ū koh chit khoán ê siong, chiū-sī hō͘ chhèng phah-tio̍h ê siong, k
 Bô-tiuⁿ-tî tio̍h-siong ê phòa khang, kap i-seng chhiú-su̍t ê siong, ū chi̍t-ê tē it iàu-kín ê hun-piat, in-ūi bô-tiuⁿ-tî lâi kui khang, khah chōe sī bô chheng-khì ê mi̍h lâi siong-tio̍h, ē hō͘ to̍k mi̍h cháu-ji̍p siong-chhùi. Koh tio̍h-siong ê phê, in-ūi bô tiuⁿ-tî, iā tek-khak bô sím-mi̍h chheng-khì. Só͘-í bô tiuⁿ-tî lâi tio̍h-siong-ê, nā bô sió-sim ēng siau-to̍k-io̍h-chúi lâi sóe, sī chin khoài pìⁿ-chiâⁿ lâng. Iā nā án-ni sóe, ū-sî bōe bián-tit tio̍h pìⁿ-chiâⁿ lâng.
 
 > **【全漢對照】**
-> 無張持著傷ê破孔，佮醫生手術ê傷，有一個第一要緊ê分別，因為無張持來歸孔，較多是無清氣ê物來傷著，會互毒物走入傷喙。閣著傷ê皮，因為無張持，也的確無甚麼清氣。所以無張持來著傷ê，若無小心用消毒藥水來洗，是真快變成膿。也若按呢洗，有時袂免得出著變成膿。
+> 無張持著傷ê破孔，佮醫生手術ê傷，有一个第一要緊ê分別，因為無張持來歸孔，較多是無清氣ê物來傷著，會互毒物走入傷喙。閣著傷ê皮，因為無張持，也的確無甚麼清氣。所以無張持來著傷ê，若無小心用消毒藥水來洗，是真快變成膿。也若按呢洗，有時袂免得出著變成膿。
 
 ---
 
@@ -111,7 +111,7 @@ Chhòng-siong ê tī-liâu : Chhòng-siong beh hó ê khoài á bān, sī koan-h
 Tē-it-kî-lú-ha̍p : I-seng tak-ê só͘ ài, chiū-sī chhiú-su̍t ê siong tio̍h chiàu tē-it-kî-lú-ha̍p lâi liân-ha̍p. Tī tē 22 chiuⁿ lán ū khòaⁿ-kìⁿ kun-bah á-sī phê-bah, siū-siong liáu-āu, chiū ū tiāⁿ-tio̍h keng-kè iām-chèng ê khoán-sit, chiū-sī huih-kńg tāi-seng tiùⁿ, jiân-āu chiū thêng-teh, huih-lāi ê huih-chiuⁿ lâu-chhut-lâi, kè bô kú ē chiong siong-chhùi khàm kàu ān-ān ba̍t-ba̍t. Nā-sī siong-chhùi ū chheng-khì chiū ē hō͘ hit ê huih-chiuⁿ sio-liân. Nā bô hit hō͘ bî-seng-bu̍t cháu-ji̍p-khì, iām chiū ē siau, beh siu-chhùi iā kín.
 
 > **【全漢對照】**
-> 第一期癒合：醫生逐個所愛，就是手術ê傷著照第一期癒合來連合。佇第22章咱有看見筋肉抑是皮肉，受傷了後，就有定著經過炎症ê款式，就是血管代先脹，然後就停咧，血內的血漿流出來，過無久會將傷喙𢯢到絚絚密密。若是傷喙有清氣就會互彼ê血漿相連。若無彼號微生物走入去，炎就會消，欲收喙也緊。
+> 第一期癒合：醫生逐个所愛，就是手術ê傷著照第一期癒合來連合。佇第22章咱有看見筋肉抑是皮肉，受傷了後，就有定著經過炎症ê款式，就是血管代先脹，然後就停咧，血內的血漿流出來，過無久會將傷喙𢯢到絚絚密密。若是傷喙有清氣就會互彼ê血漿相連。若無彼號微生物走入去，炎就會消，欲收喙也緊。
 
 ---
 
@@ -158,7 +158,7 @@ Taⁿ beh kán-séng pâi-lia̍t siong ka-kī chū-jiân ê tī-liâu-hoat, chi�
 > 3. 白血球佮血漿滲出到傷的邊仔佮血塊的邊仔（第 191 圖）。  
 > 4. 白血球的中間的食菌細胞咧食血塊佮死的組織。  
 > 5. 結締質佮血管的黏膜有出結締質新生細胞（*fibroblasts*）。  
-> 6. 傷喙的邊仔有毛細血管。對諸個會生細細的紅粒遍散佇肉的頂面，此號紅粒入佇彼個結締質，新的細胞成做肉芽組織（肉芽組織，*granulation tissue*）。此個肉芽組織漸漸大起來，到傷喙直直填起來抑是連合。
+> 6. 傷喙的邊仔有毛細血管。對諸个會生細細的紅粒遍散佇肉的頂面，此號紅粒入佇彼个結締質，新的細胞成做肉芽組織（肉芽組織，*granulation tissue*）。此个肉芽組織漸漸大起來，到傷喙直直填起來抑是連合。
 
 ---
 
@@ -180,7 +180,7 @@ Nā ài siong-chhùi liâm-piⁿ liân-ha̍p, hit ê siong-chhùi tio̍h chin ch
 > **【全漢對照】**  
 > **【肉芽組織】**  
 > 傷喙若好了後，皮膚裡有過去，成起的組織（*scar*，疤痕）。  
-> 若愛傷喙連鞭連合，彼個傷喙著真腥氣（清潔），也著雙爿縫合互密（縫合就是紩的意思）。
+> 若愛傷喙連鞭連合，彼个傷喙著真腥氣（清潔），也著雙爿縫合互密（縫合就是紩的意思）。
 
 ---
 
@@ -190,7 +190,7 @@ Tē-jī-kî-lú-ha̍p: Ū-ê in-ūi siong-chhùi sī bô-tiuⁿ-tî tio̍h-siong
 
 > **【全漢對照】**  
 > **【第二期癒合】**  
-> 第二期癒合：有的因為傷喙是無張遲著傷，抑是因為手術，彼個肉互伊割起來皮膚無夠額通縫合；抑是因為拆裂的傷；抑是因為有微生物走入去，彼號的緣故；
+> 第二期癒合：有的因為傷喙是無張遲著傷，抑是因為手術，彼个肉互伊割起來皮膚無夠額通縫合；抑是因為拆裂的傷；抑是因為有微生物走入去，彼號的緣故；
 
 <!-- Page 337 End -->
 
@@ -297,7 +297,7 @@ Sóe siong-chhùi khah-siông ēng ê siau-to̍k-io̍h-chúi chhin-chhiūⁿ ē-
 Lūn gōa-kho chhiú-su̍t ê siong-chhùi, ē-bīn só͘ kì-ê tio̍h tì-ì. Gōa-kho siong-chhùi, nā lóng chheng-khì ê chhiú-su̍t, thang ēng sòaⁿ thīⁿ hō͘ ba̍t, m̄-kú nā bô chheng-khì, m̄-thang thīⁿ ba̍t-ba̍t, sī in-ūi ū bî-seng-bu̍t tī hit lāi-bīn teh oa̍h, lâi tì-kàu hòa-lâng. Chiah ê bî-seng-bu̍t khah chōe chi̍t pòaⁿ sī phû-tô-chōng-kiû-khún (葡萄狀球菌), kap liân-só-chōng-kiû-khún (連鎖狀球菌). Bî-seng-bu̍t ū-ê tī huih-nih, ū-ê tùi khong-khì ê tiong-kan thoân-jiám ji̍p tī pau bô ba̍t ê siong-chhùi, á-sī tùi i-seng chō͘-chhiú ê chhiú, kap ke-si, iā ōe ji̍p-khì. Huih ê tiong-kan khah chió bî-seng-bu̍t, khong-khì nā tiām-tiām, á-sī tī gōa-bīn, iā chió-chió ū hit hō. Án-ni thang chai siong-chhùi í-
 
 > **【全漢對照】**
-> 論外科手術的傷喙，下面所記的著致意。外科傷喙，若攏清潔的手術，通用線縫予密，毋拘若無清潔，毋通縫密密，是因為有微生物佇彼內面咧活，來致到化膿。諸個微生物較濟一半是葡萄狀球菌 （葡萄狀球菌），佮連鎖狀球菌 （連鎖狀球菌）。微生物有的佇血裡，有的對空氣的中間傳染入佇包無密的傷喙，抑是對醫生助手的手，佮器具，亦會入去。血的中間較少微生物，空氣若恬恬，抑是佇外面，亦少少有彼號。按呢通知傷喙以-
+> 論外科手術的傷喙，下面所記的著致意。外科傷喙，若攏清潔的手術，通用線縫予密，毋拘若無清潔，毋通縫密密，是因為有微生物佇彼內面咧活，來致到化膿。諸个微生物較濟一半是葡萄狀球菌 （葡萄狀球菌），佮連鎖狀球菌 （連鎖狀球菌）。微生物有的佇血裡，有的對空氣的中間傳染入佇包無密的傷喙，抑是對醫生助手的手，佮器具，亦會入去。血的中間較少微生物，空氣若恬恬，抑是佇外面，亦少少有彼號。按呢通知傷喙以-
 
 <!-- Page 339 End -->
 
@@ -329,21 +329,21 @@ Só͘-í i-seng kài tióh chù-ì-ê :
 2. Sī hō͘ siong-chhùi tit-tióh tú-hó ê pôe-iúⁿ ; chhin-chhiūⁿ chiong hit ê siong-chhùi thīⁿ óa-lâi, á-sī ēng hù-bók hō͘ hit ê siū-siong ê só͘-chāi bōe tín-tāng. Sui-jiân ài siū-siong ê só͘-chāi bóh-tit tín-tāng, m̄-kú pīⁿ-lâng ê thong seng-khu khiok m̄-sī tiāⁿ-tióh m̄-thang tín-tāng. *(Hó ê pôe-iúⁿ)*
 
 > **【全漢對照】**
-> 2. 是予傷處得著抵好的培育；親像將彼個傷處縫倚來，抑是用副木予彼個受傷的所在𣍐振動。雖然愛受傷的所在莫得振動，毋過病人的通身軀卻毋是定著毋通振動。*（邊註：好的培育）*
+> 2. 是予傷處得著抵好的培育；親像將彼个傷處縫倚來，抑是用副木予彼个受傷的所在𣍐振動。雖然愛受傷的所在莫得振動，毋過病人的通身軀卻毋是定著毋通振動。*（邊註：好的培育）*
 
 ---
 
 3. Ēng ha̍p-sek ê hoat-tō͘ hō͘ i lâu lâng huih. Chit hō chhut chāi i-seng ê ì-sù, ū-ê ēng, ū-ê m̄-bián ēng. Nā i-seng siūⁿ chhiú-su̍t liáu-āu ōe lâu tām-póh huih, á-sī huih-chiuⁿ, kiám-chhái thâu chit ji̍t nn̄g ji̍t, ōe ēng hō͘ i ōe lâu-chhut-lâi ê hoat-tō͘. Hit hō hoat-tō͘, ū-sî ēng mî-se lâi that (phah ióh-sng), á-sī ēng chhiū-leng-kńg lâi jip. Chhiū-leng-kńg ê pīⁿ-á ū khang. Nā siong-chhùi ū lâng, á-sī sìⁿ lâng-iông, koh khah tióh ēng chit hō thang hō͘ i lâu-chhut-lâi ê hoat-tō͘. Chit ê hoat-tō͘ kiò-chòe ín-lâu (引流, drainage). *(Chit hō ín-lâu-hoat)*
 
 > **【全漢對照】**
-> 3. 用合式的法度予伊流膿血。這號出在醫生的意思，有的用，有的毋免用。若醫生想手術了後會流淡薄血，抑是血漿，檢採頭一日兩日，會用予伊會流出來的法度。彼號法度，有時用棉紗來窒（拍藥線），抑是用樹乳管來入。樹乳管的柄仔有孔。若傷處有膿，抑是生膿瘍，更加著用這號通予伊流出來的法度。這個法度叫做引流（引流，drainage）。*（邊註：這號引流法）*
+> 3. 用合式的法度予伊流膿血。這號出在醫生的意思，有的用，有的毋免用。若醫生想手術了後會流淡薄血，抑是血漿，檢採頭一日兩日，會用予伊會流出來的法度。彼號法度，有時用棉紗來窒（拍藥線），抑是用樹乳管來入。樹乳管的柄仔有孔。若傷處有膿，抑是生膿瘍，更加著用這號通予伊流出來的法度。這个法度叫做引流（引流，drainage）。*（邊註：這號引流法）*
 
 ---
 
 Chhâ-khó bî-seng-bu̍t chòe ài sip-khì, só͘-í tióh ēng thang hō͘ i lâu-chhut-lâi ê hoat-tō͘, á-sī ēng mî-se, mî-hoe, chiong hit ê sip-khì kā i sò-khí-lâi, bî-seng-bu̍t chiū sit-lóh hit ê iúⁿ-chhī i ê mih. Só͘-í chhiú-su̍t chheng-khì-ê, só͘ ēng ê mî-se kap mî-hoe, tióh ta khah hó. Nā pīⁿ-lâng sin-thé ióng-chòng, ōe m̄-bián hō͘ hit ê bî-seng-bu̍t ná sìⁿ-thòaⁿ. Tùi án-ni thang chai iáu-bē kā i chhiú-su̍t, hō͘ i chia̍h chu-ióng-liāu kap kiông-chòng-che, ōe hō͘ i ê tì-khòng-la̍t khah chōe, hō͘ i khah khoài hó. *(Bî-seng-bu̍t ài sip-khì)*
 
 > **【全漢對照】**
-> 查考微生物最愛濕氣，所以著用通予伊流出來的法度，抑是用棉紗、棉花，將彼個濕氣共伊掃起來，微生物就失落彼個養飼伊的物。所以手術清潔的，所用的棉紗佮棉花，著焦恰好。若病人身體勇壯，會毋免予彼個微生物那生湠。對按呢通知猶未共伊手術，予伊食滋養料佮強壯劑，會予伊的抵抗力恰多，予伊恰快好。*（邊註：微生物愛濕氣）*
+> 查考微生物最愛濕氣，所以著用通予伊流出來的法度，抑是用棉紗、棉花，將彼个濕氣共伊掃起來，微生物就失落彼个養飼伊的物。所以手術清潔的，所用的棉紗佮棉花，著焦恰好。若病人身體勇壯，會毋免予彼个微生物那生湠。對按呢通知猶未共伊手術，予伊食滋養料佮強壯劑，會予伊的抵抗力恰多，予伊恰快好。*（邊註：微生物愛濕氣）*
 
 ---
 
@@ -368,7 +368,7 @@ Gō͘-cha̍p nî chêng iáu-kú bōe hiáu-tit siong-chhùi cháiⁿ-iūⁿ ē 
 
 > **【全漢對照】**
 > **【50年前】**
-> 五十年前猶久袂曉得傷喙怎樣會化膿，是甚麼緣故。彼時醫生咧手術，若抵著無運動化膿就掠做奇怪，所以手術了後，小小有好的。若病人手術了後無死，也著過真多日才會照原。親像現時用兩禮拜久，早的時著用兩月日；這毋是因為醫生的手術顸慢，是因為唔知彼個傳染的緣故。
+> 五十年前猶久袂曉得傷喙怎樣會化膿，是甚麼緣故。彼時醫生咧手術，若抵著無運動化膿就掠做奇怪，所以手術了後，小小有好的。若病人手術了後無死，也著過真多日才會照原。親像現時用兩禮拜久，早的時著用兩月日；這毋是因為醫生的手術顸慢，是因為唔知彼个傳染的緣故。
 
 ---
 
@@ -376,14 +376,14 @@ Gō͘-cha̍p nî chêng iáu-kú bōe hiáu-tit siong-chhùi cháiⁿ-iūⁿ ē 
 Hit-tiap tī tē 1867 nî, chi̍t-ê Eng-kok gōa-kho i-seng, miâ kiò *Joseph Lister*, ū soat-bêng siong-chhùi hòa-lâng ê lí-khì. I kóng nā bî-seng-bu̍t ji̍p tī siong-chhùi ē hòa-lâng, sòa kóng nā bô bî-seng-bu̍t ji̍p tī siong-chhùi bōe hòa-lâng. Tùi hit nî kúi-nā kok ê i-seng ū ti̍t-ti̍t káng-kiù chit hō sū. Hiān-chhú-sî lâng chheng-ho *Lister* hō-chòe kūn-sè gōa-kho-ha̍k ê lāu-pē. Hiān-sî ê lâng í-keng chai chit ê thoân-jiám ê lí-khì; nā siong-chhùi ū hòa-lâng, khah tōa pún, sī in-ūi lâng ū chhò-gō͘, sit chim-chiok. Tāi-khài sī in-ūi pīⁿ-lâng ê phê bô chheng-khì, á-sī ōaⁿ pau-siong-liāu ê lâng ê chhiú á-sī ke-si bô chheng-khì, ū thoân-jiám ê mi̍h, á-sī mî-hoe hit khoán iáu ū bî-seng-bu̍t bē bia̍t chīn, só͘-í ōe hòa-lâng.
 
 > **【全漢對照】**
-> 彼霎佇第 1867 年，一個英國外科醫生，名叫 *Joseph Lister*，有說明傷喙化膿的理氣。伊講若微生物入佇傷喙會化膿，續講若無微生物入佇傷喙袂化膿。對彼年幾若國的醫生有直直講究此號事。現此時人稱呼 *Lister* 號做近世外科學的老爸。現時的人已經知此個傳染的理氣；若傷喙有化膿，較大本，是因為人有錯誤，失斟酌。大概是因為病人的皮無清潔，抑是換包傷料的人的手抑是器具無清潔，有傳染的物，抑是棉花彼款猶有微生物未滅盡，所以會化膿。
+> 彼霎佇第 1867 年，一个英國外科醫生，名叫 *Joseph Lister*，有說明傷喙化膿的理氣。伊講若微生物入佇傷喙會化膿，續講若無微生物入佇傷喙袂化膿。對彼年幾若國的醫生有直直講究此號事。現此時人稱呼 *Lister* 號做近世外科學的老爸。現時的人已經知此个傳染的理氣；若傷喙有化膿，較大本，是因為人有錯誤，失斟酌。大概是因為病人的皮無清潔，抑是換包傷料的人的手抑是器具無清潔，有傳染的物，抑是棉花彼款猶有微生物未滅盡，所以會化膿。
 
 ---
 
 Tē it iàu-kín ê tī-liâu-hoat, bô lūn sím-mi̍h pīⁿ, tio̍h sî-siông ōe-kì-tit, chiū-sī pó͘ ê si̍t-bu̍t, khoài siau-hòa ê chia̍h-mi̍h, chù-ì tāi-, siáu-piān, iā hō͘ pīⁿ-lâng hó ê khong-khì; nā ū sím-mi̍h pa̍t mi̍h hoat-tō͘, ōe hō͘ i khah khòaⁿ-oa̍h, hit-ê iā tiāⁿ-tio̍h tio̍h ēng.
 
 > **【全漢對照】**
-> 第一要緊的治療法，無論甚麼病，著時常會記得，就是補的食物，快消化的食物，注意大、小便，也予病人好的空氣；若有甚麼別物法度，會予伊較快活，彼個也定著著用。
+> 第一要緊的治療法，無論甚麼病，著時常會記得，就是補的食物，快消化的食物，注意大、小便，也予病人好的空氣；若有甚麼別物法度，會予伊較快活，彼个也定著著用。
 
 <!-- Page 341 End -->
 

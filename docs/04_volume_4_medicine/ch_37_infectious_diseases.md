@@ -17,7 +17,7 @@ Hit-ê ōe thoân-jiám ê iân-kò͘, in-ūi ū bî-seng-bu̍t. Ta̍k chéng ê
 > **第 37 章**
 > **論傳染病**
 > 
-> 許個會傳染的緣故，因為有微生物。各種的傳染病的微生物攏無相同。這號微生物若得到合宜的所在，就會予伊特別的病發作起來。每款傳染病的微生物猶未攏知，親像痲疹彼號病的微生物猶未知，小腸熱的微生物攏知。
+> 許个會傳染的緣故，因為有微生物。各種的傳染病的微生物攏無相同。這號微生物若得到合宜的所在，就會予伊特別的病發作起來。每款傳染病的微生物猶未攏知，親像痲疹彼號病的微生物猶未知，小腸熱的微生物攏知。
 
 ---
 
@@ -104,7 +104,7 @@ Tāi-seng beh sió-khóa kóng-khí thoân-jiám pīⁿ ê chóng-lūn. Chiah ê
 Lâng ū-ê khah khoài jiám-tio̍h pīⁿ, ū-ê khah hán-tit. In-ūi lâng ê huih ū khòng-to̍k ê khùi-la̍t, só͘-í bî-seng-bu̍t sui-jiân ji̍p lâng ê seng-khu bē tek-khak hō͘ lâng hoān-tio̍h. Nā hit hō sin-thé ióng-chòng ê lâng chiū khah bē jiám-tio̍h, nā seng-khu soe-jio̍k-ê, chiū khah khoài jiám-tio̍h; khòaⁿ tē 22 chiuⁿ.
 
 > **【全漢對照】**  
-> 首先欲小可提起傳染病的總論。諸個病害著的所在無同，親像小腸熱較濟害著小腸；白喉害著頷喉佮神經；猩紅熱害著皮膚，有時佮腎臟。  
+> 首先欲小可提起傳染病的總論。諸个病害著的所在無同，親像小腸熱較濟害著小腸；白喉害著頷喉佮神經；猩紅熱害著皮膚，有時佮腎臟。  
 > 人有的較快染著病，有的較罕得。因為人的血有抗毒的氣力，所以微生物雖然入人的身軀，𣍐的確互人犯著。若彼號身體勇壯的人就較𣍐染著，若身軀衰弱的，就較快染著；看第 22 章。
 
 ---
@@ -114,7 +114,7 @@ Lâng ū-ê khah khoài jiám-tio̍h pīⁿ, ū-ê khah hán-tit. In-ūi lâng �
 Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî ê sî-kan, sī tùi chi̍t nn̄g ji̍t khí, kàu kúi-nā lé-pài ûi-chí. Chiah-ê pâi tī ē-tóe:
 
 > **【全漢對照】**  
-> 若提起熱的事，較常是分五期，也這五期的時間，是對一兩日起，到幾若禮拜為止。諸個排佇下底：
+> 若提起熱的事，較常是分五期，也這五期的時間，是對一兩日起，到幾若禮拜為止。諸个排佇下底：
 
 ---
 
@@ -123,7 +123,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 1. Chiām-ho̍k-kî (潛伏期, *Incubation period*): Tùi bî-seng-bu̍t ji̍p lâng seng-khu ê sî, kàu hit ê pīⁿ hoat-choh-khí-lâi ê ji̍t; á-sī lâi kóng, chiū-sī tùi jiám-tio̍h pīⁿ-to̍k khí, kàu hoat pīⁿ ûi-chí ê kî-kan.
 
 > **【全漢對照】**  
-> 1. 潛伏期（潛伏期，*Incubation period*）：對微生物入人身軀的時，到彼個病發作起來的日；抑是來講，就是對染著病毒起，到發病為止的期間。
+> 1. 潛伏期（潛伏期，*Incubation period*）：對微生物入人身軀的時，到彼个病發作起來的日；抑是來講，就是對染著病毒起，到發病為止的期間。
 
 ---
 
@@ -150,7 +150,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 4. Kiám-thè-kî (減退期, *Stage of defeverescence*): Chiū-sī jia̍t kàng-lo̍h kē ê sî-kî. Chit ê kiám-thè-kî ū-sî tī kúi-nā sî-kan-lāi chiah ōe thè, chit hō kiò-chòe hun-lī (分利, *crisis*, tē 470 tô͘); koh chi̍t khoán ê jia̍t tio̍h chi̍t ji̍t í-siōng, chiah chiām-chiām lo̍h kē, chit hō kiò-chòe sàn-hoàn (散渙, *lysis*, tē 471 tô͘, tē 548 bīn).
 
 > **【全漢對照】**  
-> 4. 減退期（減退期，*Stage of defeverescence*）：就是熱降落低的時期。這個減退期有時佇幾若時間內才會退，彼號叫做分利（分利，*crisis*，第 470 圖）；閣一款的熱著一日以上，才漸漸落低，彼號叫做散渙（散渙，*lysis*，第 471 圖，第 548 面）。
+> 4. 減退期（減退期，*Stage of defeverescence*）：就是熱降落低的時期。這个減退期有時佇幾若時間內才會退，彼號叫做分利（分利，*crisis*，第 470 圖）；閣一款的熱著一日以上，才漸漸落低，彼號叫做散渙（散渙，*lysis*，第 471 圖，第 548 面）。
 
 <!-- Page 595 End -->
 
@@ -173,7 +173,7 @@ Nā kóng-khí jia̍t ê sū, khah-siông sī hun gō͘ kî, iā chit gō͘ kî 
 Tē 473 tô͘.—Chit ê tô͘ sī beh hō͘ lâng khòaⁿ hô͘-sîn thoân-jiám ê lī-hāi, kap hit ê in-iû : 1, hô͘-sîn ; 2, pīⁿ-lâng ê pīⁿ-sek-lāi ū pêng-siông chhâ chòe ê piān-tháng. In-ūi bô khàm, hô͘-sîn hioh tī pùn-téng, kha ba̍k-tio̍h bî-seng-bu̍t, chiah pe hioh tī lâng ê sit-bu̍t ; 3, chàu-kha, á-sī chhài-chhī, hô͘-sîn hioh tī pn̄g, chhài, bah, ê téng-bīn ; 4, chit hō ê sit-bu̍t í-keng hō͘ hô͘-sîn jiám-tio̍h bî-seng-bu̍t ; phâng-lâi chia̍h-pn̄g-thiaⁿ, hō͘ lâng chia̍h ; 5, bô lōa-kú chia̍h ê lâng chiū khí pīⁿ. Thoân-jiám ê goân-in chit hāng chiū-sī án-ni. (After two health charts published in Shanghai, with apologies to owners.)
 
 > **【全漢對照】**
-> 第 473 圖。——此個圖是欲予人看胡蠅傳染的厲害，及彼個因由：1，胡蠅；2，病人的病室內有平常柴做的便桶。因為無蓋，胡蠅歇佇糞頂，跤沐著微生物，才飛歇佇人的食物；3，灶跤，抑是菜市，胡蠅歇佇飯、菜、肉的頂面；4，此號的食物已經予胡蠅染著微生物；捧來食飯廳，予人食；5，無偌久食的人就起病。傳染的原因此項就是按呢。（After two health charts published in Shanghai, with apologies to owners.）
+> 第 473 圖。——此个圖是欲予人看胡蠅傳染的厲害，及彼个因由：1，胡蠅；2，病人的病室內有平常柴做的便桶。因為無蓋，胡蠅歇佇糞頂，跤沐著微生物，才飛歇佇人的食物；3，灶跤，抑是菜市，胡蠅歇佇飯、菜、肉的頂面；4，此號的食物已經予胡蠅染著微生物；捧來食飯廳，予人食；5，無偌久食的人就起病。傳染的原因此項就是按呢。（After two health charts published in Shanghai, with apologies to owners.）
 
 <!-- Page 596 End -->
 
@@ -217,7 +217,7 @@ Thoân-jiám pīⁿ ê chèng-chōng, ta̍k khoán pīⁿ ū ka-kī ê chèng-ch
 Sió-tn̂g-jia̍t: Tēng-gī: Chit-ê chiū-sī thoân-jiám pīⁿ tùi te̍k-pia̍t ê sòe-khún khí, tāi-pō͘-hūn ē hāi-tio̍h sió-tn̂g.
 
 > **【全漢對照】**
-> 小腸熱：定義：此個就是傳染病對特別的細菌起，大部分會害著小腸。
+> 小腸熱：定義：此个就是傳染病對特別的細菌起，大部分會害著小腸。
 
 ---
 
@@ -226,7 +226,7 @@ Sió-tn̂g-jia̍t: Tēng-gī: Chit-ê chiū-sī thoân-jiám pīⁿ tùi te̍k-p
 Goân-in: Sī _bacillus typhosus_, chiū-sī sió-tn̂g-jia̍t ê sòe-khún. Tùi lim tio̍h chit hō bî-seng-bu̍t ê chúi, á-sī gû-leng, á-sī pa̍t khoán ê si̍t-bu̍t. Lâi thoân-jiám chit ê pīⁿ, hô-sîn chin lī-hāi. Chit hō pīⁿ-lâng pùn ê lāi-bīn, ū chiah ê bî-seng-bu̍t put-chí chē. Hô-sîn pe hioh tī hit hō pùn ê téng-bīn, i ê kha ē liâm-tio̍h bî-seng-bu̍t, chiah pe kàu chàu-kha, á-sī chia̍h-pn̄g-thiaⁿ, hioh-tio̍h lâng ê si̍t-bu̍t; iā tùi i ê kha liâm-tio̍h ê bî-seng-bu̍t, ba̍k-tio̍h si̍t-bu̍t; lâng lâi chia̍h chiū thoân-jiám-tio̍h sió-tn̂g-jia̍t (tē 473 tô͘). Só͘-í sī iàu-kín, tio̍h bia̍t hô-sîn. Siàu-liân ê lâng, cha̍p-gō͘ chì jī-cha̍p-gō͘ hè-ê, khah-khoài tú-tio̍h chit hō chèng. Nā-sī siàu-liân lâng tú-tio̍h chit hō pīⁿ, khiok iū
 
 > **【全漢對照】**
-> 原因：是 _bacillus typhosus_（傷寒桿菌），就是小腸熱的細菌。對啉著此號微生物的水，抑是牛奶，抑是別款的食物。來傳染此個病，胡蠅真利害。此號病人糞的內面，有諸個微生物不止多。胡蠅飛歇佇彼號糞的頂面，伊的腳會黏著微生物，才飛到灶腳，抑是食飯廳，歇著人的食物；亦對伊的腳黏著的微生物，䘃著食物；人來食就傳染著小腸熱（第 473 圖）。所以是要緊，著滅胡蠅。少年的儂，十五至二十五歲的，較快抵著此號症。若是少年儂抵著此號病，卻又
+> 原因：是 _bacillus typhosus_（傷寒桿菌），就是小腸熱的細菌。對啉著此號微生物的水，抑是牛奶，抑是別款的食物。來傳染此个病，胡蠅真利害。此號病人糞的內面，有諸个微生物不止多。胡蠅飛歇佇彼號糞的頂面，伊的腳會黏著微生物，才飛到灶腳，抑是食飯廳，歇著人的食物；亦對伊的腳黏著的微生物，䘃著食物；人來食就傳染著小腸熱（第 473 圖）。所以是要緊，著滅胡蠅。少年的儂，十五至二十五歲的，較快抵著此號症。若是少年儂抵著此號病，卻又
 
 ---
 
@@ -265,7 +265,7 @@ khah khoài hó. Ài chiah chiú ê lâng chiū khah oh-tit i-tī. Lâng nā bat
 **Pīⁿ-lí-kái-phò** (*Pathology*): Sió-tng-jia̍t chèng sī ōe hō͘ lâng tng-nih siⁿ ùi-iông, hit ê khah khoài siong-tio̍h siⁿ ùi-iông ê só͘-chāi, chiū-sī kūn tī bōng-tng ê sió-tng hit ūi. Chóng-sī ū-sî tng-nih ta̍k só͘-chāi lóng ōe khí siⁿ ùi-iông. Tng-nih só͘ siⁿ ùi-iông ê cho͘-chit, chiū-sī sió-tng-liâm-mo̍͘h-lāi ê lîm-pa-chôaⁿ (*Peyer's patches*). Chit-ê chiū-sī tng ê liâm-mo̍͘h, iā ū hun chòe sì chām:
 
 > **【全漢對照】**
-> **病理解剖**（*Pathology*）：小腸熱症是會予人腸裡生潰瘍，彼個較快傷著生潰瘍的所在，就是近佇盲腸的小腸彼位。總是有時腸裡逐所在攏會起生潰瘍。腸裡所生潰瘍的組織，就是小腸粘膜內的淋巴泉（*Peyer's patches*）。這個就是腸的粘膜，亦有分做四站：
+> **病理解剖**（*Pathology*）：小腸熱症是會予人腸裡生潰瘍，彼个較快傷著生潰瘍的所在，就是近佇盲腸的小腸彼位。總是有時腸裡逐所在攏會起生潰瘍。腸裡所生潰瘍的組織，就是小腸粘膜內的淋巴泉（*Peyer's patches*）。這个就是腸的粘膜，亦有分做四站：
 
 ---
 
@@ -300,7 +300,7 @@ khah khoài hó. Ài chiah chiú ê lâng chiū khah oh-tit i-tī. Lâng nā bat
 3. Tē saⁿ chām, sī tùi hit-ê siⁿ ùi-iông ê lîm-pa-chôaⁿ ê liâm-mo̍͘h í-keng pìⁿ-chiâⁿ sí-bah lóng nōa-khì khí, kàu lak-khí-lâi ûi-chí. Chit-ê sī tē it gûi-hiám ê sî-chūn, in-ūi teh nōa ê sî, tng-á phòa-khì, á-sī tng-á ê huih-kńg phòa-khì,
 
 > **【全漢對照】**
-> 3. 第三站，是對彼個生潰瘍的淋巴泉的粘膜已經變成死肉攏爛去起，到落起來為止。這個是第一危險的時陣，因為咧爛的時，腸仔破去，抑是腸仔的血管破去，
+> 3. 第三站，是對彼个生潰瘍的淋巴泉的粘膜已經變成死肉攏爛去起，到落起來為止。這个是第一危險的時陣，因為咧爛的時，腸仔破去，抑是腸仔的血管破去，
 
 <!-- Page 598 End -->
 
@@ -350,14 +350,14 @@ chhut-huih sī chin khoài (tē 475 tô͘). Chit chām sī chha-put-to tī tē s
 Tē 475 tô͘:—Chit ê tô͘ sī chí-bêng sió-tn̂g-jia̍t ê sió-tn̂g-nih ê ùi-iông: 1, pak-mo̍h; 2, tn̂g put-sûi-ì-kun; 3, huih-kńg; 4, liâm-mo̍h; 5, sió-tn̂g-jia̍t-sèng ùi-iông; 6, tn̂g-nih chhut-huih; 7, tn̂g chhng-khang. (From Cantlie's "Nursing Manual.)
 
 > **【全漢對照】**
-> 第 475 圖：——此個圖是指明小腸熱的小腸裡之潰瘍：1，腹膜；2，腸不隨意筋；3，血管；4，黏膜；5，小腸熱性潰瘍；6，腸裡出血；7，腸穿孔。（From Cantlie's "Nursing Manual.)
+> 第 475 圖：——此个圖是指明小腸熱的小腸裡之潰瘍：1，腹膜；2，腸不隨意筋；3，血管；4，黏膜；5，小腸熱性潰瘍；6，腸裡出血；7，腸穿孔。（From Cantlie's "Nursing Manual.)
 
 ---
 
 khah hó pìⁿ-chiaⁿⁿ khí ê cho͘-chit. Tī sìⁿ ùi-iông ê ē-tóe, ū sìⁿ sin ê bah-gê-cho͘-chit; tn̂g-á ê liâm-mo̍h ū sìⁿ sin-ê, ná-óa, hō͘ hit ê ùi-iông ê siong-chhùi khah sòe. Bô lōa-
 
 > **【全漢對照】**
-> 較好變正起的組織。佇生潰瘍的下底，有生新的肉芽組織；腸仔的黏膜有生新的，那倚，互彼個潰瘍的傷喙較細。無偌——
+> 較好變正起的組織。佇生潰瘍的下底，有生新的肉芽組織；腸仔的黏膜有生新的，那倚，互彼个潰瘍的傷喙較細。無偌——
 
 <!-- Page 599 End -->
 
@@ -397,7 +397,7 @@ Seng-khu chin ià-lāi, bô ài chòe kang; ùi-kôaⁿ; thâu-khak thiàⁿ; b�
 Thâu chi̍t lé-pài: Sió-tn̂g-jia̍t ê hoat jia̍t tāi-seng hit la̍k ji̍t phê-nîh ná-bong ná-sio, ē-pó-sî pí chá-khí-sî ū khah tāng (tē 477 tô͘); ū-sî thé-un kàu 103°—104° tō͘ F. (39.4°—40° C.). Me̍h khah bān. Khah-siông pa̍t mi̍h jia̍t ê me̍h m̄-sī chhin-chhiūⁿ án-ni, i ê thé-un nā khí chi̍t tō͘, me̍h-phok tio̍h khah kín cha̍p-ē, só͘-í i ê thé-un nā khí gō͘ tō͘, i ê me̍h chiàu hoat-tō͘ eng-kai tio̍h chha-put-to 120; m̄-kú sió-tn̂g-jia̍t ê me̍h, thâu chi̍t lé-pài hán-tit kè 100-ē, āu-lâi nā khah siong-tiōng ē khí kàu 120 á-sī 130-ē, —hit-ê sī tāng. Chhùi ū thai, ū pì-kiat á-sī hā-lī. Pak-tó thiàⁿ, sió-khóa phòng-hong, ū-sî sàu. Chha-put-to tē chhit ji̍t, phî ū chéng, tī pak-tó-phê ū chhut âng tiám.
 
 > **【全漢對照】**
-> **頭一禮拜**：小腸熱的發熱代先（起初）彼六日皮裡那摸那燒（愈摸愈熱），下晝時比早起時有較重（第 477 圖）；有時體溫到 103°—104°度 F.（39.4°—40° C.）。脈較慢。較常別物熱的脈毋是親像按呢，伊的體溫若起一度，脈搏著較緊十下，所以伊的體溫若起五度，伊的脈照法度應該著差不多 120；毋過小腸熱的脈，頭一禮拜罕得過 100 下，後來若較傷重會起到 120 抑是 130 下，——彼個是重。嘴有苔，有祕結抑是下痢。腹肚疼，小可膨風，有時嗽。差不多第七日，脾有腫，佇腹肚皮有出紅點。
+> **頭一禮拜**：小腸熱的發熱代先（起初）彼六日皮裡那摸那燒（愈摸愈熱），下晝時比早起時有較重（第 477 圖）；有時體溫到 103°—104°度 F.（39.4°—40° C.）。脈較慢。較常別物熱的脈毋是親像按呢，伊的體溫若起一度，脈搏著較緊十下，所以伊的體溫若起五度，伊的脈照法度應該著差不多 120；毋過小腸熱的脈，頭一禮拜罕得過 100 下，後來若較傷重會起到 120 抑是 130 下，——彼个是重。嘴有苔，有祕結抑是下痢。腹肚疼，小可膨風，有時嗽。差不多第七日，脾有腫，佇腹肚皮有出紅點。
 
 ---
 
@@ -451,7 +451,7 @@ Phê-nih hoat-chín ê chèng-chōng : Hiah ê tiám sī 2—4 mm. ê tōa, thon
 > **【全漢對照】**
 > **【發疹】**
 > 特別的症狀是照下底：
-> 皮裡發疹的症狀：遐的點是 2—4 mm. 的大，通身軀罕得看，有時只有出幾點爾定。彼個色粉紅，比皮較浮淡薄。若用手共伊揤，紅色就無看見。較常看見的所在是佇腹肚皮佮胸坎。
+> 皮裡發疹的症狀：遐的點是 2—4 mm. 的大，通身軀罕得看，有時只有出幾點爾定。彼个色粉紅，比皮較浮淡薄。若用手共伊揤，紅色就無看見。較常看見的所在是佇腹肚皮佮胸坎。
 
 ---
 
@@ -493,7 +493,7 @@ Pīⁿ-lâng ji̍p i-īⁿ ê sî, tióh tāi-seng pī-pān chi̍t tiuⁿ tú-h�
 
 > **【全漢對照】**
 > **【眠床合用】**
-> 病人入醫院的時，著代先備辦一張拄好合的眠床。這張眠床毋通下倚門邊，驚了出入的人攪擾伊。閣一項著下佇看護看會著的所在。咧備辦病人的眠床，是佮平常時相同款。若是病較嚴重的，著加鋪一領油布。病人一下入院就連鞭予伊倒佇眠床裡。共病人褪外面的衣服起來，毋通予伊傷勞動，因為毋知彼個
+> 病人入醫院的時，著代先備辦一張拄好合的眠床。這張眠床毋通下倚門邊，驚了出入的人攪擾伊。閣一項著下佇看護看會著的所在。咧備辦病人的眠床，是佮平常時相同款。若是病較嚴重的，著加鋪一領油布。病人一下入院就連鞭予伊倒佇眠床裡。共病人褪外面的衣服起來，毋通予伊傷勞動，因為毋知彼个
 
 ---
 
@@ -528,7 +528,7 @@ Khàn-hō͘ múi pái thòe pīⁿ-lâng chhòng tāi-chì liáu-āu, ti̍h ēng
 
 > **【全漢對照】**
 > **【著謹慎】**
-> 看護每擺替病人創代誌了後，著用消毒藥水洗伊的手。欲食飯的代先亦著按呢。看護亦著家己謹慎，食、睏，攏著安靜，著逐日去外面運動，來得到好的空氣。若照頂面諸個法度來行，小腸熱症就較罕得傳染別人，亦本身較袂抵著這號症。
+> 看護每擺替病人創代誌了後，著用消毒藥水洗伊的手。欲食飯的代先亦著按呢。看護亦著家己謹慎，食、睏，攏著安靜，著逐日去外面運動，來得到好的空氣。若照頂面諸个法度來行，小腸熱症就較罕得傳染別人，亦本身較袂抵著這號症。
 
 ---
 
@@ -552,7 +552,7 @@ Pīⁿ-lâng só͘ ēng it-khài ê ke-si mi̍h-kiāⁿ, lóng m̄-thang koh hō
 Chit hō pīⁿ-lâng ê thoân-jiám ū-sî sī in-ūi tāi-piān ê bî-seng-bu̍t, tè hō͘-chúi lâu kàu khoe-nih, á-sī chúi-chīⁿ-nih. Lâng chia̍h hit ê chúi, chiū ōe jiám-tio̍h.
 
 > **【全漢對照】**
-> 這號病人的傳染有時是因為大便的微生物，綴雨水流到溪裡，抑是水穽裡。人食彼個水，就會染著。
+> 這號病人的傳染有時是因為大便的微生物，綴雨水流到溪裡，抑是水穽裡。人食彼个水，就會染著。
 
 ---
 
@@ -639,7 +639,7 @@ Múi-ji̍t chá-àm tióh kā i jiû seng-khu, bô lūn jia̍t tāng á-sī khin
 
 > **【全漢對照】**
 > ### 退熱的法度
-> 欲予熱退的法度，第一好就是共伊洗冷水浴。此個法度已經有講起（第 16 章）。若袂通共伊浸佇冷水裡，著共伊揉身軀，抑是用被單浸佇冷水，才共包身軀（第 137-8 圖；第 476 圖；亦第 193 面）。
+> 欲予熱退的法度，第一好就是共伊洗冷水浴。此个法度已經有講起（第 16 章）。若袂通共伊浸佇冷水裡，著共伊揉身軀，抑是用被單浸佇冷水，才共包身軀（第 137-8 圖；第 476 圖；亦第 193 面）。
 > 每日早暗著共伊揉身軀，無論熱重抑是輕。
 
 ---
@@ -666,7 +666,7 @@ Chèng-thâu nā khah siong-tiōng ê sî, pīⁿ-lâng ōe tó
 
 > **【全漢對照】**
 > ### 體溫降落低
-> 若小腸熱欲好的時，彼個體溫會漸漸降低（第 477 圖）。所以若是忽然間體溫降落低，是著細膩；若病人的症狀毋好，著連鞭共醫生講。到第三禮拜的時期，是第一危險的時陣，因為是腸裡遐的是潰瘍洋去的物，欲卜落落來，病人的腸仔有時會破穿孔，抑是會出血。
+> 若小腸熱欲好的時，彼个體溫會漸漸降低（第 477 圖）。所以若是忽然間體溫降落低，是著細膩；若病人的症狀毋好，著連鞭共醫生講。到第三禮拜的時期，是第一危險的時陣，因為是腸裡遐的是潰瘍洋去的物，欲卜落落來，病人的腸仔有時會破穿孔，抑是會出血。
 > 症頭若較傷重的時，病人會倒
 
 <!-- Page 604 End -->
@@ -834,7 +834,7 @@ Lim chia̍h ti̍h sió-sim, in-ūi chit hō pīⁿ-lâng beh hó ê sî put-chí
 
 > **【全漢對照】**
 > **［食物著細膩］**
-> 飲食著小心，因為這號病人欲好的時不止枵，若無不止小心照顧，伊欲偷食。曾有一個人teh欲好的時，不止枵，偷起來，去食牛肉，彼暝腸仔破穿孔，隔日紲死去。所以著小心，也毋通傷勞動，因為驚了病會閣反復。這號的病人，看護著共伊的親情講，千萬毋通提物來予伊食，無論甚麼物。病人好的時著共伊洗浴；佇水之內面著chenn *lysol* 10.0 c.c.，抑是 *lotio carbolic*。伊的衫仔褲、被單、眠床，著攏用消毒藥水共浸，抑是洗。
+> 飲食著小心，因為這號病人欲好的時不止枵，若無不止小心照顧，伊欲偷食。曾有一个人teh欲好的時，不止枵，偷起來，去食牛肉，彼暝腸仔破穿孔，隔日紲死去。所以著小心，也毋通傷勞動，因為驚了病會閣反復。這號的病人，看護著共伊的親情講，千萬毋通提物來予伊食，無論甚麼物。病人好的時著共伊洗浴；佇水之內面著chenn *lysol* 10.0 c.c.，抑是 *lotio carbolic*。伊的衫仔褲、被單、眠床，著攏用消毒藥水共浸，抑是洗。
 
 ---
 
@@ -911,7 +911,7 @@ Thé-un hut-jiân khí 104°—105° tō F. (40°—40.6° C.), tē it koâiⁿ 
 **Goân-in** [Goân-in] : Tú-tú sī sím-mi̍h to̍k iáu-bē koat-tēng. Chit-ê chiū-sī liû-hêng-sèng (流行性, *epidemic*), ū-sî sàn-hoat-sèng, (散發性, *sporadic*). Khah-siông sī gín-ná 2 chì 12 hè. Khah-siông jiám-tio̍h chi̍t pái nā-tiāⁿ, m̄-kú n̄g saⁿ pái iā bat.
 
 > **【全漢對照】**
-> **原因**〔原因〕：拄拄是甚麼毒猶未決定。這個就是流行性（流行性，*epidemic*），有時散發性（散發性，*sporadic*）。較常是囡仔 2 至 12 歲。較常染著一擺若定，毋過兩三擺也捌。
+> **原因**〔原因〕：拄拄是甚麼毒猶未決定。這个就是流行性（流行性，*epidemic*），有時散發性（散發性，*sporadic*）。較常是囡仔 2 至 12 歲。較常染著一擺若定，毋過兩三擺也捌。
 
 ---
 
@@ -1039,7 +1039,7 @@ Tī-liâu: Tó tī bîn-chhng, hó ê khong-khì, khah khoài siau-hòa ê mi̍h
 Hī-ē-chôaⁿ-iām (*Mumps*): Tēng-gī: Chit-ê chiū-sī thoân-jiám pīⁿ. I ê khoán-sit chiū-sī hī-ē-chôaⁿ, chit-ê á-sī nn̄g-ê hoat-iām, ū-sī liân-lūi-tio̍h e̍k-oân (睪丸, gōa-sīn, *testis*), nn̄g-châu (*ovary*) kap leng-pông.
 
 > **【全漢對照】**
-> （**耳下腺炎**）耳下腺炎（*Mumps*）：定義：這个就是傳染病。伊 ê 款式就是耳下腺，一个抑是兩個發炎，有時連累著睪丸（睪丸，外腎，*testis*），卵巢（*ovary*）佮乳房。
+> （**耳下腺炎**）耳下腺炎（*Mumps*）：定義：這个就是傳染病。伊 ê 款式就是耳下腺，一个抑是兩个發炎，有時連累著睪丸（睪丸，外腎，*testis*），卵巢（*ovary*）佮乳房。
 
 ---
 
@@ -1089,7 +1089,7 @@ mih thiàⁿ. Kàu cha̍p jit chiah ōe khah siau. Khah-siông sī khin, m̄-kú
 Tī-liâu: Tó tī bîn-chhng. Chia̍h khoài siau-hòa ê mih. Hit ê chéng ê só͘-chāi ti̍h chhong mî ùn sio á-sī léng iòh-chúi lâi hip chòe léng-sip-pò͘.
 
 > **【全漢對照】**
-> 治療：倒佇眠床。食快消化的物。彼個腫的所在著挵棉搵燒抑是冷藥水來罨做冷濕布。
+> 治療：倒佇眠床。食快消化的物。彼个腫的所在著挵棉搵燒抑是冷藥水來罨做冷濕布。
 
 ---
 
@@ -1098,7 +1098,7 @@ Tī-liâu: Tó tī bîn-chhng. Chia̍h khoài siau-hòa ê mih. Hit ê chéng ê
 Thian-jiân-chu: Tēng-gī: Chit-ê chiū-sī gâu thoân-jiám ê pīⁿ, i só chhut ê hoat-chín ū keng-kè chiah ê chām: thian-jiân-chu khiu-chín (丘疹, papule), thian-jiân-chu chúi-phā-chín (水疱疹, vesicle), thian-jiân-chu lâng-phā (膿疱, pustule), kiat-ka-phê (結痂皮, scabbing), iā i ê thé-un sī khah kî-koài ê khoán.
 
 > **【全漢對照】**
-> 天然痘：定義：這個就是𠢕傳染的病，伊所出的發疹有經過諸個站：天然痘丘疹（丘疹，papule），天然痘水泡疹（水疱疹，vesicle），天然痘膿泡（膿疱，pustule），結痂皮（結痂皮，scabbing），也伊的體溫是較奇怪的款。
+> 天然痘：定義：這个就是𠢕傳染的病，伊所出的發疹有經過諸个站：天然痘丘疹（丘疹，papule），天然痘水泡疹（水疱疹，vesicle），天然痘膿泡（膿疱，pustule），結痂皮（結痂皮，scabbing），也伊的體溫是較奇怪的款。
 
 ---
 
@@ -1120,11 +1120,11 @@ Khah-siông nā ū jiám-tio̍h chi̍t pái, tī chi̍t-sì-lâng bô koh jiám-
 Chit ê pīⁿ ū kúi-nā khoán, tī chia bōe bián-tit ti̍h kán-séng kóng.
 
 > **【全漢對照】**
-> 原因：拄拄甚麼毒猶未決定。這個毒有佇伊的水泡疹及膿泡的內面，也減採佇肝內及大、小便內。
+> 原因：拄拄甚麼毒猶未決定。這个毒有佇伊的水泡疹及膿泡的內面，也減採佇肝內及大、小便內。
 > 
 > 卡常若有染著一擺，佇一世人無閣染著。
 > 
-> 這個病有幾若款，佇遮未免得著簡省講。
+> 這个病有幾若款，佇遮未免得著簡省講。
 
 ---
 
@@ -1163,7 +1163,7 @@ hi̍h kap chhiú-me̍h ê só͘-chāi; tī 24 tiám-cheng ê lāi-bīn ōe kè t
 
 > **【全漢對照】**
 > **天然痘治療**
-> 額佮手脈的所在；佇 24 點鐘的內面會過通身軀（第 478 圖）。代先是細紅粒叫做丘疹。第五、六日諸個丘疹就變成泡，內面有清清的漿，這個叫做水泡疹。第八日這個漿變成膿白白黃黃，叫做膿泡，皮會紅，腫閣疼。這疊咧出發疹的時，熱有退，毋過出了後變成膿泡，熱閣起差不多一日久。到第十日遐的膿泡變焦叫做結痂皮，閣兩三日才落痂；有時有痕有時無（第 478 圖）。熱勻勻仔退。有時發疹有出血，佇粒仔內有血，叫做出血性天然痘；外皮、粘膜，攏出血；這款卡常第三到第六日才死。
+> 額佮手脈的所在；佇 24 點鐘的內面會過通身軀（第 478 圖）。代先是細紅粒叫做丘疹。第五、六日諸个丘疹就變成泡，內面有清清的漿，這个叫做水泡疹。第八日這个漿變成膿白白黃黃，叫做膿泡，皮會紅，腫閣疼。這疊咧出發疹的時，熱有退，毋過出了後變成膿泡，熱閣起差不多一日久。到第十日遐的膿泡變焦叫做結痂皮，閣兩三日才落痂；有時有痕有時無（第 478 圖）。熱勻勻仔退。有時發疹有出血，佇粒仔內有血，叫做出血性天然痘；外皮、粘膜，攏出血；這款卡常第三到第六日才死。
 > 
 > 【邊欄註記】
 > * 丘疹
@@ -1182,7 +1182,7 @@ Chèng-chu (*Vaccination*) : Gín-ná chhut-sì saⁿ ge̍h-ji̍t ti̍oh chèng-
 
 > **【全漢對照】**
 > **種痘（Vaccination）**
-> 種痘（*Vaccination*）：囡仔出世三個月日著種痘。若這號病咧流行，大人亦著種痘。因為無種痘的人，卡快染著。
+> 種痘（*Vaccination*）：囡仔出世三个月日著種痘。若這號病咧流行，大人亦著種痘。因為無種痘的人，卡快染著。
 > 
 > 【邊欄註記】
 > * 預防
@@ -1199,7 +1199,7 @@ Lâng nā chèng-chu, sī iàu-kín ti̍oh chheng-khì; iā ēng siau-to̍k ê p
 
 > **【全漢對照】**
 > **治療**
-> 治療：親像別款傳染病。諸個膿泡猶未焦著將水呢布（法蘭絨布）搵 *lotio acidi carbolici* 的藥水共伊貼。若已經焦著用 *oleum olivæ* 抑是 *vaselinum* 抑是 *glycerinum* 來共抹。有時著用強心劑。亦病人著另外蹛一間病室內。輕快期著逐日用 *carbolic* 撒文共洗身軀；遐的痂若落，著提去燒。著聽候痂攏落了，過一禮拜才通去見別人。
+> 治療：親像別款傳染病。諸个膿泡猶未焦著將水呢布（法蘭絨布）搵 *lotio acidi carbolici* 的藥水共伊貼。若已經焦著用 *oleum olivæ* 抑是 *vaselinum* 抑是 *glycerinum* 來共抹。有時著用強心劑。亦病人著另外蹛一間病室內。輕快期著逐日用 *carbolic* 撒文共洗身軀；遐的痂若落，著提去燒。著聽候痂攏落了，過一禮拜才通去見別人。
 > 人若種痘，是要緊著清潔；亦用消毒的布佮繃帶來縛手。
 > 
 > 【邊欄註記】
@@ -1282,7 +1282,7 @@ Si̍t-hû-tek-lí-a (*Diphtheria*): Tēng-gī: Chit-ê chiū-sī put-chí gâu t
 
 > **【全漢對照】**
 > **昔扶的里亞（白喉）**
-> 昔扶的里亞（*Diphtheria*）：定義：這個就是不止𠢕傳染的病。較常看見，就是佇頷喉的所在有出白的大物叫做假膜（*false membrane*）。
+> 昔扶的里亞（*Diphtheria*）：定義：這个就是不止𠢕傳染的病。較常看見，就是佇頷喉的所在有出白的大物叫做假膜（*false membrane*）。
 
 ---
 
@@ -1292,7 +1292,7 @@ Goân-in: Chit-ê chiū-sī hong-thó͘ pīⁿ (風土病, *endemic*), iā ū-s�
 
 > **【全漢對照】**
 > **原因**
-> 原因：這個就是風土病（風土病，*endemic*），亦有時流行病。這個細菌（*Klebs-Löffler bacillus*）就是對所用的器具，佮衣服、牛奶、水佮空氣，才來。十歲以下的小兒比十歲以上的，較快傳染。若是囡仔起猩紅熱抑是麻疹，抑是企佇無清氣的所在，攏會致到抵著這號症。
+> 原因：這个就是風土病（風土病，*endemic*），亦有時流行病。這个細菌（*Klebs-Löffler bacillus*）就是對所用的器具，佮衣服、牛奶、水佮空氣，才來。十歲以下的小兒比十歲以上的，較快傳染。若是囡仔起猩紅熱抑是麻疹，抑是企佇無清氣的所在，攏會致到抵著這號症。
 
 ---
 
@@ -1451,7 +1451,7 @@ Tó ê khoán-sit khòaⁿ tē 479 tô͘.
 Chit ê chhiú-su̍t sī i-seng chiong pīⁿ-lâng ām-kún ê chóng-khì-kńg koah khui, tùi hit ê só͘-chāi chiong khì-kńg-hok-kńg kā chhng tùi chóng-khì-kńg ji̍p-khì, khì-kńg-hok-kńg ê tòa chiah khan lâi pák tī ām-kún, bo̍h-tit hō͘ khì-kńg-hok-kńg ē tín-tāng.
 
 > **【全漢對照】**
-> 此個手術是醫生將病人的頷頸的總氣管割開，對彼個所在將氣管複管共穿對總氣管入去，氣管複管的帶來牽來縛佇頷頸，莫得互氣管複管會振動。
+> 此个手術是醫生將病人的頷頸的總氣管割開，對彼个所在將氣管複管共穿對總氣管入去，氣管複管的帶來牽來縛佇頷頸，莫得互氣管複管會振動。
 
 ---
 
@@ -1506,7 +1506,7 @@ Tāi-, siáu-piān liáu, piān-khì tio̍h liām-piⁿ phâng chhut pīⁿ-sek-
 Khàn-hō͘ khì-kńg-hok-kńg ê gûi-hiám kap tī-liâu-hoat, chit ê gûi-hiám ū saⁿ hāng :
 
 > **【全漢對照】**
-> 看護氣管複管的危險佮治療法，此個危險有三項：
+> 看護氣管複管的危險佮治療法，此个危險有三項：
 
 ---
 
@@ -1515,7 +1515,7 @@ Khàn-hō͘ khì-kńg-hok-kńg ê gûi-hiám kap tī-liâu-hoat, chit ê gûi-hi
 1. Khì-kńg-hok-kńg ū-sî ōe ka-la̍uh, in-ūi tòa kat liáu siuⁿ lēng, á-sī in-ūi pīⁿ-lâng khiú lak-khí-lâi. Án-ni ti̍h chek-sî chiong hit tiâu tòa ka hō͘ tng. Chhian-bān-m̄-thang chiong gûn-kńg sak ji̍p-khì, ti̍h kóaⁿ-kín chhiáⁿ i-seng lâi, iā ti̍h hō͘ hit ê phòa-pīⁿ gín-ná ê ām-kún chhun-ti̍t, kiám-chháih khah ōe ho͘-khip, thang thèng-hāu i-seng. Nā-sī bōe ōe ho͘-khip, i-seng iā iáu-bē kàu, khàn-hō͘ ti̍h ēng khui khì-kńg ê khíⁿ-á ji̍p khì-kńg. Chit-ê m̄-sī khoài, só͘-í, beh chhng-lo̍h-khì ê sî, m̄-thang chhut la̍t ; nā bōe liām-piⁿ chhng-ji̍p-khì, tiāⁿ-ti̍h sī in-ūi chhē hit tiâu khì-kńg bô ti̍h. Iàu-kín ti̍h ōe-kì-tit khíⁿ-á ti̍h í-keng chhng-ji̍p-khì kńg-lāi chiah thang pàng khui.
 
 > **【全漢對照】**
-> 1. 氣管複管有時會角落（脫落），因為帶結了傷冗（太鬆），抑是因為病人揪落起來（扯脫）。按呢著即時將彼條帶剪予斷。千萬毋通將銀管捒入去，著趕緊請醫生來，也著予彼個破病囡仔的頷頸伸直，減採較會呼吸，通聽候醫生。若是袂會呼吸，醫生也猶未到，看護著用開氣管的鉗仔入氣管。這個毋是快（容易），所以，欲穿落去的時，毋通出力；若袂連鞭穿入去，定著是因為揣彼條氣管無著。要緊著會記得鉗仔著已經穿入去管內才通放開。
+> 1. 氣管複管有時會角落（脫落），因為帶結了傷冗（太鬆），抑是因為病人揪落起來（扯脫）。按呢著即時將彼條帶剪予斷。千萬毋通將銀管捒入去，著趕緊請醫生來，也著予彼个破病囡仔的頷頸伸直，減採較會呼吸，通聽候醫生。若是袂會呼吸，醫生也猶未到，看護著用開氣管的鉗仔入氣管。這个毋是快（容易），所以，欲穿落去的時，毋通出力；若袂連鞭穿入去，定著是因為揣彼條氣管無著。要緊著會記得鉗仔著已經穿入去管內才通放開。
 
 ---
 
@@ -1533,7 +1533,7 @@ Khàn-hō͘ khì-kńg-hok-kńg ê gûi-hiám kap tī-liâu-hoat, chit ê gûi-hi
 3. Ū-sî ū tōa tè ê ké-mó̍h bōe tit thang tùi gûn-kńg chhut-lâi, só͘-í that-tio̍h khì-kńg, ōe hō͘ hit ê phòa-pīⁿ gín-ná bōe ho͘-khip. Nā-sī siuⁿ kú, to bōe thèng-hāu-tit i-seng lâi, khòaⁿ liáu chhin-chhiūⁿ beh tū-sí, hit-sî khàn-hō͘ iā thang chiong gûn-kńg puih-khí-lâi. Nā m̄-sī khah lâu-liān ê khàn-hō͘ chiū m̄-thang chū-chok chū-choan. Bô lūn sī ēng sím-mih hoat-tō͘, lóng ti̍h hō͘ hit ê gûn-kńg ōe chheng-khì, chhian-bān-m̄-thang ēng chhùi kā suh, in-ūi lâng nā suh-tio̍h chit hō to̍k-khì ji̍p tī nâ-âu, chiū ōe tú-tio̍h sit-hû-tek-lí-a.
 
 > **【全漢對照】**
-> 3. 有時有大塊的假膜袂得通對銀管出來，所以塞著氣管，會予彼個破病囡仔袂呼吸。若是傷久，都袂聽候得醫生來，看了親像欲窒死（窒息死亡），彼時看護也通將銀管抪起來（拔出來）。若毋是較老練的看護就毋通自作自專。無論是用甚麼法度，攏著予彼個銀管會清氣，千萬毋通用水共吸（用喙共suh），因為人若吸著這號毒氣入佇嚨喉，就會抵著歇夫的里亞（白喉，Diphtheria）。
+> 3. 有時有大塊的假膜袂得通對銀管出來，所以塞著氣管，會予彼个破病囡仔袂呼吸。若是傷久，都袂聽候得醫生來，看了親像欲窒死（窒息死亡），彼時看護也通將銀管抪起來（拔出來）。若毋是較老練的看護就毋通自作自專。無論是用甚麼法度，攏著予彼个銀管會清氣，千萬毋通用水共吸（用喙共suh），因為人若吸著這號毒氣入佇嚨喉，就會抵著歇夫的里亞（白喉，Diphtheria）。
 
 ---
 
@@ -1542,7 +1542,7 @@ Khàn-hō͘ khì-kńg-hok-kńg ê gûi-hiám kap tī-liâu-hoat, chit ê gûi-hi
 Ū-sî khàn-hō͘ ti̍h chhòng io̍h hē tī gín-ná ê nâ-âu hia, hit ê gín-ná ōe khoài-khoài chiong ū bî-seng-bu̍t ê ké-mó̍h, á-sī thâm thò tī khàn-hō͘ ê bīn. Só͘-í khàn-hō͘ ti̍h
 
 > **【全漢對照】**
-> 有時看護著創藥置佇囡仔的嚨喉遐，彼個囡仔會快快將有微生物的假膜，抑是痰挩（咳吐）佇看護的面。所以看護著
+> 有時看護著創藥置佇囡仔的嚨喉遐，彼个囡仔會快快將有微生物的假膜，抑是痰挩（咳吐）佇看護的面。所以看護著
 
 <!-- Page 617 End -->
 
@@ -1565,7 +1565,7 @@ Khàn-hō͘ khì-kńg-hok-kńg ê gûi-hiám kap tī-liâu-hoat, chit ê gûi-hi
 Nā-sī hit ê ké-mo̍h ū sàu-chhut-lâi, tio̍h hē tī chi̍t-ê chheng-khì ū khì-chúi ê pân-lāi-nih, hō͘ i-seng thang kiám-giām.
 
 > **【全漢對照】**
-> 若是彼個假膜有嗽出來，著格佇一個清氣有氣水的瓶內裡，予醫生通檢驗。
+> 若是彼个假膜有嗽出來，著格佇一个清氣有氣水的瓶內裡，予醫生通檢驗。
 
 ---
 
@@ -1599,7 +1599,7 @@ Koh chi̍t hāng kài iàu-kín-ê tī-liâu-hoat, chiū-sī khòng-to̍k-sò͘ 
 Khòng-to̍k-huih-chheng : Sī tùi bé ê huih lâi tit-tio̍h. Pī-pān ê hoat-tō͘ chiū-sī ēng si̍t-hû-tek-lí-a sòe-khún ê to̍k, chù-siā tī bé ê chēng-me̍h-lāi, tāi-seng tām-po̍h, āu-lâi khah-chōe, hit chiah bé chiū bē tú-tio̍h chit hō pīⁿ. Án-ni tī bé ê seng-khu-nih ê huih, chiū ōe siⁿ ū kong-sat bî-khún ê chit, só͘-í ū bia̍t si̍t-hû-tek-lí-a ê khùi-la̍t. Kè sì gō͘ ge̍h-ji̍t āu, chiah tùi bé ê seng-khu pàng i ê huih chhut-lâi, bé iā m̄-chai thiàⁿ; huih pìⁿ-chiâⁿ kui-tè, hit ê huih-chheng chiū ōe ū kong-sat bî-khún ê chit, kiò-chòe khòng-to̍k-huih-chheng (*antitoxic serum*); chit-ê siu-khí-lâi thang ēng. Teh ēng ê hoat-tō͘ chiū-sī ēng chi̍t ki chù-siā-khì chiong khòng-to̍k-huih-chheng chù-siā ji̍p lâng seng-khu ê phê-ē-kiat-tè-chit-lāi. Chit ê chù-siā ê hoat ū-sî sió-khóa m̄-hó, in-ūi chù-siā liáu, chhit ji̍t chì cha̍p ji̍t-āu, chiū kui seng-khu ōe siⁿ chhut hoat-chín, koan-chat iā ōe
 
 > **【全漢對照】**
-> 抗毒血清：是對馬的血來得著。備辦的法度就是用「窒扶的里亞」細菌的毒，注射佇馬的靜脈內，代先淡薄，後來較多，彼隻馬就袂抵著這號病。按呢佇馬的身軀裡的血，就會生有攻殺微菌的質，所以有滅「窒扶的里亞」的氣力。過四、五個月日後，才對馬的身軀放伊的血出來，馬也毋知痛；血變成規塊，彼個血清就會有攻殺微菌的質，叫做抗毒血清（*antitoxic serum*）；這個收起來通用。咧用的法度就是用一支注射器將抗毒血清注射入人身軀的皮下結合組織內。這個注射的法有時小誇唔好，因為注射了，七日至十日後，就規身軀會生出發疹，關節也會
+> 抗毒血清：是對馬的血來得著。備辦的法度就是用「窒扶的里亞」細菌的毒，注射佇馬的靜脈內，代先淡薄，後來較多，彼隻馬就袂抵著這號病。按呢佇馬的身軀裡的血，就會生有攻殺微菌的質，所以有滅「窒扶的里亞」的氣力。過四、五个月日後，才對馬的身軀放伊的血出來，馬也毋知痛；血變成規塊，彼个血清就會有攻殺微菌的質，叫做抗毒血清（*antitoxic serum*）；這个收起來通用。咧用的法度就是用一支注射器將抗毒血清注射入人身軀的皮下結合組織內。這个注射的法有時小誇唔好，因為注射了，七日至十日後，就規身軀會生出發疹，關節也會
 
 ---
 
@@ -1624,19 +1624,19 @@ Phīⁿ-lâng hó-gia̍h á-sī sòng-hiong, tio̍h khoán-thāi siāng chi̍t k
 thiàⁿ. Chit-ê sī khah bô iáu-kín, kiò-chòe huih-chheng pīⁿ ( *serum disease* ). Tî-hông ê hoat-tō͘, chiū-sī ēng *calcii lactas* grm. 1.0, chi̍t ji̍t saⁿ pái hō͘ chia̍h. Tio̍h án-ni chia̍h sì ji̍t.
 
 > **【全漢對照】**
-> 痛。這個是較無要緊，叫做血清病（*serum disease*）。預防的法度，就是用 *calcii lactas* grm. 1.0，一日三擺予食。著按呢食四日。
+> 痛。這个是較無要緊，叫做血清病（*serum disease*）。預防的法度，就是用 *calcii lactas* grm. 1.0，一日三擺予食。著按呢食四日。
 
 Chit ê khòng-to̍k-huih-chheng tio̍h ēng lōa-chōe? Ū-hông ê chù-siā tio̍h 1,000 bián-e̍k toaⁿ-ūi (*units*). Chóng-sī án-ni só͘ tit-tio̍h ê pó-hō͘ sī saⁿ lé-pài-kú nā-tiāⁿ. Tī-liâu ê chù-siā siōng chió tio̍h ēng gō͘ chheng bián-e̍k toaⁿ-ūi. Nā khah siong-tiōng tio̍h ēng 5,000 chì 20,000 chòe chi̍t pái chù-siā. Nā pīⁿ í-keng gō͘ la̍k ji̍t-kú tio̍h chòe chi̍t-ê chù-siā nñg bān chì gō͘ bān. Kè la̍k tiám cheng-kú nā bô khah choa̍h, tio̍h koh chi̍t pái chim-chiok chù-siā. Chit hō lóng sī i-seng ê koan-hē.
 
 > **【全漢對照】**
-> 這個抗毒血清著用偌濟？預防的注射著 1,000 免疫單位（*units*）。總是按呢所得著的保護是三禮拜久若定。治療的注射最少著用五千免疫單位。若較嚴重著用 5,000 至 20,000 做一擺注射。若病已經五、六日久，著做一個注射兩萬至五萬。過六點鐘久若無較絕，著閣一擺斟酌注射。這號攏是醫生的關係。
+> 這个抗毒血清著用偌濟？預防的注射著 1,000 免疫單位（*units*）。總是按呢所得著的保護是三禮拜久若定。治療的注射最少著用五千免疫單位。若較嚴重著用 5,000 至 20,000 做一擺注射。若病已經五、六日久，著做一个注射兩萬至五萬。過六點鐘久若無較絕，著閣一擺斟酌注射。這號攏是醫生的關係。
 
 ### [Kheng-khoài-kî, bâ-pì]
 
 Koh chi̍t hāng, ū-sî gín-ná chiàu i-seng khoàⁿ hó-hó beh tńg-khì, ē hut-jiân-kan sòa sí--khì. Chit-ê sī tùi sim ê sîn-keng-bâ-pì. Bat ū chi̍t-ê gín-ná i-hó thè īⁿ keng-kè chi̍t ge̍h-ji̍t, hut-jián-kan sí--khì. Só͘-í kheng-khoài-kî tio̍h put-chí sió-sim chiàu-kò͘. Nā ū hit hō bâ-pì ê chèng, tio̍h tó-teh, chhòng chu-ióng ê si̍t-bu̍t, kap kiông-chòng-che chhin-chhiūⁿ *strychnina* ê io̍h hō͘ chia̍h.
 
 > **【全漢對照】**
-> 閣一項，有時囡仔照醫生看好好欲轉去，會忽然間續死去。這個是對心的神經痲痺。曾有一個囡仔醫好退院經過一個月日，忽然間死去。所以輕快期著不止小心照顧。若有彼號痲痺的症，著倒咧，創滋養的食物，及強壯劑親像 *strychnina* 的藥予食。
+> 閣一項，有時囡仔照醫生看好好欲轉去，會忽然間續死去。這个是對心的神經痲痺。曾有一个囡仔醫好退院經過一个月日，忽然間死去。所以輕快期著不止小心照顧。若有彼號痲痺的症，著倒咧，創滋養的食物，及強壯劑親像 *strychnina* 的藥予食。
 
 ### [Kui-kú]
 
@@ -1703,7 +1703,7 @@ Khàn-hō͘ sit-hû-tek-lí-a ê kui-kú :
 6. Nā-sī tùi phīⁿ-khang-lāi kā pīⁿ-lâng chhī chia̍h-mi̍h, teh chhng hit tiâu chhiū-leng-kńg ê sî, thâu-khak tióh ti̍t-ti̍t; kńg tióh boah *glycerinum* ê ióh. Chhng chhiū-leng-kńg ê sî, nā-sī pīⁿ-lâng ōe sàu, tióh liâm-piⁿ thiu-chhut-lâi, thèng-hāu tiap-á-kú, chiah koh chhng. Chhng-ji̍p-khì liáu-āu khòaⁿ hit ê gín-ná ho͘-khip sī cháiⁿ-iūⁿ. Iā tióh khòaⁿ hit tiâu chhiū-leng-kńg ōe chhng m̄-tióh, tùi chhùi-nih ji̍p-khì á bōe, in-ūi tùi phīⁿ-khang teh chhng, ōe tùi chhùi-nih ji̍p-khì. Nā-sī chhiū-leng-kńg í-keng kàu ūi ê só͘-chāi, chiah thang ēng gû-leng, á-sī pa̍t khoán liû-tōng ê mi̍h lâi chhī i (khòaⁿ tē 184 bīn).
 
 > **【全漢對照】**
-> 6. 若是對鼻孔內給病人飼食物，佇咧穿彼條樹奶管的時，頭殼著直直；管著抹 *glycerinum*（甘油）的藥。穿樹奶管的時，若是病人會嗽，著連鞭抽出嚟，等候霎仔久，才閣穿。穿入去了後看彼個囡仔呼吸是怎樣。也著看彼條樹奶管會穿唔著，對嘴裡入去抑未，因為對鼻孔咧穿，會對嘴裡入去。若是樹奶管已經到位的地方，才通用牛奶，抑是別款流動的物來飼伊（看第 184 面）。
+> 6. 若是對鼻孔內給病人飼食物，佇咧穿彼條樹奶管的時，頭殼著直直；管著抹 *glycerinum*（甘油）的藥。穿樹奶管的時，若是病人會嗽，著連鞭抽出嚟，等候霎仔久，才閣穿。穿入去了後看彼个囡仔呼吸是怎樣。也著看彼條樹奶管會穿唔著，對嘴裡入去抑未，因為對鼻孔咧穿，會對嘴裡入去。若是樹奶管已經到位的地方，才通用牛奶，抑是別款流動的物來飼伊（看第 184 面）。
 
 ---
 
@@ -1712,7 +1712,7 @@ Khàn-hō͘ sit-hû-tek-lí-a ê kui-kú :
 7. Só͘ thò͘-chhut-lâi ê ké-mó̍h tióh liâm-piⁿ kā sio-khì. Nā beh khǹg-teh hō͘ i-seng giām, tióh chiong hit ê mó̍h hē tī ū khì-chúi ê chhì-giām po-lê-kńg-lāi, ēng mî-hoe tùi kńg-chhùi that-teh.
 
 > **【全漢對照】**
-> 7. 所吐出嚟的假膜著連鞭給燒去。若欲放咧予醫生驗，著將彼個膜下佇有汽水的試驗玻璃管內，用棉花對管嘴塞咧。
+> 7. 所吐出嚟的假膜著連鞭給燒去。若欲放咧予醫生驗，著將彼个膜下佇有汽水的試驗玻璃管內，用棉花對管嘴塞咧。
 
 ---
 
@@ -1748,7 +1748,7 @@ Khàn-hō͘ sit-hû-tek-lí-a ê kui-kú :
 Pah-ji̍t-sàu (*Whooping Cough*): Tēng-gī: Chit ê pīⁿ sī thoân-jiám pīⁿ ê chi̍t hāng; sàu-chhut-lâi ê siaⁿ sī chhin-chhiūⁿ káu teh pūi; nā khip-ji̍p sī chhin-chhiūⁿ koe teh thî.
 
 > **【全漢對照】**
-> 百日嗽（*Whooping Cough*）：定義：這個病是傳染病的一項；嗽出嚟的聲是親像狗咧吠；若吸入是親像雞咧啼。
+> 百日嗽（*Whooping Cough*）：定義：這个病是傳染病的一項；嗽出嚟的聲是親像狗咧吠；若吸入是親像雞咧啼。
 
 <!-- Page 620 End -->
 
@@ -1778,7 +1778,7 @@ Chèng-chōng: Chiâm-ho̍k-kî chhit ji̍t chì cha̍p ji̍t. Cheng-chìn-kî l
 
 > **【全漢對照】**
 > **症狀**
-> 症狀：潛伏期七日至十日。增進期流目油、流鼻水、感冒。嗽漸漸較傷重，到咧啼的時陣。彼個嗽的款式是短短接續直直嗽；面轉淺藍色，到路尾吸入的聲親像雞咧啼；有時嗽了才嘔吐。較常過一百日才漸漸好。毋過有時會起氣管支肺炎、出血、肺癆病。
+> 症狀：潛伏期七日至十日。增進期流目油、流鼻水、感冒。嗽漸漸較傷重，到咧啼的時陣。彼个嗽的款式是短短接續直直嗽；面轉淺藍色，到路尾吸入的聲親像雞咧啼；有時嗽了才嘔吐。較常過一百日才漸漸好。毋過有時會起氣管支肺炎、出血、肺癆病。
 
 ---
 
@@ -1798,7 +1798,7 @@ Hó-lia̍t-la (*Cholera*): Tēng-gī: Chit ê pīⁿ chiū-sī thoân-jiám pī�
 
 > **【全漢對照】**
 > **虎列拉**
-> 虎列拉（*Cholera*）：定義：此個病就是傳染病的一項。有特別的細菌，對人的飲食來入。大嘔、大瀉，也不止衰弱。
+> 虎列拉（*Cholera*）：定義：此个病就是傳染病的一項。有特別的細菌，對人的飲食來入。大嘔、大瀉，也不止衰弱。
 
 ---
 
@@ -1845,7 +1845,7 @@ Hó-lia̍t-la ê pīⁿ ē liân-lūi tio̍h pa̍t ūi, tì-kàu ū sīn-chōng-
 Tī-liâu: Pīⁿ-lâng tio̍h ka-kī lēng-gōa tiàm chi̍t keng pīⁿ-sek. I ê tāi-, siáu-piān tio̍h lâm siau-to̍k-io̍h-chúi chhin-chhiūⁿ í-keng kóng. Só͘ beh lim ê chúi tio̍h seng kún. Nā ū pak-tó͘ thiàⁿ tio̍h *morphia* chù-siā, un-si̍p-phô͘ hē pak-tó͘-téng. Ēng *sodii bicarbonas* io̍h-chúi sóe ūi. Chiong peng, ko-phi-tê á-sī phû-tô-chiú hō͘ i chia̍h. Sî-siông hō͘ i sio, ēng sio-chúi-koàn hē seng-khu-piⁿ-á. Ū-sî tio̍h ēng *camphor* kap *ether* kā i chù-siā. Ū koh chi̍t-ê liâu-hoat put-chí hó, chiū-sī ēng iâm-chúi-chù-siā ji̍p chēng-me̍h-lāi.
 
 > **【全漢對照】**
-> **治療**：病人著自己另外踮一間病室。伊的大、小便著淋消毒藥水親像已經講。所欲啉的水著先滾。若有腹肚疼著 *morphia*（嗎啡）注射，溫濕敷放置腹肚頂。用 *sodii bicarbonas*（重曹／碳酸氫鈉）藥水洗胃。將冰、咖啡茶抑是葡萄酒予伊食。時常予伊燒，用熱水罐放置生軀邊仔。有時著用 *camphor*（樟腦）佮 *ether*（乙醚）共伊注射。有閣一個療法不止好，就是用鹽水注射入靜脈內。
+> **治療**：病人著自己另外踮一間病室。伊的大、小便著淋消毒藥水親像已經講。所欲啉的水著先滾。若有腹肚疼著 *morphia*（嗎啡）注射，溫濕敷放置腹肚頂。用 *sodii bicarbonas*（重曹／碳酸氫鈉）藥水洗胃。將冰、咖啡茶抑是葡萄酒予伊食。時常予伊燒，用熱水罐放置生軀邊仔。有時著用 *camphor*（樟腦）佮 *ether*（乙醚）共伊注射。有閣一个療法不止好，就是用鹽水注射入靜脈內。
 
 ---
 
@@ -1855,7 +1855,7 @@ Siáu-jî-kip-sèng chek-chhé-chiân-kak-iām (*Acute anterior polio-myelitis*)
 
 > **【全漢對照】**
 > **小兒急性脊髓前角炎（*Acute anterior polio-myelitis*，小兒麻痺症）**：
-> **定義**：這個就是流行性佮散發性的傳染病，就是起脊髓前角炎。
+> **定義**：這个就是流行性佮散發性的傳染病，就是起脊髓前角炎。
 
 ---
 
@@ -1864,7 +1864,7 @@ Siáu-jî-kip-sèng chek-chhé-chiân-kak-iām (*Acute anterior polio-myelitis*)
 Goân-in: Khah-chōe sī chi̍t hè chì la̍k hè ê gín-ná, só͘-í kiò siáu-jî-bâ-pì ê miâ. Tú-tú sím-mi̍h bî-seng-bu̍t, á-sī sím-mi̍h to̍k iáu-bē koat-tēng. Chit ê to̍k tùi phīⁿ-liâm-mo̍h chiah ji̍p seng-khu.
 
 > **【全漢對照】**
-> **原因**：較多是一歲至六歲的囡仔，所以叫小兒麻痺的名。抵抵（到底）甚麼微生物抑是甚麼毒猶未決定。這個毒對鼻黏膜才入生軀。
+> **原因**：較多是一歲至六歲的囡仔，所以叫小兒麻痺的名。抵抵（到底）甚麼微生物抑是甚麼毒猶未決定。這个毒對鼻黏膜才入生軀。
 
 ---
 
@@ -1873,7 +1873,7 @@ Goân-in: Khah-chōe sī chi̍t hè chì la̍k hè ê gín-ná, só͘-í kiò si
 Chèng-chōng: Chiâm-ho̍k-kî sī gō͘ ji̍t chì cha̍p ji̍t. Pīⁿ-lâng thâu-khak thiàⁿ, kha-chhiú sng. Ū-sî mî-sî khì khùn, sió-khóa hoat-jia̍t, chá-khí-sî khùn-khí-lâi, lāu-bú khoàⁿ-kìⁿ gín-ná kui seng-khu, á-sī chi̍t só͘-chāi bōe tín-tāng. Hit ê bâ-pì ê só͘-chāi khah-siông sī kha, ū-sî chhiú iā ū. Kè nñg saⁿ lé-pài chiām-chiām khah hó, chóng-sī khah-chōe bōe chiàu-goân. Nā hó-gia̍h lâng khah ū chîⁿ thang tiâu-ióng, i ê gín-ná ē tit-tio̍h kong-hāu sī put-
 
 > **【全漢對照】**
-> **症狀**：潛伏期是五日至十日。病人頭殼疼，腳手痠。有時暝時去睏，稍許發熱，早起時睏起來，老母看見囡仔規生軀，抑是一所在袂振動。彼個麻痺的所在較常是腳，有時手亦有。過兩三禮拜漸漸較好，總 factual 較多袂照原。若富有（好額）人較有錢通調養，伊的囡仔會得著功效是不──
+> **症狀**：潛伏期是五日至十日。病人頭殼疼，腳手痠。有時暝時去睏，稍許發熱，早起時睏起來，老母看見囡仔規生軀，抑是一所在袂振動。彼个麻痺的所在較常是腳，有時手亦有。過兩三禮拜漸漸較好，總 factual 較多袂照原。若富有（好額）人較有錢通調養，伊的囡仔會得著功效是不──
 
 ---
 
@@ -2019,7 +2019,7 @@ Pīⁿ-sek siau-to̍k-hoat: Thoân-jiám pīⁿ kè liáu-āu tio̍h ēng chit �
 6. Nā gín-ná ū thoân-jiám pīⁿ, i só͘ ēng chhit-thô ê mi̍h tio̍h kā sio-lio-khì; m̄-thang khǹg hō͘ pa̍t ê gín-ná chhit-thô, kiaⁿ-liáu ōe thoân-jiám.
 
 > **【全漢對照】**
-> 病室消毒法：傳染病過了後著用此個法度來消毒。
+> 病室消毒法：傳染病過了後著用此个法度來消毒。
 > 1. 門佮窗仔門關密。
 > 2. 室內的櫥佮桌屜，著開；內面的物提起來。衫，佮毯仔，棉被著吊房內的中央。著掀褥仔。
 > 3. 用特別的消毒燈親像 "*Alformant*," 豎佇鐵桶，預防發火的緣故。有時用硫黃互爁。彼枝燈點了後，門著關；若有空縫，遐的著黏互密，抑是用澹的拭布創互密。

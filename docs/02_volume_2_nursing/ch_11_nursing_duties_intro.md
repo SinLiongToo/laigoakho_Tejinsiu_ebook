@@ -72,7 +72,7 @@ Pó-lô só kóng ê ōe, kì-chài tī Hui-li̍p-pí lâng ê phoe tē 2 chiu�
 Tī Eng-kok gō͘-cha̍p-gōa nî chêng, ū chi̍t ê chhut-miâ ê khàn-hō͘-hū, miâ kiò Nái-teng-kek-ní Ko͘-niû. Eng-kok chèng-hú tùi-tiōng i ê kang, sàng i gō͘-cha̍p bān kho͘. I ēng chit chàn chîⁿ lâi siat-li̍p khàn-hō͘ ê ha̍k-hāu.
 
 > **【全漢對照】**
-> 佇英國五十外年前，有一個出名的看護婦，名叫南丁格爾姑娘。英國政府注重伊的工，送伊五十萬箍。伊用這讚錢來設立看護的學校。
+> 佇英國五十外年前，有一个出名的看護婦，名叫南丁格爾姑娘。英國政府注重伊的工，送伊五十萬箍。伊用這讚錢來設立看護的學校。
 
 ---
 
@@ -146,7 +146,7 @@ Khàn-hō͘ ê lâng, sui-jiân tī pīⁿ-sek tú-tio̍h bô tāi-chì ê sî i
 Khah chá ê khàn-hō͘ bô sím-mi̍h ha̍k-būn, iā bōe hiáu-tit siá-jī tha̍k-chheh. Kúi pah nî chêng, khàn-hō͘ ê lâng sui-jiân bô sím-mi̍h ha̍k-būn, m̄-kú khàn-hō͘ ê sū khiok sī hó. Chì-u hiān-sî chòe khàn-hō͘ ê lâng, chiū m̄-thang bô ha̍k-būn. Chòe khàn-hō͘-ê chit hāng tio̍h ōe bêng-pe̍k kui-chek ê lí-khì, chhin-chhiūⁿ su-hāu pīⁿ-lâng, chéng-tùn pâng-lāi, hit ê iân-kò͘ cháiⁿ-iūⁿ tio̍h án-ni.
 
 > **【全漢對照】**
-> 較早的看護無甚麼學問，也袂曉得寫字讀冊。幾百年成（前），看護的人雖然無甚麼學問，毋拘看護的事卻是好。至於現時做看護的人，就毋通無學問。做看護的這項著會明白規則的理氣，親像伺候病人，整頓房內，彼個緣故怎樣著按呢。
+> 較早的看護無甚麼學問，也袂曉得寫字讀冊。幾百年成（前），看護的人雖然無甚麼學問，毋拘看護的事卻是好。至於現時做看護的人，就毋通無學問。做看護的這項著會明白規則的理氣，親像伺候病人，整頓房內，彼个緣故怎樣著按呢。
 
 ---
 
@@ -187,7 +187,7 @@ Góa siat-sú ōe kóng lâng kap thiⁿ-sài ê im-gú, nā bô jîn-ài, góa 
 thang tit-tio̍h ha̍k-būn, chiū kun-tè kàu-su, á-sī kap pí i khah gâu ê lâng saⁿ-kap pān tāi-chì, só͘ khòaⁿ kap só͘ chòe, iā ōe tit-tio̍h chin chōe kiàn-sek.
 
 > **【全漢對照】**
-> 通得著學問，就跟綴教師，抑是及比伊較𠢕的人相佮辦代誌，所看及所做，亦會得著真多見識。
+> 通得著學問，就跟綴教師，抑是及比伊較𠢕的人相佮辦代誌，所看及所做，亦會得著真多見色。
 
 ---
 

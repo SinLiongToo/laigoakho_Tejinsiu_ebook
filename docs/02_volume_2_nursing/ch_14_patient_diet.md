@@ -24,7 +24,7 @@ Lâng nā hó, chiū thang sûi-piān chia̍h, che khiok m̄-bián kóng. Chóng
 
 > **【全漢對照】**
 > *（旁註：病人的症狀 / Pīⁿ-lâng ê chèng-chōng）*
-> 人若好，就通隨便食，這卻毋免講。總是有病的人的看活，會較好抑袂，有時有關係佇飲食的事。伊的食物若備辦拄好，亦快消化，對按呢人會漸漸較好。若食物無合，病人的症狀會較傷重。病若傷重，抑是傳染病，所抵著的症狀照記佇下底：人就愛睏較袂落眠，心內鬱慒，頷喉會喙焦，皮膚燒，體溫較懸，脈搏較緊，舌白白，消化不良，胃失落消化的力，愛嘔吐，無愛食，腹肚痛，跤手痠軟。若是按呢身軀內的組織會拍損；這個是對身軀逐位的組織無照伊的作用來行做。
+> 人若好，就通隨便食，這卻毋免講。總是有病的人的看活，會較好抑袂，有時有關係佇飲食的事。伊的食物若備辦拄好，亦快消化，對按呢人會漸漸較好。若食物無合，病人的症狀會較傷重。病若傷重，抑是傳染病，所抵著的症狀照記佇下底：人就愛睏較袂落眠，心內鬱慒，頷喉會喙焦，皮膚燒，體溫較懸，脈搏較緊，舌白白，消化不良，胃失落消化的力，愛嘔吐，無愛食，腹肚痛，跤手痠軟。若是按呢身軀內的組織會拍損；這个是對身軀逐位的組織無照伊的作用來行做。
 
 ---
 
@@ -268,9 +268,9 @@ Tàk jit jī-cha̍p-sì tiám-cheng-lāi, chi̍t-ê bōe chia̍h tēng mi̍h ê 
 
 > **【全漢對照】**
 > **［牛奶］**
-> 病人食牛奶若是愛嘔，著用法度，親像予食冷牛奶，抑是一半石灰水（lime water），一半牛奶；抑是一半牛奶，一半薏仁湯。有時著用已經消化ê法度（pre-digested）。這個咧做ê法度佇第 179 面有詳細講。
+> 病人食牛奶若是愛嘔，著用法度，親像予食冷牛奶，抑是一半石灰水（lime water），一半牛奶；抑是一半牛奶，一半薏仁湯。有時著用已經消化ê法度（pre-digested）。這个咧做ê法度佇第 179 面有詳細講。
 > 
-> 逐日二十四點鐘內，一個袂食硬物ê病人著食 1800.0 c.c. 牛奶。著分佇每兩點鐘食 150.0 c.c. 牛奶。暝時猶原著兩點鐘一擺；總是病人若咧睏，著四點鐘一擺予伊 300.0 c.c.。有時病人袂堪得食 300.0 c.c.，若按呢，著予伊較少淡薄。
+> 逐日二十四點鐘內，一个袂食硬物ê病人著食 1800.0 c.c. 牛奶。著分佇每兩點鐘食 150.0 c.c. 牛奶。暝時猶原著兩點鐘一擺；總是病人若咧睏，著四點鐘一擺予伊 300.0 c.c.。有時病人袂堪得食 300.0 c.c.，若按呢，著予伊較少淡薄。
 
 ---
 
@@ -350,7 +350,7 @@ Pī-pān chūi-e̍k-siau-hòa (膵液消化) ê gû-leng, chiū-sī lâng chòe 
 4\. Nā-sī ài hō͘ gû-leng chiâu-chng siau-hòa, tio̍h chiàu téng-bīn (2) ê hoat-tō͘, m̄-kú tio̍h tī hit ê 130° F. sio ê tiong-kan nn̄g tiám-cheng-kú. Án-ni chòe, gû-leng ōe khó͘-bī. Chòe chit hō hoat ê sî, tio̍h ēng hân-loán-kè hē tī hit ê gû-leng-nih, kā i kiám un-tō͘. Gû-leng ê un-tō͘ tio̍h 130° F. (54° C.), m̄-thang sió-khóa ū koâiⁿ-kē. Nā chiong e-á hē hé-lô͘-téng, iā sī hó, chóng-sī m̄-thang hē hia, sûi-sî khì; tio̍h sî-siông khòaⁿ i ê un-tō͘.
 
 > **【全漢對照】**
-> 4\. 若是愛互牛奶齊整消化，著照頂面 (2) 的法度，毋過著佇彼個 130° F. 燒的中間兩點鐘久。按呢做，牛奶會苦味。做這號法的時，著用寒暖計下佇彼個牛奶裡，共伊檢溫度。牛奶的溫度著 130° F. (54° C.)，毋通稍寡有懸低。若將鍋仔下火爐頂，也是好，總毋通下遐，隨時去；著時常看伊的溫度。
+> 4\. 若是愛互牛奶齊整消化，著照頂面 (2) 的法度，毋過著佇彼个 130° F. 燒的中間兩點鐘久。按呢做，牛奶會苦味。做這號法的時，著用寒暖計下佇彼个牛奶裡，共伊檢溫度。牛奶的溫度著 130° F. (54° C.)，毋通稍寡有懸低。若將鍋仔下火爐頂，也是好，總毋通下遐，隨時去；著時常看伊的溫度。
 
 ---
 
@@ -382,7 +382,7 @@ Jîn-ài bô kiû ka-kī ê lī-ek (I Ko-lîm-to 13: 5).
 káu nōa-nōa chiah hō͘ pīⁿ-lâng chia̍h. Chit-ê ū-sî kiò-chòe kiú-liông-thng.
 
 > **【全漢對照】**
-> 𤏸爛爛才予病人食。這個有時叫做九龍湯。
+> 𤏸爛爛才予病人食。這个有時叫做九龍湯。
 
 ---
 
@@ -418,7 +418,7 @@ káu nōa-nōa chiah hō͘ pīⁿ-lâng chia̍h. Chit-ê ū-sî kiò-chòe kiú-
 **Ì-jîn-thng**: Ì-jîn-bí nn̄g niú, ēng léng-chúi sóe hō͘ chheng-khì. Ēng nn̄g óaⁿ chúi chìm nn̄g tiám-cheng-kú; chit ê chúi tióh piàⁿ-hiat-ka̍k, koh ēng chheng-khì chúi 600.0 c.c. chhiong-lo̍h-khì. Tióh ēng bān-bān ê hé kā i kûn nn̄g saⁿ tiám-cheng-kú; chiah ēng lâu-siàh hō͘ ì-jîn-lia̍p khí-lâi, chiong thng lâi ēng. Nā ài, thang chham pe̍h-thn̂g lâi chia̍h.
 
 > **【全漢對照】**
-> **薏仁湯**：薏仁米兩兩，用冷水洗予清潔。用兩碗水浸兩點鐘久；這個水著傾撪捔，閣用清潔水 600.0 c.c. 沖落去。著用慢慢的火共伊焄兩、三點鐘久；才用漏篩予薏仁粒起來，將湯來用。若愛，通參白糖來食。
+> **薏仁湯**：薏仁米兩兩，用冷水洗予清潔。用兩碗水浸兩點鐘久；這个水著傾撪捔，閣用清潔水 600.0 c.c. 沖落去。著用慢慢的火共伊焄兩、三點鐘久；才用漏篩予薏仁粒起來，將湯來用。若愛，通參白糖來食。
 
 ---
 
@@ -477,7 +477,7 @@ lā hō͘ chiâu, lo̍h tām-po̍h iâm, ēng tē kā lā; ēng se-pò͘ lū hō
 **Koe-nñg kap gû-leng** : Koh chi̍t ê hoat-tō͘, sī chiong chi̍t lia̍p chhiⁿ ê koe-nñg, khà, hē óaⁿ-lāi; chiong nñg niú gû-leng, chhiong-lo̍h-khì; ēng tek-chhiám lâi phah, chiah thîn nñg niú kún-chúi, á-sī sio ê gû-leng, lóng lā hō͘ chiâu. Nā-sī ài thn̂g, tio̍h chham pe̍h-thn̂g iā hó.
 
 > **【全漢對照】**
-> **雞卵佮牛乳**：閣一個法度，是將一粒生的雞卵，敲，下碗內；將兩兩牛乳，沖落去；用竹籤來拍，才斟兩兩滾水，抑是燒的牛乳，攏攪予齊。若是愛糖，著參白糖亦好。
+> **雞卵佮牛乳**：閣一个法度，是將一粒生的雞卵，敲，下碗內；將兩兩牛乳，沖落去；用竹籤來拍，才斟兩兩滾水，抑是燒的牛乳，攏攪予齊。若是愛糖，著參白糖亦好。
 
 ---
 
@@ -518,7 +518,7 @@ Lán lâng tòa tī sè-kan, m̄-sī in-ūi beh chhit-thô, ná chhin-chhiūⁿ 
 iû khioh hō͘ chheng-khì, kan-ta ēng chiaⁿ-bah ; chiah chām hō͘ chhin-chhiūⁿ bah-sîⁿ-á. Chiong bah, iâm, chúi, hē khaⁿ-á-lāi, chiah hē bān-bān hé ê téng-bīn, m̄-thang hō͘ i tōa kún, ûn-ûn-á chú saⁿ tiám-cheng-kú. Sam-put-gō͘-sî tióh ēng thng-sī ûn-á kā i lā. Pīⁿ-lâng iáu-bē chia̍h ê sî tióh liô téng-bīn ê iû ; iā hit-ê iáu tī khaⁿ-á-lāi tióh lū ; m̄-thang chia̍h khaⁿ-tóe ê bah, chia̍h thng chiū hó. Nā ài thng khah kāu, thang ēng ì-în, á-sī pñg, tī thng-ni̍h saⁿ-kap chú.
 
 > **【全漢對照】**
-> 油抾予清潔，干焦用赤肉；才斲予親像肉絲仔。將肉、鹽、水，下罐仔內，才下慢慢火的頂面，毋通予伊大滾，勻勻仔煮三點鐘久。三不五時著用湯匙勻仔共伊搦。病人猶未食的時著撈頂面的油；也彼個猶佇罐仔內著漉；毋通食罐底的肉，食湯就好。若愛湯較厚，通用薏仁，抑是飯，佇湯裡相佮煮。
+> 油抾予清潔，干焦用赤肉；才斲予親像肉絲仔。將肉、鹽、水，下罐仔內，才下慢慢火的頂面，毋通予伊大滾，勻勻仔煮三點鐘久。三不五時著用湯匙勻仔共伊搦。病人猶未食的時著撈頂面的油；也彼个猶佇罐仔內著漉；毋通食罐底的肉，食湯就好。若愛湯較厚，通用薏仁，抑是飯，佇湯裡相佮煮。
 
 ---
 
@@ -536,7 +536,7 @@ iû khioh hō͘ chheng-khì, kan-ta ēng chiaⁿ-bah ; chiah chām hō͘ chhin-c
 **Chhiⁿ gû-bah-chiap** : Ēng siōng hó, sin, koh chhiⁿ ê gû chiaⁿ-bah 60.0 *grms.* (nñg niú), chām chòe kėk iù ê bah-sîⁿ ; chiah ēng 150.0 c.c. (gō͘ niú) léng-kún-chúi lo̍h-khì tiau-hô, hē tī óaⁿ-lāi. Chiong chit tè óaⁿ hē tī sio ê só͘-chāi nñg tiám-cheng-kú. Chit ê chhiⁿ bah-chiap ê sek-tī âng, pīⁿ-lâng khòaⁿ-liáu, khah m̄-ài chia̍h ; só͘-í khàn-hō͘ tióh siat-hoat, khòaⁿ sī ēng ū kòa ê óaⁿ, lâi tóe, á-sī ēng âng-sek ê po-lê-poe tóe, án-ni pīⁿ-lâng chiū khah bōe khòaⁿ-kìⁿ hit ê âng-sek. Iáu-bē chia̍h tióh lū. Ēng iûⁿ-bah, koe-bah, ah-bah chòe bah-chiap, lóng chiàu téng-bīn ê hoat-tō͘.
 
 > **【全漢對照】**
-> **生牛肉汁**：用最好、新、閣生的牛赤肉 60.0公克（兩鈕），斲做極幼的肉絲；才用 150.0 c.c.（五鈕）冷滾水落去調和，下佇碗內。將這塊碗下佇燒的所在兩點鐘久。這個生肉汁的色緻紅，病人看了，較毋愛食；所以看護著設法，看是用有蓋的碗，來貯，抑是用紅色的玻璃杯貯，按呢病人就較袂看見彼個紅色。猶未食著漉。用羊肉、雞肉、鴨肉做肉汁，攏照頂面的法度。
+> **生牛肉汁**：用最好、新、閣生的牛赤肉 60.0公克（兩鈕），斲做極幼的肉絲；才用 150.0 c.c.（五鈕）冷滾水落去調和，下佇碗內。將這塊碗下佇燒的所在兩點鐘久。這个生肉汁的色緻紅，病人看了，較毋愛食；所以看護著設法，看是用有蓋的碗，來貯，抑是用紅色的玻璃杯貯，按呢病人就較袂看見彼个紅色。猶未食著漉。用羊肉、雞肉、鴨肉做肉汁，攏照頂面的法度。
 
 ---
 

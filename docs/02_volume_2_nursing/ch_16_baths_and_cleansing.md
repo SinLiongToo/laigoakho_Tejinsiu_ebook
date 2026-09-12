@@ -29,7 +29,7 @@ Tī i-īⁿ ê pīⁿ-lâng, khah chōe lia̍h chòe ū pīⁿ lâi sóe-e̍k, s
 Pīⁿ tāng ê lâng nā m̄-sī hit hō put-séng-jîn-sū, i tiāⁿ-tio̍h bô hoaⁿ-hí lâng kah i sóe-e̍k, i ê ì-sù sī m̄-ài lâng kiáu-jiáu in. Hit sî, khàn-hō͘ tio̍h ēng in ê kiàn-sek, hō͘ pīⁿ-lâng ōe hoaⁿ-hí sóe-e̍k.
 
 > **【全漢對照】**  
-> 病重的人若毋是彼號不省人事，伊定著無歡喜人佮伊洗浴，伊的意思是毋愛人攪擾𪜶。彼時，看護著用𪜶的見識，予病人會歡喜洗浴。
+> 病重的人若毋是彼號不省人事，伊定著無歡喜人佮伊洗浴，伊的意思是毋愛人攪擾𪜶。彼時，看護著用𪜶的見色，予病人會歡喜洗浴。
 
 ---
 
@@ -45,7 +45,7 @@ Sóe-e̍k ê sî tio̍h chiong ûi-pîn cháh hō͘ hó-sè, bóh-tit hō͘ ōe 
 Pīⁿ-lâng ōe tit thang ka-kī chòe ê sū, chhin-chhiūⁿ bín chhùi-khí, sóe chhiú, hit hō tāi-chì, khàn-hō͘ tio̍h hō͘ in ka-kī ûn-ûn-á khì chòe, bóh-tit chhui-pek i ; chiah ê chheng-kiat ê tāi-chì, hō͘ lâng chi̍t-ē khòaⁿ chiū chai. Nā-sī hit hō m̄-ài lim chia̍h ê pīⁿ-lâng, siat-sú i ê seng-khu, siu-chéng chheng-chhó, koh ēng mi̍h hō͘ i chia̍h, i tiāⁿ-tio̍h khah hoaⁿ-hí chia̍h.
 
 > **【全漢對照】**  
-> 病人會得通家己做的事，親像抿喙齒、洗手，彼號代誌，看護著予𪜶家己勻勻仔去做，莫得推逼伊；諸個清潔的代誌，予人一下看就知。若是彼號毋愛飲食的病人，設使伊的身軀，修整清楚，閣用物予伊食，伊定著較歡喜食。
+> 病人會得通家己做的事，親像抿喙齒、洗手，彼號代誌，看護著予𪜶家己勻勻仔去做，莫得推逼伊；諸个清潔的代誌，予人一下看就知。若是彼號毋愛飲食的病人，設使伊的身軀，修整清楚，閣用物予伊食，伊定著較歡喜食。
 
 ---
 
@@ -114,7 +114,7 @@ Pīⁿ-lâng e̍k-keng ê mn̂g m̄-thang chhòan, in-ūi pīⁿ-lâng ê khùi-
 
 > **【全漢對照】**
 > **［浴間門唔通鎖］**
-> 病人浴間的門唔通閂，因為病人的氣力較弱，有時頭殼烏暗眩、腦貧血、抑是起痙攣（痙攣，*convulsions*）；此個時陣伊袂得通共你開門，看護怎樣會得入去照顧伊咧？
+> 病人浴間的門唔通閂，因為病人的氣力較弱，有時頭殼烏暗眩、腦貧血、抑是起痙攣（痙攣，*convulsions*）；此个時陣伊袂得通共你開門，看護怎樣會得入去照顧伊咧？
 
 ---
 
@@ -142,7 +142,7 @@ Sóe léng-chúi-e̍k sī tī hoat-jia̍t ê pīⁿ, chhin-chhiūⁿ sió-tn̂g-
 
 > **【全漢對照】**
 > **［冷水浴］**
-> 洗冷水浴是佇發熱的病，親像小腸熱病（*enteric fever*）抑是肺炎，遐的症。病人洗冷水浴，是因為彼個症的熱真重，愛予伊落低。醫生這時亦著相佮湊照顧，
+> 洗冷水浴是佇發熱的病，親像小腸熱病（*enteric fever*）抑是肺炎，遐的症。病人洗冷水浴，是因為彼个症的熱真重，愛予伊落低。醫生這時亦著相佮湊照顧，
 
 <!-- Page 208 End -->
 
@@ -288,11 +288,11 @@ Tiòh ū-pī chiah ê mi̍h :
 (b) Chúi-tháng chi̍t kha, kap iû-pò͘, iû-chóa á-sī sin-bûn-chóa.
 
 > **【全漢對照】**
-> 用冷水拭身軀。此個法度是欲醫治熱的用處（第 136 圖）。
+> 用冷水拭身軀。此个法度是欲醫治熱的用處（第 136 圖）。
 > 
-> 著預備諸個物：
+> 著預備諸个物：
 > 
-> (a) 兩個洗手盆，一個著貯冷水，照醫生交代的話。醫生若無講偌冷，水著 65° F. (18.3° C.)。閣一個貯冰通予彼個洗浴的水時常冷。
+> (a) 兩个洗手盆，一个著貯冷水，照醫生交代的話。醫生若無講偌冷，水著 65° F. (18.3° C.)。閣一个貯冰通予彼个洗浴的水時常冷。
 > 
 > (b) 水桶一跤，佮油布、油紙抑是新聞紙。
 
@@ -487,7 +487,7 @@ Léng-sip-pò͘-pau-hoat (*Cold pack* tē 137, 138 tô͘) : Chiàu téng-bīn ti
 
 > **【全漢對照】**
 > **［邊註：冷濕布包法］**
-> 冷濕布包法（*Cold pack* 第 137, 138 圖）：照頂面著遮蓋來保護眠床，用油布、毯仔鋪眠床頂。用一領被單浸佇冷水（65° F., 18.3° C.），扭予伊較焦淡薄，鋪佇毯仔頂。病人的衫褪了，著予伊倒佇此個澹被單頂；用此個澹
+> 冷濕布包法（*Cold pack* 第 137, 138 圖）：照頂面著遮蓋來保護眠床，用油布、毯仔鋪眠床頂。用一領被單浸佇冷水（65° F., 18.3° C.），扭予伊較焦淡薄，鋪佇毯仔頂。病人的衫褪了，著予伊倒佇此个澹被單頂；用此个澹
 
 ---
 
@@ -585,7 +585,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chìn, m̄-thang lia̍h-chòe sió-k
 kā pau, hē bîn-chhûng-nih, chhit ta. Nā iáu-kú teh lâu kōaⁿ, tio̍h thàn hit ê jia̍t-khì-e̍k liáu ê hoat-tō͘, chiàu kī tī ē-bīn.
 
 > **【全漢對照】**
-> 給包，下眠床裡，拭焦。若猶久咧流汗，著趁彼個熱氣浴了的法度，照記佇下面。
+> 給包，下眠床裡，拭焦。若猶久咧流汗，著趁彼个熱氣浴了的法度，照記佇下面。
 
 ---
 
@@ -594,7 +594,7 @@ kā pau, hē bîn-chhûng-nih, chhit ta. Nā iáu-kú teh lâu kōaⁿ, tio̍h t
 Nā-sī hō͘ sīn-chōng-iām pīⁿ ê lâng sóe-e̍k, siat-sú i-seng kah khàn-hō͘ ū-pī 100 tō͘ F. (37.8° C.) ê sio-chúi, khàn-hō͘ tio̍h chai chit khoán pīⁿ ê lâng sóe-e̍k ê chúi, tùi khí-thâu kàu sóe liáu, lóng tio̍h siâng chit-iūⁿ, pīⁿ-pīⁿ hiah sio, m̄-thang hut-jiân léng, hut-jiân sio. Chòe hó ê hoat-tō͘, ēng chi̍t niá tōa niá ê thán-á lâi khàm hit ê e̍k-tháng, tû-khí pīⁿ-lâng ê thâu-khak í-gōa, liân pīⁿ-lâng ê seng-khu kap e̍k-tháng, lóng khàm hō͘ bā ; khàn-hō͘ tio̍h koh liok-sio̍k thiⁿ sio-chúi, iā siông lâi kiám-un.
 
 > **【全漢對照】**
-> 若是予腎臟炎病的人洗浴，設使醫生教看護預備 100 度 F. (37.8° C.) 的燒水，看護著知這款病的人洗浴的水，對起頭到洗了，攏著相一樣，並並遐燒，毋通忽然冷，忽然燒。做好（上好）的法度，用一領大領的毯仔來蓋彼個浴桶，除去病人的頭殼以外，連病人的身軀佮浴桶，攏蓋予密；看護著閣陸續添燒水，也常來檢溫。
+> 若是予腎臟炎病的人洗浴，設使醫生教看護預備 100 度 F. (37.8° C.) 的燒水，看護著知這款病的人洗浴的水，對起頭到洗了，攏著相一樣，並並遐燒，毋通忽然冷，忽然燒。做好（上好）的法度，用一領大領的毯仔來蓋彼个浴桶，除去病人的頭殼以外，連病人的身軀佮浴桶，攏蓋予密；看護著閣陸續添燒水，也常來檢溫。
 
 ---
 
@@ -626,14 +626,14 @@ Nā pīⁿ tāng ê lâng, ka-kī bô lāt thang sóe-e̍k, khàn-hō͘ tio̍h c
 Sóe-e̍k ê sî-chūn, khàn-hō͘ tióh khòaⁿ pīⁿ-lâng ê méh cháiⁿ-iūⁿ, sòa khòaⁿ hit ê hân-loán-kè ê un-tō͘ koâiⁿ-kē. Iā tióh ū lēng-gōa chi̍t ê khàn-hō͘ thang kóaⁿ-kín ū-pī bîn-chhûng. Bîn-chhûng-téng tióh chhu chi̍t niá iû-pò͘, tióh kap bîn-chhûng pīⁿ tōa niá; tī iû-pò͘-téng, tióh chhu chi̍t niá kū ê thán-á. Lēng-gōa kā in chiòng chi̍t niá thán-á hang hō͘ sio thang ēng.
 
 > **【全漢對照】**  
-> 洗浴的時陣，看護著看病人的脈怎樣，紲看彼個寒暖計的溫度懸低。也著有另外一個看護通趕緊預備眠床。眠床頂著鋪一件油布，著佮眠床並大件；佇油布頂，著鋪一件舊的毯仔。另外共𪜶將一件毯仔烘予燒通應（用）。
+> 洗浴的時陣，看護著看病人的脈怎樣，紲看彼个寒暖計的溫度懸低。也著有另外一个看護通趕緊預備眠床。眠床頂著鋪一件油布，著佮眠床並大件；佇油布頂，著鋪一件舊的毯仔。另外共𪜶將一件毯仔烘予燒通應（用）。
 
 ---
 
 Nā ji̍p e̍k āu tī 20 hun-cheng-lāi, pīⁿ-lâng kó-jiân bô sím-mi̍h piàn-khoán, chiū bô iàu-kín; nā-sī iáu-bē kàu 20 hun-cheng, pīⁿ-lâng ê méh ōe thiàu, á-sī bô chiàu chhù-sū, á-sī thâu-khak o͘-àm, sī m̄-hó. Hit sî khàn-hō͘ tióh kóaⁿ-kín phō i khí-lâi, ēng i goân-pún hit niá seng-khu-ē ê phē-toaⁿ (chhu-kun) kap i só͘ kah hit niá phē-toaⁿ, kng i chiūⁿ khì hit tiuⁿ chhu iû-pò͘ kap kū ê thán-á ê bîn-chhûng-téng; hō͘ i seng-khu sió-khóa thán-khi-sin, chiong hit niá tâm ê phē-toaⁿ, the̍h-lo̍h-lâi; chiū ēng sio ê bīn-kun kā i chhit hō͘ ta, chiah kā i chhēng chi̍t niá khah sio ê nî-saⁿ. Kàu chit-tia̍p chiah koh kah i thán-khi-sin, chiong iû-pò͘ kap iû-pò͘-téng ê thán-á sūn hit ê sè, kúg kàu pīⁿ-lâng ê seng-khu-ē; kah pīⁿ-lâng hoan-sin tùi kúg iû-pò͘ hit pêng kè-khì; chiah chiong iû-pò͘ kap kū ê thán-á the̍h-khí-lâi; jiân-āu chiong phē kā i kah hō͘ hó.
 
 > **【全漢對照】**  
-> 若入浴後佇 20 分鐘內，病人果然無甚麼變款，就無要緊；若是猶未到 20 分鐘，病人的脈會跳，抑是無照秩序，抑是頭殼烏暗，是毋好。彼時看護著趕緊抱伊起來，用伊原本彼件身軀下的被單（鋪巾）佮伊所蓋彼件被單，扛伊上去彼張鋪油布佮舊的毯仔的眠床頂；予伊身軀稍寡袒欹身，將彼件澹的被單，提落來；就用燒的面巾共伊拭予焦，才共伊穿一件較燒的呢衫。到此霎才閣共伊袒欹身，將油布佮油布頂的毯仔順彼個勢，捲到病人的身軀下；共病人翻身對捲油布彼爿過去；才將油布佮舊的毯仔提起來看；然後將被共伊蓋予好。
+> 若入浴後佇 20 分鐘內，病人果然無甚麼變款，就無要緊；若是猶未到 20 分鐘，病人的脈會跳，抑是無照秩序，抑是頭殼烏暗，是毋好。彼時看護著趕緊抱伊起來，用伊原本彼件身軀下的被單（鋪巾）佮伊所蓋彼件被單，扛伊上去彼張鋪油布佮舊的毯仔的眠床頂；予伊身軀稍寡袒欹身，將彼件澹的被單，提落來；就用燒的面巾共伊拭予焦，才共伊穿一件較燒的呢衫。到此霎才閣共伊袒欹身，將油布佮油布頂的毯仔順彼个勢，捲到病人的身軀下；共病人翻身對捲油布彼爿過去；才將油布佮舊的毯仔提起來看；然後將被共伊蓋予好。
 
 ---
 
@@ -717,7 +717,7 @@ Bîn-chhng-nih sóe-e̍k: Ū-sî pīⁿ-lâng bē lo̍h e̍k-tháng-nih sóe-e̍
 Sóe ê sî m̄-bián hian khah chōe, kiaⁿ-liáu kám-tio̍h. Tio̍h chiàu chit ê chhù-sū kā sóe: bīn, hī-á, ām-kún, chhiú, heng-khám, pak-tó͘, ka-chiah, kha. Chi̍t ūi tio̍h seng sóe, chhit ta, chiah koh sóe pa̍t ūi (tē 140 tô͘).
 
 > **【全漢對照】**
-> 洗的時毋免掀較濟，驚了感著。著照這個次序共洗：面、耳仔、頷頸、手、胸坎、腹肚、尻脊、腳。一位著先洗，拭乾，才閣洗別位（第 140 圖）。
+> 洗的時毋免掀較濟，驚了感著。著照這个次序共洗：面、耳仔、頷頸、手、胸坎、腹肚、尻脊、腳。一位著先洗，拭乾，才閣洗別位（第 140 圖）。
 
 Tâm ê thán-á tio̍h the̍h-khí-lâi, ēng phē-toaⁿ chiong
 
@@ -806,7 +806,7 @@ Sio-sip-pò͘-pau-hoat, kap sóe sio-chúi-e̍k ê lī-khì sī sio-siāng; nā 
 4. Pīⁿ-lâng nā ē (nā bōe-ōe tio̍h chān i), tio̍h kiò i thán-khi-sin. Chhì hit ê jiat-tō͘, m̄-thang hō͘ i sio-tio̍h pīⁿ-lâng; jiân-āu chiong pīⁿ-lâng péng-kè-lâi, chhin-chhiūⁿ kā i ōaⁿ phē-toaⁿ ê hoat; chiong phē-toaⁿ ê lióng-pêng lâi pau tī pīⁿ-lâng ê seng-khu, chhin-chhiūⁿ léng-sip-pò͘-pau-hoat chit-poaⁿ-iūⁿ.
 
 > **【全漢對照】**
-> 4. 病人若會（若𣍐會著贊伊），著叫伊伨起身。試彼個熱度，毋通予伊燒著病人；然後將病人翻過來，親像共伊換被單的法；將被單的兩旁來包佇病人的身軀，親像冷溼布包法一般樣。
+> 4. 病人若會（若𣍐會著贊伊），著叫伊伨起身。試彼个熱度，毋通予伊燒著病人；然後將病人翻過來，親像共伊換被單的法；將被單的兩旁來包佇病人的身軀，親像冷溼布包法一般樣。
 
 ---
 
@@ -980,14 +980,14 @@ Góa siat-sú chòe sian-ti bêng-pék lóng-chóng ê ò-biāu kap lóng-chóng
 10\. Tī bîn-chhng-kha hit thâu, tio̍h hē chi̍t ki hé-chiú-teng á-sī hé-lô͘; hé chiah hun chòe kúi nā pha lâi tiám; téng-bīn hē chi̍t ê kún-chúi-koàn. Tàu chi̍t ki ian-tâng; koh tàu chi̍t ki kǹg-thih ê khì-kńg, chhiâu hō͘ i siâ-siâ; hit ê khì-kńg hē tī pīⁿ-lâng khòa kha hit thâu bîn-chhng ê só͘-chāi; chiah chhng jip hit kè-á-lāi, óa bîn-chhng piⁿ-á; m̄-thang hō͘ jia̍t-khì thǹg-tio̍h pīⁿ-lâng ê kha. Thán-á tio̍h soeh hō͘ ân. M̄-thang hō͘ khì-kńg, á-sī tùi khì-kńg tih ê chúi, thǹg-tio̍h pīⁿ-lâng ê kha, á-sī seng-khu pa̍t só͘-chāi. Chit khoán ê hoat-tō͘ sī teh i-tī hit chéng sīn-chōng-iām ê pīⁿ; chit khoán ê pīⁿ-lâng ê phê-hu khah iù-chíⁿ, nā thǹg-tio̍h chiū khah oh hó.
 
 > **【全漢對照】**  
-> 10\. 佇眠床跤彼頭，著下（hē）一支火酒燈抑是火爐；火才分做幾若葩來點；頂面下一個滾水罐。鬥一支煙筒；閣鬥一支鋼鐵ê氣管，喬予伊斜斜；彼個氣管下佇病人跨跤彼頭眠床ê所在；才穿入彼架仔內，倚眠床邊仔；毋通予熱氣燙著病人ê跤。毯仔著塞（soeh）予緊。毋通予氣管，抑是對氣管滴ê水，燙著病人ê跤，抑是身軀別所在。這款ê法度是咧醫治彼種腎臟炎ê病；這款ê病人ê皮膚較幼緻（iù-chíⁿ），若燙著就較惡好。
+> 10\. 佇眠床跤彼頭，著下（hē）一支火酒燈抑是火爐；火才分做幾若葩來點；頂面下一个滾水罐。鬥一支煙筒；閣鬥一支鋼鐵ê氣管，喬予伊斜斜；彼个氣管下佇病人跨跤彼頭眠床ê所在；才穿入彼架仔內，倚眠床邊仔；毋通予熱氣燙著病人ê跤。毯仔著塞（soeh）予緊。毋通予氣管，抑是對氣管滴ê水，燙著病人ê跤，抑是身軀別所在。這款ê法度是咧醫治彼種腎臟炎ê病；這款ê病人ê皮膚較幼緻（iù-chíⁿ），若燙著就較惡好。
 
 ---
 
 11\. Cheng-khì-e̍k ê un-tō͘ khah siông sī 115° F.— 125° F. (46°— 52° C.) ; chit-ê sī i-seng beh chú-ì.
 
 > **【全漢對照】**  
-> 11\. 蒸氣浴ê溫度較常是 115° F.— 125° F. (46°— 52° C.)；這個是醫生欲注意。
+> 11\. 蒸氣浴ê溫度較常是 115° F.— 125° F. (46°— 52° C.)；這个是醫生欲注意。
 
 ---
 
@@ -1001,7 +1001,7 @@ Góa siat-sú chòe sian-ti bêng-pék lóng-chóng ê ò-biāu kap lóng-chóng
 13\. I-seng nā bô kóng beh ān lōa kú, khàn-hō͘ tio̍h chai put-kò 20 hun-cheng-kú ; m̄-kú chit-ê, sī i-seng teh chú-ì. Nā-sī teh ēng ê sî, pīⁿ-lâng chhin-chhiūⁿ beh hūn-khì ê khoán, khì-e̍k tio̍h soah.
 
 > **【全漢對照】**  
-> 13\. 醫生若無講欲按（ān）偌久，看護著知不過 20 分鐘久；毋過這個，是醫生咧注意。若是咧用ê時，病人親像欲暈去ê款，氣浴著煞。
+> 13\. 醫生若無講欲按（ān）偌久，看護著知不過 20 分鐘久；毋過這个，是醫生咧注意。若是咧用ê時，病人親像欲暈去ê款，氣浴著煞。
 
 ---
 
@@ -1122,7 +1122,7 @@ Tio̍h pī-pān pīⁿ-lâng, chhin-chhiūⁿ téng-bīn sio-siāng. Beh hō͘ p
 Sio-kha-e̍k: Chit-ê sī ēng sio-chúi sóe i ê kha, iā chìm kha. Nā án-ni, eng-kai tio̍h li̍ok-siók thiⁿ sio-chúi. Iā tio̍h ēng iû-pò͘, á-sī sin-bûn-chóa jia-khàm, lâi pó-hō͘ bîn-chhng kap pīⁿ-lâng ê saⁿ-á-khò͘; iā ēng saⁿ, á-sī thán-á kah hō͘ i ê tōa-thúi bōe léng. Chìm liáu tio̍h liâm-piⁿ chhit ta.
 
 > **【全漢對照】**
-> 燒跤浴：這個是用燒水洗伊的跤，也浸跤。若按呢，應該著陸續添燒水。也着用油布，抑是新聞紙遮蓋，來保護眠床佮病人的衫仔褲；也用衫，抑是毯仔蓋予伊的大腿𣍐冷。浸了著連鞭拭焦。
+> 燒跤浴：這个是用燒水洗伊的跤，也浸跤。若按呢，應該著陸續添燒水。也着用油布，抑是新聞紙遮蓋，來保護眠床佮病人的衫仔褲；也用衫，抑是毯仔蓋予伊的大腿𣍐冷。浸了著連鞭拭焦。
 
 ---
 
@@ -1135,7 +1135,7 @@ Chō-e̍k (坐浴, *Sitz bath*): Chiàu chit ê hoat-tō͘, sóe-e̍k tio̍h ū 
 *(Tē 144 tô͘.—Chō-e̍k (Bandler).)*
 
 > **【全漢對照】**
-> 坐浴 （坐浴，*Sitz bath*）：照這個法度，洗浴著有特別的浴桶（第 144 圖）。水著差不多 110° F. (44.3° C.) 燒。病人著坐在水裡遐浸。所浸的所在，是對腰到大腿。着用毯仔包圍病人的身軀，也閣一領包伊的跤。
+> 坐浴 （坐浴，*Sitz bath*）：照這个法度，洗浴著有特別的浴桶（第 144 圖）。水著差不多 110° F. (44.3° C.) 燒。病人著坐在水裡遐浸。所浸的所在，是對腰到大腿。着用毯仔包圍病人的身軀，也閣一領包伊的跤。
 > 
 > *（第 144 圖——坐浴 (Bandler）)*
 
@@ -1182,7 +1182,7 @@ Jiû-hông-e̍k (Sulphur bath): Ēng *potassa sulphurata* 60.0 grms., sio-chúi 
 Súi-gûn-e̍k (*Mercurial bath*): Chit ê hoat-tō͘ ài ēng súi-gûn lūi ê iòh kā pīⁿ-lâng sóe-e̍k. Te̍k-piat ēng chi̍t pha hé-chiú-teng, ēng 1.0 grm. *calomel* iòh-hún piàⁿ tī se-iûⁿ thih ê tîh-á téng-bīn. Chiong tîh-á, hē tī hé-chiú-teng ê téng-bīn. Chiah khòa hē tī pīⁿ-lâng ê bîn-chhng-piⁿ ê kè-á-lāi, kî-û ê mih lóng chiàu téng-bīn só͘ kì ê jia̍t-khì-sóe-e̍k ê hoat-tō͘ (tē 145 tô͘). Chiàu chit ê hoat-tō͘ pīⁿ-lâng nā chē tîn-í-téng, iā thang; hē teng kap iòh tī ē-tóe, iā chiong thán-á, tùi ām-kún kàu tē-pán, khàm hō͘ ba̍t. Pīⁿ-lâng tī lāi-bīn thǹg-pak-theh. Iok-liōk 15 hun-cheng-kú, iòh chiū ōe hòa pìⁿ-chiâⁿ khì. Chòe iàu-kín-ê, khàn-hō͘ tiòh siông-siông chù-ì hit ê hé-chiú-teng, in-ūi chit ê hoat-tō͘ sī ēng hē tī bîn-chhng-lāi, á-sī í-ē, sió-khóa bô kín-sīⁿ chiū chin khoài hoat hé. Iòh hòa liáu-āu chiū tiòh chiong teng théh-chhut-lâi, iā sòa chhēng i-ho̍k. M̄-thang chhit pīⁿ-lâng ê seng-khu, in-ūi ài hō͘ chit ê iòh ji̍p tī seng-khu-lāi.
 
 > **【全漢對照】**
-> **水銀浴**（*Mercurial bath*）：此個法度愛用水銀類的藥共病人洗浴。特別用一盞火酒燈（酒精燈），用 1.0 grm. *calomel*（甘汞）藥粉傾佇西洋鐵的碟仔頂面。將碟仔，下佇火酒燈的頂面。才跨下佇病人的眠床邊的架仔內，其餘的物攏照頂面所記的熱氣洗浴的法度（第 145 圖）。照此個法度病人若坐藤椅頂，亦通；下燈佮藥佇下底，亦將毯仔，對頷頸到地板，蓋互密。病人在內面褪赤體。約略 15 分鐘久，藥就會化變成氣。最適緊的，看護著常常注意彼個火酒燈，因為此個法度是用下佇眠床內，抑是椅下，稍許無謹慎就真快發火。藥化了後就著將燈提出來，亦續穿衣服。毋通拭病人的身軀，因為愛互此個藥入佇身軀內。
+> **水銀浴**（*Mercurial bath*）：此个法度愛用水銀類的藥共病人洗浴。特別用一盞火酒燈（酒精燈），用 1.0 grm. *calomel*（甘汞）藥粉傾佇西洋鐵的碟仔頂面。將碟仔，下佇火酒燈的頂面。才跨下佇病人的眠床邊的架仔內，其餘的物攏照頂面所記的熱氣洗浴的法度（第 145 圖）。照此个法度病人若坐藤椅頂，亦通；下燈佮藥佇下底，亦將毯仔，對頷頸到地板，蓋互密。病人在內面褪赤體。約略 15 分鐘久，藥就會化變成氣。最適緊的，看護著常常注意彼个火酒燈，因為此个法度是用下佇眠床內，抑是椅下，稍許無謹慎就真快發火。藥化了後就著將燈提出來，亦續穿衣服。毋通拭病人的身軀，因為愛互此个藥入佇身軀內。
 
 ---
 
@@ -1241,7 +1241,7 @@ pīⁿ-lâng ê chhùi-khí-hōaⁿ thiàⁿ, á-sī chhùi-lāi ū pháiⁿ ê 
 Koh chi̍t ê hoat-tō͘, sī chiong nñg kun bí, géng chiâⁿ iù-iù chòe bí-hu; chiah kiáu tām-po̍h léng-chúi lā hō͘ chiâu, chiah lo̍h khì chú 15 hun-cheng-kú; jiân-āu phâng khí-lâi thàu 3,0000.0 c.c. ê chúi lâi sóe-e̍k.
 
 > **【全漢對照】**
-> **泔洗浴法**：大間的病院，逐日煮飯予病人食，彼個飯泔時常有賰，通將所賰的泔，沖水對半，按呢來洗浴，通醫治皮膚這款的病。
+> **泔洗浴法**：大間的病院，逐日煮飯予病人食，彼个飯泔時常有賰，通將所賰的泔，沖水對半，按呢來洗浴，通醫治皮膚這款的病。
 > 
 > 閣一个法度，是將兩斤米，研成幼幼做米麩；才攪淡薄冷水攪予勻，才落去煮 15 分鐘久；然後捧起來透 3,0000.0 c.c. 的水來洗浴。
 

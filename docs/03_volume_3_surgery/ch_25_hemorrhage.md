@@ -44,7 +44,7 @@ Mn̂g-sòe-huih-kńg chhut-huih, sek-tī sī chhiah-âng, iā hit ê huih m̄-s�
 
 > **【全漢對照】**
 > 【毛細血管出血】
-> 毛細血管出血，色緻是赤紅，也彼個血呣是在流，是對傷喙，逐位的所在在澁出來。
+> 毛細血管出血，色緻是赤紅，也彼个血呣是在流，是對傷喙，逐位的所在在澁出來。
 
 ---
 
@@ -90,7 +90,7 @@ khòaⁿ-kìⁿ ê só͘-chāi teh chhut-huih, koh chi̍t nn̄g ji̍t ē khí-ch
 Ū chi̍t hāng chòe iàu-kín ê sū, chiū-sī ū lâng nā chhut-huih, hit ê huih-kńg ka-kī ē sok-óa lâi chí, in-ūi huih-kńg goân-pún ū chhun-kiu ê sèng. Nā koah-tn̄g i, hit ê tn̄g ê só͘-chāi, siang pêng lóng lī-khui-khì, chóng-sī huih-kńg ê gōa-chân bô chhun-kiu ê sèng. Huih-kńg thè-ji̍p-khì tī gōa-chân-lāi, hit ê khang-chhùi chiū kiu-sòe-khì. Iā huih-kńg-tiong ê huih, kap huih-kńg gōa-bīn ê huih pîⁿ-chiâⁿ kui tè; tùi án-ni huih chiū ē ka-kī chí. Lâng nā hūn-khì, i ê sim ê me̍h-phok khah bān, iā khah bô lát, só͘-í huih ē khah bē lâu. Chóng-sī khàn-hō͘ tha̍k téng chām ê sū, m̄-thang phah-sǹg huih tiāⁿ-tio̍h ka-kī ē chí, iàu-kín tio̍h i-seng ēng gōa-kho ê hoat kā i chí.
 
 > **【全漢對照】**
-> 有一項最要緊的事，就是有人若出血，彼個血管自己會縮倚來止，因為血管原本有伸縮的性。若割斷伊，彼個斷的所在，雙爿攏離開去，總是血管的外層無伸縮的性。血管退入去佇外層內，彼個孔喙就縮細去。也血管中的血，佮血管外面的血平成歸塊；對按呢血就會自己止。人若暈去，伊的心的脈搏較慢，也較無力，所以血會較袂流。總是看護讀頂站的事，毋通拍算血定著自己會止，要緊著醫生用外科的法共伊止。
+> 有一項最要緊的事，就是有人若出血，彼个血管自己會縮倚來止，因為血管原本有伸縮的性。若割斷伊，彼个斷的所在，雙爿攏離開去，總是血管的外層無伸縮的性。血管退入去佇外層內，彼个孔喙就縮細去。也血管中的血，佮血管外面的血平成歸塊；對按呢血就會自己止。人若暈去，伊的心的脈搏較慢，也較無力，所以血會較袂流。總是看護讀頂站的事，毋通拍算血定著自己會止，要緊著醫生用外科的法共伊止。
 
 ---
 
@@ -143,7 +143,7 @@ Ióh-tû ê só-sî, m̄-thang chhìn-chhái hè-teh.
 kiàn-sek, ōe ēng chí-huih ê hoat. Nā pīⁿ-lâng seng-khu gōa-bīn chi̍t só͘-chāi lâu huih, khàn-hō͘ eng-kai tióh chai hit ê huih-kńg tī sím-mi̍h só͘-chāi chek-sî kā lia̍p-teh, á-sī ēng la̍t kā chhi̍h-teh, lâi chí hit ê huih, thèng-hāu i-seng lâi chiah i-tī; só͘-í chit khoán ê ha̍k-būn chòe iàu-kín, chit hō chí-huih ê hoat-tō͘ bat kiù lâng m̄-sī chió.
 
 > **【全漢對照】**
-> 見識，會用止血的法。若病人生軀外面一所在流血，看護應該著知彼個血管佇甚麼所在即時共搦咧，抑是用力共抑咧，來止彼個血，等候醫生來才醫治；所以這款的學問最具要緊，這號止血的法度曾救人毋是少。
+> 見色，會用止血的法。若病人生軀外面一所在流血，看護應該著知彼个血管佇甚麼所在即時共搦咧，抑是用力共抑咧，來止彼个血，等候醫生來才醫治；所以這款的學問最具要緊，這號止血的法度曾救人毋是少。
 
 ---
 
@@ -161,7 +161,7 @@ Nā-sī kha á-sī chhiú lâu huih, tióh hō͘ hit ki teh lâu-ê kia̍h koâi
 Siū-siong ê huih-kńg nā chhē ōe tióh, sī khah hó. Tióh ēng teh ê la̍t, á-sī chhi̍h hit ê chhut-huih ê só͘-chāi,
 
 > **【全漢對照】**
-> 受傷的血管若揣會著，是較好。著用壓的力，抑是抑彼個出血的所在，
+> 受傷的血管若揣會著，是較好。著用壓的力，抑是抑彼个出血的所在，
 
 ---
 
@@ -177,14 +177,14 @@ Tē 192, 193 tô͘:—Chit tiâu chhiú-kun, lāi-bīn kńg chi̍t lia̍p chióh
 á-sī chhi̍h hit ê huih-kńg só͘ keng-kè ê lō͘. Nā bô mî-se, ēng chheng-khì ê pe̍h-pò͘ lâi that hit ê siong-chhùi.
 
 > **【全漢對照】**
-> 抑是抑彼個血管所經過的路。若無棉紗，用清氣的白布來窒彼個傷喙。
+> 抑是抑彼个血管所經過的路。若無棉紗，用清氣的白布來窒彼个傷喙。
 
 ---
 
 Nā-sī tōa ê tōng-me̍h-kńg siū-siong, tióh ēng tōa la̍t chhi̍h hit ê siū-siong ê só͘-chāi, hit téng-bīn ê tōng-me̍h, chiū-sī khah óa tī sim ê tōng-me̍h. Siat-sú chit ê tōng-me̍h sī tī ū kut ê só͘-chāi, ēng chńg-thâu-á kā i chhi̍h, sī put-chí ū kong-hāu. Chi̍t lâng chí-ū ōe chhi̍h kúi hún-cheng-kú nā-tiāⁿ, khah kú chiū ià-siān.
 
 > **【全漢對照】**
-> 若是大個動脈管受傷，著用大力抑彼個受傷的所在，彼頂面的動脈，就是較倚佇心的動脈。設使這個動脈是佇有骨的所在，用指頭仔共伊抑，是不止有功效。一個人只有會抑幾分鐘久若定，較久成就厭倦。
+> 若是大个動脈管受傷，著用大力抑彼个受傷的所在，彼頂面的動脈，就是較倚佇心的動脈。設使這个動脈是佇有骨的所在，用指頭仔共伊抑，是不止有功效。一个人只有會抑幾分鐘久若定，較久成就厭倦。
 
 ---
 
@@ -193,7 +193,7 @@ Nā-sī tōa ê tōng-me̍h-kńg siū-siong, tióh ēng tōa la̍t chhi̍h hit �
 Chí-huih-khì (止血器, Tourniquet): Théh chi̍t tiâu chhiú-kun, lāi-bīn kńg chi̍t-ê kan-á-that, á-sī ēng pa̍t khoán ngī ê mi̍h chòe tiām; khòa tī tōng-me̍h ê téng-bīn, chiong chhiú-kun pa̍k hit kha, á-sī chhiú-nih (tē 192-193
 
 > **【全漢對照】**
-> 止血器 （止血器，Tourniquet）：提一條手巾，內面捲一個矸仔塞，抑是用別款硬的物做墊；跨佇動脈的頂面，將手巾縛彼跤，抑是手裡（第 192-193
+> 止血器 （止血器，Tourniquet）：提一條手巾，內面捲一个矸仔塞，抑是用別款硬的物做墊；跨佇動脈的頂面，將手巾縛彼跤，抑是手裡（第 192-193
 
 <!-- Page 349 End -->
 
@@ -226,7 +226,7 @@ tô͘.) Ēng chi̍t ki sòe ki ê kùn-á chhng hit ê chhiú-kun, kap sù-chi �
 > **【全漢對照】**
 > 【側標：止血器】
 > 
-> 圖。）用一支細枝的棍仔穿彼個手巾，佮四肢的中間，才共伊絞倚來；總使毋通傷緊，不過彼個力會互血止就好。著小心看彼個點有對動脈管抑無（第 193 圖）。若有樹乳止血器也較好。這個就是干旦暫時的法爾定，若較久彼枝腳手會死。用一號止血器毋通過兩點鐘久。也干旦通用止四肢的動脈出血。若靜脈出血就毋通使這號法度。
+> 圖。）用一支細枝的棍仔穿彼个手巾，佮四肢的中間，才共伊絞倚來；總使毋通傷緊，不過彼个力會互血止就好。著小心看彼个點有對動脈管抑無（第 193 圖）。若有樹乳止血器也較好。這个就是干旦暫時的法爾定，若較久彼枝腳手會死。用一號止血器毋通過兩點鐘久。也干旦通用止四肢的動脈出血。若靜脈出血就毋通使這號法度。
 
 ---
 
@@ -329,7 +329,7 @@ Tē 198 tô͘.—Ēng pò͘ pau só-sî chhih só-kut-ē-tōng-me̍h. (From “F
 Nā koh-ē-khang chhut-huih, tio̍h chhih tī só-kut-ē-tōng-me̍h. Chhih ê só͘-chāi sī só-kut ê téng-bīn, hit ê sè-bīn tio̍h ǹg āu-bīn kap tām-po̍h ē-bīn, óa thâu chi̍t ki hia̍p-kut (tē 197 tô͘). Khah hó tio̍h ēng chi̍t ki chhâ-thûi,
 
 > **【全漢對照】**  
-> 若夾下空出血，著抑佇鎖骨下動脈。抑的所在是鎖骨的頂面，彼個勢面著向後面佮淡薄下面，倚頭一支脅骨（第 197 圖）。較好著用一支柴槌，
+> 若夾下空出血，著抑佇鎖骨下動脈。抑的所在是鎖骨的頂面，彼个勢面著向後面佮淡薄下面，倚頭一支脅骨（第 197 圖）。較好著用一支柴槌，
 
 <!-- Page 351 End -->
 
@@ -442,7 +442,7 @@ Nā kha-bé chhut-huih, ti̍h chiàu tē 205 tô͘, chiong kha kiu óa. Chiong c
 
 > **【全漢對照】**
 > ### 膝膕動脈
-> 若腳尾出血，著照第 205 圖，將腳縮倚。將一粒石，抑是布做的，做墊，提佇膝關節後面的彎；才用繃帶縛實。按呢會按實膝膕動脈（popliteal artery）。此個法度是艱苦；著
+> 若腳尾出血，著照第 205 圖，將腳縮倚。將一粒石，抑是布做的，做墊，提佇膝關節後面的彎；才用繃帶縛實。按呢會按實膝膕動脈（popliteal artery）。此个法度是艱苦；著
 
 <!-- Page 354 End -->
 
@@ -625,7 +625,7 @@ Gân-bīn-tōng-me̍h (*Facial artery*): Chhih chit tiâu tōng-me̍h ê só͘-c
 Ū-sî bán chhùi-khí liáu-āu, chhùi-khí-hōaⁿ, huih lâu bōe chí. Nā ēng chí-huih ê iòh, chhùi-nih ū pháiⁿ ê bī, khí-hōaⁿ iā ōe nōa-khì. Tē it hó ê hoat, sī ēng chi̍t-tè sòe tè ê mî-se, hē tī chhùi-khí khang-lāi. Tāi-seng chiong huih-tè sóe hō͘ chhut-lâi, chiah ēng chi̍t-ê sòe tè ê kan-á-that, hit ê tōa sió tióh kap chhùi-khí-hōaⁿ ê khang píⁿ-pīⁿ, pí chhùi-khí khah koâiⁿ tām-po̍h. Ēng pheng-tòa tùi thâu-khak-téng, pák tùi hā-go̍k-kut lo̍h-lâi, hō͘ hit ê khí-hōaⁿ bōe tín-tāng, án-ni teh hō͘ ân, iā ōe chí huih.
 
 > **【全漢對照】**
-> 有時拔嘴齒了後，嘴齒岸，血流袂止。若用止血的藥，嘴裡有歹的味，齒岸亦會爛去。第一好的法，是用一塊細塊的棉紗，放置佇嘴齒孔內。代先將血塊洗予出來，才用一個細塊的矸仔塞，彼個大小著佮嘴齒岸的孔平平，比嘴齒較懸淡薄。用繃帶來對頭殼頂，縛對下顎骨落來，予彼個齒岸袂振動，按呢壓予緊，亦會止血。
+> 有時拔嘴齒了後，嘴齒岸，血流袂止。若用止血的藥，嘴裡有歹的味，齒岸亦會爛去。第一好的法，是用一塊細塊的棉紗，放置佇嘴齒孔內。代先將血塊洗予出來，才用一个細塊的矸仔塞，彼个大小著佮嘴齒岸的孔平平，比嘴齒較懸淡薄。用繃帶來對頭殼頂，縛對下顎骨落來，予彼个齒岸袂振動，按呢壓予緊，亦會止血。
 
 ---
 
@@ -641,14 +641,14 @@ Tē 209 tô͘:—Phīⁿ-khang chhut-huih, ēng mî-se kap chhiū-leng-tō-jiō-
 Phīⁿ-khang chhut-huih ê tī-liâu hoat: Kah pīⁿ-lâng tó-teh, nā iû-goân bōe chí, tióh khòaⁿ huih tùi tó-lo̍h chi̍t pêng ê phīⁿ-khang lâu-chhut-lâi, chiah ēng mî-se kā i that hō͘ ân. Ū-sî ēng peng hē phīⁿ-khang-lāi, á-sī phīⁿ-niû-téng, á-sī ām-kún āu-pêng, iā ōe chí-huih. Ū-sî nā ēng mî-se that phīⁿ-khang, huih ōe tùi chhùi-nih chhut-lâi; hit sî, i-seng só͘ teh ēng ê hoat-tō͘, sī tī chhùi-lāi ê āu-bīn lâi that āu-phīⁿ-kháu. Chit ê hoat-tō͘ sī hùi-khì, khàn-hō͘ chiū m̄-bián ēng, tióh i-seng chòe chiah ōe ēng-tit.
 
 > **【全漢對照】**
-> 鼻孔出血的治療法：教病人倒咧，若猶原袂止，著看血對佗落一旁的鼻孔流出來，才用棉紗共伊塞予緊。有時用冰放置鼻孔內，抑是鼻樑頂，抑是頷頸後旁，亦會止血。有時若用棉紗塞鼻孔，血會對嘴裡出來；彼時，醫生所咧用的法度，是佇嘴內的後面來塞後鼻口。此個法度是費氣，看護就毋免用，著醫生做才會用得。
+> 鼻孔出血的治療法：教病人倒咧，若猶原袂止，著看血對佗落一旁的鼻孔流出來，才用棉紗共伊塞予緊。有時用冰放置鼻孔內，抑是鼻樑頂，抑是頷頸後旁，亦會止血。有時若用棉紗塞鼻孔，血會對嘴裡出來；彼時，醫生所咧用的法度，是佇嘴內的後面來塞後鼻口。此个法度是費氣，看護就毋免用，著醫生做才會用得。
 
 ---
 
 Nā sī phùi-huih ê lâng, hit ê huih kô tī nâ-âu, tióh chiong huih-tè the̍h-chhut-lâi, chiong pīⁿ-lâng ê chím-thâu sóa hē pīⁿ-á, chiong bîn-chhng khòa kha ê só͘-chāi tiām hō͘ koâiⁿ (chi̍t chhioh chiū hó), tióh hō͘ thâu-khak pí kha khah kē.
 
 > **【全漢對照】**
-> 若是呸血的人，彼個血糊佇嚨喉，著將血塊提出來，將病人的枕頭徙放置邊仔，將眠床跨腳的所在墊予懸（一尺就好），著予頭殼比腳較低。
+> 若是呸血的人，彼个血糊佇嚨喉，著將血塊提出來，將病人的枕頭徙放置邊仔，將眠床跨腳的所在墊予懸（一尺就好），著予頭殼比腳較低。
 
 <!-- Page 357 End -->
 
@@ -736,7 +736,7 @@ Nā i ê chhùi bô koh phùi-chhut hì-chōng ê huih liáu-āu, chiū kah i ti
 
 > **【全漢對照】**
 > **治療法**  
-> 若伊的嘴無閣呸出肺臟的血了後，就教伊恬恬睏，毋通振動，也莫得予伊講話。嘴裡予含冰。醫生較大面欲創 *morphia* 0.016 *grm.* 共伊注射。吐血的病人也莫得予伊振動、講話、抑是食物；閣著會記得無論吐血抑是咯血，要緊毋通予伊啉酒。若是病人血對肛門流出來，著予伊恬恬倒咧，莫得振動。若是對陰道流出來，著將眠床跨腳的所在，墊予比頭殼加有一尺懸。有時照醫生的命令，用 115 度 F. (46° C.) 的燒水共伊做陰道灌溉法（第 237 面）；若會堪得較燒，就用 120 度 F. (49° C.) 的燒。若用燒水的法度，袂得通止，著將一條一條格糋的水綿布（*lint*）對陰道塞予絚。若血流傷濟，著將腳骨用棉花佮繃帶縛予絚，予彼個血代先歸佇心佮肺的中間，來保護伊的性命；此個法度，有時真有功效。病人流血的時，莫得予伊食燒的物。若醫生無講欲用強心劑，看護就毋通予伊。
+> 若伊的嘴無閣呸出肺臟的血了後，就教伊恬恬睏，毋通振動，也莫得予伊講話。嘴裡予含冰。醫生較大面欲創 *morphia* 0.016 *grm.* 共伊注射。吐血的病人也莫得予伊振動、講話、抑是食物；閣著會記得無論吐血抑是咯血，要緊毋通予伊啉酒。若是病人血對肛門流出來，著予伊恬恬倒咧，莫得振動。若是對陰道流出來，著將眠床跨腳的所在，墊予比頭殼加有一尺懸。有時照醫生的命令，用 115 度 F. (46° C.) 的燒水共伊做陰道灌溉法（第 237 面）；若會堪得較燒，就用 120 度 F. (49° C.) 的燒。若用燒水的法度，袂得通止，著將一條一條格糋的水綿布（*lint*）對陰道塞予絚。若血流傷濟，著將腳骨用棉花佮繃帶縛予絚，予彼个血代先歸佇心佮肺的中間，來保護伊的性命；此个法度，有時真有功效。病人流血的時，莫得予伊食燒的物。若醫生無講欲用強心劑，看護就毋通予伊。
 
 <!-- Page 359 End -->
 

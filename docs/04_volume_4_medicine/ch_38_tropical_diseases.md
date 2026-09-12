@@ -58,7 +58,7 @@ Tē 481 tô͘:—Saⁿ khoán kàn-hat-jiȧt ê thé-un-pió: *Quotidian*, ta̍k
 Chiah ê chèng tī jiȧt-tài ê kok, pí tī un-tài ê kok chám-jiān ke chin lī-hāi. Nā-sī ū sím-mi̍h só͘-chāi ōe-seng khah bô heng-khí, tī hia lâng khah khoài jiám-tio̍h pīⁿ, iā hiah ê jiȧt-tài ê chèng khah tāng. Ōe-seng ná-hó, peh-sìⁿ ná-ióng-kiāⁿ. Chhin-chhiūⁿ Ji̍t-pún lâi Tâi-oân ê sî, chhú-
 
 > **【全漢對照】**
-> 諸個症佇熱帶的國，比佇溫帶的國慘然加真利害。若是有甚麼所在衛生較無興起，佇遐人較快染著病，也遐的熱帶的症較重。衛生愈好，百姓愈勇健。親像日本來台灣的時，鼠——
+> 諸个症佇熱帶的國，比佇溫帶的國慘然加真利害。若是有甚麼所在衛生較無興起，佇遐人較快染著病，也遐的熱帶的症較重。衛生愈好，百姓愈勇健。親像日本來台灣的時，鼠——
 
 ---
 
@@ -97,14 +97,14 @@ Chiah ê chèng tī jiȧt-tài ê kok, pí tī un-tài ê kok chám-jiān ke chi
 *Malaria* jiȧt: Tēng-gī: Chit ê pīⁿ sī tėk-piảt thoân-jiám ê chèng. I ê jiȧt sī koh-iūⁿ, ū-sî chi̍t ji̍t hoat jiȧt chi̍t pái, kiò-chòe tàk-jit-jiȧt (每日熱, *quotidian fever* tē 481 tô͘); nñg ji̍t chi̍t pái, chiū-sī chi̍t ji̍t ū jiȧt, chi̍t ji̍t bô; chit khoán ê jiȧt, kiò-chòe saⁿ-jit-jiȧt (*tertian fever*, tē 481-2 tô͘); ū-sî saⁿ ji̍t chi̍t pái, chiū-sī chi̍t ji̍t hoat
 
 > **【全漢對照】**
-> Malaria熱：定義：此個病是特別傳染的症。伊的熱是各樣，有時一日發熱一擺，叫做逐日熱（每日熱，*quotidian fever* 第 481 圖）；兩日一擺，就是一日有熱，一日無；此款的熱，叫做三日熱（*tertian fever*，第 481-2 圖）；有時三日一擺，就是一日發
+> Malaria熱：定義：此个病是特別傳染的症。伊的熱是各樣，有時一日發熱一擺，叫做逐日熱（每日熱，*quotidian fever* 第 481 圖）；兩日一擺，就是一日有熱，一日無；此款的熱，叫做三日熱（*tertian fever*，第 481-2 圖）；有時三日一擺，就是一日發
 
 ---
 
 **Tē 482 tô͘.—Malaria saⁿ-jit-jiȧt ê thé-un-pió. Chit-ê sī kàn-hat-jiȧt ê chi̍t hāng (Paul).**
 
 > **【全漢對照】**
-> **第 482 圖。—Malaria 三日熱的體溫表。此個是間歇熱的一項 (Paul)。**
+> **第 482 圖。—Malaria 三日熱的體溫表。此个是間歇熱的一項 (Paul)。**
 
 ---
 
@@ -120,7 +120,7 @@ jiȧt, koh nñg ji̍t bô jiȧt, keh ji̍t chiah koh hoat jiȧt; chit khoán ki�
 Goân-in: Ū chi̍t khoán tėk-piảt ê bî-seng-bu̍t kiò-chòe *malaria* ê goân-thâng (*plasmodium malariae*, tē 483 tô͘). Chit hō goân-thâng ōe siⁿ-thòaⁿ tėk-piảt ê bî-seng-bu̍t kiò-chòe gê-pau (芽胞, *spores*). Koh chi̍t hāng, tiỏh ū chi̍t khoán ê báng kiò-chòe *anopheles*. Chit khoán ê báng ōe khǹg *malaria* ê goân-thâng tī i ê pak-tó͘-lāi, kap chhùi ê nōa-chôaⁿ-lāi. Nā lâng hō͘ chit khoán ê báng tèng--tiỏh, i ōe chiong hit ê goân-thâng chù-ji̍p seng-khu-
 
 > **【全漢對照】**
-> 原因：有一款特別的微生物叫做 *malaria* 的原蟲（*plasmodium malariae*，第 483 圖）。此號原蟲會生湠特別的微生物叫做芽胞（芽胞，*spores*）。閣一項，著有一款的蠓叫做 *anopheles*。此款的蠓會囥 *malaria* 的原蟲佇伊的腹肚內，佮嘴的涎泉內。若人互此款的蠓叮著，伊會將彼個原蟲注入身軀—
+> 原因：有一款特別的微生物叫做 *malaria* 的原蟲（*plasmodium malariae*，第 483 圖）。此號原蟲會生湠特別的微生物叫做芽胞（芽胞，*spores*）。閣一項，著有一款的蠓叫做 *anopheles*。此款的蠓會囥 *malaria* 的原蟲佇伊的腹肚內，佮嘴的涎泉內。若人互此款的蠓叮著，伊會將彼个原蟲注入身軀—
 
 <!-- Page 627 End -->
 
@@ -205,14 +205,14 @@ lāi. Báng tèng liáu, goân-thâng ji̍p chhiah-huih-kiû-lāi, tī hia koh p
 
 > **【全漢對照】**
 > 【Malaria 的原因】
-> 內。蚊叮了，原蟲入赤血球內，佇遐閣變款（第 483 圖）。佇遮袂通詳細講，不過知佇赤血球內，原蟲湠變成立粒（10 外粒）若親像細胞的款；諸個有時叫做 *malaria* 原蟲芽胞（第 483 圖）。諸個芽胞較大，也赤血球會破互芽胞分離（分離）佇血漿內，閣入別的赤血球內，來發育湠。抑是這號的病人若互彼款的蚊叮著，蚊會食血內的原蟲特別的芽胞。這個芽胞佇蚊的腹肚內會閣發育湠。
+> 內。蚊叮了，原蟲入赤血球內，佇遐閣變款（第 483 圖）。佇遮袂通詳細講，不過知佇赤血球內，原蟲湠變成立粒（10 外粒）若親像細胞的款；諸个有時叫做 *malaria* 原蟲芽胞（第 483 圖）。諸个芽胞較大，也赤血球會破互芽胞分離（分離）佇血漿內，閣入別的赤血球內，來發育湠。抑是這號的病人若互彼款的蚊叮著，蚊會食血內的原蟲特別的芽胞。這个芽胞佇蚊的腹肚內會閣發育湠。
 
 ---
 
 Tùi án-ni thang chai chit ê pīⁿ thoân-jiám ê lí-khì. Phì-lūn lâi kóng: nā ū lâng iáu-bē jiám-tio̍h *malaria*, hō͘ hit hō ū goân-thâng ê báng tèng-tio̍h, hit ê lâng ē chiap-tio̍h báng ê goân-thâng, lâi jiám-tio̍h *malaria*; koh chi̍t hāng, nā ū lâng í-keng ū jiám-tio̍h *malaria*, hit hō goân-thâng sī tī i ê huih-nih, nā *anopheles* hit khoán ê báng kā i tèng-tio̍h, chit hō báng ē chia̍h-tio̍h *malaria* ê goân-thâng, koh khì thoân-jiám-tio̍h pa̍t lâng.
 
 > **【全漢對照】**
-> 對按呢通知這個病傳染的理氣。譬論來講：若有人猶未染著 *malaria*，互彼號有原蟲的蚊叮著，彼個人會接著蚊的原蟲，來染著 *malaria*；閣一項，若有人已經有染著 *malaria*，彼號原蟲是佇伊的血裡，若 *anopheles*（瘧蚊）彼款的蚊共伊叮著，這號蚊會食著 *malaria* 的原蟲，閣去傳染著別人。
+> 對按呢通知這个病傳染的理氣。譬論來講：若有人猶未染著 *malaria*，互彼號有原蟲的蚊叮著，彼个人會接著蚊的原蟲，來染著 *malaria*；閣一項，若有人已經有染著 *malaria*，彼號原蟲是佇伊的血裡，若 *anopheles*（瘧蚊）彼款的蚊共伊叮著，這號蚊會食著 *malaria* 的原蟲，閣去傳染著別人。
 
 ---
 
@@ -271,7 +271,7 @@ Jia̍t teh hoat-choh ê sî-kî, kap ok-hân ê kî, sī kap hit ê goân-thâng
 > **【全漢對照】**
 > 第三步流汗：頭殼疼較好，熱退，病人較快活，才愛睏。
 > 
-> 熱咧發作的時期，佮惡寒的期，是佮彼個原蟲佇赤血球內咧生炭，並幾若粒的芽胞相相手時期。彼個體溫上懸的時期，是佮遐的赤血球破，予原蟲的芽胞入佇血漿，彼個時期相相手。脾臟會腫大。
+> 熱咧發作的時期，佮惡寒的期，是佮彼个原蟲佇赤血球內咧生炭，並幾若粒的芽胞相相手時期。彼个體溫上懸的時期，是佮遐的赤血球破，予原蟲的芽胞入佇血漿，彼个時期相相手。脾臟會腫大。
 
 ---
 
@@ -380,7 +380,7 @@ Chit hō pīⁿ sī khoài-khoài thoân-jiám ê pīⁿ. Tī-hông ê hoat-tō�
 Tī-liâu : Khàn-hō͘ chit hō pīⁿ-lâng, tióh chhin-chhiūⁿ khàn-hō͘ sió-tn̂g-jia̍t ê pīⁿ-lâng, hit khoán ê sió-sim. Tióh ēng liû-tōng chu-ióng ê si̍t-bu̍t hō͘ i chia̍h ; m̄-thang ēng tēng ê mi̍h hō͘ i, in-ūi i tn̂g ê piah ū siⁿ ùi-ióng, iā chiah ê ùi-ióng ê só͘-chāi ē chhut-huih, á-sī tn̂g ē chhng-khang phòa--khì. Khàn-hō͘ tióh tī-hông ka-kī jiám-tióh chit hō chèng. Nā kā pīⁿ-lâng chhòng tāi-chì, tióh sóe ka-kī ê chhiú khah hó. I-seng só͘ ēng ê ióh sī *emetine* chù-siā-hoat, *magnesii sulphas*, *catechu*, a-phiàn. Ū-sî ēng ióh sóe tōa-tn̂g-lāi.
 
 > **【全漢對照】**
-> 治療：看護這號病人，著親像看護小腸熱的病人，彼款的小心。著用流動滋養的食物予伊食；毋通用硬的物予伊，因為伊腸的壁有生潰瘍，也諸個潰瘍的所在會出血，抑是腸會穿孔破--去。看護著預防家己染著這號症。若共病人創代誌，著洗家己的手較好。醫生所用的藥是 *emetine* 注射法，*magnesii sulphas*（硫酸鎂），*catechu*（兒茶），阿片。有時用藥洗大腸內。
+> 治療：看護這號病人，著親像看護小腸熱的病人，彼款的小心。著用流動滋養的食物予伊食；毋通用硬的物予伊，因為伊腸的壁有生潰瘍，也諸个潰瘍的所在會出血，抑是腸會穿孔破--去。看護著預防家己染著這號症。若共病人創代誌，著洗家己的手較好。醫生所用的藥是 *emetine* 注射法，*magnesii sulphas*（硫酸鎂），*catechu*（兒茶），阿片。有時用藥洗大腸內。
 
 ---
 
@@ -453,7 +453,7 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 **Pî-chéng**: Pî-chōng ē chéng (tē 485 tô͘). Tī joa̍h-thiⁿ ê só͘-chāi sī te̍k-pia̍t ê pīⁿ. Ū-sî sī tùi tiāⁿ-tiāⁿ khí-jia̍t, bô chia̍h *quinina* i-tī; iā ū-sî sī tùi pa̍t khoán ê in-toaⁿ, bô sím-mi̍h tiāⁿ-tio̍h chai hit ê goân-in.
 
 > **【全漢對照】**
-> **脾腫**：脾臟會腫（第 485 圖）。佇熱天的所在是特別的病。有時是對定定起熱，無食 *quinina*（奎寧）醫治；也有時是對別款的因端，無甚麼定著知彼個原因。
+> **脾腫**：脾臟會腫（第 485 圖）。佇熱天的所在是特別的病。有時是對定定起熱，無食 *quinina*（奎寧）醫治；也有時是對別款的因端，無甚麼定著知彼个原因。
 
 ---
 
@@ -470,7 +470,7 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 **Chèng-chōng**: Tāi-seng hoat-jia̍t; chit ê jia̍t ū-sî khah tāng, chia̍h *quinina* bô sím-mi̍h kong-hāu. Hit sî koaⁿ-chōng kap pî-chōng ē piàn-tōa. Lâng nā hó, ū-sî pî iû-goân ē tām-po̍h chéng. Nā kú ē pîn-hiat, khah sán, lâu phīⁿ-khang huih, iā ū-sî ē siⁿ lâi-tī-hu̍t.
 
 > **【全漢對照】**
-> **症狀**：代先發熱；此個熱有時較重，食 *quinina* 無甚麼功效。彼時肝臟佮脾臟會變大。人若好，有時脾猶原會淡薄腫。若久會貧血，較瘦，流鼻孔血，也有時會生癩疒核。
+> **症狀**：代先發熱；此个熱有時較重，食 *quinina* 無甚麼功效。彼時肝臟佮脾臟會變大。人若好，有時脾猶原會淡薄腫。若久會貧血，較瘦，流鼻孔血，也有時會生癩疒核。
 
 ---
 
@@ -488,7 +488,7 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 **Chhú-e̍k**: Chhú-e̍k sī thoân-jiám pīⁿ ê chi̍t-ê. Ū nñg khoán chiū-sī lîm-pa-chôaⁿ chhú-e̍k, kap hì chhú-e̍k.
 
 > **【全漢對照】**
-> **鼠疫**：鼠疫是傳染病的一個。有兩款就是淋巴泉鼠疫，佮肺鼠疫。
+> **鼠疫**：鼠疫是傳染病的一个。有兩款就是淋巴泉鼠疫，佮肺鼠疫。
 
 ---
 
@@ -506,7 +506,7 @@ Si̍t-bu̍t: M̄-thang chia̍h pn̄g. Tio̍h chia̍h tāu-á, mī-sòaⁿ, ti-ba
 Koh tī pa̍t-ê pèng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ Hēng-toān 4: 12).
 
 > **【全漢對照】**
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4：12）。
+> 閣佇別个並無拯救；因為佇天下，無賞賜別的名佇人的中間，予咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 634 End -->
 
@@ -588,7 +588,7 @@ chai-lâng, ài áu-thò͘, me̍h-pho̍k khah bô la̍t. Ū-sî ōe pīⁿ-chí�
 Ū-hông-hoat: Joa̍h-thiⁿ beh chòe kang ê sî, thàu-chá sī tē it hó, tiong-tàu-sî chiū m̄-thang; hit-sî lâi hioh-khùn khah hó. Nā chhut tī put-tek-í, chiū ti̍h sî-siông hioh-khùn. M̄-thang chia̍h chiú; nā chhù-ta ti̍h lim léng-kún-chúi. Ti̍h ēng pe̍h á-sī le̍k-sek ê pò͘ chòe tà ê ji̍t-sòaⁿ lâi jia; nā bô hit-ê, ēng hō͘-sòaⁿ iā hó. Ti̍h tì chhó chòe ê bō-á, hō͘ thâu-khak bē kè ji̍t. Só́ chhēng ê i-chhiūⁿ ti̍h khin-phiò-ê. Kiâⁿ lō͘ ê sî thâu-khak, ām-kún, chiah-ê só͘-chāi ti̍h ēng léng-tâm-pò͘ tīⁿ-teh, á-sī sî-siông ēng léng-chúi koàn-ak hō͘ i liâng-léng.
 
 > **【全漢對照】**
-> **預防法**：熱天欲做工的時，透早是第一好，中晝時就不通；彼時來歇睏較好。若出佇不得已，就著時常歇睏。不通食酒；若喙焦著啉冷滾水。著用白抑是綠色的布做罩的日遮（日傘）來遮；若無彼個，用雨遮亦好。著戴草做的帽仔，予頭殼袂過日。所穿的衣裳著輕飄的。行路的時頭殼、頷頸，諸個所在著用冷濕布疪咧（貼咧），抑是時常用冷水灌渥予伊涼冷。
+> **預防法**：熱天欲做工的時，透早是第一好，中晝時就不通；彼時來歇睏較好。若出佇不得已，就著時常歇睏。不通食酒；若喙焦著啉冷滾水。著用白抑是綠色的布做罩的日遮（日傘）來遮；若無彼个，用雨遮亦好。著戴草做的帽仔，予頭殼袂過日。所穿的衣裳著輕飄的。行路的時頭殼、頷頸，諸个所在著用冷濕布疪咧（貼咧），抑是時常用冷水灌渥予伊涼冷。
 
 ---
 
@@ -614,7 +614,7 @@ Chit hō pīⁿ tī jia̍t-tài tōe, ta̍k só͘-chāi khah-chōe ū. Tī Tâi-
 Cháp-jī-chí-tn̂g-thâng ê hêng-thé sī îⁿ-îⁿ, kang-ê 10 mm., bú-ê 10 chì 18 mm. tn̂g, (tē 486 tô͘). I ê thâu
 
 > **【全漢對照】**
-> **十二指腸蟲病**（*Ankylostomiasis*）：這號病的原因，是腸內有一款特別的蟲，叫做十二指腸蟲（*ankylostomum duodenale*）。這號病幾若百年前就有ê。佇 1838 年有一個醫生代先闡明這號蟲的款式。佇 1853 年有人知實在這號病是及這款蟲有干涉。對 20 年前到今佇幾若國有開真濟錢來驅除這號蟲。
+> **十二指腸蟲病**（*Ankylostomiasis*）：這號病的原因，是腸內有一款特別的蟲，叫做十二指腸蟲（*ankylostomum duodenale*）。這號病幾若百年前就有ê。佇 1838 年有一个醫生代先闡明這號蟲的款式。佇 1853 年有人知實在這號病是及這款蟲有干涉。對 20 年前到今佇幾若國有開真濟錢來驅除這號蟲。
 > 
 > 這號病佇熱帶地，逐所在較濟有。佇台灣不止濟。
 > 
@@ -650,7 +650,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 ū làk ê kau, ná chhin-chhiūⁿ chhùi-khí ê khoán-sit (tē 487 tô͘).
 
 > **【全漢對照】**
-> 有六個溝，若親像齒齒的款式（第 487 圖）。
+> 有六个溝，若親像齒齒的款式（第 487 圖）。
 
 ---
 
@@ -659,7 +659,7 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 Nñg ê khoán-sit, chhin-chhiūⁿ koe-nñg-hêng (tē 465 tô͘). Chiah ê nñg siông-siông chham tī pīⁿ-lâng ê pùn lâi hā-chhut. Pīⁿ-lâng nā jiám-tióh khah tāng-ê, bat ū chi̍t lâng chi̍t pái pâi-chhut sì-pah-bān lia̍p (Osler). Nñg hā-chhut liáu-āu, tī un-sip (70° F.—90° F., 21°C.—32°C.) ê só͘-chāi, khoài-khoài chhut sòe-sòe ê iù-thâng (幼蟲, larva). Chiah ê iù-thâng koh sì gō͘ ji̍t ē jiám-tióh pa̍t lâng. Thâng ê thoân-jiám, khah-chē sī tùi phê-hu; tùi chhùi iā ē, chóng-sī khah hán-tit.
 
 > **【全漢對照】**
-> 卵的款式，親像雞卵形（第 465 圖）。諸個卵常常參佇病人的糞來下出。病人若染著較重的，曾有一人一次排出四百萬粒 (Osler)。卵下出了後，佇溫濕（70° F.—90° F., 21°C.—32°C.）的所在，快快出細細的幼蟲（幼蟲，larva）。諸個幼蟲閣四五日會染著別人。蟲的傳染，較多是對皮膚；對嘴亦會，總是較罕得。
+> 卵的款式，親像雞卵形（第 465 圖）。諸个卵常常參佇病人的糞來下出。病人若染著較重的，曾有一人一次排出四百萬粒 (Osler)。卵下出了後，佇溫濕（70° F.—90° F., 21°C.—32°C.）的所在，快快出細細的幼蟲（幼蟲，larva）。諸个幼蟲閣四五日會染著別人。蟲的傳染，較多是對皮膚；對嘴亦會，總是較罕得。
 
 ---
 
@@ -713,7 +713,7 @@ lâi, só͘-í lâng kiò chit hō thâng chòe huih-thâng. Tùi án-ni lâng �
 Chèng-chōng: Sī pîn-hiat-ê; sin-thé lám, ū-sî sán, bô la̍t; phê n̂g-sek, ū-sî kha hap kha-chíng-thâu-á ē hoat lia̍p-á. Siau-hòa-pu̍t-liōng; ū-sî chiah ê pīⁿ-lâng ài chia̍h thô͘, chóa, chhiⁿ bí.
 
 > **【全漢對照】**
-> 症狀：是貧血的；身體荏，有時瘦，無力；皮黃色，有時腳合腳指頭仔會發粒仔。消化不良；有時諸個病人愛食事、紙、生米。
+> 症狀：是貧血的；身體荏，有時瘦，無力；皮黃色，有時腳合腳指頭仔會發粒仔。消化不良；有時諸个病人愛食事、紙、生米。
 
 ---
 
@@ -771,7 +771,7 @@ Ióh-bu̍t tī-liâu-hoat: Ū nñg khoán ê ióh sî-siông ēng-ê, chiū-sī 
 Hiān-kim só͘ chûn-ê, chiū-sī sìn, ǹg-bāng, jîn-ài, chí saⁿ hāng, kî-tiong tē it tōa-ê, sī jîn-ài (I Ko-lîm-tō 13: 13).
 
 > **【全漢對照】**
-> 現今所存的，就是信、向望、仁愛，只三項，其中第一大個，是仁愛（哥林多前書 13：13）。
+> 現今所存的，就是信、向望、仁愛，只三項，其中第一大个，是仁愛（哥林多前書 13：13）。
 
 <!-- Page 638 End -->
 

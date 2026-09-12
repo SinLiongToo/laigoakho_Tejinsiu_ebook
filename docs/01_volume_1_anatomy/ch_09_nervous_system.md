@@ -49,7 +49,7 @@ I. Tiong-chhu-khì-koan chiū-sī náu-chhé (腦髓, *brain*), kap chek-chhé (
 II. Thoân-tō-khì sī sîn-keng-chhiam-î lâi chiaⁿ-ê, (ū-sî kiò-chòe náu-kun, náu-sòaⁿ, *nerve*). Tī chiah-ê ê tiong-kan ū-ê thoân chhì-kek kàu tiong-chhu-khì, ū-ê sàng bēng-lēng kàu bé-liu, chhin-chhiūⁿ tiān-sìn-sòaⁿ ê khoán (tē 93 tô͘).
 
 > **【全漢對照】**
-> 二、傳道器是神經纖維來成的，（有時叫做腦筋、腦線，*nerve*）。佇諸個的中間有的傳刺戟到中樞器，有的送命令到尾溜，親像電信線的款（第 93 圖）。
+> 二、傳道器是神經纖維來成的，（有時叫做腦筋、腦線，*nerve*）。佇諸个的中間有的傳刺戟到中樞器，有的送命令到尾溜，親像電信線的款（第 93 圖）。
 
 ---
 
@@ -92,7 +92,7 @@ Tē 92 tô:—Sîn-keng-sòe-pau : 1, sîn-keng-chat-sòe-pau ê chhiū-ki-chōn
 thiaⁿ, lâi kám-siū kiok-pō͘ ê chhì-kek. Chiah-ê chhì-kek sī chhin-chhiūⁿ peh-sìⁿ jiáu-loān á-sī hoaⁿ-hí, á-sī ūi-tio̍h sím-mi̍h tāi-chì beh jip pín ; i ê chhì-kek, seng kàu thiaⁿ, chiū-sī chiong-khì ; chiah keng-kè thoân-tō-khì, chiah sàng kàu tiong-chhu-khì. Chiong-khì sī teh chòe chit hō ê lō͘-ēng, chhin-chhiūⁿ ngó͘-koan-khì hit khoán-ê.
 
 > **【全漢對照】**
-> 廳，來感受局部的刺激。諸個刺激是親像百姓攪亂抑是歡喜，抑是為著甚麼代誌欲入稟；伊的刺激，先到廳，就是終器；才經過傳導器，才送到中樞器。終器是咧做這號的用路，親像五官器彼款的。
+> 廳，來感受局部的刺激。諸个刺激是親像百姓攪亂抑是歡喜，抑是為著甚麼代誌欲入稟；伊的刺激，先到廳，就是終器；才經過傳導器，才送到中樞器。終器是咧做這號的用路，親像五官器彼款的。
 
 ---
 
@@ -101,7 +101,7 @@ thiaⁿ, lâi kám-siū kiok-pō͘ ê chhì-kek. Chiah-ê chhì-kek sī chhin-ch
 Náu kap chek-chhé thang pí-phēng chhin-chhiūⁿ kòng tiān ê lâng, tī tiān-pò-kio̍k, iā sîn-keng chhin-chhiūⁿ tiān-sòaⁿ ; tùi tiān-pò-kio̍k sì-kòe thoân kàu ta̍k só͘-chāi. Tùi gōa-bīn hit ê lâng siū tiān-pò kóng-khí gōa-bīn ê sū ; iā i thang kòng tiān-pò, kàng bēng-lēng kah gōa-bīn ê lâng tio̍h chòe tāi-chì.
 
 > **【全漢對照】**
-> 腦佮脊髓通比評親像摃電的人，佇電報局，也神經親像電線；對電報局四界傳到逐所在。對外面彼個人受電報講起外面的事；也伊通摃電報，降命令給外面的人著做代誌。
+> 腦佮脊髓通比評親像摃電的人，佇電報局，也神經親像電線；對電報局四界傳到逐所在。對外面彼个人受電報講起外面的事；也伊通摃電報，降命令給外面的人著做代誌。
 
 ---
 
@@ -134,7 +134,7 @@ Sîn-keng-cho͘-chit sī sîn-keng sòe-pau, kap sîn-keng-chhiam-î, í-kip chi
 Chiah ê sîn-keng sī tùi náu-chhé kap chek-chhé hun chhut--ê ; sī chin chōe ê sîn-keng-chhiam-î chū-chip saⁿ-ha̍p lâi chiâⁿ, kàu tī sin-thé ta̍k só͘-chāi, chiām-chiām hun, khì kàu hō͘ ba̍k-chiu só͘ khòaⁿ bōe-tio̍h ê chhiam-si (*nerve fibrils*). Iā hun-pò͘ tī kúi-nā khoán ê ki-koan-tiong, lâi chiap-liân chiong-khì (tē 93 tô͘).
 
 > **【全漢對照】**
-> 諸個神經是對腦髓佮脊髓分出的；是真多的神經纖維聚集相合來成，到佇身體逐所在，漸漸分，去到互目睭所看袂著的纖絲（*nerve fibrils*）。也分布佇幾若款的器官中，來接連終器（第 93 圖）。
+> 諸个神經是對腦髓佮脊髓分出的；是真多的神經纖維聚集相合來成，到佇身體逐所在，漸漸分，去到互目睭所看袂著的纖絲（*nerve fibrils*）。也分布佇幾若款的器官中，來接連終器（第 93 圖）。
 
 ---
 
@@ -175,7 +175,7 @@ teh (tē 94 tô͘); tē it têng sī me̍h-lo̍k-mo̍͘h (脈絡膜, *pia mater*
 
 > **【全漢對照】**
 > **［脈絡膜］**
-> 咧（第 94 圖）；第一層是脈絡膜（脈絡膜，*pia mater*）。這層佇彼盡內面佮腦髓相連，綴腦髓的彎曲彼個細面包伊。
+> 咧（第 94 圖）；第一層是脈絡膜（脈絡膜，*pia mater*）。這層佇彼盡內面佮腦髓相連，綴腦髓的彎曲彼个細面包伊。
 
 ---
 
@@ -191,7 +191,7 @@ Tē jī têng sī ti-tu-mo̍͘h (蜘蛛膜, *arachnoid*). Chit têng sī chi̍t 
 
 > **【全漢對照】**
 > **［蜘蛛膜］**
-> 第二層是蜘蛛膜（蜘蛛膜，*arachnoid*）。這層是一種軟潤的膜；會生津液名叫腦脊髓液（腦脊髓液，*cerebro-spinal fluid*）。彼個津液常常佇腦底裡，也有佇頭殼－
+> 第二層是蜘蛛膜（蜘蛛膜，*arachnoid*）。這層是一種軟潤的膜；會生津液名叫腦脊髓液（腦脊髓液，*cerebro-spinal fluid*）。彼个津液常常佇腦底裡，也有佇頭殼－
 
 <!-- Page 134 End -->
 
@@ -248,7 +248,7 @@ Tē saⁿ têng sī kēng-mo̍h (硬膜, *dura mater*) Chit têng sī tē it kā
 I. Tōa-náu tī thâu-khak-khang ê hit téng-bīn, chiàm chòe tōa pō͘-hūn ê mi̍h, sī chó-iū ê tōa-náu-pòan-kiû lâi chiâⁿ-ê. Chit ê chó-iū pòan-kiû ê tiong-ng, ū chi̍t tiâu tit-tit ê lih-phāng, chiū-sī tùi chêng-bīn thàu kàu āu-bīn; chóng-sī hit ê phāng m̄-sī keh-tn̄g, sī ū chōe-chōe sin-keng-chhe-chit saⁿ liân-teh. Náu-chhé tùi gōa-bīn lâi khòaⁿ, ū chōe-chōe hôe-hûn khut-khut khiok-khiok chhin-
 
 > **【全漢對照】**
-> I. 大腦佇頭殼腔的彼頂面，佔做大部分的物，是左右的大腦半球來成的。這個左右半球的中央，有一條直直的裂縫，就是對前面透到後面；總是指彼個縫毋是隔斷，是有多多神經纖維質（縒質）相連咧。腦髓對外面來看，有多多迴紋曲曲彎彎親……
+> I. 大腦佇頭殼腔的彼頂面，佔做大部分的物，是左右的大腦半球來成的。這个左右半球的中央，有一條直直的裂縫，就是對前面透到後面；總是指彼个縫毋是隔斷，是有多多神經纖維質（縒質）相連咧。腦髓對外面來看，有多多迴紋曲曲彎彎親……
 
 ---
 
@@ -299,7 +299,7 @@ Tiong-náu tī téng-bīn kap tōa-náu kiat-liân; tī āu-bīn kap sió-náu k
 > **［中腦］**  
 > II. 中腦的所在，是在大腦的下面旁。
 > 
-> 中腦在頂面佮大腦結連；在後面佮小腦結連；下底佮延髓結連；所以有時名叫做法腦橋（第 95 圖）。腦的外面是灰膚色的組織，內面是白的組織。在腦內有五個孔，名叫做法腦室（*ventricle*）。在腦室內有腦脊髓液（*cerebro-spinal fluid*）。
+> 中腦在頂面佮大腦結連；在後面佮小腦結連；下底佮延髓結連；所以有時名叫做法腦橋（第 95 圖）。腦的外面是灰膚色的組織，內面是白的組織。在腦內有五个孔，名叫做法腦室（*ventricle*）。在腦室內有腦脊髓液（*cerebro-spinal fluid*）。
 
 ---
 
@@ -317,7 +317,7 @@ III. Sió-náu sī tī tōa-náu ê āu-bīn ê ē-pō͘, chó-iū ê sió-náu-
 
 > **【全漢對照】**  
 > **［小腦］**  
-> III. 小腦是在大腦的後面的下部，左右的小腦半球來成的。小腦的頂面部，結連在頂面的組織，欲去大腦的所在。小腦的中央部，結連在中腦；下面部，結連在延髓。這個結連的組織，
+> III. 小腦是在大腦的後面的下部，左右的小腦半球來成的。小腦的頂面部，結連在頂面的組織，欲去大腦的所在。小腦的中央部，結連在中腦；下面部，結連在延髓。這个結連的組織，
 
 <!-- Page 136 End -->
 
@@ -349,7 +349,7 @@ kiò chòe sió-náu-kha (小腦脚, cerebellar peduncle), ū saⁿ tuì kha kia
 IV. Iân-chhé sī chek-chhé kap tiong-náu chiap-liân ê só͘-chāi, sī chha-put-to chi̍t chhùn tn̂g. Sîn-keng-chhiām-î tuì náu-chhé thàu tuì ē-bīn, kàu iân-chhé. Tī iân-chhé ê sî, chiah ê sîn-keng sio phoah, hun tuì ē-bīn lo̍h-lâi ; tī tò-pêng-ê kiâⁿ tuì iū-pêng khì, tī iū-pêng-ê kiâⁿ tuì tò-pêng khì. Só͘-í nā tò-pêng ê náu siū-siong, chiū chiaⁿ-pêng ê seng-khu poàn-sin-put-sūi, (半身不遂), chiū-sī seng-khu chi̍t pòaⁿ bōe tín-tāng.
 
 > **【全漢對照】**
-> IV. 延髓是脊髓佮中腦接連的所在，是差不多一寸長。神經纖維對腦髓透對下面，到延髓。佇延髓的時，諸個神經相撖（交叉），分對下面落來；佇倒爿的行對右爿去，佇右爿的行對倒爿去。所以若倒爿的腦受傷，就正爿的生成半身不遂 （半身不遂），就是身軀一半𣍐振動。
+> IV. 延髓是脊髓佮中腦接連的所在，是差不多一寸長。神經纖維對腦髓透對下面，到延髓。佇延髓的時，諸个神經相撖（交叉），分對下面落來；佇倒爿的行對右爿去，佇右爿的行對倒爿去。所以若倒爿的腦受傷，就正爿的生成半身不遂 （半身不遂），就是身軀一半𣍐振動。
 
 ---
 
@@ -412,14 +412,14 @@ Chīn-tiong ê sim, sī Siōng-tè ê chún-chín, m̄-thang lia̍h-chòe sió-k
 ...phāng, tī āu-bīn iā ū koh chi̍t tiâu li̍h-phāng, kiò-chòe chêng-āu-chhiòng-lia̍t (前後縱裂, *anterior and posterior median fissures*). Chiah ê phāng pun chek-chhé chòe chó-iū n̄g pêng. Chiah ê li̍h-phāng m̄ sī keh-tn̄g (tē 96 tô͘).
 
 > **【全漢對照】**  
-> ……縫，佇後面亦有閣一條裂縫，叫做前後縱裂（前後縱裂，*anterior and posterior median fissures*）。諸個縫分脊髓做左右兩爿。諸個裂縫毋是隔斷（第 96 圖）。
+> ……縫，佇後面亦有閣一條裂縫，叫做前後縱裂（前後縱裂，*anterior and posterior median fissures*）。諸个縫分脊髓做左右兩爿。諸个裂縫毋是隔斷（第 96 圖）。
 
 ---
 
 Tī chek-chhé ê tiong-ng, ū chi̍t ê khang kap náu-sek saⁿ-thàu. Tī ti-tu-mó̍h kap mèh-lo̍k-mó̍h ê tiong-ng ū náu-chek-chhé-e̍k, teh pó-hō͘ chek-chhé, hō͘ i bōe-ōe iô-tāng (tē 94, 97 tô͘).
 
 > **【全漢對照】**  
-> 佇脊髓的中央，有一個孔佮腦室相透。佇蜘蛛膜佮脈絡膜的中央有腦脊髓液，咧保護脊髓，予伊𣍐會搖動（第 94, 97 圖）。
+> 佇脊髓的中央，有一个孔佮腦室相透。佇蜘蛛膜佮脈絡膜的中央有腦脊髓液，咧保護脊髓，予伊𣍐會搖動（第 94, 97 圖）。
 
 ---
 
@@ -561,7 +561,7 @@ XII. Tē cha̍p-jī tùi, kàu chhùi-chih, hō͘ i ē ūn-tōng.
 Nā khòaⁿ tē 96 tô͘ ē chai chek-chhé ê lāi-bīn ū chit ê H-jī hêng ê cho͘-chit; chit-ê chiū-sī hé-hu-sek ê cho͘-chit. Thâu-chêng āu-bīn lióng pêng ū kak, kiò-chòe chêng-kak, āu-kak. Tùi chêng-kak ū hoat chhut chek-chhé-sîn-keng ê chêng-kun; tùi āu-kak ū hoat chhut chek-chhé-sîn-keng ê āu-kun. Chit nn̄g tiâu chêng āu kun, ē liâm-piⁿ sio-ha̍p, chòe chit tiâu kong ê sîn-keng, iā chit tiâu kong-ê, liâm-piⁿ koh pun chêng-chi, hō͘-chi, sì-kòe thoaⁿ, kàu thong seng-khu (tē 99, 93 tô͘).
 
 > **【全漢對照】**
-> 若看第 96 圖會知脊髓的內面有一個 H 字形的組織；這個就是灰色（灰白質）的組織。頭前后面兩旁有角，叫做前角、後角。對前角有發出脊髓神經的前根；對後角有發出脊髓神經的後根。這兩條前後根，會連鞭相合，做一條公的神經，也這一條公的，連鞭閣分前支、後支，四界攤，到通身軀（第 99、93 圖）。
+> 若看第 96 圖會知脊髓的內面有一个 H 字形的組織；這个就是灰色（灰白質）的組織。頭前后面兩旁有角，叫做前角、後角。對前角有發出脊髓神經的前根；對後角有發出脊髓神經的後根。這兩條前後根，會連鞭相合，做一條公的神經，也這一條公的，連鞭閣分前支、後支，四界攤，到通身軀（第 99、93 圖）。
 
 ---
 
@@ -570,7 +570,7 @@ Nā khòaⁿ tē 96 tô͘ ē chai chek-chhé ê lāi-bīn ū chit ê H-jī hêng
 Tē 99 tô͘.—Kēng-chek-chhé kap sîn-keng ê kun kúi-nā ê tô͘: A, chiū-sī tùi thâu-chêng kā i khòaⁿ, tī chia sîn-keng ê chêng-kun ū koah tn̄g (chiàⁿ-pêng); B, tùi chiàⁿ-pêng-piⁿ kā i khòaⁿ; C, téng-bīn hoâiⁿ-tn̄g-bīn; D, sîn-keng kun kap sîn-keng-chat tùi ē-bīn kā i khòaⁿ: 1, chêng-chhiòng-lia̍t; 2, āu-chhiòng-lia̍t; 3, chêng-kun teh chhut ê pó͘-ūi; 4, āu-kun teh jip ê pō͘-ūi; 5, chêng-kun; 5', A, chêng-kun koah-tn̄g; 6, āu-kun, i-ê chhiam-î teh jip 6', chiū-sī sîn-keng-chat; 7, sîn-keng ê chêng-chi; 7', sîn-keng ê hō͘-chi. (Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.)
 
 > **【全漢對照】**
-> 第 99 圖。—頸脊髓佮神經的根幾若個圖：A，就是對頭前共伊看，佇遮神經的前根有割斷（正旁）；B，對正旁邊共伊看；C，頂面橫斷面；D，神經根佮神經節對下面共伊看：1，前縱裂；2，後縱裂；3，前根咧出的部位；4，後根咧入的部位；5，前根；5'，A，前根割斷；6，後根，伊的纖維咧入 6'，就是神經節；7，神經的前支；7'，神經的後支。（Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.）
+> 第 99 圖。—頸脊髓佮神經的根幾若个圖：A，就是對頭前共伊看，佇遮神經的前根有割斷（正旁）；B，對正旁邊共伊看；C，頂面橫斷面；D，神經根佮神經節對下面共伊看：1，前縱裂；2，後縱裂；3，前根咧出的部位；4，後根咧入的部位；5，前根；5'，A，前根割斷；6，後根，伊的纖維咧入 6'，就是神經節；7，神經的前支；7'，神經的後支。（Allen Thomson, from Lewis' “Anatomy and Physiology for Nurses,” by permission of W. B. Saunders Co., publishers.）
 
 <!-- Page 140 End -->
 
@@ -587,7 +587,7 @@ Chiah ê sîn-keng tùi chek-chhé só͘ hoat-chhut--ê, kiò-chòe chek-chhé-s
 > **知覺、佮運動神經**
 > 
 > *［側標：脊髓神經］*
-> 諸個神經對脊髓所發出的，叫做脊髓神經。脊髓神經有三十一對，諸個對後角發出的就是管知覺的神經；對前角發出的就是咧管運動的神經。諸個神經是親像線，四界攤，卡通身軀。
+> 諸个神經對脊髓所發出的，叫做脊髓神經。脊髓神經有三十一對，諸个對後角發出的就是管知覺的神經；對前角發出的就是咧管運動的神經。諸个神經是親像線，四界攤，卡通身軀。
 
 ---
 
@@ -595,7 +595,7 @@ Sîn-keng ū nn̄g khoán chiū-sī ti-kak-sîn-keng (知覺神經, sensory nerv
 
 > **【全漢對照】**
 > *［側標：知覺神經、運動神經］*
-> 神經有兩款就是知覺神經（知覺神經，sensory nerves），佮運動神經（運動神經，motor nerves）。諸個有兩項的路用，一項是對外面來通知腦，予人會覺悟，會知身軀外的事；這號是叫做知覺神經。閣一號會命令筋，予伊會聽人的意思來伸縮；這號叫做運動神經。
+> 神經有兩款就是知覺神經（知覺神經，sensory nerves），佮運動神經（運動神經，motor nerves）。諸个有兩項的路用，一項是對外面來通知腦，予人會覺悟，會知身軀外的事；這號是叫做知覺神經。閣一號會命令筋，予伊會聽人的意思來伸縮；這號叫做運動神經。
 
 ---
 
@@ -603,7 +603,7 @@ Lâng put-lūn beh chòe sím-mi̍h, sī tùi náu tāi-seng chú-ì, sîn-keng 
 
 > **【全漢對照】**
 > *［側標：腦注意］*
-> 人不論欲做甚麼，是對腦代先注意，神經就連鞭傳命令到筋，予伊會聽伊的意思，不論是予伊伸抑縮，無毋聽伊的命令。今設使彼個管某所在之運動神經來割斷，雖然有注意欲予彼所在振動，亦𣍐聽伊；所以會知是對運動神經來傳腦之吩咐，筋就會伸縮。
+> 人不論欲做甚麼，是對腦代先注意，神經就連鞭傳命令到筋，予伊會聽伊的意思，不論是予伊伸抑縮，無毋聽伊的命令。今設使彼个管某所在之運動神經來割斷，雖然有注意欲予彼所在振動，亦𣍐聽伊；所以會知是對運動神經來傳腦之吩咐，筋就會伸縮。
 
 ---
 
@@ -611,14 +611,14 @@ Phê ê lāi-bīn ū sîn-keng chōe-chōe, só͘-í kiám-chháichhiah-tio̍h, 
 
 > **【全漢對照】**
 > *［側標：皮的神經］*
-> 皮的內面有神經多多，所以檢綵（或者）螫著，抑是燒著，抑是不論摸甚麼物，就連鞭會知；今設使彼個管某所在之知覺神經來割斷，就彼所在攏不知痛，不知癢；因為按呢通知彼個知覺神經是傳知覺的刺激。
+> 皮的內面有神經多多，所以檢綵（或者）螫著，抑是燒著，抑是不論摸甚麼物，就連鞭會知；今設使彼个管某所在之知覺神經來割斷，就彼所在攏不知痛，不知癢；因為按呢通知彼个知覺神經是傳知覺的刺激。
 
 ---
 
 Phê ê sîn-keng ōe hun-piat sio-léng, chhō͘-iù, tâm-ta, iáu-kú bōe hun-piat tiⁿ, kiâm, sng, khó͘; chiah-ê sī ha̍p tī chhùi-chih ê sîn-keng só͘ ōe hun-piat--ê, kiò-chòe bī-sîn-keng (味神經). Hit ê ti-kak-sîn-keng ōe pun kúi-nā hō--ê, chhin-chhiūⁿ tī ba̍k-chiu-lāi ê sîn-keng ōe hun-piat kng-àm, hō͘ lâng ōe khòaⁿ-kìⁿ, kiò-chòe sī-sîn-keng
 
 > **【全漢對照】**
-> 皮的神經會分別燒冷、粗幼、澹焦，猶久𣍐分別甜、鹹、酸、苦；諸個是合佇嘴舌的神經所會分別的，叫做味神經（味神經）。彼個知覺神經會分幾若號的，親像佇目睭內的神經會分別光暗，予人都看見，叫做視神經
+> 皮的神經會分別燒冷、粗幼、澹焦，猶久𣍐分別甜、鹹、酸、苦；諸个是合佇嘴舌的神經所會分別的，叫做味神經（味神經）。彼个知覺神經會分幾若號的，親像佇目睭內的神經會分別光暗，予人都看見，叫做視神經
 
 <!-- Page 141 End -->
 
@@ -632,7 +632,7 @@ Phê ê sîn-keng ōe hun-piat sio-léng, chhō͘-iù, tâm-ta, iáu-kú bōe hu
 (視神經)；tī hī-khang-ê, sī hun-piat siaⁿ-im, hō͘ lâng ōe thiaⁿ-kìⁿ, kiò-chòe thèng-sîn-keng, (聽神經)；tī phīⁿ-khang-lāi-ê, sī hun-piat phang-chhàu, kiò-chòe hiù-sîn-keng (嗅神經)；tī chhùi-chih-ê, hō͘ lâng ōe chai kiâm-chiáⁿ, sng, khó͘, kiò-chòe bī-sîn-keng；tī phê-ē hō͘ lâng nā bong-tio̍h mi̍h, ōe hun-piat sī tōa-sòe, chho͘-iù, sio-léng, khin-tāng. Chiah-ê lóng-sī iàu-kín hō͘ lâng chai seng-khu-gōa ê tāi-chì.
 
 > **【全漢對照】**
-> （視神經）；佇耳孔的，是分別聲音，予人會聽見，叫做聽神經，（聽神經）；佇鼻孔內的，是分別芳臭，叫做嗅神經（嗅神經）；佇嘴舌的，予人會知鹹淡、酸、苦，叫做味神經；佇皮下予人若摸著物，會分別是大細、粗幼、燒冷、輕重。諸個攏是要緊予人知身軀外的大誌。
+> （視神經）；佇耳孔的，是分別聲音，予人會聽見，叫做聽神經，（聽神經）；佇鼻孔內的，是分別芳臭，叫做嗅神經（嗅神經）；佇嘴舌的，予人會知鹹淡、酸、苦，叫做味神經；佇皮下予人若摸著物，會分別是大細、粗幼、燒冷、輕重。諸个攏是要緊予人知身軀外的大誌。
 
 ---
 
@@ -726,14 +726,14 @@ Lâng ê chhiú tín-tāng ê sî, ū chit ê chhì-kek sī tùi tōa-náu hoat.
 
 > **【全漢對照】**
 > **神經刺激的路線 (127)**
-> 人的手振動（活動）的時，有一個刺激是對大腦發。此個刺激所行的路，就是大腦、中腦、延髓（佇延髓的內面，諸個神經過旁），脊髓、脊髓的前角、脊髓神經的前根、手筋肉的神經，到神經的尾溜（第 99、100 圖。）
+> 人的手振動（活動）的時，有一个刺激是對大腦發。此个刺激所行的路，就是大腦、中腦、延髓（佇延髓的內面，諸个神經過旁），脊髓、脊髓的前角、脊髓神經的前根、手筋肉的神經，到神經的尾溜（第 99、100 圖。）
 
 ---
 
 Chiah ê chhì-kek, nā tùi tōa-náu iū-pêng khí, seng-khu chó-pêng ōe tín-tāng; iā nā tùi tōa-náu chó-pêng khí, seng-khu iū-pêng ōe tín-tāng. Chit-ê sī in-ūi ūn-tōng-sîn-keng teh kè pêng (*crossing of the motor nerve fibers in the medulla*). Iū-chhiú nā chha̍k-tio̍h, hit ê thiàⁿ ê chhì-kek ū thoân kàu tōa-náu, m̄-sī iū-pêng, sī kàu chó-pêng. Chiah ê ti-kak ê chhì-kek teh chiūⁿ kàu tōa-náu ê sî, tī chek-chhé kap iân-chhé ê lāi-bīn ū keng-kè tùi hit pêng chiūⁿ-khì.
 
 > **【全漢對照】**
-> 諸個刺激，若對大腦右旁起，身軀左旁會振動；也若對大腦左旁起，身軀右旁會振動。此個是因為運動神經咧過旁（*crossing of the motor nerve fibers in the medulla*，延髓運動神經纖維交叉）。右手若揬著（刺著），彼個痛的刺激有傳到大腦，呣是右旁，是到左旁。諸個知覺的刺激咧上去到大腦的時，佇脊髓佮延髓的內面有經過對彼旁上去。
+> 諸个刺激，若對大腦右旁起，身軀左旁會振動；也若對大腦左旁起，身軀右旁會振動。此个是因為運動神經咧過旁（*crossing of the motor nerve fibers in the medulla*，延髓運動神經纖維交叉）。右手若揬著（刺著），彼个痛的刺激有傳到大腦，呣是右旁，是到左旁。諸个知覺的刺激咧上去到大腦的時，佇脊髓佮延髓的內面有經過對彼旁上去。
 
 ---
 
@@ -748,7 +748,7 @@ Tē 100 tô͘.—Ūn-tōng-sîn-keng, ti-kak-sîn-keng, só͘ tio̍h keng-kè ê
 Khòaⁿ tē 100 tô͘ chiū ōe chai ūn-tōng ê chhì-kek, kap ti-kak ê chhì-kek só͘ tio̍h kiâⁿ ê lō͘, iā só͘ tio̍h keng-kè ê só͘-chāi. Hit ê khah tōa tiâu o͘-o͘-ê, sī ūn-tōng chhì-kek ê lō͘, hiah ê chi̍t tiám chi̍t tiám khah sòe-ê, sī ti-kak chhì-kek ê lō͘. Hiah ê chìⁿ teh pí hō͘ lâng chai, ūn-tōng ê chhì-kek teh lo̍h-kē, ti-kak ê chhì-kek teh chiūⁿ koâiⁿ.
 
 > **【全漢對照】**
-> 看第 100 圖就會知運動的刺激，佮知覺的刺激所得行的路，也所得經過的所在。彼個較大條烏烏的，是運動刺激的路，遐的一點一點較細的，是知覺刺激的路。遐的箭（箭頭）咧比予人知，運動的刺激咧落低，知覺的刺激咧上高。
+> 看第 100 圖就會知運動的刺激，佮知覺的刺激所得行的路，也所得經過的所在。彼个較大條烏烏的，是運動刺激的路，遐的一點一點較細的，是知覺刺激的路。遐的箭（箭頭）咧比予人知，運動的刺激咧落低，知覺的刺激咧上高。
 
 ---
 
@@ -784,7 +784,7 @@ Hoán-èng-chok-iōng（反應作用, Reflex action）: Chit-ê chiū-sī chek-c
 
 > **【全漢對照】**
 > **反應作用**
-> 反應作用（反應作用，Reflex action）：這個就是脊髓閣一項的作用，有時叫做反射作用。膝蓋骨的下底，頭前有一條筋，若共伊摃一下，跤就會家己會小可踢進前。這個毋是人的主意才按呢。這個理，是摃的刺激，行過知覺神經到脊髓。佇脊髓內，流傳到運動細胞，對遮刺激傳過運動神經，到跤筋肉的神經尾溜，予跤會踢對頭前去。
+> 反應作用（反應作用，Reflex action）：這个就是脊髓閣一項的作用，有時叫做反射作用。膝蓋骨的下底，頭前有一條筋，若共伊摃一下，跤就會家己會小可踢進前。這个毋是人的主意才按呢。這个理，是摃的刺激，行過知覺神經到脊髓。佇脊髓內，流傳到運動細胞，對遮刺激傳過運動神經，到跤筋肉的神經尾溜，予跤會踢對頭前去。
 
 ---
 
@@ -793,7 +793,7 @@ Nā khòaⁿ tē 101 tô͘, chit hō hoán-èng-chok-iōng khah ē hiáu-tit. T�
 *Tē 101 tô͘.—Hoán-èng-chok-iōng ê tô͘: khoàⁿ tē 128 bīn.) From “Watson’s Hand-book for Nurses.”*
 
 > **【全漢對照】**
-> 若看第 101 圖，這號反應作用較會曉得。佇遮 N 是神經細胞。傳刺激到遐就是神經 A。這條神經是對皮膚 S 來。佮神經細胞有閣一條神經相連 E；這條行到筋肉 M。若是皮膚受著刺激，親像刺著、燒著，這個刺激黏鞭傳對神經 A，到細胞 N。細胞受著這個刺激，黏鞭降命令到筋肉 M。這個命令所行的路，就是彼條 E 神經；對按呢彼個筋肉 M，就黏鞭揪起來。神經 A 是知覺神經；神經 E 是運動神經。人若喙內含酸的物，涎泉就黏鞭出涎液較濟；這個也是對反應作用。
+> 若看第 101 圖，這號反應作用較會曉得。佇遮 N 是神經細胞。傳刺激到遐就是神經 A。這條神經是對皮膚 S 來。佮神經細胞有閣一條神經相連 E；這條行到筋肉 M。若是皮膚受著刺激，親像刺著、燒著，這个刺激黏鞭傳對神經 A，到細胞 N。細胞受著這个刺激，黏鞭降命令到筋肉 M。這个命令所行的路，就是彼條 E 神經；對按呢彼个筋肉 M，就黏鞭揪起來。神經 A 是知覺神經；神經 E 是運動神經。人若喙內含酸的物，涎泉就黏鞭出涎液較濟；這个也是對反應作用。
 > 
 > *（第 101 圖。—反應作用的圖：看第 128 面。）From “Watson’s Hand-book for Nurses.”*
 
@@ -805,7 +805,7 @@ Khùn, sī sîn-keng tiāⁿ-tio̍h ê sî-kî; hit ê sî-chūn, tiong-chhu-kh�
 
 > **【全漢對照】**
 > **睏眠**
-> 睏，是神經定著的時期；彼個時陣，中樞器官精神的作用暫時停。愛睏的因端，猶未的確知，有幾若個理論：這個是佇腦內的血管有縮倚，予腦內的血
+> 睏，是神經定著的時期；彼个時陣，中樞器官精神的作用暫時停。愛睏的因端，猶未的確知，有幾若个理論：這个是佇腦內的血管有縮倚，予腦內的血
 
 <!-- Page 144 End -->
 
@@ -819,7 +819,7 @@ Khùn, sī sîn-keng tiāⁿ-tio̍h ê sî-kî; hit ê sî-chūn, tiong-chhu-kh�
 khah chió, hō͘ náu chiām-sî pîn-huih (*anaemia*). Ū lâng kóng, chit-ê ê in-toaⁿ sī lâng cheng-sîn ê sî, teh chòe kang, á-sī tha̍k-chheh, bô lō͘-ēng ê mi̍h chhin-chhiūⁿ thòaⁿ-sng, ū chek-chū tī i ê seng-khu-lāi; iā hit ê thòaⁿ-sng nā kè-thâu ōe kám-kek iân-chhé. Iân-chhé ê chok-iōng ê chit hāng sī teh koán-lí huih-kńg, tùi án-ni náu-lāi ê huih-kńg ōe sok-óa, hō͘ huih lī-khui náu, án-ni chiū lâng ōe ài beh khùn. Teh khùn ê sî, hiah-ê bô lō͘-ēng ê mi̍h ū pâi-chhut, iā seng-khu ê la̍t ū chek-chū khah chōe. Tiong-chhu-khì nā ū chu-ióng-liāu kàu-giáh chōe, lâng liâm-piⁿ chiū chhíⁿ.
 
 > **【全漢對照】**
-> 較少，互腦暫時貧血 (*anaemia*)。有人講，這個的原因是人精神的時，咧做工，抑是讀冊，無路用的物親像炭酸，有積聚佇伊的身軀內；也彼個炭酸若過頭會感激延髓。延髓的作用的一項是咧管理血管，對按呢腦內的血管會縮倚，互血離開腦，按呢就人都愛欲困。咧困的時，遐的無路用的物有排出，也身軀的力有積聚較濟。中樞器若有滋養料夠額濟，人連鞭就醒。
+> 較少，互腦暫時貧血 (*anaemia*)。有人講，這个的原因是人精神的時，咧做工，抑是讀冊，無路用的物親像炭酸，有積聚佇伊的身軀內；也彼个炭酸若過頭會感激延髓。延髓的作用的一項是咧管理血管，對按呢腦內的血管會縮倚，互血離開腦，按呢就人都愛欲困。咧困的時，遐的無路用的物有排出，也身軀的力有積聚較濟。中樞器若有滋養料夠額濟，人連鞭就醒。
 
 ---
 

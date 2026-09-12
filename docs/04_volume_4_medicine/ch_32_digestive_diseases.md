@@ -30,7 +30,7 @@ Lūn siau-hòa-khì pīⁿ, khiok sī chin chōe, tī chia bōe thang siông-sè
 > 
 > 【邊註：消化器病】
 > 
-> 論消化器病，卻是真多，佇遮袂當詳細講起，干焦講看護較常抵著的。Hit個佇第4章，已經寫消化器的代誌著代先練習予熟熟，才較會曉得這章內的事。佇遮欲簡省講的病，就是下底所排列的：
+> 論消化器病，卻是真多，佇遮袂當詳細講起，干焦講看護較常抵著的。Hit个佇第4章，已經寫消化器的代誌著代先練習予熟熟，才較會曉得這章內的事。佇遮欲簡省講的病，就是下底所排列的：
 
 ---
 
@@ -122,7 +122,7 @@ Chhùi-lāi-iām : Chhùi-lāi ōe tú-tio̍h kúi-nā khoán ê iām, ōe jiám
 
 > **【全漢對照】**  
 > **【口內炎】**  
-> 口內炎：口內會抵著幾若款的炎，會染著嘴唇、齒岸、喙䫌的粘膜及舌。這號口內的病，叫做口內炎。第一傷重的，就是喙䫌內的粘膜及肉，佇這位有病成死肉；這號死肉叫做壞疽（壞疽，*gangrene*）；亦這號病叫做水癌（水癌，*noma*）。較常是歹養飼的囡仔抵著這號病。若無趕緊用手術，彼個壞疽會到外皮，驚了會害著性命。
+> 口內炎：口內會抵著幾若款的炎，會染著嘴唇、齒岸、喙䫌的粘膜及舌。這號口內的病，叫做口內炎。第一傷重的，就是喙䫌內的粘膜及肉，佇這位有病成死肉；這號死肉叫做壞疽（壞疽，*gangrene*）；亦這號病叫做水癌（水癌，*noma*）。較常是歹養飼的囡仔抵著這號病。若無趕緊用手術，彼个壞疽會到外皮，驚了會害著性命。
 
 ---
 
@@ -132,7 +132,7 @@ Koh chi̍t khoán chiū-sī kià-seng-thâng-sèng chhùi-lāi iām (*thrush, st
 
 > **【全漢對照】**  
 > **【寄生蟲性口內炎】**  
-> 閣一款就是寄生蟲性口內炎 (*thrush, stomatitis parasitica*)。有這號病較常是囡仔才會按呢，就是口內有小白點。彼個緣故，因為牛奶唔好，抑是牛奶罐無清潔，抑是無共囡仔拭嘴互清潔。
+> 閣一款就是寄生蟲性口內炎 (*thrush, stomatitis parasitica*)。有這號病較常是囡仔才會按呢，就是口內有小白點。彼个緣故，因為牛奶唔好，抑是牛奶罐無清潔，抑是無共囡仔拭嘴互清潔。
 
 ---
 
@@ -160,7 +160,7 @@ Hóng-to̍k-sèng chhùi-lāi-iām (汞毒性口內炎, *Mercurial stomatitis*):
 Koh tī pa̍t-ê pèng bô chín-kiù; in-ūi tī thiⁿ-ē, bô siùⁿ-sù pa̍t ê miâ tī lâng ê tiong-kan, hō͘ lán tiàm tī i lâi tit kiù (Sù-tô͘ hēng-toān 4: 12).
 
 > **【全漢對照】**  
-> 閣佇別個並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
+> 閣佇別个並無拯救；因為佇天下，無賞賜別的名佇人的中間，互咱踮佇伊來得救（使徒行傳 4：12）。
 
 <!-- Page 523 End -->
 
@@ -201,7 +201,7 @@ Phîⁿ-thô-chôaⁿ-iām: Phîⁿ-thô-chôaⁿ ū-sî ū kín-kip iām, ū-s�
 Tī-liâu-hoat: Tī bîn-chhng-piⁿ chhòng chi̍t khaⁿ kún-chúi hē-teh hō͘ kún, ēng chi̍t ê chúi-khì suh ji̍p nâ-âu. Ēng sio-tâm-pò͘, pau tī ām-kún nâ-âu ê só͘-chāi, ōe hō͘ i khah khòaⁿ-oa̍h. Ū-sî ēng peng kâm tī chhùi-lāi iā ōe hō͘ khah khòaⁿ-oa̍h. Liû-tōng-si̍t-bu̍t. Ēng sóa-kháu ê io̍h-chúi chhin-chhiūⁿ *borax* kap *glycerinum*. Nā-sī siⁿ lâng-iông, tio̍h chhiat khui. Tāi-piān tio̍h chù-ì. I-seng ū-sî ēng *aspirin*, *sodii salicylas*, hō͘ i chia̍h.
 
 > **【全漢對照】**
-> **治療法**：佇眠床邊創一坎滾水置咧互滾，用一個水氣吸入頷喉。用燒濕布，包佇頷頸頷喉的所在，會互伊較寬活。有時用冰含佇口內也會互較寬活。流動食物。用漱口的藥水親像 *borax*（硼砂）及 *glycerinum*（甘油）。若是生膿瘍，著切開。大便著注意。醫生有時用 *aspirin*，*sodii salicylas*，互伊食。
+> **治療法**：佇眠床邊創一坎滾水置咧互滾，用一个水氣吸入頷喉。用燒濕布，包佇頷頸頷喉的所在，會互伊較寬活。有時用冰含佇口內也會互較寬活。流動食物。用漱口的藥水親像 *borax*（硼砂）及 *glycerinum*（甘油）。若是生膿瘍，著切開。大便著注意。醫生有時用 *aspirin*，*sodii salicylas*，互伊食。
 
 ---
 
@@ -210,7 +210,7 @@ Tī-liâu-hoat: Tī bîn-chhng-piⁿ chhòng chi̍t khaⁿ kún-chúi hē-teh h�
 Ian-thâu-iām: Ian-thâu-iām ū hun kip-sèng-ê kap bān-sèng-ê. Chit ê goân-in chiū-sī lâng kám-mō͘, léng-tio̍h, kóng ōe kè-thâu, chhin-chhiūⁿ ū-sî bo̍k-su siông-siông teh kóng tō-lí; á-sī chòe sió-seng-lí sì-kòe o, hit hō lâng; i ê ian-thâu ōe hoat-iām. Siông-siông ho͘-khip pháiⁿ ê khong-khì, á-sī chia̍h chiú kè-thâu.
 
 > **【全漢對照】**
-> **咽頭炎**：咽頭炎有分急性ê及慢性ê。此個原因就是人感冒、冷著、講話過頭，親像有時牧師常常咧講道理；抑是做小生理四界喝，彼號人；伊的咽頭會發炎。常常呼吸歹的空氣，抑是食酒過頭。
+> **咽頭炎**：咽頭炎有分急性ê及慢性ê。此个原因就是人感冒、冷著、講話過頭，親像有時牧師常常咧講道理；抑是做小生理四界喝，彼號人；伊的咽頭會發炎。常常呼吸歹的空氣，抑是食酒過頭。
 
 ---
 
@@ -256,7 +256,7 @@ Tē 455 tô͘:—Seng-khu-lāi ê chiòng-khì, tùi āu-bīn khòaⁿ ê tô͘:
 Nā-sī kàu án-ni bē chhut siaⁿ, hit ê pīⁿ í-keng liân-lūi-tio̍h âu-thâu.
 
 > **【全漢對照】**  
-> 若是到按呢袂出聲，彼個病已經連累著喉頭。
+> 若是到按呢袂出聲，彼个病已經連累著喉頭。
 
 ---
 
@@ -324,7 +324,7 @@ Lán só͘ tio̍h kiâⁿ-ê bô phat hāng, lâng kap lâng kóng-ōe tio̍h k�
 ...mih iân-kò͘ ūi sit-lo̍h i ê chok-iōng, kiò-chòe siau-hòa-put-liông. Chit ê goân-in ū-sî sī tùi ūi hun-pì ê ūi-e̍k ū koh-iūⁿ, á-sī ūi ê kun-bah sit-lo̍h i ê chok-iōng, á-sī si̍t-bu̍t bô ha̍p-gî, chit khoán kiò-chòe koan-lêng pīⁿ (官能病, functional disease). Nā-sī ūi-nih ū siⁿ chéng-iông, á-sī hoat-iām, ūi-ka-tap-jī hit hō, á-sī siⁿ ūi-iông, iû-goân ū siau-hòa-put-liông ê chèng-chōng. Chit hō pīⁿ kiò-chòe si̍t-chit ê pīⁿ (實質病, organic disease) á-sī ki-chit ê pīⁿ.
 
 > **【全漢對照】**  
-> ……物因故胃失落伊的作用，叫做消化不良。此個原因有時是對胃分泌的胃液有各樣（異樣），抑是胃的筋肉失落伊的作用，抑是食物無合宜，此款叫做官能病（官能病，functional disease）。若是胃裡有生腫瘍，抑是發炎，胃カタール（胃卡他）彼號，抑是生胃瘍，猶原有消化不良的症狀。此號病叫做實質病（實質病，organic disease）抑是器質的病。
+> ……物因故胃失落伊的作用，叫做消化不良。此个原因有時是對胃分泌的胃液有各樣（異樣），抑是胃的筋肉失落伊的作用，抑是食物無合宜，此款叫做官能病（官能病，functional disease）。若是胃裡有生腫瘍，抑是發炎，胃カタール（胃卡他）彼號，抑是生胃瘍，猶原有消化不良的症狀。此號病叫做實質病（實質病，organic disease）抑是器質的病。
 
 ---
 
@@ -359,7 +359,7 @@ Nā ài tī-hông téng-bīn só͘ kóng ê pīⁿ, lim chia̍h ê hoat-tō͘ ū
 Lâng nā siông-siông chiàu téng-bīn ê hoat-tō͘, chiū khah bōe hoān-tio̍h siau-hòa-put-liông ê pīⁿ; in-ūi chit ê pīⁿ khah-siông sī tùi lâng hoān-tio̍h chia̍h ê hoat-tō͘ só͘ tì-ê; phòa-pīⁿ sui-jiân ōe i-tit, lêng-khó lim chia̍h ê sî ta̍k hāng tio̍h chiàu hoat-tō͘ hō͘ seng-khu m̄-bián tú-tio̍h phòa-pīⁿ. Phì-jū pió-á sin ê sî ta̍k hāng lóng sī hó, nā lām-sám ēng tì-kàu pháiⁿ, sui-jiân siu-lí kàu hó, ia̍h m̄-ta̍t-tio̍h iáu-bē pháiⁿ ê sî hiah-nih ióng.
 
 > **【全漢對照】**  
-> 人若常常照頂面的法度，就較𣍐犯著消化不良的病；因為此個病較常是對人犯著食的法度所致的；破病雖然會醫得，寧可飲食的時逐項著照法度互身軀毋免抵著破病。譬喻錶仔新的時逐項攏是好，若濫糝用致到歹，雖然修理到好，亦毋值著猶未歹的時遐爾勇。
+> 人若常常照頂面的法度，就較𣍐犯著消化不良的病；因為此个病較常是對人犯著食的法度所致的；破病雖然會醫得，寧可飲食的時逐項著照法度互身軀毋免抵著破病。譬喻錶仔新的時逐項攏是好，若濫糝用致到歹，雖然修理到好，亦毋值著猶未歹的時遐爾勇。
 
 ---
 
@@ -407,7 +407,7 @@ Tē 456 tô͘:—Seng-khu-lāi ê chōng-khì, tùi chiàⁿ-pêng khòaⁿ ê t
 léng-kún-chúi. Si̍t-bu̍t tióh gû-leng, á-sī í-keng siau-hòa ê gû-leng. Nā-sī chai ū sím-mi̍h khoán ê si̍t-bu̍t bô ha̍p, hit-ê tióh kìm chia̍h. Ū-sî tióh ēng ióh-chúi sóe ūi hō͘ i chheng-khì.
 
 > **【全漢對照】**
-> 冷滾水。食物著牛奶，抑是已經消化ê牛奶。若是知有甚麼款ê食物無合，彼個著禁食。有時著用藥水洗胃互伊清潔。
+> 冷滾水。食物著牛奶，抑是已經消化ê牛奶。若是知有甚麼款ê食物無合，彼个著禁食。有時著用藥水洗胃互伊清潔。
 
 Tióh chhâ-khòaⁿ i ê chhùi-khí sī ū m̄-tú-hó á m̄-sī, in-ūi chhùi-khí nā chhàu á-sī chìu, á-sī kiaⁿ-lâng bô sóe chheng-khì, lóng ē tì-kàu chia̍h bē siau-hòa ê chèng. I-tī chit hō pīⁿ ê ióh ū chin chōe, ū-sî tióh sng-ê, ū-sî tióh kiⁿ-ê. Iā tióh i-seng kiám i ê ūi-lāi ê siau-hòa-e̍k, khòaⁿ ū kè sng, á-sī kiám sng.
 
@@ -432,7 +432,7 @@ Tióh chhâ-khòaⁿ i ê chhùi-khí sī ū m̄-tú-hó á m̄-sī, in-ūi chh�
 *(邊註：Ūi-ùi-iông ê gûi-hiám)*
 
 > **【全漢對照】**
-> 胃潰瘍：胃潰瘍ê症狀，食飽了後知痛。心肝頭痛。痛到親像咧插咧擘ê款。食飽閣差不多半點鐘久有痛。胃內ê物若會通吐出嚟，就會得較小安。所吐出嚟ê物有時會含淡薄血，也有時這號血對胃內入去腸內，所以大便會變烏ê色。有時胃壁破去，嚟致到急性腹膜炎。若病到這號款，就著用外科手術開腹嚟醫治，有時出血真危險，會致到關係性命。慢性胃潰瘍，有時欲收喙ê時，彼個破ê所在會搐較緊，抑是若佇幽門部（胃出口）彼個會狹窄（扁隘），食物就較惡通對胃內出去腸內，致到胃擴張。
+> 胃潰瘍：胃潰瘍ê症狀，食飽了後知痛。心肝頭痛。痛到親像咧插咧擘ê款。食飽閣差不多半點鐘久有痛。胃內ê物若會通吐出嚟，就會得較小安。所吐出嚟ê物有時會含淡薄血，也有時這號血對胃內入去腸內，所以大便會變烏ê色。有時胃壁破去，嚟致到急性腹膜炎。若病到這號款，就著用外科手術開腹嚟醫治，有時出血真危險，會致到關係性命。慢性胃潰瘍，有時欲收喙ê時，彼个破ê所在會搐較緊，抑是若佇幽門部（胃出口）彼个會狹窄（扁隘），食物就較惡通對胃內出去腸內，致到胃擴張。
 > *（邊註：胃潰瘍之危險）*
 
 ---
@@ -477,7 +477,7 @@ Nā-sī tùi ūi-nih chhut-huih, tio̍h hioh-khùn, bîn-chhng-thâu tio̍h pí 
 
 > **【全漢對照】**
 > **【胃出血】**
-> 若是對胃裡出血，著歇睏，眠床頭著比眠床尾較低，喙內含淡薄冰，用冰囊下上腹頂。對肛門滋養灌腸。用 *morphia*（嗎啡）皮下注射。創 *bismuth. carb.*（次碳酸鉍）佮 *sodii bicarb.*（重曹/碳酸氫鈉）的藥粉予食。著倒佇眠床兩個月日久，才逐日起來一兩點鐘久；著勻勻仔，也著較細膩。
+> 若是對胃裡出血，著歇睏，眠床頭著比眠床尾較低，喙內含淡薄冰，用冰囊下上腹頂。對肛門滋養灌腸。用 *morphia*（嗎啡）皮下注射。創 *bismuth. carb.*（次碳酸鉍）佮 *sodii bicarb.*（重曹/碳酸氫鈉）的藥粉予食。著倒佇眠床兩个月日久，才逐日起來一兩點鐘久；著勻勻仔，也著較細膩。
 
 ---
 
@@ -547,7 +547,7 @@ Tē 457 tô͘.—Seng-khu-lāi ê chōng-khì tùi tò-pêng khòaⁿ ê tô͘: 
 
 > **【全漢對照】**
 > **【症狀】**
-> 胃癌拄仔起的時，伊的症狀佮食𣍐消化相𫝛。病人漸漸會瘦惙去。病人生癌症來瘦惙去，叫做癌症性惡液質 (*cachexia*)。有時兩三日一擺就吐真濟。伊所吐的色是烏紅，彼個款色是沷沷，也親像沉底的咖啡茶。這個緣故是因為出淡薄血，也這號血有淡薄消化，所以烏紅色。有時會出血真濟。人若抵著這號症結局是兩年倚起，生命就無去。
+> 胃癌拄仔起的時，伊的症狀佮食𣍐消化相𫝛。病人漸漸會瘦惙去。病人生癌症來瘦惙去，叫做癌症性惡液質 (*cachexia*)。有時兩三日一擺就吐真濟。伊所吐的色是烏紅，彼个款色是沷沷，也親像沉底的咖啡茶。這个緣故是因為出淡薄血，也這號血有淡薄消化，所以烏紅色。有時會出血真濟。人若抵著這號症結局是兩年倚起，生命就無去。
 
 ---
 
@@ -599,7 +599,7 @@ Chèng-chōng : Tn̂g-iām chèng-chōng tāi-khài lâi kóng, sió-tn̂g-iām 
 Tī-liâu : Hioh-khùn. Tióh tó tī bîn-chhñg. Nā-sī ū hā-lī tióh ēng *ol. ricini* kap *tinctura opii* hō͘ tn̂g-lāi ū to̍k ê mih hā-chhut-lâi ; hit ê *tinctura opii* ê lō͘-ēng, chiū-sī beh chí thiàⁿ, iā beh hō͘ tn̂g bōe tín-tāng. Nā-sī tōa-lâng ēng *tinctura opii* 1.0 c.c. thang chi̍t pái hō͘ chia̍h. Chit-ê sī chiàu i-seng ê bēng-lēng chiah thang. Chiong a-phiàn hō͘ gín-ná chia̍h sī gûi-hiám, in-ūi khoài-khoài tiòng-to̍k sí. Iā ū kúi-nā khoán ê iòh beh chí sìa, chhin-chhiūⁿ *bismuthum*, *creta preparata*, *plumbum*, *acidum sulphuricum*. Ēng un-sip-pò͘ hē pak-tó͘-téng iā ōe chí thiàⁿ. Nā ū pì-kiat tióh hō͘ chia̍h *ol. ricini*, kap kā i koàn-tn̂g. Tióh kéng liû-tōng-si̍t-bu̍t, iā m̄-thang chōe, ngâu-hún kap gû-leng sī chin hó. Gû-leng tióh seng kè-chú lâi bia̍t bî-seng-bu̍t.
 
 > **【全漢對照】**
-> 治療：歇睏。著倒佇眠床。若是有下痢著用 *ol. ricini*（蓖麻子油）佮 *tinctura opii*（鴉片酊）互腸內有毒的物瀉出來；彼個 *tinctura opii* 的路用，就是欲止痛，亦欲互腸袂振動。若是大人用 *tinctura opii* 1.0 c.c. 通一擺互食。這個是照醫生的命令才通。將鴉片互囡仔食是危險，因為快快中毒死。亦有幾若款的藥欲止瀉，親像 *bismuthum*（次蒼鉛/鉍劑）、*creta preparata*（調製白堊/碳酸鈣）、*plumbum*（鉛劑）、*acidum sulphuricum*（硫酸）。用溫濕布格腹肚頂亦會止痛。若有秘結著互食 *ol. ricini*，佮共伊灌腸。著揀流動食物，亦毋通濟，藕粉佮牛奶是真好。牛奶著先過煮來滅微生物。
+> 治療：歇睏。著倒佇眠床。若是有下痢著用 *ol. ricini*（蓖麻子油）佮 *tinctura opii*（鴉片酊）互腸內有毒的物瀉出來；彼个 *tinctura opii* 的路用，就是欲止痛，亦欲互腸袂振動。若是大人用 *tinctura opii* 1.0 c.c. 通一擺互食。這个是照醫生的命令才通。將鴉片互囡仔食是危險，因為快快中毒死。亦有幾若款的藥欲止瀉，親像 *bismuthum*（次蒼鉛/鉍劑）、*creta preparata*（調製白堊/碳酸鈣）、*plumbum*（鉛劑）、*acidum sulphuricum*（硫酸）。用溫濕布格腹肚頂亦會止痛。若有秘結著互食 *ol. ricini*，佮共伊灌腸。著揀流動食物，亦毋通濟，藕粉佮牛奶是真好。牛奶著先過煮來滅微生物。
 
 ---
 
@@ -700,7 +700,7 @@ Tng-pì-that ê chèng-chōng : Chiah ê chèng-chōng tāi-khài sī tāi-piān
 
 > **【全漢對照】**
 > **症狀**
-> 腸閉塞的症狀：諸個症狀大概是大便不通，有時攏𣍐通，有時小可會通。胃內之物吐出來，煞尾所吐的親像糞。腹肚會脹閣硬。若急性兮，忽然間起，脈搏較濫，流冷汗，面不安，有彼號親像失落腦的氣力的款式。腹肚脹也疼。
+> 腸閉塞的症狀：諸个症狀大概是大便不通，有時攏𣍐通，有時小可會通。胃內之物吐出來，煞尾所吐的親像糞。腹肚會脹閣硬。若急性兮，忽然間起，脈搏較濫，流冷汗，面不安，有彼號親像失落腦的氣力的款式。腹肚脹也疼。
 
 ---
 
@@ -720,7 +720,7 @@ Ti̍t-tng-hia̍p-chek : Ti̍t-tng ū-sî pìⁿ-oe̍h. Chit ê pīⁿ sī tùi m
 
 > **【全漢對照】**
 > **直腸狹窄**
-> 直腸狹窄：直腸有時變隘。此個病是對梅毒，抑是淋病，抑是生腫瘤。彼號腸內的黏液會流；有時大便的款式扁扁，是因為糞經過隘隘的所在。
+> 直腸狹窄：直腸有時變隘。此个病是對梅毒，抑是淋病，抑是生腫瘤。彼號腸內的黏液會流；有時大便的款式扁扁，是因為糞經過隘隘的所在。
 
 <!-- Page 535 End -->
 
@@ -817,7 +817,7 @@ Chit ê pīⁿ ê goân-in ū kúi-nā khoán:
 
 > **【全漢對照】**
 > **下痢**：人的大便比平常時加真較，捷捷下，叫做下痢（*diarrhœa*）。
-> 此個病的源因有幾若款：
+> 此个病的源因有幾若款：
 > 1. 飲食唔咁好，親像食未熟的果子、檨仔等項，抑是食傷冷的水。
 > 2. 食有毒的物親像臭酸的牛奶、爛去的肉，抑是藥親像 *arsenicum*、水銀。
 > 3. 腸內的分泌物（*secretion*）有各樣。
@@ -880,7 +880,7 @@ Trichocephalus dispar; natural size (Clinical Methods).</em></p>
 tñg-lāi ū tòk ê mi̍h, eng-kai tióh liâm-piⁿ ēng sià-ióh, hō͘ hit ê kiaⁿ-lâng ū tòk ê mi̍h pâi-chhut--lâi. Nā-sī tōa-lâng, ēng *oleum ricini* 20.0 c.c., *tinct. opii* 1.0 c.c. sī hó ê hoat; hit ê *oleum ricini* ōe hō͘ i sià; *tinct. opii* ōe chí thiàⁿ, iā hō͘ tñg-á tiām-tiām. Nā ū hā-lī ê chèng, tióh chiàu pīⁿ ê goân-in chiah chiong ióh hō͘ i chia̍h; ū-sî, i-seng beh ēng hā-che (sià-ióh), ū-sî siu-liám-che (pì-kiat-ióh). Ū-sî chia̍h *bismuthi subnitras* 1.0, *pulv. Doveri* 0.3, chi̍t ji̍t saⁿ pái; iā *gentiana* kap *tinct. rhei co.* kap *catechu*. Ū-sî ēng *amylum* (hún-chiuⁿ) kap *opium* ê koàn-tñg-che.
 
 > **【全漢對照】**
-> 腸內有毒的物，應該著連鞭用瀉藥，予彼個驚人的有毒的物排出來。若是大人，用 *oleum ricini*（蓖麻子油）20.0 c.c., *tinct. opii*（阿片酊）1.0 c.c. 是好的法；彼個 *oleum ricini* 會予伊瀉；*tinct. opii* 會止疼，也予腸仔恬恬。若有下痢的症，著照病的原本才將藥予伊食；有時，醫生欲用下劑（瀉藥），有時收斂劑（祕結藥）。有時食 *bismuthi subnitras*（次硝酸鉍）1.0, *pulv. Doveri*（杜弗氏散）0.3，一日三擺；也 *gentiana*（龍膽）及 *tinct. rhei co.*（複方大黃酊）及 *catechu*（兒茶）。有時用 *amylum*（粉漿）及 *opium*（阿片）的灌腸劑。
+> 腸內有毒的物，應該著連鞭用瀉藥，予彼个驚人的有毒的物排出來。若是大人，用 *oleum ricini*（蓖麻子油）20.0 c.c., *tinct. opii*（阿片酊）1.0 c.c. 是好的法；彼个 *oleum ricini* 會予伊瀉；*tinct. opii* 會止疼，也予腸仔恬恬。若有下痢的症，著照病的原本才將藥予伊食；有時，醫生欲用下劑（瀉藥），有時收斂劑（祕結藥）。有時食 *bismuthi subnitras*（次硝酸鉍）1.0, *pulv. Doveri*（杜弗氏散）0.3，一日三擺；也 *gentiana*（龍膽）及 *tinct. rhei co.*（複方大黃酊）及 *catechu*（兒茶）。有時用 *amylum*（粉漿）及 *opium*（阿片）的灌腸劑。
 
 ---
 
@@ -956,7 +956,7 @@ Head of Tænia solium x 40.</em></p>
 Tiâu-thâng: Chit ê hêng-chōng píⁿ-píⁿ tn̂g-tn̂g chhin-chhiūⁿ tòa, i ê thâu chin oeh koh sòe, seng-khu chiām-chiām khah tōa. I ê tn̂g, tùi la̍k chhioh chì nn̄g tn̄g (tē 460-461 tô͘). I ê seng-khu ū chōe-chōe chat, chi̍t chat chi̍t chat sio-liân, ū sî gō͘ pah chat chiáⁿ-ê. Chi̍t chat chha-put-to la̍k hun tn̂g (17 mm.), khoah ū saⁿ sì hun (9 mm.). I tòaid tī tn̂g-lāi, i ê thâu ê khoán-sit chhin-chhiūⁿ kék sòe ê chu, bih tī liâm-mó̍h ê lāi-bīn (tē 461 tô͘). Ū-sî thâng ê ē-chat tè tāi-piān chhut-lâi, á-sī iû-goân bē tāi-piān ê sî chiah ê chat ka-kī ōe ngia̍uh-chhut-lâi. Lâng ū chit hō thâng sī in-ūi chia̍h ū pīⁿ ê bah, ti-bah, bô chú kàu-gia̍h se̍k. Chit hō thâng bô sím-mi̍h chèng-chōng, put-kò ū-sî lâng chai tn̂g-nih ê tiong-kan bô khòai-o̍ah. Ū-sî pak-tó chin iau, phīⁿ-khang ōe chiūⁿ.
 
 > **【全漢對照】**
-> 絛蟲：此個形狀扁扁長長親像帶，伊的頭真正隘閣細，身軀漸漸較大。伊的長，對六尺至兩丈（第 460-461 圖）。伊的身軀有許多節，一節一節相連，有時五百節正的。一節差不多六分長（17 mm.），闊有三四分（9 mm.）。伊住在腸內，伊的頭的款式親像極細的珠，匿佇黏膜的內面（第 461 圖）。有時蟲的下節綴大便出來，抑是猶原未大便的時代諸個節家己會 ngia̍uh 出來。人有這號蟲是因為食有病的肉、豬肉，無煮到額熟。這號蟲無甚麼症狀，不過有時人知腸裡的中間無快活。有時腹肚真正枵，鼻孔會癢。
+> 絛蟲：此个形狀扁扁長長親像帶，伊的頭真正隘閣細，身軀漸漸較大。伊的長，對六尺至兩丈（第 460-461 圖）。伊的身軀有許多節，一節一節相連，有時五百節正的。一節差不多六分長（17 mm.），闊有三四分（9 mm.）。伊住在腸內，伊的頭的款式親像極細的珠，匿佇黏膜的內面（第 461 圖）。有時蟲的下節綴大便出來，抑是猶原未大便的時代諸个節家己會 ngia̍uh 出來。人有這號蟲是因為食有病的肉、豬肉，無煮到額熟。這號蟲無甚麼症狀，不過有時人知腸裡的中間無快活。有時腹肚真正枵，鼻孔會癢。
 
 ---
 
@@ -1005,7 +1005,7 @@ Hôe-thâng (būn-thâng, *ascaris*) ê khoán-sit sī tng-tng, îⁿ-îⁿ, chh
 
 > **【全漢對照】**
 > **［蚘蟲］**
-> 蚘蟲（悶蟲，*ascaris*）的款式是長長、圓圓，親像鱔魚的款。長有八寸至一尺；色緻是粉紅，住在小腸內；也有時走出入去佇胃裡，就會吐出來（第 462 圖）。人腹肚內的蟲無定著幾尾，有時一兩尾，有時四五十尾；曾有一個囡仔十二歲佇三年內下 5,000 尾，佇一日有下 600 尾。此個病的症狀無定著。
+> 蚘蟲（悶蟲，*ascaris*）的款式是長長、圓圓，親像鱔魚的款。長有八寸至一尺；色緻是粉紅，住在小腸內；也有時走出入去佇胃裡，就會吐出來（第 462 圖）。人腹肚內的蟲無定著幾尾，有時一兩尾，有時四五十尾；曾有一个囡仔十二歲佇三年內下 5,000 尾，佇一日有下 600 尾。此个病的症狀無定著。
 
 ---
 
@@ -1052,7 +1052,7 @@ Giâu-thâng: Chit hō thâng (*oxyuris vermicularis*) ê hêng-chōng chhin-chh
 
 > **【全漢對照】**
 > **［蟯蟲］**
-> 蟯蟲：此號蟲（*oxyuris vermicularis*）的形狀親像短短的線，長有 4 mm. 至 10 mm. （第 463 圖）。伊住的所在是佇大腸佮直腸內，倚佇肛門的所在較多。人的肛門會癢；不安，躁性，無愛食，𣍐睏得，貧血。此個蟲佇糞裡會看見。染著此個病是對食無清潔的水，食生菜。
+> 蟯蟲：此號蟲（*oxyuris vermicularis*）的形狀親像短短的線，長有 4 mm. 至 10 mm. （第 463 圖）。伊住的所在是佇大腸佮直腸內，倚佇肛門的所在較多。人的肛門會癢；不安，躁性，無愛食，𣍐睏得，貧血。此个蟲佇糞裡會看見。染著此个病是對食無清潔的水，食生菜。
 
 ---
 
@@ -1119,7 +1119,7 @@ Beh tāi-khài koh kóng tī-liâu-hoat. Lâng nā ū tng-kià-seng-thâng pī�
 
 > **【全漢對照】**  
 > 欲大概閣講治療法。人若有腸寄生蟲病，治療是親像下底：  
-> 1. 著較早一兩日食瀉藥，互腸內的物下（瀉）出來；亦著食較爛的物親像牛奶、泔彼號。此個理氣愛互彼個蟲無互食物包圍，所以互鴆藥較快到蟲的所在來鴆死。
+> 1. 著較早一兩日食瀉藥，互腸內的物下（瀉）出來；亦著食較爛的物親像牛奶、泔彼號。此个理氣愛互彼个蟲無互食物包圍，所以互鴆藥較快到蟲的所在來鴆死。
 
 ---
 
@@ -1228,7 +1228,7 @@ Khah-siông ū kúi-nā lia̍p, ū-sî chi̍t lia̍p nā-tiāⁿ. Ū-sî sí li�
 > **【全漢對照】**
 > 膽石發生的原因就是表記佇下底：1. 若有甚麼阻擋，膽汁無照平常咧行，親像十二指腸炎、秘結，按呢會致到生膽石。
 > 
-> 2. 腸內的細菌，抑是小腸熱（傷寒）的細菌。諸個細菌會互膽囊內的黏膜發炎，按呢膽汁會變較厚。
+> 2. 腸內的細菌，抑是小腸熱（傷寒）的細菌。諸个細菌會互膽囊內的黏膜發炎，按呢膽汁會變較厚。
 > 
 > 較常有幾若粒，有時一粒若定。有時死了後曾看見膽囊內真多膽石，毋過活當時攏無症狀。婦人人比查埔人較多有這號病。較常是 30 歲以上的人。
 
@@ -1239,7 +1239,7 @@ Khah-siông ū kúi-nā lia̍p, ū-sî chi̍t lia̍p nā-tiāⁿ. Ū-sî sí li�
 Chèng-chōng: Táⁿ-chio̍h nā tùi táⁿ-kńg teh kiâⁿ, pak-tó́ chin thiàⁿ kiò-chòe táⁿ-chio̍h-sàn-thiàⁿ. Áu-thò͘, me̍h-phok khah bān, iā bô la̍t. Khàn-hō͘ tio̍h chim-chiok khòaⁿ pùn-lāi ū táⁿ-chio̍h á-bô. Tio̍h chiong hit ê pùn ēng se-á-pò͘ lâi kè-lī, ēng chúi chhiâng kàu chheng-khì, chiah thang chhâ-khòaⁿ lāi-bīn ū táⁿ-chio̍h á-bô. Phê-bah, bák-chiu, gán-kiû-kiat-mo̍h, jiō, lóng pìⁿ n̂g-sek.
 
 > **【全漢對照】**
-> 症狀：膽石若對膽管咧行，腹肚真疼號做膽石疝痛。嘔吐，脈搏較慢，也無力。看護著斟酌看糞內有膽石抑無。著將彼個糞用篩仔布來隔離，用水沖到清氣，才通查看內面有膽石抑無。皮肉、目珠、眼球結膜、尿，攏變黃色。
+> 症狀：膽石若對膽管咧行，腹肚真疼號做膽石疝痛。嘔吐，脈搏較慢，也無力。看護著斟酌看糞內有膽石抑無。著將彼个糞用篩仔布來隔離，用水沖到清氣，才通查看內面有膽石抑無。皮肉、目珠、眼球結膜、尿，攏變黃色。
 
 ---
 

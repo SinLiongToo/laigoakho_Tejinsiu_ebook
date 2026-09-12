@@ -346,17 +346,26 @@ hook.afterEach(function(html, next) {
 
 ---
 
-### 9. 📝 羅馬字勘誤校準引擎 (POJ Correction Table Engine)
+### 9. 📝 雙向動態勘誤校準引擎 (POJ & Hanzi Correction Table Engine)
 
-針對歷史文獻 OCR 辨識因油墨斑駁所產生的聲調與字母變異（例如同一詞「梅毒」可能辨識出 `mû-to̍k`、`Múi-tók`、`mûi-tòk` 等瑕疵），系統引進外部動態勘誤機制：
-- **勘誤數據源**：支援讀取根目錄之 `correction_lmj.xlsx` / `correction_lmj.xls`。
-- **欄位體例**：`漢字` ⇋ `羅馬字`（如 `梅毒` ⇋ `mûi-to̍k`）。
-- **全自動正規化管線**：
-  1. 於全書 705 頁章節 Markdown 聚合時，自動替換 POJ 文字中的 OCR 錯字，並精準維持大小寫。
-  2. 於 12,800+ 條全語料大辭典建置時，自動將所有拼寫變體合併至標準詞條下，累計出現次數與出處頁碼，避免字典出現殘缺重複條目。
+針對歷史文獻 OCR 辨識因油墨斑駁、台漢對照用字校準之需求，系統引進外部雙向動態勘誤機制：
+1. **白話字動態勘誤 (`correction_lmj.xlsx`)**：
+   - **勘誤數據源**：支援讀取根目錄之 `correction_lmj.xlsx` / `correction_lmj.xls`。
+   - **欄位體例**：`漢字` ⇋ `羅馬字`（如 `梅毒` ⇋ `mûi-to̍k`）。
+   - **全自動正規化管線**：
+     - 於全書 705 頁章節 Markdown 聚合時，自動替換 POJ 文字中的 OCR 錯字，並精準維持大小寫。
+     - 於 12,800+ 條全語料大辭典建置時，自動將所有拼寫變體合併至標準詞條下，累計出現次數與出處頁碼。
+
+2. **台語漢字動態勘誤 (`correction_漢字.xlsx`)**：
+   - **勘誤數據源**：支援讀取根目錄之 `correction_漢字.xlsx` / `correction_漢字.xls`。
+   - **欄位體例**：`錯誤漢字` ⇋ `正確漢字`（如 `落用` ⇋ `路用`、`個` ⇋ `个`、`見識` ⇋ `見色`）。
+   - **全自動校準管線**：
+     - 自動依詞長降冪排序匹配，全面校準正文台漢對照引言框（`> **【全漢對照】**`）與內文台漢註解。
+     - 自動同步校準三語辭彙（GÚ-LŪI）、總索引（SEK-ÍN）與辭典資料庫中對應之漢字欄位。
 
 ---
 
 ## 🎯 快速重用方式
 
-當需要在新專案中啟用本 UI 架構時，只需將本專案 `src/build_book.py` 內的 `INDEX_HTML_TEMPLATE` 模板、`load_corrections()` 與 `generate_dictionary_dataset()` 整合至新專案的組裝腳本中即可！
+當需要在新專案中啟用本 UI 架構時，只需將本專案 `src/build_book.py` 內的 `INDEX_HTML_TEMPLATE` 模板、`load_corrections()`、`load_hanzi_corrections()` 與 `generate_dictionary_dataset()` 整合至新專案的組裝腳本中即可！
+

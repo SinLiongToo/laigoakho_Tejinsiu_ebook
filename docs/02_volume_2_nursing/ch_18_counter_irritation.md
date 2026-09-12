@@ -123,7 +123,7 @@ leng-pông ê phīⁿ. Nā hū-jîn-lâng hut-jiân bô hō͘ gín-ná chia̍h l
 
 > **【全漢對照】**
 > **擦藥**
-> 乳房的病。若婦仁人忽然無互囡仔食品，猶久奶猶原是真多，直好用一塊水泥布（*lint*），中央䘄一孔互圓圓，才將水泥布浸下 *belladonna*（顛茄）佮 *glycerinum*（甘油）彼內面；浸互澹，才將水泥布貼佇乳房的頂面，彼個乳頭互伊通出來。才用棉花蓋彼頂面，用繃帶縛互緊；彼條繃帶逐日著挩兩三擺，因為縛的所在，是真快冷去。
+> 乳房的病。若婦仁人忽然無互囡仔食品，猶久奶猶原是真多，直好用一塊水泥布（*lint*），中央䘄一孔互圓圓，才將水泥布浸下 *belladonna*（顛茄）佮 *glycerinum*（甘油）彼內面；浸互澹，才將水泥布貼佇乳房的頂面，彼个乳頭互伊通出來。才用棉花蓋彼頂面，用繃帶縛互緊；彼條繃帶逐日著挩兩三擺，因為縛的所在，是真快冷去。
 
 ---
 
@@ -132,7 +132,7 @@ leng-pông ê phīⁿ. Nā hū-jîn-lâng hut-jiân bô hō͘ gín-ná chia̍h l
 
 > **【全漢對照】**
 > **發泡的藥**
-> 用發泡的藥，抑是別物擦藥的時，是為著止痛，抑是退炎的緣故。擦藥的時陣，彼個皮會較紅。用發泡的藥，抑是別物擦藥的時，該著用偌多藥，就著對瓶內倒出來用，毋通下佇瓶內，隨便搵起來濫糝用。
+> 用發泡的藥，抑是別物擦藥的時，是為著止痛，抑是退炎的緣故。擦藥的時陣，彼个皮會較紅。用發泡的藥，抑是別物擦藥的時，該著用偌多藥，就著對瓶內倒出來用，毋通下佇瓶內，隨便搵起來濫糝用。
 
 ---
 
@@ -143,7 +143,7 @@ Nā ēng pan-bâ, chí-ū beh hō͘ phīⁿ-lâng phê âng ê hoat, nā khòa�
 
 > **【全漢對照】**
 > **起泡液 / 芫青膏（斑蝥貼膏）**
-> 發泡的藥，是用斑蝥（*Spanish fly*）所製造的。斑蝥（是廣東省一款有殼的蟲）泡的藥名 *liquor epispasticus*（發泡液），是用 *ether aceticus*（醋酸乙酯）做的膏藥。*Emplastrum cantharidis*（斑蝥膏）是發泡劑佮蠟，參別款的藥來糊佇布面的頂面。用膏藥的時，著代先將有病的所在，洗互清潔，將膏藥烘互燒，貼佇彼個發泡的所在，用棉花罨咧，用繃帶縛互好，總是毋通傷緊，因為彼個泡膨起來的時陣，若緊，會真痛。
+> 發泡的藥，是用斑蝥（*Spanish fly*）所製造的。斑蝥（是廣東省一款有殼的蟲）泡的藥名 *liquor epispasticus*（發泡液），是用 *ether aceticus*（醋酸乙酯）做的膏藥。*Emplastrum cantharidis*（斑蝥膏）是發泡劑佮蠟，參別款的藥來糊佇布面的頂面。用膏藥的時，著代先將有病的所在，洗互清潔，將膏藥烘互燒，貼佇彼个發泡的所在，用棉花罨咧，用繃帶縛互好，總是毋通傷緊，因為彼个泡膨起來的時陣，若緊，會真痛。
 > 
 > 若用斑蝥，只有欲互病人皮紅的法，若看皮紅就好，千萬毋通互伊起泡。
 
@@ -154,7 +154,7 @@ Tī beh hō͘ khí phā ê sì-piⁿ, tio̍h ēng hoa-su-leng iû (*vaseline*) k
 
 > **【全漢對照】**
 > **Vaseline 佮糊**
-> 佇欲互起泡的四邊，著用凡士林油（*vaseline*）共伊糊，互彼個泡𣍐炭過別位去；然後才用毛筆，搵發泡的藥水，抹彼凡士林油的內面；若焦就閣抹。大概三四擺了後，病人知略仔會痛；就用水——
+> 佇欲互起泡的四邊，著用凡士林油（*vaseline*）共伊糊，互彼个泡𣍐炭過別位去；然後才用毛筆，搵發泡的藥水，抹彼凡士林油的內面；若焦就閣抹。大概三四擺了後，病人知略仔會痛；就用水——
 
 <!-- Page 240 End -->
 
@@ -169,7 +169,7 @@ Tī beh hō͘ khí phā ê sì-piⁿ, tio̍h ēng hoa-su-leng iû (*vaseline*) k
 nî-pò͘, hit ê tōa sió kap phā pīⁿ-pīⁿ, kā i khàm-teh ; téng-bīn koh khàm mî-hoe, chiah ēng pheng-tòa pau hō͘ hó-sè.
 
 > **【全漢對照】**
-> 呢布，彼個大小佮皰平平，共伊蓋咧；頂面閣蓋棉花，才用繃帶包予好勢。
+> 呢布，彼个大小佮皰平平，共伊蓋咧；頂面閣蓋棉花，才用繃帶包予好勢。
 
 ---
 
@@ -185,7 +185,7 @@ Hoat-phā ê sî ū-ê khah kín, ū-ê khah bān, kiám-chhái nn̄g saⁿ tiá
 Hoat tōa phā liáu-āu, nā i-seng bô kau-tāi sím-mi̍h ōe, chiū thang chiong phā ka khui (ke-si tióh kè-sáh hō͘ chheng-khì), pàng chhut hit ê chúi ; nā i-seng ài khòaⁿ chit ê chúi, tióh ēng po-lê khì-kū sîn-khí-lâi thang hō͘ i khòaⁿ. Hit ê chúi lâu kàu soah-khì, chiū tióh ēng chi̍t tè sòe tè ê chúi-nî-pò͘ boah *ung. boraci* á-sī *ung. zinci* io̍h kā tah-teh. Tióh ōaⁿ chi̍t ji̍t nn̄g pái. Chha-put-to chi̍t lé-pài chit ê siong ōe hó.
 
 > **【全漢對照】**
-> 發大皰了後，若醫生無交代甚麼話，就通將皰剪開（器具著加熱予清潔），放出彼個水；若醫生愛看此個水，著用玻璃器具承起來通予伊看。彼個水流到煞去，就著用一塊細塊的水呢布抹 *ung. boraci*（硼酸軟膏）抑是 *ung. zinci*（鋅軟膏）藥共伊貼咧。著換一日兩擺。差不多一禮拜此個傷會好。
+> 發大皰了後，若醫生無交代甚麼話，就通將皰剪開（器具著加熱予清潔），放出彼个水；若醫生愛看此个水，著用玻璃器具承起來通予伊看。彼个水流到煞去，就著用一塊細塊的水呢布抹 *ung. boraci*（硼酸軟膏）抑是 *ung. zinci*（鋅軟膏）藥共伊貼咧。著換一日兩擺。差不多一禮拜此个傷會好。
 
 ---
 
@@ -194,7 +194,7 @@ Hoat tōa phā liáu-āu, nā i-seng bô kau-tāi sím-mi̍h ōe, chiū thang ch
 I-seng ài hō͘ pīⁿ-lâng seng-khu sím-mi̍h só͘-chāi hoat-phā, tióh ūi chi̍t-ê tiāⁿ-tióh ê îⁿ-kho͘-á ; kî-nâ bô ūi îⁿ-kho͘-á ê só͘-chāi, m̄-thang boah io̍h. Khàn-hō͘ tióh chai boah hoat-phā-che tek-khak tióh tī bah khah kāu ê só͘-chāi ; khò kut ê só͘-chāi, m̄-thang ēng chit ê hoat. Nā ài hō͘ kha-thâu-u ê só͘-chāi hoat-phā, eng-kai tióh ūi nn̄g ê chhin-chhiūⁿ pòaⁿ ge̍h ê khoán, tī chhek-kài-kut ê téng-bīn kap ē-bīn, chiah bōe gāi-tióh kut.
 
 > **【全漢對照】**
-> 醫生愛予病人身軀甚麼所在發皰，著畫一個定著的圓箍仔；其餘無畫圓箍仔的所在，唔通抹藥。看護著知抹發皰劑的確著佇肉較厚的所在；靠骨的所在，唔通用此個法。若愛予骹頭烏的所在發皰，應該著畫兩個親像半月的款，佇膝蓋骨的頂面佮下面，才袂礙著骨。
+> 醫生愛予病人身軀甚麼所在發皰，著畫一个定著的圓箍仔；其餘無畫圓箍仔的所在，唔通抹藥。看護著知抹發皰劑的確著佇肉較厚的所在；靠骨的所在，唔通用此个法。若愛予骹頭烏的所在發皰，應該著畫兩个親像半月的款，佇膝蓋骨的頂面佮下面，才袂礙著骨。
 
 ---
 
@@ -244,7 +244,7 @@ tióh chiong îⁿ-kho-á ūi tī pìn-piⁿ, lī ba̍k-chiu chi̍t chhùn ê hn
 Chhng-sòaⁿ-hoat (串線法, *Seton*): Iáu ū chi̍t khoán kiò-chòe chhng-sòaⁿ-hoat, iā ē chí thiàⁿ; hit ê hoat-tō͘, ēng chi̍t ki tōa ki chiam, chhng chi̍t tiâu chheng-khì ê si-sòaⁿ, chiah chhng kè hit ê phê-bah, chiong sòaⁿ ê siang thâu lâi kat-teh; ta̍k ji̍t tuì sòaⁿ kā thiu hō͘ tín-tāng, iā ē chí thiàⁿ. Chit ê hoat sī ūi-tióh iûⁿ-hîn ê pīⁿ, ū-sî chòe án-ni.
 
 > **【全漢對照】**
-> **穿線法（串線法，*Seton*）**：猶有一款叫做穿線法，亦會止疼；彼個法度，用一支大枝針，穿一條清氣的絲線，才穿過彼個皮肉，將線的雙頭來結咧；逐日對線共抽互振動，亦會止疼。這個法是為著瘍疹的病，有時做按呢。
+> **穿線法（串線法，*Seton*）**：猶有一款叫做穿線法，亦會止疼；彼个法度，用一支大枝針，穿一條清氣的絲線，才穿過彼个皮肉，將線的雙頭來結咧；逐日對線共抽互振動，亦會止疼。這个法是為著瘍疹的病，有時做按呢。
 
 ---
 
@@ -253,7 +253,7 @@ Chhng-sòaⁿ-hoat (串線法, *Seton*): Iáu ū chi̍t khoán kiò-chòe chhng-
 Sio-chiok-hoat (燒灼法, *cauterisation*) chiū-sī ēng te̍k-pia̍t khì-kū lâi sio pīⁿ-lâng ê cho͘-chit. Só͘ ēng ê ke-si ū thih á-sī kǹg chòe-ê, chóng-sī khah siông sī ēng pe̍h-kim (*platinum*). Khì-kū ê kńg-lāi ū tóe ióh (*benzene*). Ū nñg lia̍p ê chhiú-leng-kiû, tīⁿ thang suh-ji̍p khong-khì (tē 154 tô͘). Tāi-seng ēng sio-chiok-khì ê bé-á, chiū-sī pe̍h-kim, hē tī hé-chiú-teng hit pha hé ê tiong-kan; nā sio liáu the̍h-khí-lâi, chiah tīⁿ chhiū-leng-kú ê kiû, hō͘ khong-khì kè tī ióh ê só͘-chāi; hit ê ióh ê khì ē kàu sio liáu pe̍h-kim ê só͘-chāi chiū tòh. Chit hō ke-si sī kan-ta i-seng thang ēng, khàn-hō͘ m̄-thang. Khàn-hō͘ tióh tāi-seng ū-pī pīⁿ-lâng ê phê-hu. Ēng sio-chúi sat-bûn sóe chheng-khì, chiah ēng *acid carbolic* 1-40 koh sóe. M̄-thang
 
 > **【全漢對照】**
-> **燒灼法（燒灼法，*cauterisation*）**：就是用特別器具來燒病人的組織。所用的傢俬有鐵抑是鋼做的，總是較常是用白金（*platinum*）。器具的管內有貯藥（*benzene*）。有兩粒的手乳球，掁通吸入空氣（第 154 圖）。代先用燒灼器的尾仔，就是白金，下佇火酒燈彼葩火的中間；若燒了提起來，才掁手乳管的球，互空氣過佇藥的所在；彼個藥的氣會到燒了白金的所在就著。這號傢俬是單單醫生通用，看護毋通。看護著代先預備病人的皮膚。用熱水雪文洗清氣，才用 *acid carbolic* 1-40 閣洗。毋通
+> **燒灼法（燒灼法，*cauterisation*）**：就是用特別器具來燒病人的組織。所用的傢俬有鐵抑是鋼做的，總是較常是用白金（*platinum*）。器具的管內有貯藥（*benzene*）。有兩粒的手乳球，掁通吸入空氣（第 154 圖）。代先用燒灼器的尾仔，就是白金，下佇火酒燈彼葩火的中間；若燒了提起來，才掁手乳管的球，互空氣過佇藥的所在；彼个藥的氣會到燒了白金的所在就著。這號傢俬是單單醫生通用，看護毋通。看護著代先預備病人的皮膚。用熱水雪文洗清氣，才用 *acid carbolic* 1-40 閣洗。毋通
 
 ---
 
@@ -317,7 +317,7 @@ Chit hō hoat ê thó͘ miâ kiò-chòe “kok”. Tī kip-sèng sīn-chōng-iā
 Pī-pān chi̍t au-á hé-chiú, koh ēng suh-chóa chi̍t tè chi̍t tè, chha-put-to chi̍t chhùn sù-hong, chiah so hō͘ îⁿ, ùn hé-chiú, hē khip-kak-lāi; á-sī ēng tām-po̍h mî-hoe. Ēng hé kā i tiám, hé teh-beh hoa ê sî, kóaⁿ-kín chiong khip-kak-chhùi am hit ê pīⁿ ê só͘-chāi; m̄-thang hō͘ khip-kak-chhùi
 
 > **【全漢對照】**  
-> 備辦一甌仔火酒，閣用吸紙一塊一塊，差不多一寸四方，才挲予圓，搵火酒，下吸角內；抑是用淡薄棉花。用火共伊點，火咧欲熄兮時，趕緊將吸角嘴掩彼個病兮所在；毋通予吸角嘴……
+> 備辦一甌仔火酒，閣用吸紙一塊一塊，差不多一寸四方，才挲予圓，搵火酒，下吸角內；抑是用淡薄棉花。用火共伊點，火咧欲熄兮時，趕緊將吸角嘴掩彼个病兮所在；毋通予吸角嘴……
 
 ---
 
@@ -452,14 +452,14 @@ Nā khòaⁿ-kìⁿ pīⁿ-lâng hō͘ gô-khî teh suh ê sî-chūn tòng-bōe-
 Chit bé gô-khî só͘ suh ê huih, i ê liōng-sò͘ iok-lio̍k kap hit bé gô-khî chha-put-to pîⁿ-tāng, tāi-khài 3.5 c.c. á-sī 7.0 c.c. huih; chóng-sī suh liáu-āu, hit ê ū pīⁿ ê só͘-chāi iû-goân ōe lâu huih.
 
 > **【全漢對照】**
-> 一尾鵝蜞所吸的血，伊的量數約略佮彼尾鵝蜞差不多平重，大概 3.5 c.c. 抑是 7.0 c.c. 血；總是吸了後，彼個有病的所在猶原會流血。
+> 一尾鵝蜞所吸的血，伊的量數約略佮彼尾鵝蜞差不多平重，大概 3.5 c.c. 抑是 7.0 c.c. 血；總是吸了後，彼个有病的所在猶原會流血。
 
 ---
 
 Gô-khî lak-lo̍h-lâi liáu, chiū tio̍h hē tī iâm-chúi-lāi hō͘ sí. Nā-sī i-seng iû-goân ài hō͘ hit ê siong-chhùi lâu huih, khàn-hō͘ chiū tio̍h ēng un-sip-pò͘ am-teh; nā m̄-ài hō͘ i lâu huih, tio̍h ēng ka-hó, sè-tè ê mî-pò͘, chìm hē *tinctura benzoini composita* io̍h-chúi-lāi, hō͘ i tâm, tùi hit ê suh ê só͘-chāi tah-teh, koh ēng chi̍t tè tōa tè ê mî-hoe, khàm hō͘ hó, jiân-āu ēng pheng-tòa pa̍k hō͘ i ân; chit ê hoat-tō͘ chòe hó.
 
 > **【全漢對照】**
-> 鵝蜞落落來了，就著下佇鹽水內互死。若是醫生猶原愛互彼個傷喙流血，看護就著用溫濕布罨咧；若呣愛互伊流血，著用鉸好、細塊的棉布，浸下 *tinctura benzoini composita* 藥水內，互伊澹，對彼個吸的所在貼咧，閣用一塊大塊的棉花，蓋互好，然後用繃帶縛互伊緊；這個法度最好。
+> 鵝蜞落落來了，就著下佇鹽水內互死。若是醫生猶原愛互彼个傷喙流血，看護就著用溫濕布罨咧；若呣愛互伊流血，著用鉸好、細塊的棉布，浸下 *tinctura benzoini composita* 藥水內，互伊澹，對彼个吸的所在貼咧，閣用一塊大塊的棉花，蓋互好，然後用繃帶縛互伊緊；這个法度最好。
 
 ---
 
@@ -469,14 +469,14 @@ Nā gô-khî suh ê só͘-chāi, ē-bīn ū kut, beh chí huih chiū khah khoài
 
 > **【全漢對照】**
 > ### 止血的法
-> 若鵝蜞吸的所在，下面有骨，欲止血就較快，單仔用手揤彼個所在就好，若下面無骨，就較惡得止血；總是看護著用較多止血的法度，這法未止，著用別法來止。
+> 若鵝蜞吸的所在，下面有骨，欲止血就較快，單仔用手揤彼个所在就好，若下面無骨，就較惡得止血；總是看護著用較多止血的法度，這法未止，著用別法來止。
 
 ---
 
 Huih nā bē chí, chiū tio̍h liâm-piⁿ chiong lâu huih ê só͘-chāi ê kiaⁿ-lâng sóe hō͘ chheng-khì, koh ēng *collodium* io̍h, á-sī *acidum tannicum*, á-sī *liquor ferri perchloridi* io̍h, á-sī ēng chi̍t tè peng tè; lóng sī chí huih ê hoat-tō͘. Nā án-ni iû-goân bē chí, chiū tio̍h ēng peng kā i that hit ê lâu huih ê só͘-chāi 10 chì 20 hun-cheng chiū ōe chí. Tah mî-hoe liáu-āu, khàn-hō͘ tio̍h siông-siông chim-chiok khòaⁿ, in-ūi chit ê só͘-chāi, khah-khoài lâu chin chōe huih.
 
 > **【全漢對照】**
-> 血若未止，就著連鞭將流血的所在之驚人洗互清潔，閣用 *collodium* 藥，抑是 *acidum tannicum*，抑是 *liquor ferri perchloridi* 藥，抑是用一塊冰塊；攏是止血的法度。若按呢猶原未止，就著用冰共伊塞彼個流血的所在 10 至 20 分鐘就會止。貼棉花了後，看護著常常斟酌看，因為這個所在，較快流真多血。
+> 血若未止，就著連鞭將流血的所在之驚人洗互清潔，閣用 *collodium* 藥，抑是 *acidum tannicum*，抑是 *liquor ferri perchloridi* 藥，抑是用一塊冰塊；攏是止血的法度。若按呢猶原未止，就著用冰共伊塞彼个流血的所在 10 至 20 分鐘就會止。貼棉花了後，看護著常常斟酌看，因為這个所在，較快流真多血。
 
 ---
 
@@ -498,7 +498,7 @@ nñg saⁿ ji̍t āu chiah ōaⁿ io̍h. Koh chi̍t ê hoat-tō͘ khòaⁿ tē 1
 
 > **【全漢對照】**
 > **〔止血之法〕**
-> 兩三日後才換藥。閣一個法度看第 156 圖；就是將流血的所在的皮膚掕浮；用過消毒的針對皮下貫過去；用淡薄棉花下頂面，才用線縛牢親像 8 字形；用包傷料共伊包。
+> 兩三日後才換藥。閣一个法度看第 156 圖；就是將流血的所在的皮膚掕浮；用過消毒的針對皮下貫過去；用淡薄棉花下頂面，才用線縛牢親像 8 字形；用包傷料共伊包。
 
 ---
 

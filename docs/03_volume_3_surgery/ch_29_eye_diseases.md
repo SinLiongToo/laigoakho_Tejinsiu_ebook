@@ -79,7 +79,7 @@ Kah i ba̍k-chiu thí khui-khui, sóe lâng hō͘ lâu-chhut-lâi. Mî-ji̍t ló
 
 > **【全漢對照】**
 > **〔洗目睭〕**
-> 教伊目睭擘開開，洗膿予流出嚟。暝日攏著按呢洗，一兩點鐘久，著洗一擺。有時著用 lâ-lûn-sio（昇汞水）的 *lotio hydrarg. perchlor.* 1—5,000 來洗。一日一擺著用 *argenti nitras*（硝酸銀）的藥，抑是 *cupri sulphas*（硫酸銅）的藥，共伊擦，才用藥水來洗。有時用 *protargol*（蛋白銀）藥水共伊點。若用諸個法度著醫生講才通。
+> 教伊目睭擘開開，洗膿予流出嚟。暝日攏著按呢洗，一兩點鐘久，著洗一擺。有時著用 lâ-lûn-sio（昇汞水）的 *lotio hydrarg. perchlor.* 1—5,000 來洗。一日一擺著用 *argenti nitras*（硝酸銀）的藥，抑是 *cupri sulphas*（硫酸銅）的藥，共伊擦，才用藥水來洗。有時用 *protargol*（蛋白銀）藥水共伊點。若用諸个法度著醫生講才通。
 
 ---
 
@@ -177,7 +177,7 @@ kak-mo̍h ē siⁿ ùi-iông, ē pháiⁿ-khì (tē 245 tô͘). I-tī ê hoat-t�
 Kak-mo̍h-ùi-iông ê pīⁿ-khoán, tē it kiaⁿ thīⁿ kng. Nā gín-ná tú-tio̍h chit hō chèng, i ê ba̍k-chiu lóng m̄-ài thí-khui, siông-siông ài ēng mi̍h jia-khàm i ê ba̍k-chiu. Ū-sî tio̍h ēng bâ-chùi-io̍h hō͘ i m̄-chai-lâng, chiah chiong hit ê thiàⁿ ê só͘-chāi kā i sio. Ū-sî ēng kāu ê *acidum carbolicum* ûn-ûn-á chhat ùi-iông ; chiah ê chhiú-su̍t tio̍h i-seng chòe.
 
 > **【全漢對照】**
-> 角膜潰瘍的病款，第一驚「睼光」（畏光）。若囡仔抵著此號症，伊的目睭攏毋愛擘開，常常愛用物遮覆伊的目睭。有時著用麻醉藥予伊毋知人，才將彼個疼的所在共伊燒。有時用厚的 *acidum carbolicum*（石炭酸／酚）勻勻仔擦潰瘍；諸個手術著醫生做。
+> 角膜潰瘍的病款，第一驚「睼光」（畏光）。若囡仔抵著此號症，伊的目睭攏毋愛擘開，常常愛用物遮覆伊的目睭。有時著用麻醉藥予伊毋知人，才將彼个疼的所在共伊燒。有時用厚的 *acidum carbolicum*（石炭酸／酚）勻勻仔擦潰瘍；諸个手術著醫生做。
 
 ---
 
@@ -456,7 +456,7 @@ Nā bák-chiu chèng siuⁿ siong-tiōng, á-sī bák-chiu-jîn tióh tāng sion
 >
 > 器具：開瞼器；反針剪刀；眼球摘出剪刀；眼球固定鋏仔；斜視鉤；動脈鉗，2 枝。
 >
-> 若目睭真正傷傷重，抑是目睭仁著重傷袂會醫治得，有時著用摘出術，將彼粒目睭仁割出來。摘出了連鞭用 *acidum boricum*（硼酸）的藥粉置佇目睭窠的所在，也用棉紗揳予伊安，莫得予伊流血，用繃帶給縛。過一日抑是兩日了後用 *lotio acidi borici* 的藥水，一日洗三擺。過五禮拜以後，彼個目睭孔已經好。
+> 若目睭真正傷傷重，抑是目睭仁著重傷袂會醫治得，有時著用摘出術，將彼粒目睭仁割出來。摘出了連鞭用 *acidum boricum*（硼酸）的藥粉置佇目睭窠的所在，也用棉紗揳予伊安，莫得予伊流血，用繃帶給縛。過一日抑是兩日了後用 *lotio acidi borici* 的藥水，一日洗三擺。過五禮拜以後，彼个目睭孔已經好。
 
 ---
 
@@ -501,7 +501,7 @@ Nā bák-chiu tióh siong, bô sió-sim lâi i-tī, chiū bô tióh-siong ê bá
 Le̍k-lāi-chiàng: Iáu ū chi̍t khoán ba̍k-chiu pīⁿ ū-sî ōe tì-kàu chhiⁿ-mî, kiò-chòe le̍k-lāi-chiàng (綠內障, glaucoma). Chit hō pīⁿ-lâng ê ba̍k-chiu-jîn pìⁿ-chiaⁿⁿ tēng. Tùi án-ni ū teh-tio̍h sī-sīn-keng-leng-thâu hō͘ i pháiⁿ-khì, tì-kàu chiām-chiām bū, khòaⁿ bōe bêng. Chit-ê khah-siông sī lāu-lâng chiah ōe án-ni. Ū-sî i-seng ēng chhiú-su̍t lâi hō͘ i m̄-bián chhiⁿ-mî. Tio̍h ēng *eserina* ê ióh tiám ba̍k-chiu-lāi.
 
 > **【全漢對照】**
-> 綠內障：猶有一款目睭病有時會致到青盲，叫做綠內障（綠內障，glaucoma）。此號病人的目睭仁變真正硬。對按呢有壓著視神經𥹋頭互伊沛去，致到漸漸霧，看𣍐明。這個較常是老人才會按呢。有時醫生用手術來互伊毋免青盲。著用 *eserina* 的藥點目睭內。
+> 綠內障：猶有一款目睭病有時會致到青盲，叫做綠內障（綠內障，glaucoma）。此號病人的目睭仁變真正硬。對按呢有壓著視神經𥹋頭互伊沛去，致到漸漸霧，看𣍐明。這个較常是老人才會按呢。有時醫生用手術來互伊毋免青盲。著用 *eserina* 的藥點目睭內。
 
 ---
 
@@ -526,7 +526,7 @@ Nā ū sím-mih mi̍h ji̍p tī ba̍k-chiu-lāi, chhē bōe tio̍h ê sî, tāi-
 Chòe jia-ba̍k-chiu ê hoat: Ēng ngó͘-chóa koh pè chi̍t iân o͘-pò͘; ka hō͘ chhin-chhiūⁿ ge̍h-bâi ê khoán. Nñg pêng chiam-chiam ê só͘-chāi, chiah chhng soh-á, kat tī pīⁿ-lâng ê āu-khok-nih. Chóng-sī chit ê jia-gán, chì-hó chi̍t lâng ēng chi̍t-ê chiū hó. Ēng liáu tio̍h sio-khì, m̄-thang koh-chài hō͘ pát lâng ēng.
 
 > **【全漢對照】**
-> 做遮目睭的法：用厚紙閣蔽一沿黑布；剪互親像月眉的款。兩爿尖尖的所在，才穿索仔，結佇病人的後硞裏。總是指個遮眼，至好一人用一個就好。用了著燒去，毋通閣再互別人用。
+> 做遮目睭的法：用厚紙閣蔽一沿黑布；剪互親像月眉的款。兩爿尖尖的所在，才穿索仔，結佇病人的後硞裏。總是指个遮眼，至好一人用一个就好。用了著燒去，毋通閣再互別人用。
 
 ---
 

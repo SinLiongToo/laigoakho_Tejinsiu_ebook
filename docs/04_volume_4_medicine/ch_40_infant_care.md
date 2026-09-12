@@ -39,7 +39,7 @@ Ta̍k ê khàn-hō͘ tiòh chai siáu-jî sí-bông-sò͘ chin koâiⁿ. Chit-ê
 > **【全漢對照】**
 > *〔邊註：死亡數〕*
 > 
-> 逐個看護著知小兒死亡數真懸。這個是真可惜，也較多是對無見識才按呢。對生理學來想，就知道囡仔
+> 逐个看護著知小兒死亡數真懸。這个是真可惜，也較多是對無見色才按呢。對生理學來想，就知道囡仔
 
 ---
 
@@ -78,7 +78,7 @@ Lâng bô lūn tōa-lâng á-sī gín-ná, tùi si̍t-bu̍t tit-tio̍h lī-ek, s
 Gín-ná ê tāng-liōng kap seng-tióng: Gín-ná thâu chi̍t nî ê tāng-liōng ti̍h kì, in-ūi tāng-liōng sī gín-ná hoat-io̍k oân-choân ê chèng-kù. Só͘-í khàn-hō͘-hoat hó á-sī m̄-hó, iā thang koat-tēng. Gín-ná ê tāng-liōng phêng-hoat chiàu ē-bīn. Khí-thâu 6 ge̍h-ji̍t ti̍h ta̍k lé-pài chi̍t pái, kàu 3 ge̍h-ji̍t í-siōng nñg lé-pài chi̍t pái, nā chi̍t hè chiok, chì chió chi̍t ge̍h-ji̍t ti̍h chi̍t pái.
 
 > **【全漢對照】**
-> 囡仔的重量佮生長：囡仔頭一年的重量著記，因為重量是囡仔發育完全的證據。所以看護法好抑是毋好，也通決定。囡仔的重量秤法照下面。起頭6個月日著逐禮拜一擺，到3個月日以上兩禮拜一擺，若一歲足，至少一個月日著一擺。
+> 囡仔的重量佮生長：囡仔頭一年的重量著記，因為重量是囡仔發育完全的證據。所以看護法好抑是毋好，也通決定。囡仔的重量秤法照下面。起頭6个月日著逐禮拜一擺，到3个月日以上兩禮拜一擺，若一歲足，至少一个月日著一擺。
 
 ---
 
@@ -92,14 +92,14 @@ Gín-ná tú-á siⁿ saⁿ sì ji̍t chiū-sī sit tāng 100 chì 200 *grms*. (
 Gín-ná tú-á chhut-sì ê sî, i ê tāng-liōng pêng-kun tāi-iok 6 pōng-pòaⁿ chì 7 pōng-pòaⁿ. Nā kàu 3 ge̍h-ji̍t, ti̍h ū 9 pōng-pòaⁿ chì 13 pōng ; tē 6 ge̍h-ji̍t, ti̍h ū 12 pōng chì 16 pōng ; 9 ge̍h-ji̍t, ti̍h ū 15 pōng-pòaⁿ chì 18 pōng ; chi̍t nî ti̍h ū 18 pōng-pòaⁿ chì 22 pōng. Kìⁿ-nā ióng-chòng ê gín-ná, thèng-hāu kàu 5 ge̍h, i ê tāng-liōng ē tēng-pē ; nā 12 ge̍h ē saⁿ pē.
 
 > **【全漢對照】**
-> 囡仔拄仔出生的時，伊的重量平均大約 6 磅半至 7 磅半。若到 3 個月日，著有 9 磅半至 13 磅；第 6 個月日，著有 12 磅至 16 磅；9 個月日，著有 15 磅半至 18 磅；一年著有 18 磅半至 22 磅。見若勇壯的囡仔，聽候到 5 月，伊的重量會重倍（加倍）；若 12 月會三倍。
+> 囡仔拄仔出生的時，伊的重量平均大約 6 磅半至 7 磅半。若到 3 个月日，著有 9 磅半至 13 磅；第 6 个月日，著有 12 磅至 16 磅；9 个月日，著有 15 磅半至 18 磅；一年著有 18 磅半至 22 磅。見若勇壯的囡仔，聽候到 5 月，伊的重量會重倍（加倍）；若 12 月會三倍。
 
 ---
 
 Ióng-chòng ê gín-ná ê tāng-liōng, ke-thiⁿ khah-chōe sī chiàu kui-kú. Chóng-sī 7 kàu 8 ge̍h-ji̍t, gín-ná kiám-chhái in-ūi hoat chhùi-khí, á-sī in-ūi thiⁿ-khì siuⁿ joa̍h, tì-kàu bô ke-thiⁿ i ê tāng-liōng, nā-sī tī chi̍t lé-pài-lāi, lóng-
 
 > **【全漢對照】**
-> 勇壯的囡仔的重量，加添較多是照規矩。總是 7 到 8 個月日，囡仔檢綵因為發喙齒，抑是因為天氣傷熱，致到無加添伊的重量，若是佇一禮拜內，攏——
+> 勇壯的囡仔的重量，加添較多是照規矩。總是 7 到 8 个月日，囡仔檢綵因為發喙齒，抑是因為天氣傷熱，致到無加添伊的重量，若是佇一禮拜內，攏——
 
 <!-- Page 647 End -->
 
@@ -161,7 +161,7 @@ Kàu tī 4 ge̍h-ji̍t ê gín-ná, thâu-khak chiah thang phō hō͘ khiā-khí
 > **【全漢對照】**
 > **［頭殼通抱予豎起來］**
 > 
-> 到佇 4 個月的囡仔，頭殼才通抱予豎起來。到第 12 個月就會豎；對 15 至 18 個月就會行走。
+> 到佇 4 个月的囡仔，頭殼才通抱予豎起來。到第 12 个月就會豎；對 15 至 18 个月就會行走。
 
 ---
 
@@ -172,14 +172,14 @@ Gín-ná iáu-bē hoat-khí ê sî, bē siau-hòa gō͘-kak ê si̍t-bu̍t, só�
 > **【全漢對照】**
 > **［食奶］**
 > 
-> 囡仔猶未發齒的時，袂消化五穀的食物，所以佇九個月內著食人奶，抑是牛奶。
+> 囡仔猶未發齒的時，袂消化五穀的食物，所以佇九个月內著食人奶，抑是牛奶。
 
 ---
 
 Gín-ná ê tāi-piān chhut-sì liáu-āu, keh saⁿ sì ji̍t, hit-ê pùn ê sek sī o͘-ê, āu-lâi chiām-chiām piàn-ōaⁿ, chhin-chhiūⁿ kiáu koe-nn̄g ê khoán-sit. Thâu chit lé-pài ta̍k ji̍t tāi-piān n̄g saⁿ pái. Āu-lâi hit-ê pùn ê sek sī nĝ-gâm, iā khah bē kà-kà, kàu tē cháp-jī ge̍h-ji̍t ê sî, ta̍k ji̍t tāi-piān, chi̍t n̄g pái. Nā ū pīⁿ ê sî, tāi-piān chiúⁿ pīⁿ chhiⁿ-sek ê pùn, iā lóng chúi-chúi kà-kà, koh chin chhàu, pùn-nih ū bē siau-hòa ê mi̍h, iā ū-sî ē kâⁿ huih chhut-lâi.
 
 > **【全漢對照】**
-> 囡仔的大便出世了後，隔三四日，彼個糞的色是烏的，後來漸漸變換，親像攪雞卵的款式。頭一禮拜逐日大便兩三擺。後來彼個糞的色是黃含，也較袂酵酵，到第十二個月的時，逐日大便，一兩擺。若有病的時，大便像變青色的糞，也攏水水酵酵，閣真臭，糞裡有袂消化的物，也有時會含血出來。
+> 囡仔的大便出世了後，隔三四日，彼个糞的色是烏的，後來漸漸變換，親像攪雞卵的款式。頭一禮拜逐日大便兩三擺。後來彼个糞的色是黃含，也較袂酵酵，到第十二个月的時，逐日大便，一兩擺。若有病的時，大便像變青色的糞，也攏水水酵酵，閣真臭，糞裡有袂消化的物，也有時會含血出來。
 
 ---
 
@@ -247,7 +247,7 @@ Tē jī ji̍t tio̍h hō͘ gín-ná chia̍h leng sì gō͘ pái chiū hó. Āu-l
 
 > **【全漢對照】**
 > **〔第二日〕**
-> 第二日著予囡仔食奶四五擺就好。後來著兩點鐘食一擺。暝時對十點，到早起時七點，予食兩擺就好。對一個月到第五個月，暝時食一擺就好；後來對十點，到七點，攏毋免予伊食奶。較大面來講，頭一暝無予食，囡仔會吼，第二暝會閣吼，毋過連鞭睏，第三暝抑是第四暝攏好睏。
+> 第二日著予囡仔食奶四五擺就好。後來著兩點鐘食一擺。暝時對十點，到早起時七點，予食兩擺就好。對一个月到第五个月，暝時食一擺就好；後來對十點，到七點，攏毋免予伊食奶。較大面來講，頭一暝無予食，囡仔會吼，第二暝會閣吼，毋過連鞭睏，第三暝抑是第四暝攏好睏。
 
 ---
 
@@ -304,7 +304,7 @@ Chia̍h leng liáu tio̍h ēng sio-chúi lâi sóe leng-thâu, kap leng-phong; t
 Tṉ̄g-leng: Gín-ná nā í-keng káu ge̍h chiok, tióh tṉ̄g-leng. Siōng kú sī cha̍p-jī ge̍h. Bat khòaⁿ-kìⁿ gín-ná nñg hè, saⁿ hè, sì hè, iáu teh chia̍h lāu-bú ê leng, án-ni chin tōa m̄-tióh. Nā án-ni chia̍h leng siuⁿ kú, gín-ná bōe ióng, m̄-chiāⁿ gín-ná, lāu-bú iā ōe soe-jio̍k pìⁿ pîn-hiat. Lâng kóng "lâng chia̍h a-phiàn, a-phiàn chia̍h lâng," á-sī "lâng chia̍h chiú, chiú chia̍h lâng," án-ni gín-ná chia̍h leng siuⁿ kú thang kóng, gín-ná chia̍h lāu-bú, lāu-bú chia̍h gín-ná, lóng siū sún-hāi. Tṉ̄g-leng ê sî-chūn tī chhiu-thiⁿ, á-sī tang-thiⁿ khah hó, iā m̄-thang hut-jiân tṉ̄g, tióh ûn-ûn-á tṉ̄g-leng khah hó.
 
 > **【全漢對照】**
-> **斷奶**：囡仔若已經九個月足，著斷奶。尚久是十二個月。曾看見囡仔兩歲、三歲、四歲，猶咧食老母的奶，按呢真大伓著。若按呢食奶傷久，囡仔𣍐勇、伓成囡仔，老母也𣍐衰弱變貧血。人講「人食鴉片，鴉片食人」，抑是「人食酒，酒食人」，按呢囡仔食奶傷久通講，囡仔食老母，老母食囡仔，攏受損害。斷奶的時陣佇秋天、抑是冬天較好，也伓通忽然斷，著勻勻仔斷奶較好。
+> **斷奶**：囡仔若已經九个月足，著斷奶。尚久是十二个月。曾看見囡仔兩歲、三歲、四歲，猶咧食老母的奶，按呢真大伓著。若按呢食奶傷久，囡仔𣍐勇、伓成囡仔，老母也𣍐衰弱變貧血。人講「人食鴉片，鴉片食人」，抑是「人食酒，酒食人」，按呢囡仔食奶傷久通講，囡仔食老母，老母食囡仔，攏受損害。斷奶的時陣佇秋天、抑是冬天較好，也伓通忽然斷，著勻勻仔斷奶較好。
 
 ---
 
@@ -313,7 +313,7 @@ Tṉ̄g-leng: Gín-ná nā í-keng káu ge̍h chiok, tióh tṉ̄g-leng. Siōng 
 Ēng gû-leng, á-sī lâng chòe ê si̍t-bu̍t hō͘ chia̍h: Nā-sī gín-ná bōe tit thang chia̍h lâng-leng, tióh chia̍h gû-leng. Chit hō gû-leng pí lâng chòe ê si̍t-bu̍t khah hó. Lâng-leng kap gû-leng bô sio-siāng; gû-leng ū nñg-pe̍h-chit khah-chōe, thn̂g-chit khah chió. Só͘-í beh chiong gû-leng hō͘ i chia̍h, tióh phè-ha̍p chúi. Gín-ná tú-á chhut-sì tùi chit lé-pài kàu chit ge̍h-ji̍t, tióh chi̍t hūn ê gû-leng phàu nñg hūn ê chúi; iā tióh chham tām-póh thn̂g; ū-sî tióh ke gû-leng hit téng-bīn ê phê (*cream*). Chit hō gû-leng nā kàu-gia̍h kāu, m̄-bián ke gû-leng-phê, kiaⁿ-liáu chia̍h bōe siau-hòa. Gín-ná ná tōa, chúi tióh chiām-chiām kiám-chió. Gín-ná nā saⁿ ge̍h-ji̍t, gû-leng kap chúi tióh tùi pòaⁿ. Gín-ná kàu la̍k ge̍h-ji̍t í-āu tióh nñg hūn gû-leng, chi̍t hūn chúi; iā chhit ge̍h m̄-bián phàu chúi, hō͘ i chia̍h gû-leng tú-hó. Chit-tiáp thang hō͘ i lim tām-póh ám, á-sī chi̍t pòaⁿ-pái ēng hún lūi hō͘ chia̍h. Cha̍p ge̍h-ji̍t thang hō͘ chia̍h bah-tê á-sī koe-thng. Gín-ná chit hè chiok chiū
 
 > **【全漢對照】**
-> **用牛奶，抑是人做的食物予食**：若是囡仔𣍐得通食人奶，著食牛奶。這號牛奶比人做的食物較好。人奶 kap 牛奶無相同；牛奶有卵白質較濟，糖質較少。所以欲將牛奶予伊食，著配合水。囡仔拄仔出世對一禮拜到一個月日，著一份的牛奶泡兩份的水；也著摻淡薄糖；有時著加牛奶彼頂面的皮（cream，鮮奶油）。這號牛奶若夠額厚，免加牛奶皮，驚了食𣍐消化。囡仔若大，水著漸漸減少。囡仔若三個月日，牛奶 kap 水著對半。囡仔到六個月日以後著兩份牛奶，一份水；也七個月免泡水，予伊食牛奶拄好。這霎通予伊啉淡薄泔，抑是一半擺用粉類予食。十個月日通予食肉茶抑是雞湯。囡仔一歲足就……
+> **用牛奶，抑是人做的食物予食**：若是囡仔𣍐得通食人奶，著食牛奶。這號牛奶比人做的食物較好。人奶 kap 牛奶無相同；牛奶有卵白質較濟，糖質較少。所以欲將牛奶予伊食，著配合水。囡仔拄仔出世對一禮拜到一个月日，著一份的牛奶泡兩份的水；也著摻淡薄糖；有時著加牛奶彼頂面的皮（cream，鮮奶油）。這號牛奶若夠額厚，免加牛奶皮，驚了食𣍐消化。囡仔若大，水著漸漸減少。囡仔若三个月日，牛奶 kap 水著對半。囡仔到六个月日以後著兩份牛奶，一份水；也七个月免泡水，予伊食牛奶拄好。這霎通予伊啉淡薄泔，抑是一半擺用粉類予食。十个月日通予食肉茶抑是雞湯。囡仔一歲足就……
 
 ---
 
@@ -322,7 +322,7 @@ Tṉ̄g-leng: Gín-ná nā í-keng káu ge̍h chiok, tióh tṉ̄g-leng. Siōng 
 Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong,......thang ji̍p lí ê chú-lâng ê khoài-lo̍k (Má-thài 25 : 21).
 
 > **【全漢對照】**
-> 好閣盡忠的奴僕，你佇少個已經盡忠，……通入你的主人的快樂（馬太 25：21）。
+> 好閣盡忠的奴僕，你佇少个已經盡忠，……通入你的主人的快樂（馬太 25：21）。
 
 <!-- Page 650 End -->
 
@@ -336,7 +336,7 @@ Hó koh chīn-tiong ê lô͘-po̍k, lí tī chió-ê í-keng chīn-tiong,......t
 ...thang chia̍h koe-nñg, á-sī bê kap gû-leng. Āu-lâi ná-kú, ná hō͘ chia̍h khah tēng ê mih; cha̍p-poeh ge̍h-ji̍t thang chia̍h tām-po̍h nńg-nńg ê bah. Put-sî ti̍o̍h chiong kam-á ké-chí ê chiap hō͘ gín-ná chia̍h, tî-hông sìⁿ kut ê pīⁿ.
 
 > **【全漢對照】**
-> ...通食雞卵，抑是糜佮牛奶。後來愈久，愈予食較硬的物；十八個月日通食淡薄軟軟的肉。不時著將柑仔果子的汁予囡仔食，預防生骨的病。
+> ...通食雞卵，抑是糜佮牛奶。後來愈久，愈予食較硬的物；十八个月日通食淡薄軟軟的肉。不時著將柑仔果子的汁予囡仔食，預防生骨的病。
 
 ---
 
@@ -358,7 +358,7 @@ Gín-ná chia̍h leng ū tiāⁿ-ti̍o̍h ê kui-kú:
 > 
 > 1. 囡仔食奶，有一定ptrê時，未到食的時，毋通予伊食。
 > 2. 食奶的時，看護著踮房裡，毋通出去予家己食，亦毋通予食傷緊，著慢慢食。飼囡仔的時，彼枝飼奶器看護著提佇手裡。
-> 3. 著清潔。囡仔食奶了，彼個飼奶器，著洗予清潔，亦著消毒；洗了浸下水裡；用布掩咧通閣再用。囡仔食奶了著用 *glycerinum*（甘油）佮 *borax*（硼砂）洗伊的嘴內予清潔（看第 623 面）。
+> 3. 著清潔。囡仔食奶了，彼个飼奶器，著洗予清潔，亦著消毒；洗了浸下水裡；用布掩咧通閣再用。囡仔食奶了著用 *glycerinum*（甘油）佮 *borax*（硼砂）洗伊的嘴內予清潔（看第 623 面）。
 > 4. 囡仔食一擺的奶毋通過二十分久。
 > 5. 囡仔毋通含奶頭紲睏去。
 > 6. 囡仔食了，若牛奶有賰，毋通閣創燒予食。
@@ -374,9 +374,9 @@ Hit hō tàu tn̂g ê chhiū-leng-kńg ê kan-á sī chin m̄-hó, in-ūi hit ê
 Hit ê leng-thâu ê khang m̄-thang siuⁿ tōa, in-ūi m̄-ài...
 
 > **【全漢對照】**
-> 彼號透長的樹奶管（橡膠管）的矸仔是真毋好，因為彼個樹奶管是真僫清潔。佇樹奶管內微生物真快覕。較好著用一支無樹奶管的牛奶瓶，瓶嘴闊，亦有一個奶頭爾定。牛奶瓶的款式是親像船的形狀；雙頭有孔。這號特別的瓶叫做囡仔的飼奶器。
+> 彼號透長的樹奶管（橡膠管）的矸仔是真毋好，因為彼个樹奶管是真僫清潔。佇樹奶管內微生物真快覕。較好著用一支無樹奶管的牛奶瓶，瓶嘴闊，亦有一个奶頭爾定。牛奶瓶的款式是親像船的形狀；雙頭有孔。這號特別的瓶叫做囡仔的飼奶器。
 > 
-> 彼個奶頭的孔毋通傷大，因為毋愛……
+> 彼个奶頭的孔毋通傷大，因為毋愛……
 
 <!-- Page 651 End -->
 
@@ -401,7 +401,7 @@ hō͘ gín-ná chia̍h leng siuⁿ kín. Pân-bé iā ū chi̍t khang, chit hān
 > **【全漢對照】**
 > **囝仔的飼乳器**　　**623**
 > 
-> 予囝仔食乳傷緊。瓶尾亦有一孔，這項是欲較利便通洗，閣一項囝仔食乳的時，尾彼孔（第 488 圖 A）雖罔有塞，彼個塞中央有鑽一個孔通予空氣隨牛奶入去。
+> 予囝仔食乳傷緊。瓶尾亦有一孔，這項是欲較利便通洗，閣一項囝仔食乳的時，尾彼孔（第 488 圖 A）雖罔有塞，彼个塞中央有鑽一个孔通予空氣隨牛奶入去。
 
 ---
 
@@ -433,8 +433,8 @@ hō͘ gín-ná chia̍h leng siuⁿ kín. Pân-bé iā ū chi̍t khang, chit hān
 
 > **【全漢對照】**
 > 3. 浸佇 *lotio acidi borici*（硼酸洗液），亦用布罨咧。
-> 4. 欲閣用著閣浸佇清氣水，過煠，按呢彼個 *lotio acidi borici* 會洗除去，亦飼乳器會清氣閣熱，攏便通貯牛奶。
-> 5. 若用兩個飼乳器來輪流，亦是較好。
+> 4. 欲閣用著閣浸佇清氣水，過煠，按呢彼个 *lotio acidi borici* 會洗除去，亦飼乳器會清氣閣熱，攏便通貯牛奶。
+> 5. 若用兩个飼乳器來輪流，亦是較好。
 
 ---
 
@@ -534,7 +534,7 @@ Sat bî-seng-bu̍t ê hoat-tō͘, sī chiàu ē-bīn :
 Sat-khún liáu ê gû-leng, bô tek-khak thang kóng sī bô-to̍k-ê, in-ūi bî-khún sui-jiân thang sat-chīn, m̄-kú gê-pau (芽胞, spores) nā bô chú khah kú, bōe thang it-chīn châu-bia̍t. Só͘-í chiah ê bô sí ê gê-pau, ōe koh tióng-seng
 
 > **【全漢對照】**
-> 殺菌了的牛乳，無的確通講是無毒的，因為微菌雖然通殺盡，毋過芽胞（芽胞，spores）若無煮較久，袂通一盡剿滅。所以諸個無死的芽胞，會 koh 長生
+> 殺菌了的牛乳，無的確通講是無毒的，因為微菌雖然通殺盡，毋過芽胞（芽胞，spores）若無煮較久，袂通一盡剿滅。所以諸个無死的芽胞，會 koh 長生
 
 ---
 
@@ -566,7 +566,7 @@ chiâⁿ-chòe bî-khún. Ke-thiⁿ un-tō͘ kàu 212° F. (100° C.) sòa chú 
 Kè sat-khún ê gû-leng, hit-ê siau-hòa-sèng ū kóe-ōaⁿ, khah bô hiah khoài siau-hòa. Hit-ê phè-chè, iu-goân kap chhiⁿ gû-leng sio-siāng hoat-tó͘. Ēng chit ê un-tō͘ (212° F., 100° C.), hit ê gû-leng ê siau-hòa-sèng, tì-kàu khah oh, kú-kú chia̍h chit hō leng, ōe hō͘ i tāi-piān khah pì, ōe chó-tòng-tio̍h gín-ná ê ióng-io̍k. Ēng 212° F. ê un-tō͘ lâi kè kún ê gû-leng, chiàu ē-bīn ê sî-chūn, chòe tē it ha̍p lō͘-ēng. Nā kiâⁿ hn̄g-lō͘, put-chí ha̍p-gî, gû-leng chiap-sio̍k hō͘ i kún, chiàu 212° F. (100° C.) ê un-tō͘, keng-kè nn̄g ji̍t, chi̍t pái chi̍t tiám-cheng-kú, hit ê that pân-chhùi ê mî-hoe, m̄-thang sóa-khì.
 
 > **【全漢對照】**
-> 過殺菌的牛奶，彼個消化性有改換，較無遐快消化。彼個配劑，猶原佮生牛奶相樣發倒。用彼個溫度（212° F., 100° C.），彼個牛奶的消化性，致到較僫，久久食這號奶，會互伊大便較秘，會阻擋著囡仔的養育。用 212° F. 的溫度來過滾的牛奶，照下面的時陣，做第一合路用。若行遠路，不止合宜，牛奶接續互伊滾，照 212° F. (100° C.) 的溫度，經過兩日，一次一點鐘久，彼個塞瓶嘴的棉花，唔通徙去。
+> 過殺菌的牛奶，彼个消化性有改換，較無遐快消化。彼个配劑，猶原佮生牛奶相樣發倒。用彼个溫度（212° F., 100° C.），彼个牛奶的消化性，致到較僫，久久食這號奶，會互伊大便較秘，會阻擋著囡仔的養育。用 212° F. 的溫度來過滾的牛奶，照下面的時陣，做第一合路用。若行遠路，不止合宜，牛奶接續互伊滾，照 212° F. (100° C.) 的溫度，經過兩日，一次一點鐘久，彼个塞瓶嘴的棉花，唔通徙去。
 
 ---
 
@@ -673,7 +673,7 @@ Tē 489 tô͘.—Jîn-kong-ho͘-khip. Ho͘-chhut. (From Warwick and Tunstall's "
 **[Ho͘-chhut]** Saⁿ, kap io-tòa tio̍h pàng lēng. Jiân-āu phoah tī i ê seng-khu, kūi tī tōe-nih, á-sī kūi tī pīⁿ-á; bīn ng pīⁿ-lâng ê thâu-khak. Ēng siang chhiú hoaⁿ tī pīⁿ-lâng heng-āu, chha-put-to tī tē 10—12 ki ê hia̍p-kut ê só͘-chāi. Án-ni chiong chhiú chhun-ti̍t, seng-khu phak-teh, hō͘ seng-khu ê tāng-liōng lo̍h teh tī pīⁿ-lâng ka-chiah ê hā-pō͘; chhin-chhiūⁿ tē 489 tô͘. Chit ê hoat-tō͘ ōe hō͘ pīⁿ-lâng ho͘-chhut, nā khì-kńg-lāi ū chúi iā ōe pang-chān i ho͘-chhut.
 
 > **【全漢對照】**
-> **【邊註：呼出】** 衫、及腰帶著放冷。然後跨佇伊的身軀，跪佇地裡，抑是跪佇病蓆；面向病人的頭殼。用雙手搲佇病人胸後，差不多佇第 10—12 支的脅骨的所在。按呢將手伸直，身軀仆咧，互身軀的重量落壓佇病人胛脊的下部；親像第 489 圖。此個法度會互病人呼出，若氣管內有水亦會幫助伊呼出。
+> **【邊註：呼出】** 衫、及腰帶著放冷。然後跨佇伊的身軀，跪佇地裡，抑是跪佇病蓆；面向病人的頭殼。用雙手搲佇病人胸後，差不多佇第 10—12 支的脅骨的所在。按呢將手伸直，身軀仆咧，互身軀的重量落壓佇病人胛脊的下部；親像第 489 圖。此个法度會互病人呼出，若氣管內有水亦會幫助伊呼出。
 
 <!-- Page 657 End -->
 
@@ -703,7 +703,7 @@ Teh teh ê sî, bān-bān sǹg 1, 2, 3 ; sǹg liáu sûi-sî chiū chiong seng-k
 Múi hun cheng chiong chit ê hoat, iok óa 15 pái, nā kàu pīⁿ-lâng ka-kī ho͘-khip hoat-khí, chhiat-chhiat bo̍h-tit thêng-chí, thèng-hāu i hoat-sīⁿ ê liáu-āu, ū chiàu chhù-sū, hit sî chiah thang thêng-chí chit ê hoat. Tio̍h sòe-jī chiàu-kò͘, siat-sú ho͘-khip sió-khóa koh thêng-chí, iû-goân tio̍h chiàu chêng ê hoat koh-chài chòe, chiah ōe ēng-tit. 〔邊註：Múi hun-cheng 15 pái〕
 
 > **【全漢對照】**  
-> 每分鐘將此個法，約倚 15 擺，若到病人自己呼吸發起，切切莫得停止，聽候伊發醒的了後，有照次序，彼時才通停止此個法。著細貳照顧，設使呼吸小許閣停止，猶原著照前的法閣再做，才會用得。〔邊註：每分鐘 15 擺〕
+> 每分鐘將此个法，約倚 15 擺，若到病人自己呼吸發起，切切莫得停止，聽候伊發醒的了後，有照次序，彼時才通停止此个法。著細貳照顧，設使呼吸小許閣停止，猶原著照前的法閣再做，才會用得。〔邊註：每分鐘 15 擺〕
 
 ---
 
@@ -717,14 +717,14 @@ Múi hun cheng chiong chit ê hoat, iok óa 15 pái, nā kàu pīⁿ-lâng ka-k�
 Kìⁿ-nā chòe jîn-kong-ho͘-khip ê hoat-tō͘, bô lūn pīⁿ-lâng sī im-chúi, á-sī tiòng-to̍k, tek-khak tio̍h liām-piⁿ chiong chit ê hoat-tō͘ lâi chòe, m̄-thang iân-chhiān. Chhiat-chhiat bo̍h-tit tāi-seng oaⁿ i ê i-chiûⁿ, lâi tì-kàu gō͘ liáu kè-sî. Pīⁿ-lâng ū ho͘-khip liáu-āu, chiah thang sûi- 〔邊註：Bo̍h-tit iân-chhiān〕
 
 > **【全漢對照】**  
-> 見若做人工呼吸的法度，無論病人是淹水，抑是中毒，的確著連鞭將此個法度來做，唔通延遷。切切莫得代先換伊的衣裳，來致到誤了過時。病人有呼吸了後，才通隨—— 〔邊註：莫得延遷〕
+> 見若做人工呼吸的法度，無論病人是淹水，抑是中毒，的確著連鞭將此个法度來做，唔通延遷。切切莫得代先換伊的衣裳，來致到誤了過時。病人有呼吸了後，才通隨—— 〔邊註：莫得延遷〕
 
 ---
 
 \* Tī chia kì 503 tô͘ in-ūi chheh ê tiong-ng ū ke pó͘-ji̍p 14 ê tô͘.
 
 > **【全漢對照】**  
-> \* 佇遮記 503 圖因為冊的中央有加補入 14 個圖。
+> \* 佇遮記 503 圖因為冊的中央有加補入 14 个圖。
 
 <!-- Page 658 End -->
 
@@ -747,7 +747,7 @@ i hō͘ i tó-teh khùn, jiân-āu chiah ēng hoat-tō͘ hō͘ i ê seng-khu ōe
 Nā kan-ta ka-kī chi̍t lâng, bô chō͘-chhiú chiū choan-bū chhòng hō͘ i ho͘-khip, hō͘ pīⁿ-lâng ho͘-khip hoat-seng, chū-jiân chòe tē it iàu-kín. Nā ū chō͘-chhiú chiū tōa-thúi ê tiong-kan, nn̄g pêng koh-ē, kap kha téng-bīn chiah ê só͘-chāi, pîⁿ-pîⁿ lóng thang ēng sio ê mi̍h, chhin-chhiūⁿ sio ê hip-pò͘, á-sī sio-chúi-koàn chiah-ê. Chóng-sī m̄-thang thêng-chí jîn-kong-ho͘-khip ê hoat-tō͘. Thèng-hāu í-keng ū ho͘-khip liáu-áu, chiah thang chiong tâm saⁿ ōaⁿ-khí-lâi. Nā ū chō͘-chhiú chiū tio̍h kiò i liâm-piⁿ kā pīⁿ-lâng ōaⁿ saⁿ, chiong sio ê thán-á kah-teh.
 
 > **【全漢對照】**
-> 若干旦自己一人，無助手就專務創予伊呼吸，予病人呼吸發生，自然做第一要緊。若有助手就大腿的中間，兩爿胳下，佮腳頂面諸個所在，平平攏通用燒的物，親像燒的溚布，抑是燒水罐諸個。總是不通停止人工呼吸的法度。聽候已經有呼吸了後，才通將濕衫換起來。若有助手就著叫伊連鞭共病人換衫，將燒的毯仔蓋咧。
+> 若干旦自己一人，無助手就專務創予伊呼吸，予病人呼吸發生，自然做第一要緊。若有助手就大腿的中間，兩爿胳下，佮腳頂面諸个所在，平平攏通用燒的物，親像燒的溚布，抑是燒水罐諸个。總是不通停止人工呼吸的法度。聽候已經有呼吸了後，才通將濕衫換起來。若有助手就著叫伊連鞭共病人換衫，將燒的毯仔蓋咧。
 
 ---
 
@@ -772,7 +772,7 @@ Kip-kiù ê sî, ū kúi-nā hāng tio̍h tì-ì:
 
 > **【全漢對照】**
 > 急救的時，有幾若項著致意：
-> 1. 來做諸個急救的法，不通延遷。
+> 1. 來做諸个急救的法，不通延遷。
 > 2. 著要緊連鞭做人工呼吸。
 > 3. 不通予病仔的人圍咧，致到予病人𣍐受著夠額空氣。
 > 4. 不通共病人扛來扛去，抑是共伊振動來攪擾伊。
@@ -823,7 +823,7 @@ Nā iáu-bē sǹg ho͘-khip m̄-thang kì chha-put-to.
 Lâng ēng soh-á tiàu ām teh-beh lâi chū-chīn, hit ê kip-kiù ê hoat, sī chiàu ē-bīn :
 
 > **【全漢對照】**
-> 人用索仔吊頷欲來自盡，彼個急救的法，是照下面：
+> 人用索仔吊頷欲來自盡，彼个急救的法，是照下面：
 
 Tióh liâm-piⁿ chiong soh-á koah hō͘ i tn̄g, á-sī kā i pàng lóh kē; beh koah tn̄g soh-á, tióh m̄-thang hō͘ i siak-lóh thô͘-kha, tióh ûn-ûn-á hû-lóh-lâi. Nā seng-khu-ni̍h ū pa̍k-ân-ê, chhin-chhiūⁿ saⁿ, á-sī io-tòa, á-sī tiàu ām ê soh-á, tióh pàng lēng; nā beh khah kín, tióh ēng ka-to ka tn̄g. Tióh m̄-thang hō͘ piⁿ-á ê lâng ûi-teh, tì-kàu bô kàu-gia̍h khong-khì thang khip-ji̍p. Tióh hō͘ hong chhe-tióh i ê bīn. Tióh chiong léng-chúi phoah i ê bīn kap heng-khám, iā chòe jîn-kong-ho͘-khip, kàu ho͘-khip ū chiàu chhù-sū chiah soah.
 
@@ -837,7 +837,7 @@ Tióh liâm-piⁿ chiong soh-á koah hō͘ i tn̄g, á-sī kā i pàng lóh kē;
 Lūn gâm-chéng nā khí-thâu liâm-piⁿ chiū-kūn i-seng i-tī, chiong chit-ê chhiat-tû, kiám-chhái ōe hó, chóng-sī nā iân-chhiân kàu siuⁿ kú, chiū bōe táⁿ-tiàp-tit. Só͘-í tī ē-bīn ū hoan-e̍k Eng-kok chit-ê Phok-i-hōe só͘ kì chit ê chú-kiong pīⁿ khí-thâu ê chèng-chōng, hō͘ pêng-siông lâng chai thang kóaⁿ-kín tī-liâu.
 
 > **【全漢對照】**
-> 論癌症若起頭連鞭就近醫生醫治，將這個切除，檢綵會好，總是若延遷到傷久，就袂打疊得。所以佇下面有翻譯英國這個博醫會所記這個子宮病起頭的症狀，予平常人知通趕緊治療。
+> 論癌症若起頭連鞭就近醫生醫治，將這个切除，檢綵會好，總是若延遷到傷久，就袂打疊得。所以佇下面有翻譯英國這个博醫會所記這个子宮病起頭的症狀，予平常人知通趕緊治療。
 
 Chit hō pīⁿ chiū-sī hū-jîn-lâng chòe thang kiaⁿ ê chèng.
 
@@ -847,7 +847,7 @@ Chit hō pīⁿ chiū-sī hū-jîn-lâng chòe thang kiaⁿ ê chèng.
 Nā bô kóaⁿ-kín chiong chit ê gâm-chéng chhiat-tû-khì, siông-siông in-ūi án-ni lâi tì-kàu sit-lóh sìⁿ-miā.
 
 > **【全漢對照】**
-> 若無趕緊將這個癌症切除去，常常因為按呢來到失落性命。
+> 若無趕緊將這个癌症切除去，常常因為按呢來到失落性命。
 
 ---
 
@@ -872,7 +872,7 @@ Ták ji̍t, ták hun-cheng lóng sī iàu-kín, m̄-thang iân-chhiân phah-sńg
 
 > **【全漢對照】**  
 > **［邊註：子宮癌症］**  
-> 此個症起頭起的時，干單顯出佇一局部位，袂散（thòaⁿ）到通身軀。  
+> 此个症起頭起的時，干單顯出佇一局部位，袂散（thòaⁿ）到通身軀。  
 > 若會通較早切除，較常較快醫治。  
 > 逐日，逐分鐘攏是要緊，毋通延遷拍損時間。
 
@@ -882,7 +882,7 @@ Chit hō chèng khí-thâu hián-chhut ê khoán-sit, tāi-khài im-tō ū âng 
 Chú-kiong nā khap-tio̍h, chiū lâu-huih, tāi-khài sī gâm-chéng.
 
 > **【全漢對照】**  
-> 此號症起頭顯出的款式，大概陰道有紅的排泄物（紅流質，紅流質）；此個排泄物毋是親像月經逐月咧來。此號紅的排泄物，檢采也少少。  
+> 此號症起頭顯出的款式，大概陰道有紅的排泄物（紅流質，紅流質）；此个排泄物毋是親像月經逐月咧來。此號紅的排泄物，檢采也少少。  
 > 子宮若磕著（khap-tio̍h），就流血，大概是癌症。
 
 ---
@@ -971,7 +971,7 @@ Chit hō pīⁿ ê khí-thâu, ū-sî leng-pông-lāi, ū kui-lia̍p tēng-tēng
 Tùi gâm-chéng, gâm-chéng sòe-pau ōe kiâⁿ tùi lîm-pa-kńg kàu hit pō͘-ūi ê lîm-pa-chôaⁿ; iā chiah ê lîm-pa-chôaⁿ ōe chéng, ná-kú ná-tōa-lia̍p. Só͘-í chhiú-sùt tióh khah tōa, iā sī khah ûi-lân chiâu-pī chhiat-tû.
 
 > **【全漢對照】**
-> 對癌症，癌症細胞會行對淋巴管到彼部位的淋巴泉；亦諸個淋巴泉會腫，愈久愈大粒。所以手術著較大，亦是較為難齊備切除。
+> 對癌症，癌症細胞會行對淋巴管到彼部位的淋巴泉；亦諸个淋巴泉會腫，愈久愈大粒。所以手術著較大，亦是較為難齊備切除。
 
 ---
 
@@ -1003,7 +1003,7 @@ Tī ē-bīn só͘ kì ê pió chiū-sī hoat-lûn hān-loán-kè (*Fahrenheit's 
 Peng-tiám 32° F.; 0° C. Kún-chhèng-tiám 212° F.; 100° C.
 
 > **【全漢對照】**
-> 佇下面所記的表就是華倫寒暖計（*Fahrenheit's thermometer*，華氏溫度計）及百度寒暖計（*Centigrade thermometer*，攝氏溫度計）的對照。若欲將 F. 度來對照 C. 度，著將 F. 度減 32，才閣乘 5，才用 9 來分（除）；彼個得數（*quotient*，商數）就是 C. 度。若欲將 C. 度來對照 F. 度，將 C. 度乘 9，用 5 來分，加 32；彼個額數是 F. 度。
+> 佇下面所記的表就是華倫寒暖計（*Fahrenheit's thermometer*，華氏溫度計）及百度寒暖計（*Centigrade thermometer*，攝氏溫度計）的對照。若欲將 F. 度來對照 C. 度，著將 F. 度減 32，才閣乘 5，才用 9 來分（除）；彼个得數（*quotient*，商數）就是 C. 度。若欲將 C. 度來對照 F. 度，將 C. 度乘 9，用 5 來分，加 32；彼个額數是 F. 度。
 > 
 > 冰點 32° F.；0° C.。滾銃點（沸點）212° F.；100° C.。
 

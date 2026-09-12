@@ -16,7 +16,7 @@ Ngó͘-koan-khì sī sîn-keng bé-liu (chiong-khì) ê khì-kū, hō͘ lâng th
 
 > **【全漢對照】**  
 > **【五官器】**  
-> 五官器是神經尾溜（終器）的器具，互人通知抑是分別外來的事。諸個器具受到刺激，就傳到大腦，對按呢會知外面的事。
+> 五官器是神經尾溜（終器）的器具，互人通知抑是分別外來的事。諸个器具受到刺激，就傳到大腦，對按呢會知外面的事。
 
 ---
 
@@ -34,7 +34,7 @@ Phê-lāi ta̍k só͘-chāi ū sîn-keng, só͘-í bong mi̍h ōe liâm-piⁿ hu
 
 > **【全漢對照】**  
 > **【觸器佮觸覺】**  
-> 皮內逐所在有神經，所以摸物會連鞭分別粗幼、燒冷、硬軟，亦會分別物的款式；總是逐所在的皮𣍐平平分別；指頭仔尾佮喙脣皮較𠢕分別。咱較常是倚靠目睭來互咱知物的款式；若是青盲的著摸，才會知物是圓、抑是四角、抑是懸低。咱通用意目睭看書，青盲的，𣍐；所以西國人有備辦書，伊的字形創浮的，青盲人若用指頭仔摸，會分別彼個字，來讀。
+> 皮內逐所在有神經，所以摸物會連鞭分別粗幼、燒冷、硬軟，亦會分別物的款式；總是逐所在的皮𣍐平平分別；指頭仔尾佮喙脣皮較𠢕分別。咱較常是倚靠目睭來互咱知物的款式；若是青盲的著摸，才會知物是圓、抑是四角、抑是懸低。咱通用意目睭看書，青盲的，𣍐；所以西國人有備辦書，伊的字形創浮的，青盲人若用指頭仔摸，會分別彼个字，來讀。
 
 ---
 
@@ -150,7 +150,7 @@ Tī chiah ê leng-thâu ê lāi-bīn, ū te̍k-pia̍t ê chiong-khì, kiò-chòe
 
 > **【全漢對照】**
 > **味覺小體**
-> 佇諸個乳頭的內面，有特別的總器（構造），叫做味覺小體（味覺小體，taste-buds；第 2 圖）。它的路用是在分別滋味。諸個味覺小體內有神經的尾溜。設使下物佇舌頂，若已經化去，彼個滋味快快知。若猶未散，著等候到彼個粉互涎散去，它的味的刺激才會感激（刺激）著味覺小體。這個刺激會傳到大腦在管滋味的所在；對按呢人會分別滋味。
+> 佇諸个乳頭的內面，有特別的總器（構造），叫做味覺小體（味覺小體，taste-buds；第 2 圖）。它的路用是在分別滋味。諸个味覺小體內有神經的尾溜。設使下物佇舌頂，若已經化去，彼个滋味快快知。若猶未散，著等候到彼个粉互涎散去，它的味的刺激才會感激（刺激）著味覺小體。這个刺激會傳到大腦在管滋味的所在；對按呢人會分別滋味。
 
 ---
 
@@ -160,7 +160,7 @@ Phīⁿ kap chu-bī ū saⁿ-liân ê koan-hē; nā chit-ê m̄-hó, hit-ê iā 
 
 > **【全漢對照】**
 > **鼻佮滋味有關聯**
-> 鼻佮滋味有相連的關係；若這個唔好，彼個亦唔好去；親像若感著（感冒），鼻味較𣍐明，滋味依然較唔知。
+> 鼻佮滋味有相連的關係；若這个唔好，彼个亦唔好去；親像若感著（感冒），鼻味較𣍐明，滋味依然較唔知。
 
 ---
 
@@ -227,7 +227,7 @@ Lāi-phīⁿ sī tùi gōa-phīⁿ-khang khí, kàu ian-thâu ûi-chí. Ū chên
 Phīⁿ-lāi ū chi̍t ê keh-piah, sī kut kap nńg-kut lâi chòe chiâⁿ-ê, pun phīⁿ-khang chòe chó-iū pêng. Chit ê piah kiò-chòe phīⁿ-tiong-keh (鼻中隔, *nasal septum*; tē 15 tô͘).
 
 > **【全漢對照】**  
-> 鼻內有一個隔壁，是骨佮軟骨來做成的，分鼻孔做左右爿。這个壁叫做鼻中隔（鼻中隔，*nasal septum*；第 15 圖）。
+> 鼻內有一个隔壁，是骨佮軟骨來做成的，分鼻孔做左右爿。這个壁叫做鼻中隔（鼻中隔，*nasal septum*；第 15 圖）。
 
 ---
 
@@ -311,7 +311,7 @@ Tī gōa-hī kap tiong-hī ê tiong-ng ū chi̍t tēng mō͘h chah-teh, kiò-ch�
 Tē 104 tô͘.—Hī chiàⁿ-pêng chhiat-tnḡ-bīn ê tô͘ : A, hī-sit ; G, gōa-thèng-tō ; T, kó͘-mō͘h ; P, tiong-hī ; E, Iûⁿ-sī kńg ; r, o, nñg ê khang thàu kàu lāi-hī ; B, pòaⁿ-kui-kńg ; S, o-giû-khak ; Pt, Vt, o-giû-khak-lāi ê kńg ; 8, thèng-sîn-keng. (Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers)
 
 > **【全漢對照】**
-> 第 104 圖。—耳正邊切斷面的圖：A，耳室；G，外聽道；T，鼓膜；P，中耳；E，尤氏管；r、o，兩個孔透到內耳；B，半規管；S，蝸牛殼；Pt、Vt，蝸牛殼內的管；8，聽神經。（Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers）
+> 第 104 圖。—耳正邊切斷面的圖：A，耳室；G，外聽道；T，鼓膜；P，中耳；E，尤氏管；r、o，兩个孔透到內耳；B，半規管；S，蝸牛殼；Pt、Vt，蝸牛殼內的管；8，聽神經。（Czermak, from Lewis' “Anatomy and physiology for Nurses,” by permission of W. B. Saunders Co., publishers）
 
 ---
 
@@ -320,7 +320,7 @@ Tē 104 tô͘.—Hī chiàⁿ-pêng chhiat-tnḡ-bīn ê tô͘ : A, hī-sit ; G,
 Tiong-hī chiū-sī chi̍t khang chha-put-to sì gō͘ *milli-metre* ê chhim. Hit tiong-ng ū saⁿ tè sòe-sòe ê kut saⁿ-liân, saⁿ óa. Tiong-hī ê ē-tóe ū chi̍t tiâu kńg, thàu kàu ian-thâu, kiò-chòe Iûⁿ-sī kńg (*Eustachian tube*; tē 104 tô͘ E). Tī tiong-hī ê lāi-bīn piah, ū nñg ê khang, chha-put-to chhin-chhiūⁿ chi̍t lia̍p be̍h ê tōa. Chiah ê khang ê chi̍t-ê, hō͘ chi̍t tè sòe tè kut lâi chòe mn̂g (tē 104 tô͘ o); koh chi̍t-ê, hō͘ mō͘h chah-teh (tē 104 tô͘ r) ; nñg ê khang lóng thàu kàu lāi-hī.
 
 > **【全漢對照】**
-> 中耳就是一個孔差不多四、五 *millimetre* 的深。彼中央有三塊細細的骨相連、相倚。中耳的下底有一條管，透到咽喉，叫做尤氏管（*Eustachian tube*；第 104 圖 E）。佇中耳的內面板，有兩個孔，差不多親像一粒麥的大。諸個孔的一個，互一塊細塊骨來做門（第 104 圖 o）；閣一個，互膜閘咧（第 104 圖 r）；兩個孔攏透到內耳。
+> 中耳就是一个孔差不多四、五 *millimetre* 的深。彼中央有三塊細細的骨相連、相倚。中耳的下底有一條管，透到咽喉，叫做尤氏管（*Eustachian tube*；第 104 圖 E）。佇中耳的內面板，有兩个孔，差不多親像一粒麥的大。諸个孔的一个，互一塊細塊骨來做門（第 104 圖 o）；閣一个，互膜閘咧（第 104 圖 r）；兩个孔攏透到內耳。
 
 ---
 
@@ -329,7 +329,7 @@ Tiong-hī chiū-sī chi̍t khang chha-put-to sì gō͘ *milli-metre* ê chhim. H
 Tī lāi-hī ū saⁿ ê pòaⁿ khoân ê kńg, kiò-chòe saⁿ-pòaⁿ-kui-kńg (三半規管, *three semi-circular canals*). Iā koh chi̍t-ê kńg-lê ê kńg, kiò-chòe o-giû-khak (蝸牛殼, *cochlea*). Lāi-hī ê saⁿ-pòaⁿ-kui-kńg kap o-giû-khak ê lāi-bīn, lóng ū e̍k-thé chhin-chhiūⁿ chúi ê khoán-sit. Thèng-sîn-keng ê bé-liu iā tī hia (tē 104 tô͘).
 
 > **【全漢對照】**
-> 佇內耳有三個半環的管，叫做三半規管（三半規管，*three semi-circular canals*）。也閣一個捲螺的管，叫做蝸牛殼（蝸牛殼，*cochlea*）。內耳的三半規管及蝸牛殼的內面，攏有液體親像水的款式。聽神經的尾溜也佇遐（第 104 圖）。
+> 佇內耳有三个半環的管，叫做三半規管（三半規管，*three semi-circular canals*）。也閣一个捲螺的管，叫做蝸牛殼（蝸牛殼，*cochlea*）。內耳的三半規管及蝸牛殼的內面，攏有液體親像水的款式。聽神經的尾溜也佇遐（第 104 圖）。
 
 <!-- Page 150 End -->
 
@@ -388,7 +388,7 @@ Ták hō ê siaⁿ lóng sī tùi hit ê chhut siaⁿ ê mi̍h teh chín-tōng; 
 nā-tiāⁿ; só͘-í tāi-seng khòaⁿ-kìⁿ chhèng tân ê hé, jiân-āu chiah thiaⁿ-kìⁿ i ê siaⁿ; thang án-ni liók-liók-á kek sǹg hit ê chhut-siaⁿ-ê sī hn̄g á kūn.
 
 > **【全漢對照】**
-> 若定；所以代先看見銃彈的火，然後才聽見伊的聲；通按呢約略仔格算彼個出聲的係遠抑近。
+> 若定；所以代先看見銃彈的火，然後才聽見伊的聲；通按呢約略仔格算彼个出聲的係遠抑近。
 
 ---
 
@@ -504,7 +504,7 @@ gán-kiû ê lāi-têng, chiū-sī bāng-móh. Gán-kiû la̍k hūn ê gō͘ hū
 Chúi-chíⁿ-thé kap kak-móh ê tiong-ng ū nn̄g ê phông, chiân-phông (前房, *anterior chamber*) khah tōa, sī tī hông-chhái kap kak-móh ê tiong-ng; hō͘-phông (*posterior chamber*) sī khah sòe, tī chúi-chíⁿ-thé kap hông-chhái ê tiong-ng. Tī nn̄g phông ê lāi-bīn, lóng ū chhin-chhiūⁿ chúi ê chit, kiò-chòe chúi-iūⁿ-e̍k (水樣液, *aqueous humor*).
 
 > **【全漢對照】**
-> 水晶體佮角膜的中央有兩個房，前房（前房，*anterior chamber*）較大，是佇虹彩佮角膜的中央；後房（*posterior chamber*）是較細，佇水晶體佮虹彩的中央。佇兩房的內面，攏有親像水的質，叫做水樣液（水樣液，*aqueous humor*）。
+> 水晶體佮角膜的中央有兩个房，前房（前房，*anterior chamber*）較大，是佇虹彩佮角膜的中央；後房（*posterior chamber*）是較細，佇水晶體佮虹彩的中央。佇兩房的內面，攏有親像水的質，叫做水樣液（水樣液，*aqueous humor*）。
 
 ---
 
@@ -513,7 +513,7 @@ Chúi-chíⁿ-thé kap kak-móh ê tiong-ng ū nn̄g ê phông, chiân-phông (�
 Chit ê chúi-iūⁿ-e̍k sī-siông liû-hêng, tùi hō͘-phông, kè tông-khóng kàu chiân-phông; iā tùi chiân-phông khip-siu tī chēng-me̍h-lāi.
 
 > **【全漢對照】**
-> 此個水樣液時常流行，對後房，過瞳孔到前房；亦對前房吸收佇靜脈內。
+> 此个水樣液時常流行，對後房，過瞳孔到前房；亦對前房吸收佇靜脈內。
 
 ---
 
@@ -522,7 +522,7 @@ Chit ê chúi-iūⁿ-e̍k sī-siông liû-hêng, tùi hō͘-phông, kè tông-kh
 Tī chúi-chíⁿ-thé ê āu-bīn, tī chúi-chíⁿ-thé kap bāng-móh ê tiong-ng, ū chit ê tōa-phông, pí hit téng-bīn chiân-, hō͘-phông khah tōa, miâ kiò po-lê-thé-phông (*vitreous chamber*); tī lāi-bīn ū thang-kng ê chit, kiò-chòe po-lê-thé (*vitreous*).
 
 > **【全漢對照】**
-> 佇水晶體的後面，佇水晶體佮網膜的中央，有一個大房，比彼頂面前、後房較大，名叫玻璃體房（*vitreous chamber*）；佇內面有通光的質，叫做玻璃體（*vitreous*）。
+> 佇水晶體的後面，佇水晶體佮網膜的中央，有一个大房，比彼頂面前、後房較大，名叫玻璃體房（*vitreous chamber*）；佇內面有通光的質，叫做玻璃體（*vitreous*）。
 
 ---
 
@@ -531,7 +531,7 @@ Tī chúi-chíⁿ-thé ê āu-bīn, tī chúi-chíⁿ-thé kap bāng-móh ê tio
 Tī kak-móh ê āu-bīn ū chit lia̍p, miâ kiò chúi-chíⁿ-thé (水晶體, “chheng-chu” *crystalline lens*). Chit-ê sī chhin-chhiūⁿ siang-bīn phòng ê po-lê thàu-kiàⁿ ê khoán-sit; i ê lō͘-ēng sī hō͘ kng ē siā-ji̍p chiò tī bāng-móh. Chit ê chúi-chíⁿ-thé ē ka-kī khah phòng khah thap; khòaⁿ kūn ê mih chiū
 
 > **【全漢對照】**
-> 佇角膜的後面有一粒，名叫水晶體（水晶體，“珍珠” *crystalline lens*）。此個是親像雙面膨的玻璃透鏡的款式；伊的用處是互光會射入照佇網膜。此個水晶體會自己較膨較塌；看近的物就
+> 佇角膜的後面有一粒，名叫水晶體（水晶體，“珍珠” *crystalline lens*）。此个是親像雙面膨的玻璃透鏡的款式；伊的用處是互光會射入照佇網膜。此个水晶體會自己較膨較塌；看近的物就
 
 ---
 
@@ -572,7 +572,7 @@ khah phòng, khòaⁿ hñg chiū khah píⁿ. Thang ēng nn̄g ki pit lia̍h-ti�
 Lâng kàu khah ū hè chúi-chiⁿ-thé chiām-chiām khah píⁿ, kūn ê mi̍h chiū khòaⁿ khah bô bêng, só͘-í lāu-lâng nā bô kòa ba̍k-kiàⁿ, khòaⁿ mi̍h ài the̍h khah khui. Hit ê chúi-chiⁿ-thé ū-sî tńg-lô, lâng chiū chhiⁿ-mî; i-seng ōe koah ba̍k-chiu the̍h-chhut chúi-chiⁿ-thé; i-hó liáu-āu tio̍h kòa phòng-bīn thàu-kiàⁿ ê ba̍k-kiàⁿ, lâi thè chúi-chiⁿ-thé, chiū ōe khòaⁿ-kìⁿ.
 
 > **【全漢對照】**
-> 人到較有歲水晶體漸漸較扁，近的物就看較無明，所以老人若無掛目鏡，看物愛提較開。彼個水晶體有時轉濁，人就青盲；醫生會割目睭提出水晶體；醫好濾後著掛膨面透鏡（凸透鏡）的目鏡，來替水晶體，就會看見。
+> 人到較有歲水晶體漸漸較扁，近的物就看較無明，所以老人若無掛目鏡，看物愛提較開。彼个水晶體有時轉濁，人就青盲；醫生會割目睭提出水晶體；醫好濾後著掛膨面透鏡（凸透鏡）的目鏡，來替水晶體，就會看見。
 
 ---
 
@@ -590,7 +590,7 @@ Ba̍k-chiu thang hun chòe sì khoán: chiàⁿ-sī-gán (正視眼, normal visi
 Tē 107 tô͘:—Ēng pîⁿ-hêng-sòaⁿ, phòng-bīn thàu-kiàⁿ, khiā-pîn lâi pí-phēng ba̍k-chiu ê saⁿ khoán: Pîⁿ-hêng-sòaⁿ ê sio-tiám sī E, tī hia ū bêng-bêng ê siōng (chiàⁿ-sī-gán); nā-sī khiā-pîn khah óa thàu-kiàⁿ, sī chhin-chhiūⁿ ba̍k-chiu khah té, pîⁿ-hêng-sòaⁿ ê sio-tiám sī tī H ê āu-bīn, iā H, ê siōng sī bū-bū (oán-sī-gán); nā-sī chhin-chhiūⁿ kūn-sī-gán, ba̍k-chiu sī siuⁿ tn̂g, khiā-pîn sī tī sio-tiám khah hñg M, só͘-í siōng sī bū-bū. Chit ê khiā-pîn sī chòe bāng-mo̍h ê pí-phēng (Hartridge).
 
 > **【全漢對照】**
-> 第 107 圖：——用平行線，膨面透鏡，豎屏來比評目睭的三款：平行線的焦點是 E，佇遐有明明的像 （正視眼）；若是豎屏較倚透鏡，是親像目睭較短，平行線的焦點是佇 H 的後面，亦 H，的像是霧霧 （遠視眼）；若是親像近視眼，目睭是傷長，豎屏是佇焦點較遠 M，所以像是霧霧。此個豎屏是做網膜的比評 (Hartridge)。
+> 第 107 圖：——用平行線，膨面透鏡，豎屏來比評目睭的三款：平行線的焦點是 E，佇遐有明明的像 （正視眼）；若是豎屏較倚透鏡，是親像目睭較短，平行線的焦點是佇 H 的後面，亦 H，的像是霧霧 （遠視眼）；若是親像近視眼，目睭是傷長，豎屏是佇焦點較遠 M，所以像是霧霧。此个豎屏是做網膜的比評 (Hartridge)。
 
 ---
 
@@ -731,7 +731,7 @@ Lâng ê bák-chiu nā oán-sī-gán, tióh kòa phông-bīn thàu-kiàⁿ ê b�
 > **Tē 111 tô͘.**—Oán-sī-gán, kòa phông-bīn-thàu-kiàⁿ hō͘ kng-sòàⁿ ōe chi̍p-sòàⁿ tī bāng-mó̍h-nih. Chit-ê sī in-ūi gán-kiû siuⁿ té, nā bô kòa chit hō thàu-kiàⁿ, sio-tiám ōe tī bāng-mó̍h-āu, khòaⁿ bōe bêng (Hartridge)。
 >
 > **【全漢對照】**  
-> **第 111 圖**——遠視眼，掛膨面透鏡互光線會集線佇網膜裡。這個是因為眼球傷短，若無掛這號透鏡，焦點會佇網膜後，看袂明（Hartridge）。
+> **第 111 圖**——遠視眼，掛膨面透鏡互光線會集線佇網膜裡。這个是因為眼球傷短，若無掛這號透鏡，焦點會佇網膜後，看袂明（Hartridge）。
 
 ---
 
@@ -752,14 +752,14 @@ Ji̍t-kng ê sòàⁿ nā chiò-ji̍p bák-chiu-lāi tióh keng-kè
 > **Tē 112 tô͘.**—Chìⁿ ê siōng chiò tī bák-chiu ê bāng-mó̍h-nih：Tùi chìⁿ-nih kúi nā tiám chhin-chhiūⁿ P, M, H, ji̍t-kng ê sòàⁿ ū chiò-ji̍p bák-chiu-lāi, pîⁿ-chiâⁿ chit ê siōng tī bāng-mó̍h p, m, h；chit ê siōng sī tò-péng khiā, iā pí chìⁿ khah sòe. (From “The Household Physician,” Blackie and Son, publisher.)
 >
 > **【全漢對照】**  
-> **第 112 圖**——箭的像照佇目珠的網膜裡：對箭裡幾若點親像 P, M, H，日光的線有照入目珠內，平成這個像佇網膜 p, m, h；這個像是倒反攲，也比箭較細。（出自《家庭醫師》，Blackie and Son 出版社。）
+> **第 112 圖**——箭的像照佇目珠的網膜裡：對箭裡幾若點親像 P, M, H，日光的線有照入目珠內，平成這个像佇網膜 p, m, h；這个像是倒反攲，也比箭較細。（出自《家庭醫師》，Blackie and Son 出版社。）
 
 ---
 
 chiah ê mi̍h : kak-mó̍h, chiân-phông-lāi ê chúi-iūⁿ-e̍k, tông-khóng, chúi-chiⁿ-thé, po-lê-thé-phông-lāi ê po-lê-thé ; án-ni chiū kàu bāng-mó̍h.
 
 > **【全漢對照】**  
-> 諸個物：角膜、前房內的水樣液、瞳孔、水晶體、玻璃體房內的玻璃體；按呢就到網膜。
+> 諸个物：角膜、前房內的水樣液、瞳孔、水晶體、玻璃體房內的玻璃體；按呢就到網膜。
 
 ---
 
@@ -807,7 +807,7 @@ Lâng put-lūn khòaⁿ sím-mih mi̍h, i ê hêng-siōng tùi tông-khóng chi�
 Kok hāng mi̍h ê siōng chiò tī ba̍k-chiu-nih kè-khì liáu, i ê siōng iáu-kú tī ba̍k-chiu-nih ê bāng-mó̍h, thêng chi̍t-tiap-á-kú chiah ē bô-khì, bōe liâm-piⁿ bô-khì. Chhì chiong chi̍t-ki chóa-lián tiám-hé lâi bú hō͘ i sèh, hit-ê kng keng-kè ba̍k-chiu, ē khòaⁿ-kìⁿ chhin-chhiūⁿ îⁿ-îⁿ ê khoân. Hit ê hé the̍h-khì, hé-iáⁿ tiap-á-kú ū khòaⁿ-kìⁿ. Chit-ê chiū-sī kiò-chòe bāng-mó̍h chhun siōng.
 
 > **【全漢對照】**
-> 各項物的像照佇目睭裡過去了，伊的像猶久佇目睭裡的網膜，停一霎仔久才會無去，袂連鞭無去。試將一支紙撚點火來撚（bú）予伊踅，彼個光經過目睭，會看見親像圓圓的環。彼個火提去，火影霎仔久有看見。這個就是叫做網膜殘像。
+> 各項物的像照佇目睭裡過去了，伊的像猶久佇目睭裡的網膜，停一霎仔久才會無去，袂連鞭無去。試將一支紙撚點火來撚（bú）予伊踅，彼个光經過目睭，會看見親像圓圓的環。彼个火提去，火影霎仔久有看見。這个就是叫做網膜殘像。
 
 ---
 
@@ -818,7 +818,7 @@ Bāng-mó̍h ū só͘-chāi khah gâu khòaⁿ, ū só͘-chāi khah bōe khòa�
 Ba̍k-chiu sī put-chí pó-pòe ê mi̍h, só͘-í pī-pān ta̍k-hāng
 
 > **【全漢對照】**
-> 網膜有所在較𠢕看，有所在較袂看。視神經起，彼所在的中中央攏袂看見，是親像青盲，叫盲點（*blind spot*）。通用紙來畫兩點相排，離兩三寸，對左目掩去，將彼個畫點的紙提離目睭一尺遠，右目直直相左邊的點，彼時會看見兩點攏明；將彼張紙勻勻仔提那倚，後來會看見一點爾定；這是因為右邊點拄拄照佇網膜彼個盲點，所以袂看見；若閣提較倚就依然閣看見兩個點。
+> 網膜有所在較𠢕看，有所在較袂看。視神經起，彼所在的中中央攏袂看見，是親像青盲，叫盲點（*blind spot*）。通用紙來畫兩點相排，離兩三寸，對左目掩去，將彼个畫點的紙提離目睭一尺遠，右目直直相左邊的點，彼時會看見兩點攏明；將彼張紙勻勻仔提那倚，後來會看見一點爾定；這是因為右邊點拄拄照佇網膜彼个盲點，所以袂看見；若閣提較倚就依然閣看見兩个點。
 > 
 > 目睭是不止寶貝的物，所以備辦逐項
 
@@ -906,7 +906,7 @@ sī ōe siⁿ lūi-e̍k (ba̍k-iû) lâi siông-siông lūn-te̍k ba̍k-chiu (t�
 
 > **【全漢對照】**  
 > 144 五官器  
-> 是會生淚液（目油）來常常潤澤目睭（第 114 圖）。目睭的頂下眼瞼的內角，有一個細孔，叫做淚點（淚點，*puncta lachrymalia*）。這兩個淚點透兩條管，叫做小淚管（小淚管，*canaliculi*），才結連做一條管入佇淚囊（淚囊，*lachrymal sac*）。對遮有閣一條管叫做鼻淚管（鼻淚管，*nasal duct*）。目油對遮的管流落鼻孔內。若啼哭，目油傷濟流𣍐落，就滿出佇面。減採坱著目睭，連鞭有目油較濟流出來洗出去。這個也是反應作用的一項。坱著的時目睭會疼，這個疼的刺激就對知覺神經傳到大腦。大腦就降命令落去到淚腺，教伊著排出目油來除去彼個異物，通保護目睭。
+> 是會生淚液（目油）來常常潤澤目睭（第 114 圖）。目睭的頂下眼瞼的內角，有一个細孔，叫做淚點（淚點，*puncta lachrymalia*）。這兩个淚點透兩條管，叫做小淚管（小淚管，*canaliculi*），才結連做一條管入佇淚囊（淚囊，*lachrymal sac*）。對遮有閣一條管叫做鼻淚管（鼻淚管，*nasal duct*）。目油對遮的管流落鼻孔內。若啼哭，目油傷濟流𣍐落，就滿出佇面。減採坱著目睭，連鞭有目油較濟流出來洗出去。這个也是反應作用的一項。坱著的時目睭會疼，這个疼的刺激就對知覺神經傳到大腦。大腦就降命令落去到淚腺，教伊著排出目油來除去彼个異物，通保護目睭。
 
 <!-- Page 160 End -->
 

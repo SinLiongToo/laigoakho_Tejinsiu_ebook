@@ -161,7 +161,7 @@ Nā-sī ū put-séng-jîn-sū hit khoán ê pīⁿ-lâng, nā pīⁿ-lâng ū ti
 Ēng sóe ūi ê chhiū-leng-kńg, chhĩ pīⁿ-lâng ê hoat-tō͘ : Chit ê hoat-tō͘ sī khah siông teh chhĩ tōa-lâng. Iā ēng chhiū-leng-kńg tùi chhùi chhng-ji̍p. Hoat-tō͘ tāi-khài sī kap kì tī téng-bīn-ê sio-siāng. Ū te̍k-piát ê khui-chhùi-khì, sī chhâ chòe-ê, tiong-ng ū chi̍t ê khang, beh chhng chhiū-leng-kńg ê lō͘-ēng, tī-hông pīⁿ-lâng beh kā (tē 131 tô͘).
 
 > **【全漢對照】**
-> 用洗胃的樹奶管，飼病人的法度：此個法度是較常咧飼大人。亦用樹奶管對嘴穿入。法度大概是及記佇頂面的相像。有特別的開嘴器，是柴做的，中央有一個孔，欲穿樹奶管的路用，提防病人欲咬（第 131 圖）。
+> 用洗胃的樹奶管，飼病人的法度：此个法度是較常咧飼大人。亦用樹奶管對嘴穿入。法度大概是及記佇頂面的相像。有特別的開嘴器，是柴做的，中央有一个孔，欲穿樹奶管的路用，提防病人欲咬（第 131 圖）。
 
 ---
 
@@ -338,7 +338,7 @@ Chō-iòh: Ū-sî ēng chi̍t lia̍p iòh-oân, that-jip kong-bûn-lāi, im-tō 
 3. Khàn-hō͘ tiòh ēng chi̍t tè phò͘-á, tîⁿ tī hit ki kí-cháiⁿ, á-sī kòa chi̍t ê chńg-thâu-á ê chhiū-leng-lông, chiah ùn tām-po̍h _vaseline_. Thêh chō-iòh, hit thâu khah chiam ê bé-á ǹg jip tī kong-bûn-lāi; chiah ēng mî-hoe that kong-
 
 > **【全漢對照】**
-> 3. 看護著用一塊布仔，纏佇彼支手指（食指），抑是掛一個指頭仔的樹奶囊（指套），才搵淡薄 *vaseline*。提坐藥，彼頭較尖的尾仔向入佇肛門內；才用棉花塞肛……
+> 3. 看護著用一塊布仔，纏佇彼支手指（食指），抑是掛一个指頭仔的樹奶囊（指套），才搵淡薄 *vaseline*。提坐藥，彼頭較尖的尾仔向入佇肛門內；才用棉花塞肛……
 
 <!-- Page 204 End -->
 
@@ -419,7 +419,7 @@ Ióh-kan m̄-thang hē tī ióh-toaⁿ-téng.
 ...tī seng-khu ê gōa-bīn (tē 132 tô͘). Beh chhī ê sî, ēng lāu-táu, chiap tī gōa-bīn hit thâu ê chhiū-leng-kńg, āu-lâi ēng gû-leng, á-sī bah-e̍k, tò tī hit tè lāu-táu-nih; eng-kai tio̍h chhī lōa-chōe, i-seng ōe tāi-seng thong-ti hō͘ khàn-hō͘ chai; iā thâu chi̍t pái iu-goân tio̍h i-seng tāi-seng chhī in; jiân-āu khàn-hō͘ tio̍h chhī in, kok 4 tiám-cheng-kú chi̍t pái. Ū-sî ūi-e̍k ōe tùi hit ê ūi-nih ê siong-chhùi, lâu-chhut, só͘ chhī ê mi̍h tè i lâu-chhut-lâi, chiū phê ōe thiàⁿ. Chit khoán ê pīⁿ, chòe khàn-hō͘ ê lâng, sī bô hiah iông-īⁿ.
 
 > **【全漢對照】**
-> ……佇身軀的外面（第 132 圖）。欲飼的時，用漏斗，接佇外面彼頭的樹乳管（橡皮管），後來用牛奶，抑是肉汁，倒佇彼塊漏斗裡；應該著飼偌濟，醫生會代先通知予看護知；也頭一擺猶原著醫生代先飼𪜶；然後看護著飼𪜶，各 4 點鐘久一擺。有時胃液會對彼個胃裡的傷喙，流出，所飼的物隨伊流出來，就皮會疼。這款的病，做看護的人，是無遐容易。
+> ……佇身軀的外面（第 132 圖）。欲飼的時，用漏斗，接佇外面彼頭的樹乳管（橡皮管），後來用牛奶，抑是肉汁，倒佇彼塊漏斗裡；應該著飼偌濟，醫生會代先通知予看護知；也頭一擺猶原著醫生代先飼𪜶；然後看護著飼𪜶，各 4 點鐘久一擺。有時胃液會對彼个胃裡的傷喙，流出，所飼的物隨伊流出來，就皮會疼。這款的病，做看護的人，是無遐容易。
 
 ---
 

@@ -16,7 +16,7 @@ Bô lūn sím-mih io̍h ōe hō͘ pīⁿ-lâng sim-lāi bōe hiáu-tit, á-sī �
 
 > **【全漢對照】**  
 > **定義**  
-> 無論甚麼藥會互病人心內袂曉得，抑是會互病人毋知疼，彼個藥名叫做法麻醉藥（麻醉藥，*anæsthetic*）。
+> 無論甚麼藥會互病人心內袂曉得，抑是會互病人毋知疼，彼个藥名叫做法麻醉藥（麻醉藥，*anæsthetic*）。
 
 ---
 
@@ -32,21 +32,21 @@ Chhiú-sùt ê sî hō͘ lâng lóng m̄-chai thiàⁿ, ū nn̄g hāng ê hoat, 
 
 > **【全漢對照】**  
 > **用麻醉藥**  
-> 手術的時互人攏毋知疼，有兩項的法，就是局部麻醉（局部麻醉，*local anæsthesia*），佮全身麻醉（全身麻醉，*general anæsthesia*）。局部麻醉藥是互人身軀一所在麻去；全身麻醉藥是互伊攏毋知人，知覺脫失。局部麻醉是用藥抹，抑是注射佇病人的身軀，互伊的皮肉會麻痺，伊就毋知痛疼。這個法度較常使 *cocaina* 抑是 *eucaina* 的藥。若是割目睭的病，親像虹彩切除術（虹彩切除術，*iridectomy*），就著點這個藥佇目睭內。若是嚨喉症，抑是嚨喉內有小可手術的症，親像拔齒，著將這個藥共伊抹，抑是著用注射器將這號藥注射佇黏膜下底。
+> 手術的時互人攏毋知疼，有兩項的法，就是局部麻醉（局部麻醉，*local anæsthesia*），佮全身麻醉（全身麻醉，*general anæsthesia*）。局部麻醉藥是互人身軀一所在麻去；全身麻醉藥是互伊攏毋知人，知覺脫失。局部麻醉是用藥抹，抑是注射佇病人的身軀，互伊的皮肉會麻痺，伊就毋知痛疼。這个法度較常使 *cocaina* 抑是 *eucaina* 的藥。若是割目睭的病，親像虹彩切除術（虹彩切除術，*iridectomy*），就著點這个藥佇目睭內。若是嚨喉症，抑是嚨喉內有小可手術的症，親像拔齒，著將這个藥共伊抹，抑是著用注射器將這號藥注射佇黏膜下底。
 
 ---
 
 Nā-sī tī phê-bah ê téng-bīn ū chhiú-sùt ê chèng, tio̍h chiong *cocaina* chù-siā tī phê-bah ē-tóe ; in-ūi chit ê io̍h tī phê-bah téng-bīn ê khùi-ia̍t sī khah bān. Chhòng liáu-āu tio̍h thèng-hāu gō͘ hun-cheng-kú chiah m̄-chai thiàⁿ.
 
 > **【全漢對照】**  
-> 若是佇皮肉的頂面有手術的症，著將 *cocaina* 注射佇皮肉下底；因為這個藥佇皮肉頂面的潰裂（吸收）是較慢。創了後著聽候五分鐘久才毋知疼。
+> 若是佇皮肉的頂面有手術的症，著將 *cocaina* 注射佇皮肉下底；因為這个藥佇皮肉頂面的潰裂（吸收）是較慢。創了後著聽候五分鐘久才毋知疼。
 
 ---
 
 Nā-sī chhùi-lāi in-ūi chia̍h sit-bu̍t, á-sī nâ-âu thun mih ōe thiàⁿ ê chèng, tio̍h ēng chit ê io̍h chi̍t lia̍p, tī bē chia̍h mih ê tāi-seng, kâm hē chhùi-lāi, bān-bān thun-lo̍h-khì ; á-
 
 > **【全漢對照】**  
-> 若是嘴內因為食食物，抑是嚨喉吞物會疼的症，著用這個藥一粒，佇未食物的代先，含下嘴內，慢慢吞落去；抑——
+> 若是嘴內因為食食物，抑是嚨喉吞物會疼的症，著用這个藥一粒，佇未食物的代先，含下嘴內，慢慢吞落去；抑——
 
 <!-- Page 399 End -->
 
@@ -62,7 +62,7 @@ CHOÂN-SIN-BÂ-CHÙI  379
 sī ēng chi̍t tèh sòe tè ê mî-hoe ùn tām-po̍h chit ê io̍h-chúi, boah tī phòa-nōa ê só͘-chāi iā hó; chóng-sī tióh chiàu i-seng ê bēng-lēng chiah thang ēng. Chit hō *cocaina* ê io̍h kè-chíⁿ chin kùi, só͘-í beh ēng ê sî, tióh sió-sim chún-chat, m̄-thang phah-sńg.
 
 > **【全漢對照】**
-> 是用一塊細塊的棉花搵淡薄這個藥水，抹佇破爛的所在也好；總是著照醫生的命令才通（通用）。這號 *cocaina* 的藥價值真貴，所以欲用的時，著小心斟酌，毋通拍損。
+> 是用一塊細塊的棉花搵淡薄這个藥水，抹佇破爛的所在也好；總是著照醫生的命令才通（通用）。這號 *cocaina* 的藥價值真貴，所以欲用的時，著小心斟酌，毋通拍損。
 
 ---
 
@@ -71,7 +71,7 @@ sī ēng chi̍t tèh sòe tè ê mî-hoe ùn tām-po̍h chit ê io̍h-chúi, boa
 Koh ū chi̍t chéng ê bâ-chùi-io̍h miâ kiò *ethyl chloride*. Nā-sī pûn tī phê-bah ê téng-bīn, ōe ū hit hō put-chí liâng-léng ê khùi-la̍t, hō͘ phê-bah tàng kàu pìⁿ pe̍h, i ê bâ-pì ê khùi-la̍t, pí *cocaina* khah bô kú; chit-ê kiò-chòe hân-léng-bâ-chùi. Ū-sî i-seng bat ēng *ethyl chloride* hō͘ pīⁿ-lâng phīⁿ, chòe sió-khóa chhiú-su̍t ê lō͘-ēng, m̄-kú khah bô thò-tòng.
 
 > **【全漢對照】**
-> 閣有一種的麻醉藥名叫 *ethyl chloride*。若是噴佇皮肉的頂面，會有彼號不止涼冷的氣力，互皮肉凍到變白，伊的麻痺的氣力，比 *cocaina* 較無久；這個叫做寒冷麻醉。有時醫生捌用 *ethyl chloride* 互病人鼻，做小可手術的路用，毋過較無妥當。
+> 閣有一種的麻醉藥名叫 *ethyl chloride*。若是噴佇皮肉的頂面，會有彼號不止涼冷的氣力，互皮肉凍到變白，伊的麻痺的氣力，比 *cocaina* 較無久；這个叫做寒冷麻醉。有時醫生捌用 *ethyl chloride* 互病人鼻，做小可手術的路用，毋過較無妥當。
 
 ---
 
@@ -99,7 +99,7 @@ Ko-lô-hong sī bâ-chùi-io̍h ê chi̍t lūi. Sī sio̍k tī liū-tōng-bi̍t.
 
 > **【全漢對照】**
 > **物理特異質（物理特異質，*Physical properties*）：**
-> Ko-lô-hong（哥羅方）是麻醉藥的一類。是屬於流動物。比重 1.49。伊的味是甜，及特別的鼻味。用試驗紙（*litmus paper*），彼個反應無酸也無鹼，就是中立性（中立性，*neutral*）。若蒸發（蒸發，*evaporate*），無剩物佇咧，就是無遺留物（遺留物，*residue*），若參清淨硫酸（清淨硫酸，*pure sulphuric acid*），無色緻。若參硝酸銀（硝酸銀，*argenti nitras*）就無沈澱物（*precipitate*）。
+> Ko-lô-hong（哥羅方）是麻醉藥的一類。是屬於流動物。比重 1.49。伊的味是甜，及特別的鼻味。用試驗紙（*litmus paper*），彼个反應無酸也無鹼，就是中立性（中立性，*neutral*）。若蒸發（蒸發，*evaporate*），無剩物佇咧，就是無遺留物（遺留物，*residue*），若參清淨硫酸（清淨硫酸，*pure sulphuric acid*），無色緻。若參硝酸銀（硝酸銀，*argenti nitras*）就無沈澱物（*precipitate*）。
 
 ---
 
@@ -225,7 +225,7 @@ Tē jī chām: Khah-khin ti-kak-thoat-sit. Put-séng-jîn-sū, ài chhut la̍t t
 **Tē sì chām** : Bâ-chùi-io̍h kè-liōng. Chit-ê sî gûi-hiám ê sî-kî, m̄-thang tiāu-kò-ì chiong bâ-chùi-io̍h hō͘ i kàu án-ni. Ho͘-khip bô chhù-sū, iā ōe thêng-chí, me̍h-phok-hi-jio̍k, pīⁿ-chiāⁿ put-kui-chek-me̍h, á-sī chhiú-me̍h tiām-tiām. Tông-khóng put-chí sàn-tāi, bô kng-sòaⁿ ê hoán-èng. Bīn-sek chhiⁿ-lâm-sek, á-sī bīn-lek-sek. Ū-sî chhin-chhiūⁿ pêng-siông bô koh-iūⁿ, hut-jiân-kan chiū khí chit ê tē sì chām ê chèng-chōng.
 
 > **【全漢對照】**
-> **第四站**：麻醉藥過量。這個時危險的時期，毋通刁故意將麻醉藥予伊到按呢。呼吸無秩序，亦會停止，脈搏微弱，變作不規則脈，抑是手脈恬恬。瞳孔不止散大，無光線的反應。面色青藍色，抑是面綠色。有時親像平常無各樣，忽然間就起這個第四站的症狀。
+> **第四站**：麻醉藥過量。這个時危險的時期，毋通刁故意將麻醉藥予伊到按呢。呼吸無秩序，亦會停止，脈搏微弱，變作不規則脈，抑是手脈恬恬。瞳孔不止散大，無光線的反應。面色青藍色，抑是面綠色。有時親像平常無各樣，忽然間就起這个第四站的症狀。
 
 ---
 
@@ -300,7 +300,7 @@ Tông-khóng-sàn-tāi, iā bô kng-sòaⁿ hoán-èng, sī tē it iàu-kín, i�
 > 瞳孔散大，也無光線反應，是第一要緊，也第一危險的兆頭。這號散大的款式，是親像用 atropina 藥點目珠內，不止開闊，閣袂振動。這款瞳孔的原因有三項：
 > 1. 哥羅仿過量。
 > 2. 呼吸遏止，致到假死。
-> 3. 反應瞳孔散大，(reflex dilatation of pupil)；這個是手術的時，知覺脫失無齊備，來做手術；親像互肛門括約筋（肛門括約筋，sphincter ani）擴大，就瞳孔會散大。這號 1 至 3 的治療法，是麻醉藥著停止；著預備做人工呼吸（人工呼吸），驚了呼吸停止。
+> 3. 反應瞳孔散大，(reflex dilatation of pupil)；這个是手術的時，知覺脫失無齊備，來做手術；親像互肛門括約筋（肛門括約筋，sphincter ani）擴大，就瞳孔會散大。這號 1 至 3 的治療法，是麻醉藥著停止；著預備做人工呼吸（人工呼吸），驚了呼吸停止。
 
 ---
 
@@ -492,7 +492,7 @@ Tāi-seng tiòh chiong chhiú-sùt-sek ê m̂g-thang, hō͘-sìⁿ, chhiûⁿ-pi
 
 > **【全漢對照】**
 > **［洗手術室］**
-> 代先著將手術室的門窗、戶線（雨遮/簷）、牆壁、地板，及裡面的逐項物，攏用撒文（雪文）及燒水（熱水）洗予伊清氣；然後用消毒藥水（*lotio acidi carbolici* 1—40，石炭酸水溶液）拭予伊清氣；火爐、煙筒也攏著修整。見若手術用的物，攏唔准收佇手術室內。著另外設一間佇邊仔，欲放置許個（遐的）物。
+> 代先著將手術室的門窗、戶線（雨遮/簷）、牆壁、地板，及裡面的逐項物，攏用撒文（雪文）及燒水（熱水）洗予伊清氣；然後用消毒藥水（*lotio acidi carbolici* 1—40，石炭酸水溶液）拭予伊清氣；火爐、煙筒也攏著修整。見若手術用的物，攏唔准收佇手術室內。著另外設一間佇邊仔，欲放置許个（遐的）物。
 
 ---
 
@@ -606,7 +606,7 @@ Chhiú-sùt-tâi tiòh ū 6 chhioh tn̂g, 2 chhioh khoah, 3 chhioh koâiⁿ. Ū-
 khì, tiòh ēng lâm-thng chòe chit-ê tóe chúi ê khì-kū, lâi hē tī tâi-téng; lāi-bīn tóe sio-chúi, tiòh 120 tō͘ F. (49° C.). Chhiú-sút-tâi tiòh seng ēng sat-bûn kap sio-chúi sóe, āu-lâi, *lotio acidi carbolici* 1—40 chhit, chiah chhit hō͘ i ta.
 
 > **【全漢對照】**
-> 器，著用藍湯做一個貯水的器具，來下佇台頂；內面貯燒水，著 120 度 F. (49° C.)。手術台著先用雪文佮燒水洗，後來，*lotio acidi carbolici* 1—40 拭，才拭互伊焦。
+> 器，著用藍湯做一个貯水的器具，來下佇台頂；內面貯燒水，著 120 度 F. (49° C.)。手術台著先用雪文佮燒水洗，後來，*lotio acidi carbolici* 1—40 拭，才拭互伊焦。
 
 ---
 
@@ -615,7 +615,7 @@ khì, tiòh ēng lâm-thng chòe chit-ê tóe chúi ê khì-kū, lâi hē tī t�
 Chhiú-sút-tâi hit téng-bīn nā chhu thán-á sī khah hó, in-ūi pīⁿ-lâng tó siuⁿ kú ōe siⁿ jiòk-siong; koh só͘ chhu-ê, nā khah kāu tām-póh, iā m̄-bián hō͘ sio-chúi ê khì-kū sio-tiòh, á-sī thǹg-tiòh pīⁿ-lâng. Thán-á-téng tiòh chhu chi̍t niá phē-toaⁿ, phē-toaⁿ ê téng-bīn chiah chhu iû-pò͘, iû-pò͘-téng koh chhu chi̍t niá phē-toaⁿ. Phē-toaⁿ-téng tiòh hē n̄g saⁿ ê sio-chúi-koàn, chiah-ê iáu-bē chhiú-sút tiòh théh-khì.
 
 > **【全漢對照】**
-> 手術台彼頂面若鋪毯仔是較好，因為病人倒傷久會生褥傷；閣所鋪ê，若較厚淡薄，也不免互燒水的器具燒著，抑是燙著病人。毯仔頂著鋪一件被單，被單的頂面才鋪油布，油布頂閣鋪一件被單。被單頂著下兩三個燒水罐，諸個猶未手術著提去。
+> 手術台彼頂面若鋪毯仔是較好，因為病人倒傷久會生褥傷；閣所鋪ê，若較厚淡薄，也不免互燒水的器具燒著，抑是燙著病人。毯仔頂著鋪一件被單，被單的頂面才鋪油布，油布頂閣鋪一件被單。被單頂著下兩三个燒水罐，諸个猶未手術著提去。
 
 ---
 
@@ -630,7 +630,7 @@ Chhiú-sút-tâi hit téng-bīn nā chhu thán-á sī khah hó, in-ūi pīⁿ-l�
 > 1. 著預備兩塊桌通下器具佮盆。
 > 2. 閣一塊桌做施麻醉者的路用。
 > 3. 閣一塊桌欲下包傷料。
-> 4. 諸個桌，著用雪文佮燒水洗清氣，然後將 *lotio acidi carbolici* 1—40 共伊拭，後來用消毒的面巾蓋咧。
+> 4. 諸个桌，著用雪文佮燒水洗清氣，然後將 *lotio acidi carbolici* 1—40 共伊拭，後來用消毒的面巾蓋咧。
 
 ---
 
@@ -680,7 +680,7 @@ Si-bâ-chùi-chiá ê toh-téng tiòh ū-pī:
 
 > **【全漢對照】**
 > **［施麻醉者 ê 桌］**
-> 6. 一個收吐器，一條面巾通緻防嘔吐。
+> 6. 一个收吐器，一條面巾通緻防嘔吐。
 > 7. 若是喙內，抑是嚨喉內 ê 手術，有時著用冰來止血。
 > 8. 一罐細罐底消毒 *vaselinum*（凡士林）。
 > 9. 一罐 *lotio acidi borici*（硼酸洗劑），佮點眼器，驚了無張持點 *chloroform*（哥羅芳）佇目睭內，欲連鞭洗目睭。
@@ -697,9 +697,9 @@ Chhiú-sùt-chiá ê toh-téng tio̍h ū chiah ê mi̍h :
 
 > **【全漢對照】**
 > **［手術者 ê 桌］**
-> 手術者 ê 桌頂著有諸個物：
-> 1. 底器具 ê 消毒盤。此號消毒盤有時乾，有時底 *lotio carbolici*（石炭酸洗劑）1—40。這個是照手術者 ê 意見（第 261 圖）。
-> 2. 盆底消毒藥水，*lotio carbolici* 1—100，*lotio hydrarg. perchlor.* 1—2,000，做汏手 ê 路用。寒天 ê 時這個水著拉崙燒（微溫）。
+> 手術者 ê 桌頂著有諸个物：
+> 1. 底器具 ê 消毒盤。此號消毒盤有時乾，有時底 *lotio carbolici*（石炭酸洗劑）1—40。這个是照手術者 ê 意見（第 261 圖）。
+> 2. 盆底消毒藥水，*lotio carbolici* 1—100，*lotio hydrarg. perchlor.* 1—2,000，做汏手 ê 路用。寒天 ê 時這个水著拉崙燒（微溫）。
 > 3. 盤底動脈鉗。著有 *lotio carbolici* 1—40。
 > 4. 盤底縫合線。
 
@@ -724,7 +724,7 @@ Iā tio̍h ū-pī chiah ê mi̍h : 1. Siau-to̍k-pau-siong-liāu, mî-se, mî-ho
 
 > **【全漢對照】**
 > **［著預備］**
-> 亦著預備諸個物：1. 消毒包傷料、棉紗、棉花、油紙、繃帶、拭布、消毒衣、消毒面巾夠額多。
+> 亦著預備諸个物：1. 消毒包傷料、棉紗、棉花、油紙、繃帶、拭布、消毒衣、消毒面巾夠額多。
 > 2. 消毒藥水：
 > *Lysol*（來蘇兒）... 1—200.
 > *Lotio acidi carbolici*（石炭酸洗劑）... 1—40.
@@ -755,8 +755,8 @@ Iā tio̍h ū-pī chiah ê mi̍h : 1. Siau-to̍k-pau-siong-liāu, mî-se, mî-ho
 > **【全漢對照】**  
 > **盤、盆、煠玻璃**  
 > 9. 兩塊盤大塊欲下器具的路用。*（邊註：盤、盆）*  
-> 10. 洗手盆三個，欲貯消毒藥水，予醫生佮助手洗手。盆三個，伊的直徑差不多一尺。  
-> 11. 膿盤 6 個，有的常、有的細，欲下驚人的物（污穢物）。  
+> 10. 洗手盆三个，欲貯消毒藥水，予醫生佮助手洗手。盆三个，伊的直徑差不多一尺。  
+> 11. 膿盤 6 个，有的常、有的細，欲下驚人的物（污穢物）。  
 > 12. 水桶三跤。  
 > 13. 水瓶大佮細 6 枝，欲貯冷滾水。  
 
@@ -829,7 +829,7 @@ eng-kai ēng sat-bûn kap sio-chúi lâi sóe chheng-khì, chiah ēng *lotio aci
 
 > **【全漢對照】**
 > **𣍐煠得的物**
-> 應該用撒文（肥皂）佮熱水來洗清氣，才用 *lotio acidi carbolici* 1—20 來浸 15 分久，消滅許個微生物。
+> 應該用撒文（肥皂）佮熱水來洗清氣，才用 *lotio acidi carbolici* 1—20 來浸 15 分久，消滅許个微生物。
 
 ---
 
@@ -976,7 +976,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 
 > **【全漢對照】**
 > **［包傷料］**
-> 棉花、繃帶、棉紗、面巾、衫、拭布、樹乳囊：備辦諸個物有幾若個法度：
+> 棉花、繃帶、棉紗、面巾、衫、拭布、樹乳囊：備辦諸个物有幾若个法度：
 
 ---
 
@@ -995,7 +995,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 
 > **【全漢對照】**
 > **［架煠］**
-> 1. 架煠：這個是好，毋過面巾、棉花，若溽較毋好；也閣一項，若用彼號溽的布，來蓋傷喙，會較快生微生物。
+> 1. 架煠：這个是好，毋過面巾、棉花，若溽較毋好；也閣一項，若用彼號溽的布，來蓋傷喙，會較快生微生物。
 
 <!-- Page 413 End -->
 
@@ -1016,7 +1016,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 3\. Tâm ê jia̍t-khì: Chit ê hoat-tō͘ sī kài hó, m̄-kú tióh ēng chi̍t khoán te̍k-piat ê siau-tók-khì kiò-chòe koâiⁿ-ap-le̍k-cheng-khì-siau-tók-khì (高壓力蒸氣消毒器). Chit ê hoat-tō͘ kiò-chòe, koâiⁿ-ap-le̍k-cheng-khì-siau-tók-hoat. Ap-le̍k ōe hō͘ siau-tók-khì-lāi ê cheng-khì ê un-tō͘ khah koâiⁿ (tē 263 tô͘). *(Tâm ê jia̍t-khì)*
 
 > **【全漢對照】**
-> 3\. 澹的熱氣：此個法度是蓋好，毋過著用一款特別的消毒器叫做懸壓力蒸氣消毒器（高壓力蒸氣消毒器）。此個法度叫做懸壓力蒸氣消毒法。壓力會予消毒器內的蒸氣的溫度較懸（第 263 圖）。*〔邊註：澹的熱氣〕*
+> 3\. 澹的熱氣：此个法度是蓋好，毋過著用一款特別的消毒器叫做懸壓力蒸氣消毒器（高壓力蒸氣消毒器）。此个法度叫做懸壓力蒸氣消毒法。壓力會予消毒器內的蒸氣的溫度較懸（第 263 圖）。*〔邊註：澹的熱氣〕*
 
 ---
 
@@ -1026,7 +1026,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 
 > **【全漢對照】**
 > **消毒包傷料的法：** *〔邊註：包傷料消毒法〕*
-> 1\. 對一捲的棉紗鉸一塊起來著摺三四重的厚；有的著四方形，有的著長方形。著用幾若塊做一個小包，也用另外一塊棉紗來包，用品針共結。外面品一條紙，才寫包內是甚物。
+> 1\. 對一捲的棉紗鉸一塊起來著摺三四重的厚；有的著四方形，有的著長方形。著用幾若塊做一个小包，也用另外一塊棉紗來包，用品針共結。外面品一條紙，才寫包內是甚物。
 
 ---
 
@@ -1047,7 +1047,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 4\. Lóng tióh hē tī chi̍t-ê te̍k-piat siau-tók-phín-thú-chô-nih (tē 264 tô͘).
 
 > **【全漢對照】**
-> 4\. 攏著下佇一個特別消毒品貯槽裡（第 264 圖）。
+> 4\. 攏著下佇一个特別消毒品貯槽裡（第 264 圖）。
 
 ---
 
@@ -1068,7 +1068,7 @@ Mî-hoe, pheng-tòa, mî-se, bīn-kun, saⁿ, chhit-pò͘, chhiū-leng-lông: P�
 7\. Pau-siong-liāu siau-tók liáu tióh ēng chi̍t liâu chóa hong. Chit ê chóa nā bô phòa, ū pîn-kù hō͘ i-seng chai siau-tók liáu bô koh khui.
 
 > **【全漢對照】**
-> 7\. 包傷料消毒了著用一條紙封。此個紙若無破，有憑據予醫生知消毒了無閣開。
+> 7\. 包傷料消毒了著用一條紙封。此个紙若無破，有憑據予醫生知消毒了無閣開。
 
 <!-- Page 414 End -->
 
@@ -1094,11 +1094,11 @@ Hái-jiông sī hiān-chhú-sî hán-tit ēng-ê, iā bōe sáh-tit. Pī-pān h�
 > **【全漢對照】**
 > 海茸是現此時罕得用的，也袂煠得。備辦海茸的法是照下面：
 > 
-> 1. 代先著用柴槌來摃，予海茸內的石灰質，攏破碎碎。用燒水洗幾若擺，曝予伊焦，才閣拍捀閣搖予彼個碎碎的石灰質起來。
+> 1. 代先著用柴槌來摃，予海茸內的石灰質，攏破碎碎。用燒水洗幾若擺，曝予伊焦，才閣拍捀閣搖予彼个碎碎的石灰質起來。
 > 2. 備辦 *acidum hydrochloricum*（鹽酸）的藥水 1—60 浸 12 點鐘久，欲溶解石灰質。
 > 3. 用燒水及 *sodii carbonas*（*washing soda*，洗滌鹼），洗幾若擺，到咧用來洗的水是清潔。
 > 4. 用 *potassii permanganas*（過錳酸鉀）的藥水 1—20，浸 15 分久，用手定定撋。
-> 5. 用燒 *acidum oxalicum*（草酸）的藥水 1—12 浸到彼個紫色攏無去。這個是不止毒的藥，所以著小心。
+> 5. 用燒 *acidum oxalicum*（草酸）的藥水 1—12 浸到彼个紫色攏無去。這个是不止毒的藥，所以著小心。
 > 6. 著洗手來掛消毒的樹乳囊（橡膠手套），也用冷滾水閣洗海茸，洗較斟酌，也夠額濟擺予清潔。
 > 7. 用 *lotio hydrarg. perchlor.*（昇汞洗劑）1—1,000 浸 24 點鐘久。然後著提起來（手著清潔，也掛消毒的樹乳囊），撋，放大底（放置）佇 *lotio acidi carbolici*（石炭酸洗劑）1—20。猶未欲用，著用消毒器具提起來，將燒的消毒水、抑是鹽水洗三四擺。
 
@@ -1174,7 +1174,7 @@ Tē it iàu-kín, nā pīⁿ-lâng khí-chho͘ kàu i-īⁿ ê sî, tek-khak tio
 Khàn-hō͘ tio̍h sì-siông chù-ì khòaⁿ ōe ke-thiⁿ kiàn-sek.
 
 > **【全漢對照】**
-> 看護著時常注意看，會加添見識。
+> 看護著時常注意看，會加添見色。
 
 <!-- Page 416 End -->
 
@@ -1282,7 +1282,7 @@ Nā-sī iáu-bē chhiú-sùt ê sî ū siong-chhùi, hit-ê iáu-bē ji̍p chhi�
 
 > **【全漢對照】**  
 > **［若有傷喙，著清潔］**  
-> 若是猶未手術的時有傷喙，彼個猶未入手術室，著換包傷療，傷喙……
+> 若是猶未手術的時有傷喙，彼个猶未入手術室，著換包傷療，傷喙……
 
 <!-- Page 418 End -->
 
@@ -1382,7 +1382,7 @@ Khàn-hō͘ tióh chhin-chhiūⁿ i-seng beh chhiú-sùt, hit khoán ê sió-sim
 kā i chhat tī beh chhiú-su̍t ê só͘-chāi. Chit hō _lotio iodi_ ê la̍t ē bia̍t bî-seng-bu̍t, m̄-kú hit ê phê ti̍oh ta chiah khah ū lī-ek. Chit hō sū, chhòng chheng-chhó ti̍oh ēng chhiú-su̍t-sek só͘ teh ēng ê saⁿ-á-khò kā i chhēng. Ti̍oh koh kā i chhat nñg pái _lotio iodi_, chi̍t pái tú-tú beh chhòng bâ-chùi-io̍h hō͘ i khùn ê sî, iā koh chi̍t pái chhiú-su̍t liáu.
 
 > **【全漢對照】**
-> 共伊擦佇欲手術的所在。這號 *lotio iodi*（碘酒洗劑）的力會滅微生物，毋過彼個皮著焦才較有利益。這號事，創清楚著用手術室所咧用的衫仔褲共伊穿。著閣共伊擦兩擺 *lotio iodi*，一擺拄拄欲創麻醉藥互伊睏的時，也閣一擺手術了。
+> 共伊擦佇欲手術的所在。這號 *lotio iodi*（碘酒洗劑）的力會滅微生物，毋過彼个皮著焦才較有利益。這號事，創清楚著用手術室所咧用的衫仔褲共伊穿。著閣共伊擦兩擺 *lotio iodi*，一擺拄拄欲創麻醉藥互伊睏的時，也閣一擺手術了。
 
 ---
 
@@ -1627,7 +1627,7 @@ Pīⁿ-lâng nā put-an, ū-sî ēng sio-chúi kā chhit chhiú kap bīn, ōe kh
 Chit hō ê pīⁿ-lâng nā sàu, á-sī phah-ka-chhiùⁿ á-sī thò͘, khàn-hō͘ tióh chiong pún-sin ê chhiú, sió-khóa teh hit ê siong-chhùi ê só͘-chāi, án-ni pīⁿ-lâng chai khah bōe thiàⁿ.
 
 > **【全漢對照】**
-> 此號的病人若嗽，抑是拍咳啾抑是吐，看護著將本身的手，小許揢彼個傷處的所在，按呢病人知較袂疼。
+> 此號的病人若嗽，抑是拍咳啾抑是吐，看護著將本身的手，小許揢彼个傷處的所在，按呢病人知較袂疼。
 
 ---
 
@@ -1636,7 +1636,7 @@ Chit hō ê pīⁿ-lâng nā sàu, á-sī phah-ka-chhiùⁿ á-sī thò͘, khàn
 Nā ēng chi̍t-ê chím-thâu ké hit kha-oat-oan, hō͘ tōa-thúi ōe kiu-khí-lâi, iā ōe hō͘ i khah khòai-o̍ah ; in-ūi ōe hō͘ i pak-tó ê kun-bah khah lēng. Nā pak-tó thiàⁿ, pīⁿ-lâng
 
 > **【全漢對照】**
-> 若用一個枕頭架彼跤彎彎（膝膕），予大腿會縮起來，也會予伊較快活；因為會予伊腹肚的筋肉較冷（鬆軟）。若腹肚疼，病人……
+> 若用一个枕頭架彼跤彎彎（膝膕），予大腿會縮起來，也會予伊較快活；因為會予伊腹肚的筋肉較冷（鬆軟）。若腹肚疼，病人……
 
 <!-- Page 423 End -->
 
@@ -2054,7 +2054,7 @@ Tī chhiú-su̍t-sek, iáu-bē chhiú-su̍t ê tāi-seng, hiah ê suh chúi ê t
 
 > **【全漢對照】**
 > ### 拭布、海絨著算
-> 佇手術室，猶未手術的代先，許個吸水的大拭布，抑是海絨，著攏算清楚。手術了，腹肚猶未縫的代先著閣算。動脈鉗也著算。
+> 佇手術室，猶未手術的代先，許个吸水的大拭布，抑是海絨，著攏算清楚。手術了，腹肚猶未縫的代先著閣算。動脈鉗也著算。
 
 ---
 
@@ -2064,7 +2064,7 @@ Pīⁿ-lâng kàu pīⁿ-sek ê sî, i ê bîn-chhng, sio ê thán-á, sio-chúi
 
 > **【全漢對照】**
 > ### 到病室
-> 病人到病室的時，伊的眠床、燒的毯仔、燒水罐，著攏預備。也看護毋通離開伊的身邊驚了嘔吐。頭一兩三日醫生欲明明講彼個食藥佮食物的事，因為醫生的法度攏無相通（相像）。較大面來講，頭一下手術了，到十二點鐘久毋通將物予食。若嘴乾予伊一兩茶匙冷滾水；也有時用鹽水來灌入直腸內，會止嘴乾。若用燒水洗手佮面會予伊較快活。
+> 病人到病室的時，伊的眠床、燒的毯仔、燒水罐，著攏預備。也看護毋通離開伊的身邊驚了嘔吐。頭一兩三日醫生欲明明講彼个食藥佮食物的事，因為醫生的法度攏無相通（相像）。較大面來講，頭一下手術了，到十二點鐘久毋通將物予食。若嘴乾予伊一兩茶匙冷滾水；也有時用鹽水來灌入直腸內，會止嘴乾。若用燒水洗手佮面會予伊較快活。
 
 ---
 
@@ -2102,7 +2102,7 @@ Tio̍h sî-siông khòaⁿ pheng-tòa ū píⁿ á-bô. Nā-sī chhiú-su̍t tī
 
 > **【全漢對照】**  
 > **［巡繃帶］**  
-> 著時常看繃帶有扁（偏）抑無。若是手術佇肚臍的頂面，所用的法度，就是用濟頭繃帶（*many-tailed bandage*）來縛予好。佇這條的後面有兩條帶，諸個著上去過肩頭頂，這旁一條，也落過去到繃帶的頭前，才用安全pin針共結予牢。按呢繃帶較𣍐落落下。若是手術的傷喙佇肚臍下，著用遐的兩條帶，對腹肚下大腿中，縛予好，按呢較𣍐移位上去（第 435 圖）。
+> 著時常看繃帶有扁（偏）抑無。若是手術佇肚臍的頂面，所用的法度，就是用濟頭繃帶（*many-tailed bandage*）來縛予好。佇這條的後面有兩條帶，諸个著上去過肩頭頂，這旁一條，也落過去到繃帶的頭前，才用安全pin針共結予牢。按呢繃帶較𣍐落落下。若是手術的傷喙佇肚臍下，著用遐的兩條帶，對腹肚下大腿中，縛予好，按呢較𣍐移位上去（第 435 圖）。
 
 ---
 
@@ -2120,7 +2120,7 @@ Nā-sī tñg-kńg-kó͘-tiòng (腸管鼓脹, khì-tiòng, *tympanites*) ê pī�
 
 > **【全漢對照】**  
 > **［腸管鼓脹］**  
-> 若是腸管鼓脹（腸管鼓脹，氣脹，*tympanites*）的病，會予伊腹肚疼。較好著用樹乳管（橡皮管）穿對肛門入去，樹乳管的頭仔抹凡士林油（*vaselinum*），穿入去有六寸長，有時彼個氣就會對遐放出（透出）來（第 237 面）。有時因為這個緣故，醫生也予病人 *enema terebinthinae*（松節油灌腸）灌腸法，（第 235 面）。
+> 若是腸管鼓脹（腸管鼓脹，氣脹，*tympanites*）的病，會予伊腹肚疼。較好著用樹乳管（橡皮管）穿對肛門入去，樹乳管的頭仔抹凡士林油（*vaselinum*），穿入去有六寸長，有時彼个氣就會對遐放出（透出）來（第 237 面）。有時因為這个緣故，醫生也予病人 *enema terebinthinae*（松節油灌腸）灌腸法，（第 235 面）。
 
 ---
 
@@ -2168,14 +2168,14 @@ Ke-si: Khui-pak-su̍t-ê, í-kip chiah-ê: nñg-châu-tiah-chhut ê thò-kńg-ch
 > **卵巢摘出**  
 > **器具**  
 > 卵巢摘出（卵巢摘出，*Ovariotomy*）：  
-> 器具：開腹術的，以及諸個：卵巢摘出的套管針，佮樹奶管；小佮縫合針；有鉤的鉗 2 支；壓搾鉗（壓搾鉗，*pressure forceps*）2 支；平常的套管針。
+> 器具：開腹術的，以及諸个：卵巢摘出的套管針，佮樹奶管；小佮縫合針；有鉤的鉗 2 支；壓搾鉗（壓搾鉗，*pressure forceps*）2 支；平常的套管針。
 
 ---
 
 Chit ê chhiú-su̍t khah-siông sī in-ūi nñg-châu-lāi ū chek-chū liâm-liâm ê chit, ná chhin-chhiūⁿ chúi ê khoán. Tùi chit ê iân-kò͘, nñg-châu ē piàn tōa. Á-sī in-ūi nñg-châu siⁿ chéng-iông, piàn tōa, nā bô tiah-chhut, pīⁿ-lâng ē sí-khì.
 
 > **【全漢對照】**  
-> 此個手術較常是因為卵巢內有積聚黏黏的質，若親像水的款。對此個緣故，卵巢會變大。抑是因為卵巢生腫瘍，變大，若無摘出，病人會死去。
+> 此个手術較常是因為卵巢內有積聚黏黏的質，若親像水的款。對此个緣故，卵巢會變大。抑是因為卵巢生腫瘍，變大，若無摘出，病人會死去。
 
 ---
 
@@ -2191,14 +2191,14 @@ Ke-si: Khui-pak-su̍t-ê, kap chiah-ê: chi̍t ki khah tn̂g ū-khí ê ngoeh-á
 > **子宮摘出**  
 > **器具**  
 > 子宮摘出，（子宮摘出，*Hysterectomy*）：  
-> 器具：開腹術的，佮諸個：一支較長有齒的夾仔；長的剪刀；小佮縫合針；子宮探器；2 支有角頭的壓搾鉗；*Sims* 氏陰道鏡；6 支長的壓搾鉗。
+> 器具：開腹術的，佮諸个：一支較長有齒的夾仔；長的剪刀；小佮縫合針；子宮探器；2 支有角頭的壓搾鉗；*Sims* 氏陰道鏡；6 支長的壓搾鉗。
 
 ---
 
 Chit ê chhiú-su̍t ū-sî tùi im-tō, ū-sî tùi pak-tó͘. Sī in-ūi siⁿ bah-chéng, á-sī pa̍t khoán chéng-iông. Iā ū pa̍t mi̍h ê in-toaⁿ, chóng-sī tī chia put-kò sī kán-séng kóng nā-tiāⁿ.
 
 > **【全漢對照】**  
-> 此個手術有時對陰道，有時對腹肚。是因為生肉腫，抑是別款腫瘍。亦有別物的因端，總是在遮不過是簡省講若定。
+> 此个手術有時對陰道，有時對腹肚。是因為生肉腫，抑是別款腫瘍。亦有別物的因端，總是在遮不過是簡省講若定。
 
 ---
 
@@ -2269,7 +2269,7 @@ chia̍h-ê: ūi-khîⁿ 2 ki, kap chhiū-leng-kńg saⁿ chhùn tn̂g 4 tiâu; s
 Chit ê chhiú-sùt, sī in-ūi hiu-bûn sìⁿ chéng-iông, só-í hit ê lō͘ pìⁿ-oe̍h, tióh khui sin ê lō͘; á-sī in-ūi ūi sìⁿ ūi-iông, á-sī ūi khok-tiong. Só́ khui ê lō͘ chiū-sī tùi ūi ê ē-tóe kap khang-tn̂g ê tiong-kan, khui sin ê ūi-kháu. Āu-lâi si̍t-bu̍t tùi hia keng-kè ji̍p sió-tn̂g.
 
 > **【全漢對照】**
-> 此個手術，是因為幽門生腫瘍，所以彼個路變隘，著開新的路；抑是因為胃生胃瘍，抑是胃擴張。所開的路就是對胃的下底佮空腸的中間，開新的胃口。後來食物對遐經過入小腸。
+> 此个手術，是因為幽門生腫瘍，所以彼个路變隘，著開新的路；抑是因為胃生胃瘍，抑是胃擴張。所開的路就是對胃的下底佮空腸的中間，開新的胃口。後來食物對遐經過入小腸。
 
 ---
 
@@ -2296,7 +2296,7 @@ Ke-si kap téng-bīn-ê sio-siâng.
 Chit ê chhiú-sùt chiū-sī nñg chat tn̂g-á thīⁿ-ha̍p, koh khui sin ê lō͘, hō͘ pùn tùi hia keng-kè. Phì-lūn lâi kóng, nā-sī tī bông-tn̂g á-sī siōng-hêng-kiat-tn̂g, ū sìⁿ mi̍h chó́-tòng, hō͘ pùn bē kiâⁿ, nā tùi sió-tn̂g kap hoâiⁿ-hêng-kiat-tn̂g ê tiong-kan, khui sin ê lō͘, hit ê pùn ōe tùi hit tiâu sin ê lō͘ keng-kè. Chit nñg khoán ê chhiú-sùt liáu-āu, ū-sî pīⁿ-lâng ōe áu-thò͘, só́-í i-seng beh siông-sè kā khàn-hō͘ kóng, i ài beh àn-chóaⁿ-iūⁿ hō͘ in chia̍h mi̍h.
 
 > **【全漢對照】**
-> 此個手術就是兩截腸仔縫合，閣開新的路，互糞對遐經過。譬論來講，若是佇盲腸抑是上行結腸，有生物阻擋，互糞𣍐行，若對小腸佮橫行結腸的中間，開新的路，彼個糞會對彼條新的路經過。此兩款的手術了後，有時病人會嘔吐，所以醫生欲詳細共看護講，伊愛欲按怎樣互𪜶食物。
+> 此个手術就是兩截腸仔縫合，閣開新的路，互糞對遐經過。譬論來講，若是佇盲腸抑是上行結腸，有生物阻擋，互糞𣍐行，若對小腸佮橫行結腸的中間，開新的路，彼个糞會對彼條新的路經過。此兩款的手術了後，有時病人會嘔吐，所以醫生欲詳細共看護講，伊愛欲按怎樣互𪜶食物。
 
 ---
 
@@ -2312,7 +2312,7 @@ Chit ê chhiú-sùt chiū-sī nñg chat tn̂g-á thīⁿ-ha̍p, koh khui sin ê 
 **Tn̂g-têng-tha̍h (腸重疊, _Intussusception_):** Chit ê chiū-sī pīⁿ-miâ, sī téng-chat ê tn̂g thap-ji̍p-khì ē-chat ê tn̂g-lāi, só́-í hō͘ tn̂g-piah saⁿ têng chòe tui, hō͘ tn̂g ê khang pìⁿ oe̍h, nā bô liâm-piⁿ chhiú-sùt, ōe hō͘ tn̂g hoat pì-that chèng (tē 458, 458a tô͘).
 
 > **【全漢對照】**
-> **腸重疊（腸重疊，_Intussusception_）：**此個就是病名，是頂截的腸插入去下截的腸內，所以互腸壁三重做堆，互腸的孔變隘，若無連鞭手術，會互腸發閉塞症（第 458, 458a 圖）。
+> **腸重疊（腸重疊，_Intussusception_）：**此个就是病名，是頂截的腸插入去下截的腸內，所以互腸壁三重做堆，互腸的孔變隘，若無連鞭手術，會互腸發閉塞症（第 458, 458a 圖）。
 
 <!-- Page 432 End -->
 
@@ -2334,7 +2334,7 @@ Chit ê chhiú-sút sī kūn-lâi sî-siông ēng-ê. Sī in-ūi thâng-iūⁿ-s
 > **【全漢對照】**  
 > **蟲樣垂摘出（蟲樣垂摘出，Appendicectomy.）**  
 > **器具：** 開腹手術的。  
-> 此個手術是近來時常用的。是因為蟲樣垂發炎的緣故，若無趕緊手術，驚了腹膜會發炎，就是危險的病。若手術的時無膿瘍佇咧，醫生較常縫傷喙予伊密；毋過若已經有膿瘍，伊欲用樹奶引流管，抑是玻璃引流管來鬥咧，予伊流膿出嚟。
+> 此个手術是近來時常用的。是因為蟲樣垂發炎的緣故，若無趕緊手術，驚了腹膜會發炎，就是危險的病。若手術的時無膿瘍佇咧，醫生較常縫傷喙予伊密；毋過若已經有膿瘍，伊欲用樹奶引流管，抑是玻璃引流管來鬥咧，予伊流膿出嚟。
 
 ---
 
@@ -2346,7 +2346,7 @@ Chit ê chhiú-sút sī in-ūi ti̍t-tn̂g á-sī kong-bûn ê só͘-chāi sì�
 > **【全漢對照】**  
 > **假肛門造設（假肛門造設，Colotomy）**  
 > **器具：** 開腹手術的，以及一支玻璃槌，差不多 4 寸長。  
-> 此個手術是因為直腸抑是肛門的所在生腫瘍，抑是狹窄（病隘），糞袂得經過。所以在下行結腸，造設一個假肛門，佇腹肚尾的倒爿。後來彼個人通對此個傷喙排出大便。著時常洗予清氣。大便了的時，連鞭換包傷料，也彼個傷喙的邊仔，有時用 *unguentum acidi borici*（硼酸軟膏）抑是 *ung. zinci oxidi*（氧化鋅軟膏）來擦，驚了彼個皮膚發紅。換包傷料的時，著閣將清氣的布佮棉花放置傷喙的頂面；用繃帶縛予伊好勢。
+> 此个手術是因為直腸抑是肛門的所在生腫瘍，抑是狹窄（病隘），糞袂得經過。所以在下行結腸，造設一个假肛門，佇腹肚尾的倒爿。後來彼个人通對此个傷喙排出大便。著時常洗予清氣。大便了的時，連鞭換包傷料，也彼个傷喙的邊仔，有時用 *unguentum acidi borici*（硼酸軟膏）抑是 *ung. zinci oxidi*（氧化鋅軟膏）來擦，驚了彼个皮膚發紅。換包傷料的時，著閣將清氣的布佮棉花放置傷喙的頂面；用繃帶縛予伊好勢。
 
 ---
 
@@ -2356,7 +2356,7 @@ Chit ê chhiú-sút sī in-ūi ti̍t-tn̂g á-sī kong-bûn ê só͘-chāi sì�
 
 > **【全漢對照】**  
 > **膽囊的手術（膽囊手術，Gall bladder operations）**  
-> **器具：** 開腹手術的，以及諸個：較長的外科鋏仔；單鈍鉤、雙鈍鉤 2 枝；彎佮直的長針；持針器（持針器，needle-holder）；膽石匙；長個探針；安全扁針（別針）。也著預備一兩個沙袋仔。
+> **器具：** 開腹手術的，以及諸个：較長的外科鋏仔；單鈍鉤、雙鈍鉤 2 枝；彎佮直的長針；持針器（持針器，needle-holder）；膽石匙；長个探針；安全扁針（別針）。也著預備一兩个沙袋仔。
 
 ---
 
@@ -2399,7 +2399,7 @@ Ke-si: Khui-pak-su̍t-ê, í-ki̍p chiah-ê, thoat-tiông-hông-ha̍p-chiam; si�
 Pīⁿ-lâng ū chit hō pīⁿ, in-ūi tn̂g, ū-sî sió-tn̂g, ū-sî tōa-tn̂g, tūi-lo̍h-lâi. Tī pak-tó-bé ê só͘-chāi, ū khah loán-jio̍k ê kun-bah, só͘-í lâng nā khah bô ióng, pak-tó-lāi ê tn̂g khoài tūi-lo̍h-lâi. Nā án-ni hit ê só͘-chāi ōe chéng-khí-lâi.
 
 > **【全漢對照】**  
-> 病人有這號病，因為腸，有時小腸，有時大腸，墜落來。佇腹肚尾的所在，有較軟弱的肌肉，所以人若較無勇，腹肚內的腸快墜落來。若按呢彼個所在會腫起來。
+> 病人有這號病，因為腸，有時小腸，有時大腸，墜落來。佇腹肚尾的所在，有較軟弱的肌肉，所以人若較無勇，腹肚內的腸快墜落來。若按呢彼个所在會腫起來。
 
 ---
 
@@ -2408,21 +2408,21 @@ Lâng nā ū chit hō pīⁿ khiā ti̍t-ti̍t, á-sī sàu, á-sī chhut-la̍t,
 
 > **【全漢對照】**  
 > **【還納性脫腸】**  
-> 人若有這號病徛直直，抑是嗽，抑是出力，彼個腸會脫出；若倒咧，用手下彼個腫的所在來揤著，腸會閣入腹肚內，蹹平消去，叫做還納性脫腸（還納性脫腸，reducible hernia）。
+> 人若有這號病徛直直，抑是嗽，抑是出力，彼个腸會脫出；若倒咧，用手下彼个腫的所在來揤著，腸會閣入腹肚內，蹹平消去，叫做還納性脫腸（還納性脫腸，reducible hernia）。
 
 ---
 
 Hit ê thoat-tiông khah-siông khòaⁿ-kìⁿ ê pō͘-ūi, chiū-sī kái-piⁿ óa tiong-ng ê só͘-chāi, kap tō-châi.
 
 > **【全漢對照】**  
-> 彼個脫腸較常看見的部位，就是佮邊倚中央的所在，佮肚臍。
+> 彼个脫腸較常看見的部位，就是佮邊倚中央的所在，佮肚臍。
 
 ---
 
 Lâng nā ū thoat-tiông, chit-ê ōe piàn chòe kúi-nā khoán:
 
 > **【全漢對照】**  
-> 人若有脫腸，這個會變做幾若款：
+> 人若有脫腸，這个會變做幾若款：
 
 ---
 
@@ -2454,7 +2454,7 @@ Lâng nā ū thoat-tiông, chit-ê ōe piàn chòe kúi-nā khoán:
 
 > **【全漢對照】**  
 > **【箝頓性脫腸】**  
-> 4. 脫腸內的物較案，彼個血袂流行，若無趕緊醫治，病人會死；這款叫做箝頓性脫腸（箝頓性脫腸，strangulated hernia）。
+> 4. 脫腸內的物較案，彼个血袂流行，若無趕緊醫治，病人會死；這款叫做箝頓性脫腸（箝頓性脫腸，strangulated hernia）。
 
 ---
 
@@ -2500,7 +2500,7 @@ Chèng-chōng: Nā-sī 1 hō bōe sím-mi̍h thiàⁿ, m̄-kú sī gûi-hiám, k
 Tī-liâu: Pêng-siông ê thoat-tiông: tio̍h kòa chi̍t-ê khì-kū, hō͘ hit ê pak-tó́-lāi ê mi̍h, bōe chhut-khì gōa-bīn. Hit ê khì-kū, kiò-chòe thoat-tiông-tòa (*truss*), tē 283 tô͘; chit-ê tio̍h ha̍p tī seng-khu, tio̍h chheng-khì, m̄-thang hō͘ i lù-phê. Khah hó ê hoat-tō͘, chiū-sī chhiú-su̍t. Tāi-khài lâi kóng, i-seng só͘-chòe-ê, chiū-sī hit ê thoat-tiông-lông-lāi ê mi̍h, hêng pak-tó́-lāi, thoat-tiông-lông chhiat-tû koh pa̍k; hit ê kun-bah ê khang, chiong i ê bah thiⁿ hō͘ ba̍t.
 
 > **【全漢對照】**
-> **治療**：平常的脫腸：著掛一個器具，予彼個腹肚內的物，𣍐出去外面。彼個器具，叫做脫腸帶（*truss*），第 283 圖；這個著合佇身軀，著清潔，毋通予伊磨皮。**手術**：較好的法度，就是手術。大概來講，醫生所做的，就是彼個脫腸囊內的物，還腹肚內，脫腸囊切除閣縛；彼個筋肉的孔，將伊的肉縫予密。
+> **治療**：平常的脫腸：著掛一个器具，予彼个腹肚內的物，𣍐出去外面。彼个器具，叫做脫腸帶（*truss*），第 283 圖；這个著合佇身軀，著清潔，毋通予伊磨皮。**手術**：較好的法度，就是手術。大概來講，醫生所做的，就是彼个脫腸囊內的物，還腹肚內，脫腸囊切除閣縛；彼个筋肉的孔，將伊的肉縫予密。
 
 ---
 
@@ -2542,7 +2542,7 @@ Ke-si: Khui-pak-su̍t-ê, í-kip chiah-ê: n̄g ki toaⁿ-kau-khíⁿ; chi̍t ki
 > **【全漢對照】**
 > **膀胱手術**：上膀胱切開術（上膀胱切開術，*Supra-pubic cystotomy*）。
 > 
-> **器具**：開腹術的，以及諸個：兩枝單鉤匙；一枝孔鑷匙；一枝孔鑷匙；一枝孔鑷探器；兩條樹乳導尿管；一
+> **器具**：開腹術的，以及諸个：兩枝單鉤匙；一枝孔鑷匙；一枝孔鑷匙；一枝孔鑷探器；兩條樹乳導尿管；一
 
 <!-- Page 435 End -->
 
@@ -2683,7 +2683,7 @@ Iáu-bē chhiú-su̍t tio̍h chiàu hoat-tō͘ tāi-seng pī-pān pīⁿ-lâng, 
 tng hō chheng-khì. Nā án-ni koàn-tng, khàn-hō͘ tiòh sòe-jī khòaⁿ pīⁿ-lâng ū hā hiah ê koàn-tng-che chhut-lâi á-bô, nā bô hā, tiòh koh koàn khah-chōe chúi, án-ni ē pang-chān i pâi-chhut. Chit-ê sī iàu-kín, in-ūi kiaⁿ-liáu pīⁿ-lâng phīⁿ *chloroform* ê sî ài tāi-piān, put-chí m̄-hó-sè.
 
 > **【全漢對照】**
-> 腸予清氣。若按呢灌腸，看護著細膩看病人有下遐的灌腸劑出利益無，若無下，著閣灌較多水，按呢會傍贊伊排出。這個是要緊，因為驚了病人鼻 *chloroform*（哥羅仿/麻醉藥）的時愛大便，不止唔好勢。
+> 腸予清氣。若按呢灌腸，看護著細膩看病人有下遐的灌腸劑出利益無，若無下，著閣灌較多水，按呢會傍贊伊排出。這个是要緊，因為驚了病人鼻 *chloroform*（哥羅仿/麻醉藥）的時愛大便，不止唔好勢。
 
 ---
 
@@ -2702,7 +2702,7 @@ Lāi-tī-hút-su̍t ê ke-si: *Clover*-sī kha-pō͘-kò͘-tēng-khì (腳部固
 Chhiú-su̍t ū kúi-nā khoán, chi̍t khoán sī sio-chiok-su̍t (*clamp and cautery*), koh chi̍t khoán sī kiat-chat-su̍t (*ligature*). Chit hō kiat-chat-su̍t, hit ê tī-hút pa̍k liáu khah-siông ēng ka-to ka-khí-lâi. Jiân-āu pīⁿ-lâng tiòh tó tī bîn-chhng, siāng-chió cha̍p ji̍t-kú; iā ū-sî nn̄g saⁿ lé-pài-kú, khàn-hō͘ tiòh sió-sim chiàu-kò͘. Pīⁿ-lâng tāi-piān liáu-āu, khàn-hō͘ tiòh ēng siau-to̍k-io̍h-chúi *lotio acidi carbolici* 1—40, lâi sóe hō chheng-khì, iā koh ōaⁿ pau-siong-liāu.
 
 > **【全漢對照】**
-> 手術有幾若款，一款是燒灼術（*clamp and cautery*），閣一款是結紮術（*ligature*）。這號結紮術，彼個痔核縛了較常用法刀（鉸刀）鉸起來。然後病人著倒佇眠床，上少十日久；也有時兩三禮拜久，看護著小心照顧。病人大便了後，看護著用消毒藥水 *lotio acidi carbolici*（石碳酸洗劑）1—40，來洗予清氣，也閣換包傷料。
+> 手術有幾若款，一款是燒灼術（*clamp and cautery*），閣一款是結紮術（*ligature*）。這號結紮術，彼个痔核縛了較常用法刀（鉸刀）鉸起來。然後病人著倒佇眠床，上少十日久；也有時兩三禮拜久，看護著小心照顧。病人大便了後，看護著用消毒藥水 *lotio acidi carbolici*（石碳酸洗劑）1—40，來洗予清氣，也閣換包傷料。
 
 ---
 
@@ -2712,7 +2712,7 @@ Lāi-tī-lāu kap gōa-tī-lāu, khah-siông sī tùi tāi-seng siⁿ lâng-iôn
 
 > **【全漢對照】**
 > **痔瘻的原因：**
-> 內痔瘻佮外痔瘻，較常是對大先生（起初生）膿癰，後來彼個膿癰破，出膿，也因為彼所在有驚人閣深，較惡好。若按呢著手術，也捽藥栓。著預備一條 T 字形的繃帶通縛。
+> 內痔瘻佮外痔瘻，較常是對大先生（起初生）膿癰，後來彼个膿癰破，出膿，也因為彼所在有驚人閣深，較惡好。若按呢著手術，也捽藥栓。著預備一條 T 字形的繃帶通縛。
 
 ---
 
@@ -2731,7 +2731,7 @@ Lāi-tī-lāu, gōa-tī-lāu ê ke-si: Gōa-kho-to; chián-to; thàm-chiam; ū k
 Beh ōaⁿ pau-siong-liāu ê sî, iàu-kín hit ê io̍h-sng tiòh ji̍p kàu siong-chhùi ê ē-tóe; lí-khì sī beh hō͘ bah-gê-cho͘-chit siⁿ tùi ē-tóe khí-lâi, nā bô án-ni, nā hō͘ i siuⁿ kín kè-phê, hit ê pīⁿ iu-goân iā sī tī-teh. Chit hō pīⁿ tāi-piān
 
 > **【全漢對照】**
-> 欲換包傷料的時，要緊彼個藥栓著入到傷喙的下底；理氣（原理）是欲予肉芽組織生對下底起來，若無按呢，若予伊傷緊過皮，彼個病依然也是佇咧。這號病大便……
+> 欲換包傷料的時，要緊彼个藥栓著入到傷喙的下底；理氣（原理）是欲予肉芽組織生對下底起來，若無按呢，若予伊傷緊過皮，彼个病依然也是佇咧。這號病大便……
 
 <!-- Page 438 End -->
 
@@ -2842,7 +2842,7 @@ Koan-chat-lī-tṉg-su̍t（關節離斷術, *Amputation through joint*）: Chi�
 Hú-kut-chhiat-tû-su̍t（腐骨切除術, *Sequestrotomy*）: Ū-sî phīⁿ-lâng ê kut ōe pháiⁿ-khì, chhàu-nōa. Hit ê i-tī ê hoat-tō͘, chiū-sī chhiat-tû hit tè chhàu-kut.
 
 > **【全漢對照】**
-> 腐骨切除術（腐骨切除術，*Sequestrotomy*）：有時病人（phīⁿ-lâng）的骨會歹去、臭爛。彼個醫治的法度，就是切除彼塊臭骨。
+> 腐骨切除術（腐骨切除術，*Sequestrotomy*）：有時病人（phīⁿ-lâng）的骨會歹去、臭爛。彼个醫治的法度，就是切除彼塊臭骨。
 
 ---
 
@@ -2947,7 +2947,7 @@ Tē 295 tô͘:—Pán-chōng-chhák.
 **Chih-chhiat-tû** (舌切除, Excision of tongue): Chhùi-chih nā siⁿ chéng-iông, hit-ê tiòh chhiat-tû.
 
 > **【全漢對照】**
-> **舌切除**（舌切除，Excision of tongue）：嘴舌若生腫瘍，彼個著切除。
+> **舌切除**（舌切除，Excision of tongue）：嘴舌若生腫瘍，彼个著切除。
 
 ---
 
@@ -2970,7 +2970,7 @@ Iáu-bē chòe chhiú-su̍t sî iàu-kín chhùi-khí tiòh lóng chheng-khì. I
 **Pīⁿ-thô-chôaⁿ-chhiat-tû** (扁桃腺切除, Excision of tonsils): Pīⁿ-thô-chôaⁿ nā khah tōa, ū-sî tiòh the̍h-khí-lâi. Chòe chit ê chhiú-su̍t tiòh ū-pī peng, kiaⁿ-liáu chhut-huih.
 
 > **【全漢對照】**
-> **扁桃腺切除**（扁桃腺切除，Excision of tonsils）：扁桃腺若較大，有時著提起來。做此個手術著預備冰，驚了出血。
+> **扁桃腺切除**（扁桃腺切除，Excision of tonsils）：扁桃腺若較大，有時著提起來。做此个手術著預備冰，驚了出血。
 
 ---
 
@@ -3083,7 +3083,7 @@ Chit ê chhiú-sùt liáu, tióh ēng chhiū-leng-kńg hō͘ lâng lâu-chhut-l�
 
 > **【全漢對照】**
 > **治療**
-> 此個手術了，著用樹乳管互膿流出來。有時此號病較慢好。著用補劑，及有滋養的食物來調養。亦著有好的空氣，因為此號病有時會病成結核
+> 此个手術了，著用樹乳管互膿流出來。有時此號病較慢好。著用補劑，及有滋養的食物來調養。亦著有好的空氣，因為此號病有時會病成結核
 
 <!-- Page 443 End -->
 
@@ -3118,7 +3118,7 @@ Chit ê chhiú-sùt liáu, tióh ēng chhiū-leng-kńg hō͘ lâng lâu-chhut-l�
 Chit ê chhiú-su̍t sī in-ūi siⁿ chéng-iông ê iân-kò͘. Pīⁿ-lâng m̄-thang kôaⁿ-tióh, léng-tióh; tióh ū-pī thán-á, kap sio-chúi-koàn.
 
 > **【全漢對照】**
-> 這個手術是因為生腫瘍的緣故。病人毋通寒著、冷著；著預備毯仔，佮熱水罐。
+> 這个手術是因為生腫瘍的緣故。病人毋通寒著、冷著；著預備毯仔，佮熱水罐。
 
 ---
 
@@ -3127,14 +3127,14 @@ Chit ê chhiú-su̍t sī in-ūi siⁿ chéng-iông ê iân-kò͘. Pīⁿ-lâng m
 Hōe-im-hông-ha̍p-su̍t (會陰縫合術, *Perineorraphy*): Hū-jîn-lâng khioh gín-ná ê sî, hōe-im ū-sî ōe phòa-li̍h, chiū-sī hit ê bah tùi im-bûn kap kong-bûn ê tiong-kan. I-tī ê hoat-tō͘ sī chiong phòa-li̍h ê só͘-chāi kā pâng-óa. Ū-sî khioh liáu, hit ê li̍h-khui ê só͘-chāi, liâm-piⁿ thīⁿ bāt. Iā ū-sî thèng-hāu sán-hū khah hó, chiah kā chhiú-su̍t. Chhiú-su̍t liáu-āu, khàn-hō͘ tióh ta̍k jit nñg saⁿ pái ēng khah-chōe ê siau-to̍k-io̍h-chúi sóe siong-chhùi. Tióh hō͘ i tó chhiò-chhiò, ēng tòa chiong nñg ki kha-thúi pa̍k hō͘ i bōe thián-khui. Chiong chit-ê chím-thâu ké hit ê kha-oat-oan, hō͘ tōa-thúi ōe kiu-khí-lâi. Nā kàu eng-kai cháu-tāng ê jit, tāi-seng chit jit tióh ēng *oleum ricini* hō͘ i chia̍h, koh kè nñg saⁿ tiám-cheng liáu-āu, chiong *enema saponis* kap *oleum olivae* koàn-tng. Chhian-bān m̄-thang hō͘ pīⁿ-lâng chhut la̍t tìⁿ.
 
 > **【全漢對照】**
-> **會陰縫合術（會陰縫合術，Perineorraphy）：** 婦人人抾囡仔的時，會陰有時會破裂，就是彼個肉對陰門佮肛門的中間。醫治的法度是將破裂的所在共捀倚。有時抾了，彼個裂開的所在，連鞭縫密。也有時聽候產婦較好，才共手術。手術了後，看護著逐日兩三擺用較多的消毒藥水洗傷喙。著予伊倒斜斜（仰臥），用帶將兩枝跤腿縛予伊袂展開。將一个枕頭墊彼個跤屈彎，予大腿會 create/縮起來。若到應該走動的日，代先一日著用 *oleum ricini*（蓖麻油）予伊食，閣過兩三點鐘了後，將 *enema saponis*（肥皂灌腸劑）佮 *oleum olivae*（橄欖油）灌腸。千萬毋通予病人出力捘（用力迸）。
+> **會陰縫合術（會陰縫合術，Perineorraphy）：** 婦人人抾囡仔的時，會陰有時會破裂，就是彼个肉對陰門佮肛門的中間。醫治的法度是將破裂的所在共捀倚。有時抾了，彼个裂開的所在，連鞭縫密。也有時聽候產婦較好，才共手術。手術了後，看護著逐日兩三擺用較多的消毒藥水洗傷喙。著予伊倒斜斜（仰臥），用帶將兩枝跤腿縛予伊袂展開。將一个枕頭墊彼个跤屈彎，予大腿會 create/縮起來。若到應該走動的日，代先一日著用 *oleum ricini*（蓖麻油）予伊食，閣過兩三點鐘了後，將 *enema saponis*（肥皂灌腸劑）佮 *oleum olivae*（橄欖油）灌腸。千萬毋通予病人出力捘（用力迸）。
 
 ---
 
 Nā ū sím-mih siong-chhùi chhin-chhiūⁿ chhiú-su̍t lâng-iông liáu-āu, hit ê teh siⁿ bah-gê-chho͘-chit, iàu-kín tióh ēng mî-se ji̍p tī ē-tóe, hō͘ bah-gê-chho͘-chit tùi ē-tóe siⁿ-khí-lâi, iā hō͘ hit ê phê-hu bōe liâm-piⁿ kè phê.
 
 > **【全漢對照】**
-> 若有甚麼傷喙親像手術膿瘍了後，彼個咧生肉芽組織，要緊著用棉紗入佇下底，予肉芽組織對下底生起來，也予彼個皮膚袂連鞭過皮。
+> 若有甚麼傷喙親像手術膿瘍了後，彼个咧生肉芽組織，要緊著用棉紗入佇下底，予肉芽組織對下底生起來，也予彼个皮膚袂連鞭過皮。
 
 <!-- Page 444 End -->
 
@@ -3172,7 +3172,7 @@ Chhng-pak-sút (穿腹術, *Paracentesis abdominis*):
 > 1. 著預備：  
 > (a) 適格的腹水套管針（*trocar and cannula*，第 298 圖）。  
 > (b) 五尺長的樹奶管（橡膠管），欲透（接）套管針佇外面板，互水通流出嚟。  
-> (ch) 大卡的水桶，豎眠床邊欲承彼個水。  
+> (ch) 大卡的水桶，豎眠床邊欲承彼个水。  
 > (e) 照醫生所吩咐的麻醉藥（*ethylis chloridum, eucaina*）。  
 > (g) *Lotio iodi*（碘洗劑）抑是 *tinctura iodi*（碘酒）。  
 > (h) 消毒的棉花、棉紗。  
@@ -3209,11 +3209,11 @@ Tē 298 tô͘:—Ho̍k-súi-thò-kńg-chiam.
 6. I-seng ê chhiú í-keng siau-to̍k liáu, chiū the̍h siau-to̍k ê bīn-kun, chhu tī mî-phē kap pīⁿ-lâng ê saⁿ-téng. I-seng ū-sî ēng hit ê bâ-chùi-io̍h, hō͘ beh siū chhiú-su̍t ê só͘-chāi bōe thiàⁿ, chiah the̍h hit ki thò-kńg-chiam, chiam
 
 > **【全漢對照】**  
-> 2. 著斟酌看膀胱內有尿抑無，若有，著互彼個尿排出。  
+> 2. 著斟酌看膀胱內有尿抑無，若有，著互彼个尿排出。  
 > 3. 著用一塊倚椅（靠背椅），互伊倚咧。  
 > 4. 著掀開病人腹肚頂的衫。  
 > 5. 用 *lotio iodi*（碘液）擦腹肚，對肚臍到陰部頂。聽候擦了閣十分久，才閣擦一擺。  
-> 6. 醫生的手已經消毒了，就提消毒的面巾，鋪佇棉被及病人的衫頂。醫生有時用彼個麻醉藥，互欲受手術的所在𣍐疼，才提彼枝套管針，針（扎）
+> 6. 醫生的手已經消毒了，就提消毒的面巾，鋪佇棉被及病人的衫頂。醫生有時用彼个麻醉藥，互欲受手術的所在𣍐疼，才提彼枝套管針，針（扎）
 
 <!-- Page 445 End -->
 
@@ -3284,7 +3284,7 @@ Chit ê hoat-tō͘ ēng ê sî chiū-sī: (1) Chhiú-su̍t huih lâu siuⁿ chō
 > 1. 對靜脈管，就是第一緊的法。
 > 2. 對皮下的結締質（結締組織）。
 > 3. 對肛門、直腸，就是第一慢的法。
-> 此個法度用的時就是：(1) 手術血流傷濟的病人；(2) 人落吐（下瀉嘔吐），病人身軀的體液較不足的；(3) 病人欲受手術的代先，互伊的腦力，抑是心的力，會強盛，預防忽然衰弱。
+> 此个法度用的時就是：(1) 手術血流傷濟的病人；(2) 人落吐（下瀉嘔吐），病人身軀的體液較不足的；(3) 病人欲受手術的代先，互伊的腦力，抑是心的力，會強盛，預防忽然衰弱。
 
 ---
 
@@ -3295,7 +3295,7 @@ Chit-ê chiū-sī ēng sio-siau-to̍k-chúi, á-sī sio-iâm-chúi, chù-jip ph�
 
 > **【全漢對照】**
 > 皮下注入法（皮下注入法，*Subcutaneous infusion*）：
-> 此個就是用燒消毒水，抑是燒鹽水，注入皮下結締質內。此個技術（技術，*techni-*）
+> 此个就是用燒消毒水，抑是燒鹽水，注入皮下結締質內。此个技術（技術，*techni-*）
 
 <!-- Page 446 End -->
 
@@ -3327,7 +3327,7 @@ Chit-ê chiū-sī ēng sio-siau-to̍k-chúi, á-sī sio-iâm-chúi, chù-jip ph�
 **Ke-si**: Iâm-chúi-chù-ji̍p-khì, te̍k-pia̍t ê koàn-khài-hoàn, chhiū-leng-kńg, po-lê-kńg, kap lēng-gōa chi̍t tiâu té ê chhiū-leng-kńg; nñg ki 3 chhùn tn̂g ê lāi chù-siā-chiam; chhit-pò͘, mî-se, mî-hoe, bīn-kun; téng-bīn chiah-ê lóng tiòh siau-to̍k. Sio-iâm-chúi, 1,000.0 c.c.
 
 > **【全漢對照】**
-> **器具**：鹽水注入器，特別的灌溉罐，樹奶管，玻璃管，佮另外一條短的樹奶管；兩枝 3 寸長的內注射針；漆布、綿紗、綿花、面巾；頂面諸個攏著消毒。燒鹽水，1,000.0 c.c.。
+> **器具**：鹽水注入器，特別的灌溉罐，樹奶管，玻璃管，佮另外一條短的樹奶管；兩枝 3 寸長的內注射針；漆布、綿紗、綿花、面巾；頂面諸个攏著消毒。燒鹽水，1,000.0 c.c.。
 
 ---
 
@@ -3361,7 +3361,7 @@ Pīⁿ-lâng ê phê-bah, tiòh ēng siau-to̍k-io̍h-chúi, kap hé-chiú sóe 
 thêng 10 hun-cheng, chiah koh chhat chi̍t pái. Tiòh chiàu án-ni chhat saⁿ pái. Hit ki chiam kap chhiū-leng-kńg chham lâu-táu tiòh sio-chiap, iā tiòh chiong iâm-chúi tóe hō͘ móa, m̄-thang hō͘ khong-khì tùi hia ji̍p-khì, chiah ēng chù-siā-chiam chha̍k hit ê chheng-khì phê-bah ê só͘-chāi.
 
 > **【全漢對照】**
-> 停 10 分鐘，才閣擦一擺。著照按呢擦三擺。彼枝針佮樹奶管參漏斗著相接，也著將鹽水貯互滿，毋通互空氣對遐入去，才用注射針插彼個清氣皮肉的所在。
+> 停 10 分鐘，才閣擦一擺。著照按呢擦三擺。彼枝針佮樹奶管參漏斗著相接，也著將鹽水貯互滿，毋通互空氣對遐入去，才用注射針插彼个清氣皮肉的所在。
 
 ---
 
@@ -3370,7 +3370,7 @@ thêng 10 hun-cheng, chiah koh chhat chi̍t pái. Tiòh chiàu án-ni chhat sa�
 Hō͘ iâm-chúi siā-ji̍p ê pō͘-ūi, khah-siông sī tùi heng-khám-piⁿ, tōa-thúi ê lāi-pêng, á-sī leng-pông-ē (tē 300 tô͘). Hit ê iâm-chúi ê un-tō͘, tiòh tùi 112° F. (44.4° C.) chì 118° F. (47.6° C.). Tiòh ēng chi̍t ki kè siau-to̍k liáu ê hân-loán-kè hē tī iâm-chúi-nih. Chit ki hân-loán-kè tiòh tāi-seng chìm tī *lotio hydrarg. perchlor.* 1—1,000. Put-sî tiòh ēng khah sio ê iâm-chúi ke-thīⁿ tī koàn-khài-khì hō͘ hit ê
 
 > **【全漢對照】**
-> 互鹽水射入的部位，較常是對胸坎邊、大腿的內旁，抑是奶房下（第 300 圖）。彼個鹽水的溫度，著對 112° F. (44.4° C.) 至 118° F. (47.6° C.)。著用一枝過消毒了的寒暖計放置佇鹽水裡。此枝寒暖計著代先浸佇 *lotio hydrarg. perchlor.*（昇汞水劑）1—1,000。不時著用較燒的鹽水加添佇灌溉器互彼個
+> 互鹽水射入的部位，較常是對胸坎邊、大腿的內旁，抑是奶房下（第 300 圖）。彼个鹽水的溫度，著對 112° F. (44.4° C.) 至 118° F. (47.6° C.)。著用一枝過消毒了的寒暖計放置佇鹽水裡。此枝寒暖計著代先浸佇 *lotio hydrarg. perchlor.*（昇汞水劑）1—1,000。不時著用較燒的鹽水加添佇灌溉器互彼个
 
 <!-- Page 447 End -->
 
@@ -3468,7 +3468,7 @@ Ke-si: Phê-ē-chù-jip-hoat-ê, í-kip chiah-ê: gōa-kho-to; tōng-me̍h-liû-
 
 > **【全漢對照】**
 > ### ［器具］
-> 器具：皮下注入法的，以及諸個：外科刀；動脈瘤針；2 枝動脈鉗；剪刀；外科夾仔；及有齒的夾仔；靜脈鈍針；縫合針及線；消毒藥水、消毒盤、消毒包傷料；止血器；繃帶。
+> 器具：皮下注入法的，以及諸个：外科刀；動脈瘤針；2 枝動脈鉗；剪刀；外科夾仔；及有齒的夾仔；靜脈鈍針；縫合針及線；消毒藥水、消毒盤、消毒包傷料；止血器；繃帶。
 
 ---
 
@@ -3484,7 +3484,7 @@ Tē 303 tô͘ — Chēng-me̍h-lāi-chù-jip-hoat. Téng-bīn ū chit ki hó ēn
 Chit ê chhiú-su̍t sī i-seng teh chòe-ê, chóng-sī khàn-hō͘ tióh ōe hiáu-tit chit ê kī-su̍t. Chiong chhiú-āu-khiau ê phê-hu pī-pān chiàu téng-bīn só͘ kóng ê hoat-tō͘.
 
 > **【全漢對照】**
-> 此個手術是醫生咧做的，總是看護著會曉得此個技術。將手後曲的皮膚備辦照頂面所講的法度。
+> 此个手術是醫生咧做的，總是看護著會曉得此个技術。將手後曲的皮膚備辦照頂面所講的法度。
 
 ---
 
@@ -3523,7 +3523,7 @@ kóng hit tiâu chí-huih-khì, i-seng chiah chiong iâm-chúi siā-ji̍p-khì. 
 Chit ê chhiú-su̍t ê tiong-kan, ū nn̄g hāng iàu-kín tio̍h ōe kì-tit : (1) Hit ki chēng-me̍h-chiam, iáu-bē ji̍p chēng-me̍h-lāi, iâm-chúi tio̍h tāi-seng tùi koàn-khài-koàn tit-tit lâu-lo̍h, hō͘ kńg-lāi ê khong-khì tû-khì ; (2) Iâm-chúi teh-beh liáu ê sî, nā beh koh thīⁿ sin-ê, tio̍h sòe-jī, m̄-thang thèng-hāu kàu koàn-khài-khì lóng bô iâm-chúi, chiah beh thīⁿ, kiaⁿ-liáu ōe chiong khong-khì siā-ji̍p chēng-me̍h-lāi. Nā khong-khì ji̍p chēng-me̍h-lāi, ōe liâm-piⁿ ji̍p sim-chōng, bô kúi-hun-kú, chiū pīⁿ-lâng ōe sí. Nā bô-tiuⁿ-tî koàn-khài-koàn-lāi bô iâm-chúi, hit ki chēng-me̍h-chiam tio̍h thiu-chhut-lâi, thiu-chhut-lâi liáu thang ke-thīⁿ jip iâm-chúi ji̍p koàn-khài-khì-lāi. Beh soah ê sî, tio̍h tām-po̍h iâm-chúi iáu-kú tī koàn-khài-koàn-lāi chiah soah. Chù-ji̍p chi̍t pái iâm-chúi sī 500.0 chì 2,000.0 c.c. chiū hó ; chit-ê sī i-seng teh chú-ì.
 
 > **【全漢對照】**
-> 此個手術的中間，有兩項要緊著會記得分：(1) 彼枝靜脈針，猶未入靜脈內，鹽水著代先對灌溉管直直流落，予管內的空氣除去；(2) 鹽水欲變了的時，若欲閣添新的，著細膩，毋通聽候到灌溉器攏無鹽水，才欲添，驚了會將空氣射入靜脈內。若空氣入靜脈內，會連鞭入心臟，無幾分久，就病人會死。若無張弛灌溉管內無鹽水，彼枝靜脈針著抽出Рус/出來，抽出Рус/出來了通加添入鹽水入灌溉器內。欲煞的時，著淡薄鹽水猶舊佇灌溉管內才煞。注入一擺鹽水是 500.0 至 2,000.0 c.c. 就好；此個是醫生咧注意。
+> 此个手術的中間，有兩項要緊著會記得分：(1) 彼枝靜脈針，猶未入靜脈內，鹽水著代先對灌溉管直直流落，予管內的空氣除去；(2) 鹽水欲變了的時，若欲閣添新的，著細膩，毋通聽候到灌溉器攏無鹽水，才欲添，驚了會將空氣射入靜脈內。若空氣入靜脈內，會連鞭入心臟，無幾分久，就病人會死。若無張弛灌溉管內無鹽水，彼枝靜脈針著抽出Рус/出來，抽出Рус/出來了通加添入鹽水入灌溉器內。欲煞的時，著淡薄鹽水猶舊佇灌溉管內才煞。注入一擺鹽水是 500.0 至 2,000.0 c.c. 就好；此个是醫生咧注意。
 
 ---
 
@@ -3536,7 +3536,7 @@ Siā iâm-chúi iáu ū chi̍t hāng te̍k-pia̍t ê hoat-tō͘, chiū-sī ēng 
 > **【全漢對照】**
 > 直腸注入法（直腸注入法，*Rectal saline*）：
 > 若對直腸灌入鹽水，就連鞭入到大腸，無偌久會入佇靜脈管（第 234 面）。
-> 射鹽水猶有一項特別的法度，就是用一種的器具，予彼條樹乳管，一頭入佇盆內，一頭接佇注射針，入佇病人的皮下的結締質；抑是接佇樹乳導尿管，穿入直腸內。盆內的鹽水若比病人較懸兩三尺，彼個鹽水會家己（*syphon action*，虹吸作用）流落走入去人的身軀；毋免人的力。總 shell/總是著用法度予鹽水袂冷去。
+> 射鹽水猶有一項特別的法度，就是用一種的器具，予彼條樹乳管，一頭入佇盆內，一頭接佇注射針，入佇病人的皮下的結締質；抑是接佇樹乳導尿管，穿入直腸內。盆內的鹽水若比病人較懸兩三尺，彼个鹽水會家己（*syphon action*，虹吸作用）流落走入去人的身軀；毋免人的力。總 shell/總是著用法度予鹽水袂冷去。
 
 ---
 
@@ -3580,7 +3580,7 @@ Chòe chit ê hoat, chiū-sī i-seng ê chek-sêng, khàn-hō͘ m̄-thang ka-kī
 
 > **【全漢對照】**
 > 靜脈切開術（靜脈開切術，*Venesection*）：
-> 做此個法，就是醫生的責任，看護毋通家己做。
+> 做此个法，就是醫生的責任，看護毋通家己做。
 
 ---
 
@@ -3608,8 +3608,8 @@ Ke-si: Khui-pak-sùt-ê, í-kip chiah-ê: chit ki toaⁿ-kau-khíⁿ; chú-kiong
 
 > **【全漢對照】**
 > 下面此段著補入佇 410 面，第 29 行下：
-> 子宮腹壁固定法（子宮腹壁固定法，*Abdominal hysteropexy*）。此個手術是欲將墜落的子宮絚牢佇腹肚的前面板的後面旁。
-> 傢俬：開腹術的，以及諸個：一支單鉤齒；子宮探器；6 粒鉛皮縫合。
+> 子宮腹壁固定法（子宮腹壁固定法，*Abdominal hysteropexy*）。此个手術是欲將墜落的子宮絚牢佇腹肚的前面板的後面旁。
+> 傢俬：開腹術的，以及諸个：一支單鉤齒；子宮探器；6 粒鉛皮縫合。
 
 <!-- Page 451 End -->
 

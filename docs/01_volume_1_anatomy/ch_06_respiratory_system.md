@@ -82,7 +82,7 @@ Ho͘-chhut (呼出, *expiration*) chiū-sī tùi hì-chōng-lāi, chiong hit lā
 
 > **【全漢對照】**
 > **呼出**  
-> 呼出（呼出，*expiration*）就是對肺臟內，將彼內面的空氣，及水氣、炭酸，噴出佇外面。彼時若看胸坎就知道有縮細（第 71、72 圖）。此個吸入及呼出叫做呼吸（呼吸，*respiration*）。
+> 呼出（呼出，*expiration*）就是對肺臟內，將彼內面的空氣，及水氣、炭酸，噴出佇外面。彼時若看胸坎就知道有縮細（第 71、72 圖）。此个吸入及呼出叫做呼吸（呼吸，*respiration*）。
 
 ---
 
@@ -123,7 +123,7 @@ Chit ê khì-kńg téng-bīn kiò-chòe âu-thâu (喉頭, *larynx*), i ê ē-t�
 > 
 > **喉頭**  
 > **氣管**  
-> 此個氣管頂面叫做喉頭（喉頭，*larynx*），伊的下底接連佇總氣管（總氣管，*trachea*）。氣管下底接連佇肺臟（肺臟，*lungs*）。此三項叫做呼吸器（呼吸器）。
+> 此个氣管頂面叫做喉頭（喉頭，*larynx*），伊的下底接連佇總氣管（總氣管，*trachea*）。氣管下底接連佇肺臟（肺臟，*lungs*）。此三項叫做呼吸器（呼吸器）。
 
 ---
 
@@ -165,7 +165,7 @@ Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nñg ê lûn, thâu-
 Chit ê âu-thâu sī chhin-chhiūⁿ siaⁿ-im ê siuⁿ-á, iā ū káu tè nńg-kut lâi chòe-chiâⁿ-ê. Chiah ê nńg-kut ū-ê sī tōa tè, ū-ê sòe-sòe tè.
 
 > **【全漢對照】**
-> 這个喉頭是親像聲音的箱仔，亦有九塊軟骨來做成的。諸個軟骨有的是大塊，有的是細細塊。
+> 這个喉頭是親像聲音的箱仔，亦有九塊軟骨來做成的。諸个軟骨有的是大塊，有的是細細塊。
 
 ---
 
@@ -185,7 +185,7 @@ Tī khoân-chōng-nńg-kut ê ē-bīn ū khì-kńg ê thâu nñg ê lûn, thâu-
 
 > **【全漢對照】**
 > 第 74 圖。——喉頭的前面：1，環狀軟骨；2，甲狀軟骨的下角；3，環狀甲狀中的韌帶；4，甲狀軟骨的頭前隅；5，甲狀軟骨缺；6，甲狀舌骨中的韌帶；8，一粒軟骨；9，舌骨；10，會厭。
-> 佇環狀軟骨的下面有氣管的頭兩個輪，頭前所會看的白白是軟骨（Cunningham）。
+> 佇環狀軟骨的下面有氣管的頭兩个輪，頭前所會看的白白是軟骨（Cunningham）。
 
 ---
 
@@ -241,7 +241,7 @@ Tī âu-thâu ê lāi-bīn ū chi̍t tùi siaⁿ-tài ; i ê thâu-chêng liân 
 
 > **【全漢對照】**
 > **聲帶**
-> 佇喉頭的內面有一對聲帶；伊的頭前連佇頭前，伊的後面佇後面。諸個聲帶是趁人的意思會絚鬆，聲音才有懸低的
+> 佇喉頭的內面有一對聲帶；伊的頭前連佇頭前，伊的後面佇後面。諸个聲帶是趁人的意思會絚鬆，聲音才有懸低的
 
 ---
 
@@ -279,7 +279,7 @@ hun-piat. Siaⁿ-tài nā pàng lēng, siaⁿ-im sī khah kē, nā kiu ân, sia�
 Teh ho͘-khip ê sî nā khip-ji̍p, khong-khì sī tùi âu-thâu keng-kè, lo̍h-khì chóng-khì-kńg, ji̍p tī hì-nih. Ho͘-chhut sī tùi-hoán: pêng-siông teh ho͘-khip, khong-khì teh keng-kè âu-thâu, siaⁿ-tài ū pàng khui saⁿ-lī, chiū bōe chhut siaⁿ. Nā beh chhut siaⁿ, siaⁿ-tài chiū ū kiu khah óa, tiong-ng lâu chi̍t phāng-á, khong-khì tùi hit ê phāng teh chhut, hō͘ siaⁿ-tài chín-tōng (震動, vibrate), chiah ū siaⁿ.
 
 > **【全漢對照】**
-> 咧呼吸的時若吸入，空氣是對喉頭經過，落去總氣管，入佇肺裡。呼出是對反：平常咧呼吸，空氣咧經過喉頭，聲帶有放開相離，就袂出聲。若欲出聲，聲帶就有糾較倚，中央留一個縫仔，空氣對彼個縫咧出，互聲帶震動（震動，vibrate），才有聲。
+> 咧呼吸的時若吸入，空氣是對喉頭經過，落去總氣管，入佇肺裡。呼出是對反：平常咧呼吸，空氣咧經過喉頭，聲帶有放開相離，就袂出聲。若欲出聲，聲帶就有糾較倚，中央留一个縫仔，空氣對彼个縫咧出，互聲帶震動（震動，vibrate），才有聲。
 
 ---
 
@@ -338,7 +338,7 @@ II, Nñg tiâu mñg-sòe-khì-kńg-chi ê bé-á kap hì-pau, iáu-bē chhiat-kh
 khàm ba̍t. Ū lâng kóng thun mi̍h ê sî, chit ê hōe-iàm ōe tín-tāng, lâi khàm âu-thâu-kháu chhin-chhiūⁿ kòa ê khoán, chóng-sī chit ê lí, chiàu hiān-sî ê ha̍k-lí lâi khòaⁿ, sī bô iáⁿ. Chit ê hōe-iàm-nńg-kut bōe sím-mi̍h tín-tāng. Sit-chāi sī âu-thâu tín-tāng chiūⁿ koâiⁿ, lâi hō͘ hōe-iàm khàm. Chhiáⁿ tāi-ke chhì-giām chit-ê chiū chai. Nā beh thun mi̍h ê sî, ēng chhiú bong thó͘-chhut-lâi phê-ē ê âu-thâu, chiū chai hit-ê chiūⁿ koâiⁿ hō͘ hōe-iàm ōe khàm ê lí-khì.
 
 > **【全漢對照】**
-> 蓋密。有人講吞物ê時，這個會厭會振動，來蓋喉頭口親像蓋ê款，總是這個理，照現時ê學理來看，是無影。這個會厭軟骨𣍐甚麼振動。實在是喉頭振動上高，來互會厭蓋。請大家試驗這個就知。若欲吞物ê時，用手摸吐出來皮下ê喉頭，就知彼個上高互會厭會蓋ê理氣。
+> 蓋密。有人講吞物ê時，這个會厭會振動，來蓋喉頭口親像蓋ê款，總是這个理，照現時ê學理來看，是無影。這个會厭軟骨𣍐甚麼振動。實在是喉頭振動上高，來互會厭蓋。請大家試驗這个就知。若欲吞物ê時，用手摸吐出來皮下ê喉頭，就知彼个上高互會厭會蓋ê理氣。
 
 ---
 
@@ -347,7 +347,7 @@ khàm ba̍t. Ū lâng kóng thun mi̍h ê sî, chit ê hōe-iàm ōe tín-tāng,
 Chóng-khì-kńg thàu kàu hì (tē 77 tô͘). Lāi-bīn sī liām-mo̍h lâi pau. I ê thé sī tēng koh ngī, sī in-ūi nńg-kut ê lûn tī-teh. Chiah ê lûn saⁿ hūn ū nñg hūn nńg-kut ûi-teh; āu-pêng-pîⁿ ū kiat-tè-chit kap kun-bah. Ū chha-put-to cha̍p-gō͘ lûn chat sio-tha̍h. Nńg-kut ûi-teh ê kong-iōng sī beh hō͘ chóng-khì-kńg siông-siông khui-khui, iā hō͘
 
 > **【全漢對照】**
-> 總氣管透到肺（第 77 圖）。內面是粘膜來包。伊ê體是定閣硬，是因為軟骨ê輪佇咧。諸個輪三分有兩分軟骨圍咧；後評判有結締質佮筋肉。有差不多十五輪節相疊。軟骨圍咧ê功用是欲互總氣管常常開開，也互……
+> 總氣管透到肺（第 77 圖）。內面是粘膜來包。伊ê體是定閣硬，是因為軟骨ê輪佇咧。諸个輪三分有兩分軟骨圍咧；後評判有結締質佮筋肉。有差不多十五輪節相疊。軟骨圍咧ê功用是欲互總氣管常常開開，也互……
 
 ---
 
@@ -387,7 +387,7 @@ i khah tēng koh ióng. Tn̂g sì chhùn. Ē-tóe pun siang chhe kiò-chòe chó
 > **【全漢對照】**
 > ［旁註：左氣管 / 右氣管］
 > 
-> 伊較硬閣勇。長四寸。下底分雙杈叫做左氣管、右氣管；一條入佇左肺裡，一條入佇右肺裡。此兩條氣管，也親像總氣管，是軟骨佮結締質做成的。諸個閣分做贅贅細……
+> 伊較硬閣勇。長四寸。下底分雙杈叫做左氣管、右氣管；一條入佇左肺裡，一條入佇右肺裡。此兩條氣管，也親像總氣管，是軟骨佮結締質做成的。諸个閣分做贅贅細……
 
 ---
 
@@ -431,7 +431,7 @@ tiâu ê kńg; tùi sòe tiâu ê kńg, koh pun chòe chōe-chōe mnĝ-sòe-khì
 
 > **【全漢對照】**
 > **【毛細氣管枝】**
-> 條的管；對細條的管，閣分做多多毛細氣管枝，直直分到細葉的所在。彼個所分開的管，那分那細，分到無看見軟骨。
+> 條的管；對細條的管，閣分做多多毛細氣管枝，直直分到細葉的所在。彼个所分開的管，那分那細，分到無看見軟骨。
 
 ---
 
@@ -441,7 +441,7 @@ Chiah ê iù-iù ê khì-kńg, ū kui pha ê phā kap i saⁿ-liân, bé-liu ia�
 
 > **【全漢對照】**
 > **【肺胞】**
-> 遮的幼幼的氣管，有歸葩的葩佮伊相連，尾溜亦有一個葩。遮的葩的款式親像一粒麻，叫做肺胞。肺胞（*alveolus*）是盡幼的物，肺的內面，有人推算有一千八百萬的多。因為有肺胞，所以肺會不止鬆不止泡，亦是輕輕的物，會浮佇水裡（第 77 圖）。
+> 遮的幼幼的氣管，有歸葩的葩佮伊相連，尾溜亦有一个葩。遮的葩的款式親像一粒麻，叫做肺胞。肺胞（*alveolus*）是盡幼的物，肺的內面，有人推算有一千八百萬的多。因為有肺胞，所以肺會不止鬆不止泡，亦是輕輕的物，會浮佇水裡（第 77 圖）。
 
 ---
 
@@ -461,7 +461,7 @@ Hì-thé ê tāng, iū-pêng ê hì 600.0 grms. Chó-hì 560.0 grms. Hit ê chó
 
 > **【全漢對照】**
 > **【兩旁無重】**
-> 肺體的重，右旁的肺 600.0 grms. 左肺 560.0 grms. 彼個左右兩旁的肺是無相像。正旁的肺，比倒旁的肺較闊，較大，也是較短，有三葉。倒旁的肺，較狹，也較長，
+> 肺體的重，右旁的肺 600.0 grms. 左肺 560.0 grms. 彼个左右兩旁的肺是無相像。正旁的肺，比倒旁的肺較闊，較大，也是較短，有三葉。倒旁的肺，較狹，也較長，
 
 ---
 
@@ -512,7 +512,7 @@ Siang pêng nn̄g ia̍p hì-thé ê gōa-bīn lóng ū heng-mo̍h (*pleura*) kh�
 
 > **【全漢對照】**
 > **［胸膜 / 胸膜液］**
-> 雙爿兩葉肺體的外面攏有胸膜 (*pleura*) 蓋咧 （第 79 圖）。此個胸膜佇胸的內面，有兩層相倚，一層連佇脅骨內的筋肉佮橫膈膜，也一層包肺臟。諸個膜號做胸膜 (*pleurae*)。佇此兩層的中間有淡薄親像水之款，名叫做胸膜液 （胸膜液，*pleuritic fluid*） 來幫贊肺呼吸，較容易來振動。
+> 雙爿兩葉肺體的外面攏有胸膜 (*pleura*) 蓋咧 （第 79 圖）。此个胸膜佇胸的內面，有兩層相倚，一層連佇脅骨內的筋肉佮橫膈膜，也一層包肺臟。諸个膜號做胸膜 (*pleurae*)。佇此兩層的中間有淡薄親像水之款，名叫做胸膜液 （胸膜液，*pleuritic fluid*） 來幫贊肺呼吸，較容易來振動。
 
 ---
 
@@ -532,7 +532,7 @@ Sió khì-kńg ji̍p sè ia̍p hì ê sî, chiū hun chòe chōe-chōe tiâu kh�
 
 > **【全漢對照】**
 > **［肺胞］**
-> 小氣管入細葉肺的時，就分做多多條去，若分若薄，薄到親像膜的款。氣管的尾溜，稍可較闊，有細細的胞，此號小胞名叫肺胞 （肺胞，*alveoli*）。諸個肺胞的壁是不止薄，佇內面有粘膜，諸結締質佮外面的粘膜。佇結締質的中間有毛細血管、靜脈親像網的款式 （第 81 圖）。
+> 小氣管入細葉肺的時，就分做多多條去，若分若薄，薄到親像膜的款。氣管的尾溜，稍可較闊，有細細的胞，此號小胞名叫肺胞 （肺胞，*alveoli*）。諸个肺胞的壁是不止薄，佇內面有粘膜，諸結締質佮外面的粘膜。佇結締質的中間有毛細血管、靜脈親像網的款式 （第 81 圖）。
 
 ---
 
@@ -565,7 +565,7 @@ Lūn ho͘-khip ê hoat-tō͘: Heng-khám kap pak-tó́ ê tiong-ng, ū chi̍t t�
 téng-bīn. Hoâiⁿ-keh-mo̍h ê tiong-ng sī chhin-chhiūⁿ jīm-tài ê khoán-sit ; piⁿ-thâu sī píⁿ-píⁿ ê kun, ōe chhun kiu, uī tī hia̍p-ē-nih. Hit ê kun-bah nā chhun, hoâiⁿ-keh-mo̍h tùi téng-bīn phòng-khí-lâi, heng-khám chiū khah sòe ; i ê kun-bah nā kiu, chiū hoâiⁿ-keh-mo̍h lo̍h kē, heng-khám khah tōa (tē 71, 72 tô͘).
 
 > **【全漢對照】**
-> 頂面。橫膈膜的中央是親像韌帶的款式；邊頭是扁扁的筋，會伸縮，位於脅下裏。彼個筋肉若伸，橫膈膜對頂面膨起來，胸坎就較細；伊的筋肉若縮，就橫膈膜落下，胸坎較大（第 71, 72 圖）。
+> 頂面。橫膈膜的中央是親像韌帶的款式；邊頭是扁扁的筋，會伸縮，位於脅下裏。彼个筋肉若伸，橫膈膜對頂面膨起來，胸坎就較細；伊的筋肉若縮，就橫膈膜落下，胸坎較大（第 71, 72 圖）。
 
 ---
 
@@ -574,7 +574,7 @@ téng-bīn. Hoâiⁿ-keh-mo̍h ê tiong-ng sī chhin-chhiūⁿ jīm-tài ê kho�
 Lâng nā tiâu-kò-ì khip-ji̍p chhin-chhiūⁿ ūn-tōng siuⁿ kòe-thâu, á-sī ū sím-mi̍h mi̍h that-gāi, lâi tì-kàu khong-khì bē tit thong-kè, kî-û ê kun-bah chiū tín-tāng. Chi̍t khoán ê kun-bah chiū-sī ka-chiah, ām-kún, phīⁿ, chiah ê só͘-chāi. Chit hō kun-bah iā miâ kiò pó͘-chō͘-kun (補助筋, _accessory muscles of respiration_). Lâng tiām-tiām teh ho͘-khip ê sî, chiah ê pó͘-chō͘-kun khah bô ūn-tōng.
 
 > **【全漢對照】**
-> 人若專故意吸入親像運動透過頭，抑是有甚麼物窒礙，來到致空氣袂得通過，其餘的筋肉就振動。一款的筋肉就是骹脊、頷頸、鼻，諸個所在。這號筋肉亦名叫補助筋（補助筋，_accessory muscles of respiration_）。人恬恬咧呼吸的時，諸個補助筋較無運動。
+> 人若專故意吸入親像運動透過頭，抑是有甚麼物窒礙，來到致空氣袂得通過，其餘的筋肉就振動。一款的筋肉就是骹脊、頷頸、鼻，諸个所在。這號筋肉亦名叫補助筋（補助筋，_accessory muscles of respiration_）。人恬恬咧呼吸的時，諸个補助筋較無運動。
 
 ---
 
@@ -601,7 +601,7 @@ Ho͘-chhut sī chiàu téng-bīn só͘ kóng-ê tùi-hoán. Hoâiⁿ-keh-mo̍h p
 Chi̍t hun ê tiong-kan ho͘-khip ê kín-bān bô tiāⁿ-tio̍h, ū lâu siàu-liân ê hun-piat. Eⁿ-á chi̍t hun ê tiong-kan iok-lio̍k ū sì-cha̍p pái, kàu tióng-sêng chha-put-to cha̍p la̍k chhit pái. Ia̍h ū êng-êng chē, kap chòe kang ê hun-piat. Êng-êng ê sî khah bān, chòe kang ê sî khah kín. Chit-ê khip-ji̍p ê khong-khì ia̍h bô tiāⁿ-tio̍h. Chēng-chēng teh chē-ê, khip-ji̍p khong-khì khah chió, chhut la̍t chòe kang-ê, khip-ji̍p khah chōe. Lâng nā beh tiâu-kò-ì chhut
 
 > **【全漢對照】**
-> 一份的中間呼吸的緊慢無定著，有老少年的分別。嬰仔一份的中間約略有四十擺，到長成差不多十六七擺。亦有閒閒坐，及做工的分別。閒閒的時較慢，做工的時較緊。這個吸入的空氣亦無定著。靜靜咧坐的，吸入空氣較少，出力做工的，吸入較多。人若欲專故意出
+> 一份的中間呼吸的緊慢無定著，有老少年的分別。嬰仔一份的中間約略有四十擺，到長成差不多十六七擺。亦有閒閒坐，及做工的分別。閒閒的時較慢，做工的時較緊。這个吸入的空氣亦無定著。靜靜咧坐的，吸入空氣較少，出力做工的，吸入較多。人若欲專故意出
 
 ---
 
@@ -670,7 +670,7 @@ Lâng ho͘-khip ū nñg hāng ê lō͘-ēng. Tē it hāng, sng-sò͘ ē tiau-hô
 
 > **【全漢對照】**  
 > **［血液得著清氣 / 酸素入 / 炭酸出］**  
-> 人呼吸有兩項的用。第一項，酸素會調和肺內微細氣管枝nih，及肺胞壁內的靜脈血；彼個血色緻較烏，得著酸素就變成赤色的血。第二項，靜脈血的內面有含濟濟炭酸，就是毒的物；此個炭酸除去對呼氣呼出；所呼出的氣，亦有含濕氣濟濟。所以呼出的氣及所吸入的氣無相同。所吸入的酸素有用幾若百份，所呼出的炭酸有加添幾若百份。
+> 人呼吸有兩項的用。第一項，酸素會調和肺內微細氣管枝nih，及肺胞壁內的靜脈血；彼个血色緻較烏，得著酸素就變成赤色的血。第二項，靜脈血的內面有含濟濟炭酸，就是毒的物；此个炭酸除去對呼氣呼出；所呼出的氣，亦有含濕氣濟濟。所以呼出的氣及所吸入的氣無相同。所吸入的酸素有用幾若百份，所呼出的炭酸有加添幾若百份。
 
 ---
 
@@ -736,7 +736,7 @@ pau lâi pau-teh (tē 81 tô͘) Chiông-tiong hit ê chēng-me̍h-huih ê lāi-b
 chheng-khì. Chiah ê chheng-khì ê huih ê m̂ng-sòe-huih-kńg chiū ná óa ná chòe tui, iā ná tōa tiâu, chiah thàu tùi sim ê tò-pêng lâi, iā tùi hia chiah koh liû-hêng, ji̍p thong seng-khu ê só͘-chāi.
 
 > **【全漢對照】**
-> 清氣。諸個清氣的血的毛細血管就若倚若做堆，也若大條，才透對心的倒爿來，也對遐才閣流行，入通身軀的所在。
+> 清氣。諸个清氣的血的毛細血管就若倚若做堆，也若大條，才透對心的倒爿來，也對遐才閣流行，入通身軀的所在。
 
 ---
 
@@ -768,7 +768,7 @@ Khùn-pâng m̄-thang koaiⁿ ba̍t-ba̍t, éng tio̍h lâu phāng hō͘ gōa-b�
 Kiám-chhái lâng thàu-chá khí-lâi chhut tī gōa-bīn, kàu tò-lâi i ê khùn-pâng, ē phīⁿ-tio̍h pháiⁿ-bī, án-ni thang chai gōa-bīn ê khong-khì khah bô ji̍p-khì; tī lāi-bīn-ê, sī hit-ê éng liáu só͘ chhun-ê, chiū-sī pháiⁿ ê khì, kap seng-khu-nih só͘ ho͘-chhut bô lō͘-ēng ê mih, só͘-í ū pháiⁿ-bī.
 
 > **【全漢對照】**
-> 檢採人透早起來出佇外面，到倒來伊的睏房，會鼻著歹味，按呢通知外面的空氣較無入去；佇內面的，是彼個用了承所伸的，就是歹的氣，佮身軀裡所呼出無路用的物，所以有歹味。
+> 檢採人透早起來出佇外面，到倒來伊的睏房，會鼻著歹味，按呢通知外面的空氣較無入去；佇內面的，是彼个用了承所伸的，就是歹的氣，佮身軀裡所呼出無路用的物，所以有歹味。
 
 ---
 
@@ -822,14 +822,14 @@ khàm-ba̍t kan ê chhùi, bô lōa-kú hé chiū ōe hoa ; che sī in-ūi kan-l
 Sio chhâ á-sī tiám-teng, put-lūn sím-mi̍h hé, lóng ōe chhut thòaⁿ-sng ; nā-sī sio hé-thòaⁿ, ia̍h ōe chhut koh khah to̍k ê khì (*CO, carbon monoxide*). Só͘-í ēng hé-thang, m̄-thang tiàm tī ba̍t-ba̍t ê só͘-chāi, kiaⁿ-liáu ōe hō͘ hit-ê thòaⁿ-sng kap CO kek-sí.
 
 > **【全漢對照】**
-> 燒柴抑是點燈，不論甚麼火，攏會出炭酸；若是燒火炭，亦會出閣較毒的氣（*CO, carbon monoxide*）。所以用火籠，毋通踮佇密密的所在，驚了會予彼個炭酸佮 CO 窒死。
+> 燒柴抑是點燈，不論甚麼火，攏會出炭酸；若是燒火炭，亦會出閣較毒的氣（*CO, carbon monoxide*）。所以用火籠，毋通踮佇密密的所在，驚了會予彼个炭酸佮 CO 窒死。
 
 ---
 
 Bat thiaⁿ-kìⁿ kôaⁿ-thiⁿ ê sî, ū lâng ēng hé-thang tī phē-khang-lāi, lâng koh kah ba̍t-ba̍t, āu-lâi hit-ê lâng sí ; lâng kî-koài i bô pīⁿ lâi sí ; kî-si̍t sī in-ūi hō͘ hit-ê thòaⁿ-sng kap CO kek-sí.
 
 > **【全漢對照】**
-> 捌聽見寒天的時候，有人用火籠佇被孔內，人閣蓋密密，後來彼個人死；人奇怪伊無病來死；其實是因為予彼個炭酸佮 CO 窒死。
+> 捌聽見寒天的時候，有人用火籠佇被孔內，人閣蓋密密，後來彼个人死；人奇怪伊無病來死；其實是因為予彼个炭酸佮 CO 窒死。
 
 ---
 
@@ -838,7 +838,7 @@ Bat thiaⁿ-kìⁿ kôaⁿ-thiⁿ ê sî, ū lâng ēng hé-thang tī phē-khang
 Ho͘-khip ūn-tōng, kap huih teh kiâⁿ ê kong-hāu : Ho͘-khip ê ūn-tōng, m̄-sī kan-ta hō͘ khong-khì teh chhut-ji̍p, iā thang pang-chān huih liû-hêng. Múi pái khip-ji̍p, tī heng-lāi, chiū ū chit ê khang-khiah ê só͘-chāi. Nā hō͘ hit ê khang ê só͘-chāi chhiong-móa, m̄-nā khong-khì thang cháu-ji̍p-khì, huih iā ōe tùi pak-lāi ê tōa-chēng-me̍h-kńg ji̍p tī sim, án-ni ūn-tōng. Só͘-í chit ê ho͘-khip ê la̍t siông-siông teh ūn-tōng chiū ōe pang-chān huih liû-hêng.
 
 > **【全漢對照】**
-> 呼吸運動，佮血咧行的功效：呼吸的運動，毋是單單予空氣咧出入，亦通幫助血流行。每擺吸入，佇胸內，就有一個空隙的所在。若予彼個空的所在充滿，毋但空氣通走入去，血亦會對腹內的大靜脈管入佇心，按呢運動。所以這個呼吸的力常常咧運動就會幫助血流行。
+> 呼吸運動，佮血咧行的功效：呼吸的運動，毋是單單予空氣咧出入，亦通幫助血流行。每擺吸入，佇胸內，就有一个空隙的所在。若予彼个空的所在充滿，毋但空氣通走入去，血亦會對腹內的大靜脈管入佇心，按呢運動。所以這个呼吸的力常常咧運動就會幫助血流行。
 
 ---
 
@@ -849,7 +849,7 @@ Ho͘-khip ūn-tōng, kap huih teh kiâⁿ ê kong-hāu : Ho͘-khip ê ūn-tōng,
 1. Thó-tōa-khùì (*yawn*), chiū-sī khip-ji̍p chit ê tē it tông ê khì, khì ji̍p-khì ê sî bô siaⁿ, sûi-sî tùi chhùi-nih á-sī phīⁿ-khang-nih tōa siaⁿ pûn-chhut.
 
 > **【全漢對照】**
-> 1. 吐大氣（*yawn*），就是吸入一個第一長的氣，氣入去的時候無聲，隨時對喙裡抑是鼻孔裡大聲歕出。
+> 1. 吐大氣（*yawn*），就是吸入一个第一長的氣，氣入去的時候無聲，隨時對喙裡抑是鼻孔裡大聲歕出。
 
 ---
 
@@ -867,7 +867,7 @@ Ho͘-khip ūn-tōng, kap huih teh kiâⁿ ê kong-hāu : Ho͘-khip ê ūn-tōng,
 3. Khâm-sàu, chiū-sī chit ê tōa-tōa khip-ji̍p ê khì,
 
 > **【全漢對照】**
-> 3. 欿嗽，就是一個大大吸入的氣，
+> 3. 欿嗽，就是一个大大吸入的氣，
 
 <!-- Page 114 End -->
 

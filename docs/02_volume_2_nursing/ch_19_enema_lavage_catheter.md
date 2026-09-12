@@ -30,7 +30,7 @@ Koàn-tâng (灌腸 enema) sī ēng liû-tōng-bu̍t (流動物) tùi kong-bûn 
 > 灌腸（灌腸 enema）是用流動物（流動物）對肛門灌入直腸，抑是大腸。伊的用處有照記佇下面：
 > 1. 為著大便不通，予伊會通透。
 > 2. 為著下痢，欲止瀉。
-> 3. 有時用此個法度將水、食物、抑是藥予病人。因為嘴乾用水抑是鹽水佮藥灌腸。為著直腸內有蟲，抑是有病，用藥灌入來治療。有時用水灌入，做退熱的用處。
+> 3. 有時用此个法度將水、食物、抑是藥予病人。因為嘴乾用水抑是鹽水佮藥灌腸。為著直腸內有蟲，抑是有病，用藥灌入來治療。有時用水灌入，做退熱的用處。
 > 4. 手術的症；抑是對肛門內診，是醫生用手抑是傢俬來診察病的款色；著先灌腸。
 
 ---
@@ -47,7 +47,7 @@ Tōa-tâng ê liâm-mo̍h ū khip-siu ê chok-iōng. Nā ēng te̍k-pia̍t ū-p�
 Ū-sî ēng chhiū-leng-tō-jiō-kńg kap lâu-táu ê hoat-tō͘, ū-sî ēng koàn-tâng-khì (enema syringe). Pī-pān ke-si kap koàn-tâng ê hoat, tī 187 bīn ū kóng-khí, tī chia beh kóng ēng koàn-tâng-khì sóe tâng ê hoat. Ū lâng siông-siông ēng chhiū-leng-kńg kap lâu-táu, nā án-ni hit ê hoat-tō͘ sī chiàu tī 187 bīn ê hoat.
 
 > **【全漢對照】**
-> 有時用樹乳導尿管佮漏斗的法度，有時用灌腸器（enema syringe）。備辦傢俬佮灌腸的法，佇 187 面有講起，佇遮欲講用灌腸器洗腸的法。有人常常用樹乳管佮漏斗，若按呢彼個法度是照佇 187 面的法。
+> 有時用樹乳導尿管佮漏斗的法度，有時用灌腸器（enema syringe）。備辦傢俬佮灌腸的法，佇 187 面有講起，佇遮欲講用灌腸器洗腸的法。有人常常用樹乳管佮漏斗，若按呢彼个法度是照佇 187 面的法。
 
 <!-- Page 248 End -->
 
@@ -164,7 +164,7 @@ Iáu-bē ēng koàn-tn̂g-khì, eng-kai tio̍h ēng sio-chúi tāi-seng sóe hō
 > **【全漢對照】**
 > 猶未用灌腸器，應該著用燒水代先洗予真清氣。這款的器具若用了，洗清氣著掛起來，毋通趕緊收起來囥。
 > 
-> 有時用冷滾水灌腸。彼個額數是 800. c.c. 到 2,000.0 c.c.。溫度 98° F.（36.7° C.）。
+> 有時用冷滾水灌腸。彼个額數是 800. c.c. 到 2,000.0 c.c.。溫度 98° F.（36.7° C.）。
 
 ---
 
@@ -203,7 +203,7 @@ lâng siū-ti̍oh chín-tōng (shock) iâm-chúi-koàn-tîng sī hó ēng. Un-t�
 *Oleum olivae* koàn-tîng: Ēng *oleum olivae* 130.0 c.c., hang hō͘ 90°F. (32.2° C.) sio. Ēng 10 chhùn tn̂g ê tō-jiō-tō ê chhiū-leng-kńg lâi ûn-ûn-á koàn-ji̍p. Jiân-āu 2 chì 6 tiám-cheng-kú, ti̍oh ēng sat-bûn-chúi koàn-tîng. Ū-sî ēng te̍k-pia̍t ê chù-siā-khì, iû ōe khah khoài ji̍p. Chit hō iû ê lō͘-ēng, sī beh hō͘ tîng-lāi tēng ê pùn khah nńg, hā-chhut ê sî khah bōe thiàⁿ. Chhiū-leng-kńg ti̍oh liâm-piⁿ sóe, in-ūi hit ê iû ōe pāi-hoāi chhiū-leng ê chit.
 
 > **【全漢對照】**
-> *Oleum olivae*（橄欖油）灌腸：用 *oleum olivae* 130.0 c.c.，烘予 90°F. (32.2° C.) 燒。用 10 寸長的導尿道的樹奶管來勻勻仔灌入。然後 2 至 6 點鐘久，著用雪文水（肥皂水）灌腸。有時用特別的注射器，油會較快入。此號油的用處（路用），是欲予腸內硬的糞較軟，下出（瀉出）的時較𣍐疼。樹奶管著連鞭洗，因為彼個油會敗壞樹奶的質。
+> *Oleum olivae*（橄欖油）灌腸：用 *oleum olivae* 130.0 c.c.，烘予 90°F. (32.2° C.) 燒。用 10 寸長的導尿道的樹奶管來勻勻仔灌入。然後 2 至 6 點鐘久，著用雪文水（肥皂水）灌腸。有時用特別的注射器，油會較快入。此號油的用處（路用），是欲予腸內硬的糞較軟，下出（瀉出）的時較𣍐疼。樹奶管著連鞭洗，因為彼个油會敗壞樹奶的質。
 
 ---
 
@@ -221,7 +221,7 @@ lâng siū-ti̍oh chín-tōng (shock) iâm-chúi-koàn-tîng sī hó ēng. Un-t�
 *Oleum terebinthinae* koàn-tîng-hoat: Ēng *oleum terebinthinae* 15.0 c.c. chì 30.0 c.c., kap sat-bûn-chúi 500.0 c.c., lā hō͘ chiâu. Chit-ê ti̍oh koàn-ji̍p, iā liâm-piⁿ tè i koàn-ji̍p koh 500.0 c.c. pêng-siông sat-bûn-chúi. Nā ēng *oleum terebinthinae* kap ám 500.0 c.c., iā sī hó. Chit khoán ê koàn-tîng, sī i-tī chhiú-su̍t pak-tó͘ ê pīⁿ liáu-āu só͘ ēng-ê, in-ūi i tîng-lāi ū tiùⁿ-hong. Ia̍h sī i-tī sió-tîng-iām, ū-sî ēng *oleum terebinthinae* koàn-tîng-hoat.
 
 > **【全漢對照】**
-> *Oleum terebinthinae*（松節油）灌腸法：用 *oleum terebinthinae* 15.0 c.c. 至 30.0 c.c.，及雪文水 500.0 c.c.，攪予勻（齊）。此個著灌入，也連鞭綴伊灌入閣 500.0 c.c. 平常雪文水。若用 *oleum terebinthinae* 及泔 500.0 c.c.，也是好。此款的灌腸，是醫治手術腹肚的病了後所用的，因為伊腸內有脹風。亦是醫治小腸炎，有時用 *oleum terebinthinae* 灌腸法。
+> *Oleum terebinthinae*（松節油）灌腸法：用 *oleum terebinthinae* 15.0 c.c. 至 30.0 c.c.，及雪文水 500.0 c.c.，攪予勻（齊）。此个著灌入，也連鞭綴伊灌入閣 500.0 c.c. 平常雪文水。若用 *oleum terebinthinae* 及泔 500.0 c.c.，也是好。此款的灌腸，是醫治手術腹肚的病了後所用的，因為伊腸內有脹風。亦是醫治小腸炎，有時用 *oleum terebinthinae* 灌腸法。
 
 ---
 
@@ -230,7 +230,7 @@ lâng siū-ti̍oh chín-tōng (shock) iâm-chúi-koàn-tîng sī hó ēng. Un-t�
 A-phiàn-koàn-tîng-hoat : Ti̍oh ēng chhiū-leng-tō-jiō-kńg tàu tī po-lê koàn-tîng-khì. Tāi-seng ēng ám 80.0 c.c., m̄-thang siuⁿ sio, iok-lio̍k ū 98 tō͘ F. (36.7°C.). Ēng ám 40.0 c.c., piàⁿ tī po-lê koàn-tîng-khì-lāi, jiân-āu ēng *tinctura opii*, tú-tú chiàu i-seng bēng-lēng ê hun-liōng (0.3 c.c. chì 3.0 c.c.), piàⁿ tī chit ê ám ê téng-bīn ; jiân-āu koh piàⁿ só͘ chhun ê ám ; āu-lâi bān-bān koàn-ji̍p pīⁿ-lâng tîng-lāi. Ì-sù sī ài tāi-seng ji̍p tām-po̍h ám, jiân-āu chiah ji̍p io̍h, lō͘-bé koh ji̍p ám ; hō͘ io̍h ji̍p khah chhim tī tîng-lāi (tē 158 tô͘).
 
 > **【全漢對照】**
-> 鴉片灌腸法：著用樹奶導尿管湊佇玻璃灌腸器。代先用泔 80.0 c.c.，毋通傷燒，約略有 98 度 F. (36.7°C.)。用泔 40.0 c.c.，傾佇玻璃灌腸器內，然後用 *tinctura opii*（鴉片酊），拄拄照醫生命令的分量 (0.3 c.c. 至 3.0 c.c.)，傾佇此個泔的頂面；然後閣傾所剩的泔；後來慢慢灌入病人腸內。意思是愛代先入淡薄泔，然後才入藥，路尾閣入泔；予藥入較深佇腸內（第 158 圖）。
+> 鴉片灌腸法：著用樹奶導尿管湊佇玻璃灌腸器。代先用泔 80.0 c.c.，毋通傷燒，約略有 98 度 F. (36.7°C.)。用泔 40.0 c.c.，傾佇玻璃灌腸器內，然後用 *tinctura opii*（鴉片酊），拄拄照醫生命令的分量 (0.3 c.c. 至 3.0 c.c.)，傾佇此个泔的頂面；然後閣傾所剩的泔；後來慢慢灌入病人腸內。意思是愛代先入淡薄泔，然後才入藥，路尾閣入泔；予藥入較深佇腸內（第 158 圖）。
 
 ---
 
@@ -402,7 +402,7 @@ Só ti̍h ū-pī ê mi̍h sī :
 Beh ēng ê sî hit ê koàn-khài-koàn, chhiū-leng-kńg kap po-lê-kńg, tio̍h hē tī siau-to̍k-khì-ni̍h lâi kè-sàh.
 
 > **【全漢對照】**
-> 欲用的時彼個灌溉罐、樹乳管佮玻璃管，著放置消毒器裡來過煠。
+> 欲用的時彼个灌溉罐、樹乳管佮玻璃管，著放置消毒器裡來過煠。
 
 ---
 
@@ -513,7 +513,7 @@ Chú-kiong-lāi-koàn-khài-hoat sī i-seng só͘ chòe ê chhiú-su̍t; khàn-h
 Im-tō-mî-kiû (陰道 綿 球 vaginal tampon) sī mî-hoe, á-sī mî-se, á-sī chúi-nî-pò͘ chòe-ê. Ēng mî-hoe ka chi̍t tiâu chòe kui kńg, ēng mî-se lâi pau, chha-put-to 2 chhùn tng, pòaⁿ chhùn kāu. Tiong-ng ēng chi̍t tiâu sòaⁿ, á-sī pe̍h tòa-á, kā pák hō͘ tiâu. Chit hō tòa-á tiòh chi̍t chhioh tng. Ū chi̍t khoán kiò-chòe hong-chhe-bé ê mî-kiû; sī the̍h chiah ê chi̍t pau chi̍t pau ê mî, kúi-nā lia̍p, iā ēng sòaⁿ
 
 > **【全漢對照】**
-> 陰道綿球（陰道 綿 球 vaginal tampon）是棉花，抑是棉紗，抑是水泥布（石膏布）做的。用棉花絞一條做歸管，用棉紗來包，差不多 2 寸長，半寸厚。中央用一條線，抑是白帶仔，共縛予牢。這號帶仔著一尺長。有一款叫做風吹尾的綿球；是提諸個一包一包的棉，幾若粒，也用線
+> 陰道綿球（陰道 綿 球 vaginal tampon）是棉花，抑是棉紗，抑是水泥布（石膏布）做的。用棉花絞一條做歸管，用棉紗來包，差不多 2 寸長，半寸厚。中央用一條線，抑是白帶仔，共縛予牢。這號帶仔著一尺長。有一款叫做風吹尾的綿球；是提諸个一包一包的棉，幾若粒，也用線
 
 <!-- Page 256 End -->
 
@@ -529,7 +529,7 @@ IM-TŌ-MÎ-KIÛ, IM-TŌ-LĀI-CHÍN　　241
 pák ; pák chi̍t lia̍p, làng 2 chhùn ê sòaⁿ, chiah koh pák chi̍t lia̍p, chhut-chāi i-seng kóng tióh pák kúi lia̍p. Chiah ê mî-kiû tióh siau-to̍k chhin-chhiūⁿ pêng-siông ê pau-siong-liāu.
 
 > **【全漢對照】**
-> 縛；縛一粒，間 2 寸的線，才閣縛一粒，出在醫生講著縛幾粒。諸個棉球著消毒親像平常的包傷料。
+> 縛；縛一粒，間 2 寸的線，才閣縛一粒，出在醫生講著縛幾粒。諸个棉球著消毒親像平常的包傷料。
 
 ---
 
@@ -539,7 +539,7 @@ Beh ēng ê sî tióh chiàu i-seng ê bēng-lēng, chìm mî-kiû tī ióh-chú
 
 > **【全漢對照】**
 > **［用陰道棉球的方法］**
-> 欲用的時著照醫生的命令，浸棉球佇藥水裡，才穿入陰道內。病人著倒煼煼（仰臥），腳縮起來。用消毒的陰道鏡，下陰道內。提一支長的鋏仔，鋏一粒棉球，穿入陰道內。彼條帶仔著下佇陰門；若欲抽彼粒棉球起來，便利便。若用這個法，著記幾粒下陰道內；也抽出來的時著閣算。有時洗陰道了，彼粒棉球才下佇陰道內。
+> 欲用的時著照醫生的命令，浸棉球佇藥水裡，才穿入陰道內。病人著倒煼煼（仰臥），腳縮起來。用消毒的陰道鏡，下陰道內。提一支長的鋏仔，鋏一粒棉球，穿入陰道內。彼條帶仔著下佇陰門；若欲抽彼粒棉球起來，便利便。若用這个法，著記幾粒下陰道內；也抽出來的時著閣算。有時洗陰道了，彼粒棉球才下佇陰道內。
 
 ---
 
@@ -559,7 +559,7 @@ Siau-to̍k-ióh-chúi, kap i-seng só́ beh ēng ê ióh, chhin-chhiūⁿ _iodum
 
 > **【全漢對照】**
 > **［陰道內診］**
-> 對陰道內診：若是利便，病人著先洗浴。著予伊病人大、小便攏有通。毋通洗陰道，因為若有排泄物，醫生欲看。所欲用的藥及器具攏著消毒。諸個是照記佇下底：
+> 對陰道內診：若是利便，病人著先洗浴。著予伊病人大、小便攏有通。毋通洗陰道，因為若有排泄物，醫生欲看。所欲用的藥及器具攏著消毒。諸个是照記佇下底：
 > 一雙手翎囊（手套）。
 > _Vaselinum_（凡士林）抑是 _glycerinum_（甘油）。
 > _Sims_ 式陰道鏡。
@@ -652,9 +652,9 @@ I-seng nā bô hoan-hù, khàn-hō͘ m̄-thang ka-kī chòe tō-jiō-su̍t.
 > **【全漢對照】**
 > (b) 用了：
 > 1. 用冷水洗清氣。
-> 2. 用一支大枝注射器，將冷水，對導尿管的尾仔的「目睭」（孔）注入去洗內面。著用一個法度來除去內面的血塊。有時著用一支穿刺器（*stilette*）抑是探針共伊通互（予）血塊除去。
+> 2. 用一支大枝注射器，將冷水，對導尿管的尾仔的「目睭」（孔）注入去洗內面。著用一个法度來除去內面的血塊。有時著用一支穿刺器（*stilette*）抑是探針共伊通互（予）血塊除去。
 > 3. 用水過煠十分鐘久。
-> 4. 拭互（予）焦。若是樹奶的，著下佇一個匣仔，用焦的 *acidum boricum*（硼酸）蓋密。若是銀的，著用 *vaseline*（凡士林）共抹，下佇伊的匣仔裡。若是玻瓈的，著浸佇 1-20 *acid carbolic*（石炭酸），佇遐放。
+> 4. 拭互（予）焦。若是樹奶的，著下佇一个匣仔，用焦的 *acidum boricum*（硼酸）蓋密。若是銀的，著用 *vaseline*（凡士林）共抹，下佇伊的匣仔裡。若是玻瓈的，著浸佇 1-20 *acid carbolic*（石炭酸），佇遐放。
 > 
 > 醫生若無吩咐，看護毋通家己做導尿術。
 
@@ -667,7 +667,7 @@ Chi̍t tiâu bīn-kun. La̍k tè mî chòe ê chhit-pò͘.
 Chi̍t tè lâng-pôaⁿ, beh chòe siu-jiō ê lō͘-ēng.
 
 > **【全漢對照】**
-> **女導尿術**：1. 若欲做導尿術著預備諸個物（遮的物件）：
+> **女導尿術**：1. 若欲做導尿術著預備諸个物（遮的物件）：
 > 一條面巾。六塊棉做的拭布。
 > 一塊便盆（冷盤），欲做收尿的路用。
 
@@ -766,7 +766,7 @@ Nā pīⁿ-lâng siông-siông ēng tō-jiō-kńg, tio̍h chhâ khòaⁿ i ê ph
 > **【全漢對照】**
 > 6. 所下出的尿著量。導尿管著洗、捘（撚乾）、收。
 > 
-> 若病人常常用導尿管，著查看看伊的膀胱曾發炎抑毋曾；若果然發炎，彼個小化的氣味較常有阿摩尼亞（a-mô-nî-a）的味。閣一項，若看見病人常常愛小便也講會痛，就著趕緊共醫生講；也著留淡薄尿通互醫生檢驗，檢綵醫生教伊著共伊洗膀胱。較𠢕的看護大概會互病人免有此個病。
+> 若病人常常用導尿管，著查看看伊的膀胱曾發炎抑毋曾；若果然發炎，彼个小化的氣味較常有阿摩尼亞（a-mô-nî-a）的味。閣一項，若看見病人常常愛小便也講會痛，就著趕緊共醫生講；也著留淡薄尿通互醫生檢驗，檢綵醫生教伊著共伊洗膀胱。較𠢕的看護大概會互病人免有此个病。
 > 
 > *（第 161 圖 (Stoney）。)*
 
@@ -845,14 +845,14 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 (a) Chi̍t ki te̍k-pia̍t sóe-pông-kong ê tō-jiō-kńg. Chit ki kńg ê lāi-bīn, ū keh chòe nñg tiâu lō͘; chi̍t tiâu thang ji̍p
 
 > **【全漢對照】**
-> 2. 著預備諸個物（這些物品）：
+> 2. 著預備諸个物（這些物品）：
 > (a) 一支特別洗膀胱的導尿管。這支管的內面，有隔做兩條路；一條通入
 
 ---
 
 ^Khàn-hō͘ sî-siông chù-ì khòaⁿ ē ke-thīⁿ kiàn-sek.
 > **【全漢註解】**
-> 看護時常注意看，會加添見識。
+> 看護時常注意看，會加添見色。
 
 <!-- Page 261 End -->
 
@@ -885,14 +885,14 @@ Jîn-ài bô kì-tit lâng ê pháiⁿ (I Ko-lîm-to 13 : 5).
 (b) Chi̍t-ê koàn-khài-koàn, ē-tóe ū chiap chi̍t tiâu chhiū-leng-kńg sì chhioh tn̂g. Chit tiâu kńg chiah chiap tī tō-jiō-kńg ê chi̍t ki chhe-nih. Hit ki chhe koh chiap chi̍t tiâu chhiū-leng-kńg, thang hō͘ jiō lâu-chhut tī ū-pī ê siu-jiō-khì.
 
 > **【全漢對照】**
-> (b) 一個灌溉罐，下底有接一條樹乳管四尺長。這條管才接佇導尿管的一枝杈裡。彼枝杈閣接一條樹乳管，通予尿流出佇預備的收尿器。
+> (b) 一个灌溉罐，下底有接一條樹乳管四尺長。這條管才接佇導尿管的一枝杈裡。彼枝杈閣接一條樹乳管，通予尿流出佇預備的收尿器。
 
 ---
 
 (ch) N̄g-ê lâng-pôaⁿ; chi̍t-ê thang siu jiō lâi kiám-giām, chi̍t-ê thang tóe só͘ pâi-chhut ê kiaⁿ-lâng, kap sóe liáu ê ióh-chúi.
 
 > **【全漢對照】**
-> (ch) 兩個儂盤（腎形盤）；一個通收尿來檢驗，一個通貯所排出的驚儂（污物/穢物），佮洗了的藥水。
+> (ch) 兩个儂盤（腎形盤）；一个通收尿來檢驗，一个通貯所排出的驚儂（污物/穢物），佮洗了的藥水。
 
 ---
 
@@ -1034,7 +1034,7 @@ Tē 163 tô͘:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kúng.
 8. Chit ê io̍h-chúi tióh 100° F. (37.8° C.) ê sio. Ū-sî kan-ta ēng sio-chúi sóe-ūi iā thang.
 
 > **【全漢對照】**
-> 8. 這個藥水著 100° F. (37.8° C.) 的燒。有時乾焦用熱水洗胃也通。
+> 8. 這个藥水著 100° F. (37.8° C.) 的燒。有時乾焦用熱水洗胃也通。
 
 ---
 
@@ -1057,7 +1057,7 @@ Tē 163 tô͘:—Nelaton-sī sóe-ūi ê chhiū-leng-ūi-kúng.
 niá tōa-niá iû-pò͘, á-sī iû-chóa. Tī i ê bīn-chêng, tióh hē chi̍t-ê bīn-tháng; tī pīⁿ-á tióh ū-pī chi̍t kha chúi-tháng thang piàⁿ chúi (tē 164 tô͘).
 
 > **【全漢對照】**
-> 掩大領油布，抑是油紙。佇伊的面前，著下一個面桶；佇病仔著預備一跤水桶通傾水（第 164 圖）。
+> 掩大領油布，抑是油紙。佇伊的面前，著下一个面桶；佇病仔著預備一跤水桶通傾水（第 164 圖）。
 
 10. Chhiū-leng-kńg tióh hē chhùi-lāi kàu ian-thâu, khǹg i tióh thun-lóh-khì. Nā koàiⁿ-sì i ka-kī thun sī khoài-khoài, ū-sî thâu chi̍t pái, tióh ûn-ûn-á kā chhng-lóh-khì kàu ūi. Tióh chhng-ji̍p tùi chhùi-khí khí, ū Ji̍t-pún chi̍t chhioh saⁿ chhùn hn̄g (40 cm.), chiū ōe ji̍p ūi.
 
@@ -1067,7 +1067,7 @@ niá tōa-niá iû-pò͘, á-sī iû-chóa. Tī i ê bīn-chêng, tióh hē chi�
 11. Ēng ióh-chúi thîn tī lāu-táu (tē 165 tô͘); nā thîn chha-put-to 500.0 c.c., i ài thò͘-chhut-lâi. Án-ni chiong lāu-táu hē pí i ê ūi khah kē tām-póh, iā hit ê ūi-ni̍h ê mi̍h kiò-chòe ūi-lāi-iông (胃 內 容, stomach contents) khoài chhut-lâi (tē 166 tô͘).
 
 > **【全漢對照】**
-> 11. 用藥水斟佇漏斗（第 165 圖）；若斟差不多 500.0 c.c.，伊愛吐出來。按呢將漏斗下比伊的胃較低淡薄，也彼個胃裡之物叫做胃內容（胃 內 容，stomach contents）快出來（第 166 圖）。
+> 11. 用藥水斟佇漏斗（第 165 圖）；若斟差不多 500.0 c.c.，伊愛吐出來。按呢將漏斗下比伊的胃較低淡薄，也彼个胃裡之物叫做胃內容（胃 內 容，stomach contents）快出來（第 166 圖）。
 
 12. Tióh sóe kàu só͘ chhut-lâi ê chúi sī lóng chheng-khì, khah siông tióh ēng 2,000.0 c.c. ê ióh-chúi lâi sóe. Tióh sió-sim, m̄-thang hō͘ khong-khì ji̍p ūi.
 
@@ -1086,7 +1086,7 @@ niá tōa-niá iû-pò͘, á-sī iû-chóa. Tī i ê bīn-chêng, tióh hē chi�
 Ióh-chúi tiám-ji̍p-hī-khang-lāi ê hoat: 1. Só͘ beh ēng ê ióh, tióh thîn tī chi̍t ki chhì-giām-kńg-lāi, chiah chiong chhì-giām-kńg, hē tī tóe sio-chúi ê pôaⁿ-ni̍h. Hit ê chúi ê un-tō͘ tióh 105° F. (40. 6° C.).
 
 > **【全漢對照】**
-> 藥水點入耳孔內的方法：1. 所欲用的藥，著斟佇一支試驗管內，才將試驗管，下佇貯熱水的盤裡。彼個水的溫度著 105° F. (40.6° C.)。
+> 藥水點入耳孔內的方法：1. 所欲用的藥，著斟佇一支試驗管內，才將試驗管，下佇貯熱水的盤裡。彼个水的溫度著 105° F. (40.6° C.)。
 
 2. Hī-khang-kháu kap hī-á-tûn-lāi tióh tāi-seng sóe chheng-khì.
 
@@ -1101,12 +1101,12 @@ Ióh-chúi tiám-ji̍p-hī-khang-lāi ê hoat: 1. Só͘ beh ēng ê ióh, tióh 
 4. Tióh ēng chi̍t ki tiám-gán-khì, suh ióh, tiám-ji̍p hī-khang-lāi. Chiàu i-seng só͘ hoan-hù, hit ê ióh tióh tī hī-khang-lāi kúi hun-kú.
 
 > **【全漢對照】**
-> 4. 著用一支點眼器，吸藥，點入耳孔內。照醫生所吩咐，彼個藥著佇耳孔內幾分久。
+> 4. 著用一支點眼器，吸藥，點入耳孔內。照醫生所吩咐，彼个藥著佇耳孔內幾分久。
 
 5. Ióh nā beh hō͘ i lâu-chhut, thâu-khak oàt thán-khi, chiū hit ê ióh ōe ka-kī lâu-chhut-lâi ; thang ēng lâng-pôaⁿ lâi sīn.
 
 > **【全漢對照】**
-> 5. 藥若欲互伊流出，頭殼越袒敧，就彼個藥會自己流出來；通用膿盤來承。
+> 5. 藥若欲互伊流出，頭殼越袒敧，就彼个藥會自己流出來；通用膿盤來承。
 
 <!-- Page 264 End -->
 
@@ -1178,7 +1178,7 @@ Tē 166 tô͘:—Tē saⁿ chām. Chiong ūi-nih kàⁿ-lâng ê mi̍h sóe-chhu
 6. Chiong mî-hoe lâi cheh hō͘ i ta, iā koh ēng chi̍t tè siau-to̍k ê chúi-nî-pò͘ lâi khin-khin that tī hī-khang. Nā ēng mî-hoe, kiaⁿ-liáu mî-hoe ê si, ē liâm-tiâu tī hī-piah ; nā hī-kó͘ ū phòa-khang, kiaⁿ-liáu hit ê si ē ji̍p tiong-hī.
 
 > **【全漢對照】**
-> 6. 將棉花來擤（浥）予伊焦，也閣用一塊消毒的水泥布（紗布）來輕輕塞佇耳孔。若用棉花，驚了棉花的絲，會黏牢佇耳壁；若耳鼓有破孔，驚了彼個絲會入中耳。
+> 6. 將棉花來擤（浥）予伊焦，也閣用一塊消毒的水泥布（紗布）來輕輕塞佇耳孔。若用棉花，驚了棉花的絲，會黏牢佇耳壁；若耳鼓有破孔，驚了彼个絲會入中耳。
 
 ---
 
@@ -1211,7 +1211,7 @@ Hī-khang-koàn-khài-hoat (tē 167 tô͘) : 1. Hō͘ pīⁿ-lâng chē í, ū p
 3. Chiong chhiū-leng-kńg chiap tī koàn-khài-koàn. Chit tiâu kńg ê bé-á, nā ū te̍k-pia̍t ê sóe-hī-khang-kńg sī khah lī-piān. Beh ēng ê io̍h-chúi seng thîn tī koàn-khài-koàn, hit ê un-tō͘ tio̍h 100°—105° F. (37.8°—40.6° C.). Koàn-khài-koàn tio̍h tiàu chiūⁿ chi̍t chhioh koâiⁿ, hō͘ chúi ûn-ûn-á lâu-lo̍h.
 
 > **【全漢對照】**
-> 3. 將樹乳管（橡皮管）接佇灌溉罐。這條管的尾仔，若有特別的洗耳孔管是較利便。欲用的藥水先𢯭佇灌溉罐，彼個溫度著 100°—105° F. (37.8°—40.6° C.)。灌溉罐著吊上一尺高，予水勻勻仔流落。
+> 3. 將樹乳管（橡皮管）接佇灌溉罐。這條管的尾仔，若有特別的洗耳孔管是較利便。欲用的藥水先𢯭佇灌溉罐，彼个溫度著 100°—105° F. (37.8°—40.6° C.)。灌溉罐著吊上一尺高，予水勻勻仔流落。
 
 ---
 
@@ -1329,7 +1329,7 @@ the̍h tiám-gán-khì (tē 168, 169 tô͘) suh iòh-chúi tiám jip ē-ham ê t
 
 > **【全漢對照】**
 > 【點眼法】
-> 攑點眼器（第 168、169 圖）欶藥水點入下頷的中央；亦叫病人目睭轉輪互藥會勻。藥水毋通點佇角膜頂，因為會疼亦會害著角膜。藥水毋通點佇內面的目睭角，因為若按呢彼個藥會流對小淚管入去，就目睭袂得著藥的利益。
+> 攑點眼器（第 168、169 圖）欶藥水點入下頷的中央；亦叫病人目睭轉輪互藥會勻。藥水毋通點佇角膜頂，因為會疼亦會害著角膜。藥水毋通點佇內面的目睭角，因為若按呢彼个藥會流對小淚管入去，就目睭袂得著藥的利益。
 
 4. Teh tiám ê sî hit ki tiám-gán-khì m̄-thang khap-tióh gán-kiám á-sī kak-mó̍h. Nā bô tiuⁿ-tî tiám-gán-khì bak-tióh kiaⁿ-lâng, chiū m̄-thang koh ēng, tióh sóe koh kè-sàⁿ.
 
@@ -1470,7 +1470,7 @@ Péng-gán-kiám ê hoat: Tāi-seng kiò pīⁿ-lâng ba̍k-chiu khòaⁿ lo̍h 
 
 > **【全漢對照】**
 > **翻眼瞼**
-> 翻眼瞼的方法：代先叫病人目睭向下看（看落低），一手將眼瞼墘拖出外面，一手用一支細枝的棍仔，橫彼個眼瞼的頂面，小可揤落去，用手對頂面拈起來，眼瞼就會翻過來（第 171 圖）。若看護做較久的，毋免用棍仔，用手就會共伊翻起來；若閣較熟的，用一隻手亦會曉得翻。
+> 翻眼瞼的方法：代先叫病人目睭向下看（看落低），一手將眼瞼墘拖出外面，一手用一支細枝的棍仔，橫彼个眼瞼的頂面，小可揤落去，用手對頂面拈起來，眼瞼就會翻過來（第 171 圖）。若看護做較久的，毋免用棍仔，用手就會共伊翻起來；若閣較熟的，用一隻手亦會曉得翻。
 
 ---
 

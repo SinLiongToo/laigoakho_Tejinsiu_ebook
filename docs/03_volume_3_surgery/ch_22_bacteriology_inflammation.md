@@ -38,7 +38,7 @@
 I-ha̍k ná chìn-pō͘, pīⁿ ê goân-in ná káng-kiù, lán chai pīⁿ ê iân-kò͘ khah chōe sī tùi bî-seng-bu̍t khí. Kūn-lâi i-seng khah bián-kióng káng-kiù chiah ê bî-seng-bu̍t ê sū.
 
 > **【全漢對照】**
-> 醫學那進步，病的原因那講求，咱知病的緣故較多是對微生物起。近來醫生較勉強（勉勵）講求諸個微生物的事。
+> 醫學那進步，病的原因那講求，咱知病的緣故較多是對微生物起。近來醫生較勉強（勉勵）講求諸个微生物的事。
 
 ---
 
@@ -98,7 +98,7 @@ Tē 187 tô.—Chhit ian-thâu chòe pôe-iúⁿ-hoat. (Morrow, from Sanders' "M
 
 > **【全漢對照】**
 > 【顯微鏡／培養法／染色】
-> ……微生物。有三個法度，伊時常咧用來傍贊伊的講究：第一，顯微鏡；這个器具，會將第一細、目珠所看𣍐見的物擴大，予𪜶看會明。第二，是培養法（培養法，*culture method*；第 186-188 圖）。這號培養法是用膠、牛肉汁、血清、牛奶、番薯、海菜（*agar-agar*），諸個物來飼細菌予伊發生；續閣再將新的細菌來檢驗。第三，是用染色較好的，通較快看著彼个微生物。
+> ……微生物。有三个法度，伊時常咧用來傍贊伊的講究：第一，顯微鏡；這个器具，會將第一細、目珠所看𣍐見的物擴大，予𪜶看會明。第二，是培養法（培養法，*culture method*；第 186-188 圖）。這號培養法是用膠、牛肉汁、血清、牛奶、番薯、海菜（*agar-agar*），諸个物來飼細菌予伊發生；續閣再將新的細菌來檢驗。第三，是用染色較好的，通較快看著彼个微生物。
 
 ---
 
@@ -165,7 +165,7 @@ Mûi-to̍k, *malaria* jia̍t, chhiah-lī ê chit hāng ê goân-in, sī tōng-bu
 > 
 > **2. 動物性微生物 （動物性微生物，*Animal organism*）**
 > 
-> 梅毒、*malaria* 熱（瘧疾熱）、赤痢的彼項的原因，是動物性微生物；總是在遮所欲講起的，較多是植物性的。諸個植物性的微生物，有分幾若種，佇諸個的中間，細菌是第一要緊的。簡省來記微生物的表照下底：
+> 梅毒、*malaria* 熱（瘧疾熱）、赤痢的彼項的原因，是動物性微生物；總是在遮所欲講起的，較多是植物性的。諸个植物性的微生物，有分幾若種，佇諸个的中間，細菌是第一要緊的。簡省來記微生物的表照下底：
 
 ---
 
@@ -203,7 +203,7 @@ Sòe-khún ê thé ū n̄g hāng lâi chiaⁿ-i, lāi-bīn-ê chiū-sī chheng-c
 
 > **【全漢對照】**
 > 
-> 細菌的體有兩項來成伊，內面的就是清清無色幾粒的款式，叫做元形質（元形質，*protoplasm*，原生質）。外面旁有透光的包膜，無親像平常的組織細胞，諸個總名叫作細菌（細菌，*bacteria*；第 185、189 圖）。
+> 細菌的體有兩項來成伊，內面的就是清清無色幾粒的款式，叫做元形質（元形質，*protoplasm*，原生質）。外面旁有透光的包膜，無親像平常的組織細胞，諸个總名叫作細菌（細菌，*bacteria*；第 185、189 圖）。
 
 ---
 
@@ -253,7 +253,7 @@ Nā iáu-bē kiám-un, m̄-thang kì chha-put-to lōa-chōe tō͘.
 îⁿ-kiû-chōng, á-sī pîⁿ-kiû-chōng. Chit ê kiû-khún, ū-ê kan-ta chit lia̍p, ū-ê kúi-nā lia̍p tī siāng só͘-chāi ; hit ê miâ bô sio-siāng, Nn̄g lia̍p saⁿ óa, kiò-chòe siang-kiû-khún (diplococci). Nā saⁿ-kap chòe chit tīn, chhin-chhiūⁿ phû-tô ê khoán, kiò-chòe phû-tô-chōng-kiû-khún (葡萄狀球菌, staphylococci). Liân-sòa tn̂g-tn̂g chhin-chhiūⁿ liān-á ê khoán, kiò-chòe liân-só-chōng-kiû-khún (連鎖狀球菌, streptococci).
 
 > **【全漢對照】**  
-> 圓球狀，抑是扁球狀。此個球菌，有的干焦一粒，有的幾若粒佇相同所在；彼個名無相同，兩粒相倚，叫做雙球菌 (diplococci)。若相佮做一陣，親像葡萄的款，叫做葡萄狀球菌 （葡萄狀球菌，staphylococci）。連續長長親像鍊仔的款，叫做連鎖狀球菌 （連鎖狀球菌，streptococci）。
+> 圓球狀，抑是扁球狀。此个球菌，有的干焦一粒，有的幾若粒佇相同所在；彼个名無相同，兩粒相倚，叫做雙球菌 (diplococci)。若相佮做一陣，親像葡萄的款，叫做葡萄狀球菌 （葡萄狀球菌，staphylococci）。連續長長親像鍊仔的款，叫做連鎖狀球菌 （連鎖狀球菌，streptococci）。
 
 ---
 
@@ -328,7 +328,7 @@ Sòe-khún tī tó-ūi? Tī khong-khì-nih, tī chúi-nih iā ū. Khong-khì ê 
 ...siau-hòa-khì, tàk ūi ê só͘-chāi lóng ū sòe-khún. Pêng-siông chheng-khì, iáu-bē siau-to̍k ê chhiú-nih ū chha-put-to chi̍t pah chéng ê bî-seng-bu̍t, chóng-sī chiah-ê m̄-sī lóng-chóng ōe hō͘ lâng hoat pīⁿ, ū-ê ōe hoat-pīⁿ-sèng, ū-ê bōe.
 
 > **【全漢對照】**
-> ……消化器，逐位的所在攏有細菌。平常清潔、猶未消毒的手裡有差不多一百種的微生物，總是諸個毋是攏總會予人發病，有的會發病性，有的𣍐。
+> ……消化器，逐位的所在攏有細菌。平常清潔、猶未消毒的手裡有差不多一百種的微生物，總是諸个毋是攏總會予人發病，有的會發病性，有的𣍐。
 
 ---
 
@@ -337,7 +337,7 @@ Sòe-khún tī tó-ūi? Tī khong-khì-nih, tī chúi-nih iā ū. Khong-khì ê 
 Sòe-khún cháiⁿ-iūⁿ ōe hō͘ lâng phòa-pīⁿ? Chiah ê sòe-khún nā kàu lâng ê sin-thé, bô it-tēng ōe thoân-jiám, sī in-ūi lâng ū tí-khòng sòe-khún ê la̍t. Lâng nā khah ióng, chit ê la̍t chiū khah chōe, lâng nā soe-jio̍k chit ê la̍t khah chió, khah khoài jiám-tio̍h. Phê-hu í-ki̍p liām-mo̍h, nā ū siong, á-sī koan-chat nā siū-siong, chiū hō͘ sòe-khún khah khoài ji̍p. Chit hō tí-khòng-la̍t nā khah kiông, lâng chiū khah bōe phòa-pīⁿ. Lâng nā hó kéng-gū (境遇, environment), i ê tí-khòng-la̍t ōe khah kiông; nā pháiⁿ kéng-gū, chit hō la̍t chiū khah jio̍k. Chhin-chhiūⁿ lâng tòa tī ak-chak ê só͘-chāi, khah bô sin ê khong-khì, si̍t-bu̍t bô kàu-gia̍h, chòe kang á-sī tha̍k chheh kè-thâu, ū bān-sèng pīⁿ, chiah-ê ōe hō͘ tí-khòng-la̍t kiám-chió, tì-kàu khah ōe tú-tio̍h phòa-pīⁿ.
 
 > **【全漢對照】**
-> 細菌怎樣會予人破病？諸個細菌若到人的身體，無一定會傳染，是因為人有抵抗細菌的力。人若較勇，這个力就較濟；人若衰弱，這个力較少，較快染著。皮膚以及黏膜若有傷，抑是關節若受傷，就予細菌較快入。這號抵抗力若較強，人就較𣍐破病。人若好境遇（境遇，environment），伊的抵抗力會較強；若歹境遇，這號力就較弱。親像人蹛佇污濁的所在、較無新的空氣、食物無夠額、做工抑是讀冊過頭、有慢性病，諸個會予抵抗力減少，致到較會抵著破病。
+> 細菌怎樣會予人破病？諸个細菌若到人的身體，無一定會傳染，是因為人有抵抗細菌的力。人若較勇，這个力就較濟；人若衰弱，這个力較少，較快染著。皮膚以及黏膜若有傷，抑是關節若受傷，就予細菌較快入。這號抵抗力若較強，人就較𣍐破病。人若好境遇（境遇，environment），伊的抵抗力會較強；若歹境遇，這號力就較弱。親像人蹛佇污濁的所在、較無新的空氣、食物無夠額、做工抑是讀冊過頭、有慢性病，諸个會予抵抗力減少，致到較會抵著破病。
 
 ---
 
@@ -355,7 +355,7 @@ Lâng á-sī hā-téng ê tōng-bu̍t, tú-tio̍h thoân-jiám pīⁿ ê goân-i
 Sian-thian-bián-e̍k, sī tùi chhut-sì chū-jiân ū bián-e̍k-sèng. Chhin-chhiūⁿ káu bōe jiám-tio̍h sió-tng-jia̍t, á-sī lâng pêng-siông só͘ ōe jiám-tio̍h ê thoân-jiám pīⁿ. Lūn chiah ê pīⁿ sī in-ūi káu ū sian-thian-sèng-bián-e̍k ê tí-khòng-la̍t. Ū-ê lâng nā chèng-chu, bōe chhut chu, sī in-ūi i ū thian-jiân-chu (*small-pox*) sian-thian-bián-e̍k.
 
 > **【全漢對照】**
-> 先天免疫，是對出世自然有免疫性。親像狗𣍐染著小腸熱（傷寒），抑是人平常所會染著的傳染病。論諸個病是因為狗有先天性免疫的抵抗力。有的人若種珠（種痘），𣍐出珠，是因為伊有天然珠（*small-pox*）先天免疫。
+> 先天免疫，是對出世自然有免疫性。親像狗𣍐染著小腸熱（傷寒），抑是人平常所會染著的傳染病。論諸个病是因為狗有先天性免疫的抵抗力。有的人若種珠（種痘），𣍐出珠，是因為伊有天然珠（*small-pox*）先天免疫。
 
 ---
 
@@ -396,7 +396,7 @@ Chū-tōng-bián-e̍k chiū-sī tùi pīⁿ-lâng pún-sin seng-khu só͘ hoat-h
 > **【全漢對照】**
 > 1. 自動免疫（自動免疫，*Active immunity*）。
 > 2. 他動免疫（他動免疫，*Passive immunity*）。
-> 自動免疫就是對病人本身身軀所發現的免疫，照彼個話講自動，自己振動。這號自動免疫有兩條路通予人得著：(1) 經過破病了，(2) 對種珠，就是人的人工做的。
+> 自動免疫就是對病人本身身軀所發現的免疫，照彼个話講自動，自己振動。這號自動免疫有兩條路通予人得著：(1) 經過破病了，(2) 對種珠，就是人的人工做的。
 
 ---
 
@@ -410,7 +410,7 @@ Sió-tn̂g-jia̍t (小腸熱, *Enteric fever*).
 Hoat-chín-chì-hû-su-jia̍t (發疹窒扶斯熱, *Typhus fever*).
 
 > **【全漢對照】**
-> 人若經過傳染病，這個病的原因（細菌）會刺激伊的血，予血發現這號免疫質（*immune body*），致到彼個人毋免閣染著彼個病；親像人抵著天然珠，好了後，若佮有這號病的病人交陪，猶原𣍐染著；因為伊身軀內有生免疫質；這個對經過病得著的免疫，有時一世人𣍐閣染著，親像諸個病：
+> 人若經過傳染病，這个病的原因（細菌）會刺激伊的血，予血發現這號免疫質（*immune body*），致到彼个人毋免閣染著彼个病；親像人抵著天然珠，好了後，若佮有這號病的病人交陪，猶原𣍐染著；因為伊身軀內有生免疫質；這个對經過病得著的免疫，有時一世人𣍐閣染著，親像諸个病：
 > 猩紅熱（猩紅熱，*Scarlet fever*）。
 > 水珠（水痘，*Varicella*）。
 > 耳下腺炎（耳下腺炎，*Parotitis*）。
@@ -425,7 +425,7 @@ Tan-to̍k (丹毒, *Erysipelas*).
 Si̍t-hû-tek-lí-a (實扶的里亞, *Diphtheria*).
 
 > **【全漢對照】**
-> 人若經過諸個病，會閣染著是罕得。曾有人染著小腸熱第二擺，總講這個猶原是罕得。經過別款的病所受著的免疫質，是小寡，也這個免疫是暫時若定。諸個病是親像：
+> 人若經過諸个病，會閣染著是罕得。曾有人染著小腸熱第二擺，總講這个猶原是罕得。經過別款的病所受著的免疫質，是小寡，也這个免疫是暫時若定。諸个病是親像：
 > 丹毒（丹毒，*Erysipelas*）。
 > *Malaria* 熱（瘧疾熱）。
 > 實扶的里亞（實扶的里亞，*Diphtheria* / 白喉）。
@@ -446,7 +446,7 @@ Lú-mâ-chit-su (僂痲質斯, *Rheumatism*). Lâng nā keng-kè chiah ê pīⁿ
 > **【全漢對照】**
 > 肺炎（肺炎，*Pneumonia*）。
 > 
-> 僂痲質斯（僂痲質斯，*Rheumatism*）。人若經過諸個病，閣一擺閣染著，是比無染著的人，閣較快。
+> 僂痲質斯（僂痲質斯，*Rheumatism*）。人若經過諸个病，閣一擺閣染著，是比無染著的人，閣較快。
 
 ---
 
@@ -455,7 +455,7 @@ Lú-mâ-chit-su (僂痲質斯, *Rheumatism*). Lâng nā keng-kè chiah ê pīⁿ
 Nā ēng hit hō pīⁿ ê goân-in ê to̍k, khah khin ê gia̍h-sò͘ lâi jiám-tio̍h lâng, i ōe tú-tio̍h hit ê pīⁿ, chóng-sī khah khin--ê. Chhin-chhiūⁿ chèng-chu ê sî, sī beh hō͘ lâng seng-khu-lāi, jiám-tio̍h khah khin ê thian-jiân-chu. Keng-kè chit hō pīⁿ ê sî, chiàu téng-bīn só͘ kóng, lâng ê seng-khu-lāi ōe hoat-hiān bián-ėk-chit. Chit-ê kiò-chòe jîn-kong-bián-ėk (人工免疫) hoat ê chi̍t chéng, iā sī chū-tōng-bián-ėk.
 
 > **【全漢對照】**
-> 若用彼號病的原因的毒，較輕的額數來染著人，伊會抵著彼個病，總是較輕的。親像種珠的時，是要互人生軀內，染著較輕的天然珠。經過這號病的時，照頂面所講，人的生軀內會發現免疫質。這個叫做人工免疫（人工免疫）發的一種，也是自動免疫。
+> 若用彼號病的原因的毒，較輕的額數來染著人，伊會抵著彼个病，總是較輕的。親像種珠的時，是要互人生軀內，染著較輕的天然珠。經過這號病的時，照頂面所講，人的生軀內會發現免疫質。這个叫做人工免疫（人工免疫）發的一種，也是自動免疫。
 
 ---
 
@@ -473,7 +473,7 @@ Nā ēng hit ê chū-tōng-bián-ėk-sèng ê tōng-bu̍t huih-chheng, lâi chù
       * Jîn-kong-bián-ėk, chù-siā khòng-tók-huih-chheng.
 
 > **【全漢對照】**
-> 若用彼個自動免疫性的動物血清，來注射第二的動物抑是人，連鞭會互這個受著的動物得著免疫質。這個叫做他動免疫。這個是因為彼隻動物的血有發現免疫質，抑是通叫做抗毒素（抗毒素，*antitoxin*）；也這號血清叫做抗毒血清（抗毒血清，*antitoxic serum*）。［也看第 37 章］。佇下底的表有記幾若種的免疫：
+> 若用彼个自動免疫性的動物血清，來注射第二的動物抑是人，連鞭會互這个受著的動物得著免疫質。這个叫做他動免疫。這个是因為彼隻動物的血有發現免疫質，抑是通叫做抗毒素（抗毒素，*antitoxin*）；也這號血清叫做抗毒血清（抗毒血清，*antitoxic serum*）。［也看第 37 章］。佇下底的表有記幾若種的免疫：
 > 
 > * **免疫**
 >   * 先天免疫
@@ -546,9 +546,9 @@ Téng-bīn chit saⁿ hāng hoat-tō͘, kài khoài chhì-giām, chóng-sī nā 
 
 > **【全漢對照】**
 > 愛知炎症的形狀，若用芥辣杷布（芥末敷布）放置人的皮膚頂，就通試驗。
-> 1. 用芥辣杷布放置好皮膚的頂面，有十分鐘久，就顯出炎症的款式，總是有彼個紅色的皮，若用力共伊揤，紅色會徙開去。
-> 2. 用芥辣杷布若放置有一點鐘久，彼個炎就較重，雖然用力共伊揤，紅色𣍐徙開去。
-> 3. 若閣加放置一點鐘，彼個紅色唔若𣍐徙開，閣會膨脬。
+> 1. 用芥辣杷布放置好皮膚的頂面，有十分鐘久，就顯出炎症的款式，總是有彼个紅色的皮，若用力共伊揤，紅色會徙開去。
+> 2. 用芥辣杷布若放置有一點鐘久，彼个炎就較重，雖然用力共伊揤，紅色𣍐徙開去。
+> 3. 若閣加放置一點鐘，彼个紅色唔若𣍐徙開，閣會膨脬。
 > 頂面這三項法度，極快試驗，總是有若用別物款的惹動皮膚的藥，親像 *acidum aceticum*（醋酸），亦會試驗得。
 
 ---
@@ -573,7 +573,7 @@ Téng-bīn só kóng: 1. Tē it tō sī huih siuⁿ chōe ê iām-chèng, in-ūi
 2. Tē jī tō͘ iām-chèng ê sî, ēng chhiú chhih, hit ê âng-sek lóng bô cháu-choa̍h, he miâ kiò hiat-hêng-chēng-chí (血行動止, stasis), ū-sî kiò-chòe ut-huih (鬱血).
 
 > **【全漢對照】**
-> 2. 第二度炎症的時，用手揤，彼個紅色攏無走掣，彼名叫血行動止（stasis），有時叫做鬱血。
+> 2. 第二度炎症的時，用手揤，彼个紅色攏無走掣，彼名叫血行動止（stasis），有時叫做鬱血。
 
 ---
 
@@ -589,7 +589,7 @@ Téng-bīn só kóng: 1. Tē it tō sī huih siuⁿ chōe ê iām-chèng, in-ūi
 Tē it hó ê chhì-giām hoat, sī ēng hián-bî-kiàⁿ lâi khòaⁿ súi-koe-chíuⁿ, chiū-sī thàu kng ê mo̍h, thàu bêng ê cho͘-chit, chiū ōe khòaⁿ-kìⁿ m̂ng-sòe-huih-kńg-lāi ê chhiah-huih-kiû, kap pe̍h-huih-kiû, teh liû-hêng ê khoán-sit, kap téng-bīn só͘ kóng iām-chèng ê hêng-chōng. Nā tī só͘ khòaⁿ-kìⁿ ê huih-kiû tín-tāng ê só͘-chāi, sió-khóa kā i tiám tām-po̍h khí-iām-che chhin-chhiūⁿ *acidum aceticum*, chiū thang khòaⁿ-kìⁿ m̂ng-sòe-huih-kńg khok-tiong; kńg-lāi ê huih teh lâu, teh tín-tāng, pí pêng-siông koh khah khoài. Hit sî nā kā i chhih, hit ê âng-sek ōe sóa-khui, hit ê huih iû-goân ōe lâu ōe tín-tāng, só͘-í miâ kiò-chòe chhiong-huih (充血, hyperæmia), ì-sù sī huih siuⁿ chōe. Chit-ê sī tē it tō͘. [Tē it tō͘]
 
 > **【全漢對照】**
-> 第一好的試驗法，是用顯微鏡來看水雞掌，就是透光的膜，透明的組織，就會看見毛細血管內的赤血球，佮白血球，咧流行的款式，佮頂面所講炎症的形狀。若佇所看見的血球振動的所在，小可共伊點淡薄起炎劑親像 *acidum aceticum*（醋酸），就通看見毛細血管擴張；管內的血咧流，咧振動，比平常閣較快。彼時若共伊揤，彼個紅色會徙開，彼個血猶原會流會振動，所以名叫充血（hyperæmia），意思是血傷濟。這個是第一度。〔第一度〕
+> 第一好的試驗法，是用顯微鏡來看水雞掌，就是透光的膜，透明的組織，就會看見毛細血管內的赤血球，佮白血球，咧流行的款式，佮頂面所講炎症的形狀。若佇所看見的血球振動的所在，小可共伊點淡薄起炎劑親像 *acidum aceticum*（醋酸），就通看見毛細血管擴張；管內的血咧流，咧振動，比平常閣較快。彼時若共伊揤，彼个紅色會徙開，彼个血猶原會流會振動，所以名叫充血（hyperæmia），意思是血傷濟。這个是第一度。〔第一度〕
 
 ---
 
@@ -597,7 +597,7 @@ Tē it hó ê chhì-giām hoat, sī ēng hián-bî-kiàⁿ lâi khòaⁿ súi-ko
 Nā khòaⁿ-kìⁿ huih ūn-tōng chiām-chiām ū khah bān, tiap-á-kú chiah thêng-khì, chit sî nā ēng la̍t kā i chhih, hit ê âng-sek bô sóa ūi, só͘-í miâ chòe hiat-hêng-chēng-chí (血行動止, stasis), á-sī ut-huih. Chit-ê sī tē jī tō͘.
 
 > **【全漢對照】**
-> 若看見血運動漸漸有較慢，霎仔久才停去，這時若用力共伊揤，彼個紅色無徙位，所以名做血行動止（stasis），抑是鬱血。這個是第二度。
+> 若看見血運動漸漸有較慢，霎仔久才停去，這時若用力共伊揤，彼个紅色無徙位，所以名做血行動止（stasis），抑是鬱血。這个是第二度。
 
 ---
 
@@ -605,7 +605,7 @@ Nā khòaⁿ-kìⁿ huih ūn-tōng chiām-chiām ū khah bān, tiap-á-kú chiah
 Koh khòaⁿ-kìⁿ huih-tiong ê huih-chiuⁿ, tùi m̂ng-sòe-huih-kńg siàm-chhut-lâi, só͘-í kiò siàm-chhut-sèng-iām. Chit-ê sī tē saⁿ tō͘.
 
 > **【全漢對照】**
-> 閣看見血中的血漿，對毛細血管滲出來，所以叫滲出性炎。這個是第三度。
+> 閣看見血中的血漿，對毛細血管滲出來，所以叫滲出性炎。這个是第三度。
 
 ---
 
@@ -649,7 +649,7 @@ Iām-chèng ê sî, huih-nih ê huih-chiuⁿ tùi m̂ng-sòe-huih-kńg siàm-chh
 Chhin-chhiūⁿ ēng kài-loa̍h-phâ-pò͘ hō͘ lâng ê phê-bah khí-phâ, hit ê huih ê pe̍h-kiû siàm-chhut--lâi, huih-chiuⁿ iā siàm-chhut--lâi, chhiah-huih-kiû iā chhut--lâi huih-kńg-gōa, kàu kiat-tè-chit.
 
 > **【全漢對照】**
-> 親像用芥辣葩布予人的皮肉起泡，彼個血的白球滲出--來，血漿也滲出--來，赤血球也出--來血管外，到結締織。
+> 親像用芥辣葩布予人的皮肉起泡，彼个血的白球滲出--來，血漿也滲出--來，赤血球也出--來血管外，到結締織。
 
 ---
 
@@ -658,7 +658,7 @@ Chhin-chhiūⁿ ēng kài-loa̍h-phâ-pò͘ hō͘ lâng ê phê-bah khí-phâ, h
 Pe̍h-huih-kiû ū chi̍t-ê te̍k-pia̍t ê miâ, kiò-chòe chia̍h-khún-sòe-pau (食菌細胞, phagocyte). Chit-ê sī ná chhin-chhiūⁿ sàu koe-lō͘-ê, in-ūi i ê kong-iōng ê chi̍t hāng, sī teh chia̍h huih-lāi it-khài bô-lō͘-ēng ê mi̍h, kap teh siau-hòa lóng-chóng ê bî-seng-bu̍t, kā i phah-bia̍t; thèng-hāu i só͘ tio̍h chòe ê sū chòe liáu, i pún thé iā sòa siau-hòa bô--khì (tē 190 tô͘).
 
 > **【全漢對照】**
-> 白血球有一個特別的名，叫做食菌細胞（食菌細胞，phagocyte）。這個是若親像掃街路的，因為伊的功用的一項，是咧食血內一切無路用的物，佮咧消化攏總的微生物，共伊撲滅；聽候伊所著做的事做了，伊本體也續消化無--去（第 190 圖）。
+> 白血球有一个特別的名，叫做食菌細胞（食菌細胞，phagocyte）。這个是若親像掃街路的，因為伊的功用的一項，是咧食血內一切無路用的物，佮咧消化攏總的微生物，共伊撲滅；聽候伊所著做的事做了，伊本體也續消化無--去（第 190 圖）。
 
 ---
 
@@ -709,7 +709,7 @@ Nā-sī chit gō hāng lóng ū, chiū chai tiāⁿ-tio̍h sī iām-chèng; nā 
 1. Hoat âng sī huih-kńg tiùⁿ, pí pêng-siông sî ê huih khah chōe, hit ê âng sī tùi chhiah-huih-kiû chōe ê iân-kò͘. Âng-sek ê tōa sió, sī chāi iām ê khin-tāng. Nā-sī ōe khoài hó ê iām-chèng, i ê sek chin âng iā khah chheng. Nā khah oh-tit hó ê iām-chèng, hit ê âng ê
 
 > **【全漢對照】**
-> 1. 發紅是血管脹，比平常時的血較濟，彼個紅是對赤血球濟的緣故。紅色的量（大小），是在炎的輕重。若是會快好的炎症，伊的色真紅也較清。若較僫得好的炎症，彼個紅的。..
+> 1. 發紅是血管脹，比平常時的血較濟，彼个紅是對赤血球濟的緣故。紅色的量（大小），是在炎的輕重。若是會快好的炎症，伊的色真紅也較清。若較僫得好的炎症，彼个紅的。..
 
 <!-- Page 331 End -->
 
@@ -795,7 +795,7 @@ Tio̍h khoán-thāi pīⁿ-lâng chhin-chhiūⁿ ka-kī.
 tāng. Ū-sî kiám-chhái chi̍t lâng ê seng-khu, ū nñg liáp ê tōa lâng-iông (膿瘍, *abscess*), hit ê lâng iā bōe sím-mi̍h bô sóng-khoài; nā ū chéng-khí-lâi, hoat kiat-tè-chit-iām-chèng, i ê seng-khu tiāⁿ-tio̍h sī bô sóng-khoài; hit ê hoat-jia̍t iā chin tāng.
 
 > **【全漢對照】**
-> 重。有時減採一個人的身軀，有兩粒的大膿瘍（膿瘍，*abscess*），彼個人也袂甚麼無爽快；若有腫起來，發結締織炎症，伊的身軀定著是無爽快；彼個發熱也真重。
+> 重。有時減採一个人的身軀，有兩粒的大膿瘍（膿瘍，*abscess*），彼个人也袂甚麼無爽快；若有腫起來，發結締織炎症，伊的身軀定著是無爽快；彼个發熱也真重。
 
 ---
 
@@ -849,7 +849,7 @@ Tē saⁿ : Hit lāi-bīn ê kiat-tè-chit á-sī kun-bah nōa-khì, hùn lâng,
 Tē sì : Nā hit ê phê-bah nōa-khì, kiò-chòe ùi-iông (潰瘍, *ulcer*).
 
 > **【全漢對照】**
-> 第四：若彼個皮肉爛去，叫做潰瘍（潰瘍，*ulcer*）。
+> 第四：若彼个皮肉爛去，叫做潰瘍（潰瘍，*ulcer*）。
 
 ---
 
@@ -897,7 +897,7 @@ Tī-liâu: Kì-jiân chai iām-chèng ê iân-kò͘ m̄-nā chi̍t khoán, só͘
 Nā-sī phah-tio̍h, kòng-tio̍h, kháp-tio̍h, hiah-ê, tio̍h ēng siau-iām-che kā kô, chhin-chhiūⁿ, *lotio plumbi*. Seng chiong siau-iām-che hē tī sè ê phûn-lāi, chiah hē peng lo̍h-khì, ēng chi̍t tè pò chìm hit lāi-bīn, chìm kàu tâm, chiah tah hit ê hoat-iām ê só͘-chāi, iā lēng-gōa koh chìm chi̍t tè thang lâi thè-ōaⁿ.
 
 > **【全漢對照】**
-> 若是拍著、摃著、磕著，遐的，著用消炎劑共糊，親像，*lotio plumbi*。先將消炎劑下佇細的盆內，才下冰落去，用一塊布浸彼內面，浸到濕，才貼彼個發炎的所在，也另外閣浸一塊通來替換。
+> 若是拍著、摃著、磕著，遐的，著用消炎劑共糊，親像，*lotio plumbi*。先將消炎劑下佇細的盆內，才下冰落去，用一塊布浸彼內面，浸到濕，才貼彼个發炎的所在，也另外閣浸一塊通來替換。
 
 ---
 
@@ -911,7 +911,7 @@ Koh chi̍t hāng ê hoat-tō͘, chiū-sī *lotio acidi borici* un-sip-pò, chiū
 Nā-sī kiat-tè-chit hoat-iām, i-seng beh kā i thâi, hō͘ hit ê í-keng siàm-chhut ê mi̍h chhut-lâi, kiò-chòe kiám-tiùⁿ-chhiat-khui. Nā ū chek lâng, i-seng beh thâi hō͘ lâng chhut-lâi, āu-lâi tio̍h ēng *lotio acidi borici* un-sip-pò.
 
 > **【全漢對照】**
-> 若是結締織發炎，醫生欲共伊割，互彼個已經滲出的物出來，叫做減張切開。若有積膿，醫生欲割互膿出來，後來著用 *lotio acidi borici* 溫濕布。
+> 若是結締織發炎，醫生欲共伊割，互彼个已經滲出的物出來，叫做減張切開。若有積膿，醫生欲割互膿出來，後來著用 *lotio acidi borici* 溫濕布。
 
 ---
 
